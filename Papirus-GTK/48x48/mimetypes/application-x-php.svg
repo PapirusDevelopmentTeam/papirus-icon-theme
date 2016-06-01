@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg4357" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48.000001 48.000001" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4359">
+  <clipPath id="clipPath4266-4" clipPathUnits="userSpaceOnUse">
+   <path id="path4268-0" fill="#fff" d="m146 240c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-12-12h-18z"/>
+  </clipPath>
+  <filter id="filter4987" y="-.11143" width="1.26" height="1.2229" x="-.13">
+   <feGaussianBlur id="feGaussianBlur4989" stdDeviation="0.65"/>
+  </filter>
+ </defs>
+ <metadata id="metadata4362">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1004.4)">
+  <path id="path4754" opacity=".1" style="enable-background:new" d="m163.22 242.45v11c0 1.1046 0.89543 2 2 2h10l-1-1-10-9z" clip-path="url(#clipPath4266-4)" transform="translate(-135.61 766.64)" filter="url(#filter4987)"/>
+  <path id="path4750" d="m10 1008.4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z" fill="#977dc1"/>
+  <path id="path4752" opacity=".2" d="m10 1008.4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z" fill="#fff"/>
+  <path id="path4756" d="m28 1008.4v10c0 1.1046 0.89543 2 2 2h10l-12-12z" fill="#b891f7"/>
+  <g id="g4160" transform="translate(3)" fill="#fff">
+   <path id="path4456" d="m20 1028.4v3l-4.5 4 4.5 4v3l-7.9999-6.8672z"/>
+   <g id="g4156" transform="translate(-4.9999)">
+    <path id="path4363" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m29 1028.4a1.0001 1.0001 0 0 0 -1 1v2a1.0001 1.0001 0 1 0 2 0v-1h2v3.4648l-2.5547 1.7032a1.0001 1.0001 0 0 0 -0.445 0.8v2a1.0001 1.0001 0 1 0 2 0v-1.4648l2.5547-1.7032a1.0001 1.0001 0 0 0 0.445 -0.8v-5a1.0001 1.0001 0 0 0 -1 -1h-4z"/>
+    <circle id="path4369" cy="1041.4" cx="30" r="1"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <linearGradient id="linearGradient4144">
+   <stop id="stop4148" stop-opacity="0" offset="0"/>
+   <stop id="stop4146" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4150" y2="-24" xlink:href="#linearGradient4144" gradientUnits="userSpaceOnUse" x2="-24" y1="-24" x1="-44"/>
+  <linearGradient id="linearGradient4156" y2="-24" xlink:href="#linearGradient4144" gradientUnits="userSpaceOnUse" x2="-24" gradientTransform="scale(-1)" y1="-24" x1="-44"/>
+ </defs>
+ <rect id="rect4203-6" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#66a6de"/>
+ <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="path4597" opacity=".3" d="m6 44c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <g id="g4139">
+  <path id="path4183" fill="#fff" d="m22 15a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
+  <path id="path4194" d="m22 34a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z" fill="#4d4d4d"/>
+ </g>
+ <g id="g4143" transform="matrix(1,0,0,-1,18,49)">
+  <path id="path4145" fill="#fff" d="m22 15a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
+  <path id="path4147" fill="#4d4d4d" d="m22 34a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
+ </g>
+ <path id="rect4141" opacity=".1" d="m-42-44h18v40h-18c-1.108 0-2-0.892-2-2v-36c0-1.108 0.892-2 2-2z" transform="matrix(0,-1,-1,0,0,0)" fill="url(#linearGradient4150)"/>
+ <path id="path4154" opacity=".1" d="m42 44h-18v-40h18c1.108 0 2 0.892 2 2v36c0 1.108-0.892 2-2 2z" fill="url(#linearGradient4156)"/>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle id="path4188" style="color:#000000;enable-background:accumulate" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+  </clipPath>
+ </defs>
+ <g id="layer2" transform="translate(-424,-428)">
+  <circle id="path4240" opacity="0" style="color:#000000;enable-background:accumulate" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10"/>
+  <circle id="path4242" opacity="0" style="color:#000000;enable-background:accumulate" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10"/>
+  <path id="path4154" opacity=".5" d="m8 1a7 7 0 0 0 -7 7 7 7 0 0 0 7 7 7 7 0 0 0 7 -7 7 7 0 0 0 -7 -7zm-4 3h2v0.0059l0.002-0.002 1.998 2.9961 2-3h0.002 1.998v8h-2v-4l-2 2-2-2v4h-2v-8z" transform="translate(424,428)"/>
+ </g>
+</svg>

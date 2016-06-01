@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <linearGradient id="linearGradient4365" y2="25.313" gradientUnits="userSpaceOnUse" x2="28.615" gradientTransform="matrix(-1,0,0,1,48,0)" y1="21" x1="24">
+   <stop id="stop4361" offset="0"/>
+   <stop id="stop4363" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4373" y2="36.388" gradientUnits="userSpaceOnUse" x2="12.189" y1="34.828" x1="31.427">
+   <stop id="stop4369" offset="0"/>
+   <stop id="stop4371" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g4295">
+  <path id="polygon3877" d="m24 28-8.5 4.3-3.5-1.2v5.4l12 7.5 12-7.5v-4.8l-3.5 2.2z" fill="#37a0f2"/>
+  <path id="path4357" opacity=".05" d="m24 28v16l12-7.5v-4.8l-3.5 2.2z" fill="url(#linearGradient4373)"/>
+  <g id="g4346" fill="#99cff8">
+   <path id="path4339" fill="#99cff8" d="m16 7l-12 7.5 8 6.5 12-7-8-7zm8 7l12 7 8-6.5-12-7.5-8 7zm12 7l-12 7 8 7 12-7.5-8-6.5zm-12 7l-12-7-8 6.5 12 7.5 8-7z"/>
+  </g>
+  <path id="rect4352" d="m36 21-12 7-12-7 12-7z" fill="#88c0ec"/>
+  <path id="path4355" opacity=".05" d="m12 21 12 7 0.000001-14z" fill="url(#linearGradient4365)"/>
+  <path id="path4267" opacity=".3" d="m12 35.5v1l12 7.5 12-7.5v-1l-12 7.5-12-7.5z"/>
+ </g>
+</svg>

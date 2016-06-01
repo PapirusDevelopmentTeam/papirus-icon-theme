@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <radialGradient id="radialGradient2429" gradientUnits="userSpaceOnUse" cy="8.4179" cx="19.063" gradientTransform="matrix(1.0343 0 0 .79462 -.17248 5.8754)" r="11">
+   <stop id="stop5750" stop-color="#484848" offset="0"/>
+   <stop id="stop5752" stop-color="#333" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient4721" y2="5.9236" gradientUnits="userSpaceOnUse" y1="26.512" gradientTransform="matrix(.6875 0 0 .66667 7.5 4)" x2="24.102" x1="24.756">
+   <stop id="stop4725" stop-color="#fff" offset="0"/>
+   <stop id="stop4727" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect4203" ry="2" rx="2" transform="scale(-1,1)" height="40" width="32" y="3" x="-40" fill="#d2d2d2"/>
+ <rect id="rect4717" opacity=".15" fill-rule="evenodd" rx=".41250" ry="0.4" height="14" width="22" y="8" x="13" fill="url(#linearGradient4721)"/>
+ <rect id="rect4140" stroke-linejoin="round" fill-rule="evenodd" rx="0" ry="0" height="11" width="19" stroke="#363636" stroke-linecap="round" stroke-miterlimit="3.4286" y="9.4999" x="14.5" stroke-width=".99974" fill="url(#radialGradient2429)"/>
+ <path id="rect4149" opacity=".2" d="m10 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff"/>
+ <path id="rect4154" opacity=".3" d="m8 40v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
+ <path id="path4206" opacity=".2" d="m15 28c-0.554 0-1 0.446-1 1v2h-2c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1h-2v-2c0-0.554-0.446-1-1-1h-2z" fill="#fff"/>
+ <path id="rect4354" d="m15 27c-0.554 0-1 0.446-1 1v2h-2c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1h-2v-2c0-0.554-0.446-1-1-1h-2z" fill="#697e83"/>
+ <circle id="circle4210" opacity=".2" cy="30" cx="35" r="2" fill="#fff"/>
+ <circle id="circle4212" opacity=".2" cx="29" cy="30" r="2" fill="#fff"/>
+ <circle id="circle4214" opacity=".2" cx="35" cy="36" r="2" fill="#fff"/>
+ <circle id="circle4216" opacity=".2" cy="36" cx="29" r="2" fill="#fff"/>
+ <circle id="path4359" cx="35" cy="29" r="2" fill="#ef5646"/>
+ <circle id="circle4361" cy="29" cx="29" r="2" fill="#ef5646"/>
+ <circle id="circle4369" cy="35" cx="35" r="2" fill="#eb9200"/>
+ <circle id="circle4371" cx="29" cy="35" r="2" fill="#eb9200"/>
+</svg>
