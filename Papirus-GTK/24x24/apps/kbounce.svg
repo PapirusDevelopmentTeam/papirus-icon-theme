@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="24"
+   width="24"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kbounce.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-4.5254237"
+     inkscape:cy="4.7775172"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2819">
+    <clipPath
+       id="clipPath4186"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         id="path4188"
+         style="color:#000000"
+         cx="286"
+         cy="26"
+         r="10"
+         fill="url(#linearGradient4190)" />
+    </clipPath>
+  </defs>
+  <g
+     id="g4140"
+     transform="scale(0.5,0.5)">
+    <circle
+       r="20"
+       cy="24"
+       cx="24"
+       style="color:#000000;fill:#37a0f2"
+       id="path4230" />
+    <circle
+       cx="286"
+       cy="26"
+       transform="matrix(2,0,0,2,-548,-28)"
+       r="10"
+       clip-path="url(#clipPath4186)"
+       style="color:#000000;opacity:0;stroke-width:0.45455"
+       id="path4240" />
+    <circle
+       cx="286"
+       cy="26"
+       transform="matrix(2,0,0,2,-548,-28)"
+       r="10"
+       clip-path="url(#clipPath4186)"
+       style="color:#000000;opacity:0;stroke-width:0.90908998"
+       id="path4242" />
+    <path
+       d="M 24,4 C 12.921,4 4.002,12.92 4.002,24 c 0,0.16772 -0.004,0.33329 0,0.5 C 4.2662,13.654 13.089,5 24,5 c 10.911,0 19.734,8.6536 19.998,19.5 0.004,-0.16671 0,-0.33228 0,-0.5 C 43.998,12.92 35.079,4 24,4 Z"
+       id="rect3436"
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;fill:#ffffff" />
+    <path
+       d="M 43.979,23.418 A 20,20 0 0 1 24,43 20,20 0 0 1 4.022,23.582 20,20 0 0 0 4,24 20,20 0 0 0 24,44 20,20 0 0 0 44,24 20,20 0 0 0 43.979,23.418 Z"
+       style="color:#000000;opacity:0.3"
+       id="circle4330"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

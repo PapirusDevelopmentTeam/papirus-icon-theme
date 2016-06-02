@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="24"
+   width="24"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dropbox.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-4.5254237"
+     inkscape:cy="7.9322034"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2819">
+    <linearGradient
+       id="linearGradient4365"
+       y2="25.313"
+       gradientUnits="userSpaceOnUse"
+       x2="28.615"
+       gradientTransform="matrix(-1,0,0,1,48,0)"
+       y1="21"
+       x1="24">
+      <stop
+         id="stop4361"
+         offset="0" />
+      <stop
+         id="stop4363"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4373"
+       y2="36.388"
+       gradientUnits="userSpaceOnUse"
+       x2="12.189"
+       y1="34.828"
+       x1="31.427">
+      <stop
+         id="stop4369"
+         offset="0" />
+      <stop
+         id="stop4371"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g4295"
+     transform="matrix(0.5,0,0,0.5,0,-1)">
+    <path
+       id="polygon3877"
+       d="m 24,28 -8.5,4.3 -3.5,-1.2 0,5.4 12,7.5 12,-7.5 0,-4.8 -3.5,2.2 z"
+       inkscape:connector-curvature="0"
+       style="fill:#37a0f2" />
+    <path
+       id="path4357"
+       d="m 24,28 0,16 12,-7.5 0,-4.8 -3.5,2.2 z"
+       style="opacity:0.05;fill:url(#linearGradient4373)"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4346"
+       style="fill:#99cff8">
+      <path
+         id="path4339"
+         d="M 16,7 4,14.5 12,21 24,14 16,7 Z m 8,7 12,7 8,-6.5 L 32,7 24,14 Z m 12,7 -12,7 8,7 L 44,27.5 36,21 Z M 24,28 12,21 4,27.5 16,35 24,28 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#99cff8" />
+    </g>
+    <path
+       id="rect4352"
+       d="M 36,21 24,28 12,21 24,14 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#88c0ec" />
+    <path
+       id="path4355"
+       d="m 12,21 12,7 1e-6,-14 z"
+       style="opacity:0.05;fill:url(#linearGradient4365)"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4267"
+       d="m 12,35.5 0,1 12,7.5 12,-7.5 0,-1 L 24,43 12,35.5 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.3" />
+  </g>
+</svg>
