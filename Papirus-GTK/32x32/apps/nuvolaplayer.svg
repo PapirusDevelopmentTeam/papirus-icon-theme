@@ -14,7 +14,7 @@
    width="32"
    version="1.0"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="nuvolaplayer.svg">
+   sodipodi:docname="1nuvolaplayer.svg">
   <defs
      id="defs218" />
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1163"
-     inkscape:window-height="588"
+     inkscape:window-width="790"
+     inkscape:window-height="835"
      id="namedview216"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="13.732881"
      inkscape:cy="16"
-     inkscape:window-x="144"
-     inkscape:window-y="188"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1296,21 +1296,34 @@
        y="-1465.4517"
        x="1621.2083" /></text>
   <path
+     inkscape:connector-curvature="0"
      id="path5884"
-     style="enable-background:new"
-     fill="#d2d2d2"
-     d="m16 6c-3.883 0-7.1901 2.3053-8.6133 5.568-3.6147 0.521-6.3867 3.509-6.3867 7.159 0 4.017 3.3579 7.273 7.5 7.273h15.938c3.624 0 6.562-2.849 6.562-6.364 0-3.266-2.533-5.943-5.801-6.306-0.852-4.1703-4.649-7.33-9.199-7.33z" />
+     style="fill:#fa9f5a;fill-opacity:1;enable-background:new"
+     d="M 16,6 C 12.117,6 8.8099,8.3053 7.3867,11.568 3.772,12.089 1,15.077 1,18.727 1,22.744 4.3579,26 8.5,26 l 15.938,0 C 28.062,26 31,23.151 31,19.636 31,16.37 28.467,13.693 25.199,13.33 24.347,9.1597 20.55,6 16,6 Z" />
   <path
+     inkscape:connector-curvature="0"
      id="path4663"
-     opacity=".3"
-     style="enable-background:new"
-     d="m1.0254 18.195c-0.0132 0.176-0.0254 0.352-0.0254 0.532 0 4.016 3.3579 7.273 7.5 7.273h15.938c3.624 0 6.562-2.849 6.562-6.363 0-0.173-0.011-0.344-0.025-0.514-0.258 3.286-3.083 5.877-6.537 5.877h-15.938c-3.9791 0-7.2244-3.007-7.4746-6.805z" />
+     style="opacity:0.3;enable-background:new"
+     d="M 1.0254,18.195 C 1.0122,18.371 1,18.547 1,18.727 1,22.743 4.3579,26 8.5,26 l 15.938,0 C 28.062,26 31,23.151 31,19.637 31,19.464 30.989,19.293 30.975,19.123 30.717,22.409 27.892,25 24.438,25 L 8.5,25 C 4.5209,25 1.2756,21.993 1.0254,18.195 Z" />
   <path
-     style="opacity:1;fill:#f98d3b;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path4349"
+     d="m 21,18 -8,5 0,-10 z"
+     inkscape:transform-center-y="-0.076980125"
+     inkscape:transform-center-x="-1.2524667"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:transform-center-x="-1.2524667"
      inkscape:transform-center-y="-0.076980125"
      d="m 21,17 -8,5 0,-10 z"
      id="path4139"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;enable-background:new"
+     d="M 16,6 C 12.117,6 8.8099188,8.3056594 7.3867188,11.568359 3.7720187,12.089359 1,15.076563 1,18.726562 1,18.884726 1.015136,19.039661 1.025391,19.195312 1.279989,15.790664 3.9496327,13.063759 7.3867192,12.568359 8.8099187,9.3056594 12.117,7 16,7 c 4.55,0 8.347219,3.159778 9.199219,7.330078 3.094708,0.343751 5.525789,2.763901 5.77539,5.792969 C 30.987215,19.961899 31,19.800999 31,19.636719 31,16.370719 28.467219,13.693078 25.199219,13.330078 24.347219,9.1597781 20.55,6 16,6 Z"
+     id="path4344" />
 </svg>

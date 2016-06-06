@@ -14,7 +14,7 @@
    width="24"
    version="1.0"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="yast-sound.svg">
+   sodipodi:docname="1yast-sound.svg">
   <defs
      id="defs229" />
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-width="790"
+     inkscape:window-height="835"
      id="namedview227"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-4.5254237"
+     inkscape:zoom="6.1300268"
+     inkscape:cx="14.038834"
      inkscape:cy="3.8644068"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2817" />
   <metadata
      id="metadata57">
@@ -1295,103 +1295,92 @@
        id="tspan4089-7-2-9-9-28"
        y="-1449.4517"
        x="1621.2083" /></text>
-  <g
-     id="g4357"
-     transform="scale(0.5,0.5)">
-    <rect
-       x="-40"
-       y="4"
-       width="32"
-       height="40"
-       ry="2"
-       rx="2"
-       transform="scale(-1,1)"
-       id="rect4203"
-       style="fill:#d2d2d2" />
-    <circle
-       r="13"
-       cx="-29"
-       cy="24"
-       transform="matrix(0,-1,1,0,0,0)"
-       id="circle4415"
-       style="opacity:0.2" />
-    <circle
-       r="13"
-       cx="-28"
-       cy="24"
-       transform="matrix(0,-1,1,0,0,0)"
-       id="path4369"
-       style="fill:#3f3f3f" />
-    <circle
-       r="11"
-       cx="-28"
-       cy="-24"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="circle4385"
-       style="fill:#fec006" />
-    <path
-       d="M 24,17 A 11,11 0 0 0 13,28 11,11 0 0 0 13.022,28.414 11,11 0 0 1 24,18 11,11 0 0 1 34.979,28.586 11,11 0 0 0 35,28 11,11 0 0 0 24,17 Z"
-       id="circle4410"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2" />
-    <circle
-       r="5"
-       cx="-29"
-       cy="-24"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="circle4505"
-       style="opacity:0.2" />
-    <circle
-       r="5"
-       cx="-28"
-       cy="-24"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="circle4501"
-       style="fill:#3f3f3f" />
-    <circle
-       r="3"
-       cx="-26"
-       cy="-24"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="circle4503"
-       style="opacity:0.2;fill:#ffffff" />
-    <circle
-       r="2"
-       cx="11"
-       cy="-15"
-       transform="matrix(0,1,-1,0,0,0)"
-       id="circle5950"
-       style="fill:#ffffff" />
-    <circle
-       r="2"
-       cx="11"
-       cy="-33"
-       transform="matrix(0,1,-1,0,0,0)"
-       id="circle5952"
-       style="fill:#ffffff" />
-    <circle
-       r="2"
-       cx="10"
-       cy="-15"
-       transform="matrix(0,1,-1,0,0,0)"
-       id="circle5954"
-       style="fill:#3f3f3f" />
-    <circle
-       r="2"
-       cx="10"
-       cy="-33"
-       transform="matrix(0,1,-1,0,0,0)"
-       id="circle5956"
-       style="fill:#3f3f3f" />
-    <path
-       d="M 24,15 A 13,13 0 0 0 11,28 13,13 0 0 0 11.022,28.58 13,13 0 0 1 24,16 13,13 0 0 1 36.979,28.42 13,13 0 0 0 37,28 13,13 0 0 0 24,15 Z"
-       id="circle5958"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2;fill:#ffffff" />
-    <path
-       d="m 8,41 0,1 c 0,1.108 0.892,2 2,2 l 28,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 10,43 C 8.892,43 8,42.108 8,41 Z"
-       id="rect4406"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3" />
-  </g>
+  <rect
+     style="fill:#4d4d4d;fill-opacity:1"
+     id="rect4203"
+     transform="scale(-1,1)"
+     rx="1"
+     ry="1"
+     height="20"
+     width="16"
+     y="2"
+     x="-20" />
+  <circle
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     id="circle4415"
+     transform="matrix(0,-1,1,0,0,0)"
+     cy="12"
+     cx="-14.5"
+     r="6.5" />
+  <circle
+     style="fill:#2d2d2d;fill-opacity:1"
+     id="path4369"
+     transform="matrix(0,-1,1,0,0,0)"
+     cy="12"
+     cx="-14"
+     r="6.5" />
+  <circle
+     style="fill:#fec006"
+     id="circle4385"
+     transform="matrix(0,-1,-1,0,0,0)"
+     cy="-12"
+     cx="-14"
+     r="5.5" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     id="circle4410"
+     d="M 12,8.5 A 5.5,5.5 0 0 0 6.5,14 5.5,5.5 0 0 0 6.511,14.207 5.5,5.5 0 0 1 12,9 5.5,5.5 0 0 1 17.4895,14.293 5.5,5.5 0 0 0 17.5,14 5.5,5.5 0 0 0 12,8.5 Z" />
+  <circle
+     style="opacity:0.2"
+     id="circle4505"
+     transform="matrix(0,-1,-1,0,0,0)"
+     cy="-12"
+     cx="-14.5"
+     r="2.5" />
+  <circle
+     style="fill:#2d2d2d;fill-opacity:1"
+     id="circle4501"
+     transform="matrix(0,-1,-1,0,0,0)"
+     cy="-12"
+     cx="-14"
+     r="2.5" />
+  <circle
+     style="opacity:0.2;fill:#ffffff"
+     id="circle5950"
+     transform="matrix(0,1,-1,0,0,0)"
+     cy="-7.5"
+     cx="5.5"
+     r="1" />
+  <circle
+     style="opacity:0.2;fill:#ffffff"
+     id="circle5952"
+     transform="matrix(0,1,-1,0,0,0)"
+     cy="-16.5"
+     cx="5.5"
+     r="1" />
+  <circle
+     style="fill:#2d2d2d;fill-opacity:1"
+     id="circle5954"
+     transform="matrix(0,1,-1,0,0,0)"
+     cy="-7.5"
+     cx="5"
+     r="1" />
+  <circle
+     style="fill:#2d2d2d;fill-opacity:1"
+     id="circle5956"
+     transform="matrix(0,1,-1,0,0,0)"
+     cy="-16.5"
+     cx="5"
+     r="1" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     id="rect4406"
+     d="M 4,20.5 4,21 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -14,0 c -0.554,0 -1,-0.446 -1,-1 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 14,0 c 0.554,0 1,0.446 1,1 L 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z"
+     id="rect4397" />
 </svg>

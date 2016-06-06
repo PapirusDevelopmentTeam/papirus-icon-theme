@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="843"
      id="namedview228"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-4.4791525"
+     inkscape:cx="-21.004576"
      inkscape:cy="-4.2711864"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -55,14 +55,15 @@
        gradientUnits="userSpaceOnUse"
        x2="-24"
        y1="-24"
-       x1="-34" />
+       x1="-34"
+       gradientTransform="matrix(0,-0.7,-0.7,0,-4.8,-4.8)" />
     <linearGradient
        id="linearGradient4370"
        y2="-24"
        xlink:href="#linearGradient4358"
        gradientUnits="userSpaceOnUse"
        x2="-24"
-       gradientTransform="matrix(-1,0,0,1,4.3e-7,48)"
+       gradientTransform="matrix(-0.7,0,0,0.7,-4.7999997,28.8)"
        y1="-24"
        x1="-34" />
   </defs>
@@ -1340,7 +1341,7 @@
      transform="matrix(.063142 0 0 .063142 -131 -8.0295)"
      fill="#5a0e00" />
   <rect
-     style="fill:#d2d2d2"
+     style="fill:#cccccc;fill-opacity:1"
      id="rect4203-1"
      transform="matrix(0,-1,-1,0,0,0)"
      rx="1"
@@ -1359,29 +1360,24 @@
      inkscape:connector-curvature="0"
      id="path4597"
      d="M 3,22 C 2.446,22 2,21.554 2,21 l 0,-0.5 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,0.5 c 0,0.554 -0.446,1 -1,1 L 3,22 Z" />
-  <g
-     id="g4354"
-     transform="matrix(0.7,0,0,0.7,-4.8,-4.8)">
-    <rect
-       style="fill:#e74c3c"
-       id="rect4255-6"
-       ry="10"
-       rx="10"
-       transform="matrix(0,-1,-1,0,0,0)"
-       height="20"
-       width="20"
-       y="-34"
-       x="-34" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.1;fill:url(#linearGradient4364)"
-       id="rect4347"
-       d="m -24,-34 0,20 c -5.54,0 -10,-4.46 -10,-10 0,-5.54 4.46,-10 10,-10 z"
-       transform="matrix(0,-1,-1,0,0,0)" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.1;fill:url(#linearGradient4370)"
-       id="path4368"
-       d="m 24,14 0,20 C 29.54,34 34,29.54 34,24 34,18.46 29.54,14 24,14 Z" />
-  </g>
+  <rect
+     x="-19"
+     y="-19"
+     width="14"
+     height="14"
+     transform="matrix(0,-1,-1,0,0,0)"
+     rx="7"
+     ry="7"
+     id="rect4255-6"
+     style="fill:#e74c3c" />
+  <path
+     d="M 19,12 5,12 c 0,3.878 3.122,7 7,7 3.878,0 7,-3.122 7,-7 z"
+     id="rect4347"
+     style="opacity:0.1;fill:url(#linearGradient4364)"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 12,5 0,14 c 3.878,0 7,-3.122 7,-7 0,-3.878 -3.122,-7 -7,-7 z"
+     id="path4368"
+     style="opacity:0.1;fill:url(#linearGradient4370)"
+     inkscape:connector-curvature="0" />
 </svg>

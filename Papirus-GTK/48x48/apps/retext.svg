@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
      id="namedview221"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="24"
+     inkscape:cx="-26.029703"
      inkscape:cy="21.442978"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1296,7 +1296,7 @@
        y="-1449.4517"
        x="1621.2083" /></text>
   <path
-     style="fill:#ebebeb"
+     style="fill:#cccccc;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="M 42,8 6,8 C 4.892,8 4,8.892 4,10 l 0,28 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 L 44,10 C 44,8.892 43.108,8 42,8 Z"
      id="rect4203" />
@@ -1348,11 +1348,13 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccccccccccc" />
   <path
-     style="fill:#ffffff;fill-opacity:1;opacity:0.2"
-     d="M 6 8 C 4.892 8 4 8.892 4 10 L 4 11 C 4 9.892 4.892 9 6 9 L 42 9 C 43.108 9 44 9.892 44 11 L 44 10 C 44 8.892 43.108 8 42 8 L 6 8 z "
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     d="M 6,8 C 4.892,8 4,8.892 4,10 l 0,1 C 4,9.892 4.892,9 6,9 l 36,0 c 1.108,0 2,0.892 2,2 l 0,-1 C 44,8.892 43.108,8 42,8 L 6,8 Z"
      id="path4415" />
   <path
-     style="fill:#000000;fill-opacity:1;opacity:0.3"
-     d="M 4 37 L 4 38 C 4 39.108 4.892 40 6 40 L 42 40 C 43.108 40 44 39.108 44 38 L 44 37 C 44 38.108 43.108 39 42 39 L 6 39 C 4.892 39 4 38.108 4 37 z "
+     inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
+     d="m 4,37 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,39 C 4.892,39 4,38.108 4,37 Z"
      id="path4420" />
 </svg>

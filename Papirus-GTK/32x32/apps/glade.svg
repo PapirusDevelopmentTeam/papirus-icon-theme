@@ -13,7 +13,7 @@
    height="32"
    width="32"
    version="1.0"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="glade.svg">
   <defs
      id="defs3562" />
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
      id="namedview3560"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-7.8644068"
+     inkscape:cx="-23.57609"
      inkscape:cy="16"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -11255,45 +11255,41 @@
        id="tspan4089-7-2-9-9-28-8-8"
        y="-1466.4583"
        x="1424.0618" /></text>
-  <g
-     id="g7690"
-     transform="translate(0,0.5)">
-    <path
-       d="M 27,28 27,3 C 27,2.169 26.331,1.5 25.5,1.5 l -19,0 C 5.669,1.5 5,2.169 5,3 l 0,25 c 0,0.831 0.669,1.5 1.5,1.5 l 19,0 c 0.831,0 1.5,-0.669 1.5,-1.5 z"
-       id="rect4255"
-       inkscape:connector-curvature="0"
-       style="fill:#d2d2d2" />
-    <path
-       d="M 6.5,1.5 C 5.669,1.5 5,2.169 5,3 L 5,4 C 5,3.169 5.669,2.5 6.5,2.5 l 19,0 C 26.331,2.5 27,3.169 27,4 L 27,3 C 27,2.169 26.331,1.5 25.5,1.5 Z"
-       id="rect4208"
-       inkscape:connector-curvature="0"
-       style="opacity:0.1;fill:#ffffff" />
-    <path
-       d="m 2,4.5 0,22 c 0,2 2,2 2,2 l 26,0 L 2,4.5 Z M 7,15.371 16.482,23.5 7,23.5 7,15.371 Z"
-       id="path4570"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2" />
-    <path
-       d="m 2,3.5 0,22 c 0,2 2,2 2,2 l 26,0 L 2,3.5 Z M 7,14.371 16.482,22.5 7,22.5 7,14.371 Z"
-       id="rect4255-1"
-       inkscape:connector-curvature="0"
-       style="fill:#8ac249" />
-    <path
-       d="m 2,3.5 0,1 26.834,23 1.166,0 -28,-24 z m 5,19 0,1 9.4824,0 -1.166,-1 -8.316,0 z"
-       id="path4535"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2;fill:#ffffff" />
-    <path
-       d="M 30,27.5 28.834,26.5 4,26.5 c 0,0 -2,0 -2,-2 l 0,1 c 0,2 2,2 2,2 l 26,0 z M 16.482,21.5 7,13.371 l 0,1 8.3164,7.1289 1.166,0 z"
-       id="path4544"
-       inkscape:connector-curvature="0"
-       style="opacity:0.1" />
-    <path
-       d="m 5,27 0,1 c 0,0.831 0.669,1.5 1.5,1.5 l 19,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-1 c 0,0.831 -0.669,1.5 -1.5,1.5 l -19,0 C 5.669,28.5 5,27.831 5,27 Z"
-       id="path9473"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3" />
-  </g>
+  <path
+     style="fill:#cccccc;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="rect4255"
+     d="m 27,28.5 0,-25 C 27,2.669 26.331,2 25.5,2 L 6.5,2 C 5.669,2 5,2.669 5,3.5 l 0,25 C 5,29.331 5.669,30 6.5,30 l 19,0 c 0.831,0 1.5,-0.669 1.5,-1.5 z" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="rect4208"
+     d="M 6.5,2 C 5.669,2 5,2.669 5,3.5 l 0,1 C 5,3.669 5.669,3 6.5,3 l 19,0 C 26.331,3 27,3.669 27,4.5 l 0,-1 C 27,2.669 26.331,2 25.5,2 Z" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     id="path4570"
+     d="m 2,5 0,22 c 0,2 2,2 2,2 L 30,29 2,5 Z M 7,15.871 16.482,24 7,24 7,15.871 Z" />
+  <path
+     style="fill:#8ac249"
+     inkscape:connector-curvature="0"
+     id="rect4255-1"
+     d="m 2,4 0,22 c 0,2 2,2 2,2 L 30,28 2,4 Z M 7,14.871 16.482,23 7,23 7,14.871 Z" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="path4535"
+     d="M 2,4 2,5 28.834,28 30,28 2,4 Z m 5,19 0,1 9.4824,0 -1.166,-1 -8.316,0 z" />
+  <path
+     style="opacity:0.1"
+     inkscape:connector-curvature="0"
+     id="path4544"
+     d="M 30,28 28.834,27 4,27 c 0,0 -2,0 -2,-2 l 0,1 c 0,2 2,2 2,2 l 26,0 z M 16.482,22 7,13.871 l 0,1 8.3164,7.1289 1.166,0 z" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     id="path9473"
+     d="m 5,27.5 0,1 C 5,29.331 5.669,30 6.5,30 l 19,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-1 c 0,0.831 -0.669,1.5 -1.5,1.5 l -19,0 C 5.669,29 5,28.331 5,27.5 Z" />
   <text
      id="text4087-2-6-5-0"
      opacity=".8"
