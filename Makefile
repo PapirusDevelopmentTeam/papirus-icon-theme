@@ -8,9 +8,9 @@ all:
 install: local
 
 clear:
-	$(RM) $(INSTALLDIR)/Papirus{,-Dark}-GTK
+	$(RM) $(INSTALLDIR)/Papirus{,-Dark,-Arc-Dark}-GTK
 local:
 	$(INSTALL) $(INSTALLDIR)
-	$(CP) Papirus{,-Dark}-GTK $(INSTALLDIR)
+	$(CP) Papirus{,-Dark,-Arc-Dark}-GTK $(INSTALLDIR)
 
 uninstall: clear
