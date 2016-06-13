@@ -89,7 +89,9 @@ Type=Fixed
 [48x48/apps]
 Context=Applications
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=512
+Type=Scalable
 
 [48x48/devices]
 Context=Devices
