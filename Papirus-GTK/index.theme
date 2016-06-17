@@ -12,7 +12,7 @@ PanelDefault=16
 PanelSizes=16,22,32,48,64,128,256
 
 # Directory list
-Directories=16x16/actions,16x16/devices,16x16/places,16x16/emblems,16x16/mimetypes,22x22/panel,22x22/actions,22x22/apps,24x24/actions,24x24/panel,24x24/apps,32x32/apps,32x32/devices,32x32/places,32x32/mimetypes,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/places,64x64/mimetypes,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16x16/actions,16x16/devices,16x16/places,16x16/emblems,16x16/mimetypes,22x22/panel,22x22/actions,22x22/apps,24x24/actions,24x24/panel,24x24/apps,32x32/apps,32x32/devices,32x32/places,32x32/mimetypes,32x32/status,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/places,64x64/mimetypes,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 [16x16/actions]
 Context=Actions
@@ -91,6 +91,11 @@ Context=MimeTypes
 Size=32
 Type=Fixed
 
+[32x32/status]
+Context=Status
+Size=32
+Type=Fixed
+
 [48x48/apps]
 Context=Applications
 Size=48
@@ -118,7 +123,7 @@ Type=Fixed
 [48x48/status]
 Context=Status
 Size=48
-MinSize=32
+MinSize=48
 MaxSize=512
 Type=Scalable
 
