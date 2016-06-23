@@ -13,7 +13,7 @@
    height="32"
    width="32"
    version="1.0"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="picard.svg">
   <defs
      id="defs638" />
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
      id="namedview636"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-7.8644068"
+     inkscape:cx="-35.525424"
      inkscape:cy="16"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3814,4 +3814,8 @@
      inkscape:connector-curvature="0"
      id="path5974"
      d="m 25.396,12.004 c -2.1711,-0.04328 -4.3197,0.39345 -5.0938,0.82227 l -12.607,7.24 c -0.6038,0.3467 -0.84129,1.0679 -0.59375,1.6934 0.11048,-0.28145 0.309,-0.52986 0.59375,-0.69336 l 12.608,-7.24 c 1.5481,-0.85763 8.5929,-1.7494 10.326,1.2363 0.18608,0.32054 0.28258,0.68019 0.33008,1.0586 0.09092,-0.75803 0.01296,-1.4677 -0.33008,-2.0586 -0.86664,-1.4928 -3.0614,-2.0153 -5.2324,-2.0586 z" />
+  <path
+     style="fill:#000000;fill-opacity:1;opacity:0.3"
+     d="M 26.992188 13.751953 A 1.3866 1.379 0 0 0 26.332031 13.9375 A 1.3866 1.379 0 0 0 25.734375 15.628906 A 1.3866 1.379 0 0 1 26.332031 14.9375 A 1.3866 1.379 0 0 1 28.226562 15.441406 A 1.3866 1.379 0 0 1 28.316406 15.632812 A 1.3866 1.379 0 0 0 28.226562 14.441406 A 1.3866 1.379 0 0 0 26.992188 13.751953 z M 30.960938 15.121094 C 30.5925 18.193179 27.329148 22.105845 26.542969 22.574219 L 13.935547 29.814453 C 13.270247 30.196443 12.425106 29.970224 12.041016 29.308594 L 7.1875 20.949219 C 7.151602 20.887384 7.1269357 20.822248 7.1015625 20.757812 C 6.9527653 21.134542 6.9672821 21.56989 7.1875 21.949219 L 12.041016 30.310547 C 12.425106 30.972177 13.270247 31.196443 13.935547 30.814453 L 26.542969 23.574219 C 27.41794 23.052946 31.35632 18.267267 30.960938 15.121094 z "
+     id="path4764" />
 </svg>

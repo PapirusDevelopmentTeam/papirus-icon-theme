@@ -30,8 +30,8 @@
      inkscape:window-height="849"
      id="namedview226"
      showgrid="false"
-     inkscape:zoom="4.97"
-     inkscape:cx="-44.253521"
+     inkscape:zoom="11.42"
+     inkscape:cx="3.8511384"
      inkscape:cy="-4.2711864"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1090,101 +1090,107 @@
        id="tspan4089-7-2-9-9-28"
        y="-1451.4517"
        x="1621.2083" /></text>
-  <g
-     id="g4355"
-     transform="translate(-1,-1)">
-    <rect
-       x="-22"
-       y="4"
-       width="20"
-       height="16"
-       transform="scale(-1,1)"
-       rx="1"
-       ry="1"
-       id="rect4203-8"
-       style="fill:#4c636b" />
-    <g
-       transform="translate(-0.5,0)"
-       id="g4385">
-      <circle
-         style="opacity:0.2"
-         id="path4361"
-         cx="8.5"
-         cy="12"
-         r="5" />
-      <path
-         style="fill:#ee5858"
-         inkscape:connector-curvature="0"
-         id="path4359"
-         d="M 4.96445,8.4645 A 5,5 0 0 0 4.632305,8.83946 l 1.78365,1.78365 a 2.5,2.5 0 0 0 0.316265,3.1447 2.5,2.5 0 0 0 3.14605,0.317645 l 1.7857,1.7857 a 5,5 0 0 0 0.37151,-0.3356 5,5 0 0 0 0.332145,-0.37496 l -1.78365,-1.78365 A 2.5,2.5 0 0 0 10.26771,10.232245 2.5,2.5 0 0 0 7.12166,9.9146 L 5.33596,8.1289 A 5,5 0 0 0 4.96445,8.4645 Z" />
-      <circle
-         style="fill:#f3c4c4"
-         id="path4369"
-         cx="8.5"
-         cy="12"
-         r="1.5" />
-    </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,-1,0)"
-       id="g4384">
-      <rect
-         x="30"
-         y="16"
-         width="12"
-         height="2"
-         ry="1"
-         rx="1"
-         id="rect4376"
-         style="opacity:0.2" />
-      <rect
-         x="30"
-         y="20"
-         width="12"
-         height="2"
-         ry="1"
-         rx="1"
-         id="rect4378"
-         style="opacity:0.2" />
-      <rect
-         x="30"
-         y="24"
-         width="12"
-         height="2"
-         ry="1"
-         rx="1"
-         id="rect4380"
-         style="opacity:0.2" />
-      <rect
-         x="30"
-         y="28"
-         width="12"
-         height="2"
-         ry="1"
-         rx="1"
-         id="rect4382"
-         style="opacity:0.2" />
-    </g>
-    <circle
-       r="1"
-       cy="18"
-       cx="19"
-       id="path4390"
-       style="fill:#58c4ee" />
-    <path
-       d="M 3,4 C 2.446,4 2,4.446 2,5 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 22,5 C 22,4.446 21.554,4 21,4 L 3,4 Z"
-       id="rect4395"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2;fill:#ffffff" />
-    <path
-       d="M 2,18.5 2,19 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -18,0 c -0.554,0 -1,-0.446 -1,-1 z"
-       id="rect4400"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3" />
-    <circle
-       r="1"
-       cx="16"
-       cy="18"
-       id="circle4405"
-       style="fill:#58c4ee" />
-  </g>
+  <rect
+     style="fill:#4c636b"
+     id="rect4203-8"
+     ry="1"
+     rx="1"
+     transform="scale(-1,1)"
+     height="16"
+     width="20"
+     y="3"
+     x="-21" />
+  <circle
+     style="opacity:0.2"
+     id="path4361"
+     cx="7"
+     cy="11"
+     r="5" />
+  <path
+     style="fill:#ee5858"
+     inkscape:connector-curvature="0"
+     id="path4359"
+     d="M 3.46445,7.4645 A 5,5 0 0 0 3.132305,7.83946 l 1.78365,1.78365 a 2.5,2.5 0 0 0 0.316265,3.1447 2.5,2.5 0 0 0 3.14605,0.317645 l 1.7857,1.7857 a 5,5 0 0 0 0.37151,-0.3356 5,5 0 0 0 0.332145,-0.37496 l -1.78365,-1.78365 A 2.5,2.5 0 0 0 8.76771,9.232245 2.5,2.5 0 0 0 5.62166,8.9146 L 3.83596,7.1289 A 5,5 0 0 0 3.46445,7.4645 Z" />
+  <circle
+     r="1.5"
+     cy="11.499999"
+     cx="7"
+     id="circle4377"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
+  <circle
+     style="fill:#f3c4c4"
+     id="path4369"
+     cx="7"
+     cy="11"
+     r="1.5" />
+  <rect
+     x="13"
+     y="7"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4376"
+     style="opacity:0.2" />
+  <rect
+     x="13"
+     y="9"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4378"
+     style="opacity:0.2" />
+  <rect
+     x="13"
+     y="11"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4380"
+     style="opacity:0.2" />
+  <rect
+     x="13"
+     y="13"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4382"
+     style="opacity:0.2" />
+  <circle
+     r="1"
+     cy="17.5"
+     cx="18"
+     id="circle4379"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
+  <circle
+     style="fill:#58c4ee"
+     id="path4390"
+     cx="18"
+     cy="17"
+     r="1" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="rect4395"
+     d="M 2,3 C 1.446,3 1,3.446 1,4 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 21,4 C 21,3.446 20.554,3 20,3 L 2,3 Z" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     id="rect4400"
+     d="M 1,17.5 1,18 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -18,0 c -0.554,0 -1,-0.446 -1,-1 z" />
+  <circle
+     r="1"
+     cx="15"
+     cy="17.5"
+     id="circle4381"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
+  <circle
+     style="fill:#58c4ee"
+     id="circle4405"
+     cy="17"
+     cx="15"
+     r="1" />
 </svg>

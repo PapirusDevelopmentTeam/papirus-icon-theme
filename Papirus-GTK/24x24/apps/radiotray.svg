@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="849"
      id="namedview226"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="12"
-     inkscape:cy="-4.2711864"
+     inkscape:zoom="16.15"
+     inkscape:cx="10.098997"
+     inkscape:cy="10.589495"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -1305,67 +1305,71 @@
      width="20"
      y="4"
      x="-22" />
-  <g
-     id="g4385"
-     transform="translate(-0.5,0)">
-    <circle
-       r="5"
-       cy="12"
-       cx="8.5"
-       id="path4361"
-       style="opacity:0.2" />
-    <path
-       d="M 4.96445,8.4645 A 5,5 0 0 0 4.632305,8.83946 l 1.78365,1.78365 a 2.5,2.5 0 0 0 0.316265,3.1447 2.5,2.5 0 0 0 3.14605,0.317645 l 1.7857,1.7857 a 5,5 0 0 0 0.37151,-0.3356 5,5 0 0 0 0.332145,-0.37496 l -1.78365,-1.78365 A 2.5,2.5 0 0 0 10.26771,10.232245 2.5,2.5 0 0 0 7.12166,9.9146 L 5.33596,8.1289 A 5,5 0 0 0 4.96445,8.4645 Z"
-       id="path4359"
-       inkscape:connector-curvature="0"
-       style="fill:#ee5858" />
-    <circle
-       r="1.5"
-       cy="12"
-       cx="8.5"
-       id="path4369"
-       style="fill:#f3c4c4" />
-  </g>
-  <g
-     id="g4384"
-     transform="matrix(0.5,0,0,0.5,-1,0)">
-    <rect
-       style="opacity:0.2"
-       id="rect4376"
-       rx="1"
-       ry="1"
-       height="2"
-       width="12"
-       y="16"
-       x="30" />
-    <rect
-       style="opacity:0.2"
-       id="rect4378"
-       rx="1"
-       ry="1"
-       height="2"
-       width="12"
-       y="20"
-       x="30" />
-    <rect
-       style="opacity:0.2"
-       id="rect4380"
-       rx="1"
-       ry="1"
-       height="2"
-       width="12"
-       y="24"
-       x="30" />
-    <rect
-       style="opacity:0.2"
-       id="rect4382"
-       rx="1"
-       ry="1"
-       height="2"
-       width="12"
-       y="28"
-       x="30" />
-  </g>
+  <circle
+     style="opacity:0.2"
+     id="path4361"
+     cx="8"
+     cy="12"
+     r="5" />
+  <path
+     style="fill:#ee5858"
+     inkscape:connector-curvature="0"
+     id="path4359"
+     d="M 4.46445,8.4645 A 5,5 0 0 0 4.132305,8.83946 l 1.78365,1.78365 a 2.5,2.5 0 0 0 0.316265,3.1447 2.5,2.5 0 0 0 3.14605,0.317645 l 1.7857,1.7857 a 5,5 0 0 0 0.37151,-0.3356 5,5 0 0 0 0.332145,-0.37496 l -1.78365,-1.78365 A 2.5,2.5 0 0 0 9.76771,10.232245 2.5,2.5 0 0 0 6.62166,9.9146 L 4.83596,8.1289 A 5,5 0 0 0 4.46445,8.4645 Z" />
+  <circle
+     r="1.5"
+     cy="12.499999"
+     cx="8"
+     id="circle4362"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
+  <circle
+     style="fill:#f3c4c4"
+     id="path4369"
+     cx="8"
+     cy="12"
+     r="1.5" />
+  <rect
+     x="14"
+     y="8"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4376"
+     style="opacity:0.2" />
+  <rect
+     x="14"
+     y="10"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4378"
+     style="opacity:0.2" />
+  <rect
+     x="14"
+     y="12"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4380"
+     style="opacity:0.2" />
+  <rect
+     x="14"
+     y="14"
+     width="6"
+     height="1"
+     ry="0.5"
+     rx="0.5"
+     id="rect4382"
+     style="opacity:0.2" />
+  <circle
+     r="1"
+     cy="18.5"
+     cx="19"
+     id="circle4364"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
   <circle
      style="fill:#58c4ee"
      id="path4390"
@@ -1382,6 +1386,12 @@
      inkscape:connector-curvature="0"
      id="rect4400"
      d="M 2,18.5 2,19 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -18,0 c -0.554,0 -1,-0.446 -1,-1 z" />
+  <circle
+     r="1"
+     cx="16"
+     cy="18.5"
+     id="circle4366"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
   <circle
      style="fill:#58c4ee"
      id="circle4405"

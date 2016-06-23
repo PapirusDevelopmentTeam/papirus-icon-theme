@@ -25,11 +25,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="849"
      id="namedview1070"
      showgrid="false"
-     inkscape:zoom="9.95"
-     inkscape:cx="-11.661017"
+     inkscape:zoom="7.04"
+     inkscape:cx="-23.085427"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7404,21 +7404,17 @@
        id="tspan4089-7-2-9-9-28-3"
        y="-1455.9861"
        x="1516.329" /></text>
-  <g
-     id="g5198"
-     transform="translate(2,0)">
-    <circle
-       cx="20"
-       cy="22"
-       id="path3283"
-       r="9"
-       style="fill:#e74c3c" />
-    <path
-       d="M 17,24.143 20.5,27 24,24 l -2,0 0,-7 -3,0 0,7.1429 z"
-       id="path4-0"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
-  </g>
+  <circle
+     style="fill:#e74c3c"
+     r="9"
+     id="path3283"
+     cy="22"
+     cx="22" />
+  <path
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="path4-0"
+     d="M 19,24.143 22.5,27 26,24 l -2,0 0,-7 -3,0 0,7.1429 z" />
   <rect
      style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75478065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect5644"
@@ -7433,4 +7429,8 @@
      width="5"
      id="rect5646"
      style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75478065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:#000000;fill-opacity:1;opacity:0.3"
+     d="M 30.978516 21.423828 A 9 9 0 0 1 22 30 A 9 9 0 0 1 13.021484 21.576172 A 9 9 0 0 0 13 22 A 9 9 0 0 0 22 31 A 9 9 0 0 0 31 22 A 9 9 0 0 0 30.978516 21.423828 z "
+     id="circle5407" />
 </svg>
