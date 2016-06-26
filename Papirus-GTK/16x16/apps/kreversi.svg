@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4125"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kreversi.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-2.8801237"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4125" />
+  <defs
+     id="defs4127" />
+  <metadata
+     id="metadata4130">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#f65e5e"
+     inkscape:connector-curvature="0"
+     d="M 8.4428255,16 C 12.616127,16 16,12.417943 16,8 16,3.5820572 12.616242,4e-8 8.4428255,4e-8 6.3049782,4e-8 4.5721306,1.3910286 4.5721306,3.6 c 0,2.2089715 1.8764374,3.4572 3.6732233,4 C 10.0022,8.13072 12.31352,9.7910286 12.31352,12 c 0,2.208971 -1.732847,4 -3.8706945,4 z"
+     id="path5092" />
+  <ellipse
+     style="fill:#ffffff"
+     cx="-8.5"
+     cy="-3.4998927"
+     transform="scale(-1,-1)"
+     id="circle5094"
+     rx="1.5"
+     ry="1.5001072" />
+  <path
+     style="fill:#8d62ad"
+     inkscape:connector-curvature="0"
+     d="M 7.5571745,4e-8 C 3.3838726,4e-8 0,3.5820572 0,8 c 0,4.417943 3.3837583,8 7.5571745,8 2.1378473,0 3.8706945,-1.391029 3.8706945,-3.6 0,-2.208971 -1.8764369,-3.4572 -3.6732229,-4 C 5.9978002,7.86928 3.6864795,6.2089715 3.6864795,4 3.6864795,1.7910286 5.4193272,4e-8 7.5571745,4e-8 Z"
+     id="path4559-2" />
+  <ellipse
+     style="fill:#ffffff"
+     cy="12.499893"
+     cx="7.5"
+     id="path5012"
+     rx="1.5"
+     ry="1.5001072" />
+</svg>
