@@ -27,11 +27,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-height="849"
      id="namedview218"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="13.783513"
+     inkscape:zoom="5.71"
+     inkscape:cx="-16.297723"
      inkscape:cy="12.620199"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1111,11 +1111,13 @@
      id="path4362"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffffff;fill-opacity:1;opacity:0.2"
-     d="M 3.4003906 2 C 2.6247906 2 2 2.6247906 2 3.4003906 L 2 4.4003906 C 2 3.6247906 2.6247906 3 3.4003906 3 L 28.599609 3 C 29.375209 3 30 3.6247906 30 4.4003906 L 30 3.4003906 C 30 2.6247906 29.375209 2 28.599609 2 L 3.4003906 2 z "
+     inkscape:connector-curvature="0"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+     d="M 3.4003906,2 C 2.6247906,2 2,2.6247906 2,3.4003906 l 0,1 C 2,3.6247906 2.6247906,3 3.4003906,3 L 28.599609,3 C 29.375209,3 30,3.6247906 30,4.4003906 l 0,-1 C 30,2.6247906 29.375209,2 28.599609,2 L 3.4003906,2 Z"
      id="rect4512" />
   <path
-     style="fill:#000000;fill-opacity:1;opacity:0.3"
-     d="M 2 27.599609 L 2 28.599609 C 2 29.375209 2.6247906 30 3.4003906 30 L 28.599609 30 C 29.375209 30 30 29.375209 30 28.599609 L 30 27.599609 C 30 28.375209 29.375209 29 28.599609 29 L 3.4003906 29 C 2.6247906 29 2 28.375209 2 27.599609 z "
+     inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
+     d="m 2,27.599609 0,1 C 2,29.375209 2.6247906,30 3.4003906,30 L 28.599609,30 C 29.375209,30 30,29.375209 30,28.599609 l 0,-1 C 30,28.375209 29.375209,29 28.599609,29 L 3.4003906,29 C 2.6247906,29 2,28.375209 2,27.599609 Z"
      id="rect4517" />
 </svg>

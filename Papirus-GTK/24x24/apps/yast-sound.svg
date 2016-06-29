@@ -14,7 +14,7 @@
    width="24"
    version="1.0"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="1yast-sound.svg">
+   sodipodi:docname="yast-sound.svg">
   <defs
      id="defs229" />
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="790"
-     inkscape:window-height="835"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
      id="namedview227"
      showgrid="false"
-     inkscape:zoom="6.1300268"
-     inkscape:cx="14.038834"
-     inkscape:cy="3.8644068"
+     inkscape:zoom="24.48"
+     inkscape:cx="11.558893"
+     inkscape:cy="12.034341"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
      id="metadata57">
@@ -1306,7 +1306,7 @@
      y="2"
      x="-20" />
   <circle
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
      id="circle4415"
      transform="matrix(0,-1,1,0,0,0)"
      cy="12"
@@ -1346,14 +1346,14 @@
      cx="-14"
      r="2.5" />
   <circle
-     style="opacity:0.2;fill:#ffffff"
+     style="opacity:0.1;fill:#ffffff"
      id="circle5950"
      transform="matrix(0,1,-1,0,0,0)"
      cy="-7.5"
      cx="5.5"
      r="1" />
   <circle
-     style="opacity:0.2;fill:#ffffff"
+     style="opacity:0.1;fill:#ffffff"
      id="circle5952"
      transform="matrix(0,1,-1,0,0,0)"
      cy="-16.5"
@@ -1380,7 +1380,7 @@
      d="M 4,20.5 4,21 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -14,0 c -0.554,0 -1,-0.446 -1,-1 z" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
      d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 14,0 c 0.554,0 1,0.446 1,1 L 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z"
      id="rect4397" />
 </svg>

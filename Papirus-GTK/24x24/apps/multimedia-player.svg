@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="849"
      id="namedview21"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-1.5592628"
-     inkscape:cy="3.8644068"
+     inkscape:zoom="17.31"
+     inkscape:cx="2.6024123"
+     inkscape:cy="13.107619"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -65,42 +65,6 @@
          stop-color="#333"
          offset="1" />
     </radialGradient>
-    <linearGradient
-       id="linearGradient4721"
-       y2="5.9236"
-       gradientUnits="userSpaceOnUse"
-       y1="26.512"
-       gradientTransform="matrix(0.34375,0,0,0.333335,3.75,2.5)"
-       x2="24.102"
-       x1="24.756">
-      <stop
-         id="stop4725"
-         stop-color="#fff"
-         offset="0" />
-      <stop
-         id="stop4727"
-         stop-color="#fff"
-         stop-opacity="0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5746"
-       y2="51.677"
-       gradientUnits="userSpaceOnUse"
-       x2="24.64"
-       y1="3.4733"
-       x1="23.932"
-       gradientTransform="matrix(0.5,0,0,0.5,0,0.5)">
-      <stop
-         id="stop5742"
-         stop-color="#fff"
-         offset="0" />
-      <stop
-         id="stop5744"
-         stop-color="#fff"
-         stop-opacity="0"
-         offset="1" />
-    </linearGradient>
   </defs>
   <rect
      style="fill:#4a4a4a"
@@ -113,15 +77,6 @@
      y="2"
      x="-20" />
   <rect
-     style="opacity:0.15;fill:url(#linearGradient4721);fill-rule:evenodd"
-     id="rect4717"
-     rx="0.20625"
-     ry="0.2"
-     height="7"
-     width="11"
-     y="4.5"
-     x="6.5" />
-  <rect
      style="fill:url(#radialGradient2429);fill-rule:evenodd;stroke:#363636;stroke-width:0.49987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42860007"
      id="rect4140"
      rx="0"
@@ -131,6 +86,11 @@
      stroke-miterlimit="3.4286"
      y="5.2499499"
      x="7.25" />
+  <path
+     d="m 10,14.5 0,6 5.99995,-3 -5.399519,-2.6998 z"
+     id="path4152"
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
   <g
      id="g5610"
      style="fill:#19c0f0;enable-background:new"
@@ -147,8 +107,11 @@
     </g>
   </g>
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.2;fill:url(#linearGradient5746)"
-     id="rect5728"
-     d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,18 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 L 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z m 0,0.5 14,0 c 0.2855,0 0.5,0.21435 0.5,0.5 l 0,18 c 0,0.2855 -0.2145,0.5 -0.5,0.5 l -14,0 C 4.71435,21.5 4.5,21.2855 4.5,21 L 4.5,3 C 4.5,2.71435 4.71435,2.5 5,2.5 Z" />
+     style="fill:#ffffff;fill-opacity:1;opacity:0.1"
+     d="M 5 2 C 4.446 2 4 2.446 4 3 L 4 3.5 C 4 2.946 4.446 2.5 5 2.5 L 19 2.5 C 19.554 2.5 20 2.946 20 3.5 L 20 3 C 20 2.446 19.554 2 19 2 L 5 2 z "
+     id="rect4157" />
+  <path
+     style="fill:#000000;fill-opacity:1;opacity:0.3"
+     d="M 4 20.5 L 4 21 C 4 21.554 4.446 22 5 22 L 19 22 C 19.554 22 20 21.554 20 21 L 20 20.5 C 20 21.054 19.554 21.5 19 21.5 L 5 21.5 C 4.446 21.5 4 21.054 4 20.5 z "
+     id="rect4162" />
 </svg>

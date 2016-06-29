@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
      id="namedview228"
      showgrid="false"
-     inkscape:zoom="12.239653"
-     inkscape:cx="7.8639216"
+     inkscape:zoom="8.0800657"
+     inkscape:cx="-8.8032176"
      inkscape:cy="24.021447"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1296,8 +1296,9 @@
        y="-1449.4517"
        x="1621.2083" /></text>
   <path
+     inkscape:connector-curvature="0"
      style="fill:#4d4d4d;fill-opacity:1"
-     d="M 8 7 C 7.446 7 7 7.446 7 8 L 7 9 L 6 9 C 4.892 9 4 9.892 4 11 L 4 39 C 4 40.108 4.892 41 6 41 L 42 41 C 43.108 41 44 40.108 44 39 L 44 11 C 44 9.892 43.108 9 42 9 L 14 9 L 14 8 C 14 7.446 13.554 7 13 7 L 8 7 z "
+     d="M 8,7 C 7.446,7 7,7.446 7,8 L 7,9 6,9 C 4.892,9 4,9.892 4,11 l 0,28 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 L 44,11 C 44,9.892 43.108,9 42,9 L 14,9 14,8 C 14,7.446 13.554,7 13,7 L 8,7 Z"
      id="rect4404" />
   <circle
      style="opacity:0.05;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -1361,7 +1362,8 @@
      id="rect4406-4"
      d="m 4,38 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,40 C 4.892,40 4,39.108 4,38 Z" />
   <path
-     style="fill:#ffffff;fill-opacity:1;opacity:0.1"
-     d="M 8 7 C 7.446 7 7 7.446 7 8 L 7 9 C 7 8.446 7.446 8 8 8 L 13 8 C 13.554 8 14 8.446 14 9 L 14 8 C 14 7.446 13.554 7 13 7 L 8 7 z M 14 9 L 14 10 L 42 10 C 43.108 10 44 10.892 44 12 L 44 11 C 44 9.892 43.108 9 42 9 L 14 9 z M 7 9 L 6 9 C 4.892 9 4 9.892 4 11 L 4 12 C 4 10.892 4.892 10 6 10 L 7 10 L 7 9 z "
+     inkscape:connector-curvature="0"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+     d="M 8,7 C 7.446,7 7,7.446 7,8 L 7,9 C 7,8.446 7.446,8 8,8 l 5,0 c 0.554,0 1,0.446 1,1 L 14,8 C 14,7.446 13.554,7 13,7 L 8,7 Z m 6,2 0,1 28,0 c 1.108,0 2,0.892 2,2 l 0,-1 C 44,9.892 43.108,9 42,9 L 14,9 Z M 7,9 6,9 C 4.892,9 4,9.892 4,11 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 1,0 0,-1 z"
      id="path4356" />
 </svg>

@@ -30,8 +30,8 @@
      inkscape:window-height="849"
      id="namedview851"
      showgrid="false"
-     inkscape:zoom="4.97"
-     inkscape:cx="-44.253521"
+     inkscape:zoom="12.239653"
+     inkscape:cx="6.5397875"
      inkscape:cy="15.194901"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1090,66 +1090,62 @@
        id="tspan4089-7-2-9-9-28"
        y="-1451.4517"
        x="1621.2083" /></text>
+  <path
+     style="fill:#636e73"
+     inkscape:connector-curvature="0"
+     id="rect4203"
+     d="M 19,20 19,2 C 19,1.446 18.554,1 18,1 L 4,1 C 3.446,1 3,1.446 3,2 l 0,18 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4009"
+     d="m 18,1.5 c 0.554,0 1,0.446 1,1 L 19,11 3,11 3,2.5 c 0,-0.554 0.446,-1 1,-1 z"
+     style="opacity:0.1;enable-background:new" />
   <g
-     id="g4979"
-     transform="translate(-1,1)">
-    <path
-       d="M 20,19 20,1 C 20,0.446 19.554,0 19,0 L 5,0 C 4.446,0 4,0.446 4,1 l 0,18 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 z"
-       id="rect4203"
-       inkscape:connector-curvature="0"
-       style="fill:#636e73" />
+     style="opacity:0.8"
+     id="g5135-9"
+     transform="matrix(0.370385,0,0,0.35000136,2.29615,2.10006)">
     <g
-       transform="matrix(0.370385,0,0,0.35000136,3.29615,1.10006)"
-       id="g5135-9"
-       style="opacity:0.8">
+       style="fill:#ffffff"
+       id="g5111-4"
+       transform="matrix(1.5923,0,0,1.6185,10,11.802)">
       <g
-         transform="matrix(1.5923,0,0,1.6185,10,11.802)"
-         id="g5111-4"
-         style="fill:#ffffff">
+         style="fill:#ffffff"
+         id="g5069-6">
         <g
-           id="g5069-6"
-           style="fill:#ffffff">
-          <g
-             id="g5071-5"
-             style="fill:#ffffff">
-            <polygon
-               points="9.649,3.016 15.073,3.016 15.073,1.358 8.407,1.358 5.766,10.369 3.811,5.596 0,5.596 0,7.254 2.698,7.254 5.344,13.715 6.513,13.715 "
-               id="polygon5073-5"
-               style="fill:#ffffff" />
-          </g>
+           style="fill:#ffffff"
+           id="g5071-5">
+          <polygon
+             style="fill:#ffffff"
+             id="polygon5073-5"
+             points="15.073,1.358 8.407,1.358 5.766,10.369 3.811,5.596 0,5.596 0,7.254 2.698,7.254 5.344,13.715 6.513,13.715 9.649,3.016 15.073,3.016 " />
         </g>
       </g>
-      <text
-         xml:space="preserve"
-         x="23.975651"
-         y="34.528126"
-         font-size="22.284px"
-         transform="scale(1.0155,0.9847)"
-         line-height="125%"
-         style="font-size:22.2840004px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
-         id="text5131-5"
-         sodipodi:linespacing="125%"><tspan
-           x="23.975651"
-           y="34.528126"
-           id="tspan5133-0"
-           style="fill:#ffffff">x</tspan></text>
     </g>
-    <path
-       d="M 5,0 C 4.446,0 4,0.446 4,1 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 14,0 c 0.554,0 1,0.446 1,1 L 20,1 C 20,0.446 19.554,0 19,0 Z"
-       id="rect4199"
-       inkscape:connector-curvature="0"
-       style="opacity:0.1;fill:#ffffff" />
-    <path
-       style="opacity:0.1;enable-background:new"
-       d="m 19,0.5 c 0.554,0 1,0.446 1,1 L 20,10 4,10 4,1.5 c 0,-0.554 0.446,-1 1,-1 z"
-       id="path4009"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 4,18.5 4,19 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -14,0 c -0.554,0 -1,-0.446 -1,-1 z"
-       id="rect4279"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5131-5"
+       style="font-size:22.2840004px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
+       line-height="125%"
+       transform="scale(1.0155,0.9847)"
+       font-size="22.284px"
+       y="34.528126"
+       x="23.975651"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff"
+         id="tspan5133-0"
+         y="34.528126"
+         x="23.975651">x</tspan></text>
   </g>
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="rect4199"
+     d="M 4,1 C 3.446,1 3,1.446 3,2 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 14,0 c 0.554,0 1,0.446 1,1 L 19,2 C 19,1.446 18.554,1 18,1 Z" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     id="rect4279"
+     d="M 3,19.5 3,20 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-0.5 c 0,0.554 -0.446,1 -1,1 l -14,0 c -0.554,0 -1,-0.446 -1,-1 z" />
   <text
      id="text4087-2-6-5-10"
      xml:space="preserve"

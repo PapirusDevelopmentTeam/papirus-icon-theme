@@ -31,8 +31,8 @@
      inkscape:window-height="849"
      id="namedview228"
      showgrid="false"
-     inkscape:zoom="4.04"
-     inkscape:cx="-65.490099"
+     inkscape:zoom="9.95"
+     inkscape:cx="-2.080402"
      inkscape:cy="3.8644068"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1107,85 +1107,78 @@
      points="713,603 688.5,578 676.5,569.5 693.5,560.5 693.5,540 732.5,497.5 664,430.5 588,333 517.5,214 500,192 386,355 328,328 304,332.5 299.5,366 318.5,403.5 338,431 309.5,462 275.5,507 300,533 304,551 318.5,569.5 340.5,583 351.5,604.5 373.5,617 395,637.5 452.5,723 488.5,788.5 502,812.5 551.5,721.5 612.5,637 628.5,616 668,619.5 707,615 "
      transform="matrix(0.063142,0,0,0.063142,-131,-10.0295)"
      style="display:none;fill:#5a0e00" />
-  <g
-     id="g4356"
-     transform="translate(-1,-1)">
-    <rect
-       id="rect4203-1"
-       transform="matrix(0,-1,-1,0,0,0)"
-       rx="1"
-       ry="1"
-       height="20"
-       width="20"
-       y="-22"
-       x="-22"
-       style="fill:#1d2d44" />
-    <path
-       id="rect4592"
-       d="M 3,2 C 2.446,2 2,2.446 2,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 22,3 C 22,2.446 21.554,2 21,2 L 3,2 Z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2;fill:#ffffff" />
-    <path
-       id="path4597"
-       d="M 3,22 C 2.446,22 2,21.554 2,21 l 0,-0.5 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,0.5 c 0,0.554 -0.446,1 -1,1 L 3,22 Z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3" />
-    <g
-       id="g4370">
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round"
-         r="2.2499001"
-         cx="14"
-         cy="11"
-         id="circle4462" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round"
-         r="1.2499501"
-         cx="18.5"
-         cy="15"
-         id="circle4456" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-         r="2.5"
-         cx="15.75"
-         cy="13.75"
-         id="circle4454" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round"
-         cy="14"
-         cx="6.5"
-         r="2.2499001"
-         id="circle4458" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50005001;stroke-linecap:round;stroke-linejoin:round"
-         cy="9.25"
-         cx="8.75"
-         r="1.4999501"
-         id="circle4466" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50005001;stroke-linecap:round;stroke-linejoin:round"
-         r="2.75"
-         cx="9"
-         cy="12"
-         id="circle4460" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round"
-         cy="15"
-         cx="8.75"
-         r="1.2499501"
-         id="circle4452" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.50005001;stroke-linecap:round;stroke-linejoin:round"
-         cy="9.75"
-         cx="11.25"
-         r="2.4999499"
-         id="circle4464" />
-      <circle
-         style="fill:#ffffff;stroke:#1d2d44;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-         r="3.24915"
-         cy="13.001"
-         cx="11.999"
-         id="path4450" />
-    </g>
-  </g>
+  <rect
+     style="fill:#394e6f;fill-opacity:1"
+     x="-21"
+     y="-21"
+     width="20"
+     height="20"
+     ry="1"
+     rx="1"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect4203-1" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="M 2,1 C 1.446,1 1,1.446 1,2 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 21,2 C 21,1.446 20.554,1 20,1 L 2,1 Z"
+     id="rect4592" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     d="M 2,21 C 1.446,21 1,20.554 1,20 l 0,-0.5 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,0.5 c 0,0.554 -0.446,1 -1,1 L 2,21 Z"
+     id="path4597" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     r="2.2499001"
+     cx="13"
+     cy="10"
+     id="circle4462" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     r="1.2499501"
+     cx="17.5"
+     cy="14"
+     id="circle4456" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     r="2.5"
+     cx="14.75"
+     cy="12.75"
+     id="circle4454" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     cy="13"
+     cx="5.5"
+     r="2.2499001"
+     id="circle4458" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50005001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     cy="8.25"
+     cx="7.75"
+     r="1.4999501"
+     id="circle4466" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50005001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     r="2.75"
+     cx="8"
+     cy="11"
+     id="circle4460" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50015002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     cy="14"
+     cx="7.75"
+     r="1.2499501"
+     id="circle4452" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.50005001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     cy="8.75"
+     cx="10.25"
+     r="2.4999499"
+     id="circle4464" />
+  <circle
+     style="fill:#ffffff;stroke:#394e6f;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     r="3.24915"
+     cy="12.001"
+     cx="10.999"
+     id="path4450" />
 </svg>

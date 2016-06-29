@@ -28,9 +28,9 @@
      inkscape:window-height="849"
      id="namedview21"
      showgrid="false"
-     inkscape:zoom="4.97"
-     inkscape:cx="-44.253521"
-     inkscape:cy="3.8644068"
+     inkscape:zoom="19.88"
+     inkscape:cx="0.98874296"
+     inkscape:cy="13.924769"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
        gradientUnits="userSpaceOnUse"
        cy="8.4179001"
        cx="19.063"
-       gradientTransform="matrix(0.51715,0,0,0.39731,-0.08624,3.4377)"
+       gradientTransform="matrix(0.51715,0,0,0.39731,-1.08624,2.4377)"
        r="11">
       <stop
          id="stop5750"
@@ -70,7 +70,7 @@
        y2="5.9236002"
        gradientUnits="userSpaceOnUse"
        y1="26.511999"
-       gradientTransform="matrix(0.34375,0,0,0.333335,3.75,2.5)"
+       gradientTransform="matrix(0.34375,0,0,0.333335,2.75,1.5)"
        x2="24.101999"
        x1="24.756001">
       <stop
@@ -90,7 +90,7 @@
        x2="24.639999"
        y1="3.4733"
        x1="23.931999"
-       gradientTransform="matrix(0.5,0,0,0.5,0,0.5)">
+       gradientTransform="matrix(0.5,0,0,0.5,-1,-0.5)">
       <stop
          id="stop5742"
          stop-color="#fff"
@@ -102,57 +102,52 @@
          offset="1" />
     </linearGradient>
   </defs>
+  <rect
+     style="fill:#4a4a4a"
+     id="rect4203"
+     ry="1"
+     rx="1"
+     transform="scale(-1,1)"
+     height="20"
+     width="16"
+     y="1"
+     x="-19" />
+  <rect
+     style="fill:url(#radialGradient2429);fill-rule:evenodd;stroke:#363636;stroke-width:0.49987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42860007"
+     id="rect4140"
+     rx="0"
+     ry="0"
+     height="5.5"
+     width="9.5"
+     stroke-miterlimit="3.4286"
+     y="4.2499499"
+     x="6.25" />
+  <path
+     d="m 9,13.5 0,6 5.99995,-3 -5.3995186,-2.6998 z"
+     id="path4160"
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
   <g
-     id="g4148"
-     transform="translate(-1,-1)">
-    <rect
-       x="-20"
-       y="2"
-       width="16"
-       height="20"
-       transform="scale(-1,1)"
-       rx="1"
-       ry="1"
-       id="rect4203"
-       style="fill:#4a4a4a" />
-    <rect
-       x="6.5"
-       y="4.5"
-       width="11"
-       height="7"
-       ry="0.2"
-       rx="0.20625"
-       id="rect4717"
-       style="opacity:0.15;fill:url(#linearGradient4721);fill-rule:evenodd" />
-    <rect
-       x="7.25"
-       y="5.2499499"
-       stroke-miterlimit="3.4286"
-       width="9.5"
-       height="5.5"
-       ry="0"
-       rx="0"
-       id="rect4140"
-       style="fill:url(#radialGradient2429);fill-rule:evenodd;stroke:#363636;stroke-width:0.49987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42860007" />
+     id="g5610"
+     style="fill:#19c0f0;enable-background:new"
+     transform="matrix(0.54545,0,0,0.5,7.36365,12)">
     <g
-       transform="matrix(0.54545,0,0,0.5,8.36365,13)"
-       style="fill:#19c0f0;enable-background:new"
-       id="g5610">
-      <g
-         transform="translate(-305,119)"
-         id="layer12"
-         style="fill:#19c0f0">
-        <path
-           d="m 308,-117 0,12 11,-6 -9.8992,-5.3996 z"
-           id="path3807-1-1-9-38-4"
-           inkscape:connector-curvature="0"
-           style="opacity:0.5;fill:#19c0f0" />
-      </g>
+       style="fill:#19c0f0"
+       id="layer12"
+       transform="translate(-305,119)">
+      <path
+         style="opacity:0.5;fill:#19c0f0"
+         inkscape:connector-curvature="0"
+         id="path3807-1-1-9-38-4"
+         d="m 308,-117 0,12 11,-6 -9.8992,-5.3996 z" />
     </g>
-    <path
-       d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,18 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 L 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z m 0,0.5 14,0 c 0.2855,0 0.5,0.21435 0.5,0.5 l 0,18 c 0,0.2855 -0.2145,0.5 -0.5,0.5 l -14,0 C 4.71435,21.5 4.5,21.2855 4.5,21 L 4.5,3 C 4.5,2.71435 4.71435,2.5 5,2.5 Z"
-       id="rect5728"
-       style="opacity:0.2;fill:url(#linearGradient5746)"
-       inkscape:connector-curvature="0" />
   </g>
+  <path
+     style="fill:#ffffff;fill-opacity:1;opacity:0.1"
+     d="M 4 1 C 3.446 1 3 1.446 3 2 L 3 2.5 C 3 1.946 3.446 1.5 4 1.5 L 18 1.5 C 18.554 1.5 19 1.946 19 2.5 L 19 2 C 19 1.446 18.554 1 18 1 L 4 1 z "
+     id="rect4165" />
+  <path
+     style="fill:#000000;fill-opacity:1;opacity:0.3"
+     d="M 3 19.5 L 3 20 C 3 20.554 3.446 21 4 21 L 18 21 C 18.554 21 19 20.554 19 20 L 19 19.5 C 19 20.054 18.554 20.5 18 20.5 L 4 20.5 C 3.446 20.5 3 20.054 3 19.5 z "
+     id="rect4170" />
 </svg>

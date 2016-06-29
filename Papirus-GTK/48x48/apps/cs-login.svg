@@ -27,11 +27,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="849"
      id="namedview230"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="24"
+     inkscape:zoom="7.03"
+     inkscape:cx="21.839439"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1298,14 +1298,13 @@
   <rect
      id="rect4203-5"
      ry="2"
-     style="enable-background:new"
+     style="fill:#4d4d4d;enable-background:new"
      rx="2"
      transform="matrix(0,-1,-1,0,0,0)"
      height="40"
      width="32"
      y="-44"
-     x="-40"
-     fill="#4d4d4d" />
+     x="-40" />
   <g
      id="g4410"
      style="opacity:0.2;fill:#000000;fill-opacity:1"
@@ -1330,34 +1329,33 @@
        style="fill:#000000;fill-opacity:1" />
   </g>
   <path
+     inkscape:connector-curvature="0"
      id="rect4414"
-     opacity=".2"
-     style="enable-background:new"
-     d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"
-     fill="#fff" />
+     style="opacity:0.1;fill:#ffffff;enable-background:new"
+     d="M 6,8 C 4.892,8 4,8.892 4,10 l 0,1 C 4,9.892 4.892,9 6,9 l 36,0 c 1.108,0 2,0.892 2,2 l 0,-1 C 44,8.892 43.108,8 42,8 L 6,8 Z" />
   <path
+     inkscape:connector-curvature="0"
      id="rect4439"
-     opacity=".3"
-     d="m4 37v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"
-     style="enable-background:new" />
+     d="m 4,37 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,39 C 4.892,39 4,38.108 4,37 Z"
+     style="opacity:0.3;enable-background:new" />
   <rect
+     style="fill:#ffffff"
      id="rect4351"
      rx="2"
      ry="2"
      height="8"
      width="30"
      y="14"
-     x="9"
-     fill="#fff" />
+     x="9" />
   <rect
+     style="fill:#ffffff"
      id="rect4353"
      rx="2"
      ry="2"
      height="8"
      width="30"
      y="26"
-     x="9"
-     fill="#fff" />
+     x="9" />
   <circle
      style="opacity:1;fill:#4fa0ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle4390"
