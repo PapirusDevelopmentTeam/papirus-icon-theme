@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="weather-fog.svg"
+   height="24"
+   id="svg6530"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 24 24"
+   width="24">
+  <defs
+     id="defs6532" />
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-145.42379"
+     inkscape:cy="-39.283527"
+     inkscape:document-units="px"
+     id="base"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     pagecolor="#454d50"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     units="px"
+     inkscape:window-height="876"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1535"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:zoom="1">
+    <inkscape:grid
+       empspacing="4"
+       id="grid8845"
+       originx="-154.00001"
+       originy="-21.999991"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6535">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="panel"
+     transform="translate(-154.00001,-1006.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 158.00015,1013.3622 13,0 c 2.99997,0 2.99999,3 2.99999,3 l -13,0 c 0,0 -3.00002,0 -2.99999,-3 z"
+       id="rect6343"
+       sodipodi:nodetypes="ccccc"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 171.00017,1017.3622 -13,0 c -2e-5,3 2.99998,3 2.99998,3 l 13,0 c 0,0 0,-3 -2.99998,-3 z"
+       id="rect6345"
+       sodipodi:nodetypes="ccccc"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 158.00014,1021.3622 13,0 c 3,0 2.99998,3 2.99998,3 l -13,0 c 0,0 -2.99998,0 -2.99998,-3 z"
+       id="rect6347"
+       sodipodi:nodetypes="ccccc"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="animations"
+     transform="translate(-154.00001,-554.00001)" />
+</svg>
