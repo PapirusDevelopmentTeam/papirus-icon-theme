@@ -14,7 +14,7 @@
    width="32"
    version="1.0"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="applications-utilities.svg">
+   sodipodi:docname="utilities-system-monitor.svg">
   <defs
      id="defs219" />
   <sodipodi:namedview
@@ -31,7 +31,7 @@
      id="namedview217"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-3.200624"
+     inkscape:cx="-24.452423"
      inkscape:cy="1.0889158"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1304,7 +1304,7 @@
      width="24"
      y="-30"
      x="-28"
-     style="fill:#234b27;fill-opacity:1" />
+     style="fill:#234b27;fill-opacity:1;opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path4594"
