@@ -14,7 +14,7 @@
    width="48"
    version="1.0"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="yast-sound.svg">
+   sodipodi:docname="audio-speakers.svg">
   <defs
      id="defs229" />
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview227"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="11.509608"
+     inkscape:zoom="15.07"
+     inkscape:cx="28.545732"
      inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1306,7 +1306,7 @@
      x="-40"
      style="fill:#4d4d4d;fill-opacity:1" />
   <circle
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
      id="circle4415"
      transform="matrix(0,-1,1,0,0,0)"
      cy="24"
@@ -1346,7 +1346,7 @@
      cx="-28"
      r="5" />
   <circle
-     style="opacity:0.2;fill:#ffffff"
+     style="opacity:0.1;fill:#ffffff"
      id="circle4503"
      transform="matrix(0,-1,-1,0,0,0)"
      cy="-24"
@@ -1358,14 +1358,14 @@
      cy="-15"
      cx="11"
      r="2"
-     style="opacity:0.2;fill:#ffffff" />
+     style="opacity:0.1;fill:#ffffff" />
   <circle
      id="circle5952"
      transform="matrix(0,1,-1,0,0,0)"
      cy="-33"
      cx="11"
      r="2"
-     style="opacity:0.2;fill:#ffffff" />
+     style="opacity:0.1;fill:#ffffff" />
   <circle
      style="fill:#2d2d2d;fill-opacity:1"
      id="circle5954"
@@ -1387,7 +1387,7 @@
      d="m 8,41 0,1 c 0,1.108 0.892,2 2,2 l 28,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 10,43 C 8.892,43 8,42.108 8,41 Z" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
      d="M 10,4 C 8.892,4 8,4.892 8,6 L 8,7 C 8,5.892 8.892,5 10,5 l 28,0 c 1.108,0 2,0.892 2,2 L 40,6 C 40,4.892 39.108,4 38,4 L 10,4 Z"
      id="rect4357" />
 </svg>
