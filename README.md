@@ -3,7 +3,7 @@
 </p>
 
 # Install
-**Archlinux (AUR)**:
+**Archlinux, Manjaro, Antergos (AUR)**:
 ```
 yaourt -S papirus-icon-theme-gtk
 ```
