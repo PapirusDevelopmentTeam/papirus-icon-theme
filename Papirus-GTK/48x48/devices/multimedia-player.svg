@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="48"
+   width="48"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="multimedia-player.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-2.0857654"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2819">
+    <radialGradient
+       id="radialGradient2429"
+       gradientUnits="userSpaceOnUse"
+       cy="8.4179"
+       cx="19.063"
+       gradientTransform="matrix(1.0343,0,0,0.79462,-0.17248,5.8754)"
+       r="11">
+      <stop
+         id="stop5750"
+         stop-color="#484848"
+         offset="0" />
+      <stop
+         id="stop5752"
+         stop-color="#333"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient4721"
+       y2="5.9236"
+       gradientUnits="userSpaceOnUse"
+       y1="26.512"
+       gradientTransform="matrix(0.6875,0,0,0.66667,7.5,4)"
+       x2="24.102"
+       x1="24.756">
+      <stop
+         id="stop4725"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4727"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#4a4a4a"
+     id="rect4203"
+     ry="2"
+     rx="2"
+     transform="scale(-1,1)"
+     height="40"
+     width="32"
+     y="3"
+     x="-40" />
+  <rect
+     id="rect4717"
+     rx="0.41249999"
+     ry="0.40000001"
+     height="14"
+     width="22"
+     y="8"
+     x="13"
+     style="opacity:0.1;fill:url(#linearGradient4721);fill-rule:evenodd" />
+  <rect
+     style="fill:url(#radialGradient2429);fill-rule:evenodd;stroke:#363636;stroke-width:0.99974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42860007"
+     id="rect4140"
+     rx="0"
+     ry="0"
+     height="11"
+     width="19"
+     stroke-miterlimit="3.4286"
+     y="9.4998999"
+     x="14.5" />
+  <path
+     d="m 18.9997,27 0,12 11.9999,-6 -10.799037,-5.3996 z"
+     id="path4172"
+     style="opacity:0.2;fill:#000000;fill-opacity:1"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g5610"
+     style="fill:#19c0f0;enable-background:new"
+     transform="matrix(1.0909,0,0,1,15.727,24)">
+    <g
+       style="fill:#19c0f0"
+       id="layer12"
+       transform="translate(-305,119)">
+      <path
+         style="opacity:0.5;fill:#19c0f0"
+         inkscape:connector-curvature="0"
+         id="path3807-1-1-9-38-4"
+         d="m 308,-117 0,12 11,-6 -9.8992,-5.3996 z" />
+    </g>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+     d="M 10,3 C 8.892,3 8,3.892 8,5 L 8,6 C 8,4.892 8.892,4 10,4 l 28,0 c 1.108,0 2,0.892 2,2 L 40,5 C 40,3.892 39.108,3 38,3 L 10,3 Z"
+     id="rect4149" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
+     d="m 8,40 0,1 c 0,1.108 0.892,2 2,2 l 28,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 10,42 C 8.892,42 8,41.108 8,40 Z"
+     id="rect4154" />
+</svg>
