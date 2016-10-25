@@ -1,8 +1,0 @@
-Tray icon for Telegram.
-
-Install:
-rm -rf ~/.TelegramDesktop/tdata/ticons
-cp -R /usr/share/icons/Papirus-GTK/extra/telegram/24x24/ticons ~/.TelegramDesktop/tdata/ticons
-cd ~/.TelegramDesktop/tdata/ticons
-for f in {1..2000}; do ln -s ico_22.png ico_22_$f.png; done
-for f in {2..2000}; do ln -s icomute_22_1.png icomute_22_$f.png; done

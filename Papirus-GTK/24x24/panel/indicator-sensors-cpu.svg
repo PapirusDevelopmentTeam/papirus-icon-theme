@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-sensors-cpu.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="814"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-4.940678"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="translate(4.0000122,-1029.4)"
+     id="g4"
+     style="fill:#ffffff">
+    <rect
+       rx="0.25"
+       ry="0.25"
+       height="9"
+       width="9"
+       y="1038.4"
+       x="5"
+       id="rect6" />
+    <rect
+       rx="0.25"
+       ry="0.25"
+       height="2"
+       width="1"
+       y="1033.4"
+       x="13"
+       id="rect8" />
+    <rect
+       rx="0.25"
+       ry="0.25"
+       height="2"
+       width="1"
+       y="1033.4"
+       x="9"
+       id="rect10" />
+    <rect
+       rx="0.25"
+       ry="0.25"
+       height="2"
+       width="1"
+       y="1033.4"
+       x="5"
+       id="rect12" />
+    <g
+       transform="matrix(0,1,-1,0,1033.4,1029.4)"
+       id="g14">
+      <rect
+         rx="0.25"
+         ry="0.25"
+         height="2"
+         width="1"
+         y="1031.4"
+         x="17"
+         id="rect16" />
+      <rect
+         rx="0.25"
+         ry="0.25"
+         height="2"
+         width="1"
+         y="1031.4"
+         x="13"
+         id="rect18" />
+      <rect
+         rx="0.25"
+         ry="0.25"
+         height="2"
+         width="1"
+         y="1031.4"
+         x="9"
+         id="rect20" />
+    </g>
+    <path
+       d="M 3.25,5 C 2.5575,5 2,5.5575 2,6.25 L 2,7.0254 C 2.5716,7.1408 3,7.6434 3,8.25 l 0,0.5 C 3,9.3566 2.5716,9.8592 2,9.9746 l 0,1.0504 c 0.5716,0.116 1,0.618 1,1.225 l 0,0.5 c 0,0.607 -0.4284,1.109 -1,1.225 l 0,1.05 c 0.5716,0.116 1,0.618 1,1.225 l 0,0.5 C 3,17.349 2.582,17.845 2.0215,17.969 2.1249,18.556 2.6326,19 3.25,19 l 11.5,0 C 15.442,19 16,18.442 16,17.75 L 16,6.25 C 16,5.6414 15.569,5.1387 14.994,5.0254 14.98,5.5668 14.545,6 14,6 L 13,6 C 12.446,6 12,5.554 12,5 l -1,0 c 0,0.554 -0.446,1 -1,1 L 9,6 C 8.446,6 8,5.554 8,5 L 7,5 C 7,5.554 6.554,6 6,6 L 5,6 C 4.446,6 4,5.554 4,5 L 3.25,5 Z M 5,7 14,7 c 0.554,0 1,0.446 1,1 l 0,9 c 0,0.554 -0.446,1 -1,1 L 5,18 C 4.446,18 4,17.554 4,17 L 4,8 C 4,7.446 4.446,7 5,7 Z"
+       transform="translate(0,1030.4)"
+       id="path22"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
