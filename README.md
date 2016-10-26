@@ -19,6 +19,7 @@ sudo apt-get update
 sudo apt-get install papirus-gtk-icon-theme 
 ```
 **Hardcoded tray icons**
+
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
 # DONATE
