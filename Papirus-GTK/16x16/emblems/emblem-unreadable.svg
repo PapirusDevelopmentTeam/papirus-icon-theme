@@ -1,17 +1,104 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Paper Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title8473">Paper Symbolic Icon Theme</title>
- <g id="layer12" transform="translate(-265 -121)">
-  <path id="path4743" opacity=".5" style="enable-background:new" d="m270 125a1 1 0 0 0 -1 1 1 1 0 0 0 0.29297 0.70703l2.293 2.293-2.293 2.293a1 1 0 0 0 -0.29 0.7 1 1 0 0 0 1 1 1 1 0 0 0 0.70703 -0.29297l2.293-2.293 2.2832 2.2832a1 1 0 0 0 0.7168 0.30273 1 1 0 0 0 1 -1 1 1 0 0 0 -0.29297 -0.70703l-2.3-2.3 2.2832-2.2832a1 1 0 0 0 0.31 -0.72 1 1 0 0 0 -1 -1 1 1 0 0 0 -0.70703 0.29297l-2.293 2.293-2.2832-2.2832a1 1 0 0 0 -0.01 -0.01 1 1 0 0 0 -0.7 -0.29z"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem-unreadable.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     id="namedview7"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="1"
+     inkscape:cx="-68.282701"
+     inkscape:cy="32.884533"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3194" />
+    <sodipodi:guide
+       position="24,30.000001"
+       orientation="1,0"
+       id="guide3196" />
+    <sodipodi:guide
+       position="55,24"
+       orientation="0,1"
+       id="guide3198" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4230"
+     transform="scale(0.5,0.5)">
+    <circle
+       r="14"
+       style="opacity:1;fill:#646464;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3197"
+       cx="16"
+       cy="16" />
+    <g
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,16,-6.627417)"
+       id="g4207">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4136"
+         width="4"
+         height="20"
+         x="-18"
+         y="6"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         y="6"
+         x="14"
+         height="20"
+         width="4"
+         id="rect4138"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
 </svg>

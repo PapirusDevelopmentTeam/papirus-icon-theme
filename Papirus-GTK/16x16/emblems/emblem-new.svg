@@ -1,17 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Paper Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title8473">Paper Symbolic Icon Theme</title>
- <g id="layer12" transform="translate(-425 -41)">
-  <path id="path4138" opacity=".5" transform="matrix(.53876 0 0 .52974 216.14 28.473)" d="m398.45 51.964-0.91316-7.9609-8.0081 0.28356 5.6548-5.6775-5.2147-6.0842 7.9645 0.88121 1.5055-7.8704 4.2768 6.7764 7.092-3.7301-2.6314 7.5688 7.3381 3.2191-7.5582 2.6617 2.0584 7.7442-6.7935-4.2496z"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem-new.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     id="namedview7"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="1"
+     inkscape:cx="-18.777188"
+     inkscape:cy="15.643154"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3194" />
+    <sodipodi:guide
+       position="24,30.000001"
+       orientation="1,0"
+       id="guide3196" />
+    <sodipodi:guide
+       position="55,24"
+       orientation="0,1"
+       id="guide3198" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4219"
+     transform="scale(0.5,0.5)">
+    <circle
+       r="14"
+       style="opacity:1;fill:#646464;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3197"
+       cx="16"
+       cy="16" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       y="6"
+       x="-18"
+       height="20"
+       width="4"
+       id="rect4136"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138"
+       width="4"
+       height="20"
+       x="14"
+       y="6" />
+  </g>
 </svg>
