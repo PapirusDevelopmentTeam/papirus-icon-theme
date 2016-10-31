@@ -185,12 +185,16 @@ Type=Scalable
 [64x64/places]
 Context=Places
 Size=64
-Type=Fixed
+MinSize=64
+MaxSize=512
+Type=Scalable
 
 [64x64/mimetypes]
 Context=MimeTypes
 Size=64
-Type=Fixed
+MinSize=64
+MaxSize=512
+Type=Scalable
 
 [symbolic/actions]
 Context=Actions
