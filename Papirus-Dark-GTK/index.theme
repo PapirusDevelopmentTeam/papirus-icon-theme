@@ -44,11 +44,6 @@ Context=MimeTypes
 Size=16
 Type=Fixed
 
-[22x22/emblems]
-Context=Emblems
-Size=22
-Type=Fixed
-
 [16x16@2x/emblems]
 Context=Emblems
 Size=16
@@ -85,6 +80,11 @@ Size=16
 Scale=2
 Type=Fixed
 
+[22x22/emblems]
+Context=Emblems
+Size=22
+Type=Fixed
+
 [22x22/panel]
 Context=Status
 Size=22
@@ -113,6 +113,12 @@ Type=Fixed
 [22x22/mimetypes]
 Context=MimeTypes
 Size=22
+Type=Fixed
+
+[22x22@2x/emblems]
+Context=Emblems
+Size=22
+Scale=2
 Type=Fixed
 
 [22x22@2x/panel]
