@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   version="1.1"
-   height="22"
-   viewBox="0 0 22 22"
    width="22"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="indicator-messages-red.svg">
+   viewBox="0 0 22 22"
+   height="22"
+   version="1.1"
+   id="svg6530">
   <defs
      id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,15 +25,14 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#5294e2;fill-opacity:1"
-     inkscape:connector-curvature="0"
+     id="path10993"
      d="m 11,3 c 0.55228,0 1,0.44772 1,1 -2.9e-4,0.0333 -0.002,0.0665 -0.006,0.0996 C 14.2843,4.55843 16,6.5708 15.9999,9 l -1.4e-4,2 0,2.5 2,2 0,0.5 -2,0 -10,0 -2,0 0,-0.5 2,-2 0,-4.5 c 8e-5,-2.4292 1.7157,-4.4416 4.0059,-4.9004 -0.004,-0.0331 -0.006,-0.0663 -0.006,-0.0996 0,-0.55228 0.44772,-1 1,-1 z m 1.7284,14 c -0.35663,0.61771 -1.0152,0.99874 -1.7285,1 -0.71397,-5.6e-4 -1.3735,-0.38169 -1.7305,-1 z"
-     id="path10993" />
+     style="fill:#5294e2;fill-opacity:1" />
   <rect
-     x="0"
-     y="-1.4648437e-05"
-     width="22"
-     height="22"
+     id="rect10995"
      style="color:#bebebe;fill:none;enable-background:new"
-     id="rect10995" />
+     height="22"
+     width="22"
+     y="-1.4648437e-05"
+     x="0" />
 </svg>

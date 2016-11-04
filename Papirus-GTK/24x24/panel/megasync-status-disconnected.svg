@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   viewBox="0 0 6.7733335 6.7733335"
-   height="24"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="megasync-status-disconnected.svg">
+   id="svg2"
+   height="24"
+   viewBox="0 0 6.7733335 6.7733335"
+   width="24">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,35 +18,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#525252"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-3.8220336"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     d="m 3.3866667,1.1288889 c -1.2468577,0 -2.2577778,1.01092 -2.2577778,2.2577777 0,1.2468578 1.0109201,2.2577778 2.2577778,2.2577778 1.2468578,0 2.2577778,-1.01092 2.2577778,-2.2577778 0,-1.2468577 -1.01092,-2.2577777 -2.2577778,-2.2577777 z M 2.2577778,2.54 2.8222223,2.54 3.3866667,3.3866666 3.9511112,2.54 l 0.5644444,0 0,1.6933333 -0.5644444,0 0,-0.7055556 -0.2822223,0.4233334 -0.5644444,0 -0.2822222,-0.4233334 0,0.7055556 -0.5644445,0 z"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="path4"
-     inkscape:connector-curvature="0" />
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 3.3866667,1.1288889 c -1.2468577,0 -2.2577778,1.01092 -2.2577778,2.2577777 0,1.2468578 1.0109201,2.2577778 2.2577778,2.2577778 1.2468578,0 2.2577778,-1.01092 2.2577778,-2.2577778 0,-1.2468577 -1.01092,-2.2577777 -2.2577778,-2.2577777 z M 2.2577778,2.54 2.8222223,2.54 3.3866667,3.3866666 3.9511112,2.54 l 0.5644444,0 0,1.6933333 -0.5644444,0 0,-0.7055556 -0.2822223,0.4233334 -0.5644444,0 -0.2822222,-0.4233334 0,0.7055556 -0.5644445,0 z" />
 </svg>

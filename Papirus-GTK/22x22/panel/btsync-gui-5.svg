@@ -5,13 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="btsync-gui-5.svg">
+   id="svg2"
+   viewBox="0 0 22 22">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -25,39 +21,19 @@
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="809"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
   <g
-     transform="matrix(0.0900014,0.33588983,-0.33588983,0.0900014,16.905395,0.76871107)"
+     id="g4"
      style="fill:#ffffff;fill-opacity:1;opacity:1"
-     id="g4">
+     transform="matrix(0.0900014,0.33588983,-0.33588983,0.0900014,16.905395,0.76871107)">
     <path
-       d="m -25.406 12 c -4.418 0 -8 3.582 -8 8 0 4.418 3.582 8 8 8 4.418 0 8 -3.582 8 -8 0 -4.418 -3.582 -8 -8 -8 z m 0 2.5 c 2.304 0 4.367 1.303 5.281 3.313 l 1.219 -0.469 -1 3.469 -3.313 -1.844 1.281 -0.5 c -0.621 -1.31 -1.954 -2.125 -3.469 -2.125 -1.573 0 -2.996 0.94 -3.563 2.344 l -1.781 -0.688 c 0.845 -2.104 2.985 -3.5 5.344 -3.5 z m -5.5 4.719 3.313 1.781 -1.281 0.5 c 0.613 1.305 1.964 2.156 3.469 2.156 1.576 0 2.979 -0.91 3.563 -2.313 l 1.781 0.688 c -0.877 2.103 -2.979 3.469 -5.344 3.469 -2.292 0 -4.387 -1.339 -5.281 -3.344 l -1.219 0.438 1 -3.375 z"
-       transform="matrix(2.875,0,0,2.875,97.067647,-33.481261)"
+       style="fill:#ffffff;fill-opacity:1"
        id="path6"
-       style="fill:#ffffff;fill-opacity:1" />
+       transform="matrix(2.875,0,0,2.875,97.067647,-33.481261)"
+       d="m -25.406 12 c -4.418 0 -8 3.582 -8 8 0 4.418 3.582 8 8 8 4.418 0 8 -3.582 8 -8 0 -4.418 -3.582 -8 -8 -8 z m 0 2.5 c 2.304 0 4.367 1.303 5.281 3.313 l 1.219 -0.469 -1 3.469 -3.313 -1.844 1.281 -0.5 c -0.621 -1.31 -1.954 -2.125 -3.469 -2.125 -1.573 0 -2.996 0.94 -3.563 2.344 l -1.781 -0.688 c 0.845 -2.104 2.985 -3.5 5.344 -3.5 z m -5.5 4.719 3.313 1.781 -1.281 0.5 c 0.613 1.305 1.964 2.156 3.469 2.156 1.576 0 2.979 -0.91 3.563 -2.313 l 1.781 0.688 c -0.877 2.103 -2.979 3.469 -5.344 3.469 -2.292 0 -4.387 -1.339 -5.281 -3.344 l -1.219 0.438 1 -3.375 z" />
   </g>
   <g
-     transform="matrix(0.49988464,0,0,0.49988464,-37.411065,7.9950011)"
-     id="g8">
+     id="g8"
+     transform="matrix(0.49988464,0,0,0.49988464,-37.411065,7.9950011)">
     <!-- color: #004794 -->
   </g>
 </svg>

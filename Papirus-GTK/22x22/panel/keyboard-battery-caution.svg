@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   height="22"
-   viewBox="0 0 22 22"
-   width="22"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="keyboard-battery-caution.svg">
+   width="22"
+   viewBox="0 0 22 22"
+   height="22"
+   id="svg6530">
   <defs
      id="defs11" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,26 +25,23 @@
     </rdf:RDF>
   </metadata>
   <rect
-     x="-1.4648437e-05"
-     y="-22"
-     width="22"
-     height="22"
-     transform="matrix(0,1,-1,0,0,0)"
+     id="rect10878"
      style="color:#dddddd;fill:none"
-     id="rect10878" />
+     transform="matrix(0,1,-1,0,0,0)"
+     height="22"
+     width="22"
+     y="-22"
+     x="-1.4648437e-05" />
   <path
-     inkscape:connector-curvature="0"
-     d="M 3.5,3 C 3.223,3 3,3.22301 3,3.50001 l 0,0.5 -2,-0.002 0,-2.6e-4 -2e-5,14.502 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 8,3.99875 l -0.50002,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z"
+     id="path10882"
      style="color:#bebebe;opacity:0.35;fill:#5294e2;fill-opacity:1"
-     id="path10882" />
+     d="M 3.5,3 C 3.223,3 3,3.22301 3,3.50001 l 0,0.5 -2,-0.002 0,-2.6e-4 -2e-5,14.502 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 L 8,3.99875 l -0.50002,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 1,16 0,2.5 C 1,18.777 1.223,19 1.5,19 l 6,0 C 7.777,19 8,18.777 8,18.5 L 8,16 Z"
+     id="path10884"
      style="color:#bebebe;fill:#5294e2;fill-opacity:1"
-     id="path10884" />
+     d="m 1,16 0,2.5 C 1,18.777 1.223,19 1.5,19 l 6,0 C 7.777,19 8,18.777 8,18.5 L 8,16 Z" />
   <path
-     style="fill:#ffffff;fill-rule:evenodd"
-     inkscape:connector-curvature="0"
+     id="path10927"
      d="m 11,4 c -0.554,0 -1,0.446 -1,1 l 0,13 c 0,0.554 0.446,1 1,1 l 5,0 c 0.554,0 1,-0.446 1,-1 L 17,5 C 17,4.446 16.554,4 16,4 l -5,0 z m 0,3 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m 2,1 1,0 0,7 -1,0 0,-7 z m -4,1 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z"
-     id="path10927" />
+     style="fill:#ffffff;fill-rule:evenodd" />
 </svg>

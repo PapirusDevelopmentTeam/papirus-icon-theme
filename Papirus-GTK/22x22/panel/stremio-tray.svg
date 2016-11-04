@@ -1,42 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg4276"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="stremio-tray.svg">
+   id="svg4276"
+   viewBox="0 0 22 22"
+   height="22"
+   width="22">
   <defs
      id="defs4278" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#2f2f2f"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.42"
-     inkscape:cx="-5.1968984"
-     inkscape:cy="12.762118"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata4281">
     <rdf:RDF>
@@ -50,17 +25,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1030.3622)">
+     transform="translate(0,-1030.3622)"
+     id="layer1">
     <path
-       style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 11 3 C 10.740801 3 10.481814 3.1002281 10.283203 3.2988281 L 3.2988281 10.283203 C 2.9016045 10.680403 2.9016045 11.319597 3.2988281 11.716797 L 10.283203 18.701172 C 10.680426 19.098372 11.319574 19.098372 11.716797 18.701172 L 18.701172 11.716797 C 19.098396 11.319597 19.098396 10.680403 18.701172 10.283203 L 11.716797 3.2988281 C 11.518186 3.1002281 11.259199 3 11 3 z M 10.892578 7 C 11.623561 7 12.19349 7.1761437 12.601562 7.5273438 C 13.013184 7.8787438 13.21875 8.3462406 13.21875 8.9316406 C 13.21875 9.4214406 13.074177 9.8321094 12.783203 10.162109 C 12.49223 10.492109 12.076475 10.702722 11.537109 10.794922 L 11.537109 10.826172 C 12.818103 10.992972 13.458984 11.611588 13.458984 12.679688 C 13.458984 13.399987 13.214297 13.967613 12.724609 14.382812 C 12.234922 14.794412 11.527712 15 10.601562 15 C 9.7428363 15 9.0555421 14.860378 8.5410156 14.580078 L 8.5410156 13.673828 C 9.193932 14.014528 9.8739347 14.185547 10.580078 14.185547 C 11.836232 14.185547 12.462891 13.673937 12.462891 12.648438 C 12.462891 11.732937 11.78751 11.273438 10.435547 11.273438 L 9.7285156 11.273438 L 9.7285156 10.470703 L 10.435547 10.470703 C 11.0033 10.470703 11.443595 10.336106 11.755859 10.066406 C 12.068123 9.7967062 12.224609 9.4395938 12.224609 8.9960938 C 12.224609 8.6341937 12.102623 8.3480719 11.861328 8.1386719 C 11.620033 7.9257719 11.297103 7.8203125 10.892578 7.8203125 C 10.260953 7.8203125 9.6515441 8.0335906 9.0625 8.4628906 L 8.5722656 7.7988281 C 9.2358274 7.2666281 10.009012 7 10.892578 7 z "
+       id="path4137"
        transform="translate(0,1030.3622)"
-       id="path4137" />
+       d="M 11 3 C 10.740801 3 10.481814 3.1002281 10.283203 3.2988281 L 3.2988281 10.283203 C 2.9016045 10.680403 2.9016045 11.319597 3.2988281 11.716797 L 10.283203 18.701172 C 10.680426 19.098372 11.319574 19.098372 11.716797 18.701172 L 18.701172 11.716797 C 19.098396 11.319597 19.098396 10.680403 18.701172 10.283203 L 11.716797 3.2988281 C 11.518186 3.1002281 11.259199 3 11 3 z M 10.892578 7 C 11.623561 7 12.19349 7.1761437 12.601562 7.5273438 C 13.013184 7.8787438 13.21875 8.3462406 13.21875 8.9316406 C 13.21875 9.4214406 13.074177 9.8321094 12.783203 10.162109 C 12.49223 10.492109 12.076475 10.702722 11.537109 10.794922 L 11.537109 10.826172 C 12.818103 10.992972 13.458984 11.611588 13.458984 12.679688 C 13.458984 13.399987 13.214297 13.967613 12.724609 14.382812 C 12.234922 14.794412 11.527712 15 10.601562 15 C 9.7428363 15 9.0555421 14.860378 8.5410156 14.580078 L 8.5410156 13.673828 C 9.193932 14.014528 9.8739347 14.185547 10.580078 14.185547 C 11.836232 14.185547 12.462891 13.673937 12.462891 12.648438 C 12.462891 11.732937 11.78751 11.273438 10.435547 11.273438 L 9.7285156 11.273438 L 9.7285156 10.470703 L 10.435547 10.470703 C 11.0033 10.470703 11.443595 10.336106 11.755859 10.066406 C 12.068123 9.7967062 12.224609 9.4395938 12.224609 8.9960938 C 12.224609 8.6341937 12.102623 8.3480719 11.861328 8.1386719 C 11.620033 7.9257719 11.297103 7.8203125 10.892578 7.8203125 C 10.260953 7.8203125 9.6515441 8.0335906 9.0625 8.4628906 L 8.5722656 7.7988281 C 9.2358274 7.2666281 10.009012 7 10.892578 7 z "
+       style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       style="font-style:normal;font-weight:normal;font-size:43.6034584px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="text4136" />
+       id="text4136"
+       style="font-style:normal;font-weight:normal;font-size:43.6034584px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

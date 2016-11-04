@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   version="1.1"
-   height="24"
-   viewBox="0 0 24 24"
    width="24"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="audio-volume-muted-blocking.svg">
+   viewBox="0 0 24 24"
+   height="24"
+   version="1.1"
+   id="svg6530">
   <defs
      id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,21 +25,21 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     transform="translate(-128 -648.36)"
+     style="fill:#5294e2;fill-opacity:1"
      fill="#02a8f3"
-     style="fill:#5294e2;fill-opacity:1">
+     transform="translate(-128 -648.36)"
+     id="layer1">
     <path
-       id="path10636"
+       style="fill:#5294e2;fill-opacity:1"
        d="m133.09 657.45v5.818h2.909l4 4.091v-14l-4 4.091z"
-       style="fill:#5294e2;fill-opacity:1" />
+       id="path10636" />
     <path
-       id="path10638"
+       style="fill:#5294e2;fill-opacity:1"
        d="m142 653.36v1.5c2.32 0.74 4 2.93 4 5.5s-1.68 4.76-4 5.5v1.5c3.15-0.78 5.5-3.6 5.5-7s-2.35-6.22-5.5-7z"
-       style="fill:#5294e2;fill-opacity:1" />
+       id="path10638" />
     <path
-       id="path10640"
+       style="fill:#5294e2;fill-opacity:1"
        d="m143.79 660.36c0-1.3-0.72-2.42-1.79-3v6c1.06-0.58 1.79-1.7 1.79-3z"
-       style="fill:#5294e2;fill-opacity:1" />
+       id="path10640" />
   </g>
 </svg>

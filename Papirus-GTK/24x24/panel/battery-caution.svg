@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   version="1.1"
-   height="24"
-   viewBox="0 0 24 24"
    width="24"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="battery-caution.svg">
+   viewBox="0 0 24 24"
+   height="24"
+   version="1.1"
+   id="svg6530">
   <defs
      id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,20 +25,20 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     transform="translate(-128 -672.36)"
+     style="fill:#5294e2;fill-opacity:1"
      fill="#e74c3c"
-     style="fill:#5294e2;fill-opacity:1">
+     transform="translate(-128 -672.36)"
+     id="layer1">
     <path
-       id="path6709"
-       opacity=".35"
+       style="fill:#5294e2;fill-opacity:1"
+       class="error"
        d="m142 677.36v1h3s-0.00003 0.446-0.00003 1v11c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-11c0-0.554 0.00003-1 0.00003-1h3v-1z"
-       class="error"
-       style="fill:#5294e2;fill-opacity:1" />
+       opacity=".35"
+       id="path6709" />
     <path
-       id="path6711"
-       d="m145 688.36v2c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-2z"
+       style="fill:#5294e2;fill-opacity:1"
        class="error"
-       style="fill:#5294e2;fill-opacity:1" />
+       d="m145 688.36v2c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-2z"
+       id="path6711" />
   </g>
 </svg>

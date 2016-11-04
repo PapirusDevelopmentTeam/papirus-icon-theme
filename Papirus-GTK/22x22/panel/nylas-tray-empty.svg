@@ -5,13 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="nylas-tray-empty.svg">
+   id="svg2"
+   viewBox="0 0 22 22">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -20,34 +16,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs18" />
-  <sodipodi:namedview
-     pagecolor="#5b5b5b"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-7.9237288"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;fill-rule:evenodd;opacity:0.3"
+     id="path4"
      d="M 12 2.5 L 12 5.5 L 19 9.5 L 19 6.5 L 12 2.5 z M 4 3.2226562 C 3.448 3.2226562 3 3.6706562 3 4.2226562 L 3 5.5 L 10 9.5 L 10 6.5019531 C 8.167 5.4539531 6.3260937 4.3984687 4.4960938 3.3554688 C 4.3450937 3.2684688 4.174 3.2226562 4 3.2226562 z M 3 7.5 L 3 10.5 L 10 14.5 L 10 11.5 L 3 7.5 z M 12 7.5 L 12 10.5 L 19 14.5 L 19 11.5 L 12 7.5 z M 3 12.5 L 3 15.5 L 10 19.5 L 10 16.5 L 3 12.5 z M 12 12.5 L 12 15.498047 C 13.833 16.546047 15.673906 17.601531 17.503906 18.644531 C 17.654906 18.731531 17.826 18.777344 18 18.777344 C 18.552 18.777344 19 18.329344 19 17.777344 L 19 16.5 L 12 12.5 z "
-     id="path4" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;fill-rule:evenodd;opacity:0.3" />
 </svg>

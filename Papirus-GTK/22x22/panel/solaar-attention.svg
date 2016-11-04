@@ -1,64 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg11197"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="solaar-attention.svg">
+   id="svg11197"
+   viewBox="0 0 22 22"
+   height="22"
+   width="22">
   <defs
      id="defs11199" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#000000"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="0.78553894"
-     inkscape:cy="11.531738"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid11745" />
-    <sodipodi:guide
-       position="4,13"
-       orientation="1,0"
-       id="guide11747" />
-    <sodipodi:guide
-       position="20,10"
-       orientation="1,0"
-       id="guide11749" />
-    <sodipodi:guide
-       position="11,20"
-       orientation="0,1"
-       id="guide11751" />
-    <sodipodi:guide
-       position="9,4"
-       orientation="0,1"
-       id="guide11753" />
-  </sodipodi:namedview>
   <metadata
      id="metadata11202">
     <rdf:RDF>
@@ -67,23 +20,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1030.3622)">
+     transform="translate(0,-1030.3622)"
+     id="layer1">
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 5 3 C 3.892 3 3 3.892 3 5 L 3 17 C 3 18.108 3.892 19 5 19 L 17 19 C 18.108 19 19 18.108 19 17 L 19 5 C 19 3.892 18.108 3 17 3 L 5 3 z M 8.8652344 5.3046875 L 10.451172 8.0527344 A 3 3 0 0 1 11 8 A 3 3 0 0 1 11.546875 8.0527344 L 13.134766 5.3046875 L 14.865234 6.3046875 L 13.279297 9.0546875 A 3 3 0 0 1 13.826172 10 L 17 10 L 17 12 L 13.824219 12 A 3 3 0 0 1 13.28125 12.949219 L 14.865234 15.695312 L 13.134766 16.695312 L 11.548828 13.947266 A 3 3 0 0 1 11 14 A 3 3 0 0 1 10.453125 13.947266 L 8.8652344 16.695312 L 7.1347656 15.695312 L 8.7207031 12.945312 A 3 3 0 0 1 8.1738281 12 L 5 12 L 5 10 L 8.1757812 10 A 3 3 0 0 1 8.71875 9.0507812 L 7.1347656 6.3046875 L 8.8652344 5.3046875 z "
+       id="path4143"
        transform="translate(0,1030.3622)"
-       id="path4143" />
+       d="M 5 3 C 3.892 3 3 3.892 3 5 L 3 17 C 3 18.108 3.892 19 5 19 L 17 19 C 18.108 19 19 18.108 19 17 L 19 5 C 19 3.892 18.108 3 17 3 L 5 3 z M 8.8652344 5.3046875 L 10.451172 8.0527344 A 3 3 0 0 1 11 8 A 3 3 0 0 1 11.546875 8.0527344 L 13.134766 5.3046875 L 14.865234 6.3046875 L 13.279297 9.0546875 A 3 3 0 0 1 13.826172 10 L 17 10 L 17 12 L 13.824219 12 A 3 3 0 0 1 13.28125 12.949219 L 14.865234 15.695312 L 13.134766 16.695312 L 11.548828 13.947266 A 3 3 0 0 1 11 14 A 3 3 0 0 1 10.453125 13.947266 L 8.8652344 16.695312 L 7.1347656 15.695312 L 8.7207031 12.945312 A 3 3 0 0 1 8.1738281 12 L 5 12 L 5 10 L 8.1757812 10 A 3 3 0 0 1 8.71875 9.0507812 L 7.1347656 6.3046875 L 8.8652344 5.3046875 z "
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11755"
        d="m 11,1039.3622 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
-       id="rect11755" />
+       style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

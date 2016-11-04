@@ -1,48 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="google-tasks-indicator-dark-normal.svg">
+   id="svg2"
+   height="22"
+   width="22">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#2d2d2d"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="10.66"
-     inkscape:cx="12.193125"
-     inkscape:cy="9.7209542"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="12"
-     fit-margin-left="7"
-     fit-margin-right="7"
-     fit-margin-bottom="12"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4146" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -51,22 +19,20 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-269.7767,-487.04746)">
+     transform="translate(-269.7767,-487.04746)"
+     id="layer1">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;opacity:0.5"
+       id="path4182"
        d="m 270.7767,490.04746 0,16 16,0 0,-7.5 -2,2 0,3.5 -12,0 0,-12 12,0 0,3 2,-2 0,-3 -16,0 z"
-       id="path4182" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;opacity:0.5" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;opacity:0.5"
+       id="path4150"
        d="m 289.12826,492.11582 -7.02539,7.13476 -4.9414,-5 -1.38477,1.4043 4.94336,5.00195 1.37109,1.39063 1.38282,-1.40625 7.02734,-7.13477 -1.37305,-1.39062 z"
-       id="path4150" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;opacity:0.5" />
   </g>
 </svg>

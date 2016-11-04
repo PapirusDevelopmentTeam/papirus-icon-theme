@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -8,59 +6,22 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="variety-indicator-dark.svg"
-   height="24"
-   id="svg6530"
-   version="1.1"
-   inkscape:version="0.91 r13725"
+   width="24"
    viewBox="0 0 24 24"
-   width="24">
+   version="1.1"
+   id="svg6530"
+   height="24">
   <defs
      id="defs6532">
     <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5606">
       <stop
-         id="stop5608"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         id="stop5608" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     inkscape:bbox-nodes="true"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="45.321506"
-     inkscape:cy="30.626642"
-     inkscape:document-units="px"
-     id="base"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     pagecolor="#454d50"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     units="px"
-     inkscape:window-height="849"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1600"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="5.33">
-    <inkscape:grid
-       empspacing="4"
-       id="grid8845"
-       originx="-33"
-       originy="-217.08954"
-       type="xygrid" />
-  </sodipodi:namedview>
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -69,26 +30,20 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="panel"
+     transform="translate(-33,-811.27262)"
      style="display:inline"
-     transform="translate(-33,-811.27262)">
+     id="layer1">
     <path
-       inkscape:connector-curvature="0"
-       d="m 38,817.27267 c -1,0 -1,1 -1,1 l 0,8.9375 0,2.71875 c 0.21549,0.23277 0.54729,0.35699 0.875,0.3125 0.0445,0.006 0.0788,0.0312 0.125,0.0312 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-11 c 0,-0.554 -0.446,-1 -1,-1 l -2.90625,0 -1.0625,0 z m 0,1 10.40625,0 1.0625,0 2.53125,0 0,7 0,1.09375 0,1.90625 -4.5625,0 -9.4375,0 0,-0.15625 z m 8,1 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m -4,3 c -1.5,0 -3,2 -3,4.53125 l 0,0.46875 12,0 0,0 c 0,0 -1,-4 -2.5,-4 -1.5,0 -1.5,2 -2.5,2 -1,0 -2.5,-3 -4,-3 z"
+       style="color:#bebebe;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
        id="path3133"
-       sodipodi:nodetypes="sccccsssssccscccccccccccsssssssccssss"
-       style="color:#bebebe;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none" />
+       d="m 38,817.27267 c -1,0 -1,1 -1,1 l 0,8.9375 0,2.71875 c 0.21549,0.23277 0.54729,0.35699 0.875,0.3125 0.0445,0.006 0.0788,0.0312 0.125,0.0312 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-11 c 0,-0.554 -0.446,-1 -1,-1 l -2.90625,0 -1.0625,0 z m 0,1 10.40625,0 1.0625,0 2.53125,0 0,7 0,1.09375 0,1.90625 -4.5625,0 -9.4375,0 0,-0.15625 z m 8,1 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m -4,3 c -1.5,0 -3,2 -3,4.53125 l 0,0.46875 12,0 0,0 c 0,0 -1,-4 -2.5,-4 -1.5,0 -1.5,2 -2.5,2 -1,0 -2.5,-3 -4,-3 z" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="animations"
-     transform="translate(-33,-358.91046)" />
+     transform="translate(-33,-358.91046)"
+     id="layer2" />
 </svg>

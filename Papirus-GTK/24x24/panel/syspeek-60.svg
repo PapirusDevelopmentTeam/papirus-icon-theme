@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -8,59 +6,22 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="syspeek-60.svg"
-   height="24"
-   id="svg6530"
-   version="1.1"
-   inkscape:version="0.91 r13725"
+   width="24"
    viewBox="0 0 24 24"
-   width="24">
+   version="1.1"
+   id="svg6530"
+   height="24">
   <defs
      id="defs6532">
     <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5606">
       <stop
-         id="stop5608"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         id="stop5608" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     inkscape:bbox-nodes="true"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="-108.84653"
-     inkscape:cy="33.952629"
-     inkscape:document-units="px"
-     id="base"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     pagecolor="#454d50"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     units="px"
-     inkscape:window-height="845"
-     inkscape:window-maximized="0"
-     inkscape:window-width="1598"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="4.04">
-    <inkscape:grid
-       empspacing="4"
-       id="grid8845"
-       originx="-449"
-       originy="-24.999997"
-       type="xygrid" />
-  </sodipodi:namedview>
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -69,25 +30,20 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="panel"
+     transform="translate(-449,-1003.3622)"
      style="display:inline"
-     transform="translate(-449,-1003.3622)">
+     id="layer1">
     <path
-       inkscape:connector-curvature="0"
-       d="m 455,1007.3622 c -2,0 -2,2 -2,2 l 0,12 c 0,2 2,2 2,2 l 12,0 c 0,0 2,0 2,-2 l 0,-12 c 0,-2 -2,-2 -2,-2 l -12,0 z m 0,1.9981 12,0 0,12 -12,0 0,-12 z m 1,5 0,6 10,0 0,-6 -10,0 z"
+       style="color:#000000;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
        id="path5452"
-       style="color:#000000;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2" />
+       d="m 455,1007.3622 c -2,0 -2,2 -2,2 l 0,12 c 0,2 2,2 2,2 l 12,0 c 0,0 2,0 2,-2 l 0,-12 c 0,-2 -2,-2 -2,-2 l -12,0 z m 0,1.9981 12,0 0,12 -12,0 0,-12 z m 1,5 0,6 10,0 0,-6 -10,0 z" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="animations"
-     transform="translate(-449,-551)" />
+     transform="translate(-449,-551)"
+     id="layer2" />
 </svg>

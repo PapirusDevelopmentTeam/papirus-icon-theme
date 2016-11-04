@@ -1,41 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="24"
-   width="24"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="simplescreenrecorder-recording.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg7384" />
+   width="24"
+   height="24"
+   style="enable-background:new"
+   id="svg7384">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -53,16 +27,16 @@
   <defs
      id="defs7386">
     <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
       <feBlend
-         id="feBlend7556"
+         mode="darken"
          in2="BackgroundImage"
-         mode="darken" />
+         id="feBlend7556" />
     </filter>
     <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
         color:#7B7C7E;
       }
       .ColorScheme-Background{
@@ -97,8 +71,7 @@
       }</style>
   </defs>
   <path
-     style="fill:#5294e2;fill-opacity:1"
-     inkscape:connector-curvature="0"
+     id="path4646-0"
      d="m 12,4 c -4.4148,0 -8,3.5852 -8,8 0,4.4148 3.5852,8 8,8 4.4148,0 8,-3.5852 8,-8 0,-4.4148 -3.5852,-8 -8,-8 z"
-     id="path4646-0" />
+     style="fill:#5294e2;fill-opacity:1" />
 </svg>

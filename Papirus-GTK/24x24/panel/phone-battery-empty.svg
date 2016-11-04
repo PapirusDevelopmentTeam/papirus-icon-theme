@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   version="1.1"
-   height="24"
-   viewBox="0 0 24 24"
    width="24"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="phone-battery-empty.svg">
+   viewBox="0 0 24 24"
+   height="24"
+   version="1.1"
+   id="svg6530">
   <defs
      id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,13 +25,11 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#ffffff"
-     inkscape:connector-curvature="0"
+     id="path5551"
      d="m 13,4 c -1,0 -1,1 -1,1 l 0,14 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 L 22,5 c 0,0 0,-1 -1,-1 z m 0.9998,2.0034 6,0 0,11 -6,0 z"
-     id="path5551" />
+     style="fill:#ffffff" />
   <path
-     inkscape:connector-curvature="0"
-     d="M 5.5,4 C 5.223,4 5,4.22301 5,4.50001 l 0,0.5 -2,-0.002 0,-2.6e-4 -2e-5,14.502 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 2e-5,-14.501 -0.50002,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z"
+     id="path5553"
      style="color:#bebebe;opacity:0.35;fill:#5294e2;fill-opacity:1"
-     id="path5553" />
+     d="M 5.5,4 C 5.223,4 5,4.22301 5,4.50001 l 0,0.5 -2,-0.002 0,-2.6e-4 -2e-5,14.502 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 2e-5,-14.501 -0.50002,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z" />
 </svg>

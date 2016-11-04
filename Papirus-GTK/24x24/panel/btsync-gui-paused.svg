@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   width="24"
    height="24"
-   sodipodi:docname="btsync-gui-paused.svg">
+   width="24"
+   version="1.1"
+   id="svg2">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -32,106 +26,83 @@
     <clipPath
        id="clipPath-408241621">
       <g
-         transform="translate(0,-1004.3622)"
-         id="g3616">
+         id="g3616"
+         transform="translate(0,-1004.3622)">
         <path
-           style="fill:#1890d0"
-           inkscape:connector-curvature="0"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           id="path3618"
            transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path3618" />
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           style="fill:#1890d0" />
       </g>
     </clipPath>
     <clipPath
        id="clipPath-401820784">
       <g
-         transform="translate(0,-1004.3622)"
-         id="g3611">
+         id="g3611"
+         transform="translate(0,-1004.3622)">
         <path
-           style="fill:#1890d0"
-           inkscape:connector-curvature="0"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           id="path3613"
            transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path3613" />
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           style="fill:#1890d0" />
       </g>
     </clipPath>
     <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+       x2="47"
+       x1="1"
+       id="linearGradient3764">
       <stop
-         stop-color="#003c80"
+         id="stop3606"
          stop-opacity="1"
-         id="stop3606" />
+         stop-color="#003c80" />
       <stop
-         offset="1"
+         id="stop3608"
+         stop-opacity="1"
          stop-color="#004794"
-         stop-opacity="1"
-         id="stop3608" />
+         offset="1" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#6e6e6e"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="4.64"
-     inkscape:cx="-51.030172"
-     inkscape:cy="16.587152"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <g
-     transform="matrix(0.34782609,0,0,0.34782609,3.6435901,3.6456557)"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1"
      id="g3628"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1">
+     transform="matrix(0.34782609,0,0,0.34782609,3.6435901,3.6456557)">
     <path
-       style="fill:#ffffff;fill-opacity:1"
-       d="m 11,3 c -4.418435,0 -8,3.581565 -8,8 0,4.418435 3.581565,8 8,8 4.418435,0 8,-3.581565 8,-8 0,-4.418435 -3.581565,-8 -8,-8 z m -3.75,2 3,0 A 1.0001,1.0001 0 0 1 11,5.3417969 1.0001,1.0001 0 0 1 11.75,5 l 3,0 a 1.0001,1.0001 0 0 1 1,1 l 0,1.9140625 C 15.95092,8.1962057 16.135328,8.4915993 16.28125,8.8125 L 17.5,8.34375 l -1,3.46875 -0.75,-0.417969 0,1.408203 0.59375,0.228516 C 16.187037,13.407129 15.979607,13.749392 15.75,14.074219 L 15.75,16 a 1.0001,1.0001 0 0 1 -1,1 l -3,0 A 1.0001,1.0001 0 0 1 11,16.660156 1.0001,1.0001 0 0 1 10.25,17 l -3,0 a 1.0001,1.0001 0 0 1 -1,-1 l 0,-1.939453 C 6.0482982,13.775425 5.8625527,13.47858 5.71875,13.15625 L 4.5,13.59375 l 1,-3.375 0.75,0.402344 0,-1.3925784 L 5.65625,9 C 5.8095088,8.6183946 6.0179158,8.2704044 6.25,7.9394531 L 6.25,6 a 1.0001,1.0001 0 0 1 1,-1 z m 5.5,2.75 0,6.492188 c 0.37158,-0.181025 0.708486,-0.420122 1,-0.707032 l 0,-3.253906 L 13.1875,9.96875 13.75,9.75 l 0,-1.2851562 C 13.458677,8.1743867 13.124004,7.9308058 12.75,7.75 Z m -3.5,0.00977 c -0.3730305,0.185668 -0.7082387,0.4313045 -1,0.7226519 l 0,3.2148441 L 8.8125,12 8.25,12.21875 l 0,1.292969 c 0.2907393,0.293992 0.626965,0.539867 1,0.726562 l 0,-6.4785154 z"
-       transform="matrix(2.875,0,0,2.875,-7.6003215,-7.6062606)"
        id="path3630"
-       inkscape:connector-curvature="0" />
+       transform="matrix(2.875,0,0,2.875,-7.6003215,-7.6062606)"
+       d="m 11,3 c -4.418435,0 -8,3.581565 -8,8 0,4.418435 3.581565,8 8,8 4.418435,0 8,-3.581565 8,-8 0,-4.418435 -3.581565,-8 -8,-8 z m -3.75,2 3,0 A 1.0001,1.0001 0 0 1 11,5.3417969 1.0001,1.0001 0 0 1 11.75,5 l 3,0 a 1.0001,1.0001 0 0 1 1,1 l 0,1.9140625 C 15.95092,8.1962057 16.135328,8.4915993 16.28125,8.8125 L 17.5,8.34375 l -1,3.46875 -0.75,-0.417969 0,1.408203 0.59375,0.228516 C 16.187037,13.407129 15.979607,13.749392 15.75,14.074219 L 15.75,16 a 1.0001,1.0001 0 0 1 -1,1 l -3,0 A 1.0001,1.0001 0 0 1 11,16.660156 1.0001,1.0001 0 0 1 10.25,17 l -3,0 a 1.0001,1.0001 0 0 1 -1,-1 l 0,-1.939453 C 6.0482982,13.775425 5.8625527,13.47858 5.71875,13.15625 L 4.5,13.59375 l 1,-3.375 0.75,0.402344 0,-1.3925784 L 5.65625,9 C 5.8095088,8.6183946 6.0179158,8.2704044 6.25,7.9394531 L 6.25,6 a 1.0001,1.0001 0 0 1 1,-1 z m 5.5,2.75 0,6.492188 c 0.37158,-0.181025 0.708486,-0.420122 1,-0.707032 l 0,-3.253906 L 13.1875,9.96875 13.75,9.75 l 0,-1.2851562 C 13.458677,8.1743867 13.124004,7.9308058 12.75,7.75 Z m -3.5,0.00977 c -0.3730305,0.185668 -0.7082387,0.4313045 -1,0.7226519 l 0,3.2148441 L 8.8125,12 8.25,12.21875 l 0,1.292969 c 0.2907393,0.293992 0.626965,0.539867 1,0.726562 l 0,-6.4785154 z"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
-     id="g3650"
+     transform="matrix(0.49988464,0,0,0.49988464,-36.411065,8.9950009)"
      clip-path="url(#clipPath-408241621)"
-     transform="matrix(0.49988464,0,0,0.49988464,-36.411065,8.9950009)">
+     id="g3650">
     <!-- color: #004794 -->
     <g
        id="g3652" />
   </g>
   <g
-     id="g3179"
+     style="fill:#ececec;fill-opacity:1"
      transform="matrix(0.6630485,0,0,0.6630485,1.7541,0.1701952)"
-     style="fill:#ececec;fill-opacity:1" />
+     id="g3179" />
   <g
-     id="g3037-6"
+     style="fill:#ffffff;fill-opacity:1"
      transform="translate(1.25,0.9999998)"
-     style="fill:#ffffff;fill-opacity:1">
+     id="g3037-6">
     <rect
-       y="6"
-       x="11.5"
-       height="10"
-       width="3"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3017-1"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       y="6"
-       x="7"
-       height="10"
        width="3"
+       height="10"
+       x="11.5"
+       y="6" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3017-7-4"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       width="3"
+       height="10"
+       x="7"
+       y="6" />
   </g>
 </svg>

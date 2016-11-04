@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   width="22"
-   version="1.1"
-   viewBox="0 0 22 22"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="indicator-lunar.svg">
+   viewBox="0 0 22 22"
+   version="1.1"
+   width="22"
+   height="22">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,40 +18,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#454545"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-39.065573"
-     inkscape:cy="-4.8187478"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;opacity:1"
+     d="m 10.999913,3.0017 a 8,8 0 0 0 -8.0000001,8 8,8 0 0 0 8.0000001,8 8,8 0 0 0 0.9375,-0.064 c -2.3890001,-1.8 -3.9380001,-4.7 -3.9380001,-7.9 0,-3.2377 1.5505,-6.1111 3.9414001,-7.9395 a 8,8 0 0 0 -0.941,-0.1 z"
      id="path6"
-     d="m 10.999913,3.0017 a 8,8 0 0 0 -8.0000001,8 8,8 0 0 0 8.0000001,8 8,8 0 0 0 0.9375,-0.064 c -2.3890001,-1.8 -3.9380001,-4.7 -3.9380001,-7.9 0,-3.2377 1.5505,-6.1111 3.9414001,-7.9395 a 8,8 0 0 0 -0.941,-0.1 z" />
+     style="fill:#ffffff;fill-opacity:1;opacity:1" />
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+     d="m 13.288913,3.3017 c -2.572,1.6 -4.2890001,4.4 -4.2890001,7.7 0,3.2462 1.7173001,6.0772 4.2891001,7.6602 a 8,8 0 0 0 5.711,-7.7 8,8 0 0 0 -5.7109,-7.6621 z"
      id="path8"
-     d="m 13.288913,3.3017 c -2.572,1.6 -4.2890001,4.4 -4.2890001,7.7 0,3.2462 1.7173001,6.0772 4.2891001,7.6602 a 8,8 0 0 0 5.711,-7.7 8,8 0 0 0 -5.7109,-7.6621 z" />
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1" />
 </svg>

@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   width="22"
-   version="1.1"
-   viewBox="0 0 22 22"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="scroll-lock-off.svg">
+   viewBox="0 0 22 22"
+   version="1.1"
+   width="22"
+   height="22">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,35 +18,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-4.1694916"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;opacity:0.3;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     d="M 6.0000001,3 A 2.0002,2.0002 0 0 0 4.0117189,4.7792969 l -1,9.0000001 A 2.0002,2.0002 0 0 0 5.0000001,16 L 17,16 a 2.0002,2.0002 0 0 0 1.988281,-2.220703 l -1,-9.0000001 A 2.0002,2.0002 0 0 0 16,3 L 6.0000001,3 Z M 10,5 12,5 12,9 15,9 11,14.121094 7.0000001,9 10,9 10,5 Z m -6.9999999,11.203125 0,0.546875 c 0,1.212 1.0381,2.25 2.25,2.25 L 16.75,19 C 17.962,19 19,17.962 19,16.75 l 0,-0.546875 C 18.468,16.688125 17.775,17 17,17 L 5.0000001,17 c -0.7746,0 -1.4684,-0.311875 -2,-0.796875 z"
      id="path6"
-     inkscape:connector-curvature="0" />
+     d="M 6.0000001,3 A 2.0002,2.0002 0 0 0 4.0117189,4.7792969 l -1,9.0000001 A 2.0002,2.0002 0 0 0 5.0000001,16 L 17,16 a 2.0002,2.0002 0 0 0 1.988281,-2.220703 l -1,-9.0000001 A 2.0002,2.0002 0 0 0 16,3 L 6.0000001,3 Z M 10,5 12,5 12,9 15,9 11,14.121094 7.0000001,9 10,9 10,5 Z m -6.9999999,11.203125 0,0.546875 c 0,1.212 1.0381,2.25 2.25,2.25 L 16.75,19 C 17.962,19 19,17.962 19,16.75 l 0,-0.546875 C 18.468,16.688125 17.775,17 17,17 L 5.0000001,17 c -0.7746,0 -1.4684,-0.311875 -2,-0.796875 z"
+     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;opacity:0.3;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
 </svg>

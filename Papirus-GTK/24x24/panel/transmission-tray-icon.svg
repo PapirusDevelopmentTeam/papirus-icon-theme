@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Paper Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title8473">Paper Symbolic Icon Theme</title>
- <defs id="defs7386">
-  <filter id="filter7554" style="color-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="24"
+   height="24"
+   style="enable-background:new"
+   id="svg7384">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
         color:#7B7C7E;
       }
       .ColorScheme-Background{
@@ -48,10 +69,17 @@
       .ColorScheme-ButtonFocus{
         color:#1E92FF;
       }</style>
- </defs>
- <g id="layer9" transform="translate(-545 403.01)">
-  <g id="layer1-2" transform="translate(42 -602.01)">
-   <path id="path8757" d="m515 203-5 6h3v4h-3l5 6 5-6h-3v-4h3z" fill="#fff"/>
+  </defs>
+  <g
+     transform="translate(-545 403.01)"
+     id="layer9">
+    <g
+       transform="translate(42 -602.01)"
+       id="layer1-2">
+      <path
+         fill="#fff"
+         d="m515 203-5 6h3v4h-3l5 6 5-6h-3v-4h3z"
+         id="path8757" />
+    </g>
   </g>
- </g>
 </svg>

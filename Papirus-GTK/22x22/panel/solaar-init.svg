@@ -1,64 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg11197"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="solaar-init.svg">
+   id="svg11197"
+   viewBox="0 0 22 22"
+   height="22"
+   width="22">
   <defs
      id="defs11199" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#000000"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="0.78553894"
-     inkscape:cy="11.531738"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid11745" />
-    <sodipodi:guide
-       position="4,13"
-       orientation="1,0"
-       id="guide11747" />
-    <sodipodi:guide
-       position="20,10"
-       orientation="1,0"
-       id="guide11749" />
-    <sodipodi:guide
-       position="11,20"
-       orientation="0,1"
-       id="guide11751" />
-    <sodipodi:guide
-       position="9,4"
-       orientation="0,1"
-       id="guide11753" />
-  </sodipodi:namedview>
   <metadata
      id="metadata11202">
     <rdf:RDF>
@@ -67,19 +20,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1030.3622)">
+     transform="translate(0,-1030.3622)"
+     id="layer1">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5,1033.3622 c -1.108,0 -2,0.892 -2,2 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-12 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 3.8652344,2.3047 1.5859376,2.748 A 3,3 0 0 1 11,1038.3622 a 3,3 0 0 1 0.546875,0.053 l 1.587891,-2.748 1.730468,1 -1.585937,2.75 a 3,3 0 0 1 0.546875,0.9453 l 3.173828,0 0,2 -3.175781,0 a 3,3 0 0 1 -0.542969,0.9492 l 1.583984,2.7461 -1.730468,1 -1.585938,-2.748 A 3,3 0 0 1 11,1044.3622 a 3,3 0 0 1 -0.546875,-0.053 l -1.5878906,2.748 -1.7304688,-1 1.5859375,-2.75 a 3,3 0 0 1 -0.546875,-0.9453 l -3.1738281,0 0,-2 3.1757812,0 A 3,3 0 0 1 8.71875,1039.413 l -1.5839844,-2.7461 1.7304688,-1 z M 11,1039.3622 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
        id="rect11755"
-       inkscape:connector-curvature="0" />
+       d="m 5,1033.3622 c -1.108,0 -2,0.892 -2,2 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-12 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 3.8652344,2.3047 1.5859376,2.748 A 3,3 0 0 1 11,1038.3622 a 3,3 0 0 1 0.546875,0.053 l 1.587891,-2.748 1.730468,1 -1.585937,2.75 a 3,3 0 0 1 0.546875,0.9453 l 3.173828,0 0,2 -3.175781,0 a 3,3 0 0 1 -0.542969,0.9492 l 1.583984,2.7461 -1.730468,1 -1.585938,-2.748 A 3,3 0 0 1 11,1044.3622 a 3,3 0 0 1 -0.546875,-0.053 l -1.5878906,2.748 -1.7304688,-1 1.5859375,-2.75 a 3,3 0 0 1 -0.546875,-0.9453 l -3.1738281,0 0,-2 3.1757812,0 A 3,3 0 0 1 8.71875,1039.413 l -1.5839844,-2.7461 1.7304688,-1 z M 11,1039.3622 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

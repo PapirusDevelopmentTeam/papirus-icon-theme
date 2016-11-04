@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   height="24"
-   viewBox="0 0 24 24"
-   width="24"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="user-available.svg">
+   width="24"
+   viewBox="0 0 24 24"
+   height="24"
+   id="svg6530">
   <defs
      id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#434343"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -46,30 +20,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g4144"
-     transform="translate(1,1.0000146)">
+     transform="translate(1,1.0000146)"
+     id="g4144">
     <rect
-       id="rect11252"
-       style="color:#bebebe;fill:none"
-       height="22"
-       width="22"
+       x="0"
        y="-1.4648437e-05"
-       x="0" />
+       width="22"
+       height="22"
+       style="color:#bebebe;fill:none"
+       id="rect11252" />
     <path
-       id="path3003-2"
-       d="M 5.96875,5 C 5.96875,5 4,5 4,7 l 0,3 0,2 0,1 a 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 3,3 0 0 1 -0.7675781,2 L 11,15 13,18.003906 15,15 l 1,0 c 0,0 2,0 2,-2 L 18,7 C 18,5 16,5 16,5 L 5.96875,5 Z"
        style="fill:#ffffff"
-       inkscape:connector-curvature="0" />
+       d="M 5.96875,5 C 5.96875,5 4,5 4,7 l 0,3 0,2 0,1 a 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 3,3 0 0 1 -0.7675781,2 L 11,15 13,18.003906 15,15 l 1,0 c 0,0 2,0 2,-2 L 18,7 C 18,5 16,5 16,5 L 5.96875,5 Z"
+       id="path3003-2" />
     <circle
-       r="2"
-       cy="13"
-       cx="7"
+       style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4142"
-       style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="7"
+       cy="13"
+       r="2" />
   </g>
 </svg>

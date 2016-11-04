@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   width="22"
-   version="1.1"
-   viewBox="0 0 22 22"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="lookit-panel.svg">
+   viewBox="0 0 22 22"
+   version="1.1"
+   width="22"
+   height="22">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,34 +18,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#3b3b3b"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="6.49"
-     inkscape:cx="-41.694915"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;opacity:1"
+     id="path6"
      d="M 11 3 C 6.5936 3 3 6.5936 3 11 C 3 13.968 4.6340219 16.561406 7.0449219 17.941406 C 7.0186219 17.797406 7 17.651 7 17.5 C 7 16.893 7.2386937 16.366844 7.6210938 15.964844 C 6.0367938 14.886844 5 13.07 5 11 C 5 7.6745 7.6744 5 11 5 C 14.326 5 17 7.6745 17 11 C 17 11.529 16.925828 12.039344 16.798828 12.527344 C 17.240828 13.037344 17.580531 13.644312 17.769531 14.320312 C 17.913531 14.364313 18.054406 14.418516 18.191406 14.478516 C 18.704406 13.424516 19 12.247 19 11 C 19 6.5936 15.406 3 11 3 z M 11 6 C 8.2445 6 6 8.2445 6 11 C 6 12.866 7.0417 14.478891 8.5625 15.337891 C 8.7243 15.272891 8.8907531 15.216641 9.0644531 15.181641 C 9.0814531 14.961641 9.125875 14.751016 9.171875 14.541016 C 7.885675 13.877016 7 12.552 7 11 C 7 8.785 8.7849 7 11 7 C 13.215 7 15 8.785 15 11 C 15 11.089 14.979609 11.171766 14.974609 11.259766 C 15.318609 11.384766 15.635547 11.563578 15.935547 11.767578 C 15.974547 11.516578 16 11.262 16 11 C 16 8.2445 13.756 6 11 6 z M 13.5 11.998047 L 13.5 12 A 3.5 3.5 0 0 0 10 15.5 A 3.5 3.5 0 0 0 10.052734 16.107422 A 1.5 1.5 0 0 0 9.5 16 A 1.5 1.5 0 0 0 8 17.5 A 1.5 1.5 0 0 0 9.5 19 L 10 19 L 17 19 A 2 2 0 0 0 19 17 A 2 2 0 0 0 17 15 A 2 2 0 0 0 16.960938 15 A 3.5 3.5 0 0 0 13.5 11.998047 z "
-     id="path6" />
+     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;opacity:1" />
 </svg>

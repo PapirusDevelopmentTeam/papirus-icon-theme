@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   height="22"
-   viewBox="0 0 22 22"
-   width="22"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="krb-no-valid-ticket.svg">
+   width="22"
+   viewBox="0 0 22 22"
+   height="22"
+   id="svg6530">
   <defs
      id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,22 +25,20 @@
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
-     d="M 7.5,7 C 5.0147,7 3,9.0147 3,11.5 3,13.9853 5.0147,16 7.5,16 9.4047,15.997 11.1014,14.7958 11.7363,13 L 14,12.998 14,9.998 11.7363,10 C 11.1014,8.2042 9.4047,7.0027 7.5,7 Z m 10.5,2.9961 0,2.9961 1,0.004 0,-3 -1,0 z m -10.5,0.004 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z"
+     id="path11088"
      style="fill:#ffffff;enable-background:new"
-     id="path11088" />
+     d="M 7.5,7 C 5.0147,7 3,9.0147 3,11.5 3,13.9853 5.0147,16 7.5,16 9.4047,15.997 11.1014,14.7958 11.7363,13 L 14,12.998 14,9.998 11.7363,10 C 11.1014,8.2042 9.4047,7.0027 7.5,7 Z m 10.5,2.9961 0,2.9961 1,0.004 0,-3 -1,0 z m -10.5,0.004 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z" />
   <rect
-     x="-21.999985"
-     y="0"
-     width="22"
-     height="22"
-     transform="matrix(0,-1,1,0,0,0)"
+     id="rect11090"
      style="color:#bebebe;fill:none"
-     id="rect11090" />
+     transform="matrix(0,-1,1,0,0,0)"
+     height="22"
+     width="22"
+     y="0"
+     x="-21.999985" />
   <path
-     inkscape:connector-curvature="0"
-     class="error"
-     d="m 15,9 -10e-6,4 0.25,2 1.5,0 0.25,-2 L 17,9 Z m 0,7 0,2 2,0 0,-2 z"
+     id="path11098"
      style="color:#444444;fill:#5294e2;fill-opacity:1"
-     id="path11098" />
+     d="m 15,9 -10e-6,4 0.25,2 1.5,0 0.25,-2 L 17,9 Z m 0,7 0,2 2,0 0,-2 z"
+     class="error" />
 </svg>

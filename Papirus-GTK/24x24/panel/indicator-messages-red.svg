@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6530"
-   version="1.1"
-   height="24"
-   viewBox="0 0 24 24"
    width="24"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="indicator-messages-red.svg">
+   viewBox="0 0 24 24"
+   height="24"
+   version="1.1"
+   id="svg6530">
   <defs
      id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6530" />
   <metadata
      id="metadata6535">
     <rdf:RDF>
@@ -51,8 +25,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#5294e2;fill-opacity:1"
-     inkscape:connector-curvature="0"
+     id="path10993"
      d="m 12,4 c 0.55228,0 1,0.44772 1,1 -2.9e-4,0.0333 -0.002,0.0665 -0.006,0.0996 C 15.2843,5.55843 17,7.5708 16.9999,10 l -1.4e-4,2 0,2.5 2,2 0,0.5 -2,0 -10,0 -2,0 0,-0.5 2,-2 0,-4.5 c 8e-5,-2.4292 1.7157,-4.4416 4.0059,-4.9004 -0.004,-0.0331 -0.006,-0.0663 -0.006,-0.0996 0,-0.55228 0.44772,-1 1,-1 z m 1.7284,14 c -0.35663,0.61771 -1.0152,0.99874 -1.7285,1 -0.71397,-5.6e-4 -1.3735,-0.38169 -1.7305,-1 z"
-     id="path10993" />
+     style="fill:#5294e2;fill-opacity:1" />
 </svg>

@@ -1,41 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="22"
-   width="22"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="cryptfolder-open-dark.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-7.9237288"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+   width="22"
+   height="22"
+   style="enable-background:new"
+   id="svg7384">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -53,17 +27,16 @@
   <defs
      id="defs7386">
     <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
       <feBlend
-         id="feBlend7556"
+         mode="darken"
          in2="BackgroundImage"
-         mode="darken" />
+         id="feBlend7556" />
     </filter>
   </defs>
   <path
-     inkscape:connector-curvature="0"
-     d="M 11,3 C 8.805,3 7.0334,4.7884 7,7 L 7,8 8,8 9,8 9,7 c 0,-1.108 0.892,-2 2,-2 1.108,0 2,0.892 2,2 l 0,4 -2,0 -3,0 -1,0 -1,0 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-3.9375 C 15,4.8225 13.216,3 11,3 Z"
+     id="path6354"
      style="color:#ffffff;opacity:0.5;fill:#000000;enable-background:accumulate;fill-opacity:1"
-     id="path6354" />
+     d="M 11,3 C 8.805,3 7.0334,4.7884 7,7 L 7,8 8,8 9,8 9,7 c 0,-1.108 0.892,-2 2,-2 1.108,0 2,0.892 2,2 l 0,4 -2,0 -3,0 -1,0 -1,0 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-3.9375 C 15,4.8225 13.216,3 11,3 Z" />
 </svg>

@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 6.208889 6.208889"
-   height="22"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="teamviewer-indicator-away.svg">
+   id="svg2"
+   height="22"
+   viewBox="0 0 6.208889 6.208889"
+   width="22">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -28,52 +24,30 @@
   </metadata>
   <defs
      id="defs14" />
-  <sodipodi:namedview
-     pagecolor="#353535"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="18.55"
-     inkscape:cx="6.5325756"
-     inkscape:cy="9.9218329"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <g
-     id="g4155"
-     transform="matrix(-1,0,0,1,5.9266668,0)">
+     transform="matrix(-1,0,0,1,5.9266668,0)"
+     id="g4155">
     <path
-       style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 12,3 a 7.9999994,7.9999994 0 0 0 -8,8 7.9999994,7.9999994 0 0 0 0.1367188,1.449219 L 4.5,12.085938 5.2070312,11.378906 8.0351562,14.207031 7.2421875,15 11,15 11,18.929688 A 7.9999994,7.9999994 0 0 0 12,19 7.9999994,7.9999994 0 0 0 20,11 7.9999994,7.9999994 0 0 0 12,3 Z m -2,5 0,1.9980469 4,0 L 14,8 l 3,3 -3,3 0,-1.998047 -4,0 L 10,14 7,11 10,8 Z M 5.2070312,12.792969 1,17 5.2070312,21.207031 6.6210938,19.792969 4.828125,18 10,18 10,16 4.828125,16 6.6210938,14.207031 5.2070312,12.792969 Z"
-       transform="matrix(0.28222222,0,0,0.28222222,-0.28222208,0)"
        id="path4144"
-       inkscape:connector-curvature="0" />
+       transform="matrix(0.28222222,0,0,0.28222222,-0.28222208,0)"
+       d="m 12,3 a 7.9999994,7.9999994 0 0 0 -8,8 7.9999994,7.9999994 0 0 0 0.1367188,1.449219 L 4.5,12.085938 5.2070312,11.378906 8.0351562,14.207031 7.2421875,15 11,15 11,18.929688 A 7.9999994,7.9999994 0 0 0 12,19 7.9999994,7.9999994 0 0 0 20,11 7.9999994,7.9999994 0 0 0 12,3 Z m -2,5 0,1.9980469 4,0 L 14,8 l 3,3 -3,3 0,-1.998047 -4,0 L 10,14 7,11 10,8 Z M 5.2070312,12.792969 1,17 5.2070312,21.207031 6.6210938,19.792969 4.828125,18 10,18 10,16 4.828125,16 6.6210938,14.207031 5.2070312,12.792969 Z"
+       style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="fill:#000000;fill-opacity:1"
+     id="g6"
+     transform="matrix(0.28222222,0,0,0.28222222,-7.1565911,-2.3834898)" />
+  <g
+     transform="matrix(0.28222222,0,0,0.28222222,-4.0521466,-2.3834898)"
+     id="g4146"
+     style="fill:none;fill-opacity:1">
+    <path
+       d="m 30.565,21.238 1.414,1.414 -1.793,1.793 5.172,0 0,2 -5.172,0 1.793,1.793 -1.414,1.414 -4.207,-4.207 z"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4148" />
   </g>
   <g
      transform="matrix(0.28222222,0,0,0.28222222,-7.1565911,-2.3834898)"
-     id="g6"
-     style="fill:#000000;fill-opacity:1" />
-  <g
-     style="fill:none;fill-opacity:1"
-     id="g4146"
-     transform="matrix(0.28222222,0,0,0.28222222,-4.0521466,-2.3834898)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path4148"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 30.565,21.238 1.414,1.414 -1.793,1.793 5.172,0 0,2 -5.172,0 1.793,1.793 -1.414,1.414 -4.207,-4.207 z" />
-  </g>
-  <g
-     style="fill:none;fill-opacity:1;stroke:#5a0000;stroke-opacity:1;stroke-width:2.00000003;stroke-miterlimit:4;stroke-dasharray:none"
      id="g4159"
-     transform="matrix(0.28222222,0,0,0.28222222,-7.1565911,-2.3834898)" />
+     style="fill:none;fill-opacity:1;stroke:#5a0000;stroke-opacity:1;stroke-width:2.00000003;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>

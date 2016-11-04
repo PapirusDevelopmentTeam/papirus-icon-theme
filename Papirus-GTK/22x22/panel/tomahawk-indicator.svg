@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2817"
-   height="22"
-   width="22"
    version="1.0"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="tomahawk-indicator.svg">
-  <sodipodi:namedview
-     pagecolor="#333333"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="13.508958"
-     inkscape:cy="6.6147349"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817" />
+   width="22"
+   height="22"
+   id="svg2817">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -43,15 +17,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs2819" />
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;opacity:1"
-     d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 c 3.313708,0 6,2.686291 6,6 -0.0026,1.704152 -0.729797,3.326791 -2,4.462891 L 15,9 l -2,0 0,2.5 0,5.150391 C 12.358034,16.879696 11.681686,16.9979 11,17 7.6862915,17 5,14.313708 5,11 5,7.686291 7.6862915,5 11,5 Z M 13,11.5 10.5,9.75 8,8 8,11.5 8,15 10.5,13.25 13,11.5 Z"
      id="path4142"
-     inkscape:connector-curvature="0" />
+     d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 c 3.313708,0 6,2.686291 6,6 -0.0026,1.704152 -0.729797,3.326791 -2,4.462891 L 15,9 l -2,0 0,2.5 0,5.150391 C 12.358034,16.879696 11.681686,16.9979 11,17 7.6862915,17 5,14.313708 5,11 5,7.686291 7.6862915,5 11,5 Z M 13,11.5 10.5,9.75 8,8 8,11.5 8,15 10.5,13.25 13,11.5 Z"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;opacity:1" />
 </svg>

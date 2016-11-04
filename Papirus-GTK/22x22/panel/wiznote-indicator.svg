@@ -5,13 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 21.999999 21.999999"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="wiznote-indicator.svg">
+   id="svg2"
+   viewBox="0 0 21.999999 21.999999">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,36 +16,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#252525"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="15.07"
-     inkscape:cx="10.999999"
-     inkscape:cy="10.999999"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     sodipodi:nodetypes="cccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path6"
+     d="M 14,4 12.5,10 12,7 8,8 7,11 6,6 3,7 5,16.5 8.777,17.066 9.5,14.5 10.264,17.289 15,18 19,5 Z"
      style="fill:#ffffff;fill-opacity:1;opacity:1"
-     d="M 14,4 12.5,10 12,7 8,8 7,11 6,6 3,7 5,16.5 8.777,17.066 9.5,14.5 10.264,17.289 15,18 19,5 Z" />
+     id="path6" />
 </svg>

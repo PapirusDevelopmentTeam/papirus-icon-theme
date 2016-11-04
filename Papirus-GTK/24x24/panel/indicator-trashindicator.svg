@@ -1,41 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="24"
-   width="24"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="indicator-trashindicator.svg">
-  <sodipodi:namedview
-     pagecolor="#4a4a4a"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-354"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+   width="24"
+   height="24"
+   style="enable-background:new"
+   id="svg7384">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -53,17 +27,15 @@
   <defs
      id="defs7386" />
   <g
-     id="g4135"
-     transform="translate(1,1)">
+     transform="translate(1,1)"
+     id="g4135">
     <path
-       id="path8476"
-       style="color:#ffffff;text-indent:0;text-transform:none;block-progression:tb;opacity:1;fill:#ffffff;enable-background:accumulate"
        d="m 5,8 0,9 c 5e-5,0.52358 0.47642,0.99995 1,1 l 8,0 1,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-9 z"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path8478"
        style="color:#ffffff;text-indent:0;text-transform:none;block-progression:tb;opacity:1;fill:#ffffff;enable-background:accumulate"
+       id="path8476" />
+    <path
        d="m 4,6 0,1 13,-0.003 0,-1 c 0,-1 -0.9998,-1.0034 -0.9998,-1.0034 l -3,0 c 0,0 0,-1 -1,-1 l -3,0 c -1,0 -1,1 -1,1 l -3,0 C 5.0002,4.9936 4,4.9966 4,5.997 Z"
-       inkscape:connector-curvature="0" />
+       style="color:#ffffff;text-indent:0;text-transform:none;block-progression:tb;opacity:1;fill:#ffffff;enable-background:accumulate"
+       id="path8478" />
   </g>
 </svg>

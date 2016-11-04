@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   viewBox="0 0 6.7733335 6.7733335"
-   height="24"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="hexchat-indicator.svg">
+   id="svg2"
+   height="24"
+   viewBox="0 0 6.7733335 6.7733335"
+   width="24">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,35 +18,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#474747"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="18.55"
-     inkscape:cx="2.4285714"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     style="color:#000000;display:inline;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     d="M 2.1181959,1.4111111 A 0.28467281,0.28222221 0 0 0 1.8718027,1.551671 L 0.88512743,3.2450043 a 0.28467281,0.28222221 0 0 0 0,0.2833246 L 1.8718027,5.2216622 a 0.28467281,0.28222221 0 0 0 0.2463932,0.14056 l 1.9722484,0 a 0.28467281,0.28222221 0 0 0 0.2458418,-0.14056 L 5.3235126,3.5283289 a 0.28467281,0.28222221 0 0 0 0,-0.2833246 L 4.3362861,1.551671 A 0.28467281,0.28222221 0 0 0 4.0904443,1.4111111 l -1.9722484,0 z m 0.2370226,0.5644444 a 0.21350459,0.20158734 0 0 1 0.00937,0 l 1.4794619,0 a 0.21350459,0.20158734 0 0 1 0.179696,0.092604 0.21350459,0.20158734 0 0 1 0,5.503e-4 L 3.10432,2.9875868 2.1848929,2.0681597 A 0.21350459,0.20158734 0 0 1 2.3552185,1.9755555 Z M 1.8817246,2.563151 2.7052402,3.3866666 1.8817246,4.2101823 1.4396499,3.4880902 a 0.21350459,0.20158734 0 0 1 0,-0.2028472 L 1.8817246,2.563151 Z m 2.4451908,0 0.4420749,0.722092 a 0.21350459,0.20158734 0 0 1 0,0.2028472 L 4.3269154,4.2101823 3.5033997,3.3866666 4.3269154,2.563151 Z M 3.10432,3.7857463 4.0231958,4.7046224 A 0.21350459,0.20158734 0 0 1 3.844051,4.7977774 l -1.4794619,0 A 0.21350459,0.20158734 0 0 1 2.1848929,4.7051736 L 3.10432,3.7857463 Z"
      id="path4146"
-     inkscape:connector-curvature="0" />
+     d="M 2.1181959,1.4111111 A 0.28467281,0.28222221 0 0 0 1.8718027,1.551671 L 0.88512743,3.2450043 a 0.28467281,0.28222221 0 0 0 0,0.2833246 L 1.8718027,5.2216622 a 0.28467281,0.28222221 0 0 0 0.2463932,0.14056 l 1.9722484,0 a 0.28467281,0.28222221 0 0 0 0.2458418,-0.14056 L 5.3235126,3.5283289 a 0.28467281,0.28222221 0 0 0 0,-0.2833246 L 4.3362861,1.551671 A 0.28467281,0.28222221 0 0 0 4.0904443,1.4111111 l -1.9722484,0 z m 0.2370226,0.5644444 a 0.21350459,0.20158734 0 0 1 0.00937,0 l 1.4794619,0 a 0.21350459,0.20158734 0 0 1 0.179696,0.092604 0.21350459,0.20158734 0 0 1 0,5.503e-4 L 3.10432,2.9875868 2.1848929,2.0681597 A 0.21350459,0.20158734 0 0 1 2.3552185,1.9755555 Z M 1.8817246,2.563151 2.7052402,3.3866666 1.8817246,4.2101823 1.4396499,3.4880902 a 0.21350459,0.20158734 0 0 1 0,-0.2028472 L 1.8817246,2.563151 Z m 2.4451908,0 0.4420749,0.722092 a 0.21350459,0.20158734 0 0 1 0,0.2028472 L 4.3269154,4.2101823 3.5033997,3.3866666 4.3269154,2.563151 Z M 3.10432,3.7857463 4.0231958,4.7046224 A 0.21350459,0.20158734 0 0 1 3.844051,4.7977774 l -1.4794619,0 A 0.21350459,0.20158734 0 0 1 2.1848929,4.7051736 L 3.10432,3.7857463 Z"
+     style="color:#000000;display:inline;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
 </svg>

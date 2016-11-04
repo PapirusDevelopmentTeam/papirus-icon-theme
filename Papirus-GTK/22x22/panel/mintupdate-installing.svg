@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 6.208889 6.208889"
-   height="22"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="mintupdate-installing.svg">
+   id="svg2"
+   height="22"
+   viewBox="0 0 6.208889 6.208889"
+   width="22">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -22,58 +18,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#454545"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="26.24"
-     inkscape:cx="10.500995"
-     inkscape:cy="8.3724546"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4150" />
-  </sodipodi:namedview>
   <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
-     d="M 11 3 C 8.8518754 4.9697781 5.234625 6.7048889 4 7 C 4 12.333333 6.6250001 18.111111 11 19 C 15.375 18.111111 18 12.333333 18 7 C 16.765375 6.7048889 13.148125 4.9697781 11 3 z M 10 8 L 12 8 L 12 13 L 14 13 L 11 16 L 8 13 L 10 13 L 10 8 z "
+     id="path4148"
      transform="scale(0.28222222,0.28222222)"
-     id="path4148" />
+     d="M 11 3 C 8.8518754 4.9697781 5.234625 6.7048889 4 7 C 4 12.333333 6.6250001 18.111111 11 19 C 15.375 18.111111 18 12.333333 18 7 C 16.765375 6.7048889 13.148125 4.9697781 11 3 z M 10 8 L 12 8 L 12 13 L 14 13 L 11 16 L 8 13 L 10 13 L 10 8 z "
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" />
   <g
-     transform="matrix(0.28222222,0,0,0.28222222,-10.6045,0.2470856)"
-     id="g6">
+     id="g6"
+     transform="matrix(0.28222222,0,0,0.28222222,-10.6045,0.2470856)">
     <g
-       transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)"
-       id="g8">
+       id="g8"
+       transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)">
       <!-- color: #004794 -->
     </g>
   </g>
   <g
-     transform="matrix(0.28222222,0,0,0.28222222,-10.392658,1.2296495)"
+     id="g10"
      style="stroke-dasharray:none;stroke-opacity:1;stroke-miterlimit:4;stroke:#000;stroke-width:1"
-     id="g10">
+     transform="matrix(0.28222222,0,0,0.28222222,-10.392658,1.2296495)">
     <g
-       transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)"
+       id="g12"
        style="stroke-width:2.364"
-       id="g12">
+       transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)">
       <!-- color: #004794 -->
     </g>
   </g>

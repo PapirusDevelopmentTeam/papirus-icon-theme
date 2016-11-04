@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="indicator-privacy-panel.svg"
+   height="24"
    width="24"
-   height="24">
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 24 24">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,35 +18,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#454545"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-22.745763"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1"
-     d="M 12.009766,6 C 6.3344717,6 3,11.669922 3,11.669922 3,11.669922 6.6245883,18 12.009766,18 17.812118,18 21,11.669922 21,11.669922 21,11.669922 17.780355,6 12.009766,6 Z M 12,9 c 1.656771,0 3,1.343229 3,3 0,1.656771 -1.343229,3 -3,3 -1.656771,0 -3,-1.343229 -3,-3 0,-1.656771 1.343229,-3 3,-3 z m 0,1 c -1.105008,0 -2,0.896069 -2,2 0,1.105008 0.896069,2 2,2 1.105008,0 2,-0.894992 2,-2 0,-1.105008 -0.896069,-2 -2,-2 z"
      id="path4140"
-     inkscape:connector-curvature="0" />
+     d="M 12.009766,6 C 6.3344717,6 3,11.669922 3,11.669922 3,11.669922 6.6245883,18 12.009766,18 17.812118,18 21,11.669922 21,11.669922 21,11.669922 17.780355,6 12.009766,6 Z M 12,9 c 1.656771,0 3,1.343229 3,3 0,1.656771 -1.343229,3 -3,3 -1.656771,0 -3,-1.343229 -3,-3 0,-1.656771 1.343229,-3 3,-3 z m 0,1 c -1.105008,0 -2,0.896069 -2,2 0,1.105008 0.896069,2 2,2 1.105008,0 2,-0.894992 2,-2 0,-1.105008 -0.896069,-2 -2,-2 z"
+     style="opacity:1;fill:#ffffff;fill-opacity:1" />
 </svg>

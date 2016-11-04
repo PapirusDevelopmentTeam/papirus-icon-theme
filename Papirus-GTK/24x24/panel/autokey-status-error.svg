@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   width="24"
-   version="1.1"
-   viewBox="0 0 24 24"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="autokey-status-error.svg">
+   viewBox="0 0 24 24"
+   version="1.1"
+   width="24"
+   height="24">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,47 +18,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <g
-     transform="translate(0 -1028.4)"
-     fill="#d33636"
+     style="fill:#5294e2;fill-opacity:1"
      id="g4"
-     style="fill:#5294e2;fill-opacity:1">
+     fill="#d33636"
+     transform="translate(0 -1028.4)">
     <path
-       style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;fill:#5294e2;fill-opacity:1"
-       d="m7 4a2.0002 2.0002 0 0 0 -1.9883 1.7793l-1 8.9997a2.0002 2.0002 0 0 0 1.9883 2.221h12a2.0002 2.0002 0 0 0 1.988 -2.221l-1-8.9997a2.0002 2.0002 0 0 0 -1.988 -1.7793h-10zm4.986 2a0.50005 0.50005 0 0 1 0.496 0.3477l0.87 2.7148h2.851a0.50005 0.50005 0 0 1 0.293 0.9063l-2.314 1.6662 0.88 2.711a0.50005 0.50005 0 0 1 -0.769 0.556l-2.301-1.683-2.3045 1.676a0.50005 0.50005 0 0 1 -0.7695 -0.563l0.8906-2.707-2.3047-1.6758a0.50005 0.50005 0 0 1 0.2949 -0.9043l2.8512 0.0137 0.881-2.7129a0.50005 0.50005 0 0 1 0.455 -0.3457z"
+       id="path6"
+       transform="translate(0 1028.4)"
        fill-rule="evenodd"
-       transform="translate(0 1028.4)"
-       id="path6" />
+       d="m7 4a2.0002 2.0002 0 0 0 -1.9883 1.7793l-1 8.9997a2.0002 2.0002 0 0 0 1.9883 2.221h12a2.0002 2.0002 0 0 0 1.988 -2.221l-1-8.9997a2.0002 2.0002 0 0 0 -1.988 -1.7793h-10zm4.986 2a0.50005 0.50005 0 0 1 0.496 0.3477l0.87 2.7148h2.851a0.50005 0.50005 0 0 1 0.293 0.9063l-2.314 1.6662 0.88 2.711a0.50005 0.50005 0 0 1 -0.769 0.556l-2.301-1.683-2.3045 1.676a0.50005 0.50005 0 0 1 -0.7695 -0.563l0.8906-2.707-2.3047-1.6758a0.50005 0.50005 0 0 1 0.2949 -0.9043l2.8512 0.0137 0.881-2.7129a0.50005 0.50005 0 0 1 0.455 -0.3457z"
+       style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;fill:#5294e2;fill-opacity:1" />
     <path
-       style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;fill:#5294e2;fill-opacity:1"
-       d="m4 17.203v0.547c0 1.212 1.0381 2.25 2.25 2.25h11.5c1.212 0 2.25-1.038 2.25-2.25v-0.547c-0.532 0.485-1.225 0.797-2 0.797h-12c-0.7746 0-1.4684-0.312-2-0.797z"
+       id="path8"
        transform="translate(0 1028.4)"
-       id="path8" />
+       d="m4 17.203v0.547c0 1.212 1.0381 2.25 2.25 2.25h11.5c1.212 0 2.25-1.038 2.25-2.25v-0.547c-0.532 0.485-1.225 0.797-2 0.797h-12c-0.7746 0-1.4684-0.312-2-0.797z"
+       style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;fill:#5294e2;fill-opacity:1" />
   </g>
 </svg>

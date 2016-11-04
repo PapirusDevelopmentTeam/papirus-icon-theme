@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3039"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   width="24"
    height="24"
-   sodipodi:docname="pushbullet-indicator-light.svg">
+   width="24"
+   version="1.1"
+   id="svg3039">
   <metadata
      id="metadata3045">
     <rdf:RDF>
@@ -23,36 +17,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3043" />
-  <sodipodi:namedview
-     pagecolor="#2d2d2d"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1504"
-     inkscape:window-height="844"
-     id="namedview3041"
-     showgrid="false"
-     inkscape:zoom="0.81"
-     inkscape:cx="-556.27034"
-     inkscape:cy="12.094819"
-     inkscape:window-x="94"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3039" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1"
-     d="m 3.9999998,6 0,12 2,0 0,-12 z m 4,0 0,12 4.2527932,-0.03231 c 2.931252,-0.03263 3.207892,-0.07305 4.447174,-0.676877 2.70203,-1.316495 3.978252,-4.504192 2.939962,-7.343284 -0.68573,-1.875008 -2.246081,-3.2634295 -4.235153,-3.768346 -0.624755,-0.1585921 -1.021561,-0.1791748 -3.45,-0.1791748 z"
      id="path3075"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccsscc" />
+     d="m 3.9999998,6 0,12 2,0 0,-12 z m 4,0 0,12 4.2527932,-0.03231 c 2.931252,-0.03263 3.207892,-0.07305 4.447174,-0.676877 2.70203,-1.316495 3.978252,-4.504192 2.939962,-7.343284 -0.68573,-1.875008 -2.246081,-3.2634295 -4.235153,-3.768346 -0.624755,-0.1585921 -1.021561,-0.1791748 -3.45,-0.1791748 z"
+     style="opacity:1;fill:#ffffff;fill-opacity:1" />
 </svg>
