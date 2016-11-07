@@ -1,1 +1,77 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path d="m21 11a10 10 0 0 1 -10 10 10 10 0 0 1 -10-10 10 10 0 0 1  10-10 10 10 0 0 1  10 10z" fill="#4d4d4d"/><path d="m11 1c-5.5395 0-9.999 4.46-9.999 10 0 .08386-.002.166645 0 .25.1321-5.423 4.5435-9.75 9.999-9.75 5.4555 0 9.867 4.3268 9.999 9.75.002-.08335 0-.16614 0-.25 0-5.54-4.4595-10-9.999-10z" fill="#fff" opacity=".1"/><path d="m20.9895 10.709a10 10 0 0 1 -9.9895 9.791 10 10 0 0 1 -9.989-9.709 10 10 0 0 0 -.011.209 10 10 0 0 0  10 10 10 10 0 0 0  10-10 10 10 0 0 0 -.0105-.291z" opacity=".3"/><path d="m7 5.5h3l5 5.5-5 6.5h-3l5-6.5m-5-5.5" opacity=".2"/><path d="m7 5h3l5 5.5-5 6.5h-3l5-6.5m-5-5.5" fill="#ff9b2a"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="22"
+   width="22"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="plexhometheater.svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="5.71"
+     inkscape:cx="-36.297723"
+     inkscape:cy="12.456433"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#4d4d4d"
+     inkscape:connector-curvature="0"
+     id="path4207"
+     d="M 21,11 A 10,10 0 0 1 11,21 10,10 0 0 1 1,11 10,10 0 0 1 11,1 10,10 0 0 1 21,11 Z" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="rect4063"
+     d="M 11,1 C 5.4605,1 1.001,5.46 1.001,11 c 0,0.08386 -0.002,0.166645 0,0.25 C 1.1331,5.827 5.5445,1.5 11,1.5 c 5.4555,0 9.867,4.3268 9.999,9.75 0.002,-0.08335 0,-0.16614 0,-0.25 C 20.999,5.46 16.5395,1 11,1 Z" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     id="path4202"
+     d="M 20.9895,10.709 A 10,10 0 0 1 11,20.5 10,10 0 0 1 1.011,10.791 10,10 0 0 0 1,11 10,10 0 0 0 11,21 10,10 0 0 0 21,11 10,10 0 0 0 20.9895,10.709 Z" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     id="path4251"
+     d="m 7,5.5 3,0 5,5.5 -5,6.5 -3,0 5,-6.5 M 7,5.5" />
+  <path
+     style="fill:#ff9b2a"
+     inkscape:connector-curvature="0"
+     id="path4188"
+     d="m 7,5 3,0 5,5.5 -5,6.5 -3,0 5,-6.5 M 7,5" />
+</svg>

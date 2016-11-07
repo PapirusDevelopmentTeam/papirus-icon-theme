@@ -1,1 +1,53 @@
-<svg height="32" viewBox="0 0 32 32.000001" width="32" xmlns="http://www.w3.org/2000/svg"><path d="m16 2a14 13 0 0 0 -14 13 14 13 0 0 0  5 9.957031v5.042969l3.720703-2.966797a14 13 0 0 0 5.279297.966797 14 13 0 0 0  14-13 14 13 0 0 0 -14-13z" fill="#2090ea"/><path d="m16 2a14 13 0 0 0 -14 13 14 13 0 0 0  .0214844.414062 14 13 0 0 1  13.9785156-12.414062 14 13 0 0 1  13.978516 12.585938 14 13 0 0 0  .021484-.585938 14 13 0 0 0 -14-13z" fill="#fff" opacity=".2"/><path d="m2.0214844 14.414062a14 13 0 0 0 -.0214844.585938 14 13 0 0 0  5 9.957031v-1a14 13 0 0 1 -4.9785156-9.542969zm27.9570316.171876a14 13 0 0 1 -13.978516 12.414062 14 13 0 0 1 -5.279297-.966797l-3.720703 2.966797v1l3.720703-2.966797a14 13 0 0 0 5.279297.966797 14 13 0 0 0  14-13 14 13 0 0 0 -.021484-.414062z" opacity=".3"/><ellipse cx="16" cy="16" fill="none" opacity=".2" rx="9.5" ry="8.5" stroke="#000" stroke-dasharray="6 3" stroke-width="3"/><ellipse cx="16" cy="15" fill="none" rx="9.5" ry="8.5" stroke="#fff" stroke-dasharray="6 3" stroke-width="3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   viewBox="0 0 32 32.000001"
+   version="1.1"
+   width="32"
+   height="32">
+  <metadata
+     id="metadata51">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <path
+     id="path37"
+     d="M 16,2 A 14,13 0 0 0 2,15 14,13 0 0 0 7,24.957031 L 7,30 10.720703,27.033203 A 14,13 0 0 0 16,28 14,13 0 0 0 30,15 14,13 0 0 0 16,2 Z"
+     style="fill:#2090ea;fill-opacity:1" />
+  <path
+     id="path4383"
+     d="M 16,2 A 14,13 0 0 0 2,15 14,13 0 0 0 2.0214844,15.414062 14,13 0 0 1 16,3 14,13 0 0 1 29.978516,15.585938 14,13 0 0 0 30,15 14,13 0 0 0 16,2 Z"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1" />
+  <path
+     id="path4388"
+     d="M 2.0214844,14.414062 A 14,13 0 0 0 2,15 14,13 0 0 0 7,24.957031 l 0,-1 A 14,13 0 0 1 2.0214844,14.414062 Z M 29.978516,14.585938 A 14,13 0 0 1 16,27 14,13 0 0 1 10.720703,26.033203 L 7,29 7,30 10.720703,27.033203 A 14,13 0 0 0 16,28 14,13 0 0 0 30,15 14,13 0 0 0 29.978516,14.585938 Z"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <ellipse
+     style="opacity:0.2;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 3;stroke-dashoffset:0;stroke-opacity:1"
+     id="ellipse4140"
+     cx="16"
+     cy="16"
+     rx="9.5"
+     ry="8.5" />
+  <ellipse
+     ry="8.5"
+     rx="9.5"
+     cy="15"
+     cx="16"
+     id="path4138"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 3;stroke-dashoffset:0;stroke-opacity:1" />
+</svg>

@@ -1,1 +1,100 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.70710678 .70710678 -.70710678 .70710678 740.49627 -735.81001)"><path d="m7.0000006 1039.3622c-1.1079918 0-1.9999832.7433-2.0000006 1.6666l.0000456 7.5001c0 0-.0000154 5.8333 2.9999695 5.8333 2.9999849 0 2.9999849-5.8333 2.9999849-5.8333l-.00002-7.5001c.00006-.9233-.891976-1.6666-1.999968-1.6666z" fill="#ccc"/><rect fill="#ffbc48" height="10" rx="2.6666667" ry="3.3333335" width="6" x="5" y="1034.3622"/><rect fill="#ffbc48" height="3" rx=".41666669" ry=".5" width="10" x="3" y="1041.3622"/><rect fill="#4e79ff" height="7" rx="1" ry=".875" width="2" x="7" y="1046.3622"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="color-picker.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="12.979362"
+     inkscape:cy="7.8525393"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showborder="false"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4617" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       id="g4611"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,740.49627,300.55219)">
+      <path
+         sodipodi:nodetypes="scczccss"
+         id="rect4136"
+         d="m 7.0000006,1039.3622 c -1.1079918,0 -1.9999832,0.7433 -2.0000006,1.6666 l 4.56e-5,7.5001 c 0,0 -1.54e-5,5.8333 2.9999695,5.8333 C 11,1054.3622 11,1048.5289 11,1048.5289 l -2e-5,-7.5001 c 6e-5,-0.9233 -0.891976,-1.6666 -1.999968,-1.6666 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#ffbc48;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4140"
+         width="6"
+         height="10"
+         x="5"
+         y="1034.3622"
+         ry="3.3333335"
+         rx="2.6666667" />
+      <rect
+         rx="0.41666669"
+         ry="0.5"
+         y="1041.3622"
+         x="3"
+         height="3"
+         width="10"
+         id="rect4142"
+         style="opacity:1;fill:#ffbc48;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0.875"
+         rx="1"
+         y="1046.3622"
+         x="7"
+         height="7"
+         width="2"
+         id="rect4151"
+         style="opacity:1;fill:#4e79ff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

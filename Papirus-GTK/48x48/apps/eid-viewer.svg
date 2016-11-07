@@ -1,1 +1,116 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path d="m6 11h36c1.069 0 2 .93096 2 2v22c0 1.069-.93096 2-2 2h-36c-1.069 0-2-.931-2-2v-22c0-1.069.93096-2 2-2z" fill="#ccc"/><path d="m36.859264 16.000025c3.428336.00079 3.128736 3.556334 3.128736 3.556334v3.110904c0 1.144377-1.488 3.332775-1.488 3.332775v2l3.4995 1.712763v2.287174h-11.99993v-2.287174l3.50043-1.712763v-2c0 0-1.492309-2.186029-1.484002-3.332775v-3.110904c0 0-.299995-3.555544 3.128341-3.556334" opacity=".2"/><path d="m8 27l-3-3 3-3z" fill="#289b36"/><path d="m4 34v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2h-36c-1.108 0-2-.892-2-2z" opacity=".3"/><path d="m6 11c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/><path d="m10.25 20h7.5c.634487 0 1.25.656547 1.25 1.333333v5.333334c0 .676786-.615513 1.333333-1.25 1.333333h-7.5c-.6344875 0-1.25-.656547-1.25-1.333333v-5.333334c0-.676786.6155125-1.333333 1.25-1.333333z" fill="#ecb64e"/><path d="m42 12c1.108 0 2 .892 2 2v10h-40v-10c0-1.108.892-2 2-2z" opacity=".1"/><circle cx="-.70108646" cy="30.399622" fill="#484848" r="8.0000362" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)"/><rect fill="#484848" height="11.000051" rx="2.0000091" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width="4.0000181" x="-2.7010956" y="36.399651"/><path d="m20.999856 17.999522c-2.782 0-5 2.2212-5 5 0 2.7787 2.218 5 5 5 2.782 0 5-2.2212 5-5 0-2.7788-2.218-5-5-5z" opacity=".2" stroke-width="1.55499995"/><path d="m20.999856 16.999522c-2.782 0-5 2.2212-5 5 0 2.7787 2.218 5 5 5 2.782 0 5-2.2212 5-5 0-2.7788-2.218-5-5-5z" fill="#5d99ff" stroke-width="1.55499995"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 48 48"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="eid-viewer.svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#474747"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="9.95"
+     inkscape:cx="3.5979899"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4148" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="rect29"
+     d="m 6,11 36,0 c 1.069,0 2,0.93096 2,2 l 0,22 c 0,1.069 -0.93096,2 -2,2 L 6,37 C 4.931,37 4,36.069 4,35 L 4,13 c 0,-1.069 0.93096,-2 2,-2 z"
+     style="fill:#cccccc;fill-opacity:1" />
+  <path
+     sodipodi:nodetypes="ccsccccccccccc"
+     style="fill:#000000;fill-opacity:1;opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 36.859264,16.000025 c 3.428336,7.9e-4 3.128736,3.556334 3.128736,3.556334 l 0,3.110904 c 0,1.144377 -1.488,3.332775 -1.488,3.332775 l 0,2 3.4995,1.712763 0,2.287174 -11.99993,0 0,-2.287174 3.50043,-1.712763 0,-2 c 0,0 -1.492309,-2.186029 -1.484002,-3.332775 l 0,-3.110904 c 0,0 -0.299995,-3.555544 3.128341,-3.556334"
+     id="path33" />
+  <path
+     id="path35"
+     d="M 8,27 5,24 8,21 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#289b36;fill-opacity:1" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     id="path4447"
+     d="m 4,34 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,36 C 4.892,36 4,35.108 4,34 Z" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="rect4199"
+     d="m 6,11 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 36,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 z" />
+  <path
+     id="rect3574"
+     d="m 10.25,20 7.5,0 c 0.634487,0 1.25,0.656547 1.25,1.333333 l 0,5.333334 C 19,27.343453 18.384487,28 17.75,28 l -7.5,0 C 9.6155125,28 9,27.343453 9,26.666667 L 9,21.333333 C 9,20.656547 9.6155125,20 10.25,20 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#ecb64e;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4009"
+     style="opacity:0.1;enable-background:new"
+     d="m 42,12 c 1.108,0 2,0.892 2,2 L 44,24 4,24 4,14 c 0,-1.108 0.892,-2 2,-2 z" />
+  <circle
+     style="fill:#484848"
+     id="path4366"
+     cx="-0.70108646"
+     cy="30.399622"
+     r="8.0000362"
+     transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+  <rect
+     style="fill:#484848"
+     id="rect4368"
+     rx="2.0000091"
+     ry="2.0000091"
+     height="11.000051"
+     width="4.0000181"
+     y="36.399651"
+     x="-2.7010956"
+     transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 20.999856,17.999522 c -2.782,0 -5,2.2212 -5,5 0,2.7787 2.218,5 5,5 2.782,0 5,-2.2212 5,-5 0,-2.7788 -2.218,-5 -5,-5 z"
+     style="color:#000000;opacity:0.2;stroke-width:1.55499995"
+     id="path4374" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 20.999856,16.999522 c -2.782,0 -5,2.2212 -5,5 0,2.7787 2.218,5 5,5 2.782,0 5,-2.2212 5,-5 0,-2.7788 -2.218,-5 -5,-5 z"
+     style="color:#000000;fill:#5d99ff;stroke-width:1.55499995"
+     id="path3430" />
+</svg>
