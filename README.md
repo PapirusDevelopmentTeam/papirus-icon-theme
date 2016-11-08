@@ -22,6 +22,10 @@ sudo apt-get install papirus-gtk-icon-theme
 
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/hardcode-tray-preview.png" alt="hardcode-tray"/>
+</p>
+
 # DONATE
 If you like my project , you can donate:
 
