@@ -18,13 +18,11 @@ sudo add-apt-repository ppa:varlesh-l/papirus-pack
 sudo apt-get update
 sudo apt-get install papirus-gtk-icon-theme 
 ```
-**Hardcoded tray icons**
+# Hardcoded tray icons
 
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/hardcode-tray-preview.png" alt="hardcode-tray"/>
-</p>
+![hardcode-tray](hardcode-tray-preview.png)
 
 # DONATE
 If you like my project , you can donate:
