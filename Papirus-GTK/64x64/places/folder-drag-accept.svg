@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.77"
-     inkscape:cx="20.859905"
-     inkscape:cy="24.907718"
+     inkscape:zoom="1"
+     inkscape:cx="24.545808"
+     inkscape:cy="12.721884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
-     inkscape:window-height="849"
+     inkscape:window-height="843"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,32 +60,31 @@
        inkscape:connector-curvature="0"
        style="fill:#5895dc;fill-opacity:1" />
     <path
+       sodipodi:nodetypes="ccsccsccccsccc"
+       id="path5689"
+       d="m 34.49995,1021.3622 -4.5,5 -20.5,0 c -2.5,0 -2.5,2.396 -2.5,2.396 l 0,2 c 0,0 0,-2.3965 2.5,-2.3965 l 20.5,0 4.5,-5 20,0 c 1.3765,-0.153 2.5,1.115 2.5,2.5 l 0,-2 c 0,-1.385 -1.1235,-2.653 -2.5,-2.5 l -20,0 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.1" />
+    <path
        sodipodi:nodetypes="cscccscssscc"
        id="path5173-5"
        d="m 56.99995,1040.8622 0,-15.9998 c 0,-1.385 -1.1235,-2.653 -2.5,-2.5 l -20,0 -4.5,5 -20.5,0 c -2.5,0 -2.5,2.3959 -2.5,2.3959 l 0,11.1038 c 0,1.385 1.115,2.5 2.5,2.5 l 45,0 c 1.385,0 2.5,-1.115 2.5,-2.5 z"
        inkscape:connector-curvature="0"
        style="fill:#6ba4e7;fill-opacity:1" />
     <path
-       sodipodi:nodetypes="ccsccsccccsccc"
-       id="path5029-6"
-       d="m 34.49995,1022.3624 -4.5,5 -20.5,0 c -2.5,0 -2.5,2.396 -2.5,2.396 l 0,2 c 0,0 0.2530897,-1.3004 2.5,-2.3965 l 20.5,0 4.5,-5 20,0 c 1.3765,-0.153 2.5,1.115 2.5,2.5 l 0,-2 c 0,-1.385 -1.1235,-2.653 -2.5,-2.5 l -20,0 z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.1;fill:#ffffff" />
+       style="opacity:0.1;fill:#ffffff"
+       d="M 34.5 34 L 30 39 L 9.5 39 C 7 39 7 41.396484 7 41.396484 L 7 42.396484 C 7 42.396484 7 40 9.5 40 L 30 40 L 34.5 35 L 54.5 35 C 55.8765 34.847 57 36.115 57 37.5 L 57 36.5 C 57 35.115 55.8765 33.847 54.5 34 L 34.5 34 z "
+       transform="translate(0,988.36216)"
+       id="path5029-6" />
     <path
-       id="path5034-3"
-       d="m 6.99995,1038.8622 0,2 c 0,1.385 1.115,2.5 2.5,2.5 l 45,0 c 1.385,0 2.5,-1.115 2.5,-2.5 l 0,-2 c 0,1.385 -1.115,2.5 -2.5,2.5 l -45,0 c -1.385,0 -2.5,-1.115 -2.5,-2.5 z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3" />
+       style="opacity:0.3"
+       d="M 7 51.5 L 7 52.5 C 7 53.885 8.115 55 9.5 55 L 54.5 55 C 55.885 55 57 53.885 57 52.5 L 57 51.5 C 57 52.885 55.885 54 54.5 54 L 9.5 54 C 8.115 54 7 52.885 7 51.5 z "
+       transform="translate(0,988.36216)"
+       id="path5034-3" />
     <path
-       id="path5024-8"
-       d="m 9.49995,998.37616 c -1.3765,-0.1533 -2.5,1.115 -2.5,2.50004 l 0,1.998 c 0,-1.3845 1.1235,-2.6529 2.5,-2.5 l 19.5,0 6,5 19.629,0 c 0,0 2.3711,8e-4 2.3711,2.5 l 0,-2 c 0,-2.4992 -2.3711,-2.5 -2.3711,-2.5 l -19.629,0 -6,-4.99804 -19.5,0 z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.1;fill:#ffffff" />
-    <path
-       sodipodi:nodetypes="ccsccsccccsccc"
-       id="path5689"
-       d="m 34.49995,1020.3624 -4.5,5 -20.5,0 c -2.5,0 -2.5,2.396 -2.5,2.396 l 0,2 c 0,0 0,-2.3965 2.5,-2.3965 l 20.5,0 4.5,-5 20,0 c 1.3765,-0.153 2.5,1.115 2.5,2.5 l 0,-2 c 0,-1.385 -1.1235,-2.653 -2.5,-2.5 l -20,0 z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.1" />
+       style="opacity:0.1;fill:#ffffff"
+       d="M 9.5 10.013672 C 8.1235 9.8603719 7 11.128632 7 12.513672 L 7 13.513672 C 7 12.128572 8.1235 10.860372 9.5 11.013672 L 29 11.013672 L 35 16.011719 L 54.628906 16.011719 C 54.628906 16.011719 57 16.012519 57 18.511719 L 57 17.511719 C 57 15.012519 54.628906 15.011719 54.628906 15.011719 L 35 15.011719 L 29 10.013672 L 9.5 10.013672 z "
+       transform="translate(0,988.36216)"
+       id="path5024-8" />
   </g>
 </svg>

@@ -28,11 +28,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="849"
+     inkscape:window-height="843"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="-23.050847"
+     inkscape:zoom="1"
+     inkscape:cx="17.412022"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,7 +53,7 @@
   <path
      style="fill:#6ba4e7;fill-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 7,15.04 0,37.5 c 0,1.385 1.115,2.5 2.5,2.5 l 45,0 c 1.385,0 2.5,-1.115 2.5,-2.5 l 0,-37.5 z"
+     d="M 7,15 7,52.5 C 7,53.885 8.115,55 9.5,55 l 45,0 C 55.885,55 57,53.885 57,52.5 L 57,15 Z"
      id="rect4203" />
   <path
      style="fill:#383c4a"
@@ -63,16 +63,14 @@
   <path
      style="fill:#383c4a"
      inkscape:connector-curvature="0"
-     d="m 21.6,50.04 c -1.4404,0 -2.6,1.115 -2.6,2.5 l 0,2.5 26,0 0,-2.5 c 0,-1.385 -1.1596,-2.5 -2.6,-2.5 l -20.8,0 z"
+     d="M 21.6,50 C 20.1596,50 19,51.115 19,52.5 l 0,2.5 26,0 0,-2.5 C 45,51.115 43.8404,50 42.4,50 l -20.8,0 z"
      id="rect4155" />
   <path
      style="opacity:0.3"
-     inkscape:connector-curvature="0"
-     d="m 7,50.54 0,2 c 0,1.385 1.115,2.5 2.5,2.5 l 45,0 c 1.385,0 2.5,-1.115 2.5,-2.5 l 0,-2 c 0,1.385 -1.115,2.5 -2.5,2.5 l -45,0 C 8.115,53.04 7,51.925 7,50.54 Z"
+     d="M 7 51.5 L 7 52.5 C 7 53.885 8.115 55 9.5 55 L 54.5 55 C 55.885 55 57 53.885 57 52.5 L 57 51.5 C 57 52.885 55.885 54 54.5 54 L 9.5 54 C 8.115 54 7 52.885 7 51.5 z "
      id="path4150" />
   <path
      style="opacity:0.1;fill:#ffffff"
-     inkscape:connector-curvature="0"
-     d="M 9.5,10 C 8.115,10 7,11.115 7,12.5 l 0,2 C 7,13.115 8.115,12 9.5,12 l 45,0 c 1.385,0 2.5,1.115 2.5,2.5 l 0,-2 C 57,11.115 55.885,10 54.5,10 l -45,0 z"
+     d="M 9.5 10 C 8.115 10 7 11.115 7 12.5 L 7 13.5 C 7 12.115 8.115 11 9.5 11 L 54.5 11 C 55.885 11 57 12.115 57 13.5 L 57 12.5 C 57 11.115 55.885 10 54.5 10 L 9.5 10 z "
      id="path4155" />
 </svg>
