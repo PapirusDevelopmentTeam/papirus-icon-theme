@@ -7,17 +7,15 @@
 - Icon name
 - Original icon image
 
-# Install
-**Archlinux, Manjaro, Antergos (AUR)**:
+# Install / Update
 ```
-yaourt -S papirus-icon-theme-gtk-git
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/install.sh | bash
 ```
-**Ubuntu 14.04/16.04**:
-```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-sudo apt-get install papirus-gtk-icon-theme 
-```
+**Depends:**
+- wget
+- unzip
+- libqt4-svg (right work for Qt4-apps)
+
 # Hardcoded tray icons
 
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
