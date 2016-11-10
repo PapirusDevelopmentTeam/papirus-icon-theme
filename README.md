@@ -9,7 +9,7 @@
 
 # Install / Update
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/install-papirus.sh | bash
 ```
 **Depends:**
 - wget
