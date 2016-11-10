@@ -11,6 +11,6 @@ echo "Installing ..."
 sudo cp -R /tmp/papirus-icon-theme-gtk-master/Papiru* /usr/share/icons/
 sudo chmod -R 755 /usr/share/icons/Papiru*
 echo "Delete cache ..."
-sudo rm -rf /tmp/papiru*
+rm -rf /tmp/papiru*
 rm install-papirus.sh
 echo "Done!"
