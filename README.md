@@ -19,7 +19,7 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 **Depends:**
 - wget
 - p7zip-full
-- libqt4-svg (right work for Qt4-apps)
+- libqt4-svg (optional, need for right work on Qt4-apps)
 
 # Remove
 ```
