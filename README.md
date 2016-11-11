@@ -21,6 +21,11 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 - p7zip-full
 - libqt4-svg (right work for Qt4-apps)
 
+# Remove
+```
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/remove-papirus.sh | bash
+```
+
 # Hardcoded tray icons
 
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
