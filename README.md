@@ -18,7 +18,7 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 ```
 **Depends:**
 - wget
-- 7z
+- p7zip-full
 - libqt4-svg (right work for Qt4-apps)
 
 # Hardcoded tray icons
