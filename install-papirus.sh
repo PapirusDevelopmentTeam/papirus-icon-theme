@@ -6,7 +6,7 @@ sudo rm -rf /usr/share/icons/Papiru*
 echo "Download new version from GitHub ..."
 wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.zip -O /tmp/papirus-icon-theme-gtk.zip
 echo "Unpack archive ..."
-unzip -oq /tmp/papirus-icon-theme-gtk.zip -d /tmp/
+7z x /tmp/papirus-icon-theme-gtk.zip -o/tmp/
 echo "Installing ..."
 sudo cp -R /tmp/papirus-icon-theme-gtk-master/Papiru* /usr/share/icons/
 sudo chmod -R 755 /usr/share/icons/Papiru*
