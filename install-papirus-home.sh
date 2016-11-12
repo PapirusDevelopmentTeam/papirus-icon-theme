@@ -1,15 +1,24 @@
-#/bin/bash
+#!/bin/bash
+set -e
 echo "Papirus icon theme for GTK"
-sleep 5
-echo "Delete old Papirus icon theme ..."
+requirements=(wget 7z)
+for program in "${requirements[@]}"; do
+  if ! program_loc="$(type -p "$program")" || [ -z "$program_loc" ]; then
+    echo "Program $program not found. Please install it and rerun the script"
+    exit 1
+  fi
+done
+
+echo "Deleting old Papirus icon theme ..."
 rm -rf ~/.icons/{Papirus-GTK,Papirus-Dark-GTK}
-echo "Download new version from GitHub ..."
+echo "Downloading new version from GitHub ..."
 wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.zip -O /tmp/papirus-icon-theme-gtk.zip
-echo "Unpack archive ..."
+echo "Unpacking archive ..."
 7z x /tmp/papirus-icon-theme-gtk.zip -o/tmp/
-echo "Installing ..."
-mkdir ~/.icons
+echo "Copying into ~/.icons"
+mkdir -p ~/.icons
 cp -R /tmp/papirus-icon-theme-gtk-master/{Papirus-GTK,Papirus-Dark-GTK} ~/.icons/
-echo "Delete cache ..."
-rm -rf /tmp/papiru*
+echo "Deleting cache ..."
+rm /tmp/papirus-icon-theme-gtk.zip
+rm -rf /tmp/papirus-icon-theme-gtk-master
 echo "Done!"
