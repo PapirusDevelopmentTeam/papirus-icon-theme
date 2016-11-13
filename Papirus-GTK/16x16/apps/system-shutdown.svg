@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="16"
    height="16"
-   id="svg2817">
+   id="svg2817"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="system-shutdown.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview844"
+     showgrid="false"
+     inkscape:zoom="15.99"
+     inkscape:cx="3.7944264"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
   <defs
      id="defs847" />
   <metadata
@@ -20,10 +44,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <circle
+     style="opacity:1;fill:#c2352a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4972"
+     cx="8"
+     cy="8"
+     r="8" />
   <text
      style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
      x="877.22626"
@@ -1081,16 +1111,6 @@
      display="none"
      transform="matrix(0.063142,0,0,0.063142,-131,-40.03)"
      id="polygon10" />
-  <rect
-     style="fill:#c2352a"
-     x="-16"
-     y="-16"
-     width="16"
-     height="16"
-     ry="0.80000001"
-     rx="0.80000001"
-     transform="matrix(0,-1,-1,0,0,0)"
-     id="rect4203-1" />
   <text
      style="font-size:8.86620045px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
      x="554.25836"

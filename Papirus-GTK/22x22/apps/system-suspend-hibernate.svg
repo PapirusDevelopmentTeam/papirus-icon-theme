@@ -27,12 +27,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="849"
+     inkscape:window-height="843"
      id="namedview218"
      showgrid="false"
-     inkscape:zoom="2.67"
-     inkscape:cx="-123.72285"
-     inkscape:cy="7.2562588"
+     inkscape:zoom="16.15"
+     inkscape:cx="0.61447288"
+     inkscape:cy="17.16338"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2132,32 +2132,14 @@
        y="-1443.011"
        x="1562.1235" /></text>
   <g
-     id="g4556"
+     id="g4571"
      transform="translate(-1,-1)">
-    <g
-       transform="scale(0.5,0.5)"
-       id="g4348">
-      <rect
-         style="fill:#9f65d3"
-         id="rect4203-1"
-         transform="matrix(0,-1,-1,0,0,0)"
-         rx="2"
-         ry="2"
-         height="40"
-         width="40"
-         y="-44"
-         x="-44" />
-      <path
-         style="opacity:0.2;fill:#ffffff"
-         inkscape:connector-curvature="0"
-         id="rect4592"
-         d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,7 C 4,5.892 4.892,5 6,5 l 36,0 c 1.108,0 2,0.892 2,2 L 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z" />
-      <path
-         style="opacity:0.3"
-         inkscape:connector-curvature="0"
-         id="path4597"
-         d="M 6,44 C 4.892,44 4,43.108 4,42 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,44 Z" />
-    </g>
+    <circle
+       r="10"
+       cy="12"
+       cx="12"
+       id="path4559"
+       style="opacity:1;fill:#9f65d3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd"
@@ -2167,6 +2149,16 @@
        id="path5005"
        d="m 12,5 c -3.8661539,0 -7,3.133846 -7,7 0,3.866154 3.1338461,7 7,7 3.866154,0 7,-3.133846 7,-7 0,-3.866154 -3.133846,-7 -7,-7 z m 0,2 c 2.7615,0 5,2.2385 5,5 0,2.7615 -2.2385,5 -5,5 C 9.2385001,17 7,14.7615 7,12 7,9.2385 9.2385001,7 12,7 Z m 0,3 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
        style="fill:#ffffff;fill-rule:evenodd"
+       inkscape:connector-curvature="0" />
+    <path
+       id="circle4561"
+       d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0097656,12.292969 10,10 0 0 1 12,2.5 10,10 0 0 1 21.990234,12.207031 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="circle4566"
+       d="M 21.990234,11.707031 A 10,10 0 0 1 12,21.5 10,10 0 0 1 2.0097656,11.792969 10,10 0 0 0 2,12 10,10 0 0 0 12,22 10,10 0 0 0 22,12 10,10 0 0 0 21.9902,11.707031 Z"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
