@@ -4,7 +4,7 @@
 
 # Icon request
 - Application name
-- Icon name (see desktop-file option **icon= ** on /usr/share/applications)
+- Icon name (see desktop-file option **icon=** on `/usr/share/applications`)
 - Original icon image
 
 # Install / Update
