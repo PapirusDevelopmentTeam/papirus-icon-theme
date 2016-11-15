@@ -19,7 +19,7 @@
   <defs
      id="defs12" />
   <sodipodi:namedview
-     pagecolor="#b8b8b8"
+     pagecolor="#3c3c3c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -27,15 +27,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="24"
+     inkscape:zoom="8.6599296"
+     inkscape:cx="12.152003"
      inkscape:cy="10.820428"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
@@ -52,27 +52,46 @@
   </metadata>
   <title
      id="title8473">Paper Symbolic Icon Theme</title>
-  <g
-     transform="translate(-97,-251.99814)"
-     style="display:inline;enable-background:new"
-     id="g4330">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       id="path4218"
-       d="M 111.99865,253.99814 104,262 l -6,0 0,12 6,0 7.99865,7.99814 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 115.99865,253.99814 0,3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 l 0,3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"
-       id="path4253"
-       sodipodi:nodetypes="ccsccsc" />
-    <path
-       sodipodi:nodetypes="ccsc"
-       id="path4255"
-       d="m 115.99865,261.99814 0,12 c 2.12,-1.16 3.58204,-3.4 3.58204,-6 0,-2.6 -1.44204,-4.84 -3.58204,-6 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+     d="M 14.99865,2 7,10.00186 l -6,0 0,12 6,0 L 14.99865,30 Z"
+     id="path4218"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     sodipodi:nodetypes="ccsccsc"
+     id="path4253"
+     d="m 18.99865,2 0,3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 l 0,3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"
+     style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+     d="m 18.99865,10 0,12 c 2.12,-1.16 3.58204,-3.4 3.58204,-6 0,-2.6 -1.44204,-4.84 -3.58204,-6 z"
+     id="path4255"
+     sodipodi:nodetypes="ccsc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.2"
+     d="M 14.998047 2 L 7 10.001953 L 1 10.001953 L 1 11.001953 L 7 11.001953 L 14.998047 3 L 14.998047 2 z "
+     id="path4140" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.2"
+     d="M 18.998047 2 L 18.998047 3 C 25.141771 4.5213031 29.751033 9.9265528 29.976562 16.5 C 29.982299 16.332793 29.998047 16.168679 29.998047 16 C 29.998047 9.2 25.298047 3.56 18.998047 2 z M 26.978516 16.5 C 26.768002 21.421514 23.486238 25.568422 18.998047 27 L 18.998047 28 C 23.638047 26.52 26.998047 22.14 26.998047 17 C 26.998047 16.831833 26.985636 16.666465 26.978516 16.5 z "
+     id="path4142" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.2"
+     d="M 18.998047 10 L 18.998047 11 C 20.998283 12.08424 22.37183 14.11663 22.544922 16.5 C 22.55717 16.333465 22.580078 16.169807 22.580078 16 C 22.580078 13.4 21.138047 11.16 18.998047 10 z "
+     id="path4144" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="M 1 21.001953 L 1 22.001953 L 7 22.001953 L 14.998047 30 L 14.998047 29 L 7 21.001953 L 1 21.001953 z "
+     id="path4155" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="M 18.998047 4 L 18.998047 5 C 23.486238 6.4315783 26.768002 10.578486 26.978516 15.5 C 26.985636 15.333535 26.998047 15.168167 26.998047 15 C 26.998047 9.86 23.638047 5.48 18.998047 4 z M 29.976562 15.5 C 29.751033 22.073447 25.141771 27.478697 18.998047 29 L 18.998047 30 C 25.298047 28.44 29.998047 22.8 29.998047 16 C 29.998047 15.831321 29.982299 15.667207 29.976562 15.5 z "
+     id="path4157" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="M 22.544922 15.5 C 22.369628 17.88337 20.979589 19.91576 18.998047 21 L 18.998047 22 C 21.118047 20.84 22.580078 18.6 22.580078 16 C 22.580078 15.830193 22.557016 15.666535 22.544922 15.5 z "
+     id="path4159" />
 </svg>
