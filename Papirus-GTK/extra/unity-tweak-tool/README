@@ -1,2 +1,3 @@
 Additionall icons for Unity Tweak Tool.
-Copy folder "48" to "/usr/share/unity-tweak-tool/media"
+INSTALL:
+sudo cp -R 48 /usr/share/unity-tweak-tool/media/
