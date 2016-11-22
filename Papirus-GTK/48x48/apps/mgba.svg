@@ -1,184 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2817"
-   height="48"
-   width="48"
-   version="1.0"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="mgba.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview26"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-9.0508475"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817" />
-  <metadata
-     id="metadata57">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2819">
-    <radialGradient
-       id="radialGradient2429"
-       gradientUnits="userSpaceOnUse"
-       cy="8.4179"
-       cx="19.063"
-       gradientTransform="matrix(1.0343,0,0,0.79462,-0.17248,5.8754)"
-       r="11">
-      <stop
-         id="stop5750"
-         stop-color="#484848"
-         offset="0" />
-      <stop
-         id="stop5752"
-         stop-color="#333"
-         offset="1" />
-    </radialGradient>
-    <linearGradient
-       id="linearGradient4721"
-       y2="5.9236"
-       gradientUnits="userSpaceOnUse"
-       y1="26.512"
-       gradientTransform="matrix(0.6875,0,0,0.66667,7.5,4)"
-       x2="24.102"
-       x1="24.756">
-      <stop
-         id="stop4725"
-         stop-color="#fff"
-         offset="0" />
-      <stop
-         id="stop4727"
-         stop-color="#fff"
-         stop-opacity="0"
-         offset="1" />
-    </linearGradient>
-  </defs>
-  <rect
-     id="rect4203"
-     ry="2"
-     rx="2"
-     transform="scale(-1,1)"
-     height="40"
-     width="32"
-     y="3"
-     x="-40"
-     style="fill:#cccccc;fill-opacity:1" />
-  <rect
-     style="opacity:0.15;fill:url(#linearGradient4721);fill-rule:evenodd"
-     id="rect4717"
-     rx="0.41249999"
-     ry="0.40000001"
-     height="14"
-     width="22"
-     y="8"
-     x="13" />
-  <rect
-     style="fill:url(#radialGradient2429);fill-rule:evenodd;stroke:#363636;stroke-width:0.99974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42860007"
-     id="rect4140"
-     rx="0"
-     ry="0"
-     height="11"
-     width="19"
-     stroke-miterlimit="3.4286"
-     y="9.4998999"
-     x="14.5" />
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     inkscape:connector-curvature="0"
-     id="rect4149"
-     d="M 10,3 C 8.892,3 8,3.892 8,5 L 8,6 C 8,4.892 8.892,4 10,4 l 28,0 c 1.108,0 2,0.892 2,2 L 40,5 C 40,3.892 39.108,3 38,3 L 10,3 Z" />
-  <path
-     style="opacity:0.3"
-     inkscape:connector-curvature="0"
-     id="rect4154"
-     d="m 8,40 0,1 c 0,1.108 0.892,2 2,2 l 28,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 10,42 C 8.892,42 8,41.108 8,40 Z" />
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     inkscape:connector-curvature="0"
-     id="path4206"
-     d="m 15,28 c -0.554,0 -1,0.446 -1,1 l 0,2 -2,0 c -0.554,0 -1,0.446 -1,1 l 0,2 c 0,0.554 0.446,1 1,1 l 2,0 0,2 c 0,0.554 0.446,1 1,1 l 2,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 2,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 z" />
-  <path
-     style="fill:#697e83"
-     inkscape:connector-curvature="0"
-     id="rect4354"
-     d="m 15,27 c -0.554,0 -1,0.446 -1,1 l 0,2 -2,0 c -0.554,0 -1,0.446 -1,1 l 0,2 c 0,0.554 0.446,1 1,1 l 2,0 0,2 c 0,0.554 0.446,1 1,1 l 2,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 2,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 z" />
-  <circle
-     style="opacity:0.2;fill:#ffffff"
-     id="circle4210"
-     cy="30"
-     cx="35"
-     r="2" />
-  <circle
-     style="opacity:0.2;fill:#ffffff"
-     id="circle4212"
-     cx="29"
-     cy="30"
-     r="2" />
-  <circle
-     style="opacity:0.2;fill:#ffffff"
-     id="circle4214"
-     cx="35"
-     cy="36"
-     r="2" />
-  <circle
-     style="opacity:0.2;fill:#ffffff"
-     id="circle4216"
-     cy="36"
-     cx="29"
-     r="2" />
-  <circle
-     style="fill:#ef5646"
-     id="path4359"
-     cx="35"
-     cy="29"
-     r="2" />
-  <circle
-     style="fill:#ef5646"
-     id="circle4361"
-     cy="29"
-     cx="29"
-     r="2" />
-  <circle
-     style="fill:#eb9200"
-     id="circle4369"
-     cy="35"
-     cx="35"
-     r="2" />
-  <circle
-     style="fill:#eb9200"
-     id="circle4371"
-     cx="29"
-     cy="35"
-     r="2" />
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <radialGradient id="radialGradient2429" gradientUnits="userSpaceOnUse" cy="8.4179" cx="19.063" gradientTransform="matrix(1.0343 0 0 .79462 -.17248 5.8754)" r="11">
+   <stop id="stop5750" stop-color="#484848" offset="0"/>
+   <stop id="stop5752" stop-color="#333" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient4721" x1="24.756" gradientUnits="userSpaceOnUse" y1="26.512" gradientTransform="matrix(.6875 0 0 .66667 7.5 4)" x2="24.102" y2="5.9236">
+   <stop id="stop4725" stop-color="#fff" offset="0"/>
+   <stop id="stop4727" stop-opacity="0" stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect4203" ry="2" rx="2" transform="scale(-1,1)" height="40" width="32" y="3" x="-40" fill="#ccc"/>
+ <rect id="rect4717" opacity=".15" fill-rule="evenodd" rx=".41250" ry="0.4" height="14" width="22" y="8" x="13" fill="url(#linearGradient4721)"/>
+ <rect id="rect4140" stroke-linejoin="round" fill-rule="evenodd" rx="0" ry="0" height="11" width="19" stroke="#363636" stroke-linecap="round" stroke-miterlimit="3.4286" y="9.4999" x="14.5" stroke-width=".99974" fill="url(#radialGradient2429)"/>
+ <path id="rect4149" opacity=".2" fill="#fff" d="m10 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z"/>
+ <path id="rect4154" opacity=".2" d="m8 41v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
+ <path id="path4206" opacity=".2" fill="#fff" d="m15 28c-0.554 0-1 0.446-1 1v2h-2c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1h-2v-2c0-0.554-0.446-1-1-1h-2z"/>
+ <path id="rect4354" fill="#697e83" d="m15 27c-0.554 0-1 0.446-1 1v2h-2c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1h-2v-2c0-0.554-0.446-1-1-1h-2z"/>
+ <circle id="circle4210" opacity=".2" cy="30" cx="35" r="2" fill="#fff"/>
+ <circle id="circle4212" opacity=".2" cy="30" cx="29" r="2" fill="#fff"/>
+ <circle id="circle4214" opacity=".2" cy="36" cx="35" r="2" fill="#fff"/>
+ <circle id="circle4216" opacity=".2" cy="36" cx="29" r="2" fill="#fff"/>
+ <circle id="path4359" cy="29" cx="35" r="2" fill="#ef5646"/>
+ <circle id="circle4361" cy="29" cx="29" r="2" fill="#ef5646"/>
+ <circle id="circle4369" cy="35" cx="35" r="2" fill="#eb9200"/>
+ <circle id="circle4371" cy="35" cx="29" r="2" fill="#eb9200"/>
 </svg>

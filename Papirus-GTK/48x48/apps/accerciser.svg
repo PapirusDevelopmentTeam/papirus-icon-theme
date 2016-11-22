@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -118,12 +117,12 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4351" rx="3" ry="3" height="8" width="42" y="20" x="3" fill="#2a85c2"/>
- <path id="rect4383" opacity=".2" d="m6 20c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h36c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-36z" fill="#fff"/>
- <path id="rect4388" opacity=".3" d="m3 24v1c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3v-1c0 1.662-1.338 3-3 3h-36c-1.662 0-3-1.338-3-3z"/>
+ <path id="rect4383" opacity=".2" fill="#fff" d="m6 20c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h36c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-36z"/>
+ <path id="rect4388" opacity=".2" d="m3 25v1c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3v-1c0 1.662-1.338 3-3 3h-36c-1.662 0-3-1.338-3-3z"/>
  <rect id="rect4360" transform="matrix(0,-1,-1,0,0,0)" rx="4" ry="4" height="10" width="40" y="-18" x="-44" fill="#c2352a"/>
  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="4" ry="4" height="10" width="40" y="-40" x="-44" fill="#c2352a"/>
  <rect id="rect4362" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="4" width="30" y="-8" x="-39" fill="#d8564b"/>
  <rect id="rect4364" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="4" width="30" y="-44" x="-39" fill="#d8564b"/>
- <path id="rect4366" opacity=".3" d="m4 36v1c0 1.108 0.892 2 2 2s2-0.892 2-2v-1c0 1.108-0.892 2-2 2s-2-0.892-2-2zm36 0v1c0 1.108 0.892 2 2 2s2-0.892 2-2v-1c0 1.108-0.892 2-2 2s-2-0.892-2-2zm-32 3v1c0 2.216 1.784 4 4 4h2c2.216 0 4-1.784 4-4v-1c0 2.216-1.784 4-4 4h-2c-2.216 0-4-1.784-4-4zm22 0v1c0 2.216 1.784 4 4 4h2c2.216 0 4-1.784 4-4v-1c0 2.216-1.784 4-4 4h-2c-2.216 0-4-1.784-4-4z"/>
- <path id="path4375" opacity=".2" d="m12 4c-2.216 0-4 1.784-4 4v1c0-2.216 1.784-4 4-4h2c2.216 0 4 1.784 4 4v-1c0-2.216-1.784-4-4-4h-2zm22 0c-2.216 0-4 1.784-4 4v1c0-2.216 1.784-4 4-4h2c2.216 0 4 1.784 4 4v-1c0-2.216-1.784-4-4-4h-2zm-28 5c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2s2 0.892 2 2v-1c0-1.108-0.892-2-2-2zm36 0c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2s2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
+ <path id="rect4366" opacity=".2" d="m4 37v1c0 1.108 0.892 2 2 2s2-0.892 2-2v-1c0 1.108-0.892 2-2 2s-2-0.892-2-2zm36 0v1c0 1.108 0.892 2 2 2s2-0.892 2-2v-1c0 1.108-0.892 2-2 2s-2-0.892-2-2zm-32 3v1c0 2.216 1.784 4 4 4h2c2.216 0 4-1.784 4-4v-1c0 2.216-1.784 4-4 4h-2c-2.216 0-4-1.784-4-4zm22 0v1c0 2.216 1.784 4 4 4h2c2.216 0 4-1.784 4-4v-1c0 2.216-1.784 4-4 4h-2c-2.216 0-4-1.784-4-4z"/>
+ <path id="path4375" opacity=".2" fill="#fff" d="m12 4c-2.216 0-4 1.784-4 4v1c0-2.216 1.784-4 4-4h2c2.216 0 4 1.784 4 4v-1c0-2.216-1.784-4-4-4h-2zm22 0c-2.216 0-4 1.784-4 4v1c0-2.216 1.784-4 4-4h2c2.216 0 4 1.784 4 4v-1c0-2.216-1.784-4-4-4h-2zm-28 5c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2s2 0.892 2 2v-1c0-1.108-0.892-2-2-2zm36 0c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2s2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
 </svg>

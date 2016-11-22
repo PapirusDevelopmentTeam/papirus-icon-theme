@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -118,23 +117,35 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <path id="rect4203" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#6993c4"/>
- <path id="path4439" opacity=".05" d="m42 42c1.108 0 2-0.892 2-2v-15h-40v15c0 1.108 0.892 2 2 2z" style="enable-background:new" fill="#fff"/>
- <g id="g5562" opacity=".8" fill="#fff">
-  <g id="g5536" transform="translate(0 -2.0011)">
-   <rect id="rect4466" opacity="1" rx="2" ry="2" height="4" width="26" y="16" x="15"/>
-   <path id="path4478" opacity="1" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd"/>
+ <g id="g4569" opacity=".2" transform="translate(0,1)">
+  <g id="g4571" transform="translate(0,-2.0011)">
+   <rect id="rect4573" opacity="1" rx="2" ry="2" height="4" width="26" y="16" x="15"/>
+   <path id="path4575" opacity="1" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z" fill-rule="evenodd"/>
   </g>
-  <g id="g5558" style="" transform="translate(0,-1)">
-   <rect id="rect4468" opacity="1" rx="2" ry="2" height="4" width="26" y="24" x="15"/>
-   <circle id="circle4486" opacity="1" cy="26" cx="10" r="2"/>
+  <g id="g4577" transform="translate(0,-1)">
+   <rect id="rect4579" opacity="1" rx="2" ry="2" height="4" width="26" y="24" x="15"/>
+   <circle id="circle4581" opacity="1" cy="26" cx="10" r="2"/>
   </g>
-  <g id="g5554" style="">
-   <rect id="rect4470" opacity="1" rx="2" ry="2" height="4" width="26" y="32" x="15"/>
-   <circle id="circle4488" opacity="1" cy="34" cx="10" r="2"/>
+  <g id="g4583">
+   <rect id="rect4585" opacity="1" rx="2" ry="2" height="4" width="26" y="32" x="15"/>
+   <circle id="circle4587" opacity="1" cy="34" cx="10" r="2"/>
   </g>
  </g>
- <path id="path4294" opacity=".05" style="enable-background:new" d="m6 6c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2z"/>
- <path id="rect4079" opacity=".3" d="m4 39v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <g id="g5562" fill="#ffdd73">
+  <g id="g5536" transform="translate(0 -2.0011)">
+   <rect id="rect4466" rx="2" ry="2" height="4" width="26" y="16" x="15"/>
+   <path id="path4478" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z" fill-rule="evenodd"/>
+  </g>
+  <g id="g5558" transform="translate(0,-1)">
+   <rect id="rect4468" rx="2" ry="2" height="4" width="26" y="24" x="15"/>
+   <circle id="circle4486" cy="26" cx="10" r="2"/>
+  </g>
+  <g id="g5554">
+   <rect id="rect4470" rx="2" ry="2" height="4" width="26" y="32" x="15"/>
+   <circle id="circle4488" cy="34" cx="10" r="2"/>
+  </g>
+ </g>
+ <path id="rect4079" opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
  <text id="text4087-2-6-5-93" opacity=".8" font-size="12.666px" xml:space="preserve" y="9.2028446" x="829.77411" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-41" y="9.2028446" x="829.77411"/></text>
  <text id="text4087-2-6-5-5-38" opacity=".8" font-size="12.666px" xml:space="preserve" y="-31.538862" x="853.73505" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-95" y="-31.538862" x="853.73505"/></text>
  <text id="text4087-2-6-5-2-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-61.617004" x="-616.8233" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2-6" y="-61.617004" x="-616.8233"/></text>
@@ -238,4 +249,5 @@
  <text id="text4087-2-6-5-5-6-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1170.6173" x="1604.6764" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-9" y="-1170.6173" x="1604.6764"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1177.8273" x="113.21326" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-9" y="-1177.8273" x="113.21326"/></text>
  <text id="text4087-2-6-5-4-1-4" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1451.0614" x="1573.7561" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-3" y="-1451.0614" x="1573.7561"/></text>
+ <path id="path4564" opacity=".2" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
 </svg>

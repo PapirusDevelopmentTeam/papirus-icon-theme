@@ -1,96 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2817"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="bluefish.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     id="namedview26"
-     showgrid="true"
-     inkscape:zoom="20.54"
-     inkscape:cx="8"
-     inkscape:cy="7.0258752"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4164" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata57">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2819" />
-  <g
-     id="g4285"
-     transform="matrix(0.089407,0,0,0.10723,3.9785,-32.959)"
-     style="fill:#898989" />
-  <g
-     id="g4186"
-     transform="matrix(0.0357159,0,0,0.04595513,-0.00841498,-3.2684432)">
-    <g
-       id="g4146">
-      <path
-         style="fill:#608ab5"
-         d="M 5.8613281 3.0039062 C 4.1638085 2.9424147 2.3301397 3.714672 0.76757812 6.1464844 C 0.48950916 6.5796717 0.0030376944 7.3268281 0 8 C 0.0030376944 8.6731719 0.48950916 9.4203283 0.76757812 9.8535156 C 4.3391474 15.411944 9.3337784 12.305596 10.857422 10.369141 C 11.173198 9.9677299 11.73743 9.8974224 12.148438 10.125 L 15.675781 12.078125 C 16.721882 11.593871 14.945927 9.2361815 14.392578 8 C 14.945927 6.7638185 16.721882 4.4061295 15.675781 3.921875 L 12.148438 5.875 C 11.73743 6.1025776 11.173198 6.0322701 10.857422 5.6308594 C 10.000372 4.5416035 8.0438534 3.0829669 5.8613281 3.0039062 z "
-         transform="matrix(27.998734,0,0,21.760356,0.23560879,71.122488)"
-         id="path4148" />
-    </g>
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4186" transform="matrix(.035716 0 0 .045955 -.0084150 -3.2684)">
+  <g id="g4146">
+   <path id="path4148" d="m5.8613 3.0039c-1.6975-0.0615-3.5312 0.7108-5.0937 3.1426-0.27809 0.4332-0.76456 1.1803-0.7676 1.8535 0.0030377 0.6732 0.48951 1.4203 0.76758 1.8535 3.5715 5.5585 8.5662 2.4525 10.089 0.5155 0.316-0.4013 0.88-0.4716 1.291-0.244l3.528 1.953c1.046-0.484-0.73-2.8418-1.283-4.078 0.553-1.2362 2.329-3.5939 1.283-4.0781l-3.528 1.9531c-0.411 0.2276-0.975 0.1573-1.291-0.2441-0.857-1.0893-2.8131-2.5479-4.9957-2.627z" fill="#608ab5" transform="matrix(27.999 0 0 21.76 .23561 71.122)"/>
   </g>
-  <circle
-     style="fill:#ffffff;fill-opacity:1"
-     id="path4244"
-     cx="3"
-     cy="6"
-     r="1" />
-  <g
-     id="g4358"
-     transform="matrix(0.089407,0,0,0.10723,3.9785,-34.959)"
-     style="fill:#7a7a7a" />
-  <g
-     id="g4823"
-     transform="matrix(0.062585,0,0,0.080422,1.985,-18.4694)"
-     style="fill:#737373" />
-  <g
-     id="g4896"
-     transform="matrix(0.062585,0,0,0.080422,1.985,-20.4694)"
-     style="fill:#626262" />
-  <g
-     transform="matrix(0.0357159,0,0,-0.04595513,-0.00841498,19.268444)"
-     id="g4166">
-    <g
-       id="g4168" />
-  </g>
+ </g>
+ <circle id="path4244" cy="6" cx="3" r="1" fill="#fff"/>
+ <g id="g4166" transform="matrix(.035716 0 0 -.045955 -.0084150 19.268)"></g>
 </svg>

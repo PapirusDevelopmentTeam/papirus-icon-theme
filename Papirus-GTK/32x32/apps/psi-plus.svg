@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -117,11 +116,12 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="rect4559" d="m11.562 3c-0.831 0-1.5 0.669-1.5 1.5v14c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-12.5l3-3h-18.5z" fill="#ef4444"/>
+ <path id="rect4559" fill="#ef4444" d="m11.5 3c-0.831 0-1.5 0.669-1.5 1.5v14c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-12.5l3-3h-18.5z"/>
  <path id="path4577" opacity=".1" d="m11.562 3c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h17.5l1-1h-18.5z" fill="#fff"/>
- <path id="path4590" opacity=".3" d="m29.062 3-2 2v1l3-3h-1zm-19 14.5v1c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-14c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path id="rect4557" d="m2.0625 12 3 3v12.5c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-14c0-0.831-0.669-1.5-1.5-1.5h-18.5z" fill="#35b9f5"/>
- <path id="path4542" opacity=".6" d="m8.0625 16v1h11v-1zm0 3v1h11v-1zm0 3v1h8.4v-1z" fill="#fff"/>
+ <path id="path4590" opacity=".2" d="m29 4-2 2v1l3-3h-1zm-19 14.5v1c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-14c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path id="rect4557" fill="#35b9f5" d="m2 12 3 3v12.5c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-14c0-0.831-0.669-1.5-1.5-1.5h-18.5z"/>
+ <path id="path4542" d="m8 17v1h11v-1zm0 3v1h11v-1zm0 3v1h8.4v-1z" fill="#aee3fb"/>
  <path id="path4582" opacity=".1" d="m20.5 12c0.831 0 1.5 0.669 1.5 1.5v1c0-0.831-0.669-1.5-1.5-1.5h-17.5l-1-1h18.5z" fill="#fff"/>
- <path id="path4584" opacity=".3" d="m2.0625 12 3 3v-1l-2-2h-1zm3 14.5v1c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-14c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path id="path4584" opacity=".2" d="m2 13 3 3v-1l-2-2h-1zm3 14.5v1c0 0.831 0.669 1.5 1.5 1.5h14c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-14c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path id="path4350" opacity=".2" d="m8 18v1h11v-1zm0 3v1h11v-1zm0 3v1h8.4v-1z"/>
 </svg>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -18,6 +17,12 @@
   <linearGradient id="linearGradient4517" y2="25.313" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" x2="28.615" gradientTransform="matrix(-.70833 0 0 .71429 33 -2)" y1="21" x1="24"/>
   <linearGradient id="linearGradient4521" y2="36.388" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" x2="12.189" gradientTransform="matrix(.66667 0 0 .66667 .046428 -.34935)" y1="34.828" x1="31.427"/>
  </defs>
+ <g id="g4357" opacity=".2" transform="translate(0,1)">
+  <path id="path4359" d="m7.5 13 8.5-5-6-5-8 5.5z"/>
+  <path id="path4361" d="m16 18-8.5-5-5.5 4.5 8 5.5z"/>
+  <path id="path4363" d="m30 17.5-5.5-4.5-8.5 5l6 4.834z"/>
+  <path id="path4365" d="m16 8 8.5 5 5.5-4.5-8-5.5z"/>
+ </g>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-5.1873989" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="-5.1873989" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-45.929108" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-45.929108" x="901.18719"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-76.007248" x="-569.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-76.007248" x="-569.37115"/></text>
@@ -135,5 +140,5 @@
  </g>
  <path id="path4513" d="m24.5 13-8.5 5-8.5-5 8.5-5z" fill="#88c0ec"/>
  <path id="path4515" opacity=".05" d="m7.5 13 8.5 5v-10z" fill="url(#linearGradient4517)"/>
- <path id="path4523" opacity=".3" d="m8 23.051v1l8 4.949 8-4.9492v-1l-8 4.949-8-4.949z"/>
+ <path id="path4523" opacity=".2" d="m8 24.051v1l8 4.949 8-4.9492v-1l-8 4.949-8-4.949z"/>
 </svg>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,12 +9,6 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs id="defs2819">
-  <linearGradient id="linearGradient3912" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -1 1 0 -165 165)" y1="203" x1="143">
-   <stop id="stop4271" stop-color="#fff" offset="0"/>
-   <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="10.812601" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="10.812601" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-29.929106" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-29.929106" x="901.18719"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-60.007248" x="-569.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-60.007248" x="-569.37115"/></text>
@@ -123,16 +116,11 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <g id="g4545">
-  <rect id="rect4203-5" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="32" y="-43" x="-38" fill="#5f7c8a"/>
-  <rect id="rect3282" ry="0" style="enable-background:new" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="34" width="26" y="-40" x="-35" fill="#7f96a1"/>
-  <path id="path4294" opacity=".1" d="m3 36c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-14h-40z" style="enable-background:new" fill="url(#linearGradient3912)"/>
-  <path id="rect4414" opacity=".2" d="m5 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" style="enable-background:new" fill="#fff"/>
-  <path id="rect4535" opacity=".3" style="enable-background:new" d="m3 35v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
-  <circle id="path4058-7-6" style="enable-background:new" cx="33" cy="30" r="12" fill="#48cd42"/>
-  <path id="path4318" d="m27 24h1c6.0751 0 11 4.9249 11 11v1h-1c-0.54653 0-1-0.44984-1-1 0-4.9706-4.0294-9-9-9-0.54653 0-1-0.44984-1-1v-1z" style="color:#000000" fill="#fff"/>
-  <path id="path4316" d="m27 28h1c3.866 0 7 3.134 7 7v1h-1c-0.54653 0-1-0.44984-1-1 0-2.7614-2.2386-5-5-5-0.54653 0-1-0.44984-1-1v-1z" style="color:#000000" fill="#fff"/>
-  <path id="rect3103" d="m29 32c1.1046 0 2 0.89543 2 2s-0.89543 2-2 2-2-0.89543-2-2 0.89543-2 2-2z" style="color:#000000" fill="#fff"/>
-  <path id="circle4540" opacity=".3" style="enable-background:new" d="m44.98 29.406a12 12 0 0 1 -11.98 11.594 12 12 0 0 1 -11.98 -11.406 12 12 0 0 0 -0.02 0.406 12 12 0 0 0 12 12 12 12 0 0 0 12 -12 12 12 0 0 0 -0.02 -0.594z"/>
- </g>
+ <rect id="rect4203-5" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="32" y="-44" x="-40" fill="#5f7c8a"/>
+ <rect id="rect3282" ry="0" style="enable-background:new" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="34" width="26" y="-41" x="-37" fill="#7f96a1"/>
+ <path id="rect4414" opacity=".2" style="enable-background:new" fill="#fff" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4535" opacity=".2" style="enable-background:new" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <circle id="circle4389" opacity=".2" style="enable-background:new" cy="37" cx="36" r="11"/>
+ <circle id="path4058-7-6" style="enable-background:new" cx="36" cy="36" r="11" fill="#48cd42"/>
+ <path id="path4318" style="color:#000000" fill="#fff" d="m30 30v1c0 0.55016 0.45347 1 1 1 4.9706 0 9 4.0294 9 9 0 0.55016 0.45347 1 1 1h1v-1c0-6.075-4.925-11-11-11h-1zm0 4v1c0 0.55016 0.45347 1 1 1 2.7614 0 5 2.2386 5 5 0 0.55016 0.45347 1 1 1h1v-1c0-3.866-3.134-7-7-7h-1zm2 4c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.8954-2-2-2z"/>
 </svg>

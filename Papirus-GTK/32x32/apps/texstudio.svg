@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -10,12 +9,6 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs id="defs2819">
-  <linearGradient id="linearGradient4191" y2="3.9509" gradientUnits="userSpaceOnUse" y1="22.121" gradientTransform="matrix(.7 0 0 .68421 -.8 .26316)" x2="24.239" x1="24.292">
-   <stop id="stop3683" offset="0"/>
-   <stop id="stop3685" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-5.1873989" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="-5.1873989" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-45.929108" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-45.929108" x="901.18719"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-76.007248" x="-569.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-76.007248" x="-569.37115"/></text>
@@ -231,10 +224,16 @@
  <text id="text4087-2-6-5-54-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1188.668" x="130.23817" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-2" y="-1188.668" x="130.23817"/></text>
  <text id="text4087-2-6-5-4-1-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1461.9021" x="1590.781" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-1" y="-1461.9021" x="1590.781"/></text>
  <rect id="rect4255" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#8283d7"/>
- <path id="rect4632" opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
- <path id="rect4465" d="m3 10v3h2v9h4v-9h2v-3z" fill="#fff"/>
- <path id="rect4487" d="m24 10h-3l2.3877 5.9458-2.388 6.054h3l1-3 1 3h3l-2.388-6.054 2.388-5.946h-3l-1 3z" fill="#fff"/>
- <path id="rect4475" d="m12 13v12h8v-3h-5v-2h5v-2h-5v-2h5v-3z" fill="#fff"/>
- <path id="path4026" opacity=".15" fill="url(#linearGradient4191)" d="m3.4 3c-0.7756 0-1.4 0.6103-1.4 1.3684v11.632h28v-11.632c0-0.7577-0.624-1.368-1.4-1.368h-25.2z"/>
- <path id="rect4379" opacity=".3" d="m2 27.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path id="rect4632" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <g id="g4566" opacity=".2" transform="translate(0,1)">
+  <path id="path4568" d="m3 10v3h2v9h4v-9h2v-3z"/>
+  <path id="path4570" d="m24 10h-3l2.3877 5.9458-2.388 6.054h3l1-3 1 3h3l-2.388-6.054 2.388-5.946h-3l-1 3z"/>
+  <path id="path4572" d="m12 13v12h8v-3h-5v-2h5v-2h-5v-2h5v-3z"/>
+ </g>
+ <g id="g4561" fill="#fff">
+  <path id="rect4465" d="m3 10v3h2v9h4v-9h2v-3z"/>
+  <path id="rect4487" d="m24 10h-3l2.3877 5.9458-2.388 6.054h3l1-3 1 3h3l-2.388-6.054 2.388-5.946h-3l-1 3z"/>
+  <path id="rect4475" d="m12 13v12h8v-3h-5v-2h5v-2h-5v-2h5v-3z"/>
+ </g>
+ <path id="rect4379" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
 </svg>

@@ -1,77 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   id="svg4190"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="trimage.svg">
-  <defs
-     id="defs4192" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#585858"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="7.03"
-     inkscape:cx="1.5347092"
-     inkscape:cy="19.834476"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata4195">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1036.3622)">
-    <g
-       id="g4941"
-       transform="matrix(0.57142516,0,0,0.57142516,-1.1428028,452.15881)">
-      <path
-         id="path37"
-         style="opacity:1;fill:#9cc7f4;fill-opacity:1;stroke:none"
-         d="m 25.032778,1027.0392 c -8.591536,4.3622 -13.980636,11.0731 -18.8085273,18.1942 2.2469838,0.9337 5.1596613,1.8889 8.1735933,2.7234 5.535594,-2.9215 10.978552,-5.9571 13.283704,-12.8532 -0.806803,-2.9387 -1.733173,-5.7966 -2.64877,-8.0655 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path39"
-         style="opacity:1;fill:#63a8d3;fill-opacity:1;stroke:none"
-         d="m 21.838959,1022.3657 c -3.803501,0.3198 -20.595559,17.2509 -19.8124538,20.1843 0.1992772,0.7419 1.8311951,1.696 4.1966682,2.6792 l 18.8085276,-18.1944 c -1.051321,-2.6059 -2.080023,-4.4355 -2.867436,-4.6455 -0.09479,-0.025 -0.203586,-0.034 -0.326384,-0.022 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path41"
-         style="opacity:1;fill:#cde4fd;fill-opacity:1;stroke:none"
-         d="m 27.681548,1035.1047 -13.283704,12.8532 c 6.767881,1.8748 14.003256,3.1142 15.155831,1.9555 1.137496,-1.1382 -0.04847,-8.1463 -1.876436,-14.8087 z"
-         inkscape:connector-curvature="0" />
-    </g>
+<svg id="svg4190" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4195">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1036.4)">
+  <g id="g4941" transform="matrix(.57143 0 0 .57143 -1.1428 452.16)">
+   <path id="path37" d="m25.033 1027c-8.5915 4.3622-13.981 11.073-18.809 18.194 2.247 0.9337 5.1597 1.8889 8.1736 2.7234 5.5356-2.9215 10.979-5.9571 13.284-12.853-0.8068-2.9387-1.7332-5.7966-2.6488-8.0655z" fill="#9cc7f4"/>
+   <path id="path39" d="m21.839 1022.4c-3.8035 0.3198-20.596 17.251-19.812 20.184 0.19928 0.7419 1.8312 1.696 4.1967 2.6792l18.809-18.194c-1.0513-2.6059-2.08-4.4355-2.8674-4.6455-0.09479-0.025-0.20359-0.034-0.32638-0.022z" fill="#63a8d3"/>
+   <path id="path41" d="m27.682 1035.1-13.284 12.853c6.7679 1.8748 14.003 3.1142 15.156 1.9555 1.1375-1.1382-0.04847-8.1463-1.8764-14.809z" fill="#cde4fd"/>
   </g>
+ </g>
 </svg>

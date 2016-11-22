@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -117,18 +116,14 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <g id="g4477" fill="#7c7c7c" transform="matrix(1.25,0,0,1.5,4,-15)"></g>
- <g id="g4552" fill="#6c6c6c" transform="matrix(1.25,0,0,1.5,4,-17)"></g>
- <g id="g4353" transform="matrix(.875 0 0 1.05 2 -0.3)">
+ <g id="g4353" transform="matrix(.875 0 0 1.05 2 -.3)">
   <path id="polygon4355" d="m16 6-6.8571 9.524-9.1429-9.524 1.1429 20h29.714l1.143-20-9.143 9.524z" fill="#fec006"/>
  </g>
- <rect id="rect4859" transform="matrix(0.6 -0.8 0.6 0.8 0 0)" height="2.5" width="2.5" y="32.5" x="7.5" fill="#e82d2d"/>
+ <rect id="rect4859" transform="matrix(.6 -.8 .6 .8 0 0)" height="2.5" width="2.5" y="32.5" x="7.5" fill="#e82d2d"/>
  <rect id="rect4863" transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="3.6056" width="3.6056" y="24.518" x=".72111" fill="#e82d2d"/>
- <rect id="rect3748" transform="matrix(0.6 -0.8 0.6 0.8 0 0)" height="2.5" width="2.5" y="16.667" x="-8.3333" fill="#e82d2d"/>
- <g id="g3752" fill="#fff" transform="matrix(.875 0 0 1.05 2 -0.3)">
+ <rect id="rect3748" transform="matrix(.6 -.8 .6 .8 0 0)" height="2.5" width="2.5" y="16.667" x="-8.3333" fill="#e82d2d"/>
+ <g id="g3752" transform="matrix(.875 0 0 1.05 2 -.3)" fill="#fff">
   <path id="path3754" opacity=".2" d="m2 6 0.0508 1.0625 7.9492 9.9375 6-10 6 10 7.949-9.9375 0.051-1.0625-8 10-6-10-6 10-8-10z" transform="matrix(1.1429 0 0 .95238 -2.2857 .28571)" fill="#fff"/>
  </g>
- <g id="g4626" transform="matrix(.875 0 0 1.05 2 -0.3)">
-  <path id="path4628" opacity=".3" d="m2 6 1 21h26l1-21-0.051 0.0625-0.949 19.938h-26l-0.9492-19.938-0.0508-0.062z" transform="matrix(1.1429 0 0 .95238 -2.2857 .28571)"/>
- </g>
+ <path id="path4628" opacity=".2" d="m2.0001 7 1 21h26.001l1-21-0.051 0.0625-0.94904 19.938h-26.001l-0.94924-19.938-0.050802-0.062z"/>
 </svg>

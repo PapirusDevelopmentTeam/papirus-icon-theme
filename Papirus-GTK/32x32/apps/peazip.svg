@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs219">
-  <linearGradient id="linearGradient4426" y2="29.507" gradientUnits="userSpaceOnUse" x2="29.322" y1="15.473" x1="16.743">
-   <stop id="stop4422" offset="0"/>
-   <stop id="stop4424" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -126,16 +119,15 @@
  <rect id="rect4255" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#7de63e"/>
  <path id="path4465" opacity=".2" d="m8.8764 8.8699a23.507 23.528 0 0 0 -6.5113 20.759 23.507 23.528 0 0 0 20.759 -6.499 23.507 23.528 0 0 0 6.511 -20.759 23.507 23.528 0 0 0 -20.759 6.4989z"/>
  <path id="rect4632" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
- <path id="rect4379" opacity=".3" d="m2 27.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <circle id="path4484" opacity=".3" cx="16" cy="16" r="6"/>
- <circle id="circle4486" cy="16" cx="16" r="4" fill="#ffc20c"/>
+ <path id="rect4379" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <circle id="path4484" cx="16" opacity=".3" cy="16" r="6"/>
+ <circle id="circle4486" cx="16" cy="16" r="4" fill="#ffc20c"/>
  <g id="g4403">
-  <circle id="circle4494" opacity=".3" cx="24" cy="8" r="3"/>
-  <circle id="circle4496" cy="8" cx="24" r="2" fill="#ffc20c"/>
+  <circle id="circle4494" cx="24" opacity=".3" cy="8" r="3"/>
+  <circle id="circle4496" cx="24" cy="8" r="2" fill="#ffc20c"/>
  </g>
  <g id="g4407" transform="translate(-16,16)">
-  <circle id="circle4409" opacity=".3" cy="8" cx="24" r="3"/>
+  <circle id="circle4409" cx="24" opacity=".3" cy="8" r="3"/>
   <circle id="circle4411" cx="24" cy="8" r="2" fill="#ffc20c"/>
  </g>
- <path id="rect4413" opacity=".15" d="m29.562 2.4375-27.124 27.124c0.2706 0.272 0.6465 0.438 1.062 0.438h25c0.831 0 1.5-0.669 1.5-1.5v-25c0-0.4155-0.166-0.7914-0.438-1.0625z" fill="url(#linearGradient4426)"/>
 </svg>

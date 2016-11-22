@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,12 +9,6 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs id="defs2819">
-  <linearGradient id="linearGradient3912" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -.625 .65 0 -106.2 104.38)" y1="203" x1="143">
-   <stop id="stop4271" stop-color="#fff" offset="0"/>
-   <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-5.1873989" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="-5.1873989" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-45.929108" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-45.929108" x="901.18719"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-76.007248" x="-569.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-76.007248" x="-569.37115"/></text>
@@ -125,9 +118,8 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4777" transform="matrix(0,-1,-1,0,0,0)" rx="1.3125" ry="1.3333" height="16" width="21" y="-24" x="-28" fill="#7e7e7e"/>
  <rect id="rect4203-7" ry="1.3" rx="1.25" transform="matrix(0,-1,-1,0,0,0)" height="26" width="20" y="-29" x="-25" fill="#757575"/>
- <rect id="rect3282" transform="matrix(0,-1,-1,0,0,0)" rx="0" ry="0" height="22" width="16" y="-27" x="-23" fill="#909090"/>
- <path id="path4294" opacity=".1" d="m3 23.75c0 0.6925 0.5798 1.25 1.3 1.25h23.4c0.7202 0 1.3-0.5575 1.3-1.25v-8.75h-26z" fill="url(#linearGradient3912)"/>
+ <rect id="rect3282" transform="matrix(0,-1,-1,0,0,0)" rx="0" ry="0" height="22" width="16" y="-27" x="-23" fill="#464646"/>
  <path id="rect4498" opacity=".1" d="m4.3008 5c-0.7202 0-1.3008 0.5575-1.3008 1.25v1c0-0.6925 0.5806-1.25 1.3008-1.25h23.398c0.72 0 1.301 0.5575 1.301 1.25v-1c0-0.6925-0.581-1.25-1.301-1.25h-23.398z" fill="#fff"/>
- <path id="rect4505" opacity=".3" d="m8 25.688v1c0 0.727 0.5953 1.312 1.334 1.312h13.332c0.739 0 1.334-0.585 1.334-1.312v-1c0 0.727-0.595 1.312-1.334 1.312h-13.332c-0.7387 0-1.334-0.585-1.334-1.312z"/>
- <path id="rect4448" opacity=".3" d="m3 22.75v1c0 0.692 0.5806 1.25 1.3008 1.25h23.398c0.72 0 1.301-0.558 1.301-1.25v-1c0 0.692-0.581 1.25-1.301 1.25h-23.398c-0.7204 0-1.301-0.558-1.301-1.25z"/>
+ <path id="rect4505" opacity=".2" d="m8 26.688v1c0 0.727 0.5953 1.312 1.334 1.312h13.332c0.739 0 1.334-0.585 1.334-1.312v-1c0 0.727-0.595 1.312-1.334 1.312h-13.332c-0.7387 0-1.334-0.585-1.334-1.312z"/>
+ <path id="rect4448" opacity=".2" d="m3 23.75v1c0 0.692 0.5806 1.25 1.3008 1.25h23.398c0.72 0 1.301-0.558 1.301-1.25v-1c0 0.692-0.581 1.25-1.301 1.25h-23.398c-0.7204 0-1.301-0.558-1.301-1.25z"/>
 </svg>
