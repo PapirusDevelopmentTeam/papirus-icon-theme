@@ -39,8 +39,8 @@ Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-
 
 
 # Recommends
-- For Ubuntu useres beter use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
-- Also for better looking use 33px icon size on patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages)
+- For beter looking use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
+- Also patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with icon size 33px
 
 **~/.notify-osd** example:
 ```
