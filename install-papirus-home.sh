@@ -5,7 +5,7 @@ echo "Papirus icon theme for GTK"
 echo "Delete old Papirus icon theme ..."
 rm -rf ~/.icons/{Papirus-GTK,Papirus-Dark-GTK}
 echo "Download new version from GitHub ..."
-wget -q --show-progress -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.zip \
+wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.zip \
     -O /tmp/papirus-icon-theme-gtk.zip
 echo "Unpack archive ..."
 7za x /tmp/papirus-icon-theme-gtk.zip -o/tmp/ > /dev/null
