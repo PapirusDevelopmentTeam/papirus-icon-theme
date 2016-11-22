@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -118,12 +117,11 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#dd9f59"/>
- <rect id="rect4204" opacity=".1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="32" width="31" stroke="#000" y="-40" x="-40" stroke-width="2" fill="none"/>
+ <rect id="rect4353" opacity=".2" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="32" width="33" y="-40" x="-41"/>
  <rect id="rect3303" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="32" width="33" y="-40" x="-40" fill="#fff"/>
- <path id="rect4198" opacity=".2" d="m8 36v2c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-2c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
  <path id="rect4206" opacity=".2" d="m38 7c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v-1c0-1.108 0.892-2 2-2h28z" fill="#fff"/>
  <path id="rect4481" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
- <path id="rect4104" opacity=".3" d="m4 41v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <path id="rect4104" opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
  <g id="g3882" transform="matrix(1.1376 0 0 1.1376 10.2 11.922)" fill="#363636">
   <path id="path3884" d="m4.087 3.519 0.635-0.779 1.183 0.8c-0.085 0.134-0.243 0.187-0.573 0.187h-1.709v1.151c1.574 0.353 2.087 0.944 2.087 1.393 0 0.332-0.281 0.571-0.61 0.571-0.158 0-0.33-0.064-0.488-0.197-0.086-0.52-0.525-1.185-0.989-1.603v4.382c-0.011 0.074-0.415 0.314-1.037 0.314h-0.232v-3.885c-0.573 0.863-1.304 1.62-2.208 2.275l-0.146-0.136c0.964-1.162 1.635-2.761 2.001-4.266h-1.867l-0.061-0.207h2.282v-1.869c-0.733 0.124-1.514 0.228-2.245 0.301l-0.048-0.136c1.537-0.446 3.403-1.245 4.331-1.815l1.464 0.996c-0.074 0.062-0.195 0.094-0.343 0.094-0.121 0-0.256-0.021-0.414-0.063-0.415 0.125-0.927 0.248-1.477 0.373v2.118h0.464v0.001zm5.93-2.076 1.415 0.881c-0.073 0.095-0.269 0.177-0.525 0.228v6.479c0 0.02-0.34 0.3-1.306 0.3v-0.997h-2.305v0.758c0 0.022-0.147 0.436-1.294 0.436v-7.971l1.356 0.499h2.122l0.537-0.613zm-2.721 6.685h2.305v-5.865h-2.305v5.865z" fill="#363636"/>
  </g>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
@@ -118,11 +117,12 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4255-3" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="24" y="-30" x="-28" fill="#a5cf64"/>
- <path id="rect4439" opacity=".3" d="m2 25.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path id="rect4439" opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
  <path id="rect4434" opacity=".2" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
- <path id="circle4357" opacity=".2" d="m16 8a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm-9 12a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm9 0a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm9 0a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3z"/>
+ <circle id="circle4350" opacity=".2" cx="16" cy="23" r="3"/>
  <circle id="path4347" cx="16" cy="22" r="3" fill="#fff"/>
- <circle id="circle4349" cy="22" cx="25" r="3" fill="#fff"/>
- <circle id="circle4351" cy="22" cx="7" r="3" fill="#4d4d4d"/>
- <circle id="circle4353" cy="10" cx="16" r="3" fill="#4d4d4d"/>
+ <circle id="circle4352" opacity=".2" cx="25" cy="23" r="3"/>
+ <circle id="circle4349" cx="25" cy="22" r="3" fill="#fff"/>
+ <circle id="circle4351" cx="7" cy="22" r="3" fill="#4d4d4d"/>
+ <circle id="circle4353" cx="16" cy="10" r="3" fill="#4d4d4d"/>
 </svg>

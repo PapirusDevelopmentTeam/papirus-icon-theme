@@ -1,90 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2817"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="tomato.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     id="namedview31"
-     showgrid="false"
-     inkscape:zoom="12.239653"
-     inkscape:cx="-24.428959"
-     inkscape:cy="14.1958"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817" />
-  <metadata
-     id="metadata57">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2819">
-    <clipPath
-       id="clipPath4186"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         id="path4188"
-         style="color:#000000;fill:url(#linearGradient4190)"
-         cx="286"
-         cy="26"
-         r="10" />
-    </clipPath>
-  </defs>
-  <circle
-     id="path4230"
-     style="color:#000000;fill:#e74c3c"
-     cx="8"
-     cy="9"
-     r="7" />
-  <circle
-     id="path4240"
-     style="color:#000000;opacity:0;stroke-width:0.45455"
-     clip-path="url(#clipPath4186)"
-     cx="286"
-     transform="matrix(0.72258066,0,0,0.72258066,-197.43226,-10.012903)"
-     cy="26"
-     r="10" />
-  <circle
-     id="path4242"
-     style="color:#000000;opacity:0;stroke-width:0.90908998"
-     clip-path="url(#clipPath4186)"
-     cx="286"
-     transform="matrix(0.72258066,0,0,0.72258066,-197.43226,-10.012903)"
-     cy="26"
-     r="10" />
-  <path
-     inkscape:connector-curvature="0"
-     style="display:inline;fill:#a6ef4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89019608"
-     d="M 6.0486455,1.000453 C 5.9974055,1.002378 5.9452591,1.01038 5.8936398,1.0250815 5.6183374,1.1034969 5.4656052,1.3411657 5.551199,1.5579261 L 5.766004,2.101959 C 2.6526512,2.3687727 1,5.2887085 1,5.2887085 c 0,0 1.0417619,0.1741491 3.5544196,-1.0595134 C 5.25256,3.886423 5.6550231,3.5179721 5.8847434,3.1845759 5.8372674,3.5284787 5.8442274,3.9693807 5.9550604,4.531726 6.2334135,5.944052 7.3964186,7 7.3964186,7 c 0,0 1.4076428,-2.0777353 -0.101798,-4.1142499 C 9.5209122,4.2300227 13,3.6457837 13,3.6457837 c 0,0 -1.55853,-1.3143106 -3.2131778,-1.6419077 C 8.5521059,1.7594202 7.4154454,1.919107 6.8244591,2.0431814 6.8241116,2.003039 6.8165827,1.9624269 6.8008355,1.9225759 L 6.5450527,1.2747934 C 6.4755094,1.0986755 6.2706694,0.9921552 6.0486318,1.0004518 Z"
-     id="path4216-3" />
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle id="path4188" style="color:#000000" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+  </clipPath>
+ </defs>
+ <circle id="path4230" style="color:#000000" cy="9" cx="8" r="7" fill="#e74c3c"/>
+ <circle id="path4240" opacity="0" style="color:#000000" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(.72258 0 0 .72258 -197.43 -10.013)" cy="26" cx="286" r="10"/>
+ <circle id="path4242" opacity="0" style="color:#000000" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(.72258 0 0 .72258 -197.43 -10.013)" cy="26" cx="286" r="10"/>
+ <path id="path4216-3" d="m6.0486 1.0005c-0.0512 0.0019-0.1033 0.0099-0.155 0.0246-0.2753 0.0784-0.428 0.3161-0.3424 0.5328l0.2148 0.5441c-3.1133 0.2668-4.766 3.1867-4.766 3.1867s1.0418 0.17415 3.5544-1.0595c0.6982-0.3428 1.1006-0.7112 1.3303-1.0446-0.0474 0.3439-0.0405 0.7848 0.0704 1.3471 0.2783 1.4124 1.4413 2.4683 1.4413 2.4683s1.4076-2.0777-0.1018-4.1142c2.2263 1.3442 5.7054 0.76 5.7054 0.76s-1.5585-1.3143-3.2132-1.6419c-1.2347-0.2445-2.3714-0.0848-2.9623 0.0393-0.0004-0.0402-0.0079-0.0808-0.0237-0.1206l-0.2557-0.6478c-0.0696-0.1761-0.2744-0.28264-0.4965-0.2743z" fill-rule="evenodd" fill="#a6ef4d"/>
 </svg>

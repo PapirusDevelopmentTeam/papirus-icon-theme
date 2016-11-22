@@ -1,64 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="16px"
-   width="16px"
-   version="1.1"
-   viewBox="0 0 16 16"
-   inkscape:version="0.91 r"
-   sodipodi:docname="application-x-addon.svg">
-  <defs
-     id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview7"
-     showgrid="true"
-     inkscape:zoom="32.3"
-     inkscape:cx="2.52969"
-     inkscape:cy="7.676615"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4139" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#2178bd"
-     inkscape:connector-curvature="0"
-     d="M 6.5,1 C 5,1 5,2 5,2 l 0,2.0003248 -3.033104,0 C 1.428736,4.0003248 1,4.325056 1,4.863104 L 1,8 3,8 C 3,8 4,8 4,9.5 4,11 3,11 3,11 l -2,0 0,3.033104 c 0,0.5376 0.428736,0.96656 0.966896,0.96656 L 5,14.999664 5,13 C 5,13 5,12 6.5,12 8,12 8,13 8,13 l 0,1.999328 3.136896,0 c 0.538126,0 0.876231,-0.428747 0.863104,-0.966874 L 12,11 l 2,0 c 0,0 1.000044,0 1.000022,-1.5 C 15,8 14,8 14,8 L 12,8 12,4.8624544 C 12,4.3244064 11.670262,3.9822032 11.137142,3.9996752 L 8,3.9996752 8,2 C 8,2 8,1 6.5,1 Z"
-     id="path5"
-     sodipodi:nodetypes="zccsscczccsscczccsccczccscccz" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;opacity:0.1"
-     d="M 6.5 1 C 5 1 5 2 5 2 L 5 2.5 C 5 2.5 5 1.5 6.5 1.5 C 8 1.5 8 2.5 8 2.5 L 8 2 C 8 2 8 1 6.5 1 z M 1.9667969 4 C 1.4286369 4 1 4.3252333 1 4.8632812 L 1 5.3632812 C 1 4.8252333 1.4286369 4.5 1.9667969 4.5 L 5 4.5 L 5 4 L 1.9667969 4 z M 8 4 L 8 4.5 L 11.136719 4.5 C 11.669839 4.482528 12 4.8252332 12 5.3632812 L 12 4.8632812 C 12 4.3252333 11.669839 3.982528 11.136719 4 L 8 4 z M 12 8 L 12 8.5 L 14 8.5 C 14 8.5 14.867516 8.5169449 14.978516 9.75 C 14.98595 9.6670451 15.000001 9.5944827 15 9.5 C 14.999978 8 14 8 14 8 L 12 8 z M 3.9785156 9.75 C 3.8679091 10.984031 3 11 3 11 L 1 11 L 1 11.5 L 3 11.5 C 3 11.5 4 11.5 4 10 C 4 9.9051467 3.9860074 9.8332364 3.9785156 9.75 z "
-     id="path4146" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 16 16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata13">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path5" fill="#2178bd" d="m6.5 1c-1.5 0-1.5 1-1.5 1v2.0003h-3.0331c-0.5382 0-0.9669 0.3248-0.9669 0.8628v3.1369h2s1 0 1 1.5-1 1.5-1 1.5h-2v3.0331c0 0.5376 0.42874 0.96656 0.9669 0.96656h3.0331v-2s0-1 1.5-1 1.5 1 1.5 1v1.9993h3.1369c0.53813 0 0.87623-0.42875 0.8631-0.96687v-3.032h2s1 0 1-1.5-1-1.5-1-1.5h-2v-3.1375c0-0.5381-0.33-0.8803-0.863-0.8628h-3.137v-1.9997s0-1-1.5-1z"/>
+ <path id="path4146" opacity=".1" d="m6.5 1c-1.5 0-1.5 1-1.5 1v0.5s0-1 1.5-1 1.5 1 1.5 1v-0.5s0-1-1.5-1zm-4.5332 3c-0.5382 0-0.9668 0.3252-0.9668 0.8633v0.5c0-0.5381 0.4286-0.8633 0.9668-0.8633h3.0332v-0.5h-3.0332zm6.0332 0v0.5h3.137c0.533-0.0175 0.863 0.3252 0.863 0.8633v-0.5c0-0.5381-0.33-0.8808-0.863-0.8633h-3.137zm4 4v0.5h2s0.868 0.0169 0.979 1.25c0.007-0.083 0.021-0.1555 0.021-0.25 0-1.5-1-1.5-1-1.5h-2zm-8.0215 1.75c-0.1106 1.234-0.9785 1.25-0.9785 1.25h-2v0.5h2s1 0 1-1.5c0-0.0949-0.014-0.1668-0.0215-0.25z" fill="#fff"/>
 </svg>

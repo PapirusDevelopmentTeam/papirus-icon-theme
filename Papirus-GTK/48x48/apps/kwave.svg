@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -220,11 +219,9 @@
  <text id="text4087-2-6-5-5-6-7" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1159.2947" x="1553.4297" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-1" y="-1159.2947" x="1553.4297"/></text>
  <text id="text4087-2-6-5-54-7" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1166.5046" x="61.966621" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-4" y="-1166.5046" x="61.966621"/></text>
  <text id="text4087-2-6-5-4-1-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1439.7388" x="1522.5094" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-6" y="-1439.7388" x="1522.5094"/></text>
- <g id="g4919" transform="translate(0,1)">
-  <path id="rect4203" d="m44 39v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#6993c4"/>
-  <path id="path4439" opacity=".05" d="m42 41c1.108 0 2-0.892 2-2v-15h-40v15c0 1.108 0.892 2 2 2z" style="enable-background:new" fill="#fff"/>
-  <path id="path5061" opacity=".8" stroke-linejoin="round" d="m12 27 3-14 2 23 2-21 0.847 18.47 2.153-15.47l1 11 2-14 1 18 3-20 3 22 1-16 3 8" stroke="#fff" stroke-linecap="round" stroke-width="2" fill="none"/>
-  <path id="path4294" opacity=".05" style="enable-background:new" d="m6 5c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2z"/>
-  <path id="rect4079" opacity=".3" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- </g>
+ <path id="rect4203" fill="#498fb7" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
+ <path id="path4566" opacity=".2" stroke-linejoin="round" d="m12 29.001 3-14 2 23 2-21 0.847 18.47 2.153-15.47 1 11 2-14 1 18 3-20 3 22 1-16 3 8" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
+ <path id="path5061" stroke-linejoin="round" d="m12 28 3-14 2 23 2-21 0.847 18.47 2.153-15.47l1 11 2-14 1 18 3-20 3 22 1-16 3 8" stroke="#a5bedc" stroke-linecap="round" stroke-width="2" fill="none"/>
+ <path id="rect4079" opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <path id="path4561" opacity=".2" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
 </svg>

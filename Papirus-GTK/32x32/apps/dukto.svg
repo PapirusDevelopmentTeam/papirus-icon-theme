@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs218">
-  <linearGradient id="linearGradient4354" y2="3.0339" gradientUnits="userSpaceOnUse" x2="15.746" y1="15.237" x1="15.746">
-   <stop id="stop4350" offset="0"/>
-   <stop id="stop4352" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -125,6 +118,5 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <path id="rect4203-1" d="m25 28v-13h4v-10.7c0-0.7202-0.58-1.3-1.3-1.3h-23.4c-0.7202 0-1.3 0.5798-1.3 1.3v10.7h4v13c0 0.7202 0.2798 1 1 1h16c0.7202 0 1-0.2798 1-1z" fill="#7ec242"/>
  <path id="path4534" opacity=".2" d="m4.3008 3c-0.7202 0-1.3008 0.5806-1.3008 1.3008v1c0-0.7202 0.5806-1.3008 1.3008-1.3008h23.398c0.72 0 1.301 0.5806 1.301 1.3008v-1c0-0.7202-0.581-1.3008-1.301-1.3008h-23.398z" fill="#fff"/>
- <path id="path4539" opacity=".3" d="m7 27v1c0 0.7202 0.2798 1 1 1h16c0.7202 0 1-0.2798 1-1v-1c0 0.7202-0.2798 1-1 1h-16c-0.7202 0-1-0.28-1-1z"/>
- <path id="path4346" opacity=".1" d="m25 15h4v-10.7c0-0.7202-0.58-1.3-1.3-1.3h-23.4c-0.7202 0-1.3 0.5798-1.3 1.3v10.7h4z" fill="url(#linearGradient4354)"/>
+ <path id="path4539" opacity=".2" d="m7 28v1c0 0.7202 0.2798 1 1 1h16c0.7202 0 1-0.2798 1-1v-1c0 0.7202-0.2798 1-1 1h-16c-0.7202 0-1-0.28-1-1z"/>
 </svg>

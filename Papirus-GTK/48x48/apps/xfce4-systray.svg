@@ -1,85 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg4222"
-   viewBox="0 0 48 48.000001"
-   height="48"
-   width="48">
-  <defs
-     id="defs4224" />
-  <metadata
-     id="metadata4227">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-1004.3622)"
-     id="layer1">
-    <path
-       id="rect4203"
-       transform="translate(0,1004.3622)"
-       d="M 6 6 C 4.892 6 4 6.892 4 8 L 4 10 L 4 38 L 4 40 C 4 41.108 4.892 42 6 42 L 42 42 C 43.108 42 44 41.108 44 40 L 44 38 L 44 10 L 44 8 C 44 6.892 43.108 6 42 6 L 6 6 z "
-       style="fill:#4ab3e4;fill-opacity:1;stroke:none" />
-    <path
-       id="rect3328"
-       d="m 6,1046.3622 c -1.108,0 -2,-0.892 -2,-2 l 0,-6 40,0 0,6 c 0,1.108 -0.892,2 -2,2 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-    <path
-       id="path3345"
-       d="m 6,1010.3622 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 36,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 z"
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
-    <circle
-       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle4144"
-       cx="26"
-       cy="1043.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1042.3622"
-       cx="26"
-       id="path4136"
-       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="2"
-       cy="1043.3622"
-       cx="32"
-       id="circle4146"
-       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle4140"
-       cx="32"
-       cy="1042.3622"
-       r="2" />
-    <circle
-       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle4148"
-       cx="38"
-       cy="1043.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1042.3622"
-       cx="38"
-       id="circle4142"
-       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="path4142"
-       transform="translate(0,1004.3622)"
-       d="M 4 39 L 4 40 C 4 41.108 4.892 42 6 42 L 42 42 C 43.108 42 44 41.108 44 40 L 44 39 C 44 40.108 43.108 41 42 41 L 6 41 C 4.892 41 4 40.108 4 39 z "
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3" />
-  </g>
+<svg id="svg4222" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 48 48.000001" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4227">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="rect4203" fill="#4ab3e4" d="m6 6c-1.108 0-2 0.892-2 2v2 28 2c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-2-28-2c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect3328" fill="#4d4d4d" d="m6 42c-1.108 0-2-0.892-2-2v-6h40v6c0 1.108-0.892 2-2 2z"/>
+ <path id="path3345" opacity=".1" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
+ <circle id="circle4144" opacity=".2" cx="26" cy="39" r="2"/>
+ <circle id="path4136" opacity="0.72" cy="38" cx="26" r="2" fill="#fff"/>
+ <circle id="circle4146" opacity=".2" cy="39" cx="32" r="2"/>
+ <circle id="circle4140" opacity="0.72" cx="32" cy="38" r="2" fill="#fff"/>
+ <circle id="circle4148" opacity=".2" cx="38" cy="39" r="2"/>
+ <circle id="circle4142" opacity="0.72" cy="38" cx="38" r="2" fill="#fff"/>
+ <path id="path4142" opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
 </svg>

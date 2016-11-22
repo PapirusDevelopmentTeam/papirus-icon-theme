@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,12 +9,6 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs id="defs2819">
-  <linearGradient id="linearGradient4423" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -.7 .7 0 -115.6 115.9)" y1="203" x1="143">
-   <stop id="stop4271" stop-color="#fff" offset="0"/>
-   <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-5.1873989" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="-5.1873989" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-45.929108" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-45.929108" x="901.18719"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-76.007248" x="-569.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-76.007248" x="-569.37115"/></text>
@@ -551,11 +544,10 @@
  <text id="text4087-2-6-5-5-6-8-0" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1209.8401" x="1529.7123" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-5" y="-1209.8401" x="1529.7123"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1217.05" x="38.249153" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-7" y="-1217.05" x="38.249153"/></text>
  <text id="text4087-2-6-5-4-1-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1490.2842" x="1498.792" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-4-5" y="-1490.2842" x="1498.792"/></text>
- <path id="rect4255" d="m-16-30h9.5c0.831 0 1.5 0.669 1.5 1.5v25c0 0.831-0.669 1.5-1.5 1.5h-19c-0.831 0-1.5-0.669-1.5-1.5v-15.5z" fill="#5f7c8a" transform="matrix(0,-1,-1,0,0,0)"/>
- <path id="rect4419" d="m-17.161-28h10.161v24h-18v-16z" fill="#7f96a1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path id="path4421" opacity=".1" d="m2 25.5c0 1.5 1.5 1.5 1.5 1.5h15.5l11-11h-28z" fill="url(#linearGradient4423)"/>
+ <path id="rect4255" d="m-16-30h9.5c0.831 0 1.5 0.669 1.5 1.5v25c0 0.831-0.669 1.5-1.5 1.5h-19c-0.831 0-1.5-0.669-1.5-1.5v-15.5z" transform="matrix(0,-1,-1,0,0,0)" fill="#5f7c8a"/>
+ <path id="rect4419" d="m-17.161-28h10.161v24h-18v-16z" transform="matrix(0,-1,-1,0,0,0)" fill="#7f96a1"/>
  <path id="rect4425" opacity=".1" d="m3.5 5c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
- <path id="path4240" d="m30 16h-9.625c-0.759 0-1.375 0.616-1.375 1.375v9.625z" style="enable-background:new" fill="#b2cfdd"/>
- <path id="path5482" opacity=".2" d="m20.375 16c-0.759 0-1.375 0.616-1.375 1.375v1c0-0.759 0.616-1.375 1.375-1.375h8.625l1-1h-9.625z" style="enable-background:new" fill="#fff"/>
- <path id="path5487" opacity=".3" d="m30 15-11 11h-15.5c-0.831 0-1.5-0.669-1.5-1.5v1c0 0.831 0.669 1.5 1.5 1.5h15.5l11-11v-1z"/>
+ <path id="path4240" style="enable-background:new" d="m30 16h-9.625c-0.759 0-1.375 0.616-1.375 1.375v9.625z" fill="#b2cfdd"/>
+ <path id="path5482" opacity=".2" style="enable-background:new" d="m20.375 16c-0.759 0-1.375 0.616-1.375 1.375v1c0-0.759 0.616-1.375 1.375-1.375h8.625l1-1h-9.625z" fill="#fff"/>
+ <path id="path5487" opacity=".2" d="m30 16-11 11h-15.5c-0.831 0-1.5-0.669-1.5-1.5v1c0 0.831 0.669 1.5 1.5 1.5h15.5l11-11v-1z"/>
 </svg>

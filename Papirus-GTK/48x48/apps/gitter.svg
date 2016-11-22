@@ -1,101 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="48"
-   viewBox="0 0 48 48.000001"
-   height="48"
-   id="svg4346">
-  <defs
-     id="defs13" />
-  <metadata
-     id="metadata4351">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <rect
-     style="fill:#e11966;fill-opacity:1"
-     x="-44"
-     y="-44"
-     width="40"
-     height="40"
-     transform="matrix(0,-1,-1,0,0,0)"
-     rx="2"
-     ry="2"
-     id="rect4203" />
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,7 C 4,5.892 4.892,5 6,5 l 36,0 c 1.108,0 2,0.892 2,2 L 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"
-     id="rect4592" />
-  <path
-     style="opacity:0.3"
-     d="M 6,44 C 4.892,44 4,43.108 4,42 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,44 Z"
-     id="path4597" />
-  <rect
-     width="4"
-     height="19"
-     x="13"
-     y="10"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect4184" />
-  <rect
-     width="4"
-     height="24"
-     x="19.000002"
-     y="16"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect4186" />
-  <rect
-     width="4"
-     height="24"
-     x="25"
-     y="16"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect4188" />
-  <rect
-     width="4"
-     height="14"
-     x="31"
-     y="16"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect4190" />
-  <rect
-     id="rect29"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     y="9"
-     x="13"
-     height="19"
-     width="4" />
-  <rect
-     id="rect31"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     y="15"
-     x="19.000002"
-     height="24"
-     width="4" />
-  <rect
-     id="rect33"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     y="15"
-     x="25"
-     height="24"
-     width="4" />
-  <rect
-     id="rect35"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     y="15"
-     x="31"
-     height="14"
-     width="4" />
+<svg id="svg4346" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48.000001" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4351">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect id="rect4203" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#e11966"/>
+ <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <rect id="rect4184" opacity=".2" height="19" width="4" y="10" x="13"/>
+ <rect id="rect4186" opacity=".2" height="24" width="4" y="16" x="19"/>
+ <rect id="rect4188" opacity=".2" height="24" width="4" y="16" x="25"/>
+ <rect id="rect4190" opacity=".2" height="14" width="4" y="16" x="31"/>
+ <rect id="rect29" height="19" width="4" y="9" x="13" fill="#fff"/>
+ <rect id="rect31" height="24" width="4" y="15" x="19" fill="#fff"/>
+ <rect id="rect33" height="24" width="4" y="15" x="25" fill="#fff"/>
+ <rect id="rect35" height="14" width="4" y="15" x="31" fill="#fff"/>
 </svg>
