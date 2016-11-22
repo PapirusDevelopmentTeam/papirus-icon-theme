@@ -37,6 +37,39 @@ Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-
 
 ![hardcode-tray](hardcode-tray-preview.png)
 
+
+# Recommends
+- For Ubuntu useres beter use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
+- Also for better looking use 33px icon size on patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages)
+
+**~/.notify-osd** example:
+```
+slot-allocation = dynamic
+bubble-expire-timeout = 10sec
+bubble-vertical-gap = 10px
+bubble-horizontal-gap = 10px
+bubble-corner-radius = 24px
+bubble-icon-size = 33px
+bubble-gauge-size = 6px
+bubble-width = 240px
+bubble-background-color = 2f343f
+bubble-background-opacity = 95%
+text-margin-size = 10px
+text-title-size = 100%
+text-title-weight = bold
+text-title-color = adb7bf
+text-title-opacity = 100%
+text-body-size = 90%
+text-body-weight = normal
+text-body-color = eaeaea
+text-body-opacity = 100%
+text-shadow-opacity = 50%
+location = 1
+bubble-prevent-fade = 1
+bubble-close-on-click = 1
+bubble-as-desktop-bg = 0
+```
+
 # DONATE
 If you like my project , you can donate:
 
