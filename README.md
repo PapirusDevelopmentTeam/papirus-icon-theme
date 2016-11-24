@@ -2,17 +2,15 @@
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/preview.png" alt="preview"/>
 </p>
 
-# Icon request
-- Application name
-- Icon name (see desktop-file option **icon** on `/usr/share/applications`)
-- Original icon image
+# About
+Papirus - it's SVG icon theme for Linux, based on [Paper](https://github.com/snwh/paper-icon-theme) with more additionals (hardcode-tray support, libreoffice icon theme, filezilla theme, smplayer themes ...) and modifications. Available light and dark version for GTK and KDE.
 
 # Install / Update
-## ROOT DIRECTORY
+## ROOT directory
 ```
 wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/install-papirus-root.sh | bash
 ```
-## HOME DIRECTORY
+## HOME directory
 ```
 wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/install-papirus-home.sh | bash
 ```
@@ -69,6 +67,11 @@ bubble-prevent-fade = 1
 bubble-close-on-click = 1
 bubble-as-desktop-bg = 0
 ```
+
+# Icon request
+- Application name
+- Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
+- Original icon image
 
 # DONATE
 If you like my project , you can donate:
