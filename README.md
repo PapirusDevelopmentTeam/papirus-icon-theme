@@ -73,9 +73,12 @@ bubble-as-desktop-bg = 0
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
 - Original icon image
 
-# DONATE
+# Donate
 If you like my project , you can donate:
 
 <span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+
+# License
+GNU LGPL v3
 
 <span class="Yandex.Money"><a href="http://yasobe.ru/na/varlesh#form_submit" title="Donate to this project using Yandex.Money"><img src="https://money.yandex.ru/img/ym_logo.gif" alt="Yandex.Money donate button" /></a></span>
