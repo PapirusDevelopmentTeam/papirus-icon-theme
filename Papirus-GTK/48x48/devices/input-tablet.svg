@@ -1,22 +1,109 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer7" transform="translate(-52.273 -2.186)" display="none">
-  <rect id="rect4169" rx="9" ry="9" height="44" width="44" y="2" x="2" display="inline" fill="#abe1ad"/>
- </g>
- <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="32" y="-44" x="-40" fill="#3f3f3f"/>
- <path id="rect4135" opacity=".1" fill="#fff" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
- <path id="rect4546" opacity=".1" fill="#fff" d="m6 8c-1.108 0-2 0.892-2 2v28c0 1.108 0.892 2 2 2h5v-32z"/>
- <path id="rect4182" opacity=".2" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <circle id="circle4160" opacity=".2" style="enable-background:new" cy="37" cx="36" r="11"/>
- <circle id="path4058-7" style="enable-background:new" cx="36" cy="36" r="11" fill="#1ea362"/>
- <path id="path4-0-2" style="enable-background:new" fill="#fff" d="m30 39.327v2.6728h2.6728l6.7507-6.7507-2.6728-2.6728zm11.788-6.4337c0.28271-0.28271 0.28271-0.72818 0-1.0109l-1.6705-1.6705c-0.28271-0.28271-0.72818-0.28271-1.0109 0l-1.3964 1.405 2.6728 2.6728z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="48"
+   width="48"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="input-tablet.svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="778"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="75"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer7"
+     transform="translate(-52.273 -2.186)"
+     display="none">
+    <rect
+       id="rect4169"
+       rx="9"
+       ry="9"
+       height="44"
+       width="44"
+       y="2"
+       x="2"
+       display="inline"
+       fill="#abe1ad" />
+  </g>
+  <rect
+     id="rect4203"
+     transform="matrix(0,-1,-1,0,0,0)"
+     rx="2"
+     ry="2"
+     height="40"
+     width="32"
+     y="-44"
+     x="-40"
+     fill="#3f3f3f"
+     style="fill:#5d5d5d;fill-opacity:1" />
+  <path
+     id="rect4135"
+     opacity=".1"
+     fill="#fff"
+     d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" />
+  <path
+     id="rect4546"
+     opacity=".1"
+     fill="#fff"
+     d="m6 8c-1.108 0-2 0.892-2 2v28c0 1.108 0.892 2 2 2h5v-32z" />
+  <path
+     id="rect4182"
+     opacity=".2"
+     d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" />
+  <circle
+     id="circle4160"
+     opacity=".2"
+     style="enable-background:new"
+     cy="37"
+     cx="36"
+     r="11" />
+  <circle
+     id="path4058-7"
+     style="enable-background:new"
+     cx="36"
+     cy="36"
+     r="11"
+     fill="#1ea362" />
+  <path
+     id="path4-0-2"
+     style="enable-background:new"
+     fill="#fff"
+     d="m30 39.327v2.6728h2.6728l6.7507-6.7507-2.6728-2.6728zm11.788-6.4337c0.28271-0.28271 0.28271-0.72818 0-1.0109l-1.6705-1.6705c-0.28271-0.28271-0.72818-0.28271-1.0109 0l-1.3964 1.405 2.6728 2.6728z" />
 </svg>

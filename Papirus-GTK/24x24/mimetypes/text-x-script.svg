@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="24"
    height="24"
-   id="svg2817">
+   id="svg2817"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="text-x-script.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="975"
+     inkscape:window-height="663"
+     id="namedview431"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="75"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2817" />
   <defs
      id="defs429" />
   <metadata
@@ -1272,7 +1296,7 @@
   <path
      id="path4696"
      d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,18 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 L 20,8 14.5,7.5 14,2 Z"
-     style="fill:#4d4d4d;fill-opacity:1" />
+     style="fill:#5d5d5d;fill-opacity:1" />
   <path
      id="path4698"
      d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 9,0 L 19.5,8 20,8 14,2 Z"

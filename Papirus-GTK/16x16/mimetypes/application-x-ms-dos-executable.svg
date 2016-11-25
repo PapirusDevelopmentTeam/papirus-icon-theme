@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="16"
    height="16"
-   id="svg2817">
+   id="svg2817"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="application-x-ms-dos-executable.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview219"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-4.0338983"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
   <defs
      id="defs220" />
   <metadata
@@ -1278,7 +1302,8 @@
      transform="matrix(0,-1,-1,0,0,0)"
      rx=".85714"
      ry=".85714"
-     id="rect4255" />
+     id="rect4255"
+     style="fill:#5d5d5d;fill-opacity:1" />
   <path
      d="m2.3573 2.0002h4.2857c0.1975 0 0.357 0.1592 0.357 0.3571v4.2857c0 0.1975-0.1595 0.357-0.357 0.357h-4.2858c-0.1979 0-0.3572-0.1595-0.3572-0.357v-4.2858c0-0.1979 0.1593-0.3572 0.3572-0.3572z"
      fill="#48aeff"

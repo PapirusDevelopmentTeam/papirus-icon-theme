@@ -1,39 +1,182 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs2819">
-  <radialGradient id="radialGradient2429" gradientUnits="userSpaceOnUse" cy="8.4179" cx="19.063" gradientTransform="matrix(.51715 0 0 .39731 -1.0862 2.4377)" r="11">
-   <stop id="stop5750" stop-color="#484848" offset="0"/>
-   <stop id="stop5752" stop-color="#333" offset="1"/>
-  </radialGradient>
-  <linearGradient id="linearGradient4721" x1="24.756" gradientUnits="userSpaceOnUse" y1="26.512" gradientTransform="matrix(.34375 0 0 .33334 2.75 1.5)" x2="24.102" y2="5.9236">
-   <stop id="stop4725" stop-color="#fff" offset="0"/>
-   <stop id="stop4727" stop-opacity="0" stop-color="#fff" offset="1"/>
-  </linearGradient>
- </defs>
- <g id="g4169" transform="translate(1,1)">
-  <rect id="rect4203" ry="1" rx="1" transform="scale(-1,1)" height="20" width="16" y="1" x="-19" fill="#ccc"/>
-  <rect id="rect4717" opacity=".15" fill-rule="evenodd" rx=".20625" ry=".2" height="7" width="11" y="3.5" x="5.5" fill="url(#linearGradient4721)"/>
-  <rect id="rect4140" stroke-linejoin="round" fill-rule="evenodd" rx="0" ry="0" height="5.5" width="9.5" stroke="#363636" stroke-linecap="round" stroke-miterlimit="3.4286" y="4.2499" x="6.25" stroke-width=".49987" fill="url(#radialGradient2429)"/>
-  <path id="rect4149" opacity=".2" fill="#fff" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-14z"/>
-  <path id="rect4154" opacity=".2" d="m3 20v0.5c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1z"/>
-  <path id="path4186" opacity=".2" d="m6.4 12.5c-0.3324 0-0.3724 0.26875-0.4 0.6v1.4h-1.4c-0.3324 0-0.6 0.068-0.6 0.4v1.2c0 0.3324 0.26844 0.37632 0.6 0.4h1.4v1.4c0 0.3324 0.0676 0.6 0.4 0.6h1.2c0.3324 0 0.4-0.268 0.4-0.6v-1.4h1.4c0.3324 0 0.6-0.0676 0.6-0.4v-1.2c0-0.332-0.2676-0.4-0.6-0.4h-1.4v-1.4c0-0.332-0.0676-0.6-0.4-0.6z" fill="#fff"/>
-  <path id="rect4354" fill="#697e83" d="m6.4 12c-0.3324 0-0.3724 0.269-0.4 0.6v1.4h-1.4c-0.3324 0-0.6 0.068-0.6 0.4v1.2c0 0.3324 0.26844 0.37632 0.6 0.4h1.4v1.4c0 0.332 0.0676 0.6 0.4 0.6h1.2c0.3324 0 0.4-0.268 0.4-0.6v-1.4h1.4c0.3324 0 0.6-0.068 0.6-0.4v-1.2c0-0.332-0.2676-0.4-0.6-0.4h-1.4v-1.4c0-0.332-0.0676-0.6-0.4-0.6z"/>
-  <circle id="circle4210" opacity=".2" cx="16" cy="14.5" r="1" fill="#fff"/>
-  <circle id="circle4212" opacity=".2" cx="13" cy="14.5" r="1" fill="#fff"/>
-  <circle id="circle4214" opacity=".2" cx="16" cy="17.5" r="1" fill="#fff"/>
-  <circle id="circle4216" opacity=".2" cx="13" cy="17.5" r="1" fill="#fff"/>
-  <circle id="path4359" cx="16" cy="14" r="1" fill="#ef5646"/>
-  <circle id="circle4361" cx="13" cy="14" r="1" fill="#ef5646"/>
-  <circle id="circle4369" cx="16" cy="17" r="1" fill="#eb9200"/>
-  <circle id="circle4371" cx="13" cy="17" r="1" fill="#eb9200"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="24"
+   width="24"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mgba.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-6.0508475"
+     inkscape:cy="12"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2819">
+    <radialGradient
+       id="radialGradient2429"
+       gradientUnits="userSpaceOnUse"
+       cy="8.4179"
+       cx="19.063"
+       gradientTransform="matrix(0.54436842,0,0,0.43342909,-0.72231579,3.0230547)"
+       r="11">
+      <stop
+         id="stop5750"
+         stop-color="#484848"
+         offset="0" />
+      <stop
+         id="stop5752"
+         stop-color="#333"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient4721"
+       x1="24.756"
+       gradientUnits="userSpaceOnUse"
+       y1="26.512"
+       gradientTransform="matrix(0.34375,0,0,0.33334,3.75,2.5)"
+       x2="24.102"
+       y2="5.9236">
+      <stop
+         id="stop4725"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4727"
+         stop-opacity="0"
+         stop-color="#fff"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#cccccc"
+     x="-20"
+     y="2"
+     width="16"
+     height="20"
+     transform="scale(-1,1)"
+     rx="1"
+     ry="1"
+     id="rect4203" />
+  <rect
+     style="opacity:0.15;fill:url(#linearGradient4721);fill-rule:evenodd"
+     x="6.5"
+     y="4.5"
+     width="11"
+     height="7"
+     ry="0.2"
+     rx="0.20625"
+     id="rect4717" />
+  <rect
+     style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.49987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42860007;fill-opacity:1"
+     x="7"
+     y="5"
+     stroke-miterlimit="3.4286"
+     width="10"
+     height="6"
+     ry="0"
+     rx="0"
+     id="rect4140" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 14,0 c 0.554,0 1,0.446 1,1 L 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z"
+     id="rect4149" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 4,21 0,0.5 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 L 20,21 c 0,0.554 -0.446,1 -1,1 L 5,22 C 4.446,22 4,21.554 4,21 Z"
+     id="rect4154" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="m 7.4,13.5 c -0.3324,0 -0.3724,0.26875 -0.4,0.6 l 0,1.4 -1.4,0 C 5.2676,15.5 5,15.568 5,15.9 l 0,1.2 c 0,0.3324 0.26844,0.37632 0.6,0.4 l 1.4,0 0,1.4 c 0,0.3324 0.0676,0.6 0.4,0.6 l 1.2,0 C 8.9324,19.5 9,19.232 9,18.9 l 0,-1.4 1.4,0 c 0.3324,0 0.6,-0.0676 0.6,-0.4 l 0,-1.2 c 0,-0.332 -0.2676,-0.4 -0.6,-0.4 L 9,15.5 9,14.1 C 9,13.768 8.9324,13.5 8.6,13.5 Z"
+     id="path4186" />
+  <path
+     style="fill:#5d5d5d;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="M 7.4,13 C 7.0676,13 7.0276,13.269 7,13.6 L 7,15 5.6,15 C 5.2676,15 5,15.068 5,15.4 l 0,1.2 c 0,0.3324 0.26844,0.37632 0.6,0.4 L 7,17 7,18.4 C 7,18.732 7.0676,19 7.4,19 l 1.2,0 C 8.9324,19 9,18.732 9,18.4 l 0,-1.4 1.4,0 c 0.3324,0 0.6,-0.068 0.6,-0.4 l 0,-1.2 C 11,15.068 10.7324,15 10.4,15 L 9,15 9,13.6 C 9,13.268 8.9324,13 8.6,13 Z"
+     id="rect4354" />
+  <circle
+     style="opacity:0.2;fill:#ffffff"
+     r="1"
+     cy="15.5"
+     cx="17"
+     id="circle4210" />
+  <circle
+     style="opacity:0.2;fill:#ffffff"
+     r="1"
+     cy="15.5"
+     cx="14"
+     id="circle4212" />
+  <circle
+     style="opacity:0.2;fill:#ffffff"
+     r="1"
+     cy="18.5"
+     cx="17"
+     id="circle4214" />
+  <circle
+     style="opacity:0.2;fill:#ffffff"
+     r="1"
+     cy="18.5"
+     cx="14"
+     id="circle4216" />
+  <circle
+     style="fill:#ef5646"
+     r="1"
+     cy="15"
+     cx="17"
+     id="path4359" />
+  <circle
+     style="fill:#ef5646"
+     r="1"
+     cy="15"
+     cx="14"
+     id="circle4361" />
+  <circle
+     style="fill:#eb9200"
+     r="1"
+     cy="18"
+     cx="17"
+     id="circle4369" />
+  <circle
+     style="fill:#eb9200"
+     r="1"
+     cy="18"
+     cx="14"
+     id="circle4371" />
 </svg>
