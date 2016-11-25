@@ -1,15 +1,39 @@
-#!/usr/bin/env bash
-echo "Papirus icon theme for GTK"
-! which 7za > /dev/null 2>&1 && { echo "Please install p7zip-full"; exit 1; }
-echo "Download new version from GitHub ..."
-wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.zip -O /tmp/papirus-icon-theme-gtk.zip
-echo "Unpack archive ..."
-7za x /tmp/papirus-icon-theme-gtk.zip -o/tmp/ > /dev/null
-echo "Delete old Papirus icon theme ..."
-sudo rm -rf /usr/share/icons/{Papirus-GTK,Papirus-Dark-GTK}
-echo "Installing ..."
-sudo cp -R /tmp/papirus-icon-theme-gtk-master/{Papirus-GTK,Papirus-Dark-GTK} /usr/share/icons/
-sudo chmod -R 755 /usr/share/icons/{Papirus-GTK,Papirus-Dark-GTK}
-echo "Delete cache ..."
-rm -rf /tmp/papiru*
-echo "Done!"
+#!/bin/sh
+
+set -e
+
+cat <<- 'EOF'
+
+
+
+      ppppp                         ii
+      pp   pp     aaaaa   ppppp          rr  rrr   uu   uu     sssss
+      ppppp     aa   aa   pp   pp   ii   rrrr      uu   uu   ssss
+      pp        aa   aa   pp   pp   ii   rr        uu   uu      ssss
+      pp          aaaaa   ppppp     ii   rr          uuuuu   sssss
+                          pp
+                          pp
+
+
+  Papirus icon theme for GTK
+  https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
+
+
+EOF
+
+temp_dir=$(mktemp -d)
+
+echo "=> Getting the latest version from GitHub ..."
+curl --progress-bar -Lfo /tmp/papirus-icon-theme-gtk.tar.gz \
+  https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.tar.gz
+echo "=> Unpacking archive ..."
+tar -xzf /tmp/papirus-icon-theme-gtk.tar.gz -C "$temp_dir"
+echo "=> Deleting old Papirus icon theme ..."
+sudo rm -rf /usr/share/icons/Papirus-GTK /usr/share/icons/Papirus-Dark-GTK
+echo "=> Installing ..."
+sudo cp --no-preserve=mode,ownership -r \
+  "$temp_dir/papirus-icon-theme-gtk-master/Papirus-GTK" \
+  "$temp_dir/papirus-icon-theme-gtk-master/Papirus-Dark-GTK" /usr/share/icons/
+echo "=> Clearing cache ..."
+rm -rf /tmp/papirus-icon-theme-gtk.tar.gz "$temp_dir"
+echo "=> Done!"
