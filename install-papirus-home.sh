@@ -2,7 +2,10 @@
 
 set -e
 
-cat <<- 'EOF'
+gh_repo="papirus-icon-theme-gtk"
+gh_desc="Papirus icon theme for GTK"
+
+cat <<- EOF
 
 
 
@@ -15,8 +18,8 @@ cat <<- 'EOF'
                           pp
 
 
-  Papirus icon theme for GTK
-  https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
+  $gh_desc
+  https://github.com/PapirusDevelopmentTeam/$gh_repo
 
 
 EOF
@@ -24,17 +27,17 @@ EOF
 temp_dir=$(mktemp -d)
 
 echo "=> Getting the latest version from GitHub ..."
-curl --progress-bar -Lfo /tmp/papirus-icon-theme-gtk.tar.gz \
-  https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/archive/master.tar.gz
+curl --progress-bar -Lfo "/tmp/$gh_repo.tar.gz" \
+  https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/master.tar.gz
 echo "=> Unpacking archive ..."
-tar -xzf /tmp/papirus-icon-theme-gtk.tar.gz -C "$temp_dir"
-echo "=> Deleting old Papirus icon theme ..."
+tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
+echo "=> Deleting old $gh_desc ..."
 rm -rf ~/.icons/Papirus-GTK ~/.icons/Papirus-Dark-GTK
 echo "=> Installing ..."
 mkdir -p ~/.icons
 cp --no-preserve=mode,ownership -r \
-  "$temp_dir/papirus-icon-theme-gtk-master/Papirus-GTK" \
-  "$temp_dir/papirus-icon-theme-gtk-master/Papirus-Dark-GTK" ~/.icons/
+  "$temp_dir/$gh_repo-master/Papirus-GTK" \
+  "$temp_dir/$gh_repo-master/Papirus-Dark-GTK" ~/.icons/
 echo "=> Clearing cache ..."
-rm -rf /tmp/papirus-icon-theme-gtk.tar.gz "$temp_dir"
+rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
 echo "=> Done!"

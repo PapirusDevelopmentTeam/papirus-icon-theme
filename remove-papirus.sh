@@ -2,7 +2,10 @@
 
 set -e
 
-cat <<- 'EOF'
+gh_repo="papirus-icon-theme-gtk"
+gh_desc="Papirus icon theme for GTK"
+
+cat <<- EOF
 
 
 
@@ -15,13 +18,13 @@ cat <<- 'EOF'
                           pp
 
 
-  Papirus icon theme for GTK
-  https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
+  $gh_desc
+  https://github.com/PapirusDevelopmentTeam/$gh_repo
 
 
 EOF
 
-echo "=> Removing Papirus icon theme for GTK ..."
+echo "=> Removing $gh_desc ..."
 sudo rm -rf /usr/share/icons/Papirus-GTK /usr/share/icons/Papirus-Dark-GTK
 rm -rf ~/.icons/Papirus-GTK ~/.icons/Papirus-Dark-GTK
 echo "=> Done!"
