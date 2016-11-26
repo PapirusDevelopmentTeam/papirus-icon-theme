@@ -221,19 +221,19 @@
  <text id="text4087-2-6-5-4-1-8" opacity=".8" font-size="12.666px" xml:space="preserve" transform="rotate(30)" y="-1428.8438" x="1513.9807" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-3" y="-1428.8438" x="1513.9807"/></text>
  <rect id="rect4350" rx="6" ry="6" height="20" width="40" y="14" x="4" fill="#5d5d5d"/>
  <path id="path5138" opacity=".2" d="m8.2 21c-0.4432 0-0.8 0.3568-0.8 0.8v1.6l-1.6-0.000001c-0.4432 0-0.8 0.3568-0.8 0.8v1.6c0 0.4432 0.3568 0.8 0.8 0.8h1.6v1.6c0 0.443 0.3568 0.8 0.8 0.8h1.6c0.4432-0.000001 0.8-0.3568 0.8-0.8v-1.6h1.6c0.4432 0 0.8-0.3568 0.8-0.8v-1.6c0-0.443-0.357-0.8-0.8-0.8h-1.6v-1.6c0-0.443-0.357-0.8-0.8-0.8h-1.6z"/>
- <path id="rect4354" fill="#697e83" d="m8.2 20c-0.4432 0-0.8 0.3568-0.8 0.8v1.6l-1.6-0.000001c-0.4432 0-0.8 0.3568-0.8 0.8v1.6c0 0.4432 0.3568 0.8 0.8 0.8h1.6v1.6c0 0.443 0.3568 0.8 0.8 0.8h1.6c0.4432-0.000001 0.8-0.3568 0.8-0.8v-1.6h1.6c0.4432 0 0.8-0.3568 0.8-0.8v-1.6c0-0.443-0.357-0.8-0.8-0.8h-1.6v-1.6c0-0.443-0.357-0.8-0.8-0.8h-1.6z"/>
+ <path id="rect4354" d="m8.2 20c-0.4432 0-0.8 0.3568-0.8 0.8v1.6l-1.6-0.000001c-0.4432 0-0.8 0.3568-0.8 0.8v1.6c0 0.4432 0.3568 0.8 0.8 0.8h1.6v1.6c0 0.443 0.3568 0.8 0.8 0.8h1.6c0.4432-0.000001 0.8-0.3568 0.8-0.8v-1.6h1.6c0.4432 0 0.8-0.3568 0.8-0.8v-1.6c0-0.443-0.357-0.8-0.8-0.8h-1.6v-1.6c0-0.443-0.357-0.8-0.8-0.8h-1.6z" fill="#697e83"/>
  <rect id="rect5084" height="14" width="19" y="17" x="14" fill="#0093cd"/>
- <path id="path5086" d="m15.5 28v-4.5h4v-4h-4.5" stroke="#fff" stroke-width="1px" fill="none"/>
- <path id="path5088" d="m26 19.5h-2.5v8h-2.5" stroke="#fff" stroke-width="1px" fill="none"/>
- <path id="path5093" d="m27.5 28v-4.5h4v-4h-4.5" stroke="#fff" stroke-width="1px" fill="none"/>
- <circle id="circle5152" opacity=".2" cx="38.5" cy="21.5" r="1.5"/>
- <circle id="circle5154" opacity=".2" cx="38.5" cy="27.5" r="1.5"/>
- <circle id="circle5156" opacity=".2" cx="24.5" transform="rotate(90)" cy="-41.5" r="1.5"/>
- <circle id="circle5158" opacity=".2" cx="24.5" transform="rotate(90)" cy="-35.5" r="1.5"/>
+ <path id="path5086" stroke="#fff" stroke-width="1px" fill="none" d="m15.5 28v-4.5h4v-4h-4.5"/>
+ <path id="path5088" stroke="#fff" stroke-width="1px" fill="none" d="m26 19.5h-2.5v8h-2.5"/>
+ <path id="path5093" stroke="#fff" stroke-width="1px" fill="none" d="m27.5 28v-4.5h4v-4h-4.5"/>
+ <circle id="circle5152" opacity=".2" cy="21.5" cx="38.5" r="1.5"/>
+ <circle id="circle5154" opacity=".2" cy="27.5" cx="38.5" r="1.5"/>
+ <circle id="circle5156" opacity=".2" transform="rotate(90)" cy="-41.5" cx="24.5" r="1.5"/>
+ <circle id="circle5158" opacity=".2" transform="rotate(90)" cy="-35.5" cx="24.5" r="1.5"/>
  <circle id="circle4361" cy="20.5" cx="38.5" r="1.5" fill="#697e83"/>
  <circle id="circle5107" cy="26.5" cx="38.5" r="1.5" fill="#697e83"/>
  <circle id="circle5115" transform="rotate(90)" cy="-41.5" cx="23.5" r="1.5" fill="#697e83"/>
  <circle id="circle5117" transform="rotate(90)" cy="-35.5" cx="23.5" r="1.5" fill="#697e83"/>
  <path id="rect5128" opacity=".2" d="m4 28v1c0 3.324 2.676 6 6 6h28c3.324 0 6-2.676 6-6v-1c0 3.324-2.676 6-6 6h-28c-3.324 0-6-2.676-6-6z"/>
- <path id="rect5133" opacity=".1" fill="#fff" d="m10 14c-3.324 0-6 2.676-6 6v1c0-3.324 2.676-6 6-6h28c3.324 0 6 2.676 6 6v-1c0-3.324-2.676-6-6-6h-28z"/>
+ <path id="rect5133" opacity=".1" d="m10 14c-3.324 0-6 2.676-6 6v1c0-3.324 2.676-6 6-6h28c3.324 0 6 2.676 6 6v-1c0-3.324-2.676-6-6-6h-28z" fill="#fff"/>
 </svg>

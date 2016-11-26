@@ -121,14 +121,14 @@
   <rect id="rect4384" opacity=".2" rx="1.1323" ry="1.2267" height="7" width="8" y="8" x="6"/>
   <rect id="rect4386" opacity=".2" rx=".99077" ry="1.0514" height="6" width="7" y="12" x="18"/>
   <rect id="rect4388" opacity=".2" rx=".84923" ry=".87619" height="5" width="6" y="20" x="13"/>
-  <path id="path4390" opacity=".2" d="m10.5 11.5 12 3-6 8z" stroke="#000" fill="none"/>
+  <path id="path4390" opacity=".2" stroke="#000" fill="none" d="m10.5 11.5 12 3-6 8z"/>
  </g>
- <path id="rect4437" opacity=".2" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <path id="rect4437" opacity=".2" fill="#fff" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
  <path id="rect4442" opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
  <g id="g4376">
   <rect id="rect4352" rx="1.1323" ry="1.2267" height="7" width="8" y="8" x="6" fill="#c9a1ff"/>
   <rect id="rect4354" rx=".99077" ry="1.0514" height="6" width="7" y="12" x="18" fill="#c9a1ff"/>
   <rect id="rect4356" rx=".84923" ry=".87619" height="5" width="6" y="20" x="13" fill="#c9a1ff"/>
-  <path id="path4358" d="m10.5 11.5 12 3-6 8z" stroke="#c9a1ff" fill="none"/>
+  <path id="path4358" stroke="#c9a1ff" fill="none" d="m10.5 11.5 12 3-6 8z"/>
  </g>
 </svg>

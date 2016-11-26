@@ -149,7 +149,7 @@
  <rect id="rect3206" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-12" fill="#6e6e6e"/>
  <rect id="rect3208" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-30" fill="#6e6e6e"/>
  <rect id="rect3210" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-8" fill="#6e6e6e"/>
- <path id="rect3212" fill="#828282" d="m6 4s-2 0-2 2h2z"/>
+ <path id="rect3212" d="m6 4s-2 0-2 2h2z" fill="#828282"/>
  <rect id="rect3258" ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-22" fill="#6e6e6e"/>
  <rect id="rect3260" ry="0" height="2" width="2" y="18" x="12" fill="#6e6e6e"/>
  <rect id="rect3262" ry="0" height="2" width="2" y="18" x="6" fill="#6e6e6e"/>
@@ -171,7 +171,7 @@
  <rect id="rect3310" ry="0" transform="scale(-1,1)" height="2" width="2" y="14" x="-10" fill="#6e6e6e"/>
  <rect id="rect3312" ry="0" height="2" width="2" y="12" x="12" fill="#6e6e6e"/>
  <rect id="rect3314" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-26" fill="#6e6e6e"/>
- <path id="rect3316" fill="#6e6e6e" d="m14 4h-2v2h2z"/>
+ <path id="rect3316" d="m14 4h-2v2h2z" fill="#6e6e6e"/>
  <rect id="rect3318" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-32" fill="#6e6e6e"/>
  <rect id="rect3320" ry="0" height="2" width="2" y="4" x="32" fill="#6e6e6e"/>
  <rect id="rect3398" ry="0" height="2" width="2" y="38" x="4" fill="#6e6e6e"/>
@@ -196,7 +196,7 @@
  <rect id="rect3440" ry="0" height="2" width="2" y="20" x="12" fill="#6e6e6e"/>
  <rect id="rect3442" ry="0" height="2" width="2" y="20" x="6" fill="#6e6e6e"/>
  <rect id="rect3444" ry="0" transform="scale(-1,1)" height="2" width="2" y="20" x="-24" fill="#6e6e6e"/>
- <path id="rect3446" fill="#6e6e6e" d="m4 42h2v2s-2 0-2-2z"/>
+ <path id="rect3446" d="m4 42h2v2s-2 0-2-2z" fill="#6e6e6e"/>
  <rect id="rect3448" ry="0" height="2" width="2" y="42" x="14" fill="#6e6e6e"/>
  <rect id="rect3450" ry="0" height="2" width="2" y="42" x="16" fill="#6e6e6e"/>
  <rect id="rect3452" ry="0" transform="scale(-1,1)" height="2" width="2" y="42" x="-38" fill="#6e6e6e"/>
@@ -248,7 +248,7 @@
  <rect id="rect4804" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-40" fill="#6e6e6e"/>
  <rect id="rect4806" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-42" fill="#6e6e6e"/>
  <rect id="rect4808" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-22" fill="#6e6e6e"/>
- <path id="path4810" fill="#6e6e6e" d="m20 4h-2v2h2z"/>
+ <path id="path4810" d="m20 4h-2v2h2z" fill="#6e6e6e"/>
  <rect id="rect4812" ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-40" fill="#6e6e6e"/>
  <rect id="rect4814" ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-36" fill="#6e6e6e"/>
  <rect id="rect4816" ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-34" fill="#6e6e6e"/>
@@ -270,7 +270,7 @@
  <rect id="rect4848" ry="0" height="2" width="2" y="14" x="38" fill="#6e6e6e"/>
  <rect id="rect4850" ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-12" fill="#6e6e6e"/>
  <rect id="rect4852" ry="0" height="2" width="2" y="4" x="16" fill="#6e6e6e"/>
- <path id="path4854" fill="#6e6e6e" d="m44 6c0-2-2-2-2-2v2h2z"/>
+ <path id="path4854" d="m44 6c0-2-2-2-2-2v2h2z" fill="#6e6e6e"/>
  <rect id="rect4856" ry="0" height="2" width="2" y="4" x="36" fill="#6e6e6e"/>
  <rect id="rect4858" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-36" fill="#6e6e6e"/>
  <rect id="rect4860" ry="0" height="2" width="2" y="38" x="26" fill="#6e6e6e"/>
@@ -304,7 +304,7 @@
  <rect id="rect4918" ry="0" height="2" width="2" y="40" x="32" fill="#6e6e6e"/>
  <rect id="rect4920" ry="0" height="2" width="2" y="40" x="34" fill="#6e6e6e"/>
  <rect id="rect4922" ry="0" height="2" width="2" y="40" x="38" fill="#6e6e6e"/>
- <path id="path4924" fill="#828282" d="m44 42h-2v2s2 0 2-2z"/>
+ <path id="path4924" d="m44 42h-2v2s2 0 2-2z" fill="#828282"/>
  <rect id="rect4926" ry="0" transform="scale(-1,1)" height="2" width="2" y="42" x="-36" fill="#6e6e6e"/>
  <rect id="rect4928" ry="0" transform="scale(-1,1)" height="2" width="2" y="42" x="-34" fill="#6e6e6e"/>
  <rect id="rect4930" ry="0" height="2" width="2" y="42" x="18" fill="#6e6e6e"/>
@@ -518,7 +518,7 @@
   <rect id="rect5630" ry="0" height="2" width="2" y="10" x="10"/>
   <rect id="rect5634" ry="0" height="2" width="2" y="10" x="30"/>
  </g>
- <g id="g5296" fill="#828282" transform="translate(0,4)">
+ <g id="g5296" transform="translate(0,4)" fill="#828282">
   <rect id="rect5299" ry="0" height="2" width="2" y="8" x="36"/>
   <rect id="rect5301" ry="0" height="2" width="2" y="8" x="40"/>
   <rect id="rect5303" ry="0" height="2" width="2" y="8" x="32"/>
@@ -540,7 +540,7 @@
   <rect id="rect5335" ry="0" height="2" width="2" y="10" x="10"/>
   <rect id="rect5337" ry="0" height="2" width="2" y="10" x="30"/>
  </g>
- <g id="g5383" fill="#828282" transform="translate(0,8)">
+ <g id="g5383" transform="translate(0,8)" fill="#828282">
   <g id="g5385">
    <rect id="rect5387" ry="0" height="2" width="2" y="8" x="36"/>
    <rect id="rect5389" ry="0" height="2" width="2" y="8" x="40"/>
@@ -586,7 +586,7 @@
    <rect id="rect5467" ry="0" height="2" width="2" y="10" x="30"/>
   </g>
  </g>
- <g id="g5559" fill="#828282" transform="translate(0,16)">
+ <g id="g5559" transform="translate(0,16)" fill="#828282">
   <g id="g5561">
    <rect id="rect5563" ry="0" height="2" width="2" y="8" x="36"/>
    <rect id="rect5565" ry="0" height="2" width="2" y="8" x="40"/>
@@ -632,7 +632,7 @@
    <rect id="rect5643" ry="0" height="2" width="2" y="10" x="30"/>
   </g>
  </g>
- <g id="g5647" fill="#828282" transform="translate(0,24)">
+ <g id="g5647" transform="translate(0,24)" fill="#828282">
   <rect id="rect5649" ry="0" height="2" width="2" y="8" x="36"/>
   <rect id="rect5651" ry="0" height="2" width="2" y="8" x="40"/>
   <rect id="rect5653" ry="0" height="2" width="2" y="8" x="32"/>
@@ -654,7 +654,7 @@
   <rect id="rect5685" ry="0" height="2" width="2" y="10" x="10"/>
   <rect id="rect5687" ry="0" height="2" width="2" y="10" x="30"/>
  </g>
- <g id="g5689" fill="#828282" transform="translate(0,28)">
+ <g id="g5689" transform="translate(0,28)" fill="#828282">
   <rect id="rect5691" ry="0" height="2" width="2" y="8" x="36"/>
   <rect id="rect5693" ry="0" height="2" width="2" y="8" x="40"/>
   <rect id="rect5695" ry="0" height="2" width="2" y="8" x="32"/>
@@ -715,7 +715,7 @@
  <rect id="rect6085" ry="0" height="2" width="2" y="6" x="6" fill="#828282"/>
  <rect id="rect6087" ry="0" height="2" width="2" y="6" x="10" fill="#828282"/>
  <rect id="rect6089" ry="0" height="2" width="2" y="6" x="30" fill="#828282"/>
- <path id="rect4739" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4739" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="path6702" stroke-linejoin="round" d="m8 14s10.745 0.40446 14 4.0006c2.5 2.7614-0.41132 8.1579 1.9981 10.999 3.2037 3.7774 13.987 4.9994 13.987 4.9994" stroke="#ff80ff" stroke-linecap="round" stroke-width="1.9999" fill="none"/>
  <circle id="circle6730" opacity=".2" cy="15" cx="8" r="2"/>
  <circle id="circle6732" opacity=".2" cy="34" cx="37" r="5"/>

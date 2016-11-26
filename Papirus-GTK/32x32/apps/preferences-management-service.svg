@@ -41,7 +41,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="path4250" d="m30 16a14 14 0 0 1 -14 14 14 14 0 0 1 -14 -14 14 14 0 0 1 14 -14 14 14 0 0 1 14 14z" fill="#f56e2c"/>
+ <path id="path4250" fill="#f56e2c" d="m30 16a14 14 0 0 1 -14 14 14 14 0 0 1 -14 -14 14 14 0 0 1 14 -14 14 14 0 0 1 14 14z"/>
  <path id="path5392" opacity=".2" d="m29.979 16.414a14 14 0 0 1 -13.979 13.586 14 14 0 0 1 -13.978 -13.414 14 14 0 0 0 -0.022 0.414 14 14 0 0 0 14 14 14 14 0 0 0 14 -14 14 14 0 0 0 -0.021 -0.586z"/>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-17.543331" x="759.07373" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="-17.543331" x="759.07373"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-58.285038" x="783.03467" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-58.285038" x="783.03467"/></text>
@@ -685,7 +685,7 @@
  <text id="text4087-2-6-5-5-6-4" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1174.5656" x="1633.6108" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-6-8" y="-1174.5656" x="1633.6108"/></text>
  <text id="text4087-2-6-5-54-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1181.7755" x="142.14771" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-3-9" y="-1181.7755" x="142.14771"/></text>
  <text id="text4087-2-6-5-4-1-40" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1455.0096" x="1602.6906" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-6" y="-1455.0096" x="1602.6906"/></text>
- <path id="path5397" opacity=".2" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.0215 0.586 14 14 0 0 1 13.978 -13.586 14 14 0 0 1 13.979 13.414 14 14 0 0 0 0.021 -0.414 14 14 0 0 0 -14 -14z" fill="#fff"/>
- <path id="path5393" opacity=".2" d="m11 9v12 4h4.2857 5.714v-4h-6v-12z"/>
- <path id="rect5921" d="m11 8v16h9.9997v-4h-6v-12z" fill="#ffa6a6"/>
+ <path id="path5397" opacity=".2" fill="#fff" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.0215 0.586 14 14 0 0 1 13.978 -13.586 14 14 0 0 1 13.979 13.414 14 14 0 0 0 0.021 -0.414 14 14 0 0 0 -14 -14z"/>
+ <path id="path5393" opacity=".2" d="m11 9v16h9.9997v-4h-6v-12z"/>
+ <path id="rect5921" fill="#ffa6a6" d="m11 8v16h9.9997v-4h-6v-12z"/>
 </svg>

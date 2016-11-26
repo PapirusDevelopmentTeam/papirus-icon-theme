@@ -118,15 +118,15 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#c2352a"/>
  <g id="g4412" opacity=".2" transform="translate(0,1)">
-  <path id="path4414" opacity="1" d="m19 19v10h10v-10zm1 1h2 5v3h1v3 2h-6-2v-2-1-2-1zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-  <path id="path4416" opacity="1" d="m7 19v10h10v-10zm1 1h2 5v3h1v3 2h-6-2v-2-1-2-1zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-  <path id="path4418" opacity="1" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-6-2v-2-4-2z"/>
+  <path id="path4414" opacity="1" d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path id="path4416" opacity="1" d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path id="path4418" opacity="1" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
  </g>
- <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
  <g id="g4407" fill="#fff">
-  <path id="rect4348" d="m19 19v10h10v-10zm1 1h2 5v3h1v3 2h-6-2v-2-1-2-1zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-  <path id="rect4352" d="m7 19v10h10v-10zm1 1h2 5v3h1v3 2h-6-2v-2-1-2-1zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-  <path id="rect4354" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-6-2v-2-4-2z"/>
+  <path id="rect4348" d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path id="rect4352" d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path id="rect4354" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
  </g>
 </svg>

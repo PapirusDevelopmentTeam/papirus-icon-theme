@@ -556,8 +556,8 @@
  </g>
  <rect id="rect4514" opacity=".2" transform="rotate(90)" rx="1.5" ry="1.5" height="19" width="19" y="-21" x="11"/>
  <rect id="rect4474" ry="1.5" rx="1.5" transform="rotate(90)" height="19" width="19" y="-21" x="10" fill="#d3d3d3"/>
- <path id="rect4576" opacity=".1" fill="#fff" d="m12.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z"/>
- <path id="rect4578" opacity=".1" fill="#fff" d="m3.5 10c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z"/>
+ <path id="rect4576" opacity=".1" d="m12.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z" fill="#fff"/>
+ <path id="rect4578" opacity=".1" d="m3.5 10c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z" fill="#fff"/>
  <g id="g5705" opacity=".5" transform="translate(-5,5)">
   <path id="path13992" opacity="1" style="enable-background:new" d="m10 11v-1h12v1z"/>
   <path id="path5689" opacity="1" style="enable-background:new" d="m10 14v-1h12v1z"/>

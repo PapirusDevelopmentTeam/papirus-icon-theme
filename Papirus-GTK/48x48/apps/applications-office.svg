@@ -116,13 +116,13 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#ccc" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z"/>
- <path id="rect4467" fill="#4c4c4c" d="m13 11h22v2h-22z"/>
- <path id="path4470" fill="#4c4c4c" d="m13 16h22v2h-22z"/>
- <path id="path4472" fill="#4c4c4c" d="m13 21h22v2h-22z"/>
- <path id="path4474" fill="#4c4c4c" d="m13 26h22v2h-22z"/>
- <path id="path4476" fill="#4c4c4c" d="m13 31h22v2h-22z"/>
- <path id="path4478" fill="#4c4c4c" d="m13 36h22v2h-22z"/>
- <path id="rect4199" opacity=".2" fill="#fff" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+ <path id="rect4203" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z" fill="#ccc"/>
+ <path id="rect4467" d="m13 11h22v2h-22z" fill="#4c4c4c"/>
+ <path id="path4470" d="m13 16h22v2h-22z" fill="#4c4c4c"/>
+ <path id="path4472" d="m13 21h22v2h-22z" fill="#4c4c4c"/>
+ <path id="path4474" d="m13 26h22v2h-22z" fill="#4c4c4c"/>
+ <path id="path4476" d="m13 31h22v2h-22z" fill="#4c4c4c"/>
+ <path id="path4478" d="m13 36h22v2h-22z" fill="#4c4c4c"/>
+ <path id="rect4199" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
  <path id="path4438" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
 </svg>

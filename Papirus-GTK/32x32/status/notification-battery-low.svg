@@ -116,7 +116,7 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#c4c4c4" d="m26 28.667v-21.334c0-0.7384-0.558-1.333-1.25-1.333h-17.5c-0.6925 0-1.25 0.5947-1.25 1.3333v21.333c0 0.73867 0.5575 1.3333 1.25 1.3333l17.5 0.001c0.692 0 1.25-0.595 1.25-1.333z"/>
+ <path id="rect4203" d="m26 28.667v-21.334c0-0.7384-0.558-1.333-1.25-1.333h-17.5c-0.6925 0-1.25 0.5947-1.25 1.3333v21.333c0 0.73867 0.5575 1.3333 1.25 1.3333l17.5 0.001c0.692 0 1.25-0.595 1.25-1.333z" fill="#c4c4c4"/>
  <rect id="rect4444" height="3" width="14" y="3" x="9" fill="#c4c4c4"/>
  <rect id="rect4349" opacity=".2" height="5" width="16" y="24" x="8" fill="#fff"/>
  <rect id="rect4446" height="5" width="16" y="23" x="8" fill="#d23a2e"/>
@@ -124,7 +124,7 @@
  <rect id="rect4469" height="5" width="16" y="9" x="8" fill="#5d5d5d"/>
  <rect id="rect4353" opacity=".2" height="5" width="16" y="17" x="8" fill="#fff"/>
  <rect id="rect4471" height="5" width="16" y="16" x="8" fill="#5d5d5d"/>
- <path id="rect4473" opacity=".2" fill="#fff" d="m9 3v1h14v-1h-14z"/>
- <path id="path4478" opacity=".1" fill="#fff" d="m7.25 6c-0.6925 0-1.25 0.5953-1.25 1.334v1c0-0.7387 0.5575-1.334 1.25-1.334h17.5c0.692 0 1.25 0.5953 1.25 1.334v-1c0-0.7387-0.558-1.334-1.25-1.334h-17.5z"/>
+ <path id="rect4473" opacity=".2" d="m9 3v1h14v-1h-14z" fill="#fff"/>
+ <path id="path4478" opacity=".1" d="m7.25 6c-0.6925 0-1.25 0.5953-1.25 1.334v1c0-0.7387 0.5575-1.334 1.25-1.334h17.5c0.692 0 1.25 0.5953 1.25 1.334v-1c0-0.7387-0.558-1.334-1.25-1.334h-17.5z" fill="#fff"/>
  <path id="path4483" opacity=".2" d="m6 28.666v1c0 0.739 0.5575 1.334 1.25 1.334h17.5c0.692 0 1.25-0.595 1.25-1.334v-1c0 0.739-0.558 1.334-1.25 1.334h-17.5c-0.6925 0-1.25-0.595-1.25-1.334z"/>
 </svg>

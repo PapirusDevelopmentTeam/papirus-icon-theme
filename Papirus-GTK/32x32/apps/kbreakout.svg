@@ -219,27 +219,27 @@
  <text id="text4087-2-6-5-5-6-7" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-6" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-5" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-4" y="-1465.4517" x="1621.2083"/></text>
- <path id="rect4203-8" d="m29 27.7v-23.4c0-0.7202-0.58-1.3-1.3-1.3h-23.4c-0.7202 0-1.3 0.5798-1.3 1.3v23.4c0 0.7202 0.5798 1.3 1.3 1.3h23.4c0.7202 0 1.3-0.5798 1.3-1.3z" fill="#768c5a"/>
+ <path id="rect4203-8" fill="#768c5a" d="m29 27.7v-23.4c0-0.7202-0.58-1.3-1.3-1.3h-23.4c-0.7202 0-1.3 0.5798-1.3 1.3v23.4c0 0.7202 0.5798 1.3 1.3 1.3h23.4c0.7202 0 1.3-0.5798 1.3-1.3z"/>
  <g id="g4577" opacity=".2" transform="translate(0,1)">
-  <rect id="rect4561" height="3" width="12" y="25" x="10"/>
+  <rect id="rect4561" y="25" width="12" x="10" height="3"/>
   <circle id="circle4563" cy="21" cx="18" r="2"/>
-  <rect id="rect4565" height="4" width="4" y="6" x="14"/>
-  <rect id="rect4567" height="4" width="4" y="6" x="19"/>
-  <rect id="rect4569" height="4" width="4" y="6" x="24"/>
-  <rect id="rect4571" height="4" width="4" y="11" x="4"/>
-  <rect id="rect4573" height="4" width="4" y="11" x="14"/>
-  <rect id="rect4575" height="4" width="4" y="11" x="19"/>
+  <rect id="rect4565" y="6" width="4" x="14" height="4"/>
+  <rect id="rect4567" y="6" width="4" x="19" height="4"/>
+  <rect id="rect4569" y="6" width="4" x="24" height="4"/>
+  <rect id="rect4571" y="11" width="4" x="4" height="4"/>
+  <rect id="rect4573" y="11" width="4" x="14" height="4"/>
+  <rect id="rect4575" y="11" width="4" x="19" height="4"/>
  </g>
  <path id="path4781" opacity=".2" d="m3 27.699v1c0 0.72 0.5806 1.301 1.3008 1.301h23.398c0.72 0 1.301-0.581 1.301-1.301v-1c0 0.72-0.581 1.301-1.301 1.301h-23.398c-0.7204 0-1.301-0.581-1.301-1.301z"/>
  <g id="g4568" fill="#ffff80">
-  <rect id="rect4560" height="3" width="12" y="25" x="10"/>
-  <circle id="path4562" cx="18" cy="21" r="2"/>
-  <rect id="rect4574" height="4" width="4" y="6" x="14"/>
-  <rect id="rect4576" height="4" width="4" y="6" x="19"/>
-  <rect id="rect4580" height="4" width="4" y="6" x="24"/>
-  <rect id="rect4599" height="4" width="4" y="11" x="4"/>
-  <rect id="rect4772" height="4" width="4" y="11" x="14"/>
-  <rect id="rect4774" height="4" width="4" y="11" x="19"/>
+  <rect id="rect4560" y="25" width="12" x="10" height="3"/>
+  <circle id="path4562" cy="21" cx="18" r="2"/>
+  <rect id="rect4574" y="6" width="4" x="14" height="4"/>
+  <rect id="rect4576" y="6" width="4" x="19" height="4"/>
+  <rect id="rect4580" y="6" width="4" x="24" height="4"/>
+  <rect id="rect4599" y="11" width="4" x="4" height="4"/>
+  <rect id="rect4772" y="11" width="4" x="14" height="4"/>
+  <rect id="rect4774" y="11" width="4" x="19" height="4"/>
  </g>
- <path id="path4776" opacity=".2" d="m4.3008 3c-0.7202 0-1.3008 0.5806-1.3008 1.3008v1c0-0.7202 0.5806-1.3008 1.3008-1.3008h23.398c0.72 0 1.301 0.5806 1.301 1.3008v-1c0-0.7202-0.581-1.3008-1.301-1.3008h-23.398z" fill="#fff"/>
+ <path id="path4776" opacity=".2" fill="#fff" d="m4.3008 3c-0.7202 0-1.3008 0.5806-1.3008 1.3008v1c0-0.7202 0.5806-1.3008 1.3008-1.3008h23.398c0.72 0 1.301 0.5806 1.301 1.3008v-1c0-0.7202-0.581-1.3008-1.301-1.3008h-23.398z"/>
 </svg>

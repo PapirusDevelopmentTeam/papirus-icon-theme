@@ -116,10 +116,10 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#e3af4a" d="m44 39v-30c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v30c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
+ <path id="rect4203" d="m44 39v-30c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v30c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#e3af4a"/>
  <rect id="rect4380" opacity=".2" rx="1.8897" ry="2.0016" height="22" width="28" y="14" x="10"/>
  <path id="rect3289" opacity=".2" d="m4 39v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <path id="path4371" opacity=".2" d="m6 7c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="path4371" opacity=".2" fill="#fff" d="m6 7c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <rect id="rect4376" rx="1.8897" ry="2.0016" height="22" width="28" y="13" x="10" fill="#faff84"/>
  <rect id="rect4382" opacity=".2" rx="1.9836" ry="1.8246" height="4" width="12" y="23" x="18"/>
  <rect id="rect4378" rx="1.9836" ry="1.8246" height="4" width="12" y="22" x="18" fill="#4e4e4e"/>

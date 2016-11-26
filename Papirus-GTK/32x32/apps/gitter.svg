@@ -17,11 +17,11 @@
   <rect id="rect4535" opacity="1" height="10" width="3" y="10" x="22"/>
  </g>
  <g id="g4521" fill="#fff">
-  <rect id="rect29" height="14" width="3" y="6" x="7"/>
-  <rect id="rect31" height="17" width="3" y="10" x="12"/>
-  <rect id="rect33" height="17" width="3" y="10" x="17"/>
-  <rect id="rect35" height="10" width="3" y="10" x="22"/>
+  <rect id="rect29" y="6" width="3" x="7" height="14"/>
+  <rect id="rect31" y="10" width="3" x="12" height="17"/>
+  <rect id="rect33" y="10" width="3" x="17" height="17"/>
+  <rect id="rect35" y="10" width="3" x="22" height="10"/>
  </g>
- <path id="rect4511" opacity=".2" d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z" fill="#fff"/>
+ <path id="rect4511" opacity=".2" fill="#fff" d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z"/>
  <path id="rect4516" opacity=".2" d="m2 28.6v1c0 0.775 0.6248 1.4 1.4004 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-1c0 0.775-0.625 1.4-1.4 1.4h-25.2c-0.7752 0-1.4-0.625-1.4-1.4z"/>
 </svg>

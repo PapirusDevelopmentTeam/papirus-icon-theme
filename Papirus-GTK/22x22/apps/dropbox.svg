@@ -10,24 +10,24 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs2819">
-  <linearGradient id="linearGradient4365" x1="24" gradientUnits="userSpaceOnUse" x2="28.615" gradientTransform="matrix(-.5 0 0 .5 23 -2)" y1="21" y2="25.313">
+  <linearGradient id="linearGradient4365" y2="25.313" gradientUnits="userSpaceOnUse" y1="21" gradientTransform="matrix(-.5 0 0 .5 23 -2)" x2="28.615" x1="24">
    <stop id="stop4361" offset="0"/>
    <stop id="stop4363" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4373" x1="31.427" gradientUnits="userSpaceOnUse" x2="12.189" gradientTransform="matrix(.5 0 0 .5 -1 -2)" y1="34.828" y2="36.388">
+  <linearGradient id="linearGradient4373" y2="36.388" gradientUnits="userSpaceOnUse" y1="34.828" gradientTransform="matrix(.5 0 0 .5 -1 -2)" x2="12.189" x1="31.427">
    <stop id="stop4369" offset="0"/>
    <stop id="stop4371" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path id="polygon3877" fill="#37a0f2" d="m11 12-4.25 2.15-1.75-0.6v2.7l6 3.75 6-3.75v-2.4l-1.75 1.1z"/>
- <path id="path4357" opacity=".05" fill="url(#linearGradient4373)" d="m11 12v8l6-3.75v-2.4l-1.75 1.1z"/>
+ <path id="polygon3877" d="m11 12-4.25 2.15-1.75-0.6v2.7l6 3.75 6-3.75v-2.4l-1.75 1.1z" fill="#37a0f2"/>
+ <path id="path4357" opacity=".05" d="m11 12v8l6-3.75v-2.4l-1.75 1.1z" fill="url(#linearGradient4373)"/>
  <g id="g4153" opacity=".2" transform="matrix(.5 0 0 .5 -1 -1.5)">
   <path id="path4155" d="m16 7-12 7.5 8 6.5 12-7-8-7zm8 7 12 7 8-6.5l-12-7.5-8 7zm12 7-12 7 8 7l12-7.5-8-6.5zm-12 7-12-7-8 6.5 12 7.5 8-7z"/>
  </g>
- <g id="g4346" fill="#99cff8" transform="matrix(.5 0 0 .5 -1 -2)">
-  <path id="path4339" fill="#99cff8" d="m16 7-12 7.5 8 6.5 12-7-8-7zm8 7 12 7 8-6.5l-12-7.5-8 7zm12 7-12 7 8 7l12-7.5-8-6.5zm-12 7-12-7-8 6.5 12 7.5 8-7z"/>
+ <g id="g4346" transform="matrix(.5 0 0 .5 -1 -2)" fill="#99cff8">
+  <path id="path4339" d="m16 7-12 7.5 8 6.5 12-7-8-7zm8 7 12 7 8-6.5l-12-7.5-8 7zm12 7-12 7 8 7l12-7.5-8-6.5zm-12 7-12-7-8 6.5 12 7.5 8-7z" fill="#99cff8"/>
  </g>
- <path id="rect4352" fill="#88c0ec" d="m17 8.5-6 3.5-6-3.5 6-3.5z"/>
- <path id="path4355" opacity=".05" fill="url(#linearGradient4365)" d="m5 8.5 6 3.5 0.000001-7z"/>
+ <path id="rect4352" d="m17 8.5-6 3.5-6-3.5 6-3.5z" fill="#88c0ec"/>
+ <path id="path4355" opacity=".05" d="m5 8.5 6 3.5 0.000001-7z" fill="url(#linearGradient4365)"/>
  <path id="path4267" opacity=".2" d="m5 16.25v0.5l6 3.75 6-3.75v-0.5l-6 3.75-6-3.75z"/>
 </svg>

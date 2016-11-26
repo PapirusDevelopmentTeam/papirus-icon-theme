@@ -116,13 +116,13 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4185" d="m24 4c-6.648 0-12 5.352-12 12v4h4v-3c0-4.432 3.568-8 8-8s8 3.568 8 8v3h4v-4c0-6.648-5.352-12-12-12z" fill="#d2d2d2"/>
+ <path id="rect4185" fill="#d2d2d2" d="m24 4c-6.648 0-12 5.352-12 12v4h4v-3c0-4.432 3.568-8 8-8s8 3.568 8 8v3h4v-4c0-6.648-5.352-12-12-12z"/>
  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="32" width="24" y="-40" x="-44" fill="#fecd38"/>
- <path id="path4194" opacity=".2" d="m24 4c-6.648 0-12 5.352-12 12v1c0-6.648 5.352-12 12-12s12 5.352 12 12v-1c0-6.648-5.352-12-12-12z" fill="#fff"/>
- <path id="rect4196" opacity=".2" d="m10 20c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff"/>
+ <path id="path4194" opacity=".2" fill="#fff" d="m24 4c-6.648 0-12 5.352-12 12v1c0-6.648 5.352-12 12-12s12 5.352 12 12v-1c0-6.648-5.352-12-12-12z"/>
+ <path id="rect4196" opacity=".2" fill="#fff" d="m10 20c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z"/>
  <path id="path4512" opacity=".2" d="m24 9c-4.432 0-8 3.568-8 8v1c0-4.432 3.568-8 8-8s8 3.568 8 8v-1c0-4.432-3.568-8-8-8z"/>
- <path id="path4536" opacity=".1" d="m8 39v2c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-2c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z" fill="#fff"/>
- <path id="rect4432" d="m8 40v2c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-2c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z" fill="#cb9a05"/>
+ <path id="path4536" opacity=".1" fill="#fff" d="m8 39v2c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-2c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
+ <path id="rect4432" fill="#cb9a05" d="m8 40v2c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-2c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
  <rect id="rect4544" rx="0" ry="0" height="14" width="32" y="24" x="8" fill="#fed96a"/>
  <path id="path4204" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
 </svg>

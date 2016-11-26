@@ -116,15 +116,15 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <circle id="path4522" style="enable-background:new" cy="16" cx="16" r="14" fill="#ff5722"/>
- <rect id="rect4927" opacity=".2" ry="10" style="enable-background:new" rx="10" transform="matrix(0,-1,-1,0,0,0)" height="20" width="20" y="-26" x="-27"/>
+ <circle id="path4522" style="enable-background:new" cx="16" cy="16" r="14" fill="#ff5722"/>
+ <rect id="rect4927" opacity=".2" style="enable-background:new" rx="10" transform="matrix(0,-1,-1,0,0,0)" ry="10" width="20" y="-26" x="-27" height="20"/>
  <rect id="rect4490" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-26" x="-26" fill="#fe9700"/>
  <g id="g5011" opacity=".2" style="enable-background:new" transform="matrix(.5 0 0 .5 -230.5 -76.389)">
-  <path id="path5013" d="m110 507v0.5l-0.00001 4.7695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-5h4l-0.00001 3.2695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-7h-0.5z" transform="matrix(2,0,0,2,269,-837)"/>
+  <path id="path5013" transform="matrix(2,0,0,2,269,-837)" d="m110 507v0.5l-0.00001 4.7695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-5h4l-0.00001 3.2695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-7h-0.5z"/>
  </g>
- <g id="g4991" style="enable-background:new" transform="matrix(.5 0 0 .5 -230.5 -77.389)" fill="#fff">
-  <path id="path4993" d="m110 507v0.5l-0.00001 4.7695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-5h4l-0.00001 3.2695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-7h-0.5z" transform="matrix(2,0,0,2,269,-837)" fill="#fff"/>
+ <g id="g4991" style="enable-background:new" fill="#fff" transform="matrix(.5 0 0 .5 -230.5 -77.389)">
+  <path id="path4993" transform="matrix(2,0,0,2,269,-837)" fill="#fff" d="m110 507v0.5l-0.00001 4.7695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-5h4l-0.00001 3.2695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l0.00001-7h-0.5z"/>
  </g>
- <path id="circle4409" opacity=".2" style="enable-background:new" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.0215 0.586 14 14 0 0 1 13.978 -13.586 14 14 0 0 1 13.979 13.414 14 14 0 0 0 0.021 -0.414 14 14 0 0 0 -14 -14z" fill="#fff"/>
+ <path id="circle4409" opacity=".2" style="enable-background:new" fill="#fff" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.0215 0.586 14 14 0 0 1 13.978 -13.586 14 14 0 0 1 13.979 13.414 14 14 0 0 0 0.021 -0.414 14 14 0 0 0 -14 -14z"/>
  <path id="circle4414" opacity=".2" style="enable-background:new" d="m29.979 16.414a14 14 0 0 1 -13.979 13.586 14 14 0 0 1 -13.978 -13.414 14 14 0 0 0 -0.022 0.414 14 14 0 0 0 14 14 14 14 0 0 0 14 -14 14 14 0 0 0 -0.021 -0.586z"/>
 </svg>

@@ -10,7 +10,7 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs2819">
-  <linearGradient id="linearGradient4282" x1="409.57" gradientUnits="userSpaceOnUse" x2="409.57" gradientTransform="matrix(.11765 0 0 .11765 -32.067 -77.623)" y1="540.8" y2="506.8">
+  <linearGradient id="linearGradient4282" y2="506.8" gradientUnits="userSpaceOnUse" y1="540.8" gradientTransform="matrix(.11765 0 0 .11765 -32.067 -77.623)" x2="409.57" x1="409.57">
    <stop id="stop4161" stop-color="#2a2c2f" offset="0"/>
    <stop id="stop4163" stop-color="#424649" offset="1"/>
   </linearGradient>
@@ -122,10 +122,10 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="path4877" fill="#5d5d5d" d="m31 16a15 15 0 0 1 -15 15 15 15 0 0 1 -15 -15 15 15 0 0 1 15 -15 15 15 0 0 1 15 15z"/>
- <path id="path5609" opacity=".1" fill="#fff" d="m16 1a15 15 0 0 0 -15 15 15 15 0 0 0 0.0195 0.586 15 15 0 0 1 14.98 -14.586 15 15 0 0 1 14.98 14.414 15 15 0 0 0 0.02 -0.414 15 15 0 0 0 -15 -15z"/>
- <path id="rect4203-6" opacity=".1" fill="#fff" d="m7.6861 3.5318c-4.0255 2.6845-6.6694 7.2642-6.6694 12.486h12c0-1.2157 0.727-2.2563 1.7666-2.7275l-7.0993-9.7576z"/>
- <path id="path5733" opacity=".1" fill="#fff" d="m24.314 28.468c4.0256-2.6845 6.6694-7.2642 6.6694-12.486h-12c0 1.2157-0.727 2.2563-1.7666 2.7275l7.0972 9.7588z"/>
+ <path id="path4877" d="m31 16a15 15 0 0 1 -15 15 15 15 0 0 1 -15 -15 15 15 0 0 1 15 -15 15 15 0 0 1 15 15z" fill="#5d5d5d"/>
+ <path id="path5609" opacity=".1" d="m16 1a15 15 0 0 0 -15 15 15 15 0 0 0 0.0195 0.586 15 15 0 0 1 14.98 -14.586 15 15 0 0 1 14.98 14.414 15 15 0 0 0 0.02 -0.414 15 15 0 0 0 -15 -15z" fill="#fff"/>
+ <path id="rect4203-6" opacity=".1" d="m7.6861 3.5318c-4.0255 2.6845-6.6694 7.2642-6.6694 12.486h12c0-1.2157 0.727-2.2563 1.7666-2.7275l-7.0993-9.7576z" fill="#fff"/>
+ <path id="path5733" opacity=".1" d="m24.314 28.468c4.0256-2.6845 6.6694-7.2642 6.6694-12.486h-12c0 1.2157-0.727 2.2563-1.7666 2.7275l7.0972 9.7588z" fill="#fff"/>
  <rect id="rect4270" ry="6" height="12" width="12" y="10" x="10" fill="#fe9473"/>
  <rect id="rect4280" transform="scale(1,-1)" ry="2" height="4" width="4" y="-18" x="14" fill="url(#linearGradient4282)"/>
  <path id="path4442" opacity=".2" d="m30.98 16.414a15 15 0 0 1 -14.98 14.586 15 15 0 0 1 -14.98 -14.414 15 15 0 0 0 -0.02 0.414 15 15 0 0 0 15 15 15 15 0 0 0 15 -15 15 15 0 0 0 -0.02 -0.586z"/>

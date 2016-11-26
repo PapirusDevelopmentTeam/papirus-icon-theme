@@ -119,6 +119,6 @@
  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#4253bb"/>
  <path id="path4426" opacity=".2" stroke-linejoin="round" d="m16.014 15h14l-14 20h16" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
  <path id="path4424" stroke-linejoin="round" d="m16.014 14h14l-14 20h16" stroke="#ff8a8a" stroke-linecap="round" stroke-width="2" fill="none"/>
- <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
 </svg>

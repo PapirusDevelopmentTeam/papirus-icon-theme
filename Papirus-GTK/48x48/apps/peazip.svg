@@ -118,15 +118,15 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#7de63e"/>
  <path id="path4465" opacity=".2" d="m13.823 13.814a33.581 33.612 0 0 0 -9.3015 29.656 33.581 33.612 0 0 0 29.656 -9.284 33.581 33.612 0 0 0 9.3 -29.656 33.581 33.612 0 0 0 -29.655 9.284z"/>
- <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <circle id="path4484" cx="24" opacity=".3" cy="24" r="9"/>
- <circle id="circle4522" cx="24" opacity=".2" cy="25" r="5"/>
- <circle id="circle4486" cx="24" cy="24" r="5" fill="#ffc20c"/>
- <circle id="circle4494" cx="36" opacity=".3" cy="12" r="5"/>
- <circle id="circle4524" cx="36" opacity=".2" cy="13" r="3"/>
- <circle id="circle4496" cx="36" cy="12" r="3" fill="#ffc20c"/>
- <circle id="circle4512" cx="12" opacity=".3" cy="36" r="5"/>
- <circle id="circle4526" cx="12" opacity=".2" cy="37" r="3"/>
- <circle id="circle4514" cx="12" cy="36" r="3" fill="#ffc20c"/>
+ <circle id="path4484" opacity=".3" cy="24" cx="24" r="9"/>
+ <circle id="circle4522" opacity=".2" cy="25" cx="24" r="5"/>
+ <circle id="circle4486" cy="24" cx="24" r="5" fill="#ffc20c"/>
+ <circle id="circle4494" opacity=".3" cy="12" cx="36" r="5"/>
+ <circle id="circle4524" opacity=".2" cy="13" cx="36" r="3"/>
+ <circle id="circle4496" cy="12" cx="36" r="3" fill="#ffc20c"/>
+ <circle id="circle4512" opacity=".3" cy="36" cx="12" r="5"/>
+ <circle id="circle4526" opacity=".2" cy="37" cx="12" r="3"/>
+ <circle id="circle4514" cy="36" cx="12" r="3" fill="#ffc20c"/>
 </svg>

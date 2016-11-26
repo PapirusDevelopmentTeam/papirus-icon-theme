@@ -3,7 +3,7 @@
  <defs id="defs225">
   <clipPath id="clipPath-242030370">
    <g id="g4558" transform="translate(0 -1004.4)">
-    <path id="path4560" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0"/>
+    <path id="path4560" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z"/>
    </g>
   </clipPath>
  </defs>
@@ -233,19 +233,19 @@
    </g>
   </g>
  </g>
- <path id="rect4203" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#54402a"/>
- <path id="path4453" opacity=".6" d="m18.765 19a0.74998 0.77778 0 0 0 -0.765 0.778v12.444a0.74998 0.77778 0 0 0 1.122 0.67596l10.499-6.2215a0.74998 0.77778 0 0 0 0 -1.3519l-10.499-6.222a0.74998 0.77778 0 0 0 -0.35696 -0.10188z" fill="#fff"/>
+ <path id="rect4203" fill="#54402a" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
+ <path id="path4453" opacity=".6" fill="#fff" d="m18.765 19a0.74998 0.77778 0 0 0 -0.765 0.778v12.444a0.74998 0.77778 0 0 0 1.122 0.67596l10.499-6.2215a0.74998 0.77778 0 0 0 0 -1.3519l-10.499-6.222a0.74998 0.77778 0 0 0 -0.35696 -0.10188z"/>
  <g id="g4693" transform="translate(-144,-236)">
   <path id="path4385" opacity=".2" d="m150 242c-1.108 0-2 0.892-2 2v6h40v-6c0-1.108-0.892-2-2-2z"/>
   <path id="path4391" opacity=".2" d="m150 242c-1.108 0-2 0.892-2 2v2h40v-2c0-1.108-0.892-2-2-2z"/>
-  <path id="path4393" d="m150 242c-1.108 0-2 0.892-2 2v6h9v-4l-4-4z" fill="#d2d2d2"/>
-  <path id="path4400" fill-rule="evenodd" d="m163 246-4-4h5l4 4z" fill="#bebebe"/>
-  <path id="path4402" fill-rule="evenodd" d="m163 246-4 4h5l4-4z" fill="#d2d2d2"/>
-  <path id="path4404" fill-rule="evenodd" d="m173 246-4-4h5l4 4z" fill="#bebebe"/>
-  <path id="path4406" fill-rule="evenodd" d="m173 246-4 4h5l4-4z" fill="#d2d2d2"/>
-  <path id="path4408" fill-rule="evenodd" d="m183 246-4-4h5l4 4z" fill="#bebebe"/>
-  <path id="path4410" fill-rule="evenodd" d="m183 246-4 4h5l4-4z" fill="#d2d2d2"/>
-  <path id="path4420" opacity=".2" d="m150 242c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+  <path id="path4393" fill="#d2d2d2" d="m150 242c-1.108 0-2 0.892-2 2v6h9v-4l-4-4z"/>
+  <path id="path4400" d="m163 246-4-4h5l4 4z" fill="#bebebe" fill-rule="evenodd"/>
+  <path id="path4402" d="m163 246-4 4h5l4-4z" fill="#d2d2d2" fill-rule="evenodd"/>
+  <path id="path4404" d="m173 246-4-4h5l4 4z" fill="#bebebe" fill-rule="evenodd"/>
+  <path id="path4406" d="m173 246-4 4h5l4-4z" fill="#d2d2d2" fill-rule="evenodd"/>
+  <path id="path4408" d="m183 246-4-4h5l4 4z" fill="#bebebe" fill-rule="evenodd"/>
+  <path id="path4410" d="m183 246-4 4h5l4-4z" fill="#d2d2d2" fill-rule="evenodd"/>
+  <path id="path4420" opacity=".2" fill="#fff" d="m150 242c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  </g>
  <path id="path4390" opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
  <text id="text4087-2-6-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="7.608098" x="817.57898" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-69" y="7.608098" x="817.57898"/></text>

@@ -117,14 +117,14 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <g id="g4798" opacity=".2" fill-rule="evenodd" transform="translate(-5,1)">
+ <g id="g4798" opacity=".2" transform="translate(-5,1)" fill-rule="evenodd">
   <path id="path4800" d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
   <path id="path4802" d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
  </g>
- <g id="g4352" fill="#fff" transform="translate(-5)" fill-rule="evenodd">
+ <g id="g4352" fill-rule="evenodd" transform="translate(-5)" fill="#fff">
   <path id="path4356" d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
   <path id="path4350" d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
  </g>
- <path id="circle4354" opacity=".2" d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 0.0215 0.582 20 20 0 0 1 19.978 -19.582 20 20 0 0 1 19.979 19.418 20 20 0 0 0 0.021 -0.418 20 20 0 0 0 -20 -20z" fill="#fff"/>
+ <path id="circle4354" opacity=".2" fill="#fff" d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 0.0215 0.582 20 20 0 0 1 19.978 -19.582 20 20 0 0 1 19.979 19.418 20 20 0 0 0 0.021 -0.418 20 20 0 0 0 -20 -20z"/>
  <path id="circle4359" opacity=".2" d="m43.979 24.418a20 20 0 0 1 -19.979 19.582 20 20 0 0 1 -19.978 -19.418 20 20 0 0 0 -0.022 0.418 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -0.021 -0.582z"/>
 </svg>

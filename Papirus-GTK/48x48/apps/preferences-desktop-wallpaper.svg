@@ -223,10 +223,10 @@
  <text id="text4087-2-6-5-5-6-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.8153" x="1598.8287" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-0" y="-1169.8153" x="1598.8287"/></text>
  <text id="text4087-2-6-5-54-3" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1177.0253" x="107.36562" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-3" y="-1177.0253" x="107.36562"/></text>
  <text id="text4087-2-6-5-4-1-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1450.2594" x="1567.9084" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-3" y="-1450.2594" x="1567.9084"/></text>
- <path id="rect4203" fill="#5f7c8a" d="m44 24v-14c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v28c0 1.108 0.892 2 2 2h22z"/>
- <path id="rect3282" fill="#7f96a1" d="m41 25.962v-14.962h-34v26h23.181z"/>
- <path id="rect4414" opacity=".2" fill="#fff" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path id="path4240" style="enable-background:new" fill="#b2cfdd" d="m44 24h-14c-1.1046 0-2 0.89544-2 2v14z"/>
- <path id="path5207" opacity=".2" style="enable-background:new" fill="#fff" d="m30 24c-1.1046 0-2 0.89544-2 2v1c0-1.1046 0.89543-2 2-2h13l1-1h-14z"/>
+ <path id="rect4203" d="m44 24v-14c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v28c0 1.108 0.892 2 2 2h22z" fill="#5f7c8a"/>
+ <path id="rect3282" d="m41 25.962v-14.962h-34v26h23.181z" fill="#7f96a1"/>
+ <path id="rect4414" opacity=".2" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="path4240" d="m44 24h-14c-1.1046 0-2 0.89544-2 2v14z" style="enable-background:new" fill="#b2cfdd"/>
+ <path id="path5207" opacity=".2" d="m30 24c-1.1046 0-2 0.89544-2 2v1c0-1.1046 0.89543-2 2-2h13l1-1h-14z" style="enable-background:new" fill="#fff"/>
  <path id="path5212" opacity=".2" d="m44 24-16 16h-22c-1.108 0-2-0.892-2-2v1c0 1.108 0.892 2 2 2h22l16-16v-1z"/>
 </svg>

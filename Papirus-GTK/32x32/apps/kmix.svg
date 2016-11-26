@@ -117,7 +117,7 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4255" ry="14" rx="14" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#5e5e5e"/>
- <path id="rect4400" opacity=".1" d="m16 2c-7.756 0-14 6.244-14 14 0 0.16884 0.01952 0.33264 0.02539 0.5 0.2641-7.5206 6.3878-13.5 13.975-13.5s13.711 5.9794 13.975 13.5c0.006-0.16736 0.0254-0.33116 0.0254-0.5 0-7.756-6.244-14-14-14z" fill="#fff"/>
+ <path id="rect4400" opacity=".1" fill="#fff" d="m16 2c-7.756 0-14 6.244-14 14 0 0.16884 0.01952 0.33264 0.02539 0.5 0.2641-7.5206 6.3878-13.5 13.975-13.5s13.711 5.9794 13.975 13.5c0.006-0.16736 0.0254-0.33116 0.0254-0.5 0-7.756-6.244-14-14-14z"/>
  <text id="text4087-2-6-5-96" opacity=".8" font-size="12.666px" xml:space="preserve" y="5.0835824" x="809.55627" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-78" y="5.0835824" x="809.55627"/></text>
  <text id="text4087-2-6-5-5-7" opacity=".8" font-size="12.666px" xml:space="preserve" y="-35.658123" x="833.51721" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-6" y="-35.658123" x="833.51721"/></text>
  <text id="text4087-2-6-5-2-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-65.736267" x="-637.04114" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2-3" y="-65.736267" x="-637.04114"/></text>
@@ -221,8 +221,8 @@
  <text id="text4087-2-6-5-5-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1174.7366" x="1584.4585" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-7" y="-1174.7366" x="1584.4585"/></text>
  <text id="text4087-2-6-5-54-3" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1181.9465" x="92.995438" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-8" y="-1181.9465" x="92.995438"/></text>
  <text id="text4087-2-6-5-4-1-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1455.1807" x="1553.5382" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-4" y="-1455.1807" x="1553.5382"/></text>
- <circle id="circle4407" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-16" r="10" fill="#3f3f3f"/>
- <circle id="circle4385-5" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-16" r="8" fill="#fec006"/>
- <circle id="circle4501" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-16" r="4" fill="#3f3f3f"/>
+ <circle id="circle4407" style="enable-background:new" cx="-16" transform="matrix(0,-1,-1,0,0,0)" cy="-16" r="10" fill="#3f3f3f"/>
+ <circle id="circle4385-5" style="enable-background:new" cx="-16" transform="matrix(0,-1,-1,0,0,0)" cy="-16" r="8" fill="#fec006"/>
+ <circle id="circle4501" style="enable-background:new" cx="-16" transform="matrix(0,-1,-1,0,0,0)" cy="-16" r="4" fill="#3f3f3f"/>
  <path id="rect4860" opacity=".2" d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.169-0.02-0.333-0.025-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"/>
 </svg>

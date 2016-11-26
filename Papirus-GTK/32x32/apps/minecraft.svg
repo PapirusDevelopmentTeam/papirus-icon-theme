@@ -781,7 +781,7 @@
  <rect id="rect7773" ry="0" height="2" width="2" y="2" x="6" fill="#56962c"/>
  <rect id="rect7775" ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-10" fill="#60a036"/>
  <rect id="rect7779" ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-6" fill="#72b248"/>
- <path id="path7781" d="m4 2h-0.5s-1.5 0-1.5 1.5v0.5h2z" fill="#56962c"/>
+ <path id="path7781" fill="#56962c" d="m4 2h-0.5s-1.5 0-1.5 1.5v0.5h2z"/>
  <rect id="rect7783" ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-18" fill="#b8845b"/>
  <rect id="rect7785" ry="0" height="2" width="2" y="12" x="10" fill="#785439"/>
  <rect id="rect7787" ry="0" height="2" width="2" y="12" x="4" fill="#785439"/>
@@ -796,7 +796,7 @@
  <rect id="rect7807" ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-12" fill="#60a036"/>
  <rect id="rect7819" ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-8" fill="#56962c"/>
  <rect id="rect7821" ry="0" height="2" width="2" y="6" x="10" fill="#60a036"/>
- <path id="path7825" d="m12 2h-2v2h2z" fill="#56962c"/>
+ <path id="path7825" fill="#56962c" d="m12 2h-2v2h2z"/>
  <rect id="rect7831" ry="0" height="2" width="2" y="24" x="2" fill="#956b49"/>
  <rect id="rect7835" ry="0" height="2" width="2" y="24" x="12" fill="#b8845b"/>
  <rect id="rect7839" ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-10" fill="#785439"/>
@@ -806,7 +806,7 @@
  <rect id="rect7859" transform="scale(1,-1)" ry="0" height="2" width="2" y="-14" x="14" fill="#785439"/>
  <rect id="rect7861" transform="scale(-1)" ry="0" height="2" width="2" y="-14" x="-10" fill="#785439"/>
  <rect id="rect7863" transform="scale(1,-1)" ry="0" height="2" width="2" y="-14" x="22" fill="#583c28"/>
- <path id="path7875" d="m2 28.5v-0.5h2v2h-0.5s-1.5 0-1.5-1.5z" fill="#956b49"/>
+ <path id="path7875" fill="#956b49" d="m2 28.5v-0.5h2v2h-0.5s-1.5 0-1.5-1.5z"/>
  <rect id="rect7879" ry="0" height="2" width="2" y="28" x="12" fill="#6b6b6b"/>
  <rect id="rect7881" ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-24" fill="#785439"/>
  <rect id="rect7883" ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-10" fill="#785439"/>
@@ -842,7 +842,7 @@
  <rect id="rect7973" ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-26" fill="#60a036"/>
  <rect id="rect7975" ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-28" fill="#72b248"/>
  <rect id="rect7977" ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-18" fill="#72b248"/>
- <path id="path7979" d="m16 2h-2v2h2z" fill="#56962c"/>
+ <path id="path7979" fill="#56962c" d="m16 2h-2v2h2z"/>
  <rect id="rect7981" ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-26" fill="#b8845b"/>
  <rect id="rect7983" ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-22" fill="#785439"/>
  <rect id="rect7989" ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-26" fill="#b8845b"/>
@@ -858,7 +858,7 @@
  <rect id="rect8017" ry="0" height="2" width="2" y="8" x="24" fill="#56962c"/>
  <rect id="rect8019" ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-10" fill="#60a036"/>
  <rect id="rect8021" ry="0" height="2" width="2" y="2" x="12" fill="#72b248"/>
- <path id="path8023" d="m30 3.5c0-1.5-1.5-1.5-1.5-1.5h-0.5v2h2z" fill="#56962c"/>
+ <path id="path8023" fill="#56962c" d="m30 3.5c0-1.5-1.5-1.5-1.5-1.5h-0.5v2h2z"/>
  <rect id="rect8025" ry="0" height="2" width="2" y="2" x="22" fill="#60a036"/>
  <rect id="rect8027" ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-22" fill="#72b248"/>
  <rect id="rect8035" ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-30" fill="#6b6b6b"/>
@@ -873,7 +873,7 @@
  <rect id="rect8083" ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-16" fill="#956b49"/>
  <rect id="rect8087" ry="0" height="2" width="2" y="26" x="20" fill="#b8845b"/>
  <rect id="rect8089" ry="0" height="2" width="2" y="26" x="24" fill="#785439"/>
- <path id="path8091" d="m30 28.5v-0.5h-2v2h0.5s1.5 0 1.5-1.5z" fill="#b8845b"/>
+ <path id="path8091" fill="#b8845b" d="m30 28.5v-0.5h-2v2h0.5s1.5 0 1.5-1.5z"/>
  <rect id="rect8093" ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-22" fill="#b8845b"/>
  <rect id="rect8097" ry="0" height="2" width="2" y="28" x="14" fill="#583c28"/>
  <rect id="rect8105" ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-30" fill="#785439"/>
@@ -950,6 +950,6 @@
  <rect id="rect8965" transform="scale(1,-1)" ry="0" height="2" width="2" y="-18" x="4" fill="#956b49"/>
  <rect id="rect8967" ry="0" height="2" width="2" y="14" x="2" fill="#956b49"/>
  <rect id="rect8969" ry="0" transform="scale(-1,1)" height="2" width="2" y="16" x="-4" fill="#b8845b"/>
- <path id="rect4255" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <path id="rect4255" opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
  <path id="rect9169" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
 </svg>

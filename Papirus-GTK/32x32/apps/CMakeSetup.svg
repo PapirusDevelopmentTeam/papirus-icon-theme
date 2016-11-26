@@ -116,16 +116,16 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="path4566" d="m23.15 21.482a7.0284 7.685 0 0 1 -7.0284 7.685 7.0284 7.685 0 0 1 -7.0284 -7.685 7.0284 7.685 0 0 1 7.0284 -7.685 7.0284 7.685 0 0 1 7.0284 7.685z" fill="#fff"/>
+ <path id="path4566" fill="#fff" d="m23.15 21.482a7.0284 7.685 0 0 1 -7.0284 7.685 7.0284 7.685 0 0 1 -7.0284 -7.685 7.0284 7.685 0 0 1 7.0284 -7.685 7.0284 7.685 0 0 1 7.0284 7.685z"/>
  <g id="g4547" transform="matrix(.75610 0 0 .74359 -2.0244 -1.7179)">
-  <path id="path4527" d="m4 43 20-38 2.5 19z" fill="#4a86d8"/>
-  <path id="path4543" d="m24 5 21 38-17.2-6.7z" fill="#dd3c3d"/>
-  <path id="path4545" d="m45 43h-41l13-11z" fill="#339c33"/>
+  <path id="path4527" fill="#4a86d8" d="m4 43 20-38 2.5 19z"/>
+  <path id="path4543" fill="#dd3c3d" d="m24 5 21 38-17.2-6.7z"/>
+  <path id="path4545" fill="#339c33" d="m45 43h-41l13-11z"/>
  </g>
  <g id="g4552" opacity=".2" transform="matrix(.75610 0 0 .74359 -2.0244 -1.7179)">
-  <path id="path4554" d="m-25 5-20 38h0.52539l19.475-37 20.447 37h0.553l-21-38zm-6.1738 27.326-0.80859 0.68164 10.775 4.2324-0.12695-1.0508-9.8398-3.8633z" transform="translate(49)" fill="#fff"/>
+  <path id="path4554" transform="translate(49)" fill="#fff" d="m-25 5-20 38h0.52539l19.475-37 20.447 37h0.553l-21-38zm-6.1738 27.326-0.80859 0.68164 10.775 4.2324-0.12695-1.0508-9.8398-3.8633z"/>
  </g>
  <g id="g4464" transform="matrix(.7561 0 0 .74359 -2.0244 -1.7174)">
-  <path id="path4466" opacity=".2" transform="matrix(1.3226,0,0,1.3448,2.6774,3.6552)" d="m17.879 14.982-7.037 5.844 0.822 0.319 6.215-5.163 0.982 7.94 0.129 0.051-1.111-8.991zm-16.344 14.018l-0.5352 1h31l-0.562-1h-29.903z"/>
+  <path id="path4466" opacity=".2" d="m17.879 14.982-7.037 5.844 0.822 0.319 6.215-5.163 0.982 7.94 0.129 0.051-1.111-8.991zm-16.344 14.018l-0.5352 1h31l-0.562-1h-29.903z" transform="matrix(1.3226,0,0,1.3448,2.6774,3.6552)"/>
  </g>
 </svg>

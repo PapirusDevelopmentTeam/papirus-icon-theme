@@ -116,17 +116,17 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="path3238" opacity=".1" d="m5 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
- <path id="rect4203" d="m23 3v20h20v-18c0-1.108-0.892-2-2-2h-18z" fill="#595959"/>
- <path id="rect4035" d="m5 43c-1.108 0-2-0.892-2-2v-18h20v20h-18z" fill="#8c8c8c"/>
- <path id="path4048" d="m3 23v-18c0-1.108 0.892-2 2-2h18v20h-20z" fill="#a6a6a6"/>
- <path id="path4108" d="m41 43c1.108 0 2-0.892 2-2v-18h-20v20h18z" fill="#666"/>
+ <path id="path3238" opacity=".1" fill="#fff" d="m5 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4203" fill="#595959" d="m23 3v20h20v-18c0-1.108-0.892-2-2-2h-18z"/>
+ <path id="rect4035" fill="#8c8c8c" d="m5 43c-1.108 0-2-0.892-2-2v-18h20v20h-18z"/>
+ <path id="path4048" fill="#a6a6a6" d="m3 23v-18c0-1.108 0.892-2 2-2h18v20h-20z"/>
+ <path id="path4108" fill="#666" d="m41 43c1.108 0 2-0.892 2-2v-18h-20v20h18z"/>
  <path id="path4455" opacity=".2" d="m3 41v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <circle id="path4058" cx="33" cy="33" r="12" fill="#009587"/>
- <path id="path4613" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#ebebeb" d="m10 28.586-1.4141 1.4141 0.70703 0.70703 2.293 2.293-2.293 2.293-0.70703 0.70703 1.4141 1.4141 0.70703-0.70703 2.293-2.293 2.293 2.293 0.70703 0.70703 1.4141-1.4141-0.70703-0.70703-2.293-2.293 2.293-2.293 0.70703-0.70703-1.4141-1.4141-0.70703 0.70703-2.293 2.293-2.293-2.293-0.70703-0.70703z" fill-rule="evenodd"/>
- <path id="path4086" style="enable-background:new" d="m29 30v2h8v-2zm0 4v2h8v-2z" fill="#fff"/>
- <path id="path4461" style="enable-background:new" d="m29 12v2h8v-2z" fill="#ebebeb"/>
- <path id="path4622" style="enable-background:new" d="m14 9v3h3v2h-3v3h-2v-3h-3v-2h3v-3z" fill="#ebebeb"/>
+ <circle id="path4058" cy="33" cx="33" r="12" fill="#009587"/>
+ <path id="path4613" d="m10 28.586-1.4141 1.4141 0.70703 0.70703 2.293 2.293-2.293 2.293-0.70703 0.70703 1.4141 1.4141 0.70703-0.70703 2.293-2.293 2.293 2.293 0.70703 0.70703 1.4141-1.4141-0.70703-0.70703-2.293-2.293 2.293-2.293 0.70703-0.70703-1.4141-1.4141-0.70703 0.70703-2.293 2.293-2.293-2.293-0.70703-0.70703z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" fill="#ebebeb"/>
+ <path id="path4086" style="enable-background:new" fill="#fff" d="m29 30v2h8v-2zm0 4v2h8v-2z"/>
+ <path id="path4461" style="enable-background:new" fill="#ebebeb" d="m29 12v2h8v-2z"/>
+ <path id="path4622" style="enable-background:new" fill="#ebebeb" d="m14 9v3h3v2h-3v3h-2v-3h-3v-2h3v-3z"/>
  <path id="circle4450" opacity=".2" d="m44.98 33.406a12 12 0 0 1 -11.98 11.594 12 12 0 0 1 -11.98 -11.406 12 12 0 0 0 -0.02 0.406 12 12 0 0 0 12 12 12 12 0 0 0 12 -12 12 12 0 0 0 -0.02 -0.594z"/>
- <path id="path4468" opacity=".1" d="m3 6v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z" fill="#fff"/>
+ <path id="path4468" opacity=".1" fill="#fff" d="m3 6v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z"/>
 </svg>

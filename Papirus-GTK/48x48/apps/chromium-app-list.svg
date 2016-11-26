@@ -3,7 +3,7 @@
  <defs id="defs223">
   <clipPath id="clipPath-211175218">
    <g id="g4366" transform="translate(0 -1004.4)">
-    <path id="path4368" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0"/>
+    <path id="path4368" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z"/>
    </g>
   </clipPath>
  </defs>
@@ -124,7 +124,7 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203-9" ry="19.982" rx="19.982" transform="matrix(0,-1,-1,0,0,0)" height="39.964" width="39.964" y="-43.982" x="-43.982" fill="#69a2f5"/>
- <path id="rect4063" opacity=".2" d="m24 4.0182c-11.07 0-19.982 8.9119-19.982 19.982 0 0.16757-0.004 0.33299 0 0.49955 0.2644-10.837 9.08-19.483 19.982-19.483s19.718 8.6458 19.982 19.482c0.004-0.16656 0-0.33198 0-0.49955 0-11.069-8.912-19.981-19.982-19.981z" fill="#fff"/>
+ <path id="rect4063" opacity=".2" fill="#fff" d="m24 4.0182c-11.07 0-19.982 8.9119-19.982 19.982 0 0.16757-0.004 0.33299 0 0.49955 0.2644-10.837 9.08-19.483 19.982-19.483s19.718 8.6458 19.982 19.482c0.004-0.16656 0-0.33198 0-0.49955 0-11.069-8.912-19.981-19.982-19.981z"/>
  <path id="rect3289" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
  <g id="g4521" opacity=".2" transform="translate(0,1)">
   <g id="g4523" clip-path="url(#clipPath-211175218)"><!-- color: #f9f9f9 -->
@@ -142,7 +142,7 @@
   </g>
  </g>
  <g id="g4410" fill="#fff">
-  <g id="g4412" fill="#fff" clip-path="url(#clipPath-211175218)"><!-- color: #f9f9f9 -->
+  <g id="g4412" clip-path="url(#clipPath-211175218)" fill="#fff"><!-- color: #f9f9f9 -->
    <g id="g4414" fill="#fff">
     <path id="path4416" d="m12 13h6v6h-6m0-6"/>
     <path id="path4418" d="m21 13h6v6h-6m0-6"/>

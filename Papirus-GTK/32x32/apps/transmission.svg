@@ -116,10 +116,10 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="rect4255" fill="#c2352a" d="m28 28.5v-25c0-0.831-0.669-1.5-1.5-1.5h-21c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h21c0.831 0 1.5-0.669 1.5-1.5z"/>
- <path id="rect4632" opacity=".1" fill="#fff" d="m5.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h21c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z"/>
+ <path id="rect4255" d="m28 28.5v-25c0-0.831-0.669-1.5-1.5-1.5h-21c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h21c0.831 0 1.5-0.669 1.5-1.5z" fill="#c2352a"/>
+ <path id="rect4632" opacity=".1" d="m5.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h21c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z" fill="#fff"/>
  <path id="path4432" opacity=".2" d="m4 28.5v1c0 0.831 0.669 1.5 1.5 1.5h21c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-21c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path id="rect4434" fill="#ebebeb" d="m8 5h16c0.554 0 1 0.446 1 1v19c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-19c0-0.554 0.446-1 1-1z"/>
+ <path id="rect4434" d="m8 5h16c0.554 0 1 0.446 1 1v19c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-19c0-0.554 0.446-1 1-1z" fill="#ebebeb"/>
  <path id="path4436" opacity=".1" d="m7 25v1c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1z"/>
- <path id="path4439" fill-rule="evenodd" fill="#3f3f3f" d="m16 23-4-5h2v-5h-2l4-5 4 5h-2v5h2z"/>
+ <path id="path4439" d="m16 23-4-5h2v-5h-2l4-5 4 5h-2v5h2z" fill="#3f3f3f" fill-rule="evenodd"/>
 </svg>

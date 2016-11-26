@@ -5,8 +5,8 @@
    <stop id="stop4416" offset="0"/>
    <stop id="stop4418" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4420" y2="34.144" xlink:href="#linearGradient4414" gradientUnits="userSpaceOnUse" x2="23.968" gradientTransform="matrix(.7 0 0 .5 -.8 3)" y1="32.02" x1="23.968"/>
-  <linearGradient id="linearGradient4387" y2="12.055" xlink:href="#linearGradient4414" gradientUnits="userSpaceOnUse" x2="16.062" y1="16.945" x1="16.034"/>
+  <linearGradient id="linearGradient4420" x1="23.968" xlink:href="#linearGradient4414" gradientUnits="userSpaceOnUse" y1="32.02" gradientTransform="matrix(.7 0 0 .5 -.8 3)" x2="23.968" y2="34.144"/>
+  <linearGradient id="linearGradient4387" x1="16.034" xlink:href="#linearGradient4414" gradientUnits="userSpaceOnUse" x2="16.062" y1="16.945" y2="12.055"/>
  </defs>
  <metadata id="metadata57">
   <rdf:RDF>
@@ -125,11 +125,11 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4255" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#4e91d9"/>
- <path id="rect4632" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <path id="rect4632" opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
  <path id="rect4379" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path id="rect4363" d="m16 12 5 5-5.0364 0.95877l-4.964-0.959z" fill="#fff"/>
+ <path id="rect4363" fill="#fff" d="m16 12 5 5-5.0364 0.95877l-4.964-0.959z"/>
  <path id="path4354" opacity=".2" d="m6 13 10 5 10-5-3 8h-14z"/>
- <path id="path4379" opacity=".15" d="m16 12 5 5-5.0364 0.95877l-4.964-0.959z" fill="url(#linearGradient4387)"/>
- <path id="rect4351" d="m6 12 10 5 10-5-3 8h-14z" fill="#fff"/>
- <path id="path4412" opacity=".15" d="m16 19 7 1h-14z" fill="url(#linearGradient4420)"/>
+ <path id="path4379" opacity=".15" fill="url(#linearGradient4387)" d="m16 12 5 5-5.0364 0.95877l-4.964-0.959z"/>
+ <path id="rect4351" fill="#fff" d="m6 12 10 5 10-5-3 8h-14z"/>
+ <path id="path4412" opacity=".15" fill="url(#linearGradient4420)" d="m16 19 7 1h-14z"/>
 </svg>

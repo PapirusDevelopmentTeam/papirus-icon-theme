@@ -123,15 +123,15 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <g id="g4393" transform="matrix(1.25,0,0,1.5,4,0)">
   <g id="g4353">
-   <path id="polygon4355" d="m16 6-7.2 9.333-8.8-9.333 1.6 20h28.8l1.6-20-8.8 9.333z" fill="#fec006"/>
+   <path id="polygon4355" fill="#fec006" d="m16 6-7.2 9.333-8.8-9.333 1.6 20h28.8l1.6-20-8.8 9.333z"/>
   </g>
  </g>
  <rect id="rect4859" transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="3.6056" width="3.6056" y="49.877" x="15.023" fill="#e82d2d"/>
  <rect id="rect4861" transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="3.6056" width="3.6056" y="24.638" x="-10.216" fill="#e82d2d"/>
  <rect id="rect4863" transform="matrix(.6 -.8 .6 .8 0 0)" height="5" width="5" y="35.625" x="-.6249" fill="#e82d2d"/>
- <g id="g4441" transform="matrix(1.25,0,0,1.5,4,0)" fill="#fff">
+ <g id="g4441" fill="#fff" transform="matrix(1.25,0,0,1.5,4,0)">
   <g id="g4443" fill="#fff">
-   <path id="path4445" opacity=".2" d="m4 9 0.0723 1.092 10.928 13.908 9-14 9 14 10.928-13.908 0.072-1.092-11 14-9-14-9 14-11-14z" transform="matrix(.8 0 0 .66667 -3.2 0)" fill="#fff"/>
+   <path id="path4445" opacity=".2" transform="matrix(.8 0 0 .66667 -3.2 0)" fill="#fff" d="m4 9 0.0723 1.092 10.928 13.908 9-14 9 14 10.928-13.908 0.072-1.092-11 14-9-14-9 14-11-14z"/>
   </g>
  </g>
 </svg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 24 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata85">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,14 +9,14 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="path4590" d="m13 5-7 7" stroke="#cbbb2e" stroke-width="4" fill="none"/>
+ <path id="path4590" stroke="#cbbb2e" stroke-width="4" fill="none" d="m13 5-7 7"/>
  <rect id="rect4592" transform="scale(-1,1)" ry="0" height="8.5" width="6" y="12" x="-9" fill="#cbbb2e"/>
  <rect id="rect4594" opacity=".2" style="enable-background:new" transform="scale(-1,1)" ry="4" height="8" width="8" y="9" x="-10"/>
  <rect id="rect4596" transform="scale(-1,1)" ry="1" height="2" width="8" y="19" x="-10" fill="#d6c84a"/>
- <path id="path4600" style="enable-background:new" d="m10 20c1 0 1 1 1 1v1h-10v-1c0-1 1-1 1-1z" fill="#3f3f3f"/>
+ <path id="path4600" style="enable-background:new" fill="#3f3f3f" d="m10 20c1 0 1 1 1 1v1h-10v-1c0-1 1-1 1-1z"/>
  <rect id="rect4602" style="enable-background:new" transform="scale(-1,1)" ry="4" height="8" width="8" y="8" x="-10" fill="#d6c84a"/>
  <rect id="rect4604" style="enable-background:new" transform="scale(-1,1)" ry="3" height="6" width="6" y="9" x="-9" fill="#3f3f3f"/>
- <path id="path4606" d="m13 5 4.5 4.5" stroke="#cbbb2e" stroke-width="2.5" fill="none"/>
+ <path id="path4606" stroke="#cbbb2e" stroke-width="2.5" fill="none" d="m13 5 4.5 4.5"/>
  <rect id="rect4608" opacity=".2" style="enable-background:new" transform="scale(-1,1)" ry="3" height="6" width="6" y="3" x="-16"/>
  <rect id="rect4610" style="enable-background:new" transform="scale(-1,1)" ry="3" height="6" width="6" y="2" x="-16" fill="#d6c84a"/>
  <path id="path4612" stroke-linejoin="round" d="m18.5 13.497-2-0.00021v-3.0001l2-2h3v2" stroke="#3f3f3f" stroke-linecap="round" fill="none"/>

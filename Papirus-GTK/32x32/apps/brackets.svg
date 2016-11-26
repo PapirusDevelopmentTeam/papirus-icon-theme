@@ -120,8 +120,8 @@
  <rect id="rect4350" opacity=".2" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="22" width="22" y="-27" x="-28"/>
  <rect id="rect4651" opacity=".02" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="22" width="22" stroke="#000" y="-27" x="-28" stroke-width="2"/>
  <rect id="rect4629" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="22" width="22" y="-27" x="-27" fill="#fff"/>
- <path id="rect4640" opacity=".2" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <path id="rect4640" opacity=".2" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
  <path id="rect4645" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path id="rect4464" d="m7 7v18h8v-4h-4v-10h4v-4h-4z" fill="#424242"/>
- <path id="path4586" d="m25 7v18h-8v-4h4v-10h-4v-4h4z" fill="#424242"/>
+ <path id="rect4464" fill="#424242" d="m7 7v18h8v-4h-4v-10h4v-4h-4z"/>
+ <path id="path4586" fill="#424242" d="m25 7v18h-8v-4h4v-10h-4v-4h4z"/>
 </svg>

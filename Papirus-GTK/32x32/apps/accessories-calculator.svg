@@ -116,16 +116,16 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="path4457" d="m30 16v12.5c0 0.831-0.669 1.5-1.5 1.5h-12.5v-14h14z" fill="#666"/>
- <path id="path4459" d="m28.5 2c0.831 0 1.5 0.669 1.5 1.5v12.5h-14v-14h12.5z" fill="#595959"/>
- <path id="rect4441" d="m2 16v12.5c0 0.831 0.669 1.5 1.5 1.5h12.5v-14h-14z" fill="#8c8c8c"/>
+ <path id="path4457" fill="#666" d="m30 16v12.5c0 0.831-0.669 1.5-1.5 1.5h-12.5v-14h14z"/>
+ <path id="path4459" fill="#595959" d="m28.5 2c0.831 0 1.5 0.669 1.5 1.5v12.5h-14v-14h12.5z"/>
+ <path id="rect4441" fill="#8c8c8c" d="m2 16v12.5c0 0.831 0.669 1.5 1.5 1.5h12.5v-14h-14z"/>
  <path id="path4482" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path id="path4449" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v12.5h14v-14h-12.5z" fill="#a6a6a6"/>
- <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cy="23" cx="23" r="8" fill="#07ce8e"/>
- <path id="path4478" style="enable-background:new" d="m9 6v3h-3v1h3v3h1v-3h3v-1h-3v-3z" fill="#ebebeb"/>
- <path id="path4506" style="enable-background:new" d="m20 9v1h6v-1z" fill="#ebebeb"/>
- <path id="path4498" opacity=".2" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
- <path id="path4512" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#ebebeb" d="m6.3535 19.646-0.707 0.708 2.6465 2.646-2.6465 2.646 0.707 0.708 2.6465-2.647 2.646 2.647 0.708-0.708-2.647-2.646 2.647-2.646-0.708-0.708-2.646 2.647-2.6465-2.647z" fill-rule="evenodd"/>
- <path id="path4521" style="enable-background:new" d="m20 21v1h6v-1zm0 3v1h6v-1z" fill="#ebebeb"/>
+ <path id="path4449" fill="#a6a6a6" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v12.5h14v-14h-12.5z"/>
+ <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cx="23" cy="23" r="8" fill="#07ce8e"/>
+ <path id="path4478" style="enable-background:new" fill="#ebebeb" d="m9 6v3h-3v1h3v3h1v-3h3v-1h-3v-3z"/>
+ <path id="path4506" style="enable-background:new" fill="#ebebeb" d="m20 9v1h6v-1z"/>
+ <path id="path4498" opacity=".2" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path id="path4512" d="m6.3535 19.646-0.707 0.708 2.6465 2.646-2.6465 2.646 0.707 0.708 2.6465-2.647 2.646 2.647 0.708-0.708-2.647-2.646 2.647-2.646-0.708-0.708-2.646 2.647-2.6465-2.647z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" fill="#ebebeb"/>
+ <path id="path4521" style="enable-background:new" fill="#ebebeb" d="m20 21v1h6v-1zm0 3v1h6v-1z"/>
  <path id="circle4354" opacity=".2" style="enable-background:new" d="m30.979 23.424a8 8 0 0 1 -7.979 7.576 8 8 0 0 1 -7.979 -7.424 8 8 0 0 0 -0.021 0.424 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -0.02148 -0.57617z"/>
 </svg>

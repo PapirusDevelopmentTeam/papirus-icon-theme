@@ -117,7 +117,7 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" d="m-42-40h32c1.108 0 2 0.892 2 2v28c0 1.108-0.892 2-2 2h-32c-1.108 0-2-0.892-2-2v-28c0-1.108 0.892-2 2-2z" transform="matrix(0,-1,-1,0,0,0)" fill="#ccc"/>
+ <path id="rect4203" transform="matrix(0,-1,-1,0,0,0)" fill="#ccc" d="m-42-40h32c1.108 0 2 0.892 2 2v28c0 1.108-0.892 2-2 2h-32c-1.108 0-2-0.892-2-2v-28c0-1.108 0.892-2 2-2z"/>
  <rect id="rect4444" height="4" width="20" y="4" x="14" fill="#ccc"/>
  <rect id="rect4349" opacity=".2" height="8" width="26" y="32" x="11" fill="#fff"/>
  <rect id="rect4446" height="8" width="26" y="31" x="11" fill="#d23a2e"/>
@@ -125,6 +125,6 @@
  <rect id="rect4448" height="8" width="26" y="21" x="11" fill="#5d5d5d"/>
  <rect id="rect4353" opacity=".2" height="8" width="26" y="12" x="11" fill="#fff"/>
  <rect id="rect4450" height="8" width="26" y="11" x="11" fill="#5d5d5d"/>
- <path id="rect4452" opacity=".2" d="m14 4v1h20v-1h-20z" fill="#fff"/>
- <path id="path4457" opacity=".1" d="m10 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff"/>
+ <path id="rect4452" opacity=".2" fill="#fff" d="m14 4v1h20v-1h-20z"/>
+ <path id="path4457" opacity=".1" fill="#fff" d="m10 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z"/>
 </svg>

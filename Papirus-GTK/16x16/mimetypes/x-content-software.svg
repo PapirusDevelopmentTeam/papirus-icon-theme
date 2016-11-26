@@ -1,44 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 16 16"
-   version="1.1"
-   width="16px"
-   height="16px"
-   id="svg2">
-  <defs
-     id="defs10" />
-  <metadata
-     id="metadata23">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="m5 3-1 1v1h-4v9.25c0 0.414 0.33594 0.75 0.75 0.75h12.5c0.414 0 0.75-0.336 0.75-0.75v-9.25h-4v-1l-1-1zm0 1h4v1h-4z"
-     fill="#e6e6e6"
-     id="path5" />
-  <path
-     d="m5 3-1 1v0.5l1-1h4l1 1v-0.5l-1-1zm-5 2v0.5h4v-0.5zm5 0v0.5h4v-0.5zm5 0v0.5h4v-0.5z"
-     fill="#fff"
-     fill-opacity=".10196"
-     id="path15" />
-  <path
-     d="m15 12c0 2.208-1.792 4-4 4-2.2083 0-4-1.792-4-4 0-2.2083 1.7917-4 4-4 2.208 0 4 1.7917 4 4z"
-     fill="#4ab3e3"
-     fill-rule="evenodd"
-     id="path11" />
-  <path
-     d="m12 9v2.0111l1-0.02212-2 2.5111-2-2.5105h1v-1.9895zm-3 4.5h4v0.5h-4z"
-     fill="#fff"
-     id="path13" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 16 16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata23">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path5" d="m5 3-1 1v1h-4v9.25c0 0.414 0.33594 0.75 0.75 0.75h12.5c0.414 0 0.75-0.336 0.75-0.75v-9.25h-4v-1l-1-1zm0 1h4v1h-4z" fill="#e6e6e6"/>
+ <path id="path15" fill-opacity=".10196" d="m5 3-1 1v0.5l1-1h4l1 1v-0.5l-1-1zm-5 2v0.5h4v-0.5zm5 0v0.5h4v-0.5zm5 0v0.5h4v-0.5z" fill="#fff"/>
+ <path id="path11" fill-rule="evenodd" d="m15 12c0 2.208-1.792 4-4 4-2.2083 0-4-1.792-4-4 0-2.2083 1.7917-4 4-4 2.208 0 4 1.7917 4 4z" fill="#4ab3e3"/>
+ <path id="path13" d="m12 9v2.0111l1-0.02212-2 2.5111-2-2.5105h1v-1.9895zm-3 4.5h4v0.5h-4z" fill="#fff"/>
 </svg>

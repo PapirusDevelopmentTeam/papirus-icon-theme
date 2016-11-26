@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" version="1.1" preserveAspectRatio="xMidYMid" xmlns:cc="http://creativecommons.org/ns#" height="24" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="24" version="1.1" preserveAspectRatio="xMidYMid" xmlns:cc="http://creativecommons.org/ns#" height="24" viewBox="0 0 24 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata33">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,10 +9,10 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="path13" fill="#ccc" d="m20.75 20h-17.5c-0.67857 0-1.25-0.54835-1.25-1.2382v-12.524c0-0.67217 0.55357-1.2382 1.25-1.2382h17.5c0.67857 0 1.25 0.54835 1.25 1.2382v12.524c0 0.68986-0.55357 1.2382-1.25 1.2382z"/>
- <path id="path17" fill="#4f8cf6" d="m3.244 5.4922c-0.6083 0-1.1067 0.095277-1.2197 0.58203-0.0157 0.0679-0.0243 0.1436-0.0243 0.2276v12.468c0 0.685 0.5509 1.23 1.244 1.23h1.756v-12.899c0-0.0832-0.0089-0.1594-0.0253-0.2272-0.113-0.4867-1.1224-1.3816-1.7307-1.3816z"/>
- <path id="path21" fill="#4f8cf6" d="m20.725 5.4746c-0.696 0-1.725 0.6876-1.725 1.3734v13.134 0.018h1.725c0.695 0 1.275-0.545 1.275-1.23v-12.522c0-0.6858-0.58-0.7734-1.275-0.7734z"/>
- <path id="path4161" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m20.781 5.0059a1.5002 1.5002 0 0 0 -0.703 0.3105l-8.078 6.2836-8.0781-6.2836a1.5002 1.5002 0 0 0 -0.7657 -0.3066c-0.6508 0.0489-1.1562 0.5873-1.1562 1.2285v1.3789a1.5002 1.5002 0 0 0 0.078125 0.066406l9 7a1.5002 1.5002 0 0 0 1.8438 0l9-7a1.5002 1.5002 0 0 0 0.078 -0.0649v-1.3808c0-0.6787-0.555-1.2151-1.219-1.2324z" fill-rule="evenodd" fill="#4f8cf6"/>
+ <path id="path13" d="m20.75 20h-17.5c-0.67857 0-1.25-0.54835-1.25-1.2382v-12.524c0-0.67217 0.55357-1.2382 1.25-1.2382h17.5c0.67857 0 1.25 0.54835 1.25 1.2382v12.524c0 0.68986-0.55357 1.2382-1.25 1.2382z" fill="#ccc"/>
+ <path id="path17" d="m3.244 5.4922c-0.6083 0-1.1067 0.095277-1.2197 0.58203-0.0157 0.0679-0.0243 0.1436-0.0243 0.2276v12.468c0 0.685 0.5509 1.23 1.244 1.23h1.756v-12.899c0-0.0832-0.0089-0.1594-0.0253-0.2272-0.113-0.4867-1.1224-1.3816-1.7307-1.3816z" fill="#4f8cf6"/>
+ <path id="path21" d="m20.725 5.4746c-0.696 0-1.725 0.6876-1.725 1.3734v13.152h1.725c0.695 0 1.275-0.545 1.275-1.23v-12.522c0-0.6858-0.58-0.7734-1.275-0.7734z" fill="#4f8cf6"/>
+ <path id="path4161" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" fill="#4f8cf6" d="m20.781 5.0059a1.5002 1.5002 0 0 0 -0.703 0.3105l-8.078 6.2836-8.0781-6.2836a1.5002 1.5002 0 0 0 -0.7657 -0.3066c-0.6508 0.0489-1.1562 0.5873-1.1562 1.2285v1.3789a1.5002 1.5002 0 0 0 0.078125 0.066406l9 7a1.5002 1.5002 0 0 0 1.8438 0l9-7a1.5002 1.5002 0 0 0 0.078 -0.0649v-1.3808c0-0.6787-0.555-1.2151-1.219-1.2324z"/>
  <path id="path4175" opacity=".2" d="m2 18.762v0.5c0 0.69 0.5714 1.238 1.25 1.238h17.5c0.69643 0 1.25-0.54842 1.25-1.2383v-0.5c0 0.69-0.554 1.238-1.25 1.238h-17.5c-0.6786 0-1.25-0.548-1.25-1.238z"/>
- <path id="path4180" opacity=".1" d="m3.25 5c-0.6964 0-1.25 0.5661-1.25 1.2383v0.5c0-0.6722 0.5536-1.2383 1.25-1.2383h17.5c0.67857 0 1.25 0.54842 1.25 1.2383v-0.5c0-0.6899-0.571-1.2383-1.25-1.2383h-17.5z" fill="#fff"/>
+ <path id="path4180" opacity=".1" fill="#fff" d="m3.25 5c-0.6964 0-1.25 0.5661-1.25 1.2383v0.5c0-0.6722 0.5536-1.2383 1.25-1.2383h17.5c0.67857 0 1.25 0.54842 1.25 1.2383v-0.5c0-0.6899-0.571-1.2383-1.25-1.2383h-17.5z"/>
 </svg>

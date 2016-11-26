@@ -116,13 +116,13 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="path4197" style="enable-background:new" d="m4 14v20h9.0912l10.909 10v-40l-10.909 10z" fill="#ccc"/>
+ <path id="path4197" style="enable-background:new" fill="#ccc" d="m4 14v20h9.0912l10.909 10v-40l-10.909 10z"/>
  <path id="path4398" opacity=".2" style="enable-background:new" d="m4 34v1h9.0918l10.908 10v-1l-10.908-10z"/>
- <path id="path4405" opacity=".2" style="enable-background:new" d="m24 4-10.908 10h-9.092v1h9.092l10.908-10z" fill="#fff"/>
+ <path id="path4405" opacity=".2" style="enable-background:new" fill="#fff" d="m24 4-10.908 10h-9.092v1h9.092l10.908-10z"/>
  <circle id="path4058" style="enable-background:new" cx="28" cy="36" r="10" fill="#db3c30"/>
  <path id="circle4461-3" opacity=".2" style="enable-background:new" d="m37.979 36.414a10 10 0 0 1 -9.979 9.586 10 10 0 0 1 -9.979 -9.414 10 10 0 0 0 -0.021 0.414 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -0.021 -0.586z"/>
- <g id="g4377" fill="#fff" transform="matrix(.70711 -.70711 .70711 .70711 -21.497 34.846)">
-  <rect id="rect4396" height="2" width="12" y="35" x="28"/>
+ <g id="g4377" transform="matrix(.70711 -.70711 .70711 .70711 -21.497 34.846)" fill="#fff">
+  <rect id="rect4396" y="35" width="12" x="28" height="2"/>
   <rect id="rect4375" transform="rotate(-90)" height="2" width="12" y="33" x="-42"/>
  </g>
 </svg>

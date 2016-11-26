@@ -124,9 +124,9 @@
   </g>
   <path id="path4370" d="m18 19v16h12v-4h-8v-3h8v-2h-8v-3h8v-4h-12z"/>
  </g>
- <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <g id="g4833" fill="#fff" transform="translate(0,1)">
+ <g id="g4833" transform="translate(0,1)" fill="#fff">
   <g id="g4577">
    <path id="rect4465" d="m5 15v4h4v12h4v-12h4v-4h-12z"/>
    <path id="rect4487" d="m35 15h-4l3.5816 7.9277-3.582 8.072h4l2-4 2 4h4l-3.582-8.072 3.582-7.928h-4l-2 4z"/>

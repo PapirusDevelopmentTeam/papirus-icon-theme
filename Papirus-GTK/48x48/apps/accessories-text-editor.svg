@@ -116,10 +116,10 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#ccc" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z"/>
- <path id="rect4199" opacity=".2" fill="#fff" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+ <path id="rect4203" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z" fill="#ccc"/>
+ <path id="rect4199" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
  <path id="path4447" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
- <circle id="circle4347" opacity=".2" style="enable-background:new" cy="37" cx="36" r="11"/>
+ <circle id="circle4347" opacity=".2" style="enable-background:new" cx="36" cy="37" r="11"/>
  <circle id="path4058-7" style="enable-background:new" cx="36" cy="36" r="11" fill="#f34235"/>
- <path id="path4-0" style="enable-background:new" fill="#fff" d="m30 39.327v2.673h2.6728l6.7507-6.7507-2.6728-2.6728zm11.788-6.4337c0.28271-0.28271 0.28271-0.72818 0-1.0109l-1.6705-1.6705c-0.28271-0.28271-0.72818-0.28271-1.0109 0l-1.3964 1.405 2.6728 2.6728z"/>
+ <path id="path4-0" d="m30 39.327v2.673h2.6728l6.7507-6.7507-2.6728-2.6728zm11.788-6.4337c0.28271-0.28271 0.28271-0.72818 0-1.0109l-1.6705-1.6705c-0.28271-0.28271-0.72818-0.28271-1.0109 0l-1.3964 1.405 2.6728 2.6728z" style="enable-background:new" fill="#fff"/>
 </svg>

@@ -11,14 +11,14 @@
  </metadata>
  <defs id="defs2819">
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle id="path4188" style="color:#000000" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+   <circle id="path4188" style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
  <g id="g4181" transform="translate(1,1)">
   <circle id="path4230" style="color:#000000" cx="11" cy="11" r="10" fill="#e74c3c"/>
-  <circle id="path4240" opacity="0" style="color:#000000" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="translate(-275,-15)" cy="26" cx="286" r="10"/>
-  <circle id="path4242" opacity="0" style="color:#000000" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="translate(-275,-15)" cy="26" cx="286" r="10"/>
-  <path id="rect3436" opacity=".2" fill="#fff" d="m11 1c-5.5395 0-9.999 4.46-9.999 10 0 0.08386-0.002 0.16664 0 0.25 0.1321-5.423 4.5435-9.75 9.999-9.75s9.867 4.3268 9.999 9.75c0.002-0.08335 0-0.16614 0-0.25 0-5.54-4.459-10-9.999-10z"/>
+  <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="translate(-275,-15)" cy="26" cx="286" stroke-width=".45455"/>
+  <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="translate(-275,-15)" cy="26" cx="286" stroke-width=".90909"/>
+  <path id="rect3436" opacity=".2" d="m11 1c-5.5395 0-9.999 4.46-9.999 10 0 0.08386-0.002 0.16664 0 0.25 0.1321-5.423 4.5435-9.75 9.999-9.75s9.867 4.3268 9.999 9.75c0.002-0.08335 0-0.16614 0-0.25 0-5.54-4.459-10-9.999-10z" fill="#fff"/>
   <g id="g4227" opacity=".2" style="enable-background:new" fill-rule="evenodd" transform="matrix(.23974 0 0 .23974 30.106 -1.4597)" clip-rule="evenodd">
    <path id="path4229" d="m-86.682 70.021s-2.2303 1.2982 1.5891 1.7362c4.6278 0.52836 6.9927 0.45227 12.091-0.51144 0 0 1.3431 0.84021 3.2156 1.5679-11.433 4.8982-25.875-0.28382-16.896-2.7927z"/>
    <path id="path4231" d="m-88.08 63.628s-2.5019 1.8524 1.3204 2.2474c4.944 0.5104 8.8468 0.55226 15.604-0.74823 0 0 0.93244 0.94717 2.4009 1.4648-13.821 4.0426-29.214 0.31805-19.326-2.964z"/>

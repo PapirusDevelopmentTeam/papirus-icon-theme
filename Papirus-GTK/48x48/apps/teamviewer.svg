@@ -117,12 +117,12 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#4e91d9"/>
- <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
  <g id="g4461" opacity=".2" transform="matrix(.50922 0 0 .55034 -.096321 -1.4164)">
-  <path id="path4463" style="color:#000000" transform="translate(60.715,26.654)" d="m-25.177 10.443-17.674 10.902 17.674 10.902v-5.4512h23.566v5.4512l17.674-10.902-17.674-10.902v5.4512h-23.566z"/>
+  <path id="path4463" d="m-25.177 10.443-17.674 10.902 17.674 10.902v-5.4512h23.566v5.4512l17.674-10.902-17.674-10.902v5.4512h-23.566z" style="color:#000000" transform="translate(60.715,26.654)"/>
  </g>
- <g id="g4215" fill="#fff" transform="matrix(.50922 0 0 .55034 -.096321 -2.4164)">
-  <path id="path3061" style="color:#000000" transform="translate(60.715,26.654)" fill="#fff" d="m-25.177 10.443-17.674 10.902 17.674 10.902v-5.4512h23.566v5.4512l17.674-10.902-17.674-10.902v5.4512h-23.566z"/>
+ <g id="g4215" transform="matrix(.50922 0 0 .55034 -.096321 -2.4164)" fill="#fff">
+  <path id="path3061" d="m-25.177 10.443-17.674 10.902 17.674 10.902v-5.4512h23.566v5.4512l17.674-10.902-17.674-10.902v5.4512h-23.566z" style="color:#000000" fill="#fff" transform="translate(60.715,26.654)"/>
  </g>
 </svg>

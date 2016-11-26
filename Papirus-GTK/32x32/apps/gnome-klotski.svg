@@ -116,10 +116,10 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="path4457" d="m16 2h12.5c0.831 0 1.5 0.669 1.5 1.5v12.5h-14z" fill="#f4c165"/>
- <path id="path4465" d="m16 30h-12.5c-0.831 0-1.5-0.669-1.5-1.5v-12.5h14z" fill="#f2ae37"/>
+ <path id="path4457" fill="#f4c165" d="m16 2h12.5c0.831 0 1.5 0.669 1.5 1.5v12.5h-14z"/>
+ <path id="path4465" fill="#f2ae37" d="m16 30h-12.5c-0.831 0-1.5-0.669-1.5-1.5v-12.5h14z"/>
  <rect id="rect4354" rx="1" ry="1" height="8" width="8" y="19" x="19" fill="#6192f5"/>
  <rect id="rect4356" rx="1" ry="1" height="8" width="8" y="5" x="5" fill="#3775f2"/>
- <path id="path4358" opacity=".2" d="m16 2v1h12.5c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-12.5zm-10 3c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-6zm-4 11v1h14v-1h-14zm18 3c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-6z" fill="#fff"/>
+ <path id="path4358" opacity=".2" fill="#fff" d="m16 2v1h12.5c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-12.5zm-10 3c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-6zm-4 11v1h14v-1h-14zm18 3c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-6z"/>
  <path id="path4367" opacity=".2" d="m5 12v1c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1zm11 4v1h14v-1h-14zm3 10v1c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1zm-17 2.5v1c0 0.831 0.669 1.5 1.5 1.5h12.5v-1h-12.5c-0.831 0-1.5-0.669-1.5-1.5z"/>
 </svg>

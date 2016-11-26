@@ -10,9 +10,9 @@
   </rdf:RDF>
  </metadata>
  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="18" width="20" y="-20" x="-21" fill="#c2352a"/>
- <path id="rect4592" opacity=".1" fill="#fff" d="m3 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h16c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+ <path id="rect4592" opacity=".1" d="m3 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h16c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" fill="#fff"/>
  <rect id="rect4406" rx="0" ry=".51613" height="16" width="14" y="3" x="4" fill="#ebebeb"/>
- <path id="path4384" fill-rule="evenodd" fill="#3f3f3f" d="m11 16-3-3h2v-4h-2l3-3 3 3h-2v4h2z"/>
+ <path id="path4384" d="m11 16-3-3h2v-4h-2l3-3 3 3h-2v4h2z" fill="#3f3f3f" fill-rule="evenodd"/>
  <path id="rect4415" opacity=".2" d="m2 20v0.5c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1z"/>
- <path id="path4429" opacity=".2" fill="#fff" d="m4 4v-0.5c0-0.277 0.223-0.5 0.5-0.5h13c0.277 0 0.5 0.223 0.5 0.5v0.5c0-0.277-0.223-0.5-0.5-0.5h-13c-0.277 0-0.5 0.223-0.5 0.5z"/>
+ <path id="path4429" opacity=".2" d="m4 4v-0.5c0-0.277 0.223-0.5 0.5-0.5h13c0.277 0 0.5 0.223 0.5 0.5v0.5c0-0.277-0.223-0.5-0.5-0.5h-13c-0.277 0-0.5 0.223-0.5 0.5z" fill="#fff"/>
 </svg>

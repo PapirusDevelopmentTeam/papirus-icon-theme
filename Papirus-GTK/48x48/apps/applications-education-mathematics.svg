@@ -116,7 +116,7 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z" fill="#636e73"/>
+ <path id="rect4203" fill="#636e73" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z"/>
  <g id="g4981" opacity=".2" transform="matrix(.74077 0 0 .75003 6.5923 5.4991)">
   <g id="g4983" transform="matrix(1.5923,0,0,1.6185,10,11.802)">
    <g id="g4985">
@@ -125,9 +125,9 @@
     </g>
    </g>
   </g>
-  <text id="text4991" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(1.0155 .9847)" line-height="125%" font-size="22.284px" y="34.528126" x="23.975651" font-family="sans-serif" fill="#000000"><tspan id="tspan4993" y="34.528126" x="23.975651" fill="#000000">x</tspan></text>
+  <text id="text4991" style="word-spacing:0px;letter-spacing:0px" transform="scale(1.0155 .9847)" xml:space="preserve" font-size="22.284px" y="34.528126" x="23.975651" font-family="sans-serif" line-height="125%" fill="#000000"><tspan id="tspan4993" y="34.528126" x="23.975651" fill="#000000">x</tspan></text>
  </g>
- <g id="g5135-9" opacity=".8" transform="matrix(.74077 0 0 .75003 6.5923 4.4992)" fill="#ee8a8a">
+ <g id="g5135-9" opacity=".8" fill="#ee8a8a" transform="matrix(.74077 0 0 .75003 6.5923 4.4992)">
   <g id="g5111-4" transform="matrix(1.5923,0,0,1.6185,10,11.802)">
    <g id="g5069-6" fill="#ee8a8a">
     <g id="g5071-5" fill="#ee8a8a">
@@ -135,9 +135,9 @@
     </g>
    </g>
   </g>
-  <text id="text5131-5" font-size="22.284px" xml:space="preserve" transform="scale(1.0155 .9847)" style="word-spacing:0px;letter-spacing:0px" y="34.528126" x="23.975651" font-family="sans-serif" line-height="125%"><tspan id="tspan5133-0" y="34.528126" x="23.975651" fill="#ee8a8a">x</tspan></text>
+  <text id="text5131-5" font-size="22.284px" line-height="125%" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" transform="scale(1.0155 .9847)" y="34.528126" x="23.975651" font-family="sans-serif"><tspan id="tspan5133-0" y="34.528126" x="23.975651" fill="#ee8a8a">x</tspan></text>
  </g>
- <path id="rect4199" opacity=".1" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
+ <path id="rect4199" opacity=".1" fill="#fff" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
  <path id="rect4279" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
  <text id="text4087-2-6-5-10" opacity=".8" font-size="12.666px" xml:space="preserve" y="8.050684" x="821.0766" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-5" y="8.050684" x="821.0766"/></text>
  <text id="text4087-2-6-5-5-57" opacity=".8" font-size="12.666px" xml:space="preserve" y="-32.691021" x="845.03754" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-15" y="-32.691021" x="845.03754"/></text>

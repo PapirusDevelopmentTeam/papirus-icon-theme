@@ -117,7 +117,7 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4255" transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="28" width="28" y="-30" x="-30" fill="#c2352a"/>
- <path id="rect4632" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <path id="rect4632" opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
  <path id="rect4379" opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
  <g id="g4551" opacity=".2" transform="translate(0 2)">
   <rect id="rect4553" opacity="1" transform="rotate(45)" height="1.4142" width="1.4142" y="-1.4142" x="22.627"/>
@@ -134,7 +134,7 @@
    <path id="path4571" opacity="1" d="m15 13h4v1h-4z"/>
   </g>
  </g>
- <g id="g4539" transform="translate(0 1)" fill="#fff">
+ <g id="g4539" fill="#fff" transform="translate(0 1)">
   <rect id="rect4502" transform="rotate(45)" height="1.4142" width="1.4142" y="-1.4142" x="22.627"/>
   <g id="g4466">
    <path id="path4480" d="m20 6-1 6h-4l-1-6z"/>

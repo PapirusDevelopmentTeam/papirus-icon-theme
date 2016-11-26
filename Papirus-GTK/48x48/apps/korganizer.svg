@@ -116,11 +116,11 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#f13c3c"/>
+ <path id="rect4203" fill="#f13c3c" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
  <g id="g4569" opacity=".2" transform="translate(0,1)">
   <g id="g4571" transform="translate(0,-2.0011)">
    <rect id="rect4573" opacity="1" rx="2" ry="2" height="4" width="26" y="16" x="15"/>
-   <path id="path4575" opacity="1" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z" fill-rule="evenodd"/>
+   <path id="path4575" opacity="1" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z"/>
   </g>
   <g id="g4577" transform="translate(0,-1)">
    <rect id="rect4579" opacity="1" rx="2" ry="2" height="4" width="26" y="24" x="15"/>
@@ -134,7 +134,7 @@
  <g id="g5562" fill="#fff">
   <g id="g5536" transform="translate(0 -2.0011)">
    <rect id="rect4466" rx="2" ry="2" height="4" width="26" y="16" x="15"/>
-   <path id="path4478" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z" fill-rule="evenodd"/>
+   <path id="path4478" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m13.988 11.988a1.0001 1.0001 0 0 0 -0.8125 0.45508c-1.0209 1.5258-2.0874 3.5751-3.1113 5.4395l-1.1646-2.329a1.0001 1.0001 0 0 0 -1.7891 0.89453l2 4a1.0001 1.0001 0 0 0 1.7617 0.052c1.2992-2.2481 2.7719-5.1604 3.9648-6.9434a1.0001 1.0001 0 0 0 -0.84961 -1.5684z"/>
   </g>
   <g id="g5558" transform="translate(0,-1)">
    <rect id="rect4468" rx="2" ry="2" height="4" width="26" y="24" x="15"/>
@@ -249,5 +249,5 @@
  <text id="text4087-2-6-5-5-6-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1170.6173" x="1604.6764" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-9" y="-1170.6173" x="1604.6764"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1177.8273" x="113.21326" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-9" y="-1177.8273" x="113.21326"/></text>
  <text id="text4087-2-6-5-4-1-4" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1451.0614" x="1573.7561" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-3" y="-1451.0614" x="1573.7561"/></text>
- <path id="path4564" opacity=".2" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="path4564" opacity=".2" fill="#fff" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
 </svg>

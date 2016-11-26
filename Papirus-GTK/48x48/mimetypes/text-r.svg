@@ -11,9 +11,9 @@
  </metadata>
  <defs id="defs2819">
   <clipPath id="clipPath4266-4" clipPathUnits="userSpaceOnUse">
-   <path id="path4268-0" d="m146 240c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-12-12h-18z" fill="#fff"/>
+   <path id="path4268-0" fill="#fff" d="m146 240c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-12-12h-18z"/>
   </clipPath>
-  <filter id="filter4987" y="-.11143" x="-.13" width="1.26" height="1.2229">
+  <filter id="filter4987" y="-.11143" x="-.13" height="1.2229" width="1.26">
    <feGaussianBlur id="feGaussianBlur4989" stdDeviation="0.65"/>
   </filter>
  </defs>
@@ -125,9 +125,9 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <path id="path4754" opacity=".1" style="enable-background:new" d="m163.22 242.45v11c0 1.1046 0.89543 2 2 2h10l-1-1-10-9z" clip-path="url(#clipPath4266-4)" transform="translate(-135.61 -237.72)" filter="url(#filter4987)"/>
- <path id="path4750" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z" fill="#ccc"/>
- <path id="path4752" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z" fill="#fff"/>
- <path id="path4756" d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z" fill="#ebebeb"/>
+ <path id="path4750" fill="#ccc" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z"/>
+ <path id="path4752" opacity=".2" fill="#fff" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z"/>
+ <path id="path4756" fill="#ebebeb" d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z"/>
  <text id="text4087-2-6-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="1.5922621" x="931.19238" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-5" y="1.5922621" x="931.19238"/></text>
  <text id="text4087-2-6-5-5-35" opacity=".8" font-size="12.666px" xml:space="preserve" y="-39.149448" x="955.15332" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-8" y="-39.149448" x="955.15332"/></text>
  <text id="text4087-2-6-5-2-0" opacity=".8" font-size="12.666px" xml:space="preserve" y="-69.227585" x="-515.40503" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2-7" y="-69.227585" x="-515.40503"/></text>
@@ -544,5 +544,5 @@
  <text id="text4087-2-6-5-5-6-4" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1224.2515" x="1561.6166" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-3" y="-1224.2515" x="1561.6166"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1231.4614" x="70.153503" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-4" y="-1231.4614" x="70.153503"/></text>
  <text id="text4087-2-6-5-4-1-76" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1504.6956" x="1530.6963" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-93" y="-1504.6956" x="1530.6963"/></text>
- <path id="path3647" opacity=".5" style="enable-background:new" d="m29 32s0.55306-0.016 1.1046 0.2656c0.1914 0.097 0.52254 0.2932 0.76141 0.5495 0.23398 0.2511 0.34806 0.5056 0.34806 0.5056l3.786 6.679h-7c-1.172-2.243-2.168-4.666-3.662-6.663-0.297-0.243-0.544-0.337-0.838-0.337h-1.5004l0.000866 6.9961h-6.0004v-19.996h10.826c1.1736 0 6.1736 1 6.3471 6-0.17357 5-4.1736 6-4.1736 6zm-6.9996-8.0013v5.0013h3.9996s1 0 1-2.6952c0-2.3048-1-2.3035-1-2.3035z" fill-rule="evenodd"/>
+ <path id="path3647" opacity=".5" style="enable-background:new" fill-rule="evenodd" d="m29 32s0.55306-0.016 1.1046 0.2656c0.1914 0.097 0.52254 0.2932 0.76141 0.5495 0.23398 0.2511 0.34806 0.5056 0.34806 0.5056l3.786 6.679h-7c-1.172-2.243-2.168-4.666-3.662-6.663-0.297-0.243-0.544-0.337-0.838-0.337h-1.5004l0.000866 6.9961h-6.0004v-19.996h10.826c1.1736 0 6.1736 1 6.3471 6-0.17357 5-4.1736 6-4.1736 6zm-6.9996-8.0013v5.0013h3.9996s1 0 1-2.6952c0-2.3048-1-2.3035-1-2.3035z"/>
 </svg>

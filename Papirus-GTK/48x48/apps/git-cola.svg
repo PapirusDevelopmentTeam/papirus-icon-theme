@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 48 48" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata53">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,11 +10,11 @@
   </rdf:RDF>
  </metadata>
  <path id="path4556" opacity=".2" d="m13.5 6-1.5 4v31.971l1.6 2.029h-0.1v1h21v-1h-0.09961l1.6-2.029v-31.971l-1.5-4h-21z"/>
- <path id="path39" d="m13.5 5h21l1.5 4v31.971l-1.6 2.029h-20.8l-1.6-2.029v-31.971z" fill="#c2352a"/>
- <path id="path41" d="m13.5 4h21v1h-21z" fill="#808080"/>
- <path id="path47" d="m12 9h24v2h-24z" fill="#fff"/>
- <path id="path4212" d="m13.5 43h21v1h-21z" fill="#808080"/>
- <path id="path4214" d="m12 39h24v2h-24z" fill="#fff"/>
+ <path id="path39" fill="#c2352a" d="m13.5 5h21l1.5 4v31.971l-1.6 2.029h-20.8l-1.6-2.029v-31.971z"/>
+ <path id="path41" fill="#808080" d="m13.5 4h21v1h-21z"/>
+ <path id="path47" fill="#fff" d="m12 9h24v2h-24z"/>
+ <path id="path4212" fill="#808080" d="m13.5 43h21v1h-21z"/>
+ <path id="path4214" fill="#fff" d="m12 39h24v2h-24z"/>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="6.485589" x="833.88983" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="6.485589" x="833.88983"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-34.256119" x="857.85077" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-34.256119" x="857.85077"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-64.334259" x="-612.70758" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-64.334259" x="-612.70758"/></text>
@@ -221,6 +221,6 @@
  <text id="text4087-2-6-5-5-6-4" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0077" x="1652.1299" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-5" y="-1169.0077" x="1652.1299"/></text>
  <text id="text4087-2-6-5-54-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2177" x="160.66672" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-2" y="-1176.2177" x="160.66672"/></text>
  <text id="text4087-2-6-5-4-1-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4518" x="1621.2096" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-6" y="-1449.4518" x="1621.2096"/></text>
- <path id="path4368" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m15.619 9.4336l-1.455 1.3734 3.617 3.828a4 4 0 0 0 -0.779 2.365 4 4 0 0 0 3 3.867v7.264a4 4 0 0 0 -3 3.869 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -3 -3.867v-7.264a4 4 0 0 0 1.18 -0.517l2.416 2.556a4 4 0 0 0 -0.596 2.092 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4 4 4 0 0 0 -1.965 0.521l-2.502-2.65a4 4 0 0 0 0.467 -1.871 4 4 0 0 0 -4 -4 4 4 0 0 0 -1.666 0.369l-3.717-3.9354z" fill="#fff"/>
- <path id="path5606" opacity=".1" d="m13.5 5l-1.5 4v1l1.5-4h21l1.5 4v-1l-1.5-4h-21z" fill="#fff"/>
+ <path id="path4368" d="m15.619 9.4336l-1.455 1.3734 3.617 3.828a4 4 0 0 0 -0.779 2.365 4 4 0 0 0 3 3.867v7.264a4 4 0 0 0 -3 3.869 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -3 -3.867v-7.264a4 4 0 0 0 1.18 -0.517l2.416 2.556a4 4 0 0 0 -0.596 2.092 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4 4 4 0 0 0 -1.965 0.521l-2.502-2.65a4 4 0 0 0 0.467 -1.871 4 4 0 0 0 -4 -4 4 4 0 0 0 -1.666 0.369l-3.717-3.9354z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#fff" fill-rule="evenodd"/>
+ <path id="path5606" opacity=".1" fill="#fff" d="m13.5 5l-1.5 4v1l1.5-4h21l1.5 4v-1l-1.5-4h-21z"/>
 </svg>

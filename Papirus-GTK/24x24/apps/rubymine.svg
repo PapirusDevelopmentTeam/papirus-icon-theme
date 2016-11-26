@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg4346" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 24 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg4346" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata4351">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,7 +10,7 @@
   </rdf:RDF>
  </metadata>
  <rect id="rect4203" ry="1" rx="1" transform="matrix(0,-1,-1,0,0,0)" height="20" width="20" y="-22" x="-22" fill="#a24058"/>
- <path id="rect4592" opacity=".2" fill="#fff" d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <path id="rect4592" opacity=".2" d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z" fill="#fff"/>
  <path id="path4597" opacity=".2" d="m3 22.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
  <path id="path4218" opacity=".2" stroke-linejoin="round" d="m5.5002 18v-8c0-2.5 2-3 3-3s3 0.5 3 3v8" stroke="#000" stroke-linecap="round" stroke-width="3" fill="none"/>
  <path id="path4152" stroke-linejoin="round" d="m5.5002 17.5v-8c0-2.5 2-3 3-3s3 0.5 3 3v8" stroke="#f58a1f" stroke-linecap="round" stroke-width="3" fill="none"/>

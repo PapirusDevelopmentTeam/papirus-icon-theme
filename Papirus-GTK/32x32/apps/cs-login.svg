@@ -123,12 +123,12 @@
  </g>
  <rect id="rect4351" rx="1.3333" ry="1.25" height="5" width="20" y="10" x="6" fill="#fff"/>
  <rect id="rect4394" rx="1.3333" ry="1.25" height="5" width="20" y="18" x="6" fill="#fff"/>
- <path id="rect4404" opacity=".1" style="enable-background:new" d="m3.4004 5c-0.7756 0-1.4004 0.6411-1.4004 1.4375v1c0-0.7964 0.6248-1.4375 1.4004-1.4375h25.2c0.775 0 1.4 0.6411 1.4 1.4375v-1c0-0.7964-0.625-1.4375-1.4-1.4375h-25.2z" fill="#fff"/>
+ <path id="rect4404" opacity=".1" style="enable-background:new" fill="#fff" d="m3.4004 5c-0.7756 0-1.4004 0.6411-1.4004 1.4375v1c0-0.7964 0.6248-1.4375 1.4004-1.4375h25.2c0.775 0 1.4 0.6411 1.4 1.4375v-1c0-0.7964-0.625-1.4375-1.4-1.4375h-25.2z"/>
  <path id="rect4409" opacity=".2" style="enable-background:new" d="m2 26.562v1c0 0.797 0.6248 1.438 1.4004 1.438h25.2c0.775 0 1.4-0.641 1.4-1.438v-1c0 0.797-0.625 1.438-1.4 1.438h-25.2c-0.7752 0-1.4-0.641-1.4-1.438z"/>
  <circle id="circle4390" cy="12.5" cx="8.5" r="1.5" fill="#4fa0ff"/>
- <circle id="circle4366" cx="8.5" cy="20.5" r="1.5" fill="#ff4f4f"/>
- <circle id="circle4413" cx="13.5" cy="12.5" r="1.5" fill="#4fa0ff"/>
+ <circle id="circle4366" cy="20.5" cx="8.5" r="1.5" fill="#ff4f4f"/>
+ <circle id="circle4413" cy="12.5" cx="13.5" r="1.5" fill="#4fa0ff"/>
  <circle id="circle4415" cy="20.5" cx="13.5" r="1.5" fill="#ff4f4f"/>
  <circle id="circle4419" cy="12.5" cx="18.5" r="1.5" fill="#4fa0ff"/>
- <circle id="circle4421" cx="18.5" cy="20.5" r="1.5" fill="#ff4f4f"/>
+ <circle id="circle4421" cy="20.5" cx="18.5" r="1.5" fill="#ff4f4f"/>
 </svg>

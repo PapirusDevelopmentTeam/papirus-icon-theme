@@ -11,11 +11,11 @@
  </metadata>
  <defs id="defs2819">
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle id="path4188" style="color:#000000" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+   <circle id="path4188" style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
- <circle id="path4230" style="color:#000000" cy="8" cx="8" r="8" fill="#37a0f2"/>
- <circle id="path4240" opacity="0" style="color:#000000" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" r="10"/>
- <circle id="path4242" opacity="0" style="color:#000000" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" r="10"/>
+ <circle id="path4230" style="color:#000000" cx="8" cy="8" r="8" fill="#37a0f2"/>
+ <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" stroke-width=".45455"/>
+ <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" stroke-width=".90909"/>
  <path id="path29" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;white-space:normal" d="m8.1818 4.1309c-1.0216 1.9088-1.8885 3.836-2.4118 5.7457-0.2772 1.0224-0.5272 2.0804-0.77 3.1074 0.39563 0.03694 0.14923-0.0031 0.45455 0.00008 0.8368-1.449 2.3581-2.458 3.6363-2.94 0.0136-1.0478-0.0836-2.2525 0.3009-3.1709 0.1573-0.3819 0.4046-0.9175 0.6082-1.2639 0-0.9854-1.3636-1.9709-1.8182-1.4781z" fill-rule="evenodd" isolation="auto" mix-blend-mode="normal" white-space="normal" fill="#fff"/>
 </svg>

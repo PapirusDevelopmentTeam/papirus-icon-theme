@@ -326,10 +326,10 @@
  <text id="text4087-2-6-5-5-6-0" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1154.2494" x="1592.6344" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-1" y="-1154.2494" x="1592.6344"/></text>
  <text id="text4087-2-6-5-54-3" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1161.4594" x="101.17131" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-3" y="-1161.4594" x="101.17131"/></text>
  <text id="text4087-2-6-5-4-1-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1434.6935" x="1561.7141" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-3" y="-1434.6935" x="1561.7141"/></text>
- <path id="rect4203" d="m58 53.333v-42.666c0-1.4777-1.16-2.667-2.6-2.667h-46.8c-1.4404 0-2.6 1.1893-2.6 2.6667v42.666c0 1.478 1.1596 2.667 2.6 2.667h46.8c1.44 0 2.6-1.189 2.6-2.667z" fill="#bf9a66"/>
- <circle id="path4369" cx="16" cy="30" r="5" fill="#fff"/>
- <path id="path4375" stroke="#fff" stroke-width="3" d="m16 29 12 15 19-4" fill="none"/>
- <path id="path5294" opacity="0" d="m8.5996 8c-1.4404 0-2.5996 1.1887-2.5996 2.666v2c0-1.477 1.1592-2.666 2.5996-2.666h46.8c1.441 0 2.6 1.189 2.6 2.666v-2c0-1.4773-1.159-2.666-2.6-2.666h-46.8z" fill="#fff"/>
- <circle id="circle5299" cx="47" cy="40" r="5" fill="#fff"/>
- <circle id="circle5301" cx="28" cy="43" r="5" fill="#fff"/>
+ <path id="rect4203" fill="#bf9a66" d="m58 53.333v-42.666c0-1.4777-1.16-2.667-2.6-2.667h-46.8c-1.4404 0-2.6 1.1893-2.6 2.6667v42.666c0 1.478 1.1596 2.667 2.6 2.667h46.8c1.44 0 2.6-1.189 2.6-2.667z"/>
+ <circle id="path4369" cy="30" cx="16" r="5" fill="#fff"/>
+ <path id="path4375" stroke="#fff" stroke-width="3" fill="none" d="m16 29 12 15 19-4"/>
+ <path id="path5294" opacity="0" fill="#fff" d="m8.5996 8c-1.4404 0-2.5996 1.1887-2.5996 2.666v2c0-1.477 1.1592-2.666 2.5996-2.666h46.8c1.441 0 2.6 1.189 2.6 2.666v-2c0-1.4773-1.159-2.666-2.6-2.666h-46.8z"/>
+ <circle id="circle5299" cy="40" cx="47" r="5" fill="#fff"/>
+ <circle id="circle5301" cy="43" cx="28" r="5" fill="#fff"/>
 </svg>

@@ -2,7 +2,7 @@
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <defs id="defs221">
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle id="path4188" style="color:#000000" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+   <circle id="path4188" style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
  <metadata id="metadata57">
@@ -121,9 +121,9 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="rect4255" d="m-16-30c7.756 0 14 6.244 14 14s-6.244 14-14 14-14-6.244-14-14 6.244-14 14-14z" transform="matrix(0,-1,-1,0,0,0)" fill="#37a0f2"/>
- <path id="rect4400" opacity=".1" d="m16 2c-7.756 0-14 6.244-14 14 0 0.16884 0.01952 0.33264 0.02539 0.5 0.2641-7.5206 6.3878-13.5 13.975-13.5s13.711 5.9794 13.975 13.5c0.006-0.16736 0.0254-0.33116 0.0254-0.5 0-7.756-6.244-14-14-14z" fill="#fff"/>
+ <path id="rect4255" transform="matrix(0,-1,-1,0,0,0)" fill="#37a0f2" d="m-16-30c7.756 0 14 6.244 14 14s-6.244 14-14 14-14-6.244-14-14 6.244-14 14-14z"/>
+ <path id="rect4400" opacity=".1" fill="#fff" d="m16 2c-7.756 0-14 6.244-14 14 0 0.16884 0.01952 0.33264 0.02539 0.5 0.2641-7.5206 6.3878-13.5 13.975-13.5s13.711 5.9794 13.975 13.5c0.006-0.16736 0.0254-0.33116 0.0254-0.5 0-7.756-6.244-14-14-14z"/>
  <path id="rect4394" opacity=".2" d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.16884-0.01952-0.33264-0.02539-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"/>
- <circle id="path4240" opacity="0" r="10" clip-path="url(#clipPath4186)" transform="matrix(1.3333 0 0 1.3333 -365.33 -18.667)" cy="26" cx="286" stroke-width=".45455" style="color:#000000"/>
- <circle id="path4242" opacity="0" r="10" clip-path="url(#clipPath4186)" transform="matrix(1.3333 0 0 1.3333 -365.33 -18.667)" cy="26" cx="286" stroke-width=".90909" style="color:#000000"/>
+ <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" cx="286" transform="matrix(1.3333 0 0 1.3333 -365.33 -18.667)" cy="26" r="10" stroke-width=".45455"/>
+ <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" cx="286" transform="matrix(1.3333 0 0 1.3333 -365.33 -18.667)" cy="26" r="10" stroke-width=".90909"/>
 </svg>

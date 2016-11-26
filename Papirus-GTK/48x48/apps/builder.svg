@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 48 48" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata85">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,22 +9,22 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="path4197" d="m27 10-14 14" stroke="#cbbb2e" stroke-width="8" fill="none"/>
+ <path id="path4197" stroke="#cbbb2e" stroke-width="8" fill="none" d="m27 10-14 14"/>
  <rect id="rect4195" ry="0" transform="scale(-1,1)" height="17" width="12" y="24" x="-19" fill="#cbbb2e"/>
  <rect id="rect4261" opacity=".2" ry="8" style="enable-background:new" transform="scale(-1,1)" height="16" width="16" y="17" x="-21"/>
  <rect id="rect4245" ry="2" transform="scale(-1,1)" height="4" width="16" y="38" x="-21" fill="#d6c84a"/>
- <path id="rect4317" opacity=".1" d="m19 38c1.108 0 2 0.892 2 2 0 0.17383-0.029 0.33941-0.0703 0.5-0.222-0.863-0.996-1.5-1.93-1.5h-12c-0.93417 0-1.7077 0.63701-1.9297 1.5-0.0413-0.16059-0.0703-0.32617-0.0703-0.5 0-1.108 0.892-2 2-2h12z" fill="#fff"/>
- <path id="rect4151" style="enable-background:new" d="m21 40c2 0 2 2 2 2v2h-20v-2c0-2 2-2 2-2z" fill="#3f3f3f"/>
+ <path id="rect4317" opacity=".1" fill="#fff" d="m19 38c1.108 0 2 0.892 2 2 0 0.17383-0.029 0.33941-0.0703 0.5-0.222-0.863-0.996-1.5-1.93-1.5h-12c-0.93417 0-1.7077 0.63701-1.9297 1.5-0.0413-0.16059-0.0703-0.32617-0.0703-0.5 0-1.108 0.892-2 2-2h12z"/>
+ <path id="rect4151" style="enable-background:new" fill="#3f3f3f" d="m21 40c2 0 2 2 2 2v2h-20v-2c0-2 2-2 2-2z"/>
  <rect id="rect4168" ry="8" style="enable-background:new" transform="scale(-1,1)" height="16" width="16" y="16" x="-21" fill="#d6c84a"/>
  <rect id="rect4170" ry="6" style="enable-background:new" transform="scale(-1,1)" height="12" width="12" y="18" x="-19" fill="#3f3f3f"/>
- <path id="path4199" d="m27 10 10 10" stroke="#cbbb2e" stroke-width="6" fill="none"/>
+ <path id="path4199" stroke="#cbbb2e" stroke-width="6" fill="none" d="m27 10 10 10"/>
  <rect id="rect4259" opacity=".2" ry="6" style="enable-background:new" transform="scale(-1,1)" height="12" width="12" y="5" x="-33"/>
  <rect id="rect4189" ry="6" style="enable-background:new" transform="scale(-1,1)" height="12" width="12" y="4" x="-33" fill="#d6c84a"/>
  <path id="path4201" stroke-linejoin="round" d="m39 28-4-2v-4l4-4h4l2 4" stroke="#3f3f3f" stroke-linecap="round" stroke-width="2" fill="none"/>
  <rect id="rect4191" ry="4" style="enable-background:new" transform="scale(-1,1)" height="8" width="8" y="6" x="-31" fill="#3f3f3f"/>
  <rect id="rect4241" opacity=".1" ry="4" style="enable-background:new" transform="scale(-1,1)" height="8" width="8" y="20" x="-17" fill="#fff"/>
  <rect id="rect4243" opacity=".1" ry="2" style="enable-background:new" transform="scale(-1,1)" height="4" width="4" y="8" x="-29" fill="#fff"/>
- <path id="rect4249" opacity=".1" style="enable-background:new" d="m13 16c4.432 0 8 3.568 8 8 0 0.16884-0.0152 0.33381-0.0254 0.5-0.258-4.196-3.712-7.5-7.975-7.5-4.2632 0-7.7169 3.304-7.9746 7.5-0.0102-0.166-0.0254-0.331-0.0254-0.5 0-4.432 3.568-8 8-8z" fill="#fff"/>
- <path id="rect4251" opacity=".2" style="enable-background:new" d="m27 4c3.324 0 6 2.676 6 6 0 0.16884-0.0119 0.33477-0.0254 0.5-0.253-3.0877-2.82-5.5-5.975-5.5-3.1552 0-5.7215 2.4123-5.9746 5.5-0.0135-0.16523-0.0254-0.33116-0.0254-0.5 0-3.324 2.676-6 6-6z" fill="#fff"/>
- <path id="path4265" opacity=".1" style="enable-background:new" d="m21 40c2 0 2 2 2 2v1s0-2-2-2h-16s-2 0-2 2v-1c0-2 2-2 2-2h16z" fill="#fff"/>
+ <path id="rect4249" opacity=".1" style="enable-background:new" fill="#fff" d="m13 16c4.432 0 8 3.568 8 8 0 0.16884-0.0152 0.33381-0.0254 0.5-0.258-4.196-3.712-7.5-7.975-7.5-4.2632 0-7.7169 3.304-7.9746 7.5-0.0102-0.166-0.0254-0.331-0.0254-0.5 0-4.432 3.568-8 8-8z"/>
+ <path id="rect4251" opacity=".2" style="enable-background:new" fill="#fff" d="m27 4c3.324 0 6 2.676 6 6 0 0.16884-0.0119 0.33477-0.0254 0.5-0.253-3.0877-2.82-5.5-5.975-5.5-3.1552 0-5.7215 2.4123-5.9746 5.5-0.0135-0.16523-0.0254-0.33116-0.0254-0.5 0-3.324 2.676-6 6-6z"/>
+ <path id="path4265" opacity=".1" style="enable-background:new" fill="#fff" d="m21 40c2 0 2 2 2 2v1s0-2-2-2h-16s-2 0-2 2v-1c0-2 2-2 2-2h16z"/>
 </svg>

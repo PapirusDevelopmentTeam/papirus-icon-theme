@@ -223,15 +223,15 @@
  <text id="text4087-2-6-5-5-6-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2253" x="1575.1582" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-5" y="-1176.2253" x="1575.1582"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1183.4353" x="83.695122" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-7" y="-1183.4353" x="83.695122"/></text>
  <text id="text4087-2-6-5-4-1-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1456.6694" x="1544.2379" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-4" y="-1456.6694" x="1544.2379"/></text>
- <path id="rect4255-8" fill="#ccc" d="m27 28.5v-25c0-0.831-0.669-1.5-1.5-1.5h-19c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h19c0.831 0 1.5-0.669 1.5-1.5z"/>
- <path id="rect4208" opacity=".1" fill="#fff" d="m6.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h19c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z"/>
+ <path id="rect4255-8" d="m27 28.5v-25c0-0.831-0.669-1.5-1.5-1.5h-19c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h19c0.831 0 1.5-0.669 1.5-1.5z" fill="#ccc"/>
+ <path id="rect4208" opacity=".1" d="m6.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h19c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z" fill="#fff"/>
  <path id="path4009" opacity=".5" style="enable-background:new" d="m25.625 30c0.762 0 1.375-0.657 1.375-1.474v-12.526h-22v12.526c0 0.817 0.6132 1.474 1.375 1.474z"/>
- <g id="g5250" fill="#4c4c4c" transform="translate(0,1)">
+ <g id="g5250" transform="translate(0,1)" fill="#4c4c4c">
   <path id="rect4467" d="m9 5h14v1h-14z"/>
   <path id="path5246" d="m9 8h14v1h-14z"/>
   <path id="path5248" d="m9 11h14v1h-14z"/>
  </g>
- <g id="g5255" fill="#ccc" transform="translate(0,14)">
+ <g id="g5255" transform="translate(0,14)" fill="#ccc">
   <path id="path5257" d="m9 5h14v1h-14z"/>
   <path id="path5259" d="m9 8h14v1h-14z"/>
   <path id="path5261" d="m9 11h14v1h-14z"/>

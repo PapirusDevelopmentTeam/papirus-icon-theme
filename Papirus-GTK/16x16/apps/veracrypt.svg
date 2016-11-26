@@ -117,9 +117,9 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1208.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1208.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1481.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1481.4517" x="1621.2083"/></text>
  <rect id="rect4255" ry=".85714" rx=".85714" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#5d5d5d"/>
- <g id="g4350" transform="matrix(0.5 0 0 0.5 0.5 -0.5)">
-  <path id="rect4352" fill="#0198c4" d="m5 7 5-8e-7 5.269 18.335 0.356 1.665h-4.625z"/>
-  <path id="path4359" fill="#4dbac2" d="m17.344 17.505-4.119-0.005-2.225 9.5h4.5c2.0569-8.9187 1.8443-9.4947 1.8443-9.4947z"/>
-  <path id="rect4361" fill="#06b788" d="m16 7-3 10.5 2.625 9.5h10.375l-2-5h-4.5l-1.5-4.5 1.5-5.5h4.5l2-5z"/>
+ <g id="g4350" transform="matrix(.5 0 0 .5 .5 -.5)">
+  <path id="rect4352" d="m5 7 5-8e-7 5.269 18.335 0.356 1.665h-4.625z" fill="#0198c4"/>
+  <path id="path4359" d="m17.344 17.505-4.119-0.005-2.225 9.5h4.5c2.0569-8.9187 1.8443-9.4947 1.8443-9.4947z" fill="#4dbac2"/>
+  <path id="rect4361" d="m16 7-3 10.5 2.625 9.5h10.375l-2-5h-4.5l-1.5-4.5 1.5-5.5h4.5l2-5z" fill="#06b788"/>
  </g>
 </svg>

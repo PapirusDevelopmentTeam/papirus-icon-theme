@@ -116,8 +116,8 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#5d5d5d" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z"/>
- <path id="rect4199" opacity=".1" fill="#fff" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+ <path id="rect4203" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z" fill="#5d5d5d"/>
+ <path id="rect4199" opacity=".1" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
  <path id="path4447" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
  <g id="g4467" opacity=".2" transform="translate(0,1)">
   <rect id="rect4469" opacity="1" height="4" width="4" y="6" x="10"/>
@@ -132,20 +132,20 @@
   <rect id="rect4487" opacity="1" height="4" width="4" y="38" x="34"/>
  </g>
  <g id="g4455" fill="#fff">
-  <rect id="rect4372" height="4" width="4" y="6" x="10"/>
-  <rect id="rect4374" height="4" width="4" y="14" x="10"/>
-  <rect id="rect4380" height="4" width="4" y="22" x="10"/>
-  <rect id="rect4382" height="4" width="4" y="30" x="10"/>
-  <rect id="rect4384" height="4" width="4" y="38" x="10"/>
-  <rect id="rect4395" height="4" width="4" y="6" x="34"/>
-  <rect id="rect4397" height="4" width="4" y="14" x="34"/>
-  <rect id="rect4399" height="4" width="4" y="22" x="34"/>
-  <rect id="rect4401" height="4" width="4" y="30" x="34"/>
-  <rect id="rect4403" height="4" width="4" y="38" x="34"/>
+  <rect id="rect4372" y="6" width="4" x="10" height="4"/>
+  <rect id="rect4374" y="14" width="4" x="10" height="4"/>
+  <rect id="rect4380" y="22" width="4" x="10" height="4"/>
+  <rect id="rect4382" y="30" width="4" x="10" height="4"/>
+  <rect id="rect4384" y="38" width="4" x="10" height="4"/>
+  <rect id="rect4395" y="6" width="4" x="34" height="4"/>
+  <rect id="rect4397" y="14" width="4" x="34" height="4"/>
+  <rect id="rect4399" y="22" width="4" x="34" height="4"/>
+  <rect id="rect4401" y="30" width="4" x="34" height="4"/>
+  <rect id="rect4403" y="38" width="4" x="34" height="4"/>
  </g>
  <rect id="rect4405" opacity=".2" height="14" width="16" y="8" x="16"/>
  <rect id="rect4407" opacity=".2" height="14" width="16" y="26" x="16"/>
- <circle id="circle4371" opacity=".2" style="enable-background:new" fill-rule="evenodd" cx="36" cy="37" r="11"/>
- <circle id="path3290" style="enable-background:new" fill-rule="evenodd" cy="36" cx="36" r="11" fill="#4269cd"/>
- <path id="path5865" style="enable-background:new" fill="#fff" d="m36 29c-3.866 0-7 3.134-7 7s3.134 7 7 7c3.1748 0 5.8615-2.1032 6.7188-5h-2.1562c-0.77427 1.7595-2.5168 3-4.5625 3-2.7614 0-5-2.2386-5-5s2.2386-5 5-5c1.3816 0 2.6155 0.57505 3.5156 1.4844l-2.516 2.516h6v-6l-2.0527 2.0527c-1.268-1.265-3.013-2.053-4.947-2.053z"/>
+ <circle id="circle4371" opacity=".2" style="enable-background:new" fill-rule="evenodd" cy="37" cx="36" r="11"/>
+ <circle id="path3290" style="enable-background:new" fill-rule="evenodd" cx="36" cy="36" r="11" fill="#4269cd"/>
+ <path id="path5865" d="m36 29c-3.866 0-7 3.134-7 7s3.134 7 7 7c3.1748 0 5.8615-2.1032 6.7188-5h-2.1562c-0.77427 1.7595-2.5168 3-4.5625 3-2.7614 0-5-2.2386-5-5s2.2386-5 5-5c1.3816 0 2.6155 0.57505 3.5156 1.4844l-2.516 2.516h6v-6l-2.0527 2.0527c-1.268-1.265-3.013-2.053-4.947-2.053z" style="enable-background:new" fill="#fff"/>
 </svg>

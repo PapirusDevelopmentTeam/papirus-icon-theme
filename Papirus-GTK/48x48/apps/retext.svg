@@ -116,14 +116,14 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#ccc" d="m42 8h-36c-1.108 0-2 0.892-2 2v28c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-28c0-1.108-0.892-2-2-2z"/>
+ <path id="rect4203" d="m42 8h-36c-1.108 0-2 0.892-2 2v28c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-28c0-1.108-0.892-2-2-2z" fill="#ccc"/>
  <path id="path4009" opacity=".15" style="enable-background:new" d="m4 10c0-1.108 0.892-2 2-2h18v32h-18c-1.108 0-2-0.892-2-2z"/>
  <rect id="rect4385" opacity=".6" height="2" width="8" y="10" x="6"/>
  <rect id="rect4387" opacity=".6" height="2" width="12" y="14" x="6"/>
  <rect id="rect4389" opacity=".6" height="2" width="14" y="18" x="6"/>
  <rect id="rect4391" opacity=".6" height="2" width="10" y="22" x="6"/>
  <rect id="rect4393" opacity=".6" height="2" width="12" y="26" x="6"/>
- <path id="rect4399" d="m27 12v4 6 4 10h4v-10l4 10h2 2 2v-4h-2l-4-6h6v-4-10zm4 4h6v6h-6z" fill="#c2352a"/>
- <path id="path4415" opacity=".2" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="rect4399" fill="#c2352a" d="m27 12v24h4v-10l4 10h6v-4h-2l-4-6h6v-14zm4 4h6v6h-6z"/>
+ <path id="path4415" opacity=".2" fill="#fff" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path id="path4420" opacity=".2" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
 </svg>

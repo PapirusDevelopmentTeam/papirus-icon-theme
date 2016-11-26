@@ -9,9 +9,9 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="path4991" d="m24 17c-11.046 0-20 6.268-20 14h8v10s0 2 2 2h20c2 0 2-2 2-2v-10h8c0-7.732-8.954-14-20-14z" fill="#7bc136"/>
- <path id="path5012" opacity=".2" d="m24 17c-11.046 0-20 6.268-20 14h0.0566c0.7332-7.265 9.3784-13 19.943-13s19.21 5.735 19.943 13h0.057c0-7.732-8.954-14-20-14z" fill="#fff"/>
- <path id="rect4989" d="m19 19h10l-1 6h-8z" fill="#4c4c4c"/>
+ <path id="path4991" fill="#7bc136" d="m24 17c-11.046 0-20 6.268-20 14h8v10s0 2 2 2h20c2 0 2-2 2-2v-10h8c0-7.732-8.954-14-20-14z"/>
+ <path id="path5012" opacity=".2" fill="#fff" d="m24 17c-11.046 0-20 6.268-20 14h0.0566c0.7332-7.265 9.3784-13 19.943-13s19.21 5.735 19.943 13h0.057c0-7.732-8.954-14-20-14z"/>
+ <path id="rect4989" fill="#4c4c4c" d="m19 19h10l-1 6h-8z"/>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="10.812601" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="10.812601" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-29.929106" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-29.929106" x="901.18719"/></text>
  <text id="text4087-2-6-5-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-60.007248" x="-569.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2" y="-60.007248" x="-569.37115"/></text>
@@ -440,8 +440,8 @@
  <text id="text4087-2-6-5-5-6-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1182.9624" x="1484.1427" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-9" y="-1182.9624" x="1484.1427"/></text>
  <text id="text4087-2-6-5-54-3" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1190.1724" x="-7.320467" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-5" y="-1190.1724" x="-7.320467"/></text>
  <text id="text4087-2-6-5-4-1-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1463.4065" x="1453.2224" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-5" y="-1463.4065" x="1453.2224"/></text>
- <circle id="circle5010" opacity=".2" cx="24" cy="13" r="9"/>
+ <circle id="circle5010" opacity=".2" cy="13" cx="24" r="9"/>
  <circle id="path4987" cy="12" cx="24" r="9" fill="#fecd38"/>
- <path id="circle5000" opacity=".2" d="m24 3a9 9 0 0 0 -9 9 9 9 0 0 0 0.021 0.576 9 9 0 0 1 8.979 -8.576 9 9 0 0 1 8.979 8.424 9 9 0 0 0 0.021 -0.424 9 9 0 0 0 -9 -9z" fill="#fff"/>
+ <path id="circle5000" opacity=".2" fill="#fff" d="m24 3a9 9 0 0 0 -9 9 9 9 0 0 0 0.021 0.576 9 9 0 0 1 8.979 -8.576 9 9 0 0 1 8.979 8.424 9 9 0 0 0 0.021 -0.424 9 9 0 0 0 -9 -9z"/>
  <path id="path5017" opacity=".2" d="m4.0566 31c-0.0333 0.331-0.0566 0.663-0.0566 1h8v-1h-7.9434zm31.943 0v1h8c0-0.33657-0.02327-0.66938-0.05664-1h-7.943zm-24 10v1s0 2 2 2h20c2 0 2-2 2-2v-1s0 2-2 2h-20c-2 0-2-2-2-2z"/>
 </svg>

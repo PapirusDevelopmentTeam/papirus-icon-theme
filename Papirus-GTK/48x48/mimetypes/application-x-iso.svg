@@ -116,9 +116,9 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="path21637" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z" fill="#c26476"/>
- <path id="path21641" opacity=".1" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z" fill="#fff"/>
- <path id="path21645" d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z" fill="#e0b1ba"/>
+ <path id="path21637" fill="#c26476" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z"/>
+ <path id="path21641" opacity=".1" fill="#fff" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z"/>
+ <path id="path21645" fill="#e0b1ba" d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z"/>
  <text id="text4087-2-6-5-34" opacity=".8" font-size="8.444px" xml:space="preserve" y="13.875067" x="598.15082" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-65" y="13.875067" x="598.15082"/></text>
  <text id="text4087-2-6-5-5-4" opacity=".8" font-size="8.444px" xml:space="preserve" y="-13.286073" x="614.12482" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-0" y="-13.286073" x="614.12482"/></text>
  <text id="text4087-2-6-5-2-2" opacity=".8" font-size="8.444px" xml:space="preserve" y="-33.338165" x="-366.24744" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2-3" y="-33.338165" x="-366.24744"/></text>
@@ -226,6 +226,6 @@
  <text id="text4087-2-6-5-5-6-8" opacity=".8" font-size="8.444px" xml:space="preserve" y="-772.67169" x="1114.7523" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-7" y="-772.67169" x="1114.7523"/></text>
  <text id="text4087-2-6-5-54-5" opacity=".8" font-size="8.444px" xml:space="preserve" y="-777.47833" x="120.44361" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-1" y="-777.47833" x="120.44361"/></text>
  <text id="text4087-2-6-5-4-1-5" opacity=".8" font-size="8.444px" xml:space="preserve" y="-959.63446" x="1094.1388" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-5" y="-959.63446" x="1094.1388"/></text>
- <path id="rect4203-6-2" d="m24 18c-5.54 0-10 4.46-10 10s4.46 10 10 10 10-4.46 10-10-4.46-10-10-10zm0 6a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z" fill="#fff"/>
- <path id="path4416-2" opacity=".5" d="m24 23a5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5zm0 3c1.1046 0 2 0.8954 2 2s-0.8954 2-2 2-2-0.8954-2-2 0.8954-2 2-2z" fill="#fff"/>
+ <path id="rect4203-6-2" fill="#fff" d="m24 18c-5.54 0-10 4.46-10 10s4.46 10 10 10 10-4.46 10-10-4.46-10-10-10zm0 6a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z"/>
+ <path id="path4416-2" opacity=".5" fill="#fff" d="m24 23a5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5zm0 3c1.1046 0 2 0.8954 2 2s-0.8954 2-2 2-2-0.8954-2-2 0.8954-2 2-2z"/>
 </svg>

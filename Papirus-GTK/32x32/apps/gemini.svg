@@ -116,11 +116,11 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="path4877" d="m31 16a15 15 0 0 1 -15 15 15 15 0 0 1 -15 -15 15 15 0 0 1 15 -15 15 15 0 0 1 15 15z" fill="#5d5d5d"/>
- <path id="path5609" opacity=".1" d="m16 1a15 15 0 0 0 -15 15 15 15 0 0 0 0.0195 0.586 15 15 0 0 1 14.98 -14.586 15 15 0 0 1 14.98 14.414 15 15 0 0 0 0.02 -0.414 15 15 0 0 0 -15 -15z" fill="#fff"/>
+ <path id="path4877" fill="#5d5d5d" d="m31 16a15 15 0 0 1 -15 15 15 15 0 0 1 -15 -15 15 15 0 0 1 15 -15 15 15 0 0 1 15 15z"/>
+ <path id="path5609" opacity=".1" fill="#fff" d="m16 1a15 15 0 0 0 -15 15 15 15 0 0 0 0.0195 0.586 15 15 0 0 1 14.98 -14.586 15 15 0 0 1 14.98 14.414 15 15 0 0 0 0.02 -0.414 15 15 0 0 0 -15 -15z"/>
  <path id="path4435" opacity=".2" d="m30.98 16.414a15 15 0 0 1 -14.98 14.586 15 15 0 0 1 -14.98 -14.414 15 15 0 0 0 -0.02 0.414 15 15 0 0 0 15 15 15 15 0 0 0 15 -15 15 15 0 0 0 -0.02 -0.586z"/>
- <circle id="circle4351" opacity=".2" cx="16" cy="10" r="6"/>
- <circle id="path4555" cx="16" cy="9" r="6" fill="#31afe1"/>
- <circle id="circle4353" opacity=".2" cx="16" cy="24" r="6"/>
- <circle id="circle4557" cx="16" cy="23" r="6" fill="#f19f00"/>
+ <circle id="circle4351" opacity=".2" cy="10" cx="16" r="6"/>
+ <circle id="path4555" cy="9" cx="16" r="6" fill="#31afe1"/>
+ <circle id="circle4353" opacity=".2" cy="24" cx="16" r="6"/>
+ <circle id="circle4557" cy="23" cx="16" r="6" fill="#f19f00"/>
 </svg>

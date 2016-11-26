@@ -544,10 +544,10 @@
  <text id="text4087-2-6-5-5-6-8-0" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1209.8401" x="1529.7123" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-5" y="-1209.8401" x="1529.7123"/></text>
  <text id="text4087-2-6-5-54-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1217.05" x="38.249153" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-7" y="-1217.05" x="38.249153"/></text>
  <text id="text4087-2-6-5-4-1-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1490.2842" x="1498.792" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-4-5" y="-1490.2842" x="1498.792"/></text>
- <path id="rect4255" d="m-16-30h9.5c0.831 0 1.5 0.669 1.5 1.5v25c0 0.831-0.669 1.5-1.5 1.5h-19c-0.831 0-1.5-0.669-1.5-1.5v-15.5z" transform="matrix(0,-1,-1,0,0,0)" fill="#5f7c8a"/>
- <path id="rect4419" d="m-17.161-28h10.161v24h-18v-16z" transform="matrix(0,-1,-1,0,0,0)" fill="#7f96a1"/>
- <path id="rect4425" opacity=".1" d="m3.5 5c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
- <path id="path4240" style="enable-background:new" d="m30 16h-9.625c-0.759 0-1.375 0.616-1.375 1.375v9.625z" fill="#b2cfdd"/>
- <path id="path5482" opacity=".2" style="enable-background:new" d="m20.375 16c-0.759 0-1.375 0.616-1.375 1.375v1c0-0.759 0.616-1.375 1.375-1.375h8.625l1-1h-9.625z" fill="#fff"/>
+ <path id="rect4255" transform="matrix(0,-1,-1,0,0,0)" fill="#5f7c8a" d="m-16-30h9.5c0.831 0 1.5 0.669 1.5 1.5v25c0 0.831-0.669 1.5-1.5 1.5h-19c-0.831 0-1.5-0.669-1.5-1.5v-15.5z"/>
+ <path id="rect4419" transform="matrix(0,-1,-1,0,0,0)" fill="#7f96a1" d="m-17.161-28h10.161v24h-18v-16z"/>
+ <path id="rect4425" opacity=".1" fill="#fff" d="m3.5 5c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path id="path4240" style="enable-background:new" fill="#b2cfdd" d="m30 16h-9.625c-0.759 0-1.375 0.616-1.375 1.375v9.625z"/>
+ <path id="path5482" opacity=".2" style="enable-background:new" fill="#fff" d="m20.375 16c-0.759 0-1.375 0.616-1.375 1.375v1c0-0.759 0.616-1.375 1.375-1.375h8.625l1-1h-9.625z"/>
  <path id="path5487" opacity=".2" d="m30 16-11 11h-15.5c-0.831 0-1.5-0.669-1.5-1.5v1c0 0.831 0.669 1.5 1.5 1.5h15.5l11-11v-1z"/>
 </svg>

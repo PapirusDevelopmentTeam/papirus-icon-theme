@@ -14,8 +14,8 @@
    <stop id="stop3683" offset="0"/>
    <stop id="stop3685" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4517" y2="25.313" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" x2="28.615" gradientTransform="matrix(-.70833 0 0 .71429 33 -2)" y1="21" x1="24"/>
-  <linearGradient id="linearGradient4521" y2="36.388" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" x2="12.189" gradientTransform="matrix(.66667 0 0 .66667 .046428 -.34935)" y1="34.828" x1="31.427"/>
+  <linearGradient id="linearGradient4517" x1="24" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" y1="21" gradientTransform="matrix(-.70833 0 0 .71429 33 -2)" x2="28.615" y2="25.313"/>
+  <linearGradient id="linearGradient4521" x1="31.427" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" y1="34.828" gradientTransform="matrix(.66667 0 0 .66667 .046428 -.34935)" x2="12.189" y2="36.388"/>
  </defs>
  <g id="g4357" opacity=".2" transform="translate(0,1)">
   <path id="path4359" d="m7.5 13 8.5-5-6-5-8 5.5z"/>
@@ -130,15 +130,15 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="polygon3899" d="m24 20.64-2.203 0.915-5.797-3.555l-5.7635 3.255-2.2365-0.315v3.1099l8 4.95 8-4.95z" fill="#37a0f2"/>
- <path id="path4519" opacity=".05" d="m16 18v11l8-5v-3l-2.2869 1.2506z" fill="url(#linearGradient4521)"/>
+ <path id="polygon3899" fill="#37a0f2" d="m24 20.64-2.203 0.915-5.797-3.555l-5.7635 3.255-2.2365-0.315v3.1099l8 4.95 8-4.95z"/>
+ <path id="path4519" opacity=".05" fill="url(#linearGradient4521)" d="m16 18v11l8-5v-3l-2.2869 1.2506z"/>
  <g id="g4507" fill="#99cff8">
   <path id="polygon3891" d="m7.5 13 8.5-5-6-5-8 5.5z"/>
   <path id="polygon3893" d="m16 18-8.5-5-5.5 4.5 8 5.5z"/>
   <path id="polygon3895" d="m30 17.5-5.5-4.5-8.5 5l6 4.834z"/>
   <path id="polygon3897" d="m16 8 8.5 5 5.5-4.5-8-5.5z"/>
  </g>
- <path id="path4513" d="m24.5 13-8.5 5-8.5-5 8.5-5z" fill="#88c0ec"/>
- <path id="path4515" opacity=".05" d="m7.5 13 8.5 5v-10z" fill="url(#linearGradient4517)"/>
+ <path id="path4513" fill="#88c0ec" d="m24.5 13-8.5 5-8.5-5 8.5-5z"/>
+ <path id="path4515" opacity=".05" fill="url(#linearGradient4517)" d="m7.5 13 8.5 5v-10z"/>
  <path id="path4523" opacity=".2" d="m8 24.051v1l8 4.949 8-4.9492v-1l-8 4.949-8-4.949z"/>
 </svg>

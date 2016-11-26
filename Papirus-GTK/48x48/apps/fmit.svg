@@ -117,26 +117,26 @@
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203-8" ry="2" rx="2" transform="scale(-1,1)" height="32" width="40" y="8" x="-44" fill="#826f3d"/>
- <path id="rect4395" opacity=".1" fill="#fff" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4395" opacity=".1" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="rect4400" opacity=".2" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
  <g id="g4471" transform="translate(0,-4)">
   <rect id="rect4469" opacity=".2" height="18" width="34" y="16" x="7"/>
   <rect id="rect4461" height="18" width="34" y="15" x="7" fill="#fff"/>
-  <g id="g4409" fill="#ff6e6e" transform="translate(4)">
+  <g id="g4409" transform="translate(4)" fill="#ff6e6e">
    <g id="g4371" transform="translate(0 -1)">
-    <rect id="rect4359" height="13" width="3" y="18" x="8"/>
+    <rect id="rect4359" y="18" width="3" x="8" height="13"/>
     <rect id="rect4365" transform="rotate(90)" height="9" width="3" y="-17" x="23"/>
     <rect id="rect4367" transform="rotate(90)" height="9" width="3" y="-17" x="18"/>
    </g>
    <g id="g4377" transform="matrix(0 1 -1 0 51 13)">
-    <rect id="rect4379" height="13" width="3" y="18" x="8"/>
+    <rect id="rect4379" y="18" width="3" x="8" height="13"/>
     <rect id="rect4381" transform="rotate(90)" height="9" width="3" y="-17" x="23"/>
     <rect id="rect4383" transform="rotate(90)" height="9" width="3" y="-17" x="18"/>
     <rect id="rect4385" transform="rotate(90)" height="9" width="3" y="-17" x="28"/>
    </g>
   </g>
  </g>
- <circle id="circle4459" cx="40" cy="36" r="2" fill="#01d900"/>
+ <circle id="circle4459" cy="36" cx="40" r="2" fill="#01d900"/>
  <g id="g4496" opacity=".4">
   <rect id="rect4486" opacity="1" height="1" width="22" y="31" x="7"/>
   <rect id="rect4490" opacity="1" height="1" width="22" y="33" x="7"/>

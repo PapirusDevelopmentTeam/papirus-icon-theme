@@ -116,9 +116,9 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1185.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1185.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1192.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1192.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
- <path id="rect4255-2" fill="#ccc" d="m12 3-2 2v3h-8v18.5c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-18.5h-8v-3l-2-2zm0 2h8v3h-8z"/>
+ <path id="rect4255-2" d="m12 3-2 2v3h-8v18.5c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-18.5h-8v-3l-2-2zm0 2h8v3h-8z" fill="#ccc"/>
  <path id="path4438" opacity=".2" d="m12 5v1h8v-1h-8zm-10 21.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cy="23.5" cx="24.5" r="7.5" fill="#4ab3e4"/>
- <path id="path4428" fill="#fff" d="m26 18.96v4.04l1.5-0.04-3 4.04-3-4.04h1.5v-4h3zm-5 8.0402h7v1h-7z"/>
- <path id="circle4347" opacity=".2" style="enable-background:new" d="m31.979 23.947a7.5 7.5 0 0 1 -7.479 7.053 7.5 7.5 0 0 1 -7.479 -6.947 7.5 7.5 0 0 0 -0.021 0.447 7.5 7.5 0 0 0 7.5 7.5 7.5 7.5 0 0 0 7.5 -7.5 7.5 7.5 0 0 0 -0.021 -0.553z" fill-rule="evenodd"/>
+ <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cx="24.5" cy="23.5" r="7.5" fill="#4ab3e4"/>
+ <path id="path4428" d="m26 18.96v4.04l1.5-0.04-3 4.04-3-4.04h1.5v-4h3zm-5 8.0402h7v1h-7z" fill="#fff"/>
+ <path id="circle4347" opacity=".2" style="enable-background:new" fill-rule="evenodd" d="m31.979 23.947a7.5 7.5 0 0 1 -7.479 7.053 7.5 7.5 0 0 1 -7.479 -6.947 7.5 7.5 0 0 0 -0.021 0.447 7.5 7.5 0 0 0 7.5 7.5 7.5 7.5 0 0 0 7.5 -7.5 7.5 7.5 0 0 0 -0.021 -0.553z"/>
 </svg>

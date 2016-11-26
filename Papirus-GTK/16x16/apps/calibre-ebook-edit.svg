@@ -1,45 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg8286"
-   viewBox="0 0 16 16"
-   height="16"
-   width="16">
-  <defs
-     id="defs8288" />
-  <metadata
-     id="metadata8291">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-1036.3622)"
-     id="layer1">
-    <rect
-       style="fill:#009688"
-       x="-1052.3622"
-       y="-16"
-       width="16"
-       height="16"
-       transform="matrix(0,-1,-1,0,0,0)"
-       rx="8"
-       ry="8"
-       id="rect4255-5" />
-    <path
-       d="m 6.75,1039.3622 -0.1094,1.3203 a 3.9286,3.9286 0 0 0 -1.1523,0.6602 l -1.1934,-0.5625 -1.25,2.1641 1.084,0.752 a 3.9286,3.9286 0 0 0 -0.0566,0.6659 3.9286,3.9286 0 0 0 0.0586,0.6621 l -1.0859,0.7558 1.25,2.1641 1.1973,-0.5625 a 3.9286,3.9286 0 0 0 1.1483,0.664 l 0.1094,1.316 2.5,0 0.10938,-1.3203 a 3.9286,3.9286 0 0 0 1.1523,-0.6601 l 1.1934,0.5625 1.25,-2.1641 -1.084,-0.752 a 3.9286,3.9286 0 0 0 0.057,-0.6664 3.9286,3.9286 0 0 0 -0.059,-0.6621 l 1.0859,-0.7559 -1.25,-2.1641 -1.1973,0.5625 a 3.9286,3.9286 0 0 0 -1.1486,-0.664 l -0.1094,-1.3164 -2.5,0 z m 1.25,3 c 1.1046,0 2,0.8954 2,2 0,1.1046 -0.89539,2 -2,2 -1.10461,0 -2,-0.8954 -2,-2 0,-1.1046 0.8954,-2 2,-2 z"
-       style="fill:#ffffff;enable-background:new"
-       id="path4397" />
-  </g>
+<svg id="svg8286" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata8291">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1036.4)">
+  <rect id="rect4255-5" ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-1052.4" fill="#009688"/>
+  <path id="path4397" style="enable-background:new" fill="#fff" d="m6.75 1039.4-0.1094 1.3203a3.9286 3.9286 0 0 0 -1.1523 0.6602l-1.1934-0.5625-1.25 2.1641 1.084 0.752a3.9286 3.9286 0 0 0 -0.0566 0.6659 3.9286 3.9286 0 0 0 0.0586 0.6621l-1.0859 0.7558 1.25 2.1641 1.1973-0.5625a3.9286 3.9286 0 0 0 1.1483 0.664l0.1094 1.316h2.5l0.10938-1.3203a3.9286 3.9286 0 0 0 1.1523 -0.6601l1.1934 0.5625 1.25-2.1641-1.084-0.752a3.9286 3.9286 0 0 0 0.057 -0.6664 3.9286 3.9286 0 0 0 -0.059 -0.6621l1.0859-0.7559-1.25-2.1641-1.1973 0.5625a3.9286 3.9286 0 0 0 -1.1486 -0.664l-0.1094-1.3164h-2.5zm1.25 3c1.1046 0 2 0.8954 2 2s-0.89539 2-2 2-2-0.8954-2-2 0.8954-2 2-2z"/>
+ </g>
 </svg>

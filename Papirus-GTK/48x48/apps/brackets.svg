@@ -119,8 +119,8 @@
  <rect id="rect4203" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#29aae2"/>
  <rect id="rect4348" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="1.8824" ry="1.8824" height="32" width="32" y="-40" x="-41"/>
  <rect id="rect3303" transform="matrix(0,-1,-1,0,0,0)" rx="1.8824" ry="1.8824" height="32" width="32" y="-40" x="-40" fill="#fff"/>
- <path id="rect4481" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="rect4481" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path id="rect4104" opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <path id="rect4464" fill="#424242" d="m11 11v26h10v-5h-5v-16h5v-5h-5z"/>
- <path id="path4473" fill="#424242" d="m37 11v26h-10v-5h5v-16h-5v-5h5z"/>
+ <path id="rect4464" d="m11 11v26h10v-5h-5v-16h5v-5h-5z" fill="#424242"/>
+ <path id="path4473" d="m37 11v26h-10v-5h5v-16h-5v-5h5z" fill="#424242"/>
 </svg>

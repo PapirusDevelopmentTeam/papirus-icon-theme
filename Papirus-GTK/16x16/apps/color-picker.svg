@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" viewBox="0 0 16 16" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata7">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -11,7 +11,7 @@
  </metadata>
  <g id="layer1" transform="translate(0 -1036.4)">
   <g id="g4611" transform="matrix(.70711 .70711 -.70711 .70711 740.5 300.55)">
-   <path id="rect4136" d="m7 1039.4c-1.108 0-2 0.7433-2 1.6666l0.0000456 7.5001s-0.0000154 5.8333 3 5.8333 3-5.9 3-5.9l-0.00002-7.5001c0.00006-0.9233-0.89198-1.6666-2-1.6666z" fill="#ccc"/>
+   <path id="rect4136" fill="#ccc" d="m7 1039.4c-1.108 0-2 0.7433-2 1.6666l0.0000456 7.5001s-0.0000154 5.8333 3 5.8333 3-5.9 3-5.9l-0.00002-7.5001c0.00006-0.9233-0.89198-1.6666-2-1.6666z"/>
    <rect id="rect4140" rx="2.6667" ry="3.3333" height="10" width="6" y="1034.4" x="5" fill="#ffbc48"/>
    <rect id="rect4142" rx=".41667" ry=".5" height="3" width="10" y="1041.4" x="3" fill="#ffbc48"/>
    <rect id="rect4151" rx="1" ry=".875" height="7" width="2" y="1046.4" x="7" fill="#4e79ff"/>
