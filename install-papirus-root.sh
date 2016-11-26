@@ -27,7 +27,7 @@ EOF
 temp_dir=$(mktemp -d)
 
 echo "=> Getting the latest version from GitHub ..."
-curl --progress-bar -Lfo "/tmp/$gh_repo.tar.gz" \
+wget -O "/tmp/$gh_repo.tar.gz" \
   https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/master.tar.gz
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
