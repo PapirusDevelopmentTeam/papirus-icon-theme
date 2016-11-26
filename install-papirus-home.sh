@@ -38,6 +38,8 @@ mkdir -p ~/.icons
 cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/Papirus-GTK" \
   "$temp_dir/$gh_repo-master/Papirus-Dark-GTK" ~/.icons/
+gtk-update-icon-cache -q ~/.icons/Papirus-GTK || true
+gtk-update-icon-cache -q ~/.icons/Papirus-Dark-GTK || true
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
 echo "=> Done!"

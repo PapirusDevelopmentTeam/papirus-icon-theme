@@ -37,6 +37,8 @@ echo "=> Installing ..."
 sudo cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/Papirus-GTK" \
   "$temp_dir/$gh_repo-master/Papirus-Dark-GTK" /usr/share/icons/
+sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus-GTK" || true
+sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus-Dark-GTK" || true
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
 echo "=> Done!"
