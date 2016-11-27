@@ -3,7 +3,7 @@
 set -e
 
 gh_repo="papirus-icon-theme"
-gh_desc="Papirus icon theme"
+gh_desc="Papirus icon theme KDE"
 
 cat <<- EOF
 
