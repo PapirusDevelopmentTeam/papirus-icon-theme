@@ -37,7 +37,7 @@ echo "=> Installing ..."
 mkdir -p ~/.local/share/icons
 cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/Papirus" \
-  "$temp_dir/$gh_repo-master/Papirus-Dark" /.local/share/icons/
+  "$temp_dir/$gh_repo-master/Papirus-Dark" ~/.local/share/icons/
 echo "=> Clearing cache ..."
 rm -f ~/.cache/icon-cache.kcache
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
