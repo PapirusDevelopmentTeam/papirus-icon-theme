@@ -2,8 +2,8 @@
 
 set -e
 
-gh_repo="papirus-icon-theme-gtk"
-gh_desc="Papirus icon theme for GTK"
+gh_repo="papirus-icon-theme"
+gh_desc="Papirus icon theme"
 
 cat <<- EOF
 
@@ -32,14 +32,14 @@ wget -O "/tmp/$gh_repo.tar.gz" \
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
-rm -rf ~/.icons/Papirus-GTK ~/.icons/Papirus-Dark-GTK
+rm -rf ~/.icons/Papiru*
 echo "=> Installing ..."
 mkdir -p ~/.icons
 cp --no-preserve=mode,ownership -r \
-  "$temp_dir/$gh_repo-master/Papirus-GTK" \
-  "$temp_dir/$gh_repo-master/Papirus-Dark-GTK" ~/.icons/
-gtk-update-icon-cache -q ~/.icons/Papirus-GTK || true
-gtk-update-icon-cache -q ~/.icons/Papirus-Dark-GTK || true
+  "$temp_dir/$gh_repo-master/Papirus" \
+  "$temp_dir/$gh_repo-master/Papirus-Dark" ~/.icons/
+gtk-update-icon-cache -q ~/.icons/Papirus || true
+gtk-update-icon-cache -q ~/.icons/Papirus-Dark || true
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
 echo "=> Done!"
