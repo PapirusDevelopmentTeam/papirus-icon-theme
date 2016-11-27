@@ -25,11 +25,6 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 - tar
 - libqt4-svg (optional, need for right work on Qt4-apps)
 
-For easy way update you can add bash alias `update-papirus`:
-```
-echo 'alias update-papirus="wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/master/install-papirus-home.sh | sh"' >> ~/.bashrc
-```
-
 # Remove
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh
