@@ -26,5 +26,8 @@ EOF
 
 echo "=> Removing $gh_desc ..."
 sudo rm -rf /usr/share/icons/Papiru*
+sudo rm -rf /usr/share/icons/papiru*
 rm -rf ~/.icons/Papirus-GTK ~/.icons/Papiru*
+rm -rf ~/.local/share/icons/Papiru*
+rm -rf ~/.local/share/icons/papiru*
 echo "=> Done!"
