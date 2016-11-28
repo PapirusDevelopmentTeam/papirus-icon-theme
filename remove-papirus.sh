@@ -25,9 +25,11 @@ cat <<- EOF
 EOF
 
 echo "=> Removing $gh_desc ..."
-sudo rm -rf /usr/share/icons/Papiru*
-sudo rm -rf /usr/share/icons/papiru*
-rm -rf ~/.icons/Papirus-GTK ~/.icons/Papiru*
-rm -rf ~/.local/share/icons/Papiru*
-rm -rf ~/.local/share/icons/papiru*
+sudo rm -rf /usr/share/icons/Papirus /usr/share/icons/Papirus-Dark
+rm -rf ~/.icons/Papirus ~/.icons/Papirus-Dark
+rm -rf ~/.local/share/icons/Papirus ~/.local/share/icons/Papirus-Dark
+sudo rm -rf /usr/share/icons/Papiru*  # temporary
+sudo rm -rf /usr/share/icons/papiru*  # temporary
+rm -rf ~/.icons/Papiru*  # temporary
+rm -rf ~/.local/share/icons/Papiru*  # temporary
 echo "=> Done!"
