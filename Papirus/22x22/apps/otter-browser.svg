@@ -18,11 +18,11 @@
   </clipPath>
  </defs>
  <circle id="path4232" cy="11" cx="11" r="8" fill="#796948"/>
- <path id="path4154" d="m11 1a10 10 0 0 0 -10 10 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -10 -10zm0 4a5 6 0 0 1 5 6 5 6 0 0 1 -5 6 5 6 0 0 1 -5 -6 5 6 0 0 1 5 -6z" style="color:#000000" fill="#3b94f7"/>
- <circle id="path4240-5" opacity="0" style="color:#000000" clip-path="url(#clipPath4186-2)" r="10" transform="translate(-275 -15)" cy="26" cx="286" stroke-width=".45455"/>
- <circle id="path4242-5" opacity="0" style="color:#000000" clip-path="url(#clipPath4186-2)" r="10" transform="translate(-275 -15)" cy="26" cx="286" stroke-width=".90909"/>
- <path id="path4157" opacity=".2" style="color:#000000" fill="#fff" d="m11 1a10 10 0 0 0 -9.9999 10 10 10 0 0 0 0.0098 0.207 10 10 0 0 1 9.9901 -9.707 10 10 0 0 1 9.99 9.793 10 10 0 0 0 0.01 -0.293 10 10 0 0 0 -10 -10zm4.9922 10.197a5 6 0 0 1 -4.992 5.803 5 6 0 0 1 -4.9921 -5.697 5 6 0 0 0 -0.0078 0.197 5 6 0 0 0 5 6 5 6 0 0 0 5 -6 5 6 0 0 0 -0.0078 -0.30273z"/>
+ <path id="path4154" style="color:#000000" fill="#3b94f7" d="m11 1a10 10 0 0 0 -10 10 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -10 -10zm0 4a5 6 0 0 1 5 6 5 6 0 0 1 -5 6 5 6 0 0 1 -5 -6 5 6 0 0 1 5 -6z"/>
+ <circle id="path4240-5" opacity="0" style="color:#000000" clip-path="url(#clipPath4186-2)" cx="286" transform="translate(-275 -15)" cy="26" r="10" stroke-width=".45455"/>
+ <circle id="path4242-5" opacity="0" style="color:#000000" clip-path="url(#clipPath4186-2)" cx="286" transform="translate(-275 -15)" cy="26" r="10" stroke-width=".90909"/>
+ <path id="path4157" opacity=".2" d="m11 1a10 10 0 0 0 -9.9999 10 10 10 0 0 0 0.0098 0.207 10 10 0 0 1 9.9901 -9.707 10 10 0 0 1 9.99 9.793 10 10 0 0 0 0.01 -0.293 10 10 0 0 0 -10 -10zm4.9922 10.197a5 6 0 0 1 -4.992 5.803 5 6 0 0 1 -4.9921 -5.697 5 6 0 0 0 -0.0078 0.197 5 6 0 0 0 5 6 5 6 0 0 0 5 -6 5 6 0 0 0 -0.0078 -0.30273z" style="color:#000000" fill="#fff"/>
  <path id="path4162" opacity=".2" style="color:#000000" d="m11 5a5 6 0 0 0 -5 6 5 6 0 0 0 0.00781 0.30273 5 6 0 0 1 4.9922 -5.803 5 6 0 0 1 4.992 5.697 5 6 0 0 0 0.008 -0.197 5 6 0 0 0 -5 -6zm-9.9901 6.207a10 10 0 0 0 -0.0098 0.293 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -0.0098 -0.20703 10 10 0 0 1 -9.99 9.707 10 10 0 0 1 -9.9901 -9.793z"/>
- <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="translate(-275 -15)" cy="26" cx="286" stroke-width=".45455"/>
- <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="translate(-275 -15)" cy="26" cx="286" stroke-width=".90909"/>
+ <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" cx="286" transform="translate(-275 -15)" cy="26" r="10" stroke-width=".45455"/>
+ <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" cx="286" transform="translate(-275 -15)" cy="26" r="10" stroke-width=".90909"/>
 </svg>

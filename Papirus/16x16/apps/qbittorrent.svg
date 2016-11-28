@@ -11,12 +11,12 @@
  </metadata>
  <defs id="defs2819">
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle id="path4188" style="color:#000000" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+   <circle id="path4188" style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
- <circle id="path4240" opacity="0" style="color:#000000" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" r="10"/>
- <circle id="path4242" opacity="0" style="color:#000000" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" r="10"/>
- <circle id="path4230" style="color:#000000" cy="8" cx="8" r="8" fill="#2f67ba"/>
- <path id="path4223" d="m4.5 6a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 1.5 -0.504v4.504h1v-6.5-2.5h-1v0.50195a2.5 2.5 0 0 0 -1.5 -0.502zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z" fill="#7fc1de"/>
- <path id="path4233" d="m11.5 11a2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5 2.5 2.5 0 0 0 -1.5 0.5039v-4.5039h-1v6.5 2.5h1v-0.50195a2.5 2.5 0 0 0 1.5 0.502zm0-1a1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5z" fill="#fff"/>
+ <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" stroke-width=".45455"/>
+ <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" stroke-width=".90909"/>
+ <circle id="path4230" style="color:#000000" cx="8" cy="8" r="8" fill="#2f67ba"/>
+ <path id="path4223" fill="#7fc1de" d="m4.5 6a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 1.5 -0.504v4.504h1v-9h-1v0.50195a2.5 2.5 0 0 0 -1.5 -0.502zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z"/>
+ <path id="path4233" fill="#fff" d="m11.5 11a2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5 2.5 2.5 0 0 0 -1.5 0.5039v-4.5039h-1v9h1v-0.50195a2.5 2.5 0 0 0 1.5 0.502zm0-1a1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5z"/>
 </svg>

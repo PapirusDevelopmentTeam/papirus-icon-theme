@@ -9,13 +9,13 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g id="layer7" display="none" transform="translate(-52.273,-4.186)">
+ <g id="layer7" transform="translate(-52.273,-4.186)" display="none">
   <rect id="rect4169" display="inline" rx="9" ry="9" height="44" width="44" y="2" x="2" fill="#abe1ad"/>
  </g>
  <rect id="rect4147" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="16" y="-21" x="-19.5" fill="#333"/>
  <rect id="rect3095" ry="1" rx="1" transform="matrix(0,-1,-1,0,0,0)" height="20" width="16" y="-21" x="-19" fill="#5d5d5d"/>
- <path id="path3895" opacity=".1" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z" fill="#fff"/>
- <circle id="circle7479" style="enable-background:new" cy="16.5" cx="16.5" r="5.5" fill="#1ea362"/>
- <path id="path5196" style="enable-background:new" fill="#fff" d="m14 17.582v1.4182h1.4182l3.582-3.582-1.418-1.418z"/>
- <path id="rect4145" opacity=".1" d="m4 3h-2c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h2z" fill="#fff"/>
+ <path id="path3895" opacity=".1" fill="#fff" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <circle id="circle7479" style="enable-background:new" cx="16.5" cy="16.5" r="5.5" fill="#1ea362"/>
+ <path id="path5196" d="m14 17.582v1.4182h1.4182l3.582-3.582-1.418-1.418z" style="enable-background:new" fill="#fff"/>
+ <path id="rect4145" opacity=".1" fill="#fff" d="m4 3h-2c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h2z"/>
 </svg>

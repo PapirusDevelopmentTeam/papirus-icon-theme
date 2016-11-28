@@ -10,13 +10,13 @@
   </rdf:RDF>
  </metadata>
  <g id="g4166" transform="translate(1,1)">
-  <path id="rect4203" d="m2 2c-0.554 0-1 0.446-1 1v15h20v-15c0-0.554-0.446-1-1-1h-18z" fill="#4ab3e4"/>
-  <path id="rect3328" d="m2 20c-0.554 0-1-0.446-1-1v-1h20v1c0 0.554-0.446 1-1 1z" fill="#5d5d5d"/>
-  <path id="path3345" opacity=".1" d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" fill="#fff"/>
+  <path id="rect4203" fill="#4ab3e4" d="m2 2c-0.554 0-1 0.446-1 1v15h20v-15c0-0.554-0.446-1-1-1h-18z"/>
+  <path id="rect3328" fill="#5d5d5d" d="m2 20c-0.554 0-1-0.446-1-1v-1h20v1c0 0.554-0.446 1-1 1z"/>
+  <path id="path3345" opacity=".1" fill="#fff" d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
   <path id="path4141" opacity=".2" d="m1 19v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
   <rect id="rect4229" opacity=".2" rx=".5" ry=".5" height="6" width="8" y="8.5" x="7"/>
-  <path id="rect4152" fill="#fff" d="m7 9v4.5c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-4.5h-8z"/>
-  <path id="rect4154" fill="#5d5d5d" d="m7.5 8h7c0.277 0 0.5 0.223 0.5 0.5v0.5h-8v-0.5c0-0.277 0.223-0.5 0.5-0.5z"/>
+  <path id="rect4152" d="m7 9v4.5c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-4.5h-8z" fill="#fff"/>
+  <path id="rect4154" d="m7.5 8h7c0.277 0 0.5 0.223 0.5 0.5v0.5h-8v-0.5c0-0.277 0.223-0.5 0.5-0.5z" fill="#5d5d5d"/>
   <g id="g4353" opacity=".2" transform="translate(-2,-2.5)">
    <rect id="rect4345" opacity="1" rx=".25" ry=".25" height="2" width="2" y="6" x="4"/>
    <rect id="rect4347" opacity="1" rx=".25" ry=".25" height="2" width="2" y="9" x="4"/>

@@ -10,9 +10,9 @@
   </rdf:RDF>
  </metadata>
  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#ac8a78"/>
- <path id="path4267" stroke="#494949" stroke-width=".5" fill="none" d="m5 8.75v-4.75h5v4.75"/>
- <path id="path4272" stroke="#494949" stroke-width=".5" fill="none" d="m6 12.25v-4.25h6v4.25"/>
- <path id="path4270" stroke="#494949" stroke-width=".5" fill="none" d="m3 12.25v-4.25h6v4.25"/>
+ <path id="path4267" d="m5 8.75v-4.75h5v4.75" stroke="#494949" stroke-width=".5" fill="none"/>
+ <path id="path4272" d="m6 12.25v-4.25h6v4.25" stroke="#494949" stroke-width=".5" fill="none"/>
+ <path id="path4270" d="m3 12.25v-4.25h6v4.25" stroke="#494949" stroke-width=".5" fill="none"/>
  <rect id="rect4243" height="2" width="2" y="11" x="2" fill="#fff"/>
  <rect id="rect4245" height="2" width="2" y="11" x="5" fill="#fff"/>
  <rect id="rect4247" height="2" width="2" y="11" x="8" fill="#fff"/>

@@ -10,7 +10,7 @@
   </rdf:RDF>
  </metadata>
  <circle id="circle4196" cy="8" cx="8" r="8" fill="#ccc"/>
- <path id="path4201" fill-rule="evenodd" fill="#4e4e4e" d="m10 5.5l-4 2v8.234a8 8 0 0 0 2 0.266 8 8 0 0 0 6 -2.719v-5.781l-4-2z"/>
- <path id="path4203" fill-rule="evenodd" fill="#fea332" d="m10 6.5l-3 1.5v7.93a8 8 0 0 0 1 0.07 8 8 0 0 0 5 -1.756v-6.244l-3-1.5z"/>
- <path id="path4212" fill="#4e4e4e" d="m11 8a1 1 0 0 1 -0.5 0.86602 1 1 0 0 1 -1 0 1 1 0 0 1 -0.5 -0.866"/>
+ <path id="path4201" d="m10 5.5l-4 2v8.234a8 8 0 0 0 2 0.266 8 8 0 0 0 6 -2.719v-5.781l-4-2z" fill="#4e4e4e" fill-rule="evenodd"/>
+ <path id="path4203" d="m10 6.5l-3 1.5v7.93a8 8 0 0 0 1 0.07 8 8 0 0 0 5 -1.756v-6.244l-3-1.5z" fill="#fea332" fill-rule="evenodd"/>
+ <path id="path4212" d="m11 8a1 1 0 0 1 -0.5 0.86602 1 1 0 0 1 -1 0 1 1 0 0 1 -0.5 -0.866" fill="#4e4e4e"/>
 </svg>

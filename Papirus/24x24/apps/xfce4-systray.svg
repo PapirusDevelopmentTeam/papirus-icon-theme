@@ -9,14 +9,14 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="rect4203" fill="#4ab3e4" d="m3 3c-0.554 0-1 0.446-1 1v1 12h20v-12-1c0-0.554-0.446-1-1-1h-18z"/>
- <path id="rect3328" d="m3 21c-0.554 0-1-0.446-1-1v-3h20v3c0 0.554-0.446 1-1 1z" fill="#253951"/>
- <path id="path3345" opacity=".1" d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" fill="#fff"/>
+ <path id="rect4203" d="m3 3c-0.554 0-1 0.446-1 1v13h20v-13c0-0.554-0.446-1-1-1h-18z" fill="#4ab3e4"/>
+ <path id="rect3328" fill="#253951" d="m3 21c-0.554 0-1-0.446-1-1v-3h20v3c0 0.554-0.446 1-1 1z"/>
+ <path id="path3345" opacity=".1" fill="#fff" d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
  <circle id="circle4144" opacity=".2" cy="19.5" cx="13" r="1"/>
- <circle id="path4136" opacity="0.72" cy="19" cx="13" r="1" fill="#fff"/>
+ <circle id="path4136" opacity=".72" cy="19" cx="13" r="1" fill="#fff"/>
  <circle id="circle4146" opacity=".2" cy="19.5" cx="16" r="1"/>
- <circle id="circle4140" opacity="0.72" cy="19" cx="16" r="1" fill="#fff"/>
+ <circle id="circle4140" opacity=".72" cy="19" cx="16" r="1" fill="#fff"/>
  <circle id="circle4148" opacity=".2" cy="19.5" cx="19" r="1"/>
- <circle id="circle4142" opacity="0.72" cy="19" cx="19" r="1" fill="#fff"/>
+ <circle id="circle4142" opacity=".72" cy="19" cx="19" r="1" fill="#fff"/>
  <path id="path4166" opacity=".2" d="m2 20v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
 </svg>

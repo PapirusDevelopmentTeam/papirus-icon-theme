@@ -11,18 +11,18 @@
  </metadata>
  <defs id="defs2819">
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle id="path4188" style="color:#000000" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+   <circle id="path4188" style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
  <g id="g4280" transform="translate(-1,-1)">
   <circle id="path4230" style="color:#000000" cx="12" cy="12" r="10" fill="#2f67ba"/>
-  <circle id="path4240" opacity="0" style="color:#000000" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="translate(-274,-14)" cy="26" cx="286" r="10"/>
-  <circle id="path4242" opacity="0" style="color:#000000" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="translate(-274,-14)" cy="26" cx="286" r="10"/>
-  <path id="rect3436" opacity=".2" fill="#fff" d="m12 2c-5.5395 0-9.999 4.46-9.999 10 0 0.08386-0.002 0.16664 0 0.25 0.1321-5.423 4.5435-9.75 9.999-9.75s9.867 4.3268 9.999 9.75c0.002-0.08335 0-0.16614 0-0.25 0-5.54-4.459-10-9.999-10z"/>
+  <circle id="path4240" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="translate(-274,-14)" cy="26" cx="286" stroke-width=".45455"/>
+  <circle id="path4242" opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="translate(-274,-14)" cy="26" cx="286" stroke-width=".90909"/>
+  <path id="rect3436" opacity=".2" d="m12 2c-5.5395 0-9.999 4.46-9.999 10 0 0.08386-0.002 0.16664 0 0.25 0.1321-5.423 4.5435-9.75 9.999-9.75s9.867 4.3268 9.999 9.75c0.002-0.08335 0-0.16614 0-0.25 0-5.54-4.459-10-9.999-10z" fill="#fff"/>
   <path id="circle4330" opacity=".2" style="color:#000000" d="m21.99 12.209a10 10 0 0 1 -9.99 9.791 10 10 0 0 1 -9.989 -9.709 10 10 0 0 0 -0.011 0.209 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -0.0105 -0.291z"/>
-  <path id="path4159" opacity=".2" d="m7 8.5a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 2 -0.54004v4.54h2v-8-4h-2v0.54199a4 4 0 0 0 -2 -0.542zm0 2a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
-  <path id="path4143" d="m7 8a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 2 -0.54004v4.54h2v-8-4h-2v0.542a4 4 0 0 0 -2 -0.542zm0 2a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z" fill="#7fc1de"/>
-  <path id="path4161" opacity=".2" d="m17 16.5a4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4 4 4 0 0 0 -2 0.54004v-4.54h-2v8 4h2v-0.54199a4 4 0 0 0 2 0.542zm0-2a2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2 2 2 0 0 1 2 2 2 2 0 0 1 -2 2z"/>
-  <path id="path4151" d="m17 16a4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4 4 4 0 0 0 -2 0.54v-4.54h-2v8 4h2v-0.54199a4 4 0 0 0 2 0.542zm0-2a2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2 2 2 0 0 1 2 2 2 2 0 0 1 -2 2z" fill="#fff"/>
+  <path id="path4159" opacity=".2" d="m7 8.5a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 2 -0.54004v4.54h2v-12h-2v0.54199a4 4 0 0 0 -2 -0.542zm0 2a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
+  <path id="path4143" fill="#7fc1de" d="m7 8a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 2 -0.54004v4.54h2v-12h-2v0.542a4 4 0 0 0 -2 -0.542zm0 2a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
+  <path id="path4161" opacity=".2" d="m17 16.5a4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4 4 4 0 0 0 -2 0.54004v-4.54h-2v12h2v-0.54199a4 4 0 0 0 2 0.542zm0-2a2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2 2 2 0 0 1 2 2 2 2 0 0 1 -2 2z"/>
+  <path id="path4151" fill="#fff" d="m17 16a4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4 4 4 0 0 0 -2 0.54v-4.54h-2v12h2v-0.54199a4 4 0 0 0 2 0.542zm0-2a2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2 2 2 0 0 1 2 2 2 2 0 0 1 -2 2z"/>
  </g>
 </svg>
