@@ -1,15 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 32 32.000001">
- <metadata id="metadata4">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <circle id="path3197" cx="16" cy="16" r="14" fill="#646464"/>
- <path id="rect4187" d="m14 7v1.2598a8 8 0 0 0 -2.057 0.8554l-0.892-0.8925-2.8283 2.8283 0.8925 0.892a8 8 0 0 0 -0.8496 2.057h-1.2656v4h1.2598a8 8 0 0 0 0.8554 2.057l-0.8925 0.892 2.8283 2.828 0.892-0.892a8 8 0 0 0 2.057 0.849v1.266h4v-1.26a8 8 0 0 0 2.057 -0.855l0.892 0.892 2.828-2.828-0.892-0.892a8 8 0 0 0 0.849 -2.057h1.266v-4h-1.26a8 8 0 0 0 -0.855 -2.057l0.892-0.892-2.828-2.8283-0.892 0.8925a8 8 0 0 0 -2.057 -0.8496v-1.2656h-4zm2 5a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z" fill="#fff"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   viewBox="0 0 32 32.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem-system.svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     id="namedview6"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="1"
+     inkscape:cx="-4.7471364"
+     inkscape:cy="15.570634"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3195" />
+    <sodipodi:guide
+       position="24,18"
+       orientation="1,0"
+       id="guide3260" />
+    <sodipodi:guide
+       position="23,24"
+       orientation="0,1"
+       id="guide3262" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     style="opacity:1;fill:#252a35;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path3197"
+     cx="16"
+     cy="16"
+     r="14" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 14 7 L 14 8.2597656 A 8 8 0 0 0 11.943359 9.1152344 L 11.050781 8.2226562 L 8.2226562 11.050781 L 9.1152344 11.943359 A 8 8 0 0 0 8.265625 14 L 7 14 L 7 18 L 8.2597656 18 A 8 8 0 0 0 9.1152344 20.056641 L 8.2226562 20.949219 L 11.050781 23.777344 L 11.943359 22.884766 A 8 8 0 0 0 14 23.734375 L 14 25 L 18 25 L 18 23.740234 A 8 8 0 0 0 20.056641 22.884766 L 20.949219 23.777344 L 23.777344 20.949219 L 22.884766 20.056641 A 8 8 0 0 0 23.734375 18 L 25 18 L 25 14 L 23.740234 14 A 8 8 0 0 0 22.884766 11.943359 L 23.777344 11.050781 L 20.949219 8.2226562 L 20.056641 9.1152344 A 8 8 0 0 0 18 8.265625 L 18 7 L 14 7 z M 16 12 A 4 4 0 0 1 20 16 A 4 4 0 0 1 16 20 A 4 4 0 0 1 12 16 A 4 4 0 0 1 16 12 z "
+     id="rect4187" />
 </svg>
