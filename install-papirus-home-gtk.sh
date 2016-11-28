@@ -3,7 +3,7 @@
 set -e
 
 gh_repo="papirus-icon-theme"
-gh_desc="Papirus icon theme KDE"
+gh_desc="Papirus icon theme GTK"
 
 cat <<- EOF
 
@@ -32,7 +32,10 @@ wget -O "/tmp/$gh_repo.tar.gz" \
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
-rm -rf ~/.icons/Papiru*
+rm -rf ~/.icons/Papirus
+rm -rf ~/.icons/Papirus-Dark
+rm -rf ~/.icons/Papirus-GTK
+rm -rf ~/.icons/Papirus-Dark-GTK
 echo "=> Installing ..."
 mkdir -p ~/.icons
 cp --no-preserve=mode,ownership -r \
