@@ -38,8 +38,8 @@ Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-
 
 
 # Recommends
-- For beter looking use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
-
+- For GTK better use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
+- For KDE better use with [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
 
 # Icon request
 - Application name
