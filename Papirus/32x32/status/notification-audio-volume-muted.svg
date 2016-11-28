@@ -10,13 +10,13 @@
   </rdf:RDF>
  </metadata>
  <title id="title8473">Paper Symbolic Icon Theme</title>
- <path id="path4218" d="m14.999 2-7.999 8.002h-6v12h6l7.999 7.998z" fill="#c4c4c4"/>
- <path id="path4140" opacity=".2" fill="#fff" d="m14.998 2l-7.998 8.002h-6v1h6l7.998-8.002v-1z"/>
+ <path id="path4218" fill="#c4c4c4" d="m14.999 2-7.999 8.002h-6v12h6l7.999 7.998z"/>
+ <path id="path4140" opacity=".2" d="m14.998 2l-7.998 8.002h-6v1h6l7.998-8.002v-1z" fill="#fff"/>
  <path id="path4155" opacity=".2" d="m1 22.002v1h6l7.998 7.998v-1l-7.998-7.998h-6z"/>
  <circle id="path4058" style="enable-background:new" cx="18" cy="24" r="7" fill="#db3c30"/>
  <path id="circle8565" opacity=".2" style="enable-background:new" d="m24.977 24.459a7 7 0 0 1 -6.977 6.541 7 7 0 0 1 -6.977 -6.459 7 7 0 0 0 -0.023 0.459 7 7 0 0 0 7 7 7 7 0 0 0 7 -7 7 7 0 0 0 -0.02344 -0.54102z"/>
- <g id="g6438" transform="matrix(.70711 -.70711 .70711 .70711 -15.941 24)" fill="#fff">
-  <rect id="rect4396" y="23" width="8" x="20" height="2"/>
+ <g id="g6438" fill="#fff" transform="matrix(.70711 -.70711 .70711 .70711 -15.941 24)">
+  <rect id="rect4396" y="23" width="8" height="2" x="20"/>
   <rect id="rect6436" transform="rotate(90)" height="2" width="8" y="-25" x="20"/>
  </g>
 </svg>

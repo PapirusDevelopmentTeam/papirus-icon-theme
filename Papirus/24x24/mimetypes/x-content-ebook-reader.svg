@@ -12,8 +12,8 @@
  </metadata>
  <rect id="rect4480" transform="scale(-1,1)" rx="2" ry="2" height="44" width="36" y="2" x="-42" fill="#009688"/>
  <rect id="rect4482" rx="2" ry="2" height="44" width="36" y="2" x="6" fill="#009688"/>
- <path id="rect4491" opacity=".2" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h16c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-16z" transform="scale(2)" fill="#fff"/>
- <path id="path4505" style="enable-background:new" d="m30 2v22l2-2h2l2 2v-22z" fill="#d8d8d8"/>
+ <path id="rect4491" opacity=".2" transform="scale(2)" fill="#fff" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h16c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-16z"/>
+ <path id="path4505" style="enable-background:new" fill="#d8d8d8" d="m30 2v22l2-2h2l2 2v-22z"/>
  <path id="rect4245" opacity=".2" d="m8 2c-1.108 0-2 0.892-2 2v40c0 1.108 0.892 2 2 2h4v-44h-4z"/>
  <path id="rect4489" opacity=".3" d="m6 43v1c0 1.108 0.892 2 2 2h32c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-32c-1.108 0-2-0.892-2-2z"/>
 </svg>
