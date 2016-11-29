@@ -2,8 +2,11 @@
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
 <sub>more 2400 icons for apps
+
 more 1700 icons for actions
+
 more 1600 icons for panel
+
 more 90 icons for places</sub>
 
 # About
