@@ -2,6 +2,13 @@
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
 
+<sup>
+- more 2400 icons for apps
+- more 1700 icons for actions
+- more 1600 icons for panel
+- more 90 icons for places
+</sup>
+
 # About
 Papirus - it's SVG icon theme for Linux, based on [Paper](https://github.com/snwh/paper-icon-theme) with more additionals (hardcode-tray support, libreoffice icon theme, filezilla theme, smplayer themes ...) and modifications. Available light and dark version for GTK and KDE.
 
