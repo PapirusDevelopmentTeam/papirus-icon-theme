@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
 
-![more 2400 icons for apps](https://img.shields.io/badge/icons%20for%20apps-2400+-brightgreen.svg) ![more 1700 icons for actions](https://img.shields.io/badge/icons%20for%20actions-1700+-brightgreen.svg) ![more 1600 icons for panel](https://img.shields.io/badge/icons%20for%20panel-1600+-brightgreen.svg) ![more 90 icons for places](https://img.shields.io/badge/icons%20for%20places-90+-brightgreen.svg)
+![apps](https://img.shields.io/badge/icons%20for%20apps-2400%2B-5294e2.svg) ![actions](https://img.shields.io/badge/icons%20for%20actions-1700%2B-5294e2.svg) ![panel](https://img.shields.io/badge/icons%20for%20panel-1600%2B-5294e2.svg) ![places](https://img.shields.io/badge/icons%20for%20places-90%2B-5294e2.svg)
 
 # About
 Papirus - it's SVG icon theme for Linux, based on [Paper](https://github.com/snwh/paper-icon-theme) with more additionals (hardcode-tray support, libreoffice icon theme, filezilla theme, smplayer themes ...) and modifications. Available light and dark version for GTK and KDE.
