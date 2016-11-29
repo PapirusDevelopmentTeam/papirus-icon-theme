@@ -1,46 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg4222" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="48" viewBox="0 0 48 48.000001" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4227">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="rect4203" d="m6 6c-1.108 0-2 0.892-2 2v26h40v-26c0-1.108-0.892-2-2-2h-36z" fill="#4ab3e4"/>
- <path id="rect3328" fill="#253951" d="m6 42c-1.108 0-2-0.892-2-2v-6h40v6c0 1.108-0.892 2-2 2z"/>
- <path id="path3345" opacity=".1" fill="#fff" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
- <rect id="rect4169" opacity=".2" rx="1.4366" ry="1.544" height="6" width="18" y="35" x="5" fill="#fff"/>
- <rect id="rect4171" opacity=".2" rx="1.4366" ry="1.544" height="6" width="18" y="35" x="24" fill="#fff"/>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -757.23 -681.58)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -757.23 -674.34)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-366.5145" x="395.42184" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-366.5145" x="395.42184"/><tspan id="tspan7280" y="-350.68143" x="395.42184"/></text>
- <g id="layer4-0-2" transform="matrix(.90475 0 0 .90475 -816.01 -682.19)">
- </g>
- <g id="layer4-0-7-90" transform="matrix(.90475 0 0 .90475 -816.01 -674.95)">
- </g>
- <text id="text7276-0" font-size="12.666px" xml:space="preserve" y="-367.12466" x="336.64218" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-58" y="-367.12466" x="336.64218"/><tspan id="tspan7280-1" y="-351.2916" x="336.64218"/></text>
- <g id="layer4-0-3" transform="matrix(.90475 0 0 .90475 -869.82 -683.95)">
- </g>
- <g id="layer4-0-7-9" transform="matrix(.90475 0 0 .90475 -869.82 -676.71)">
- </g>
- <text id="text7276-3" font-size="12.666px" xml:space="preserve" y="-368.8895" x="282.83575" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3" y="-368.8895" x="282.83575"/><tspan id="tspan7280-77" y="-353.05643" x="282.83575"/></text>
- <g id="layer4-0-4" transform="matrix(.90475 0 0 .90475 -925.22 -695.53)">
- </g>
- <g id="layer4-0-7-2" transform="matrix(.90475 0 0 .90475 -925.22 -688.29)">
- </g>
- <text id="text7276-2" font-size="12.666px" xml:space="preserve" y="-380.46921" x="227.43596" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-5" y="-380.46921" x="227.43596"/><tspan id="tspan7280-7" y="-364.63614" x="227.43596"/></text>
- <g id="layer4-0-0" transform="matrix(.90475 0 0 .90475 -759.44 -683.99)">
- </g>
- <g id="layer4-0-7-1" transform="matrix(.90475 0 0 .90475 -759.44 -676.75)">
- </g>
- <text id="text7276-5" font-size="12.666px" xml:space="preserve" y="-368.92154" x="393.21078" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-1" y="-368.92154" x="393.21078"/><tspan id="tspan7280-8" y="-353.08847" x="393.21078"/></text>
- <text id="text7276-7" font-size="12.666px" xml:space="preserve" y="-371.97238" x="303.51587" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-5-3" y="-371.97238" x="303.51587"/><tspan id="tspan7280-9" y="-356.13931" x="303.51587"/></text>
- <rect id="rect5396" height="4" width="4" y="36" x="6" fill="#fff"/>
- <rect id="rect5398" height="4" width="4" y="36" x="25" fill="#fff"/>
- <path id="path5403" opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+    <metadata id="metadata4227">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="rect4203" d="m6 6c-1.108 0-2 0.892-2 2v26h40v-26c0-1.108-0.892-2-2-2h-36z" fill="#4ab3e4"/>
+    <path id="rect3328" fill="#253951" d="m6 42c-1.108 0-2-0.892-2-2v-6h40v6c0 1.108-0.892 2-2 2z"/>
+    <path id="path3345" opacity=".1" fill="#fff" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+    <rect id="rect4169" opacity=".2" rx="1.4366" ry="1.544" height="6" width="18" y="35" x="5" fill="#fff"/>
+    <rect id="rect4171" opacity=".2" rx="1.4366" ry="1.544" height="6" width="18" y="35" x="24" fill="#fff"/>
+    <rect id="rect5396" height="4" width="4" y="36" x="6" fill="#fff"/>
+    <rect id="rect5398" height="4" width="4" y="36" x="25" fill="#fff"/>
+    <path id="path5403" opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
 </svg>

@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   height="24"
-   width="24"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 24 24">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <path
-     id="path4"
-     d="M 4.479271,19.520645 C 2.6168991,17.658273 6.594569,4.9008495 9.3010335,4.0567567 12.007498,3.212664 20.788543,11.993709 19.943159,14.698882 19.099066,17.405347 6.3416428,21.383017 4.479271,19.520645 Z"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linejoin:round;stroke-opacity:0.347" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" id="svg2" viewBox="0 0 24 24">
+    <metadata id="metadata10">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path4" d="M 4.479271,19.520645 C 2.6168991,17.658273 6.594569,4.9008495 9.3010335,4.0567567 12.007498,3.212664 20.788543,11.993709 19.943159,14.698882 19.099066,17.405347 6.3416428,21.383017 4.479271,19.520645 Z" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linejoin:round;stroke-opacity:0.347"/>
 </svg>

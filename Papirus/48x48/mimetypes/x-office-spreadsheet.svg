@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="g4952" filter="url(#filter14069)" style="enable-background:new" transform="translate(-736,324)">
-  <path id="path13881" d="m746-320c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z" fill="#4bae4f"/>
-  <path id="path13883" opacity=".1" d="m746-320c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z" fill="#fff"/>
-  <path id="path13887" d="m764-320v10c0 1.1046 0.89543 2 2 2h10l-12-12z" fill="#95cd97"/>
-  <path id="rect11845-1" d="m751-363h18v-14h-18zm2-12h6v2h-6zm8 0h6v2h-6zm-8 4h6v2h-6zm8 0h6v2h-6zm-8 4h6v2h-6zm8 0h6v2h-6z" style="enable-background:new" fill="#fff" transform="translate(0,76)"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4952" filter="url(#filter14069)" style="enable-background:new" transform="translate(-736,324)">
+        <path id="path13881" d="m746-320c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z" fill="#4bae4f"/>
+        <path id="path13883" opacity=".1" d="m746-320c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z" fill="#fff"/>
+        <path id="path13887" d="m764-320v10c0 1.1046 0.89543 2 2 2h10l-12-12z" fill="#95cd97"/>
+        <path id="rect11845-1" d="m751-363h18v-14h-18zm2-12h6v2h-6zm8 0h6v2h-6zm-8 4h6v2h-6zm8 0h6v2h-6zm-8 4h6v2h-6zm8 0h6v2h-6z" style="enable-background:new" fill="#fff" transform="translate(0,76)"/>
+    </g>
 </svg>

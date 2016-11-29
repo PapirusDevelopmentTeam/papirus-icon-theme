@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -660.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -653.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-345.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-345.22546" x="435.90427"/><tspan id="tspan7280" y="-329.3924" x="435.90427"/></text>
- <path id="rect4255-2" d="m22 6-4 4v6h-16v37c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-37h-16v-6l-4-4zm0 4h16v6h-16z" fill="#e6e6e6"/>
- <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cx="45" cy="47" r="15" fill="#4ab3e4"/>
- <path id="path4428" d="m48 37.92v8.08l3-0.08-6 8.08-6-8.08h3v-8h6zm-10 16.08h14v2h-14z" fill="#fff"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="rect4255-2" d="m22 6-4 4v6h-16v37c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-37h-16v-6l-4-4zm0 4h16v6h-16z" fill="#e6e6e6"/>
+    <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cx="45" cy="47" r="15" fill="#4ab3e4"/>
+    <path id="path4428" d="m48 37.92v8.08l3-0.08-6 8.08-6-8.08h3v-8h6zm-10 16.08h14v2h-14z" fill="#fff"/>
 </svg>

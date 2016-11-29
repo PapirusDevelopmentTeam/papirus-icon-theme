@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="g4356" transform="translate(1,1)">
-  <rect id="rect4203-1" ry="1" rx="1" transform="matrix(0,-1,-1,0,0,0)" height="20" width="20" y="-21" x="-21" fill="#37a0f2"/>
-  <g id="g4659" opacity=".2" transform="matrix(1,0,0,-1,-542,-335.5)">
-   <path id="path4661" style="enable-background:new" d="m552-354v10h2v-10h-2zm0 12v2h2v-2h-2z"/>
-  </g>
-  <g id="layer9" fill="#fff" transform="matrix(1,0,0,-1,-542,-336)">
-   <path id="path6858" style="enable-background:new" fill="#fff" d="m552-354v10h2v-10h-2zm0 12v2h2v-2h-2z"/>
-  </g>
-  <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-  <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4356" transform="translate(1,1)">
+        <rect id="rect4203-1" ry="1" rx="1" transform="matrix(0,-1,-1,0,0,0)" height="20" width="20" y="-21" x="-21" fill="#37a0f2"/>
+        <g id="g4659" opacity=".2" transform="matrix(1,0,0,-1,-542,-335.5)">
+            <path id="path4661" style="enable-background:new" d="m552-354v10h2v-10h-2zm0 12v2h2v-2h-2z"/>
+        </g>
+        <g id="layer9" fill="#fff" transform="matrix(1,0,0,-1,-542,-336)">
+            <path id="path6858" style="enable-background:new" fill="#fff" d="m552-354v10h2v-10h-2zm0 12v2h2v-2h-2z"/>
+        </g>
+        <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+        <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+    </g>
 </svg>

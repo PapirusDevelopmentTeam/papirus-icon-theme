@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <polygon id="polygon10" display="none" points="502 812.5 551.5 721.5 612.5 637 628.5 616 668 619.5 707 615 713 603 688.5 578 676.5 569.5 693.5 560.5 693.5 540 732.5 497.5 664 430.5 588 333 517.5 214 500 192 386 355 328 328 304 332.5 299.5 366 318.5 403.5 338 431 309.5 462 275.5 507 300 533 304 551 318.5 569.5 340.5 583 351.5 604.5 373.5 617 395 637.5 452.5 723 488.5 788.5" transform="matrix(.063142 0 0 .063142 -131 -8.0295)" fill="#5a0e00"/>
- <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#0081ff"/>
- <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
- <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <g id="layer4-0-9" transform="matrix(.90475 0 0 .90475 -792.95 -686)">
- </g>
- <g id="layer4-0-7-4" transform="matrix(.90475 0 0 .90475 -792.95 -678.76)">
- </g>
- <text id="text7276-6" font-size="12.666px" xml:space="preserve" y="-370.93811" x="359.69943" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-5" y="-370.93811" x="359.69943"/><tspan id="tspan7280-4" y="-355.10504" x="359.69943"/></text>
- <path id="path4605" opacity=".2" style="color:#000000" d="m13 14v22h4v-22h-4zm10 0v4h4v18h4v-18h4v-4h-4-4-4z"/>
- <g id="g4584" fill="#8addff">
-  <path id="path3774" style="color:#000000" d="m13 13h4v22h-4z"/>
-  <g id="g4580" transform="translate(1)">
-   <path id="path4576" style="color:#000000" d="m26 13h4v22h-4z"/>
-   <path id="path4578" style="color:#000000" d="m34 13v4h-12v-4z"/>
-  </g>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <polygon id="polygon10" display="none" points="502 812.5 551.5 721.5 612.5 637 628.5 616 668 619.5 707 615 713 603 688.5 578 676.5 569.5 693.5 560.5 693.5 540 732.5 497.5 664 430.5 588 333 517.5 214 500 192 386 355 328 328 304 332.5 299.5 366 318.5 403.5 338 431 309.5 462 275.5 507 300 533 304 551 318.5 569.5 340.5 583 351.5 604.5 373.5 617 395 637.5 452.5 723 488.5 788.5" transform="matrix(.063142 0 0 .063142 -131 -8.0295)" fill="#5a0e00"/>
+    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#0081ff"/>
+    <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+    <path id="path4605" opacity=".2" style="color:#000000" d="m13 14v22h4v-22h-4zm10 0v4h4v18h4v-18h4v-4h-4-4-4z"/>
+    <g id="g4584" fill="#8addff">
+        <path id="path3774" style="color:#000000" d="m13 13h4v22h-4z"/>
+        <g id="g4580" transform="translate(1)">
+            <path id="path4576" style="color:#000000" d="m26 13h4v22h-4z"/>
+            <path id="path4578" style="color:#000000" d="m34 13v4h-12v-4z"/>
+        </g>
+    </g>
 </svg>

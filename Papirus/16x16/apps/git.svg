@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <rect id="rect4203-1" transform="matrix(.70711 -.70710 -.70711 -.70710 0 0)" rx=".58272" ry=".58272" height="11.654" width="11.654" y="-17.141" x="-5.8272" fill="#c2352a"/>
- <path id="path4368" d="m4.5 3.5 5 5" stroke="#fff" stroke-width=".5" fill="none"/>
- <path id="path4370" d="m6.5 5.5v5" stroke="#fff" stroke-width=".5" fill="none"/>
- <circle id="path4372" cy="8.5" cx="9.5002" r="1.5" fill="#fff"/>
- <circle id="circle4374" cy="10.5" cx="6.5" r="1.5" fill="#fff"/>
- <circle id="circle4376" cy="5.5" cx="6.5" r="1.5" fill="#fff"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203-1" transform="matrix(.70711 -.70710 -.70711 -.70710 0 0)" rx=".58272" ry=".58272" height="11.654" width="11.654" y="-17.141" x="-5.8272" fill="#c2352a"/>
+    <path id="path4368" d="m4.5 3.5 5 5" stroke="#fff" stroke-width=".5" fill="none"/>
+    <path id="path4370" d="m6.5 5.5v5" stroke="#fff" stroke-width=".5" fill="none"/>
+    <circle id="path4372" cy="8.5" cx="9.5002" r="1.5" fill="#fff"/>
+    <circle id="circle4374" cy="10.5" cx="6.5" r="1.5" fill="#fff"/>
+    <circle id="circle4376" cy="5.5" cx="6.5" r="1.5" fill="#fff"/>
 </svg>

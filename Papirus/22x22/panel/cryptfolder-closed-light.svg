@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="22"
-   height="22"
-   style="enable-background:new"
-   id="svg7384">
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386" />
-  <path
-     id="path5975"
-     style="color:#ffffff;opacity:1000002;fill:#ffffff;enable-background:accumulate"
-     d="M 11,4 C 8.784,4 7,5.8216 7,8.0625 L 7,10 6,10 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-1.9375 C 15,5.8225 13.216,4 11,4 Z m 0,2 c 1.108,0 2,0.892 2,2 l 0,2 -4,0 0,-2 C 9,6.892 9.892,6 11,6 Z" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" height="22" style="enable-background:new" id="svg7384">
+    <metadata id="metadata90">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title>
+                    Paper Symbolic Icon Theme
+                </dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <title id="title8473">
+        Paper Symbolic Icon Theme
+    </title>
+    <path id="path5975" style="color:#ffffff;opacity:1000002;fill:#ffffff;enable-background:accumulate" d="M 11,4 C 8.784,4 7,5.8216 7,8.0625 L 7,10 6,10 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-1.9375 C 15,5.8225 13.216,4 11,4 Z m 0,2 c 1.108,0 2,0.892 2,2 l 0,2 -4,0 0,-2 C 9,6.892 9.892,6 11,6 Z"/>
 </svg>

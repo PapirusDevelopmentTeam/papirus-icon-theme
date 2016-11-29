@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg2"
-   viewBox="0 0 22 22"
-   version="1.1"
-   width="22"
-   height="22">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs16" />
-  <path
-     id="path4139"
-     d="M 10.5 3 C 7.5352 3 5.1319563 5.385825 5.0351562 8.328125 C 3.2736563 8.951425 2.0026 10.57 2 12.5 C 2 14.604 3.4964314 16.304063 5.4570312 16.789062 C 5.3794312 17.398063 5.3261186 18.006094 5.0742188 18.621094 A 1.0001 1.0001 0 0 0 6.234375 19.972656 C 8.343975 19.462656 10.018047 18.385 11.373047 17 L 15 17 C 17.75 17 20 14.75 20 12 C 20 10.263 19.074938 8.7827094 17.710938 7.9121094 A 3 3 0 0 1 17 8 A 3 3 0 0 1 14 5 A 3 3 0 0 1 14.060547 4.4003906 C 13.110547 3.5375906 11.876953 3.0016 10.501953 3 A 1.0001 1.0001 0 0 0 10.5 3 z M 12 12 L 15 12 C 15.554 12 16 12.446 16 13 C 16 13.554 15.554 14 15 14 L 12 14 C 11.446 14 11 13.554 11 13 C 11 12.446 11.446 12 12 12 z "
-     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;opacity:1" />
-  <circle
-     cx="17"
-     cy="4.9995027"
-     r="3"
-     id="circle10"
-     style="fill:none" />
-  <path
-     style="color:#000000;clip-rule:evenodd;fill:#5294e2;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;fill-opacity:1"
-     d="m 19,4.9994782 a 2,2 0 0 1 -4,0 2,2 0 1 1 4,0 z"
-     id="path12" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 22 22" version="1.1" width="22" height="22">
+    <metadata id="metadata18">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path4139" d="M 10.5 3 C 7.5352 3 5.1319563 5.385825 5.0351562 8.328125 C 3.2736563 8.951425 2.0026 10.57 2 12.5 C 2 14.604 3.4964314 16.304063 5.4570312 16.789062 C 5.3794312 17.398063 5.3261186 18.006094 5.0742188 18.621094 A 1.0001 1.0001 0 0 0 6.234375 19.972656 C 8.343975 19.462656 10.018047 18.385 11.373047 17 L 15 17 C 17.75 17 20 14.75 20 12 C 20 10.263 19.074938 8.7827094 17.710938 7.9121094 A 3 3 0 0 1 17 8 A 3 3 0 0 1 14 5 A 3 3 0 0 1 14.060547 4.4003906 C 13.110547 3.5375906 11.876953 3.0016 10.501953 3 A 1.0001 1.0001 0 0 0 10.5 3 z M 12 12 L 15 12 C 15.554 12 16 12.446 16 13 C 16 13.554 15.554 14 15 14 L 12 14 C 11.446 14 11 13.554 11 13 C 11 12.446 11.446 12 12 12 z " style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;opacity:1"/>
+    <circle cx="17" cy="4.9995027" r="3" id="circle10" style="fill:none"/>
+    <path style="color:#000000;clip-rule:evenodd;fill:#5294e2;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;fill-opacity:1" d="m 19,4.9994782 a 2,2 0 0 1 -4,0 2,2 0 1 1 4,0 z" id="path12"/>
 </svg>

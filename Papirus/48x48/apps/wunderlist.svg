@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg3143" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3148">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -760.42 -683.7)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -760.42 -676.46)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-368.63852" x="392.23035" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-368.63852" x="392.23035"/><tspan id="tspan7280" y="-352.80545" x="392.23035"/></text>
- <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#e79d67"/>
- <path id="path4847" opacity=".2" style="color:#000000" d="m8.4941 8.9999c-0.27371 0-0.49414 0.22043-0.49414 0.49414v31.012c0 0.274 0.2204 0.494 0.4941 0.494h31.012c0.274 0 0.494-0.22 0.494-0.494v-31.012c0-0.2736-0.22-0.494-0.494-0.494z"/>
- <path id="rect4335" d="m8.4941 8c-0.2737 0-0.4941 0.2204-0.4941 0.4941v31.012c0 0.274 0.2204 0.494 0.4941 0.494h31.012c0.274 0 0.494-0.22 0.494-0.494v-31.012c0-0.2736-0.22-0.494-0.494-0.494z" style="color:#000000" fill="#fff"/>
- <path id="path4851" d="m14 8v33l10-6 10 6v-33z" fill="#e84228"/>
- <path id="path4068" opacity=".2" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z" fill="#fff"/>
- <path id="rect3289" opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <path id="path4360" opacity=".2" transform="matrix(.95106 0 0 1 .83204 -8.7387e-8)" d="m24.36 17 2.2744 4.6085 5.0858 0.73901-3.6801 3.5872l0.869 5.066-4.549-2.391-4.549 2.391 0.869-5.065-3.68-3.587 5.086-0.739z"/>
- <path id="path4358" transform="matrix(.95106 0 0 1 .83204 -1)" fill="#fff" d="m24.36 17 2.2744 4.6085 5.0858 0.73901-3.6801 3.5872l0.869 5.066-4.549-2.391-4.549 2.391 0.869-5.065-3.68-3.587 5.086-0.739z"/>
+    <metadata id="metadata3148">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#e79d67"/>
+    <path id="path4847" opacity=".2" style="color:#000000" d="m8.4941 8.9999c-0.27371 0-0.49414 0.22043-0.49414 0.49414v31.012c0 0.274 0.2204 0.494 0.4941 0.494h31.012c0.274 0 0.494-0.22 0.494-0.494v-31.012c0-0.2736-0.22-0.494-0.494-0.494z"/>
+    <path id="rect4335" d="m8.4941 8c-0.2737 0-0.4941 0.2204-0.4941 0.4941v31.012c0 0.274 0.2204 0.494 0.4941 0.494h31.012c0.274 0 0.494-0.22 0.494-0.494v-31.012c0-0.2736-0.22-0.494-0.494-0.494z" style="color:#000000" fill="#fff"/>
+    <path id="path4851" d="m14 8v33l10-6 10 6v-33z" fill="#e84228"/>
+    <path id="path4068" opacity=".2" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z" fill="#fff"/>
+    <path id="rect3289" opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+    <path id="path4360" opacity=".2" transform="matrix(.95106 0 0 1 .83204 -8.7387e-8)" d="m24.36 17 2.2744 4.6085 5.0858 0.73901-3.6801 3.5872l0.869 5.066-4.549-2.391-4.549 2.391 0.869-5.065-3.68-3.587 5.086-0.739z"/>
+    <path id="path4358" transform="matrix(.95106 0 0 1 .83204 -1)" fill="#fff" d="m24.36 17 2.2744 4.6085 5.0858 0.73901-3.6801 3.5872l0.869 5.066-4.549-2.391-4.549 2.391 0.869-5.065-3.68-3.587 5.086-0.739z"/>
 </svg>

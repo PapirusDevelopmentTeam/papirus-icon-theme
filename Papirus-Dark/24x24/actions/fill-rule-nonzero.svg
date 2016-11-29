@@ -1,67 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg6394"
-   viewBox="0 0 24 24"
-   height="24"
-   width="24">
-  <defs
-     id="defs6396">
-    <linearGradient
-       gradientTransform="matrix(-0.40801424,2.7359005,1.4465395,0.18903615,2588.4859,828.26016)"
-       osb:paint="solid"
-       id="linearGradient19282">
-      <stop
-         id="stop19284"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(-2.7359006,0.40801425,-0.18903616,-1.4465395,-804.26018,-2564.486)"
-       osb:paint="solid"
-       id="linearGradient19282-3">
-      <stop
-         id="stop19284-6"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient19282-36"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.73658,0.4081035,-0.1890831,-1.446856,-1254.4599,-3933.7766)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-7" />
-    </linearGradient>
-  </defs>
-  <metadata
-     id="metadata6399">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <rect
-     y="8.0216999"
-     x="0.024454419"
-     height="16"
-     width="16"
-     id="rect4452"
-     style="color:#000000;fill:none" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;opacity:0.72"
-     d="m 12.027727,22 c 10.3966,0 12.8854,-20 6.4205,-20 -6.547201,0 -16.8424005,16.0031 -6.3839,16.0031 10.3264,0 0.09,-16.0031 -6.4319005,-16.0031 -6.52230004,0 -4.1844,20 6.3953005,20 z"
-     id="fill-rule-nonzero" />
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg6394" viewBox="0 0 24 24" height="24" width="24">
+    <defs id="defs6396">
+        <linearGradient gradientTransform="matrix(-0.40801424,2.7359005,1.4465395,0.18903615,2588.4859,828.26016)" osb:paint="solid" id="linearGradient19282">
+            <stop id="stop19284" offset="0" style="stop-color:#ffffff;stop-opacity:1;"/>
+        </linearGradient>
+        <linearGradient gradientTransform="matrix(-2.7359006,0.40801425,-0.18903616,-1.4465395,-804.26018,-2564.486)" osb:paint="solid" id="linearGradient19282-3">
+            <stop id="stop19284-6" offset="0" style="stop-color:#ffffff;stop-opacity:1;"/>
+        </linearGradient>
+        <linearGradient id="linearGradient19282-36" osb:paint="solid" gradientTransform="matrix(-2.73658,0.4081035,-0.1890831,-1.446856,-1254.4599,-3933.7766)">
+            <stop style="stop-color:#666666;stop-opacity:1;" offset="0" id="stop19284-7"/>
+        </linearGradient>
+    </defs>
+    <metadata id="metadata6399">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect y="8.0216999" x="0.024454419" height="16" width="16" id="rect4452" style="color:#000000;fill:none"/>
+    <path style="fill:#ffffff;fill-opacity:1;opacity:0.72" d="m 12.027727,22 c 10.3966,0 12.8854,-20 6.4205,-20 -6.547201,0 -16.8424005,16.0031 -6.3839,16.0031 10.3264,0 0.09,-16.0031 -6.4319005,-16.0031 -6.52230004,0 -4.1844,20 6.3953005,20 z" id="fill-rule-nonzero"/>
 </svg>

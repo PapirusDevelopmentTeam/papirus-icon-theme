@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="22"
-   height="22"
-   id="svg3215">
-  <defs
-     id="defs9" />
-  <metadata
-     id="metadata12">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="M 7.5,19 C 6.669,19 6,18.331 6,17.5 L 6,4.5 C 6,3.669 6.669,3 7.5,3 l 8,0 C 16.331,3 17,3.669 17,4.5 l 0,13 c 0,0.831 -0.669,1.5 -1.5,1.5 l -8,0 z m 4,-2 C 13.433,17 15,15.4329 15,13.5 15,11.567 13.433,10 11.5,10 9.5666,10 7.9995,11.567 8,13.5 7.9995,15.4329 9.5666,17 11.5,17 Z m 0,-2 C 10.672,15 10,14.3284 10,13.5 10,12.6716 10.672,12 11.5,12 12.328,12 13,12.6716 13,13.5 13,14.3284 12.328,15 11.5,15 Z M 9,7 C 9.55243,7 10.0002,6.55222 10,6 10.000202,5.44778 9.55243,5 9,5 8.44757,5 7.9998,5.44778 8,6 7.9997981,6.55222 8.44757,7 9,7 Z m 5,0 c 0.55243,0 1.0002,-0.44778 1,-1 2.02e-4,-0.55222 -0.44757,-1 -1,-1 -0.55243,0 -1.0002,0.44778 -1,1 -2.02e-4,0.55222 0.44757,1 1,1 z"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     id="rect2406" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="22" height="22" id="svg3215">
+    <metadata id="metadata12">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path d="M 7.5,19 C 6.669,19 6,18.331 6,17.5 L 6,4.5 C 6,3.669 6.669,3 7.5,3 l 8,0 C 16.331,3 17,3.669 17,4.5 l 0,13 c 0,0.831 -0.669,1.5 -1.5,1.5 l -8,0 z m 4,-2 C 13.433,17 15,15.4329 15,13.5 15,11.567 13.433,10 11.5,10 9.5666,10 7.9995,11.567 8,13.5 7.9995,15.4329 9.5666,17 11.5,17 Z m 0,-2 C 10.672,15 10,14.3284 10,13.5 10,12.6716 10.672,12 11.5,12 12.328,12 13,12.6716 13,13.5 13,14.3284 12.328,15 11.5,15 Z M 9,7 C 9.55243,7 10.0002,6.55222 10,6 10.000202,5.44778 9.55243,5 9,5 8.44757,5 7.9998,5.44778 8,6 7.9997981,6.55222 8.44757,7 9,7 Z m 5,0 c 0.55243,0 1.0002,-0.44778 1,-1 2.02e-4,-0.55222 -0.44757,-1 -1,-1 -0.55243,0 -1.0002,0.44778 -1,1 -2.02e-4,0.55222 0.44757,1 1,1 z" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd" id="rect2406"/>
 </svg>

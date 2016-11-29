@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" xml:space="preserve" font-size="12.666px" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="0.8" ry="0.8" height="16" width="16" y="-16" x="-16" fill="#a32b58"/>
- <g id="g4478" transform="translate(4,5)">
-  <path id="path4480" d="m5.5 2a3.5 3.5 0 0 0 -3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5 -3.5 3.5 3.5 0 0 0 -0.0137 -0.2559 3 3 0 0 1 -2.9863 2.7559 3 3 0 0 1 -3 -3 3 3 0 0 1 2.7676 -2.9902 3.5 3.5 0 0 0 -0.2676 -0.0098z" fill="#f3ab6f"/>
-  <circle id="circle4482" cx="7" cy="4" r="2" fill="#f7c39a"/>
- </g>
- <g id="g4474">
-  <path id="path4471" d="m5.5 2a3.5 3.5 0 0 0 -3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5 -3.5 3.5 3.5 0 0 0 -0.0137 -0.2559 3 3 0 0 1 -2.9863 2.7559 3 3 0 0 1 -3 -3 3 3 0 0 1 2.7676 -2.9902 3.5 3.5 0 0 0 -0.2676 -0.0098z" fill="#f3ab6f"/>
-  <circle id="path4358" cy="4" cx="7" r="2" fill="#f7c39a"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="0.8" ry="0.8" height="16" width="16" y="-16" x="-16" fill="#a32b58"/>
+    <g id="g4478" transform="translate(4,5)">
+        <path id="path4480" d="m5.5 2a3.5 3.5 0 0 0 -3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5 -3.5 3.5 3.5 0 0 0 -0.0137 -0.2559 3 3 0 0 1 -2.9863 2.7559 3 3 0 0 1 -3 -3 3 3 0 0 1 2.7676 -2.9902 3.5 3.5 0 0 0 -0.2676 -0.0098z" fill="#f3ab6f"/>
+        <circle id="circle4482" cx="7" cy="4" r="2" fill="#f7c39a"/>
+    </g>
+    <g id="g4474">
+        <path id="path4471" d="m5.5 2a3.5 3.5 0 0 0 -3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5 -3.5 3.5 3.5 0 0 0 -0.0137 -0.2559 3 3 0 0 1 -2.9863 2.7559 3 3 0 0 1 -3 -3 3 3 0 0 1 2.7676 -2.9902 3.5 3.5 0 0 0 -0.2676 -0.0098z" fill="#f3ab6f"/>
+        <circle id="path4358" cy="4" cx="7" r="2" fill="#f7c39a"/>
+    </g>
 </svg>

@@ -1,45 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="g4362" transform="translate(1,1)">
-  <rect id="rect4203-5" ry="1" style="enable-background:new" rx="1" transform="matrix(0,-1,-1,0,0,0)" height="20" width="16" y="-21" x="-19" fill="#5d5d5d"/>
-  <path id="rect4414" opacity=".1" style="enable-background:new" fill="#fff" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-  <path id="rect4439" opacity=".2" style="enable-background:new" d="m1 18v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
-  <g id="g4409" opacity=".2" transform="translate(-1 -.5)">
-   <g id="g4411" transform="translate(0,-1)">
-    <rect id="rect4413" rx="1" ry="1" height="4" width="16" y="8" x="4"/>
-    <g id="g4415" transform="translate(-2,-2)">
-     <circle id="circle4417" opacity="1" cy="12" cx="12" r="1"/>
-     <circle id="circle4419" opacity="1" cy="12" cx="16" r="1"/>
-     <circle id="circle4421" opacity="1" cy="12" cx="8" r="1"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4362" transform="translate(1,1)">
+        <rect id="rect4203-5" ry="1" style="enable-background:new" rx="1" transform="matrix(0,-1,-1,0,0,0)" height="20" width="16" y="-21" x="-19" fill="#5d5d5d"/>
+        <path id="rect4414" opacity=".1" style="enable-background:new" fill="#fff" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+        <path id="rect4439" opacity=".2" style="enable-background:new" d="m1 18v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
+        <g id="g4409" opacity=".2" transform="translate(-1 -.5)">
+            <g id="g4411" transform="translate(0,-1)">
+                <rect id="rect4413" rx="1" ry="1" height="4" width="16" y="8" x="4"/>
+                <g id="g4415" transform="translate(-2,-2)">
+                    <circle id="circle4417" opacity="1" cy="12" cx="12" r="1"/>
+                    <circle id="circle4419" opacity="1" cy="12" cx="16" r="1"/>
+                    <circle id="circle4421" opacity="1" cy="12" cx="8" r="1"/>
+                </g>
+            </g>
+            <rect id="rect4423" rx="1" ry="1" height="4" width="16" y="13" x="4"/>
+        </g>
+        <rect id="rect4382" rx="1" ry="1" height="4" width="16" y="12" x="3" fill="#fff"/>
+        <rect id="rect4351" rx="1" ry="1" height="4" width="16" y="6" x="3" fill="#fff"/>
+        <g id="g4425" fill="#4fa0ff" transform="translate(-1,-7)">
+            <circle id="circle4386" cy="15" cx="10" r="1"/>
+            <circle id="circle4388" cy="15" cx="14" r="1"/>
+            <circle id="circle4390" cy="15" cx="6" r="1"/>
+        </g>
+        <g id="g4368" fill="#ff4f4f" transform="translate(-3,2)">
+            <circle id="circle4362" cy="12" cx="12" r="1"/>
+            <circle id="circle4364" cy="12" cx="16" r="1"/>
+            <circle id="circle4366" cy="12" cx="8" r="1"/>
+        </g>
     </g>
-   </g>
-   <rect id="rect4423" rx="1" ry="1" height="4" width="16" y="13" x="4"/>
-  </g>
-  <rect id="rect4382" rx="1" ry="1" height="4" width="16" y="12" x="3" fill="#fff"/>
-  <rect id="rect4351" rx="1" ry="1" height="4" width="16" y="6" x="3" fill="#fff"/>
-  <g id="g4425" fill="#4fa0ff" transform="translate(-1,-7)">
-   <circle id="circle4386" cy="15" cx="10" r="1"/>
-   <circle id="circle4388" cy="15" cx="14" r="1"/>
-   <circle id="circle4390" cy="15" cx="6" r="1"/>
-  </g>
-  <g id="g4368" fill="#ff4f4f" transform="translate(-3,2)">
-   <circle id="circle4362" cy="12" cx="12" r="1"/>
-   <circle id="circle4364" cy="12" cx="16" r="1"/>
-   <circle id="circle4366" cy="12" cx="8" r="1"/>
-  </g>
- </g>
 </svg>

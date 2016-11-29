@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <rect id="rect4349" rx=".59877" ry=".74033" height="14" width="16" y="1" x="0" fill="#f13c3c"/>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <g id="g4557" fill="#fff" transform="translate(0 1)">
-  <path id="path4478" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m4.6623 2.0004a0.35338 0.35324 0 0 0 -0.2977 0.1394c-0.4041 0.5176-0.8258 1.2166-1.2273 1.8412l-0.4783-0.8203a0.35359 0.35345 0 1 0 -0.6108 0.3562l0.7632 1.3079a0.35338 0.35324 0 0 0 0.5979 0.01992c0.4967-0.7368 1.059-1.6892 1.5123-2.27a0.35338 0.35324 0 0 0 -0.2593 -0.5747z"/>
-  <rect id="rect4601" rx=".53846" ry=".5" height="1" width="7" y="8" x="6"/>
-  <circle id="circle4605" cy="8.5" cx="3.5"/>
-  <rect id="rect4605" rx=".53846" ry=".5" height="1" width="7" y="11" x="6"/>
-  <circle id="circle4607" cy="11.5" cx="3.5"/>
-  <rect id="rect4609" rx=".53846" ry=".5" height="1" width="7" y="4" x="6"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4349" rx=".59877" ry=".74033" height="14" width="16" y="1" x="0" fill="#f13c3c"/>
+    <g id="g4557" fill="#fff" transform="translate(0 1)">
+        <path id="path4478" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m4.6623 2.0004a0.35338 0.35324 0 0 0 -0.2977 0.1394c-0.4041 0.5176-0.8258 1.2166-1.2273 1.8412l-0.4783-0.8203a0.35359 0.35345 0 1 0 -0.6108 0.3562l0.7632 1.3079a0.35338 0.35324 0 0 0 0.5979 0.01992c0.4967-0.7368 1.059-1.6892 1.5123-2.27a0.35338 0.35324 0 0 0 -0.2593 -0.5747z"/>
+        <rect id="rect4601" rx=".53846" ry=".5" height="1" width="7" y="8" x="6"/>
+        <circle id="circle4605" cy="8.5" cx="3.5"/>
+        <rect id="rect4605" rx=".53846" ry=".5" height="1" width="7" y="11" x="6"/>
+        <circle id="circle4607" cy="11.5" cx="3.5"/>
+        <rect id="rect4609" rx=".53846" ry=".5" height="1" width="7" y="4" x="6"/>
+    </g>
 </svg>

@@ -1,51 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
-   id="svg6530">
-  <defs
-     id="defs10" />
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-129 -551.36)"
-     id="layer1">
-    <rect
-       fill="none"
-       x="-573.36"
-       y="129"
-       width="22"
-       height="22"
-       transform="rotate(-90)"
-       style="color:#bebebe"
-       id="rect10247" />
-    <path
-       fill="#fff"
-       d="m134 556.36s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h6v-3l-1 1h-4l-1-1h-2v-7h10v1h2v-2c0-1-1-1-1-1h-12z"
-       opacity=".3"
-       id="path6575" />
-    <path
-       fill="#e74c3c"
-       class="error"
-       d="m144 560.36-0.00001 4 0.25 2h1.5l0.25-2 0.00001-4zm0 7v2h2v-2z"
-       style="color:#444444"
-       id="path6053-9" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" viewBox="0 0 22 22" height="22" id="svg6530">
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-129 -551.36)" id="layer1">
+        <rect fill="none" x="-573.36" y="129" width="22" height="22" transform="rotate(-90)" style="color:#bebebe" id="rect10247"/>
+        <path fill="#fff" d="m134 556.36s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h6v-3l-1 1h-4l-1-1h-2v-7h10v1h2v-2c0-1-1-1-1-1h-12z" opacity=".3" id="path6575"/>
+        <path fill="#e74c3c" class="error" d="m144 560.36-0.00001 4 0.25 2h1.5l0.25-2 0.00001-4zm0 7v2h2v-2z" style="color:#444444" id="path6053-9"/>
+    </g>
 </svg>

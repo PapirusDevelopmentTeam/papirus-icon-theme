@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata73">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4177" transform="translate(1,1)">
-  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#ac8a78"/>
-  <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-  <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
-  <path id="path4267" d="m6.5 11v-5.5h9v5.5" stroke="#494949" fill="none"/>
-  <path id="path4272" d="m9.5 16v-5.5h8v5.5" stroke="#494949" fill="none"/>
-  <path id="path4270" d="m4.5 16v-5.5h8v5.5" stroke="#494949" fill="none"/>
-  <g id="g5608" opacity=".2" transform="translate(-1 -.5)">
-   <rect id="rect5610" opacity="1" height="3" width="2" y="15" x="5"/>
-   <rect id="rect5612" opacity="1" height="3" width="2" y="15" x="9"/>
-   <rect id="rect5614" opacity="1" height="3" width="2" y="15" x="13"/>
-   <rect id="rect5616" opacity="1" height="3" width="2" y="5" x="11"/>
-   <rect id="rect5618" opacity="1" height="3" width="2" y="10" x="7"/>
-   <rect id="rect5620" opacity="1" height="3" width="2" y="10" x="15"/>
-   <rect id="rect5622" opacity="1" height="3" width="2" y="15" x="17"/>
-  </g>
-  <g id="g5599" fill="#fff" transform="translate(-1 -1)">
-   <rect id="rect4243" y="15" width="2" height="3" x="5"/>
-   <rect id="rect4245" y="15" width="2" height="3" x="9"/>
-   <rect id="rect4247" y="15" width="2" height="3" x="13"/>
-   <rect id="rect4265" y="5" width="2" height="3" x="11"/>
-   <rect id="rect4261" y="10" width="2" height="3" x="7"/>
-   <rect id="rect4263" y="10" width="2" height="3" x="15"/>
-   <rect id="rect4249" y="15" width="2" height="3" x="17"/>
-  </g>
- </g>
+    <metadata id="metadata73">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4177" transform="translate(1,1)">
+        <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#ac8a78"/>
+        <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+        <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+        <path id="path4267" d="m6.5 11v-5.5h9v5.5" stroke="#494949" fill="none"/>
+        <path id="path4272" d="m9.5 16v-5.5h8v5.5" stroke="#494949" fill="none"/>
+        <path id="path4270" d="m4.5 16v-5.5h8v5.5" stroke="#494949" fill="none"/>
+        <g id="g5608" opacity=".2" transform="translate(-1 -.5)">
+            <rect id="rect5610" opacity="1" height="3" width="2" y="15" x="5"/>
+            <rect id="rect5612" opacity="1" height="3" width="2" y="15" x="9"/>
+            <rect id="rect5614" opacity="1" height="3" width="2" y="15" x="13"/>
+            <rect id="rect5616" opacity="1" height="3" width="2" y="5" x="11"/>
+            <rect id="rect5618" opacity="1" height="3" width="2" y="10" x="7"/>
+            <rect id="rect5620" opacity="1" height="3" width="2" y="10" x="15"/>
+            <rect id="rect5622" opacity="1" height="3" width="2" y="15" x="17"/>
+        </g>
+        <g id="g5599" fill="#fff" transform="translate(-1 -1)">
+            <rect id="rect4243" y="15" width="2" height="3" x="5"/>
+            <rect id="rect4245" y="15" width="2" height="3" x="9"/>
+            <rect id="rect4247" y="15" width="2" height="3" x="13"/>
+            <rect id="rect4265" y="5" width="2" height="3" x="11"/>
+            <rect id="rect4261" y="10" width="2" height="3" x="7"/>
+            <rect id="rect4263" y="10" width="2" height="3" x="15"/>
+            <rect id="rect4249" y="15" width="2" height="3" x="17"/>
+        </g>
+    </g>
 </svg>

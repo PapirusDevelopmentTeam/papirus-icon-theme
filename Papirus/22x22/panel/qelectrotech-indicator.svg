@@ -1,36 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg4276"
-   viewBox="0 0 22 22"
-   height="22"
-   width="22">
-  <defs
-     id="defs4278" />
-  <metadata
-     id="metadata4281">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-1030.3622)"
-     id="layer1">
-    <path
-       id="path4142"
-       transform="translate(0,1030.3622)"
-       d="M 11 3 A 7 8 0 0 0 4 11 A 7 8 0 0 0 11 19 A 7 8 0 0 0 14.794922 17.714844 L 13.513672 16.177734 A 5 6 0 0 1 11 17 A 5 6 0 0 1 6 11 A 5 6 0 0 1 11 5 A 5 6 0 0 1 15.238281 7.8242188 L 17.980469 10.566406 A 7 8 0 0 0 11 3 z M 14 8 L 16 12.5 L 13 14 L 18 20 L 16 15 L 19 13 L 14 8 z "
-       style="opacity:1000002;fill:#ffffff;fill-opacity:1" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg4276" viewBox="0 0 22 22" height="22" width="22">
+    <metadata id="metadata4281">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(0,-1030.3622)" id="layer1">
+        <path id="path4142" transform="translate(0,1030.3622)" d="M 11 3 A 7 8 0 0 0 4 11 A 7 8 0 0 0 11 19 A 7 8 0 0 0 14.794922 17.714844 L 13.513672 16.177734 A 5 6 0 0 1 11 17 A 5 6 0 0 1 6 11 A 5 6 0 0 1 11 5 A 5 6 0 0 1 15.238281 7.8242188 L 17.980469 10.566406 A 7 8 0 0 0 11 3 z M 14 8 L 16 12.5 L 13 14 L 18 20 L 16 15 L 19 13 L 14 8 z " style="opacity:1000002;fill:#ffffff;fill-opacity:1"/>
+    </g>
 </svg>

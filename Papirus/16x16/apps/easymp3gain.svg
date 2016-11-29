@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <circle id="path4058-7" style="enable-background:new" cx="8" cy="8" r="8" fill="#69c561"/>
- <g id="g4382" fill="#fff" transform="translate(-16,-15)">
-  <rect id="rect4569" y="21" x="24" height="6" width="1"/>
-  <rect id="rect4366" y="19" x="26" height="8" width="1"/>
-  <rect id="rect4368" y="23" x="22" height="4" width="1"/>
-  <rect id="rect4370" y="25" x="20" height="2" width="1"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <circle id="path4058-7" style="enable-background:new" cx="8" cy="8" r="8" fill="#69c561"/>
+    <g id="g4382" fill="#fff" transform="translate(-16,-15)">
+        <rect id="rect4569" y="21" x="24" height="6" width="1"/>
+        <rect id="rect4366" y="19" x="26" height="8" width="1"/>
+        <rect id="rect4368" y="23" x="22" height="4" width="1"/>
+        <rect id="rect4370" y="25" x="20" height="2" width="1"/>
+    </g>
 </svg>

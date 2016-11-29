@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="g4358" transform="translate(1,1)">
-  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#672168"/>
-  <rect id="rect4114" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="8" ry="8" height="16" width="16" y="-19" x="-19.5"/>
-  <rect id="rect4100" ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-19" x="-19" fill="#a95bd5"/>
-  <path id="rect4131" opacity=".2" fill="#fff" d="m11 1c-5.4505 0-9.844 4.3185-9.9845 9.734 0.2669-5.298 4.6175-9.484 9.9845-9.484s9.7175 4.186 9.9845 9.4845c-0.14-5.4155-4.534-9.734-9.984-9.734z"/>
-  <path id="rect4138" opacity=".2" fill="#fff" d="m11 3c-4.432 0-8 3.568-8 8 0 0.0425-0.0005 0.0825 0 0.125 0.0675-4.373 3.6105-7.875 8-7.875s7.9325 3.502 8 7.875c0.0005-0.0425 0-0.0825 0-0.125 0-4.432-3.568-8-8-8z"/>
-  <path id="path4461" opacity=".2" d="m8.51 7.4996a0.50005 0.50005 0 0 0 -0.51 0.5v8a0.50005 0.50005 0 0 0 0.74805 0.43457l7-4a0.50005 0.50005 0 0 0 0 -0.86915l-7-4a0.50005 0.50005 0 0 0 -0.238 -0.0655z"/>
-  <path id="path4453" fill="#e3dfe8" d="m8.51 6.9996a0.50005 0.50005 0 0 0 -0.51 0.5v8a0.50005 0.50005 0 0 0 0.74805 0.43457l7-4a0.50005 0.50005 0 0 0 0 -0.86915l-7-4a0.50005 0.50005 0 0 0 -0.238 -0.0655z"/>
-  <path id="rect4102" opacity=".2" d="m1.0058 11.25c-0.002 0.084-0.0058 0.166-0.0058 0.25 0 5.54 4.46 10 10 10s10-4.46 10-10c0-0.084-0.004-0.1665-0.006-0.25-0.132 5.423-4.538 9.75-9.994 9.75s-9.862-4.327-9.994-9.75z"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4358" transform="translate(1,1)">
+        <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#672168"/>
+        <rect id="rect4114" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="8" ry="8" height="16" width="16" y="-19" x="-19.5"/>
+        <rect id="rect4100" ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-19" x="-19" fill="#a95bd5"/>
+        <path id="rect4131" opacity=".2" fill="#fff" d="m11 1c-5.4505 0-9.844 4.3185-9.9845 9.734 0.2669-5.298 4.6175-9.484 9.9845-9.484s9.7175 4.186 9.9845 9.4845c-0.14-5.4155-4.534-9.734-9.984-9.734z"/>
+        <path id="rect4138" opacity=".2" fill="#fff" d="m11 3c-4.432 0-8 3.568-8 8 0 0.0425-0.0005 0.0825 0 0.125 0.0675-4.373 3.6105-7.875 8-7.875s7.9325 3.502 8 7.875c0.0005-0.0425 0-0.0825 0-0.125 0-4.432-3.568-8-8-8z"/>
+        <path id="path4461" opacity=".2" d="m8.51 7.4996a0.50005 0.50005 0 0 0 -0.51 0.5v8a0.50005 0.50005 0 0 0 0.74805 0.43457l7-4a0.50005 0.50005 0 0 0 0 -0.86915l-7-4a0.50005 0.50005 0 0 0 -0.238 -0.0655z"/>
+        <path id="path4453" fill="#e3dfe8" d="m8.51 6.9996a0.50005 0.50005 0 0 0 -0.51 0.5v8a0.50005 0.50005 0 0 0 0.74805 0.43457l7-4a0.50005 0.50005 0 0 0 0 -0.86915l-7-4a0.50005 0.50005 0 0 0 -0.238 -0.0655z"/>
+        <path id="rect4102" opacity=".2" d="m1.0058 11.25c-0.002 0.084-0.0058 0.166-0.0058 0.25 0 5.54 4.46 10 10 10s10-4.46 10-10c0-0.084-0.004-0.1665-0.006-0.25-0.132 5.423-4.538 9.75-9.994 9.75s-9.862-4.327-9.994-9.75z"/>
+    </g>
 </svg>

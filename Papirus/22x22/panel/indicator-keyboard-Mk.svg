@@ -1,44 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
-   version="1.1"
-   id="svg6530">
-  <defs
-     id="defs9" />
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-521 -649.36)"
-     id="layer1">
-    <path
-       fill="#fff"
-       d="m526 652.36s-2 0-2 2.0625v11.938c0 2 2 2 2 2h12c2 0 2-2 2-2v-12s0-2-2-2h-12zm7.1953 4h0.97657v4.6328l2.4844-2.3906h1.1504l-2.2676 2.1699 2.623 3.5879h-1.1562l-2.1289-2.9707-0.70507 0.66211v2.3086h-0.97657v-8zm-7.1055 0.32422h1.3887l1.3262 3.9082 1.3359-3.9082h1.3945v7.6758h-0.96094v-6.7812l-1.3691 4.0469h-0.78516l-1.373-4.0469v6.7812h-0.95704v-7.6758z"
-       style="color:#bebebe"
-       id="path12423" />
-    <rect
-       fill="none"
-       x="521"
-       y="649.36"
-       width="22"
-       height="22"
-       style="color:#bebebe"
-       id="rect12429" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" height="22" version="1.1" id="svg6530">
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-521 -649.36)" id="layer1">
+        <path fill="#fff" d="m526 652.36s-2 0-2 2.0625v11.938c0 2 2 2 2 2h12c2 0 2-2 2-2v-12s0-2-2-2h-12zm7.1953 4h0.97657v4.6328l2.4844-2.3906h1.1504l-2.2676 2.1699 2.623 3.5879h-1.1562l-2.1289-2.9707-0.70507 0.66211v2.3086h-0.97657v-8zm-7.1055 0.32422h1.3887l1.3262 3.9082 1.3359-3.9082h1.3945v7.6758h-0.96094v-6.7812l-1.3691 4.0469h-0.78516l-1.373-4.0469v6.7812h-0.95704v-7.6758z" style="color:#bebebe" id="path12423"/>
+        <rect fill="none" x="521" y="649.36" width="22" height="22" style="color:#bebebe" id="rect12429"/>
+    </g>
 </svg>

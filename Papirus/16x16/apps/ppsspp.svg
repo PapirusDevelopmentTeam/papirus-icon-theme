@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <rect id="rect5462" rx="1" ry="1" height="14" width="16" y="1" x="0" fill="#5d5d5d"/>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <text id="text7276-7" font-size="12.666px" xml:space="preserve" transform="rotate(30)" y="-368.33032" x="312.67679" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3" y="-368.33032" x="312.67679"/><tspan id="tspan7280-4" y="-352.49725" x="312.67679"/></text>
- <rect id="rect5084" height="12" width="14" y="2" x="1" fill="#0093cd"/>
- <text id="text7276-71" font-size="12.666px" xml:space="preserve" y="-364.46274" x="402.80258" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-9" y="-364.46274" x="402.80258"/><tspan id="tspan7280-1" y="-348.62967" x="402.80258"/></text>
- <text id="text7276-7-2" font-size="12.666px" xml:space="preserve" transform="rotate(30)" y="-326.87021" x="298.39124" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3-1" y="-326.87021" x="298.39124"/><tspan id="tspan7280-4-5" y="-311.03714" x="298.39124"/></text>
- <g id="g5923" stroke="#fff" stroke-width=".5px" fill="none" transform="translate(31.102 -1.7627)">
-  <path id="path5086-2" d="m-26.852 11.763v-2.25h2v-2h-2.25"/>
-  <path id="path5088-1" d="m-21.602 7.5127h-1.25v4h-1.25"/>
-  <path id="path5093-6" d="m-20.852 11.763v-2.25h2v-2h-2.25"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect5462" rx="1" ry="1" height="14" width="16" y="1" x="0" fill="#5d5d5d"/>
+    <rect id="rect5084" height="12" width="14" y="2" x="1" fill="#0093cd"/>
+    <g id="g5923" stroke="#fff" stroke-width=".5px" fill="none" transform="translate(31.102 -1.7627)">
+        <path id="path5086-2" d="m-26.852 11.763v-2.25h2v-2h-2.25"/>
+        <path id="path5088-1" d="m-21.602 7.5127h-1.25v4h-1.25"/>
+        <path id="path5093-6" d="m-20.852 11.763v-2.25h2v-2h-2.25"/>
+    </g>
 </svg>

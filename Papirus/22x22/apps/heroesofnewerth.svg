@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -702.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -695.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-387.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-387.22546" x="435.90427"/><tspan id="tspan7280" y="-371.3924" x="435.90427"/></text>
- <text id="text7276-3" font-size="12.666px" xml:space="preserve" y="-387.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3" y="-387.22546" x="435.90427"/><tspan id="tspan7280-0" y="-371.3924" x="435.90427"/></text>
- <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#fecd38"/>
- <path id="rect4903" opacity=".2" d="m11 1c-5.54 0-10 4.46-10 10 0 0.084 0.004 0.166 0.0058 0.25 0.1324-5.423 4.5382-9.75 9.9942-9.75 5.4558 0 9.862 4.327 9.994 9.75 0.002-0.08343 0.0059-0.16606 0.0059-0.25 0-5.54-4.46-10-10-10z" fill="#fff"/>
- <path id="rect4722" opacity=".2" d="m1.0058 11.25c-0.002 0.084-0.0058 0.166-0.0058 0.25 0 5.54 4.46 10 10 10s10-4.46 10-10c0-0.084-0.004-0.1665-0.006-0.25-0.132 5.423-4.538 9.75-9.994 9.75s-9.862-4.327-9.994-9.75z"/>
- <circle id="path4555" cy="11" cx="11" r="8.5" fill="#31b03b"/>
- <g id="g4802" transform="translate(-1,-1)">
-  <path id="rect4804" opacity=".2" d="m5 8.5v7h1v-4h1v2h1v-5h-1v2h-1v-2h-1zm6.5 0a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5zm3.5 0v5h1v-3.0391l1 1.7324v3.3066h1v-7h-1v1.7148l-1-1.715h-1zm-3.5 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5zm-2.5 5v1h5v-1h-5z"/>
- </g>
- <g id="g4792" transform="translate(-1,-1)" fill="#fff">
-  <rect id="rect4572" y="8" width="1" x="5" height="7"/>
-  <rect id="rect4574" y="8" width="1" x="7" height="5"/>
-  <rect id="rect4596" transform="scale(-1,1)" height="7" width="1" y="8" x="-18"/>
-  <rect id="rect4598" transform="scale(-1,1)" height="5" width="1" y="8" x="-16"/>
-  <path id="path4771" d="m11.5 8a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z"/>
-  <rect id="rect4602" y="10" width="3" x="5" height="1"/>
-  <path id="rect4604" d="m16 8 1.6468 2.8242-0.17355 1.6876-2.3233-4.024z"/>
-  <rect id="rect4610" y="14" width="5" x="9" height="1"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#fecd38"/>
+    <path id="rect4903" opacity=".2" d="m11 1c-5.54 0-10 4.46-10 10 0 0.084 0.004 0.166 0.0058 0.25 0.1324-5.423 4.5382-9.75 9.9942-9.75 5.4558 0 9.862 4.327 9.994 9.75 0.002-0.08343 0.0059-0.16606 0.0059-0.25 0-5.54-4.46-10-10-10z" fill="#fff"/>
+    <path id="rect4722" opacity=".2" d="m1.0058 11.25c-0.002 0.084-0.0058 0.166-0.0058 0.25 0 5.54 4.46 10 10 10s10-4.46 10-10c0-0.084-0.004-0.1665-0.006-0.25-0.132 5.423-4.538 9.75-9.994 9.75s-9.862-4.327-9.994-9.75z"/>
+    <circle id="path4555" cy="11" cx="11" r="8.5" fill="#31b03b"/>
+    <g id="g4802" transform="translate(-1,-1)">
+        <path id="rect4804" opacity=".2" d="m5 8.5v7h1v-4h1v2h1v-5h-1v2h-1v-2h-1zm6.5 0a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5zm3.5 0v5h1v-3.0391l1 1.7324v3.3066h1v-7h-1v1.7148l-1-1.715h-1zm-3.5 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5zm-2.5 5v1h5v-1h-5z"/>
+    </g>
+    <g id="g4792" transform="translate(-1,-1)" fill="#fff">
+        <rect id="rect4572" y="8" width="1" x="5" height="7"/>
+        <rect id="rect4574" y="8" width="1" x="7" height="5"/>
+        <rect id="rect4596" transform="scale(-1,1)" height="7" width="1" y="8" x="-18"/>
+        <rect id="rect4598" transform="scale(-1,1)" height="5" width="1" y="8" x="-16"/>
+        <path id="path4771" d="m11.5 8a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z"/>
+        <rect id="rect4602" y="10" width="3" x="5" height="1"/>
+        <path id="rect4604" d="m16 8 1.6468 2.8242-0.17355 1.6876-2.3233-4.024z"/>
+        <rect id="rect4610" y="14" width="5" x="9" height="1"/>
+    </g>
 </svg>

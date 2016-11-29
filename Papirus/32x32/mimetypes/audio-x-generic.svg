@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg4346" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4351">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="path21637" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v22.5c0 0.692 0.5575 1.25 1.25 1.25h17.5c0.692 0 1.25-0.558 1.25-1.25v-15.75l-6.875-1.125-1.125-6.875z" fill="#8564c2"/>
- <path id="path21645" d="m18 4v6.6667c0 0.736 0.597 1.333 1.333 1.333h6.667l-8-8z" fill="#c2b1e0"/>
- <path id="path4154" d="m13 14-0.000044 0.5v6.5s-0.15572 0.000385-0.49996-0.000009c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5c1.3622-0.000835 2.473-1.0921 2.498-2.4541l0.002-0.0039v-6.542h5v4s-0.15572 0.000394-0.49995 0c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5c1.3311-0.0015 2.4276-1.0456 2.4941-2.375l0.0059-0.01172v-9.6133h-9z" stroke-width="3" fill="#fff"/>
- <path id="path4149" opacity=".1" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v1c0-0.6925 0.5575-1.25 1.25-1.25h10.75v-1z" fill="#fff"/>
+    <metadata id="metadata4351">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path21637" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v22.5c0 0.692 0.5575 1.25 1.25 1.25h17.5c0.692 0 1.25-0.558 1.25-1.25v-15.75l-6.875-1.125-1.125-6.875z" fill="#8564c2"/>
+    <path id="path21645" d="m18 4v6.6667c0 0.736 0.597 1.333 1.333 1.333h6.667l-8-8z" fill="#c2b1e0"/>
+    <path id="path4154" d="m13 14-0.000044 0.5v6.5s-0.15572 0.000385-0.49996-0.000009c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5c1.3622-0.000835 2.473-1.0921 2.498-2.4541l0.002-0.0039v-6.542h5v4s-0.15572 0.000394-0.49995 0c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5c1.3311-0.0015 2.4276-1.0456 2.4941-2.375l0.0059-0.01172v-9.6133h-9z" stroke-width="3" fill="#fff"/>
+    <path id="path4149" opacity=".1" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v1c0-0.6925 0.5575-1.25 1.25-1.25h10.75v-1z" fill="#fff"/>
 </svg>

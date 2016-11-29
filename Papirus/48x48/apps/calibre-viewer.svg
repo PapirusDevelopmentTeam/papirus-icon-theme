@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="layer4-0-1" transform="matrix(.90475 0 0 .90475 -803.19 -678.12)">
- </g>
- <g id="layer4-0-7-3" transform="matrix(.90475 0 0 .90475 -803.19 -670.88)">
- </g>
- <text id="text7276-9" font-size="12.666px" xml:space="preserve" y="-363.05597" x="349.46359" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-9" y="-363.05597" x="349.46359"/><tspan id="tspan7280-9" y="-347.2229" x="349.46359"/></text>
- <path id="path8375" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-36c0-1.108-0.892-2-2-2h-28z" fill="#009587"/>
- <path id="path4229" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h3.9785v-40h-3.978z"/>
- <path id="path4452" opacity=".2" style="enable-background:new" d="m31.979 4c-1 0-1 1-1 1v16.5l2.5-1.5 2.5 1.5v-16.5c0-1-1-1-1-1z"/>
- <path id="path5078-2" d="m30.979 4v16.5l2.5-1.5 2.5 1.5v-16.5h-5z" style="enable-background:new" fill="#d8d8d8"/>
- <path id="path4374" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff"/>
- <path id="path4795" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
- <circle id="circle4566" opacity=".2" style="enable-background:new" cx="36" cy="37" r="11"/>
- <circle id="path4058-7" style="enable-background:new" cx="36" cy="36" r="11" fill="#c03630"/>
- <path id="path6807" d="m36 31c-1.5508 0.0151-3.1121 0.36944-4.4629 1.135-0.53841 0.3507-1.1848 0.80366-1.6719 1.26-0.76649 0.75058-1.4225 1.6263-1.8652 2.606 1.2149 2.6801 3.8859 4.6445 6.8242 4.9346 1.9274 0.21817 3.9444-0.11487 5.6387-1.0686 0.53839-0.3507 1.1848-0.80366 1.6719-1.26 0.7665-0.75059 1.4225-1.6264 1.8652-2.606-1.215-2.68-3.8858-4.6448-6.8242-4.9347-0.38988-0.0455-0.78329-0.0665-1.1758-0.0665zm0 2.0004c1.607-0.0356 3.0303 1.4021 3 3.0007 0.05149 1.7668-1.709 3.2916-3.4492 2.9616-1.7576-0.20637-2.9921-2.1782-2.4141-3.8485 0.36917-1.2296 1.5758-2.129 2.8633-2.1138zm0 2.0004a1 1.0002 0 0 0 -1 1.0002 1 1.0002 0 0 0 1 1.0002 1 1.0002 0 0 0 0.99999 -1.0002 1 1.0002 0 0 0 -1 -0.999z" fill="#fff" fill-rule="evenodd"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path8375" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-36c0-1.108-0.892-2-2-2h-28z" fill="#009587"/>
+    <path id="path4229" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h3.9785v-40h-3.978z"/>
+    <path id="path4452" opacity=".2" style="enable-background:new" d="m31.979 4c-1 0-1 1-1 1v16.5l2.5-1.5 2.5 1.5v-16.5c0-1-1-1-1-1z"/>
+    <path id="path5078-2" d="m30.979 4v16.5l2.5-1.5 2.5 1.5v-16.5h-5z" style="enable-background:new" fill="#d8d8d8"/>
+    <path id="path4374" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff"/>
+    <path id="path4795" opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
+    <circle id="circle4566" opacity=".2" style="enable-background:new" cx="36" cy="37" r="11"/>
+    <circle id="path4058-7" style="enable-background:new" cx="36" cy="36" r="11" fill="#c03630"/>
+    <path id="path6807" d="m36 31c-1.5508 0.0151-3.1121 0.36944-4.4629 1.135-0.53841 0.3507-1.1848 0.80366-1.6719 1.26-0.76649 0.75058-1.4225 1.6263-1.8652 2.606 1.2149 2.6801 3.8859 4.6445 6.8242 4.9346 1.9274 0.21817 3.9444-0.11487 5.6387-1.0686 0.53839-0.3507 1.1848-0.80366 1.6719-1.26 0.7665-0.75059 1.4225-1.6264 1.8652-2.606-1.215-2.68-3.8858-4.6448-6.8242-4.9347-0.38988-0.0455-0.78329-0.0665-1.1758-0.0665zm0 2.0004c1.607-0.0356 3.0303 1.4021 3 3.0007 0.05149 1.7668-1.709 3.2916-3.4492 2.9616-1.7576-0.20637-2.9921-2.1782-2.4141-3.8485 0.36917-1.2296 1.5758-2.129 2.8633-2.1138zm0 2.0004a1 1.0002 0 0 0 -1 1.0002 1 1.0002 0 0 0 1 1.0002 1 1.0002 0 0 0 0.99999 -1.0002 1 1.0002 0 0 0 -1 -0.999z" fill="#fff" fill-rule="evenodd"/>
 </svg>

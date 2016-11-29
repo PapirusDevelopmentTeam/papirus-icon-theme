@@ -1,49 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="24"
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg6530"
-   height="24">
-  <defs
-     id="defs6532">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-  </defs>
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-473,-907.27262)"
-     style="display:inline"
-     id="layer1">
-    <path
-       style="color:#000000;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="path4077-8"
-       d="m 492.21875,912.39762 c -0.0741,0.0356 -0.13911,0.0898 -0.1875,0.15625 l -0.5,0.5 -0.15625,-0.15625 -6,6 0.15625,0.15625 -0.5,0.5 -0.0312,0.71875 0.71875,-0.0312 0.5,-0.5 0.15625,0.15625 6,-6 -0.15625,-0.15625 0.5,-0.5 c 0.29288,-0.29845 -0.0248,-0.91114 -0.4375,-0.84375 -0.0208,-10e-4 -0.0417,-10e-4 -0.0625,0 z M 478,914.27262 c -0.554,0 -1,0.446 -1,1 l 0,9 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-7.5625 -3.90625,3.90625 -0.71875,0.6875 -0.15625,-0.15625 -0.0625,0.0625 -0.40625,0.0312 -0.71875,0.0312 -1.0625,0.0312 0.0312,-1.0625 0.0312,-0.71875 0.0312,-0.40625 0.0625,-0.0625 -0.15625,-0.15625 0.6875,-0.71875 3.90625,-3.90625 -10.5625,0 z m -1,11 0,1 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-1 c 0,0.554 -0.446,1 -1,1 l -12,0 c -0.554,0 -1,-0.446 -1,-1 z" />
-  </g>
-  <g
-     transform="translate(-473,-454.91046)"
-     id="layer2" />
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="24" viewBox="0 0 24 24" version="1.1" id="svg6530" height="24">
+    <defs id="defs6532">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+    </defs>
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-473,-907.27262)" style="display:inline" id="layer1">
+        <path style="color:#000000;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" id="path4077-8" d="m 492.21875,912.39762 c -0.0741,0.0356 -0.13911,0.0898 -0.1875,0.15625 l -0.5,0.5 -0.15625,-0.15625 -6,6 0.15625,0.15625 -0.5,0.5 -0.0312,0.71875 0.71875,-0.0312 0.5,-0.5 0.15625,0.15625 6,-6 -0.15625,-0.15625 0.5,-0.5 c 0.29288,-0.29845 -0.0248,-0.91114 -0.4375,-0.84375 -0.0208,-10e-4 -0.0417,-10e-4 -0.0625,0 z M 478,914.27262 c -0.554,0 -1,0.446 -1,1 l 0,9 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-7.5625 -3.90625,3.90625 -0.71875,0.6875 -0.15625,-0.15625 -0.0625,0.0625 -0.40625,0.0312 -0.71875,0.0312 -1.0625,0.0312 0.0312,-1.0625 0.0312,-0.71875 0.0312,-0.40625 0.0625,-0.0625 -0.15625,-0.15625 0.6875,-0.71875 3.90625,-3.90625 -10.5625,0 z m -1,11 0,1 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-1 c 0,0.554 -0.446,1 -1,1 l -12,0 c -0.554,0 -1,-0.446 -1,-1 z"/>
+    </g>
 </svg>

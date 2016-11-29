@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64.000001 64.000001" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata7">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(0 -988.36)">
-  <path id="path5171" fill="#5895dc" d="m7 1035.9v-34.988c0-1.3845 1.1235-2.653 2.5-2.5001h19.5l6 4.9992h19.628s2.3718 0 2.3718 2.4992v29.99c0 1.3845-1.115 2.4992-2.5 2.4992h-44.999c-1.385 0-2.5-1.1146-2.5-2.4992z"/>
-  <path id="path5041" opacity=".1" d="m33.68 1003.3-3.68 4.088h-20.5c-2.5 0-2.5 2.396-2.5 2.396v2s0-2.396 2.5-2.396h20.5l4.5-5h0.48633l-1.3066-1.0879zm22.355 1.5645c0.57756 0.4666 0.95676 1.2108 0.96289 2.0039-0.0091-1.0703-0.45872-1.6611-0.96289-2.0039z"/>
-  <path id="path5173" fill="#6ba4e7" d="m57 1040.9v-35c0-1.385-1.1235-2.653-2.5-2.5h-20l-4.5 5h-20.5c-2.5 0-2.5 2.3959-2.5 2.3959v30.104c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5z"/>
-  <path id="path5029" opacity=".1" transform="translate(0 988.36)" fill="#fff" d="m34.5 15l-4.5 5h-20.5c-2.5 0-2.5 2.396-2.5 2.396v1s0-2.396 2.5-2.396h20.5l4.5-5h20c1.377-0.153 2.5 1.115 2.5 2.5v-1c0-1.385-1.123-2.653-2.5-2.5h-20z"/>
-  <path id="path5034" opacity=".2" d="m7 1040.9v1c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5v-1c0 1.385-1.115 2.5-2.5 2.5h-45c-1.385 0-2.5-1.115-2.5-2.5z"/>
-  <path id="path5024" opacity=".1" transform="translate(0 988.36)" fill="#fff" d="m9.5 10.014c-1.3765-0.1536-2.5 1.115-2.5 2.5v1c0-1.385 1.1235-2.654 2.5-2.5h19.5l6 4.998h19.629s2.371 0.001 2.371 2.5v-1c0-2.499-2.371-2.5-2.371-2.5h-19.629l-6-4.998h-19.5z"/>
- </g>
- <rect id="rect4141" opacity=".001" rx=".74345" ry=".66441" height="20" width="20" y="28" x="22"/>
- <g id="g4370" stroke-linejoin="round" transform="matrix(2 0 0 2 9 14)" stroke="#6ba4e7" stroke-linecap="round" fill="#253951">
-  <circle id="circle4462" cx="14" cy="11" stroke-width=".50015" r="2.2499"/>
-  <circle id="circle4456" cx="18.5" cy="15" stroke-width=".50015" r="1.25"/>
-  <circle id="circle4454" cx="15.75" cy="13.75" stroke-width=".5" r="2.5"/>
-  <circle id="circle4458" cx="6.5" cy="14" stroke-width=".50015" r="2.2499"/>
-  <circle id="circle4466" cx="8.75" cy="9.25" stroke-width=".50005" r="1.5"/>
-  <circle id="circle4460" cx="9" cy="12" stroke-width=".50005" r="2.75"/>
-  <circle id="circle4452" cx="8.75" cy="15" stroke-width=".50015" r="1.25"/>
-  <circle id="circle4464" cx="11.25" cy="9.75" stroke-width=".50005" r="2.4999"/>
-  <circle id="path4450" cx="11.999" cy="13.001" stroke-width=".5" r="3.2492"/>
- </g>
+    <metadata id="metadata7">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="layer1" transform="translate(0 -988.36)">
+        <path id="path5171" fill="#5895dc" d="m7 1035.9v-34.988c0-1.3845 1.1235-2.653 2.5-2.5001h19.5l6 4.9992h19.628s2.3718 0 2.3718 2.4992v29.99c0 1.3845-1.115 2.4992-2.5 2.4992h-44.999c-1.385 0-2.5-1.1146-2.5-2.4992z"/>
+        <path id="path5041" opacity=".1" d="m33.68 1003.3-3.68 4.088h-20.5c-2.5 0-2.5 2.396-2.5 2.396v2s0-2.396 2.5-2.396h20.5l4.5-5h0.48633l-1.3066-1.0879zm22.355 1.5645c0.57756 0.4666 0.95676 1.2108 0.96289 2.0039-0.0091-1.0703-0.45872-1.6611-0.96289-2.0039z"/>
+        <path id="path5173" fill="#6ba4e7" d="m57 1040.9v-35c0-1.385-1.1235-2.653-2.5-2.5h-20l-4.5 5h-20.5c-2.5 0-2.5 2.3959-2.5 2.3959v30.104c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5z"/>
+        <path id="path5029" opacity=".1" transform="translate(0 988.36)" fill="#fff" d="m34.5 15l-4.5 5h-20.5c-2.5 0-2.5 2.396-2.5 2.396v1s0-2.396 2.5-2.396h20.5l4.5-5h20c1.377-0.153 2.5 1.115 2.5 2.5v-1c0-1.385-1.123-2.653-2.5-2.5h-20z"/>
+        <path id="path5034" opacity=".2" d="m7 1040.9v1c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5v-1c0 1.385-1.115 2.5-2.5 2.5h-45c-1.385 0-2.5-1.115-2.5-2.5z"/>
+        <path id="path5024" opacity=".1" transform="translate(0 988.36)" fill="#fff" d="m9.5 10.014c-1.3765-0.1536-2.5 1.115-2.5 2.5v1c0-1.385 1.1235-2.654 2.5-2.5h19.5l6 4.998h19.629s2.371 0.001 2.371 2.5v-1c0-2.499-2.371-2.5-2.371-2.5h-19.629l-6-4.998h-19.5z"/>
+    </g>
+    <rect id="rect4141" opacity=".001" rx=".74345" ry=".66441" height="20" width="20" y="28" x="22"/>
+    <g id="g4370" stroke-linejoin="round" transform="matrix(2 0 0 2 9 14)" stroke="#6ba4e7" stroke-linecap="round" fill="#253951">
+        <circle id="circle4462" cx="14" cy="11" stroke-width=".50015" r="2.2499"/>
+        <circle id="circle4456" cx="18.5" cy="15" stroke-width=".50015" r="1.25"/>
+        <circle id="circle4454" cx="15.75" cy="13.75" stroke-width=".5" r="2.5"/>
+        <circle id="circle4458" cx="6.5" cy="14" stroke-width=".50015" r="2.2499"/>
+        <circle id="circle4466" cx="8.75" cy="9.25" stroke-width=".50005" r="1.5"/>
+        <circle id="circle4460" cx="9" cy="12" stroke-width=".50005" r="2.75"/>
+        <circle id="circle4452" cx="8.75" cy="15" stroke-width=".50015" r="1.25"/>
+        <circle id="circle4464" cx="11.25" cy="9.75" stroke-width=".50005" r="2.4999"/>
+        <circle id="path4450" cx="11.999" cy="13.001" stroke-width=".5" r="3.2492"/>
+    </g>
 </svg>

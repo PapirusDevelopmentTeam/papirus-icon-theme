@@ -1,35 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <rect id="rect4203-8" ry=".875" rx=".8" transform="scale(-1,1)" height="14" width="16" y="1" x="-16" fill="#826f3d"/>
- <rect id="rect4461" height="8" width="14" y="2" x="1" fill="#fff"/>
- <g id="g4916" fill="#ff6e6e" transform="translate(1)">
-  <rect id="rect4365" transform="rotate(90)" height="3" width="1" y="-6" x="6"/>
-  <rect id="rect4367" transform="rotate(90)" height="3" width="1" y="-6" x="4"/>
-  <rect id="rect4359" y="4" width="1" height="5" x="3"/>
- </g>
- <circle id="circle4459" cy="13" cx="14" r="1" fill="#01d900"/>
- <rect id="rect4486" opacity=".4" height=".5" width="8" y="10.5" x="1"/>
- <g id="g4922" fill="#ff6e6e" transform="matrix(0,1,-1,0,17,3)">
-  <rect id="rect4924" transform="rotate(90)" height="3" width="1" y="-6" x="8"/>
-  <rect id="rect4926" transform="rotate(90)" height="3" width="1" y="-6" x="6"/>
-  <rect id="rect4928" transform="rotate(90)" height="3" width="1" y="-6" x="4"/>
-  <rect id="rect4930" y="4" width="1" height="5" x="3"/>
- </g>
- <rect id="rect4932" opacity=".4" height=".5" width="8" y="11.5" x="1"/>
- <rect id="rect4934" opacity=".4" height=".5" width="8" y="12.5" x="1"/>
- <rect id="rect4936" opacity=".4" height=".5" width="8" y="13.5" x="1"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203-8" ry=".875" rx=".8" transform="scale(-1,1)" height="14" width="16" y="1" x="-16" fill="#826f3d"/>
+    <rect id="rect4461" height="8" width="14" y="2" x="1" fill="#fff"/>
+    <g id="g4916" fill="#ff6e6e" transform="translate(1)">
+        <rect id="rect4365" transform="rotate(90)" height="3" width="1" y="-6" x="6"/>
+        <rect id="rect4367" transform="rotate(90)" height="3" width="1" y="-6" x="4"/>
+        <rect id="rect4359" y="4" width="1" height="5" x="3"/>
+    </g>
+    <circle id="circle4459" cy="13" cx="14" r="1" fill="#01d900"/>
+    <rect id="rect4486" opacity=".4" height=".5" width="8" y="10.5" x="1"/>
+    <g id="g4922" fill="#ff6e6e" transform="matrix(0,1,-1,0,17,3)">
+        <rect id="rect4924" transform="rotate(90)" height="3" width="1" y="-6" x="8"/>
+        <rect id="rect4926" transform="rotate(90)" height="3" width="1" y="-6" x="6"/>
+        <rect id="rect4928" transform="rotate(90)" height="3" width="1" y="-6" x="4"/>
+        <rect id="rect4930" y="4" width="1" height="5" x="3"/>
+    </g>
+    <rect id="rect4932" opacity=".4" height=".5" width="8" y="11.5" x="1"/>
+    <rect id="rect4934" opacity=".4" height=".5" width="8" y="12.5" x="1"/>
+    <rect id="rect4936" opacity=".4" height=".5" width="8" y="13.5" x="1"/>
 </svg>

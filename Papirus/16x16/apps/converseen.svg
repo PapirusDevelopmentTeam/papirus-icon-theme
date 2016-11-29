@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <ellipse id="path4760" rx="6.5" ry="6" cy="8" cx="8" fill="#ccc"/>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <g id="layer4-0-4" transform="matrix(.90475 0 0 .90475 -785.5 -709.51)">
- </g>
- <g id="layer4-0-7-2" transform="matrix(.90475 0 0 .90475 -785.5 -702.27)">
- </g>
- <text id="text7276-9" font-size="12.666px" xml:space="preserve" y="-394.4458" x="367.15851" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3" y="-394.4458" x="367.15851"/><tspan id="tspan7280-2" y="-378.61273" x="367.15851"/></text>
- <text id="text7276-7" font-size="12.666px" xml:space="preserve" y="-395.44086" x="305.90604" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-7" y="-395.44086" x="305.90604"/><tspan id="tspan7280-4" y="-379.60779" x="305.90604"/></text>
- <path id="path4762" fill="#9ccd44" d="m7 0v1c-3.7556 0-7 3.2444-7 7 0 1.7037 0.66765 3.302 1.7478 4.54 0.5771 0.46 2.2522-0.22 1.3623-1.488-0.6881-0.859-1.1101-1.9284-1.1101-3.052 0-2.6508 2.3488-5 5-5v1l4-2z"/>
- <path id="path4768" fill="#5db43e" d="m8 16v-1c3.7556 0 7-3.2444 7-7 0-1.7037-0.668-3.3022-1.748-4.5403-0.577-0.4597-2.252 0.2203-1.362 1.4881 0.688 0.8593 1.11 1.9286 1.11 3.0522 0 2.651-2.349 5-5 5v-1l-4 2z"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <ellipse id="path4760" rx="6.5" ry="6" cy="8" cx="8" fill="#ccc"/>
+    <path id="path4762" fill="#9ccd44" d="m7 0v1c-3.7556 0-7 3.2444-7 7 0 1.7037 0.66765 3.302 1.7478 4.54 0.5771 0.46 2.2522-0.22 1.3623-1.488-0.6881-0.859-1.1101-1.9284-1.1101-3.052 0-2.6508 2.3488-5 5-5v1l4-2z"/>
+    <path id="path4768" fill="#5db43e" d="m8 16v-1c3.7556 0 7-3.2444 7-7 0-1.7037-0.668-3.3022-1.748-4.5403-0.577-0.4597-2.252 0.2203-1.362 1.4881 0.688 0.8593 1.11 1.9286 1.11 3.0522 0 2.651-2.349 5-5 5v-1l-4 2z"/>
 </svg>

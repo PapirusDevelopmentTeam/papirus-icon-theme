@@ -1,88 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="22"
-   version="1.1"
-   style="enable-background:new"
-   id="svg7384"
-   height="22">
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556" />
-    </filter>
-  </defs>
-  <g
-     transform="translate(-265.00042,145.03456)"
-     style="display:inline"
-     id="layer9" />
-  <g
-     transform="translate(-265.00042,145.03456)"
-     style="display:inline;filter:url(#filter7554)"
-     id="layer10">
-    <path
-       style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect8476"
-       d="m 271.00042,-141.03456 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 l -4,0 0,-4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z" />
-  </g>
-  <g
-     transform="translate(-24.000224,-471.96544)"
-     style="display:inline"
-     id="layer1" />
-  <g
-     transform="translate(-265.00042,145.03456)"
-     style="display:inline"
-     id="layer14" />
-  <g
-     transform="translate(-265.00042,145.03456)"
-     style="display:inline"
-     id="layer15" />
-  <g
-     transform="translate(-265.00042,145.03456)"
-     style="display:inline"
-     id="g71291" />
-  <g
-     transform="translate(-24.000224,-321.96544)"
-     style="display:inline"
-     id="layer2" />
-  <g
-     transform="translate(-24.000224,-321.96544)"
-     style="display:inline"
-     id="g6058" />
-  <g
-     transform="translate(-265.00042,145.03456)"
-     style="display:inline"
-     id="layer12" />
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
+    <metadata id="metadata90">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title>
+                    Paper Symbolic Icon Theme
+                </dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <title id="title8473">
+        Paper Symbolic Icon Theme
+    </title>
+    <defs id="defs7386">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+        <filter style="color-interpolation-filters:sRGB" id="filter7554">
+            <feBlend mode="darken" in2="BackgroundImage" id="feBlend7556"/>
+        </filter>
+    </defs>
+    <g transform="translate(-265.00042,145.03456)" style="display:inline;filter:url(#filter7554)" id="layer10">
+        <path style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none" id="rect8476" d="m 271.00042,-141.03456 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 l -4,0 0,-4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
+    </g>
 </svg>

@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="g4358" style="enable-background:new" transform="translate(-136,-236)">
-  <path id="rect4203" d="m180 276v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#66bfb7"/>
-  <path id="rect4085" opacity=".1" d="m142 242c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
-  <path id="rect6307-3" d="m152.5 255.69 9.9375 11.25 6.375-6.1875 6.1875 6.1875v5.0625h-30v-7.5z" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" fill="#fff"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4358" style="enable-background:new" transform="translate(-136,-236)">
+        <path id="rect4203" d="m180 276v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#66bfb7"/>
+        <path id="rect4085" opacity=".1" d="m142 242c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
+        <path id="rect6307-3" d="m152.5 255.69 9.9375 11.25 6.375-6.1875 6.1875 6.1875v5.0625h-30v-7.5z" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" fill="#fff"/>
+    </g>
 </svg>

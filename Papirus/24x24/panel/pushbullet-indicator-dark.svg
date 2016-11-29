@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   height="24"
-   width="24"
-   version="1.1"
-   id="svg3039">
-  <metadata
-     id="metadata3045">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3043" />
-  <path
-     id="path3075"
-     d="m 3.9999998,6 0,12 2,0 0,-12 z m 4,0 0,12 4.2527932,-0.03231 c 2.931252,-0.03263 3.207892,-0.07305 4.447174,-0.676877 2.70203,-1.316495 3.978252,-4.504192 2.939962,-7.343284 -0.68573,-1.875008 -2.246081,-3.2634295 -4.235153,-3.768346 -0.624755,-0.1585921 -1.021561,-0.1791748 -3.45,-0.1791748 z"
-     style="opacity:0.50000018;fill:#000000;fill-opacity:1" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" id="svg3039">
+    <metadata id="metadata3045">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path3075" d="m 3.9999998,6 0,12 2,0 0,-12 z m 4,0 0,12 4.2527932,-0.03231 c 2.931252,-0.03263 3.207892,-0.07305 4.447174,-0.676877 2.70203,-1.316495 3.978252,-4.504192 2.939962,-7.343284 -0.68573,-1.875008 -2.246081,-3.2634295 -4.235153,-3.768346 -0.624755,-0.1585921 -1.021561,-0.1791748 -3.45,-0.1791748 z" style="opacity:0.50000018;fill:#000000;fill-opacity:1"/>
 </svg>

@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -692.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -685.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-377.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-377.22546" x="435.90427"/><tspan id="tspan7280" y="-361.3924" x="435.90427"/></text>
- <rect id="rect4203-0" transform="matrix(0,-1,-1,0,0,0)" rx="14" ry="14" height="28" width="28" y="-30" x="-30" fill="#0277bd"/>
- <path id="rect4541" opacity=".2" fill="#fff" d="m16 2c-7.756 0-14 6.244-14 14 0 0.169 0.0195 0.333 0.0254 0.5 0.2637-7.5206 6.3874-13.5 13.975-13.5 7.587 0 13.711 5.9794 13.975 13.5 0.005-0.167 0.025-0.331 0.025-0.5 0-7.756-6.244-14-14-14z"/>
- <path id="rect4546" opacity=".2" d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.16884-0.01952-0.33264-0.02539-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"/>
- <g id="g4563" opacity=".2" style="enable-background:new" transform="matrix(.75 0 0 .75 -110 -179.5)">
-  <rect id="rect4565" opacity="1" height="22.667" width="4" y="251.33" x="160"/>
-  <rect id="rect4567" opacity="1" height="17.333" width="4" y="251.33" x="172"/>
-  <path id="path4569" opacity="1" style="enable-background:accumulate;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m160 258v2.6667c0 4.3974 3.6026 8 8 8s8-3.6026 8-8v-2.67h-4v2.6667c0 2.2506-1.7494 4-4 4s-4-1.7494-4-4v-2.67z"/>
- </g>
- <g id="g4386" style="enable-background:new" fill="#fff" transform="matrix(.75 0 0 .75 -110 -180.5)">
-  <rect id="rect4388" y="251.33" width="4" x="160" height="22.667"/>
-  <rect id="rect4390" y="251.33" width="4" x="172" height="17.333"/>
-  <path id="path4392" style="enable-background:accumulate;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m160 258v2.6667c0 4.3974 3.6026 8 8 8s8-3.6026 8-8v-2.67h-4v2.6667c0 2.2506-1.7494 4-4 4s-4-1.7494-4-4v-2.67z"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203-0" transform="matrix(0,-1,-1,0,0,0)" rx="14" ry="14" height="28" width="28" y="-30" x="-30" fill="#0277bd"/>
+    <path id="rect4541" opacity=".2" fill="#fff" d="m16 2c-7.756 0-14 6.244-14 14 0 0.169 0.0195 0.333 0.0254 0.5 0.2637-7.5206 6.3874-13.5 13.975-13.5 7.587 0 13.711 5.9794 13.975 13.5 0.005-0.167 0.025-0.331 0.025-0.5 0-7.756-6.244-14-14-14z"/>
+    <path id="rect4546" opacity=".2" d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.16884-0.01952-0.33264-0.02539-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"/>
+    <g id="g4563" opacity=".2" style="enable-background:new" transform="matrix(.75 0 0 .75 -110 -179.5)">
+        <rect id="rect4565" opacity="1" height="22.667" width="4" y="251.33" x="160"/>
+        <rect id="rect4567" opacity="1" height="17.333" width="4" y="251.33" x="172"/>
+        <path id="path4569" opacity="1" style="enable-background:accumulate;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m160 258v2.6667c0 4.3974 3.6026 8 8 8s8-3.6026 8-8v-2.67h-4v2.6667c0 2.2506-1.7494 4-4 4s-4-1.7494-4-4v-2.67z"/>
+    </g>
+    <g id="g4386" style="enable-background:new" fill="#fff" transform="matrix(.75 0 0 .75 -110 -180.5)">
+        <rect id="rect4388" y="251.33" width="4" x="160" height="22.667"/>
+        <rect id="rect4390" y="251.33" width="4" x="172" height="17.333"/>
+        <path id="path4392" style="enable-background:accumulate;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m160 258v2.6667c0 4.3974 3.6026 8 8 8s8-3.6026 8-8v-2.67h-4v2.6667c0 2.2506-1.7494 4-4 4s-4-1.7494-4-4v-2.67z"/>
+    </g>
 </svg>

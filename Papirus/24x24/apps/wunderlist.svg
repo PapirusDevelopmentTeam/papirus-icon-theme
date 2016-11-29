@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg3143" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3148">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -760.42 -707.7)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -760.42 -700.46)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-392.63852" x="392.23035" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-392.63852" x="392.23035"/><tspan id="tspan7280" y="-376.80545" x="392.23035"/></text>
- <g id="g4350" transform="translate(1,1)">
-  <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#e79d67"/>
-  <path id="path4847" opacity=".2" style="color:#000000" d="m3.247 3.4999c-0.13686 0-0.24707 0.11022-0.24707 0.24707v15.506c0 0.137 0.1102 0.247 0.24705 0.247h15.506c0.137 0 0.247-0.11 0.247-0.247v-15.506c0-0.1368-0.11-0.247-0.247-0.247z"/>
-  <path id="rect4335" style="color:#000000" fill="#fff" d="m3.247 3c-0.1368 0-0.247 0.1102-0.247 0.2471v15.506c0 0.137 0.1102 0.247 0.24705 0.247h15.506c0.137 0 0.247-0.11 0.247-0.247v-15.506c0-0.1368-0.11-0.247-0.247-0.247z"/>
-  <path id="path4851" fill="#e84228" d="m6 3v17l5-3 5 3v-17z"/>
-  <path id="path4068" opacity=".2" fill="#fff" d="m1 2.5v-0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v0.5c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1z"/>
-  <path id="rect3289" opacity=".2" d="m1 20v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
-  <path id="path4361" opacity=".2" d="m11 6.5 1.236 2.6334 2.764 0.4223-2 2.0503 0.472 2.894-2.472-1.367-2.4721 1.367 0.4721-2.894-2-2.0503 2.7639-0.4223z"/>
-  <path id="path4350" d="m11 6 1.236 2.6334 2.764 0.4223-2 2.0503 0.472 2.894-2.472-1.367-2.4721 1.367 0.4721-2.894-2-2.0503 2.7639-0.4223z" fill="#fff"/>
-  <path id="path4381" d="m11 6 1.236 2.6334 2.764 0.4223-2 2.0503 0.472 2.894-2.472-1.367-2.4721 1.367 0.4721-2.894-2-2.0503 2.7639-0.4223z" fill="#fff"/>
- </g>
+    <metadata id="metadata3148">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4350" transform="translate(1,1)">
+        <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#e79d67"/>
+        <path id="path4847" opacity=".2" style="color:#000000" d="m3.247 3.4999c-0.13686 0-0.24707 0.11022-0.24707 0.24707v15.506c0 0.137 0.1102 0.247 0.24705 0.247h15.506c0.137 0 0.247-0.11 0.247-0.247v-15.506c0-0.1368-0.11-0.247-0.247-0.247z"/>
+        <path id="rect4335" style="color:#000000" fill="#fff" d="m3.247 3c-0.1368 0-0.247 0.1102-0.247 0.2471v15.506c0 0.137 0.1102 0.247 0.24705 0.247h15.506c0.137 0 0.247-0.11 0.247-0.247v-15.506c0-0.1368-0.11-0.247-0.247-0.247z"/>
+        <path id="path4851" fill="#e84228" d="m6 3v17l5-3 5 3v-17z"/>
+        <path id="path4068" opacity=".2" fill="#fff" d="m1 2.5v-0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v0.5c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1z"/>
+        <path id="rect3289" opacity=".2" d="m1 20v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
+        <path id="path4361" opacity=".2" d="m11 6.5 1.236 2.6334 2.764 0.4223-2 2.0503 0.472 2.894-2.472-1.367-2.4721 1.367 0.4721-2.894-2-2.0503 2.7639-0.4223z"/>
+        <path id="path4350" d="m11 6 1.236 2.6334 2.764 0.4223-2 2.0503 0.472 2.894-2.472-1.367-2.4721 1.367 0.4721-2.894-2-2.0503 2.7639-0.4223z" fill="#fff"/>
+        <path id="path4381" d="m11 6 1.236 2.6334 2.764 0.4223-2 2.0503 0.472 2.894-2.472-1.367-2.4721 1.367 0.4721-2.894-2-2.0503 2.7639-0.4223z" fill="#fff"/>
+    </g>
 </svg>

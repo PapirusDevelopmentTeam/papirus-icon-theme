@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <text id="text7276-3" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3" y="-361.22546" x="435.90427"/><tspan id="tspan7280-0" y="-345.3924" x="435.90427"/></text>
- <text id="text7276-1" font-size="12.666px" xml:space="preserve" y="-360.375" x="381.82016" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-9" y="-360.375" x="381.82016"/><tspan id="tspan7280-6" y="-344.54193" x="381.82016"/></text>
- <rect id="rect4203" ry="20" rx="20" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#a43b84"/>
- <path id="rect4903" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.008 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004-0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
- <path id="rect4849" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.16787-0.0076-0.33314-0.01172-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
- <path id="path6525" opacity=".2" stroke-width="4" d="m16 15v12s0 8 6 8h10v-20h-4v16h-5c-3 0-3-4-3-4v-12h-4z"/>
- <path id="rect4566" d="m16 14v12s0 8 6 8h10v-20h-4v16h-5c-3 0-3-4-3-4v-12h-4z" stroke-width="4" fill="#fff"/>
- <circle id="circle4773" opacity=".2" style="enable-background:new" cx="36" cy="37" r="11"/>
- <circle id="path4058-1" style="enable-background:new" cx="36" cy="36" r="11" fill="#42a1cd"/>
- <path id="path5125" d="m34.488 29.999-0.13345 1.5804a4.7567 4.7143 0 0 0 -1.3902 0.79689l-1.4493-0.67635-1.5135 2.5982 1.3159 0.9057a4.7567 4.7143 0 0 0 -0.07265 0.7952 4.7567 4.7143 0 0 0 0.06922 0.79855l-1.314 0.903 1.5135 2.5982 1.4459-0.67466a4.7567 4.7143 0 0 0 1.393 0.792l0.133 1.584h3.027l0.13344-1.5804a4.7567 4.7143 0 0 0 1.3902 -0.79688l1.4493 0.67634 1.5135-2.5982-1.3159-0.9057a4.7567 4.7143 0 0 0 0.07265 -0.79519 4.7567 4.7143 0 0 0 -0.06922 -0.79855l1.313-0.901-1.5135-2.5982-1.446 0.67467a4.7567 4.7143 0 0 0 -1.393 -0.792l-0.13344-1.5837h-3.027zm1.5135 4.2857a1.7297 1.7143 0 0 1 1.7297 1.7143 1.7297 1.7143 0 0 1 -1.7297 1.7143 1.7297 1.7143 0 0 1 -1.7297 -1.7143 1.7297 1.7143 0 0 1 1.7297 -1.7143z" style="enable-background:new" fill="#fff"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203" ry="20" rx="20" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#a43b84"/>
+    <path id="rect4903" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.008 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004-0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
+    <path id="rect4849" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.16787-0.0076-0.33314-0.01172-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
+    <path id="path6525" opacity=".2" stroke-width="4" d="m16 15v12s0 8 6 8h10v-20h-4v16h-5c-3 0-3-4-3-4v-12h-4z"/>
+    <path id="rect4566" d="m16 14v12s0 8 6 8h10v-20h-4v16h-5c-3 0-3-4-3-4v-12h-4z" stroke-width="4" fill="#fff"/>
+    <circle id="circle4773" opacity=".2" style="enable-background:new" cx="36" cy="37" r="11"/>
+    <circle id="path4058-1" style="enable-background:new" cx="36" cy="36" r="11" fill="#42a1cd"/>
+    <path id="path5125" d="m34.488 29.999-0.13345 1.5804a4.7567 4.7143 0 0 0 -1.3902 0.79689l-1.4493-0.67635-1.5135 2.5982 1.3159 0.9057a4.7567 4.7143 0 0 0 -0.07265 0.7952 4.7567 4.7143 0 0 0 0.06922 0.79855l-1.314 0.903 1.5135 2.5982 1.4459-0.67466a4.7567 4.7143 0 0 0 1.393 0.792l0.133 1.584h3.027l0.13344-1.5804a4.7567 4.7143 0 0 0 1.3902 -0.79688l1.4493 0.67634 1.5135-2.5982-1.3159-0.9057a4.7567 4.7143 0 0 0 0.07265 -0.79519 4.7567 4.7143 0 0 0 -0.06922 -0.79855l1.313-0.901-1.5135-2.5982-1.446 0.67467a4.7567 4.7143 0 0 0 -1.393 -0.792l-0.13344-1.5837h-3.027zm1.5135 4.2857a1.7297 1.7143 0 0 1 1.7297 1.7143 1.7297 1.7143 0 0 1 -1.7297 1.7143 1.7297 1.7143 0 0 1 -1.7297 -1.7143 1.7297 1.7143 0 0 1 1.7297 -1.7143z" style="enable-background:new" fill="#fff"/>
 </svg>

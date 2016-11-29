@@ -1,42 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="g4358" transform="translate(1,1)">
-  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#5d5d5d"/>
-  <path id="rect4592" opacity=".1" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-  <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
-  <g id="g4480" opacity=".2" transform="matrix(.5 0 0 .5 -1 -.5)">
-   <g id="g4482">
-    <path id="path4484" opacity="1" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-    <path id="path4486" opacity="1" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-   </g>
-   <g id="g4488" transform="translate(0,18)">
-    <path id="path4490" opacity="1" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-    <path id="path4492" opacity="1" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-   </g>
-  </g>
-  <g id="g4472" fill="#48aeff" transform="matrix(.5 0 0 .5 -1 -1)">
-   <g id="g4462">
-    <path id="rect4454" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-    <path id="path4460" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-   </g>
-   <g id="g4483" transform="translate(0,18)">
-    <path id="path4468" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-    <path id="path4470" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
-   </g>
-  </g>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4358" transform="translate(1,1)">
+        <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#5d5d5d"/>
+        <path id="rect4592" opacity=".1" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+        <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+        <g id="g4480" opacity=".2" transform="matrix(.5 0 0 .5 -1 -.5)">
+            <g id="g4482">
+                <path id="path4484" opacity="1" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+                <path id="path4486" opacity="1" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+            </g>
+            <g id="g4488" transform="translate(0,18)">
+                <path id="path4490" opacity="1" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+                <path id="path4492" opacity="1" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+            </g>
+        </g>
+        <g id="g4472" fill="#48aeff" transform="matrix(.5 0 0 .5 -1 -1)">
+            <g id="g4462">
+                <path id="rect4454" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+                <path id="path4460" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+            </g>
+            <g id="g4483" transform="translate(0,18)">
+                <path id="path4468" d="m9 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+                <path id="path4470" d="m27 8h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z"/>
+            </g>
+        </g>
+    </g>
 </svg>

@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg4357" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" viewBox="0 0 22 22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4362">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4143" transform="translate(-1,-1)">
-  <path id="path4750" d="m5 2c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-5.5-0.5-0.5-5.5z" fill="#977dc1"/>
-  <path id="path4752" opacity=".2" d="m5 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h9l5.5 5.5h0.5l-6-6z" fill="#fff"/>
-  <path id="path4756" d="m14 2v5c0 0.5523 0.44772 1 1 1h5l-6-6z" fill="#b891f7"/>
-  <path id="path4456" d="m11 12v1.5l-2.25 2 2.25 2v1.5l-4-3.434z" fill="#fff"/>
-  <g id="g4163" transform="matrix(.5 0 0 .5 -.99995 -502.2)" fill="#fff">
-   <path id="path4363" d="m29 1028.4a1.0001 1.0001 0 0 0 -1 1v2a1.0001 1.0001 0 1 0 2 0v-1h2v3.4648l-2.5547 1.7032a1.0001 1.0001 0 0 0 -0.445 0.8v2a1.0001 1.0001 0 1 0 2 0v-1.4648l2.5547-1.7032a1.0001 1.0001 0 0 0 0.445 -0.8v-5a1.0001 1.0001 0 0 0 -1 -1h-4z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd"/>
-   <circle id="path4369" cy="1041.4" cx="30" r="1"/>
-  </g>
- </g>
+    <metadata id="metadata4362">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4143" transform="translate(-1,-1)">
+        <path id="path4750" d="m5 2c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-5.5-0.5-0.5-5.5z" fill="#977dc1"/>
+        <path id="path4752" opacity=".2" d="m5 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h9l5.5 5.5h0.5l-6-6z" fill="#fff"/>
+        <path id="path4756" d="m14 2v5c0 0.5523 0.44772 1 1 1h5l-6-6z" fill="#b891f7"/>
+        <path id="path4456" d="m11 12v1.5l-2.25 2 2.25 2v1.5l-4-3.434z" fill="#fff"/>
+        <g id="g4163" transform="matrix(.5 0 0 .5 -.99995 -502.2)" fill="#fff">
+            <path id="path4363" d="m29 1028.4a1.0001 1.0001 0 0 0 -1 1v2a1.0001 1.0001 0 1 0 2 0v-1h2v3.4648l-2.5547 1.7032a1.0001 1.0001 0 0 0 -0.445 0.8v2a1.0001 1.0001 0 1 0 2 0v-1.4648l2.5547-1.7032a1.0001 1.0001 0 0 0 0.445 -0.8v-5a1.0001 1.0001 0 0 0 -1 -1h-4z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd"/>
+            <circle id="path4369" cy="1041.4" cx="30" r="1"/>
+        </g>
+    </g>
 </svg>

@@ -1,42 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -692.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -685.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-377.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-377.22546" x="435.90427"/><tspan id="tspan7280" y="-361.3924" x="435.90427"/></text>
- <g id="layer4-0-75" transform="matrix(.90475 0 0 .90475 -776.95 -687.73)">
- </g>
- <g id="layer4-0-7-5" transform="matrix(.90475 0 0 .90475 -776.95 -680.49)">
- </g>
- <text id="text7276-9" font-size="12.666px" xml:space="preserve" y="-372.66449" x="375.70306" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-6" y="-372.66449" x="375.70306"/><tspan id="tspan7280-7" y="-356.83142" x="375.70306"/></text>
- <text id="text7276-1" font-size="12.666px" xml:space="preserve" y="-372.30521" x="373.88095" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-5" y="-372.30521" x="373.88095"/><tspan id="tspan7280-8" y="-356.47214" x="373.88095"/></text>
- <g id="layer4-0-70" transform="matrix(1.1309 0 0 1.1309 -962.94 -875.36)">
- </g>
- <g id="layer4-0-7-51" transform="matrix(1.1309 0 0 1.1309 -962.94 -866.31)">
- </g>
- <text id="text7276-99" font-size="15.833px" xml:space="preserve" y="-481.53183" x="477.88034" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-3" y="-481.53183" x="477.88034"/><tspan id="tspan7280-9" y="-461.74048" x="477.88034"/></text>
- <g id="layer4-0-5" transform="matrix(1.1309 0 0 1.1309 -898.11 -876.38)">
- </g>
- <g id="layer4-0-7-5-5" transform="matrix(1.1309 0 0 1.1309 -898.11 -867.33)">
- </g>
- <text id="text7276-4" font-size="15.833px" xml:space="preserve" y="-482.5488" x="542.71082" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-2" y="-482.5488" x="542.71082"/><tspan id="tspan7280-2" y="-462.75745" x="542.71082"/></text>
- <g id="layer4-0-0" transform="matrix(1.1309 0 0 1.1309 -968.94 -878.36)">
- </g>
- <g id="layer4-0-7-50" transform="matrix(1.1309 0 0 1.1309 -968.94 -869.31)">
- </g>
- <text id="text7276-2" font-size="15.833px" xml:space="preserve" y="-484.53183" x="471.88034" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-4" y="-484.53183" x="471.88034"/><tspan id="tspan7280-95" y="-464.74048" x="471.88034"/></text>
- <path id="path4750" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v22.5c0 0.692 0.5575 1.25 1.25 1.25h17.5c0.692 0 1.25-0.558 1.25-1.25v-15.75l-6.875-1.125-1.125-6.875z" fill="#4bae4f"/>
- <path id="path4756" d="m18 4v6.6667c0 0.736 0.597 1.333 1.333 1.333h6.667l-8-8z" fill="#95cd97"/>
- <path id="path4366" opacity=".2" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v1c0-0.6925 0.5575-1.25 1.25-1.25h10.75v-1z" fill="#fff"/>
- <path id="path5410" d="m10 15v10h11v-10h-11zm1 1h4v2h-4v-2zm5 0h4v2h-4v-2zm-5 3h4v2h-4v-2zm5 0h4v2h-4v-2zm-5 3h4v2h-4v-2zm5 0h4v2h-4v-2z" style="enable-background:new" fill="#fff"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path4750" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v22.5c0 0.692 0.5575 1.25 1.25 1.25h17.5c0.692 0 1.25-0.558 1.25-1.25v-15.75l-6.875-1.125-1.125-6.875z" fill="#4bae4f"/>
+    <path id="path4756" d="m18 4v6.6667c0 0.736 0.597 1.333 1.333 1.333h6.667l-8-8z" fill="#95cd97"/>
+    <path id="path4366" opacity=".2" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v1c0-0.6925 0.5575-1.25 1.25-1.25h10.75v-1z" fill="#fff"/>
+    <path id="path5410" d="m10 15v10h11v-10h-11zm1 1h4v2h-4v-2zm5 0h4v2h-4v-2zm-5 3h4v2h-4v-2zm5 0h4v2h-4v-2zm-5 3h4v2h-4v-2zm5 0h4v2h-4v-2z" style="enable-background:new" fill="#fff"/>
 </svg>

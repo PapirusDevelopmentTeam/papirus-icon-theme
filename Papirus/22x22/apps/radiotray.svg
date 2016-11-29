@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -678.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -671.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-363.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-363.22546" x="435.90427"/><tspan id="tspan7280" y="-347.3924" x="435.90427"/></text>
- <rect id="rect4203-8" ry="1" rx="1" transform="scale(-1,1)" height="16" width="20" y="3" x="-21" fill="#4c636b"/>
- <circle id="path4361" opacity=".2" cy="11" cx="7" r="5"/>
- <path id="path4359" fill="#ee5858" d="m3.4644 7.4645a5 5 0 0 0 -0.3321 0.375l1.7836 1.7836a2.5 2.5 0 0 0 0.31626 3.1447 2.5 2.5 0 0 0 3.146 0.31764l1.7857 1.7857a5 5 0 0 0 0.37151 -0.3356 5 5 0 0 0 0.33214 -0.37496l-1.7836-1.7836a2.5 2.5 0 0 0 -0.3167 -3.1438 2.5 2.5 0 0 0 -3.146 -0.3176l-1.7857-1.7857a5 5 0 0 0 -0.3716 0.3356z"/>
- <circle id="circle4377" opacity=".2" cy="11.5" cx="7" r="1.5"/>
- <circle id="path4369" cy="11" cx="7" r="1.5" fill="#f3c4c4"/>
- <rect id="rect4376" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="7" x="13"/>
- <rect id="rect4378" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="9" x="13"/>
- <rect id="rect4380" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="11" x="13"/>
- <rect id="rect4382" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="13" x="13"/>
- <circle id="circle4379" opacity=".2" cy="17.5" cx="18" r="1"/>
- <circle id="path4390" cy="17" cx="18" r="1" fill="#58c4ee"/>
- <path id="rect4395" opacity=".1" fill="#fff" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
- <path id="rect4400" opacity=".2" d="m1 18v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
- <circle id="circle4381" opacity=".2" cy="17.5" cx="15" r="1"/>
- <circle id="circle4405" cy="17" cx="15" r="1" fill="#58c4ee"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203-8" ry="1" rx="1" transform="scale(-1,1)" height="16" width="20" y="3" x="-21" fill="#4c636b"/>
+    <circle id="path4361" opacity=".2" cy="11" cx="7" r="5"/>
+    <path id="path4359" fill="#ee5858" d="m3.4644 7.4645a5 5 0 0 0 -0.3321 0.375l1.7836 1.7836a2.5 2.5 0 0 0 0.31626 3.1447 2.5 2.5 0 0 0 3.146 0.31764l1.7857 1.7857a5 5 0 0 0 0.37151 -0.3356 5 5 0 0 0 0.33214 -0.37496l-1.7836-1.7836a2.5 2.5 0 0 0 -0.3167 -3.1438 2.5 2.5 0 0 0 -3.146 -0.3176l-1.7857-1.7857a5 5 0 0 0 -0.3716 0.3356z"/>
+    <circle id="circle4377" opacity=".2" cy="11.5" cx="7" r="1.5"/>
+    <circle id="path4369" cy="11" cx="7" r="1.5" fill="#f3c4c4"/>
+    <rect id="rect4376" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="7" x="13"/>
+    <rect id="rect4378" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="9" x="13"/>
+    <rect id="rect4380" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="11" x="13"/>
+    <rect id="rect4382" opacity=".2" rx=".5" ry=".5" height="1" width="6" y="13" x="13"/>
+    <circle id="circle4379" opacity=".2" cy="17.5" cx="18" r="1"/>
+    <circle id="path4390" cy="17" cx="18" r="1" fill="#58c4ee"/>
+    <path id="rect4395" opacity=".1" fill="#fff" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+    <path id="rect4400" opacity=".2" d="m1 18v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
+    <circle id="circle4381" opacity=".2" cy="17.5" cx="15" r="1"/>
+    <circle id="circle4405" cy="17" cx="15" r="1" fill="#58c4ee"/>
 </svg>

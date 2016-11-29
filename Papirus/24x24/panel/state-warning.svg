@@ -1,76 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="24"
-   version="1.1"
-   style="enable-background:new"
-   id="svg7384"
-   height="24">
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-  </defs>
-  <g
-     transform="translate(-385.0004,127.00336)"
-     style="display:inline"
-     id="layer12">
-    <path
-       id="path4140"
-       d="m 396.91312,-123.00125 a 1.6243072,1.818542 0 0 0 -1.31836,0.90625 l -3.1875,6.18164 -3.18945,6.18164 a 1.6243072,1.818542 0 0 0 -0.2168,0.86719 1.6243072,1.818542 0 0 0 1.62305,1.86133 l 6.37695,0 6.375,0 a 1.6243072,1.818542 0 0 0 1.40625,-2.72852 l -3.1875,-6.18164 -3.1875,-6.18164 a 1.6243072,1.818542 0 0 0 -1.33203,-0.90625 1.6243072,1.818542 0 0 0 -0.16211,0 z m -0.91211,3.99805 2,0 0,7 -2,0 0,-7 z m 0,8 2,0 0,2 -2,0 0,-2 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       transform="translate(-89.38361,-150.56064)"
-       style="display:inline"
-       id="layer9" />
-    <g
-       transform="translate(151.61659,-767.56064)"
-       style="display:inline"
-       id="layer1" />
-    <g
-       transform="translate(-89.38361,-150.56064)"
-       style="display:inline"
-       id="layer14" />
-    <g
-       transform="translate(-89.38361,-150.56064)"
-       style="display:inline"
-       id="layer15" />
-    <g
-       transform="translate(-89.38361,-150.56064)"
-       style="display:inline"
-       id="g71291" />
-    <g
-       transform="translate(151.61659,-617.56064)"
-       style="display:inline"
-       id="layer2" />
-    <g
-       transform="translate(-89.38361,-150.56064)"
-       style="display:inline"
-       id="layer12-2" />
-  </g>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="24" version="1.1" style="enable-background:new" id="svg7384" height="24">
+    <metadata id="metadata90">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title>
+                    Paper Symbolic Icon Theme
+                </dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <title id="title8473">
+        Paper Symbolic Icon Theme
+    </title>
+    <defs id="defs7386">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(-385.0004,127.00336)" style="display:inline" id="layer12">
+        <path id="path4140" d="m 396.91312,-123.00125 a 1.6243072,1.818542 0 0 0 -1.31836,0.90625 l -3.1875,6.18164 -3.18945,6.18164 a 1.6243072,1.818542 0 0 0 -0.2168,0.86719 1.6243072,1.818542 0 0 0 1.62305,1.86133 l 6.37695,0 6.375,0 a 1.6243072,1.818542 0 0 0 1.40625,-2.72852 l -3.1875,-6.18164 -3.1875,-6.18164 a 1.6243072,1.818542 0 0 0 -1.33203,-0.90625 1.6243072,1.818542 0 0 0 -0.16211,0 z m -0.91211,3.99805 2,0 0,7 -2,0 0,-7 z m 0,8 2,0 0,2 -2,0 0,-2 z" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    </g>
 </svg>

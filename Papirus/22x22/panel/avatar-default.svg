@@ -1,44 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
-   version="1.1"
-   id="svg6530">
-  <defs
-     id="defs9" />
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-33 -887.36)"
-     id="layer1">
-    <rect
-       fill="none"
-       x="33"
-       y="887.36"
-       width="22"
-       height="22"
-       style="color:#bebebe;enable-background:new"
-       id="rect5535-4-1" />
-    <path
-       fill="#fff"
-       d="m44 892.36c1.6569 0 3 1.3432 3 3s-1.3431 3-3 3-3-1.3432-3-3 1.3431-3 3-3zm0 8c6 0 6 4 6 4v1h-12v-1s0-4 6.0002-4.0034z"
-       style="block-progression:tb;text-indent:0;color:#ffffff;text-transform:none"
-       id="path6174-8" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" height="22" version="1.1" id="svg6530">
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-33 -887.36)" id="layer1">
+        <rect fill="none" x="33" y="887.36" width="22" height="22" style="color:#bebebe;enable-background:new" id="rect5535-4-1"/>
+        <path fill="#fff" d="m44 892.36c1.6569 0 3 1.3432 3 3s-1.3431 3-3 3-3-1.3432-3-3 1.3431-3 3-3zm0 8c6 0 6 4 6 4v1h-12v-1s0-4 6.0002-4.0034z" style="block-progression:tb;text-indent:0;color:#ffffff;text-transform:none" id="path6174-8"/>
+    </g>
 </svg>

@@ -1,40 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <rect id="rect4374" opacity=".2" transform="rotate(-45)" rx="2" ry="2" height="12" width="12" y="11.183" x="-6.6948"/>
- <rect id="rect4364" ry="2" rx="2" transform="rotate(-45)" height="12" width="12" y="10.476" x="-5.9877" fill="#597123"/>
- <path id="rect4376" opacity=".1" fill="#fff" d="m11.658 3.9824c-0.51124 0-1.0223 0.19615-1.4141 0.58789l-5.6561 5.6567c-0.52079 0.52079-0.6872 1.2516-0.51562 1.9141 0.086649-0.33366 0.25327-0.6517 0.51562-0.91406l5.6561-5.6567c0.78347-0.78347 2.0446-0.78347 2.8281 0l5.6582 5.6562c0.2624 0.2624 0.42899 0.58034 0.51562 0.91406 0.1715-0.66238 0.0051-1.3933-0.51562-1.9141l-5.658-5.6557c-0.391-0.3917-0.903-0.5879-1.414-0.5879z"/>
- <rect id="rect4386" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-45"/>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-44" fill="#96ba42"/>
- <path id="rect4381" opacity=".2" fill="#fff" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.0076 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.654 19.988 19.5c0.004-0.167 0.012-0.332 0.012-0.5 0-11.08-8.92-20-20-20z"/>
- <circle id="circle4368" opacity=".2" cy="25" cx="24" r="15"/>
- <circle id="path4360" cy="24" cx="24" r="15" fill="#ccc"/>
- <rect id="rect4390" ry="2" rx="2" transform="rotate(30)" height="14" width="4" y="-3.2178" x="30.785" fill="#f45246"/>
- <g id="g4475" opacity=".1" transform="translate(0,1)">
-  <circle id="circle4477" opacity="1" cy="36" cx="24" r="2"/>
-  <circle id="circle4479" opacity="1" cy="12" cx="24" r="2"/>
-  <circle id="circle4481" opacity="1" transform="rotate(90)" cy="-12" cx="24" r="2"/>
-  <circle id="circle4483" opacity="1" transform="rotate(90)" cy="-36" cx="24" r="2"/>
- </g>
- <ellipse id="ellipse4388" opacity=".1" rx="3.9995" ry="4" cy="25" cx="24"/>
- <ellipse id="path3219" rx="3.9996" ry="4" cy="24" cx="24" fill="#4d4d4d"/>
- <g id="g4469" fill="#4d4d4d">
-  <circle id="path4392" cy="36" cx="24" r="2"/>
-  <circle id="circle4394" cy="12" cx="24" r="2"/>
-  <circle id="circle4461" cy="-12" cx="24" r="2" transform="rotate(90)"/>
-  <circle id="circle4463" cy="-36" cx="24" r="2" transform="rotate(90)"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4374" opacity=".2" transform="rotate(-45)" rx="2" ry="2" height="12" width="12" y="11.183" x="-6.6948"/>
+    <rect id="rect4364" ry="2" rx="2" transform="rotate(-45)" height="12" width="12" y="10.476" x="-5.9877" fill="#597123"/>
+    <path id="rect4376" opacity=".1" fill="#fff" d="m11.658 3.9824c-0.51124 0-1.0223 0.19615-1.4141 0.58789l-5.6561 5.6567c-0.52079 0.52079-0.6872 1.2516-0.51562 1.9141 0.086649-0.33366 0.25327-0.6517 0.51562-0.91406l5.6561-5.6567c0.78347-0.78347 2.0446-0.78347 2.8281 0l5.6582 5.6562c0.2624 0.2624 0.42899 0.58034 0.51562 0.91406 0.1715-0.66238 0.0051-1.3933-0.51562-1.9141l-5.658-5.6557c-0.391-0.3917-0.903-0.5879-1.414-0.5879z"/>
+    <rect id="rect4386" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-45"/>
+    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-44" fill="#96ba42"/>
+    <path id="rect4381" opacity=".2" fill="#fff" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.0076 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.654 19.988 19.5c0.004-0.167 0.012-0.332 0.012-0.5 0-11.08-8.92-20-20-20z"/>
+    <circle id="circle4368" opacity=".2" cy="25" cx="24" r="15"/>
+    <circle id="path4360" cy="24" cx="24" r="15" fill="#ccc"/>
+    <rect id="rect4390" ry="2" rx="2" transform="rotate(30)" height="14" width="4" y="-3.2178" x="30.785" fill="#f45246"/>
+    <g id="g4475" opacity=".1" transform="translate(0,1)">
+        <circle id="circle4477" opacity="1" cy="36" cx="24" r="2"/>
+        <circle id="circle4479" opacity="1" cy="12" cx="24" r="2"/>
+        <circle id="circle4481" opacity="1" transform="rotate(90)" cy="-12" cx="24" r="2"/>
+        <circle id="circle4483" opacity="1" transform="rotate(90)" cy="-36" cx="24" r="2"/>
+    </g>
+    <ellipse id="ellipse4388" opacity=".1" rx="3.9995" ry="4" cy="25" cx="24"/>
+    <ellipse id="path3219" rx="3.9996" ry="4" cy="24" cx="24" fill="#4d4d4d"/>
+    <g id="g4469" fill="#4d4d4d">
+        <circle id="path4392" cy="36" cx="24" r="2"/>
+        <circle id="circle4394" cy="12" cx="24" r="2"/>
+        <circle id="circle4461" cy="-12" cx="24" r="2" transform="rotate(90)"/>
+        <circle id="circle4463" cy="-36" cx="24" r="2" transform="rotate(90)"/>
+    </g>
 </svg>

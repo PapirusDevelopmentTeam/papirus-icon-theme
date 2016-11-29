@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 22 22">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <path
-     id="path4"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.3"
-     d="m 9.0434881,5.0004331 c -0.392,0.011001 -0.791,0.083004 -1.186,0.2170103 -1.691,0.5750272 -2.975,2.2281053 -3.352,4.2982032 -1.11,0.2680127 -2.061,1.2570594 -2.389,2.6661254 -0.465,2.000095 0.502,4.078193 2.155,4.64022 0.027,0.008 0.055,0.013 0.082,0.02 0.228,0.099 0.472,0.158007 0.729,0.158007 l 11.9879999,0 c 0.429,0 0.824,-0.156007 1.159,-0.41502 1.34,-0.774036 2.07,-2.615123 1.654,-4.403208 -0.307,-1.321061 -1.162,-2.278106 -2.182,-2.6131219 -0.009,-0.044002 -0.017,-0.087004 -0.027,-0.1320062 -0.465,-2.0000946 -2.183,-3.1691499 -3.836,-2.6061233 -0.317,0.1080051 -0.61,0.2800133 -0.876,0.4940234 -0.911,-1.48107 -2.372,-2.3651118 -3.9179999,-2.3231098 z" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" viewBox="0 0 22 22">
+    <metadata id="metadata10">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path4" style="fill:#ffffff;fill-opacity:1;opacity:0.3" d="m 9.0434881,5.0004331 c -0.392,0.011001 -0.791,0.083004 -1.186,0.2170103 -1.691,0.5750272 -2.975,2.2281053 -3.352,4.2982032 -1.11,0.2680127 -2.061,1.2570594 -2.389,2.6661254 -0.465,2.000095 0.502,4.078193 2.155,4.64022 0.027,0.008 0.055,0.013 0.082,0.02 0.228,0.099 0.472,0.158007 0.729,0.158007 l 11.9879999,0 c 0.429,0 0.824,-0.156007 1.159,-0.41502 1.34,-0.774036 2.07,-2.615123 1.654,-4.403208 -0.307,-1.321061 -1.162,-2.278106 -2.182,-2.6131219 -0.009,-0.044002 -0.017,-0.087004 -0.027,-0.1320062 -0.465,-2.0000946 -2.183,-3.1691499 -3.836,-2.6061233 -0.317,0.1080051 -0.61,0.2800133 -0.876,0.4940234 -0.911,-1.48107 -2.372,-2.3651118 -3.9179999,-2.3231098 z"/>
 </svg>

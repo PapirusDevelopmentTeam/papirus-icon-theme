@@ -1,49 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="22"
-   viewBox="0 0 22 22"
-   version="1.1"
-   id="svg6530"
-   height="22">
-  <defs
-     id="defs6532">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-  </defs>
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-353,-1005.3622)"
-     style="display:inline"
-     id="layer1">
-    <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;opacity:1"
-       id="path5428"
-       d="m 358,1008.3641 c -2,0 -2,2 -2,2 l 0,12 c 0,2 2,2 2,2 l 12,0 c 0,0 2,0 2,-2 l 0,-12 c 0,-2 -2,-2 -2,-2 l -12,0 z m 0,1.9981 12,0 0,12 -12,0 0,-12 z m 1,9 0,2 10,0 0,-2 -10,0 z" />
-  </g>
-  <g
-     transform="translate(-353,-553)"
-     id="layer2" />
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" version="1.1" id="svg6530" height="22">
+    <defs id="defs6532">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+    </defs>
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-353,-1005.3622)" style="display:inline" id="layer1">
+        <path style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;opacity:1" id="path5428" d="m 358,1008.3641 c -2,0 -2,2 -2,2 l 0,12 c 0,2 2,2 2,2 l 12,0 c 0,0 2,0 2,-2 l 0,-12 c 0,-2 -2,-2 -2,-2 l -12,0 z m 0,1.9981 12,0 0,12 -12,0 0,-12 z m 1,9 0,2 10,0 0,-2 -10,0 z"/>
+    </g>
 </svg>

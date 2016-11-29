@@ -1,42 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <rect id="rect4203-4" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-44" fill="#5584bb"/>
- <path id="path4068" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168-0.004 0.333 0 0.5 0.2644-10.846 9.088-19.5 20-19.5s19.736 8.654 20 19.5c0.004-0.167 0-0.332 0-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
- <path id="rect3289" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
- <path id="path4458" opacity=".2" d="m18 14.609a12 12 0 0 0 -5.235 14.569l20.48-11.824a12 12 0 0 0 -15.245 -2.745zm-3.245 18.039a12 12 0 0 0 15.245 2.745 12 12 0 0 0 5.235 -14.569l-20.48 11.824z"/>
- <path id="path4354" fill="#fff" d="m18 13.608a12 12 0 0 0 -5.235 14.569l20.48-11.824a12 12 0 0 0 -15.245 -2.745zm-3.245 18.039a12 12 0 0 0 15.245 2.745 12 12 0 0 0 5.235 -14.569l-20.48 11.824z"/>
- <g id="g4440" opacity=".2" transform="translate(0,1)">
-  <rect id="rect4442" opacity="1" height="2" width="6" y="7" x="21"/>
-  <rect id="rect4444" opacity="1" height="2" width="6" y="39" x="21"/>
-  <rect id="rect4446" opacity="1" transform="rotate(90)" height="2" width="6" y="-41" x="21"/>
-  <rect id="rect4448" opacity="1" transform="rotate(90)" height="2" width="6" y="-9" x="21"/>
-  <rect id="rect4450" opacity="1" transform="rotate(45)" height="2" width="6" y="-17" x="30.941"/>
-  <rect id="rect4452" opacity="1" transform="rotate(45)" height="2" width="6" y="15" x="30.941"/>
-  <rect id="rect4454" opacity="1" transform="rotate(135)" height="2" width="6" y="-50.941" x="-3"/>
-  <rect id="rect4456" opacity="1" transform="rotate(135)" height="2" width="6" y="-18.941" x="-3"/>
- </g>
- <g id="g4430" fill="#fff">
-  <rect id="rect4356" y="7" width="6" x="21" height="2"/>
-  <rect id="rect4358" y="39" width="6" x="21" height="2"/>
-  <rect id="rect4366" transform="rotate(90)" height="2" width="6" y="-41" x="21"/>
-  <rect id="rect4368" transform="rotate(90)" height="2" width="6" y="-9" x="21"/>
-  <rect id="rect4410" transform="rotate(45)" height="2" width="6" y="-17" x="30.941"/>
-  <rect id="rect4412" transform="rotate(45)" height="2" width="6" y="15" x="30.941"/>
-  <rect id="rect4414" transform="rotate(135)" height="2" width="6" y="-50.941" x="-3"/>
-  <rect id="rect4416" transform="rotate(135)" height="2" width="6" y="-18.941" x="-3"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203-4" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-44" fill="#5584bb"/>
+    <path id="path4068" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168-0.004 0.333 0 0.5 0.2644-10.846 9.088-19.5 20-19.5s19.736 8.654 20 19.5c0.004-0.167 0-0.332 0-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
+    <path id="rect3289" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
+    <path id="path4458" opacity=".2" d="m18 14.609a12 12 0 0 0 -5.235 14.569l20.48-11.824a12 12 0 0 0 -15.245 -2.745zm-3.245 18.039a12 12 0 0 0 15.245 2.745 12 12 0 0 0 5.235 -14.569l-20.48 11.824z"/>
+    <path id="path4354" fill="#fff" d="m18 13.608a12 12 0 0 0 -5.235 14.569l20.48-11.824a12 12 0 0 0 -15.245 -2.745zm-3.245 18.039a12 12 0 0 0 15.245 2.745 12 12 0 0 0 5.235 -14.569l-20.48 11.824z"/>
+    <g id="g4440" opacity=".2" transform="translate(0,1)">
+        <rect id="rect4442" opacity="1" height="2" width="6" y="7" x="21"/>
+        <rect id="rect4444" opacity="1" height="2" width="6" y="39" x="21"/>
+        <rect id="rect4446" opacity="1" transform="rotate(90)" height="2" width="6" y="-41" x="21"/>
+        <rect id="rect4448" opacity="1" transform="rotate(90)" height="2" width="6" y="-9" x="21"/>
+        <rect id="rect4450" opacity="1" transform="rotate(45)" height="2" width="6" y="-17" x="30.941"/>
+        <rect id="rect4452" opacity="1" transform="rotate(45)" height="2" width="6" y="15" x="30.941"/>
+        <rect id="rect4454" opacity="1" transform="rotate(135)" height="2" width="6" y="-50.941" x="-3"/>
+        <rect id="rect4456" opacity="1" transform="rotate(135)" height="2" width="6" y="-18.941" x="-3"/>
+    </g>
+    <g id="g4430" fill="#fff">
+        <rect id="rect4356" y="7" width="6" x="21" height="2"/>
+        <rect id="rect4358" y="39" width="6" x="21" height="2"/>
+        <rect id="rect4366" transform="rotate(90)" height="2" width="6" y="-41" x="21"/>
+        <rect id="rect4368" transform="rotate(90)" height="2" width="6" y="-9" x="21"/>
+        <rect id="rect4410" transform="rotate(45)" height="2" width="6" y="-17" x="30.941"/>
+        <rect id="rect4412" transform="rotate(45)" height="2" width="6" y="15" x="30.941"/>
+        <rect id="rect4414" transform="rotate(135)" height="2" width="6" y="-50.941" x="-3"/>
+        <rect id="rect4416" transform="rotate(135)" height="2" width="6" y="-18.941" x="-3"/>
+    </g>
 </svg>

@@ -1,62 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 48 48.000001"
-   width="48"
-   height="48"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="emblem-mail.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="2.49"
-     inkscape:cx="-106.20884"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs8" />
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <circle
-     r="20"
-     cy="24"
-     cx="24"
-     id="path3197"
-     style="opacity:1;fill:#252a35;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;enable-background:new"
-     d="m 24,12 c -6.627,0 -12,5.373 -12,12 0,6.627 5.373,12 12,12 l 7.5,0 c 0,0 1.4063,0 1.5,-1.5 C 33,33 31.5,33 31.5,33 L 24,33 c -4.9706,0 -9,-4.0294 -9,-9 0,-4.9706 4.0294,-9 9,-9 4.971,0 9,4.029 9,9 l 0,1.5 C 33,26.328 32.328,27 31.5,27 30.672,27 30,26.328 30,25.5 L 30,24 c 0,-3.314 -2.686,-6 -6,-6 -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6 1.569,0 2.986,-0.616 4.055,-1.603 0.855,1.017 2.116,1.604 3.445,1.603 2.485,0 4.5,-2.015 4.5,-4.5 L 36,24 C 36,17.373 30.627,12 24,12 Z m 0,9 c 1.6568,0 3,1.3432 3,3 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.6568 1.3432,-3 3,-3 z"
-     id="path4288" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg2" viewBox="0 0 48 48.000001" width="48" height="48" inkscape:version="0.91 r13725" sodipodi:docname="emblem-mail.svg">
+    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1600" inkscape:window-height="849" id="namedview7" showgrid="false" inkscape:zoom="2.49" inkscape:cx="-106.20884" inkscape:cy="24" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
+    <metadata id="metadata4">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <circle r="20" cy="24" cx="24" id="path3197" style="opacity:1;fill:#252a35;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path inkscape:connector-curvature="0" style="fill:#ffffff;fill-opacity:1;enable-background:new" d="m 24,12 c -6.627,0 -12,5.373 -12,12 0,6.627 5.373,12 12,12 l 7.5,0 c 0,0 1.4063,0 1.5,-1.5 C 33,33 31.5,33 31.5,33 L 24,33 c -4.9706,0 -9,-4.0294 -9,-9 0,-4.9706 4.0294,-9 9,-9 4.971,0 9,4.029 9,9 l 0,1.5 C 33,26.328 32.328,27 31.5,27 30.672,27 30,26.328 30,25.5 L 30,24 c 0,-3.314 -2.686,-6 -6,-6 -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6 1.569,0 2.986,-0.616 4.055,-1.603 0.855,1.017 2.116,1.604 3.445,1.603 2.485,0 4.5,-2.015 4.5,-4.5 L 36,24 C 36,17.373 30.627,12 24,12 Z m 0,9 c 1.6568,0 3,1.3432 3,3 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.6568 1.3432,-3 3,-3 z" id="path4288"/>
 </svg>

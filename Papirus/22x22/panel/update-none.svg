@@ -1,83 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="22"
-   version="1.1"
-   style="enable-background:new"
-   id="svg7384"
-   height="22">
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556" />
-    </filter>
-  </defs>
-  <g
-     transform="translate(-865.00021,-35)"
-     style="display:inline"
-     id="layer9" />
-  <g
-     transform="translate(-865.00021,-35)"
-     style="display:inline;filter:url(#filter7554)"
-     id="layer10" />
-  <g
-     transform="translate(-624.00001,-652)"
-     style="display:inline"
-     id="layer1" />
-  <g
-     transform="translate(-865.00021,-35)"
-     style="display:inline"
-     id="layer14" />
-  <g
-     transform="translate(-865.00021,-35)"
-     style="display:inline"
-     id="layer15" />
-  <g
-     transform="translate(-865.00021,-35)"
-     style="display:inline"
-     id="g71291" />
-  <g
-     transform="translate(-624.00001,-502)"
-     style="display:inline"
-     id="layer2" />
-  <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 11 3 C 6.58173 3 3 6.58173 3 11 C 3 15.41827 6.58173 19 11 19 C 15.41827 19 19 15.41827 19 11 C 19 6.58173 15.41827 3 11 3 z M 14.384766 7.5820312 C 14.467559 7.5820312 14.549611 7.6140637 14.613281 7.6777344 L 15.568359 8.6328125 C 15.6957 8.7601535 15.6957 8.9644549 15.568359 9.0917969 L 11.382812 13.277344 L 10.371094 14.289062 L 10.314453 14.345703 C 10.218947 14.441213 10.06426 14.441213 9.96875 14.345703 L 9.9121094 14.289062 L 8.9570312 13.333984 L 6.0722656 10.449219 C 5.9767599 10.353713 5.9767596 10.199026 6.0722656 10.103516 L 7.140625 9.0351562 C 7.236131 8.9396462 7.3908181 8.9396462 7.4863281 9.0351562 L 10.142578 11.691406 L 14.154297 7.6777344 C 14.217968 7.6140637 14.301972 7.5820312 14.384766 7.5820312 z "
-     id="path4150" />
-  <g
-     transform="translate(-865.00021,-35)"
-     style="display:inline"
-     id="layer12" />
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
+    <metadata id="metadata90">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title>
+                    Paper Symbolic Icon Theme
+                </dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <title id="title8473">
+        Paper Symbolic Icon Theme
+    </title>
+    <defs id="defs7386">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+        <filter style="color-interpolation-filters:sRGB" id="filter7554">
+            <feBlend mode="darken" in2="BackgroundImage" id="feBlend7556"/>
+        </filter>
+    </defs>
+    <path style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" d="M 11 3 C 6.58173 3 3 6.58173 3 11 C 3 15.41827 6.58173 19 11 19 C 15.41827 19 19 15.41827 19 11 C 19 6.58173 15.41827 3 11 3 z M 14.384766 7.5820312 C 14.467559 7.5820312 14.549611 7.6140637 14.613281 7.6777344 L 15.568359 8.6328125 C 15.6957 8.7601535 15.6957 8.9644549 15.568359 9.0917969 L 11.382812 13.277344 L 10.371094 14.289062 L 10.314453 14.345703 C 10.218947 14.441213 10.06426 14.441213 9.96875 14.345703 L 9.9121094 14.289062 L 8.9570312 13.333984 L 6.0722656 10.449219 C 5.9767599 10.353713 5.9767596 10.199026 6.0722656 10.103516 L 7.140625 9.0351562 C 7.236131 8.9396462 7.3908181 8.9396462 7.4863281 9.0351562 L 10.142578 11.691406 L 14.154297 7.6777344 C 14.217968 7.6140637 14.301972 7.5820312 14.384766 7.5820312 z " id="path4150"/>
 </svg>

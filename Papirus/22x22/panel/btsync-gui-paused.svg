@@ -1,58 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 22 22">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs18" />
-  <g
-     id="g4"
-     style="fill:#ffffff;opacity:0.3;fill-opacity:1"
-     transform="matrix(0.34782609,0,0,0.34782609,2.6435901,2.6456559)">
-    <path
-       style="fill:#ffffff;fill-opacity:1"
-       id="path6"
-       transform="matrix(2.875,0,0,2.875,-7.6003215,-7.6062606)"
-       d="m 11 3 c -4.418 0 -8 3.582 -8 8 c 0 4.418 3.582 8 8 8 c 4.418 0 8 -3.582 8 -8 c 0 -4.418 -3.582 -8 -8 -8 z m -3.75 2 l 3 0 a 1 1 0 0 1 0.75 0.342 a 1 1 0 0 1 0.75 -0.342 l 3 0 a 1 1 0 0 1 1 1 l 0 1.914 c 0.201 0.282 0.385 0.578 0.531 0.898 l 1.219 -0.469 l -1 3.469 l -0.75 -0.418 l 0 1.408 l 0.594 0.229 c -0.157 0.376 -0.364 0.718 -0.594 1.043 l 0 1.926 a 1 1 0 0 1 -1 1 l -3 0 a 1 1 0 0 1 -0.75 -0.34 a 1 1 0 0 1 -0.75 0.34 l -3 0 a 1 1 0 0 1 -1 -1 l 0 -1.939 c -0.202 -0.285 -0.387 -0.582 -0.531 -0.904 l -1.219 0.438 l 1 -3.375 l 0.75 0.402 l 0 -1.393 l -0.594 -0.229 c 0.153 -0.382 0.362 -0.73 0.594 -1.061 l 0 -1.939 a 1 1 0 0 1 1 -1 z m 5.5 2.75 l 0 6.492 c 0.372 -0.181 0.708 -0.42 1 -0.707 l 0 -3.254 l -0.563 -0.313 l 0.563 -0.219 l 0 -1.285 c -0.291 -0.29 -0.626 -0.534 -1 -0.715 z m -3.5 0.01 c -0.373 0.186 -0.708 0.431 -1 0.723 l 0 3.215 l 0.563 0.303 l -0.563 0.219 l 0 1.293 c 0.291 0.294 0.627 0.54 1 0.727 l 0 -6.479 z" />
-  </g>
-  <g
-     id="g8"
-     transform="matrix(0.49988464,0,0,0.49988464,-37.411065,7.9950011)">
-    <!-- color: #004794 -->
-  </g>
-  <g
-     id="g10"
-     style="fill:#ffffff;fill-opacity:1;opacity:1"
-     transform="translate(0.25,0)">
-    <rect
-       id="rect12"
-       style="stroke:none;fill:#ffffff;fill-opacity:1"
-       width="3"
-       height="10"
-       x="11.5"
-       y="6" />
-    <rect
-       id="rect14"
-       style="stroke:none;fill:#ffffff;fill-opacity:1"
-       width="3"
-       height="10"
-       x="7"
-       y="6" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" viewBox="0 0 22 22">
+    <metadata id="metadata20">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4" style="fill:#ffffff;opacity:0.3;fill-opacity:1" transform="matrix(0.34782609,0,0,0.34782609,2.6435901,2.6456559)">
+        <path style="fill:#ffffff;fill-opacity:1" id="path6" transform="matrix(2.875,0,0,2.875,-7.6003215,-7.6062606)" d="m 11 3 c -4.418 0 -8 3.582 -8 8 c 0 4.418 3.582 8 8 8 c 4.418 0 8 -3.582 8 -8 c 0 -4.418 -3.582 -8 -8 -8 z m -3.75 2 l 3 0 a 1 1 0 0 1 0.75 0.342 a 1 1 0 0 1 0.75 -0.342 l 3 0 a 1 1 0 0 1 1 1 l 0 1.914 c 0.201 0.282 0.385 0.578 0.531 0.898 l 1.219 -0.469 l -1 3.469 l -0.75 -0.418 l 0 1.408 l 0.594 0.229 c -0.157 0.376 -0.364 0.718 -0.594 1.043 l 0 1.926 a 1 1 0 0 1 -1 1 l -3 0 a 1 1 0 0 1 -0.75 -0.34 a 1 1 0 0 1 -0.75 0.34 l -3 0 a 1 1 0 0 1 -1 -1 l 0 -1.939 c -0.202 -0.285 -0.387 -0.582 -0.531 -0.904 l -1.219 0.438 l 1 -3.375 l 0.75 0.402 l 0 -1.393 l -0.594 -0.229 c 0.153 -0.382 0.362 -0.73 0.594 -1.061 l 0 -1.939 a 1 1 0 0 1 1 -1 z m 5.5 2.75 l 0 6.492 c 0.372 -0.181 0.708 -0.42 1 -0.707 l 0 -3.254 l -0.563 -0.313 l 0.563 -0.219 l 0 -1.285 c -0.291 -0.29 -0.626 -0.534 -1 -0.715 z m -3.5 0.01 c -0.373 0.186 -0.708 0.431 -1 0.723 l 0 3.215 l 0.563 0.303 l -0.563 0.219 l 0 1.293 c 0.291 0.294 0.627 0.54 1 0.727 l 0 -6.479 z"/>
+    </g>
+    <g id="g8" transform="matrix(0.49988464,0,0,0.49988464,-37.411065,7.9950011)">
+<!--color: #004794-->
+    </g>
+    <g id="g10" style="fill:#ffffff;fill-opacity:1;opacity:1" transform="translate(0.25,0)">
+        <rect id="rect12" style="stroke:none;fill:#ffffff;fill-opacity:1" width="3" height="10" x="11.5" y="6"/>
+        <rect id="rect14" style="stroke:none;fill:#ffffff;fill-opacity:1" width="3" height="10" x="7" y="6"/>
+    </g>
 </svg>

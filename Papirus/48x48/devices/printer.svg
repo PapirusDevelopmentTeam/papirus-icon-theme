@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <g id="layer4-0-3" transform="matrix(.90475 0 0 .90475 -801.39 -682.12)">
- </g>
- <g id="layer4-0-7-8" transform="matrix(.90475 0 0 .90475 -801.39 -674.88)">
- </g>
- <text id="text7276-8" font-size="12.666px" xml:space="preserve" y="-367.05713" x="351.26071" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-8" y="-367.05713" x="351.26071"/><tspan id="tspan7280-3" y="-351.22406" x="351.26071"/></text>
- <g id="layer4-0-30" transform="matrix(.90475 0 0 .90475 -773.75 -673.29)">
- </g>
- <g id="layer4-0-7-0" transform="matrix(.90475 0 0 .90475 -773.75 -666.05)">
- </g>
- <text id="text7276-3" font-size="12.666px" xml:space="preserve" y="-358.22543" x="378.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-9" y="-358.22543" x="378.90427"/><tspan id="tspan7280-6" y="-342.39236" x="378.90427"/></text>
- <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="17" y="-44" x="-32.004" fill="#5d5d5d"/>
- <path id="rect4673" opacity=".1" fill="#fff" d="m6 15.004c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <rect id="rect4283" ry="0" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="24" width="11" y="-36" x="-17" fill="#ccc"/>
- <rect id="rect4802" opacity=".1" height="4" width="28" y="25" x="10"/>
- <rect id="rect4447" transform="matrix(0,-1,-1,0,0,0)" rx="0" ry="0" height="24" width="16" y="-36" x="-43" fill="#ccc"/>
- <rect id="rect4457" rx="0" ry="0" height="2" width="2" y="19" x="8" fill="#f34235"/>
- <path id="rect4675" opacity=".2" fill="#fff" d="m12 6v1h24v-1h-24z"/>
- <path id="rect4975" opacity=".2" d="m4 30.004v1c0 1.108 0.892 2 2 2h6v-1h-6c-1.108 0-2-0.892-2-2zm40 0c0 1.108-0.892 2-2 2h-6v1h6c1.108 0 2-0.892 2-2v-1zm-32 12.996v1h24v-1h-24z"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="17" y="-44" x="-32.004" fill="#5d5d5d"/>
+    <path id="rect4673" opacity=".1" fill="#fff" d="m6 15.004c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+    <rect id="rect4283" ry="0" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="24" width="11" y="-36" x="-17" fill="#ccc"/>
+    <rect id="rect4802" opacity=".1" height="4" width="28" y="25" x="10"/>
+    <rect id="rect4447" transform="matrix(0,-1,-1,0,0,0)" rx="0" ry="0" height="24" width="16" y="-36" x="-43" fill="#ccc"/>
+    <rect id="rect4457" rx="0" ry="0" height="2" width="2" y="19" x="8" fill="#f34235"/>
+    <path id="rect4675" opacity=".2" fill="#fff" d="m12 6v1h24v-1h-24z"/>
+    <path id="rect4975" opacity=".2" d="m4 30.004v1c0 1.108 0.892 2 2 2h6v-1h-6c-1.108 0-2-0.892-2-2zm40 0c0 1.108-0.892 2-2 2h-6v1h6c1.108 0 2-0.892 2-2v-1zm-32 12.996v1h24v-1h-24z"/>
 </svg>

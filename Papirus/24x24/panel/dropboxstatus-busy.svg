@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="24"
-   viewBox="0 0 24 24"
-   height="24"
-   id="svg6530">
-  <defs
-     id="defs9" />
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     id="path5203"
-     style="color:#ffffff;opacity:1;fill:#ffffff"
-     d="m 8.0098,4 -5,3 4,2.9844 L 3,12.9922 8.0098,16 l 4,-3 -5,-3 5,-3 5,3.0156 -5,2.9844 1.7773,1.334 c 0.91425,-1.4506 2.508,-2.3315 4.2227,-2.334 1.0745,0.003 2.1196,0.35112 2.9805,0.99414 l 0.0293,-0.0176 -4.0098,-2.9765 4,-3 -5,-3 -4,2.9844 -4,-2.9844 z m 10,9 c -2.2091,0 -4,1.7909 -4,4 0,2.2091 1.7909,4 4,4 2.2091,0 4,-1.7909 4,-4 0,-2.2091 -1.7909,-4 -4,-4 z m -6,1 -4,3 -1,-0.59961 0,0.59961 5,3 1.4766,-0.88477 c -0.31166,-0.66173 -0.47434,-1.3838 -0.47656,-2.1152 -2.4e-4,-0.67105 0.1346,-1.3353 0.39648,-1.9531 l -1.4,-1.05 z m 6,0 a 3,3 0 0 1 3,3 l -1,0 a 2,2 0 0 0 -2,-2 l 0,-1 z m -3,3 1,0 a 2,2 0 0 0 2,2 l 0,1 a 3,3 0 0 1 -3,-3 z" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="24" viewBox="0 0 24 24" height="24" id="svg6530">
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path5203" style="color:#ffffff;opacity:1;fill:#ffffff" d="m 8.0098,4 -5,3 4,2.9844 L 3,12.9922 8.0098,16 l 4,-3 -5,-3 5,-3 5,3.0156 -5,2.9844 1.7773,1.334 c 0.91425,-1.4506 2.508,-2.3315 4.2227,-2.334 1.0745,0.003 2.1196,0.35112 2.9805,0.99414 l 0.0293,-0.0176 -4.0098,-2.9765 4,-3 -5,-3 -4,2.9844 -4,-2.9844 z m 10,9 c -2.2091,0 -4,1.7909 -4,4 0,2.2091 1.7909,4 4,4 2.2091,0 4,-1.7909 4,-4 0,-2.2091 -1.7909,-4 -4,-4 z m -6,1 -4,3 -1,-0.59961 0,0.59961 5,3 1.4766,-0.88477 c -0.31166,-0.66173 -0.47434,-1.3838 -0.47656,-2.1152 -2.4e-4,-0.67105 0.1346,-1.3353 0.39648,-1.9531 l -1.4,-1.05 z m 6,0 a 3,3 0 0 1 3,3 l -1,0 a 2,2 0 0 0 -2,-2 l 0,-1 z m -3,3 1,0 a 2,2 0 0 0 2,2 l 0,1 a 3,3 0 0 1 -3,-3 z"/>
 </svg>

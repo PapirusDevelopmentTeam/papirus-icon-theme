@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <rect id="rect4255" transform="matrix(0,-1,-1,0,0,0)" rx=".85714" ry=".85714" height="16" width="16" y="-16" x="-16" fill="#5d5d5d"/>
- <g id="g4188-9" style="enable-background:new" transform="translate(-16,-268)">
-  <rect id="rect4460" height="13" width="13" stroke="#c4c4c4" stroke-linecap="round" y="269.5" x="17.5" fill="none"/>
-  <rect id="rect4414" height="7" width="7" stroke="#c4c4c4" stroke-linecap="round" y="272.5" x="20.5" fill="none"/>
-  <path id="path4418" d="m16.5 268.5 4 4" stroke="#c4c4c4" fill="none"/>
-  <path id="path4420" d="m27.5 272.5 4-4" stroke="#c4c4c4" fill="none"/>
-  <path id="path4422" d="m27.5 279.5 4 4" stroke="#c4c4c4" fill="none"/>
-  <path id="path4424" d="m20.5 279.5-4 4" stroke="#c4c4c4" fill="none"/>
-  <circle id="circle4426" style="enable-background:new" cx="17.5" cy="269.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4428" style="enable-background:new" cx="30.5" cy="269.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4434" style="enable-background:new" cx="20.5" cy="272.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4436" style="enable-background:new" cx="27.5" cy="272.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4438" style="enable-background:new" cx="27.5" cy="279.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4440" style="enable-background:new" cx="20.5" cy="279.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4456" style="enable-background:new" cx="17.5" cy="282.5" r="1.5" fill="#d8d8d8"/>
-  <circle id="circle4458" style="enable-background:new" cx="30.5" cy="282.5" r="1.5" fill="#d8d8d8"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4255" transform="matrix(0,-1,-1,0,0,0)" rx=".85714" ry=".85714" height="16" width="16" y="-16" x="-16" fill="#5d5d5d"/>
+    <g id="g4188-9" style="enable-background:new" transform="translate(-16,-268)">
+        <rect id="rect4460" height="13" width="13" stroke="#c4c4c4" stroke-linecap="round" y="269.5" x="17.5" fill="none"/>
+        <rect id="rect4414" height="7" width="7" stroke="#c4c4c4" stroke-linecap="round" y="272.5" x="20.5" fill="none"/>
+        <path id="path4418" d="m16.5 268.5 4 4" stroke="#c4c4c4" fill="none"/>
+        <path id="path4420" d="m27.5 272.5 4-4" stroke="#c4c4c4" fill="none"/>
+        <path id="path4422" d="m27.5 279.5 4 4" stroke="#c4c4c4" fill="none"/>
+        <path id="path4424" d="m20.5 279.5-4 4" stroke="#c4c4c4" fill="none"/>
+        <circle id="circle4426" style="enable-background:new" cx="17.5" cy="269.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4428" style="enable-background:new" cx="30.5" cy="269.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4434" style="enable-background:new" cx="20.5" cy="272.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4436" style="enable-background:new" cx="27.5" cy="272.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4438" style="enable-background:new" cx="27.5" cy="279.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4440" style="enable-background:new" cx="20.5" cy="279.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4456" style="enable-background:new" cx="17.5" cy="282.5" r="1.5" fill="#d8d8d8"/>
+        <circle id="circle4458" style="enable-background:new" cx="30.5" cy="282.5" r="1.5" fill="#d8d8d8"/>
+    </g>
 </svg>

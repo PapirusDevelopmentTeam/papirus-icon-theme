@@ -1,36 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="24"
-   viewBox="0 0 24 24"
-   height="24"
-   version="1.1"
-   id="svg6530">
-  <defs
-     id="defs8" />
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-448 -672.36)"
-     id="layer1">
-    <path
-       fill="#fff"
-       d="m454 676.36s-2 0-2 2.0625v11.938c0 2 2 2 2 2h12c2 0 2-2 2-2v-12s0-2-2-2h-12zm6.8047 3.9434h2.4629v5.9688c0 0.42502 0.0762 0.74695 0.23047 0.96289 0.15767 0.21594 0.39025 0.32226 0.69531 0.32226h1.1055v0.80274h-1.1992c-0.56555 0-1.0045-0.1816-1.3164-0.54493-0.30848-0.36332-0.46093-0.87801-0.46093-1.543v-5.2285h-1.5176v-0.74023zm-6.4414 0.38086h1.3144l2.5918 6.3184v-6.3184h1.0039v7.6758h-1.3164l-2.5918-6.3184v6.3184h-1.002v-7.6758z"
-       style="color:#bebebe"
-       id="path12593" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="24" viewBox="0 0 24 24" height="24" version="1.1" id="svg6530">
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-448 -672.36)" id="layer1">
+        <path fill="#fff" d="m454 676.36s-2 0-2 2.0625v11.938c0 2 2 2 2 2h12c2 0 2-2 2-2v-12s0-2-2-2h-12zm6.8047 3.9434h2.4629v5.9688c0 0.42502 0.0762 0.74695 0.23047 0.96289 0.15767 0.21594 0.39025 0.32226 0.69531 0.32226h1.1055v0.80274h-1.1992c-0.56555 0-1.0045-0.1816-1.3164-0.54493-0.30848-0.36332-0.46093-0.87801-0.46093-1.543v-5.2285h-1.5176v-0.74023zm-6.4414 0.38086h1.3144l2.5918 6.3184v-6.3184h1.0039v7.6758h-1.3164l-2.5918-6.3184v6.3184h-1.002v-7.6758z" style="color:#bebebe" id="path12593"/>
+    </g>
 </svg>

@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg3049"
-   height="24"
-   width="24">
-  <defs
-     id="defs3051" />
-  <metadata
-     id="metadata3054">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-421.71429,-523.79074)"
-     id="layer1">
-    <g
-       transform="translate(1,-1)"
-       id="g4140">
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-         d="M 3.1425781,4 C 2.5094281,4 2,4.5344187 2,5.1992188 L 2,16.800781 C 2,17.465581 2.5094281,18 3.1425781,18 L 18.857422,18 C 19.490572,18 20,17.465581 20,16.800781 L 20,5.1992188 C 20,4.5344187 19.490572,4 18.857422,4 L 3.1425781,4 Z M 8,7 c 2.20913,0 4,1.79087 4,4 0,2.20913 -1.79087,4 -4,4 C 5.79087,15 4,13.20913 4,11 4,8.79087 5.79087,7 8,7 Z m 5,0 5,0 0,1 -5,0 0,-1 z m 0,3 5,0 0,1 -5,0 0,-1 z m 0,3 5,0 0,1 -5,0 0,-1 z"
-         transform="translate(421.71429,525.79074)"
-         id="path4179" />
-      <path
-         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m 429.71429,533.79074 c -1.65686,0 -3,1.34315 -3,3 0,1.65685 1.34314,3 3,3 1.65685,0 3,-1.34315 3,-3 0,-1.65685 -1.34315,-3 -3,-3 z"
-         id="path4173" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg3049" height="24" width="24">
+    <metadata id="metadata3054">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-421.71429,-523.79074)" id="layer1">
+        <g transform="translate(1,-1)" id="g4140">
+            <path style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" d="M 3.1425781,4 C 2.5094281,4 2,4.5344187 2,5.1992188 L 2,16.800781 C 2,17.465581 2.5094281,18 3.1425781,18 L 18.857422,18 C 19.490572,18 20,17.465581 20,16.800781 L 20,5.1992188 C 20,4.5344187 19.490572,4 18.857422,4 L 3.1425781,4 Z M 8,7 c 2.20913,0 4,1.79087 4,4 0,2.20913 -1.79087,4 -4,4 C 5.79087,15 4,13.20913 4,11 4,8.79087 5.79087,7 8,7 Z m 5,0 5,0 0,1 -5,0 0,-1 z m 0,3 5,0 0,1 -5,0 0,-1 z m 0,3 5,0 0,1 -5,0 0,-1 z" transform="translate(421.71429,525.79074)" id="path4179"/>
+            <path style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none" d="m 429.71429,533.79074 c -1.65686,0 -3,1.34315 -3,3 0,1.65685 1.34314,3 3,3 1.65685,0 3,-1.34315 3,-3 0,-1.65685 -1.34315,-3 -3,-3 z" id="path4173"/>
+        </g>
     </g>
-  </g>
 </svg>

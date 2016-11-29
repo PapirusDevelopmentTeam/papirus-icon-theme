@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg4222" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64.000001" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4227">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="rect4203" fill="#6ba4e7" d="m7 15v37.5c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5v-37.5z"/>
- <path id="rect3328" fill="#253951" d="m9.5 10c-1.385 0-2.5 1.115-2.5 2.5v2.5h50v-2.5c0-1.385-1.115-2.5-2.5-2.5z"/>
- <path id="rect4155" fill="#253951" d="m21.6 50c-1.44 0-2.6 1.115-2.6 2.5v2.5h26v-2.5c0-1.385-1.16-2.5-2.6-2.5h-20.8z"/>
- <path id="path4150" opacity=".2" d="m7 52.5v1c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5v-1c0 1.385-1.115 2.5-2.5 2.5h-45c-1.385 0-2.5-1.115-2.5-2.5z"/>
- <path id="path4155" opacity=".1" fill="#fff" d="m9.5 10c-1.385 0-2.5 1.115-2.5 2.5v1c0-1.385 1.115-2.5 2.5-2.5h45c1.385 0 2.5 1.115 2.5 2.5v-1c0-1.385-1.115-2.5-2.5-2.5h-45z"/>
+    <metadata id="metadata4227">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="rect4203" fill="#6ba4e7" d="m7 15v37.5c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5v-37.5z"/>
+    <path id="rect3328" fill="#253951" d="m9.5 10c-1.385 0-2.5 1.115-2.5 2.5v2.5h50v-2.5c0-1.385-1.115-2.5-2.5-2.5z"/>
+    <path id="rect4155" fill="#253951" d="m21.6 50c-1.44 0-2.6 1.115-2.6 2.5v2.5h26v-2.5c0-1.385-1.16-2.5-2.6-2.5h-20.8z"/>
+    <path id="path4150" opacity=".2" d="m7 52.5v1c0 1.385 1.115 2.5 2.5 2.5h45c1.385 0 2.5-1.115 2.5-2.5v-1c0 1.385-1.115 2.5-2.5 2.5h-45c-1.385 0-2.5-1.115-2.5-2.5z"/>
+    <path id="path4155" opacity=".1" fill="#fff" d="m9.5 10c-1.385 0-2.5 1.115-2.5 2.5v1c0-1.385 1.115-2.5 2.5-2.5h45c1.385 0 2.5 1.115 2.5 2.5v-1c0-1.385-1.115-2.5-2.5-2.5h-45z"/>
 </svg>

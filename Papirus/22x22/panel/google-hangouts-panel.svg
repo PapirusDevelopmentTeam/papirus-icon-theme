@@ -1,56 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="22"
-   viewBox="0 0 22 22"
-   version="1.1"
-   id="svg6530"
-   height="22">
-  <defs
-     id="defs6532">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-  </defs>
-  <metadata
-     id="metadata6535">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-521,-909.27262)"
-     style="display:inline"
-     id="layer1">
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate;opacity:1"
-       id="path3873"
-       d="m 531.99997,912.27262 c -3.86598,0 -6.99997,3.10416 -6.99997,6.93333 0,3.82917 3.13399,6.93333 6.99997,6.93333 l 0,2.13334 c 1.73609,-1.22509 6.27176,-2.97103 6.96631,-8.35 0.0301,-0.233 0.0337,-0.46942 0.0337,-0.71667 0,-0.22091 -0.007,-0.43484 -0.0337,-0.65 -0.32795,-3.52729 -3.31955,-6.28333 -6.96631,-6.28333 z m -3.53364,4.8 2.15384,0 c 0.29828,0 0.53845,0.23789 0.53845,0.53333 l 0,1.55 c 5.5e-4,0.0166 5.5e-4,0.0333 0,0.05 l 0,0.53333 0,0.53334 c 0,1.42209 -1.37979,2.06666 -1.37979,2.06666 -0.25434,0.16542 -0.6447,0.0598 -0.77885,-0.21067 -0.13415,-0.2705 0.0201,-0.64104 0.30769,-0.73933 0,0 0.77404,-0.40562 0.77404,-1.11666 l -1.61538,0 c -0.29827,-10e-6 -0.53846,-0.2379 -0.53846,-0.53334 l 0,-2.13333 c 0,-0.29544 0.24019,-0.53334 0.53846,-0.53334 z m 4.86295,0 2.15384,0 c 0.29828,0 0.53846,0.23789 0.53846,0.53333 l 0,1.55 c 5.3e-4,0.0166 5.3e-4,0.0333 0,0.05 l 0,0.53333 0,0.53334 c 0,1.42209 -1.3798,2.06666 -1.3798,2.06666 -0.25436,0.16542 -0.64469,0.0598 -0.77885,-0.21067 -0.13414,-0.2705 0.0201,-0.64104 0.3077,-0.73933 0,0 1.49191,-1.11666 0.77403,-1.11666 l -1.61538,0 c -0.29828,0 -0.53845,-0.2379 -0.53845,-0.53334 l 0,-2.13333 c 0,-0.29544 0.24017,-0.53333 0.53845,-0.53333 z" />
-    <rect
-       y="909.27264"
-       x="521"
-       width="22"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
-       id="rect7911"
-       height="22" />
-  </g>
-  <g
-     transform="translate(-521,-456.91046)"
-     id="layer2" />
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" version="1.1" id="svg6530" height="22">
+    <defs id="defs6532">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+    </defs>
+    <metadata id="metadata6535">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-521,-909.27262)" style="display:inline" id="layer1">
+        <path style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate;opacity:1" id="path3873" d="m 531.99997,912.27262 c -3.86598,0 -6.99997,3.10416 -6.99997,6.93333 0,3.82917 3.13399,6.93333 6.99997,6.93333 l 0,2.13334 c 1.73609,-1.22509 6.27176,-2.97103 6.96631,-8.35 0.0301,-0.233 0.0337,-0.46942 0.0337,-0.71667 0,-0.22091 -0.007,-0.43484 -0.0337,-0.65 -0.32795,-3.52729 -3.31955,-6.28333 -6.96631,-6.28333 z m -3.53364,4.8 2.15384,0 c 0.29828,0 0.53845,0.23789 0.53845,0.53333 l 0,1.55 c 5.5e-4,0.0166 5.5e-4,0.0333 0,0.05 l 0,0.53333 0,0.53334 c 0,1.42209 -1.37979,2.06666 -1.37979,2.06666 -0.25434,0.16542 -0.6447,0.0598 -0.77885,-0.21067 -0.13415,-0.2705 0.0201,-0.64104 0.30769,-0.73933 0,0 0.77404,-0.40562 0.77404,-1.11666 l -1.61538,0 c -0.29827,-10e-6 -0.53846,-0.2379 -0.53846,-0.53334 l 0,-2.13333 c 0,-0.29544 0.24019,-0.53334 0.53846,-0.53334 z m 4.86295,0 2.15384,0 c 0.29828,0 0.53846,0.23789 0.53846,0.53333 l 0,1.55 c 5.3e-4,0.0166 5.3e-4,0.0333 0,0.05 l 0,0.53333 0,0.53334 c 0,1.42209 -1.3798,2.06666 -1.3798,2.06666 -0.25436,0.16542 -0.64469,0.0598 -0.77885,-0.21067 -0.13414,-0.2705 0.0201,-0.64104 0.3077,-0.73933 0,0 1.49191,-1.11666 0.77403,-1.11666 l -1.61538,0 c -0.29828,0 -0.53845,-0.2379 -0.53845,-0.53334 l 0,-2.13333 c 0,-0.29544 0.24017,-0.53333 0.53845,-0.53333 z"/>
+        <rect y="909.27264" x="521" width="22" style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new" id="rect7911" height="22"/>
+    </g>
 </svg>

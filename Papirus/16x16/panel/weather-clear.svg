@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
-   viewBox="0 0 16 16"
-   style="enable-background:new"
-   id="svg2"
-   version="1.1">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <path
-     d="m 6.4315,5e-4 c -0.239,1.98 -1.381,2.446 -2.944,1.212 0.537,1.92 -0.34,2.785 -2.256,2.244 1.231,1.569 0.752,2.698 -1.225,2.931 1.737,0.978 1.731,2.209 -0.006,3.181 1.98,0.239 2.446,1.381 1.212,2.944 1.92,-0.537 2.785,0.34 2.244,2.256 1.569,-1.231 2.698,-0.752 2.931,1.225 0.978,-1.738 2.209,-1.731 3.181,0.006 0.239,-1.98 1.381,-2.446 2.944,-1.212 -0.537,-1.92 0.34,-2.785 2.256,-2.244 -1.231,-1.569 -0.752,-2.698 1.225,-2.931 -1.738,-0.978 -1.731,-2.209 0.006,-3.181 -1.98,-0.239 -2.446,-1.381 -1.213,-2.944 -1.92,0.537 -2.785,-0.34 -2.244,-2.256 -1.569,1.231 -2.698,0.752 -2.931,-1.225 -0.978,1.737 -2.209,1.731 -3.181,-0.006 z"
-     style="opacity:1;fill:#ffffff;fill-opacity:1"
-     id="path4" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" style="enable-background:new" id="svg2" version="1.1">
+    <metadata id="metadata10">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path d="m 6.4315,5e-4 c -0.239,1.98 -1.381,2.446 -2.944,1.212 0.537,1.92 -0.34,2.785 -2.256,2.244 1.231,1.569 0.752,2.698 -1.225,2.931 1.737,0.978 1.731,2.209 -0.006,3.181 1.98,0.239 2.446,1.381 1.212,2.944 1.92,-0.537 2.785,0.34 2.244,2.256 1.569,-1.231 2.698,-0.752 2.931,1.225 0.978,-1.738 2.209,-1.731 3.181,0.006 0.239,-1.98 1.381,-2.446 2.944,-1.212 -0.537,-1.92 0.34,-2.785 2.256,-2.244 -1.231,-1.569 -0.752,-2.698 1.225,-2.931 -1.738,-0.978 -1.731,-2.209 0.006,-3.181 -1.98,-0.239 -2.446,-1.381 -1.213,-2.944 -1.92,0.537 -2.785,-0.34 -2.244,-2.256 -1.569,1.231 -2.698,0.752 -2.931,-1.225 -0.978,1.737 -2.209,1.731 -3.181,-0.006 z" style="opacity:1;fill:#ffffff;fill-opacity:1" id="path4"/>
 </svg>

@@ -1,139 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="24"
-   version="1.1"
-   style="enable-background:new"
-   id="svg7384"
-   height="24">
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556" />
-    </filter>
-  </defs>
-  <g
-     transform="translate(-865.00021,-33)"
-     style="display:inline"
-     id="layer9" />
-  <g
-     transform="translate(-865.00021,-33)"
-     style="display:inline;filter:url(#filter7554)"
-     id="layer10" />
-  <g
-     transform="translate(-624.00001,-650)"
-     style="display:inline"
-     id="layer1" />
-  <g
-     transform="translate(-865.00021,-33)"
-     style="display:inline"
-     id="layer14" />
-  <g
-     transform="translate(-865.00021,-33)"
-     style="display:inline"
-     id="layer15" />
-  <g
-     transform="translate(-865.00021,-33)"
-     style="display:inline"
-     id="g71291" />
-  <g
-     transform="translate(-624.00001,-500)"
-     style="display:inline"
-     id="layer2" />
-  <g
-     transform="translate(-624.00001,-500)"
-     style="display:inline"
-     id="g6058">
-    <path
-       id="path4214"
-       d="m 636.00001,504 c -4.41827,0 -8,3.58173 -8,8 0,4.41827 3.58173,8 8,8 4.41827,0 8,-3.58173 8,-8 0,-4.41827 -3.58173,-8 -8,-8 z m 0.14453,3.99805 0,0.002 0.002,0 c 1.309,0.048 2.50013,0.73736 3.20313,1.81836 l 1.38862,-0.46289 -1.57031,3.14648 -3.14649,-1.57422 1.27735,-0.42578 c -0.338,-0.294 -0.76252,-0.4869 -1.22852,-0.5039 -0.742,-0.027 -1.43464,0.35504 -1.80664,0.99804 l -1.73242,-1 c 0.74,-1.282 2.13428,-2.05304 3.61328,-1.99804 z m -3.3125,3.5 3.14649,1.57422 -1.27735,0.42578 c 0.338,0.294 0.76252,0.48495 1.22852,0.50195 0.74199,0.027 1.43464,-0.35505 1.80664,-0.99805 l 1.73242,1 c -0.74,1.282 -2.13428,2.05305 -3.61328,1.99805 -1.309,-0.048 -2.50012,-0.73736 -3.20313,-1.81836 l -1.38867,0.46289 1.56836,-3.14648 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
-    <g
-       style="fill:#000000;fill-opacity:1"
-       transform="matrix(3.5433071,0,0,3.5433071,624.00001,502)"
-       id="g4158">
-      <g
-         style="fill:#000000;fill-opacity:1"
-         transform="matrix(0.28222222,0,0,0.28222222,-10.6045,0.2470856)"
-         id="g6">
-        <g
-           style="fill:#000000;fill-opacity:1"
-           transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)"
-           id="g8">
-          <!-- color: #004794 -->
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="24" version="1.1" style="enable-background:new" id="svg7384" height="24">
+    <metadata id="metadata90">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title>
+                    Paper Symbolic Icon Theme
+                </dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <title id="title8473">
+        Paper Symbolic Icon Theme
+    </title>
+    <defs id="defs7386">
+        <linearGradient osb:paint="solid" id="linearGradient5606">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
+        </linearGradient>
+        <filter style="color-interpolation-filters:sRGB" id="filter7554">
+            <feBlend mode="darken" in2="BackgroundImage" id="feBlend7556"/>
+        </filter>
+    </defs>
+    <g transform="translate(-624.00001,-500)" style="display:inline" id="g6058">
+        <path id="path4214" d="m 636.00001,504 c -4.41827,0 -8,3.58173 -8,8 0,4.41827 3.58173,8 8,8 4.41827,0 8,-3.58173 8,-8 0,-4.41827 -3.58173,-8 -8,-8 z m 0.14453,3.99805 0,0.002 0.002,0 c 1.309,0.048 2.50013,0.73736 3.20313,1.81836 l 1.38862,-0.46289 -1.57031,3.14648 -3.14649,-1.57422 1.27735,-0.42578 c -0.338,-0.294 -0.76252,-0.4869 -1.22852,-0.5039 -0.742,-0.027 -1.43464,0.35504 -1.80664,0.99804 l -1.73242,-1 c 0.74,-1.282 2.13428,-2.05304 3.61328,-1.99804 z m -3.3125,3.5 3.14649,1.57422 -1.27735,0.42578 c 0.338,0.294 0.76252,0.48495 1.22852,0.50195 0.74199,0.027 1.43464,-0.35505 1.80664,-0.99805 l 1.73242,1 c -0.74,1.282 -2.13428,2.05305 -3.61328,1.99805 -1.309,-0.048 -2.50012,-0.73736 -3.20313,-1.81836 l -1.38867,0.46289 1.56836,-3.14648 z" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"/>
+        <g style="fill:#000000;fill-opacity:1" transform="matrix(3.5433071,0,0,3.5433071,624.00001,502)" id="g4158">
+            <g style="fill:#000000;fill-opacity:1" transform="matrix(0.28222222,0,0,0.28222222,-10.6045,0.2470856)" id="g6">
+                <g style="fill:#000000;fill-opacity:1" transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)" id="g8">
+<!--color: #004794-->
+                </g>
+            </g>
+            <g transform="matrix(0.28222222,0,0,0.28222222,-10.392658,1.2296495)" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="g10">
+                <g transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)" style="fill:#000000;fill-opacity:1;stroke-width:2.36400008" id="g12">
+<!--color: #004794-->
+                </g>
+            </g>
         </g>
-      </g>
-      <g
-         transform="matrix(0.28222222,0,0,0.28222222,-10.392658,1.2296495)"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="g10">
-        <g
-           transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)"
-           style="fill:#000000;fill-opacity:1;stroke-width:2.36400008"
-           id="g12">
-          <!-- color: #004794 -->
+        <g transform="matrix(3.5433071,0,0,3.5433071,539.33167,489.28141)" id="g4205">
+            <g transform="matrix(0.28222222,0,0,0.28222222,-10.6045,0.2470856)" id="g6-3">
+                <g transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)" id="g8-6">
+<!--color: #004794-->
+                </g>
+            </g>
+            <g transform="matrix(0.28222222,0,0,0.28222222,-10.392658,1.2296495)" style="stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="g10-7">
+                <g transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)" style="stroke-width:2.36400008" id="g12-5">
+<!--color: #004794-->
+                </g>
+            </g>
         </g>
-      </g>
     </g>
-    <g
-       transform="matrix(3.5433071,0,0,3.5433071,539.33167,489.28141)"
-       id="g4205">
-      <g
-         transform="matrix(0.28222222,0,0,0.28222222,-10.6045,0.2470856)"
-         id="g6-3">
-        <g
-           transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)"
-           id="g8-6">
-          <!-- color: #004794 -->
-        </g>
-      </g>
-      <g
-         transform="matrix(0.28222222,0,0,0.28222222,-10.392658,1.2296495)"
-         style="stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="g10-7">
-        <g
-           transform="matrix(0.42297932,0,0,0.42297932,-11.083711,3.1945516)"
-           style="stroke-width:2.36400008"
-           id="g12-5">
-          <!-- color: #004794 -->
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     transform="translate(-865.00021,-33)"
-     style="display:inline"
-     id="layer12" />
 </svg>

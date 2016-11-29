@@ -1,51 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs2819">
-  <clipPath id="clipPath-823863673">
-   <g id="g4212" transform="translate(0,-1004.4)">
-    <path id="path4214" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333,0,0,11.5,415,878.86)" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-823863673-9">
-   <g id="g4212-0" transform="translate(0,-1004.4)">
-    <path id="path4214-9" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333,0,0,11.5,415,878.86)" fill="#1890d0"/>
-   </g>
-  </clipPath>
- </defs>
- <g id="layer4-0-3" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7-3" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276-4" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-1" y="-393.22546" x="435.90427"/><tspan id="tspan7280-4" y="-377.3924" x="435.90427"/></text>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -708.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -701.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-393.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-393.22546" x="435.90427"/><tspan id="tspan7280" y="-377.3924" x="435.90427"/></text>
- <g id="layer4-0-2" transform="matrix(.90475 0 0 .90475 -724.75 -700.79)">
- </g>
- <g id="layer4-0-7-0" transform="matrix(.90475 0 0 .90475 -724.75 -693.55)">
- </g>
- <text id="text7276-2" font-size="12.666px" xml:space="preserve" y="-385.72546" x="427.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-5" y="-385.72546" x="427.90427"/><tspan id="tspan7280-0" y="-369.8924" x="427.90427"/></text>
- <g id="g4539" fill="#433200" transform="matrix(1.8319,0,0,1.8188,-21.992,-41.325)" clip-path="url(#clipPath-823863673)"><!-- color: #5e4e50 --></g>
- <g id="g5973" fill="#fecd38" transform="matrix(1.2594,0,0,1.2731,-10.12,-28.278)" clip-path="url(#clipPath-823863673)"><!-- color: #5e4e50 --></g>
- <g id="layer4-0-6" transform="matrix(.90475 0 0 .90475 -782.43 -705.27)">
- </g>
- <g id="layer4-0-7-6" transform="matrix(.90475 0 0 .90475 -782.43 -698.03)">
- </g>
- <text id="text7276-8" font-size="12.666px" xml:space="preserve" y="-390.20911" x="370.21722" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-51" y="-390.20911" x="370.21722"/><tspan id="tspan7280-1" y="-374.37604" x="370.21722"/></text>
- <g id="g4539-1" fill="#433200" transform="matrix(1.8319,0,0,1.8188,-79.679,-45.809)" clip-path="url(#clipPath-823863673-9)"><!-- color: #5e4e50 --></g>
- <text id="text7276-5" font-size="12.666px" xml:space="preserve" y="-388.72546" x="383.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-7" y="-388.72546" x="383.90427"/><tspan id="tspan7280-6" y="-372.8924" x="383.90427"/></text>
- <text id="text7276-1" font-size="12.666px" xml:space="preserve" y="-383.75995" x="331.02496" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-4" y="-383.75995" x="331.02496"/><tspan id="tspan7280-1-9" y="-367.92688" x="331.02496"/></text>
- <circle id="path3283" cy="8" cx="8" r="8" fill="#e74c3c"/>
- <path id="path4-0" fill="#fff" d="m4 9.0715 4 3.9285l4-4.0715h-2v-5.9285h-4v6.0714z"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs2819">
+        <clipPath id="clipPath-823863673">
+            <g id="g4212" transform="translate(0,-1004.4)">
+                <path id="path4214" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333,0,0,11.5,415,878.86)" fill="#1890d0"/>
+            </g>
+        </clipPath>
+        <clipPath id="clipPath-823863673-9">
+            <g id="g4212-0" transform="translate(0,-1004.4)">
+                <path id="path4214-9" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333,0,0,11.5,415,878.86)" fill="#1890d0"/>
+            </g>
+        </clipPath>
+    </defs>
+    <g id="g4539" fill="#433200" transform="matrix(1.8319,0,0,1.8188,-21.992,-41.325)" clip-path="url(#clipPath-823863673)">
+<!--color: #5e4e50-->
+    </g>
+    <g id="g5973" fill="#fecd38" transform="matrix(1.2594,0,0,1.2731,-10.12,-28.278)" clip-path="url(#clipPath-823863673)">
+<!--color: #5e4e50-->
+    </g>
+    <g id="g4539-1" fill="#433200" transform="matrix(1.8319,0,0,1.8188,-79.679,-45.809)" clip-path="url(#clipPath-823863673-9)">
+<!--color: #5e4e50-->
+    </g>
+    <circle id="path3283" cy="8" cx="8" r="8" fill="#e74c3c"/>
+    <path id="path4-0" fill="#fff" d="m4 9.0715 4 3.9285l4-4.0715h-2v-5.9285h-4v6.0714z"/>
 </svg>

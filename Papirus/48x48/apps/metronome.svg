@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg4164" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="48" viewBox="0 0 48 48.000001" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4169">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(0 -1004.4)">
-  <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 328.07)">
-  </g>
-  <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 335.31)">
-  </g>
-  <text id="text7276" font-size="12.666px" xml:space="preserve" y="643.13672" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="643.13672" x="435.90427"/><tspan id="tspan7280" y="658.96979" x="435.90427"/></text>
-  <path id="rect4203-1" d="m43.954 1046.4-9.977-36c-0.29587-1.0676-0.88995-2-1.9954-2h-15.963c-1.1055 0-1.6995 0.9324-1.9954 2l-9.977 36c-0.29587 1.0676 0.88995 2 1.9954 2h35.917c1.1055 0 2.2913-0.9324 1.9954-2z" fill="#37a0f2"/>
-  <path id="path5373" opacity=".2" fill="#fff" d="m16 1008.4c-1.108 0-1.7035 0.9324-2 2l-10 36c-0.078878 0.284-0.047109 0.5568 0.054687 0.8066l9.9453-35.8c0.29655-1.0676 0.892-2 2-2h16c1.108 0 1.7035 0.9324 2 2l9.9453 35.807c0.1018-0.2498 0.13357-0.5226 0.05469-0.8066l-10-36c-0.29655-1.0676-0.892-2-2-2h-16z"/>
-  <circle id="circle5385" opacity=".2" cy="1040.4" cx="24" r="5"/>
-  <circle id="path5369" cy="1039.4" cx="24" r="5" fill="#fff"/>
-  <rect id="rect5383" opacity=".2" transform="rotate(30)" rx="1.9244" ry="2.33" height="30" width="4" y="861.02" x="538.92"/>
-  <rect id="rect5371" ry="2.33" rx="1.9244" transform="rotate(30)" height="30" width="4" y="860.16" x="538.42" fill="#fe4343"/>
-  <path id="path5378" opacity=".2" d="m4.1006 1047.2-0.054561 0.1934c-0.29587 1.0676 0.88995 2 1.9954 2h35.917c1.1055 0 2.2913-0.9324 1.9954-2l-0.05457-0.1934c-0.28027 0.6895-1.1294 1.1934-1.9408 1.1934h-35.917c-0.81142 0-1.6606-0.5039-1.9408-1.1934z"/>
-  <path id="path5390" opacity=".2" d="m29 1009.4-5 8-5-8z"/>
-  <path id="rect5387" fill="#fff" d="m29 1008.4-5 8-5-8z"/>
- </g>
+    <metadata id="metadata4169">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="layer1" transform="translate(0 -1004.4)">
+        <path id="rect4203-1" d="m43.954 1046.4-9.977-36c-0.29587-1.0676-0.88995-2-1.9954-2h-15.963c-1.1055 0-1.6995 0.9324-1.9954 2l-9.977 36c-0.29587 1.0676 0.88995 2 1.9954 2h35.917c1.1055 0 2.2913-0.9324 1.9954-2z" fill="#37a0f2"/>
+        <path id="path5373" opacity=".2" fill="#fff" d="m16 1008.4c-1.108 0-1.7035 0.9324-2 2l-10 36c-0.078878 0.284-0.047109 0.5568 0.054687 0.8066l9.9453-35.8c0.29655-1.0676 0.892-2 2-2h16c1.108 0 1.7035 0.9324 2 2l9.9453 35.807c0.1018-0.2498 0.13357-0.5226 0.05469-0.8066l-10-36c-0.29655-1.0676-0.892-2-2-2h-16z"/>
+        <circle id="circle5385" opacity=".2" cy="1040.4" cx="24" r="5"/>
+        <circle id="path5369" cy="1039.4" cx="24" r="5" fill="#fff"/>
+        <rect id="rect5383" opacity=".2" transform="rotate(30)" rx="1.9244" ry="2.33" height="30" width="4" y="861.02" x="538.92"/>
+        <rect id="rect5371" ry="2.33" rx="1.9244" transform="rotate(30)" height="30" width="4" y="860.16" x="538.42" fill="#fe4343"/>
+        <path id="path5378" opacity=".2" d="m4.1006 1047.2-0.054561 0.1934c-0.29587 1.0676 0.88995 2 1.9954 2h35.917c1.1055 0 2.2913-0.9324 1.9954-2l-0.05457-0.1934c-0.28027 0.6895-1.1294 1.1934-1.9408 1.1934h-35.917c-0.81142 0-1.6606-0.5039-1.9408-1.1934z"/>
+        <path id="path5390" opacity=".2" d="m29 1009.4-5 8-5-8z"/>
+        <path id="rect5387" fill="#fff" d="m29 1008.4-5 8-5-8z"/>
+    </g>
 </svg>

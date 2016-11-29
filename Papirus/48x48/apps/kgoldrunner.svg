@@ -1,47 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -676.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -669.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-361.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-361.22546" x="435.90427"/><tspan id="tspan7280" y="-345.3924" x="435.90427"/></text>
- <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#4e91d9"/>
- <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <path id="rect4352" fill="#742424" d="m4 14h4v2h-4z"/>
- <path id="rect4354" fill="#ad3131" d="m16 14h4v2h-4z"/>
- <rect id="rect4362" height="2" width="8" y="14" x="20" fill="#742424"/>
- <rect id="rect4364" height="2" width="8" y="14" x="28" fill="#ad3131"/>
- <rect id="rect4368" height="2" width="8" y="14" x="36" fill="#742424"/>
- <path id="rect4387" fill="#742424" d="m4 12h4v2h-4z"/>
- <rect id="rect4393" height="2" width="8" y="12" x="16" fill="#742424"/>
- <rect id="rect4395" height="2" width="8" y="12" x="24" fill="#ad3131"/>
- <rect id="rect4397" height="2" width="8" y="12" x="32" fill="#742424"/>
- <path id="rect4421" fill="#ad3131" d="m40 12h4v2h-4z"/>
- <rect id="rect4440" transform="scale(-1)" height="2" width="8" y="-33" x="-44" fill="#742424"/>
- <rect id="rect4442" transform="scale(-1)" height="2" width="8" y="-33" x="-36" fill="#ad3131"/>
- <rect id="rect4444" transform="scale(-1)" height="2" width="8" y="-33" x="-28" fill="#742424"/>
- <rect id="rect4446" transform="scale(-1)" height="2" width="8" y="-33" x="-20" fill="#ad3131"/>
- <rect id="rect4448" transform="scale(-1)" height="2" width="8" y="-33" x="-12" fill="#742424"/>
- <path id="path4450" fill="#742424" d="m44 35h-4v-2h4z"/>
- <rect id="rect4452" transform="scale(-1)" height="2" width="8" y="-35" x="-40" fill="#ad3131"/>
- <rect id="rect4454" transform="scale(-1)" height="2" width="8" y="-35" x="-32" fill="#742424"/>
- <rect id="rect4456" transform="scale(-1)" height="2" width="8" y="-35" x="-24" fill="#ad3131"/>
- <rect id="rect4458" transform="scale(-1)" height="2" width="8" y="-35" x="-16" fill="#742424"/>
- <path id="path4460" fill="#ad3131" d="m8 35h-4v-2h4z"/>
- <rect id="rect4679" height="18" width="2" y="12" x="9" fill="#fff"/>
- <rect id="rect4681" height="18" width="2" y="12" x="13" fill="#fff"/>
- <rect id="rect4683" height="2" width="6" y="13" x="9" fill="#fff"/>
- <rect id="rect4685" height="2" width="6" y="19" x="9" fill="#fff"/>
- <rect id="rect4687" height="2" width="6" y="25" x="9" fill="#fff"/>
- <path id="path4691" d="m28.075 7.3648 0.45649 1.1563 1.1886-0.36404-0.6194 1.0778 1.0257 0.70234-1.2289 0.18774 0.09041 1.2398-0.91297-0.84372-0.91297 0.84372 0.09041-1.2398-1.2289-0.18774 1.0257-0.70234-0.6194-1.0778 1.1886 0.36404z" fill="#ffeb5d" transform="matrix(.97493 0 0 1 4.6285 -.36479)"/>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#4e91d9"/>
+    <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+    <path id="rect4352" fill="#742424" d="m4 14h4v2h-4z"/>
+    <path id="rect4354" fill="#ad3131" d="m16 14h4v2h-4z"/>
+    <rect id="rect4362" height="2" width="8" y="14" x="20" fill="#742424"/>
+    <rect id="rect4364" height="2" width="8" y="14" x="28" fill="#ad3131"/>
+    <rect id="rect4368" height="2" width="8" y="14" x="36" fill="#742424"/>
+    <path id="rect4387" fill="#742424" d="m4 12h4v2h-4z"/>
+    <rect id="rect4393" height="2" width="8" y="12" x="16" fill="#742424"/>
+    <rect id="rect4395" height="2" width="8" y="12" x="24" fill="#ad3131"/>
+    <rect id="rect4397" height="2" width="8" y="12" x="32" fill="#742424"/>
+    <path id="rect4421" fill="#ad3131" d="m40 12h4v2h-4z"/>
+    <rect id="rect4440" transform="scale(-1)" height="2" width="8" y="-33" x="-44" fill="#742424"/>
+    <rect id="rect4442" transform="scale(-1)" height="2" width="8" y="-33" x="-36" fill="#ad3131"/>
+    <rect id="rect4444" transform="scale(-1)" height="2" width="8" y="-33" x="-28" fill="#742424"/>
+    <rect id="rect4446" transform="scale(-1)" height="2" width="8" y="-33" x="-20" fill="#ad3131"/>
+    <rect id="rect4448" transform="scale(-1)" height="2" width="8" y="-33" x="-12" fill="#742424"/>
+    <path id="path4450" fill="#742424" d="m44 35h-4v-2h4z"/>
+    <rect id="rect4452" transform="scale(-1)" height="2" width="8" y="-35" x="-40" fill="#ad3131"/>
+    <rect id="rect4454" transform="scale(-1)" height="2" width="8" y="-35" x="-32" fill="#742424"/>
+    <rect id="rect4456" transform="scale(-1)" height="2" width="8" y="-35" x="-24" fill="#ad3131"/>
+    <rect id="rect4458" transform="scale(-1)" height="2" width="8" y="-35" x="-16" fill="#742424"/>
+    <path id="path4460" fill="#ad3131" d="m8 35h-4v-2h4z"/>
+    <rect id="rect4679" height="18" width="2" y="12" x="9" fill="#fff"/>
+    <rect id="rect4681" height="18" width="2" y="12" x="13" fill="#fff"/>
+    <rect id="rect4683" height="2" width="6" y="13" x="9" fill="#fff"/>
+    <rect id="rect4685" height="2" width="6" y="19" x="9" fill="#fff"/>
+    <rect id="rect4687" height="2" width="6" y="25" x="9" fill="#fff"/>
+    <path id="path4691" d="m28.075 7.3648 0.45649 1.1563 1.1886-0.36404-0.6194 1.0778 1.0257 0.70234-1.2289 0.18774 0.09041 1.2398-0.91297-0.84372-0.91297 0.84372 0.09041-1.2398-1.2289-0.18774 1.0257-0.70234-0.6194-1.0778 1.1886 0.36404z" fill="#ffeb5d" transform="matrix(.97493 0 0 1 4.6285 -.36479)"/>
 </svg>

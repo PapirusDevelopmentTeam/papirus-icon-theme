@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg4346" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4351">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <rect id="rect4203" ry=".8" rx=".8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#a24058"/>
- <path id="path4152" stroke-linejoin="round" d="m3 12v-5.4c0-1.75 1-2.6 2.5-2.6s2.5001 0.8 2.5001 2.55v5.45" stroke="#f58a1f" stroke-linecap="round" stroke-width="2" fill="none"/>
- <path id="path4158" stroke-linejoin="round" d="m10 4c0.7 0 1.9999 0.75 2 2.5 0.000105 1.75-1 2.2-1 2.2l1 3.3" stroke="#fff" stroke-linecap="round" stroke-width="2" fill="none"/>
+    <metadata id="metadata4351">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <rect id="rect4203" ry=".8" rx=".8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#a24058"/>
+    <path id="path4152" stroke-linejoin="round" d="m3 12v-5.4c0-1.75 1-2.6 2.5-2.6s2.5001 0.8 2.5001 2.55v5.45" stroke="#f58a1f" stroke-linecap="round" stroke-width="2" fill="none"/>
+    <path id="path4158" stroke-linejoin="round" d="m10 4c0.7 0 1.9999 0.75 2 2.5 0.000105 1.75-1 2.2-1 2.2l1 3.3" stroke="#fff" stroke-linecap="round" stroke-width="2" fill="none"/>
 </svg>

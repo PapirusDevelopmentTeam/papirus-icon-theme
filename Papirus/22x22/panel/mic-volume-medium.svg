@@ -1,45 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="22"
-   height="22"
-   style="enable-background:new"
-   id="svg7384">
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386" />
-  <g
-     transform="translate(3,3)"
-     id="g4137">
-    <path
-       style="color:#bebebe;opacity:1;fill:#ffffff;fill-opacity:1"
-       d="m 4.9999999,6 0,2.002 c 0,1.6619 1.3379,2.998 3,2.998 C 9.6620999,11 11,9.6638 11,8.002 L 11,6 Z"
-       id="path4186" />
-    <path
-       id="path4150"
-       d="M 2,7.00005 2,7.9984882 C 2.00001,10.96499 4,14 7,14 l 0,2 2,0 0,-2 c 3,0 5,-3.03511 5,-6.0015118 L 14,7 12,7 12,7.9984882 C 12,10.232569 10.2334,12 8,12 5.7666,12 4,10.232569 4,7.9984882 L 4,7 2,7 Z"
-       style="color:#bebebe;opacity:1;fill:#ffffff;fill-opacity:1" />
-    <path
-       style="color:#bebebe;opacity:0.3;fill:#ffffff;fill-opacity:1"
-       d="M 8,0 C 6.3379,0 5,1.3381 5,3 l 0,3 6,0 0,-3 C 11,1.3381 9.6621,0 8,0 Z"
-       id="path4234" />
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" height="22" style="enable-background:new" id="svg7384">
+    <metadata id="metadata90">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title>
+                    Paper Symbolic Icon Theme
+                </dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <title id="title8473">
+        Paper Symbolic Icon Theme
+    </title>
+    <g transform="translate(3,3)" id="g4137">
+        <path style="color:#bebebe;opacity:1;fill:#ffffff;fill-opacity:1" d="m 4.9999999,6 0,2.002 c 0,1.6619 1.3379,2.998 3,2.998 C 9.6620999,11 11,9.6638 11,8.002 L 11,6 Z" id="path4186"/>
+        <path id="path4150" d="M 2,7.00005 2,7.9984882 C 2.00001,10.96499 4,14 7,14 l 0,2 2,0 0,-2 c 3,0 5,-3.03511 5,-6.0015118 L 14,7 12,7 12,7.9984882 C 12,10.232569 10.2334,12 8,12 5.7666,12 4,10.232569 4,7.9984882 L 4,7 2,7 Z" style="color:#bebebe;opacity:1;fill:#ffffff;fill-opacity:1"/>
+        <path style="color:#bebebe;opacity:0.3;fill:#ffffff;fill-opacity:1" d="M 8,0 C 6.3379,0 5,1.3381 5,3 l 0,3 6,0 0,-3 C 11,1.3381 9.6621,0 8,0 Z" id="path4234"/>
+    </g>
 </svg>

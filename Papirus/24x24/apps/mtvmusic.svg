@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer4-0" transform="matrix(.90475 0 0 .90475 -716.75 -700.29)">
- </g>
- <g id="layer4-0-7" transform="matrix(.90475 0 0 .90475 -716.75 -693.05)">
- </g>
- <text id="text7276" font-size="12.666px" xml:space="preserve" y="-385.22546" x="435.90427" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278" y="-385.22546" x="435.90427"/><tspan id="tspan7280" y="-369.3924" x="435.90427"/></text>
- <g id="layer4-0-0" transform="matrix(.90475 0 0 .90475 -773.98 -698.55)">
- </g>
- <g id="layer4-0-7-4" transform="matrix(.90475 0 0 .90475 -773.98 -691.31)">
- </g>
- <text id="text7276-3" font-size="12.666px" xml:space="preserve" y="-383.48157" x="378.67255" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-9" y="-383.48157" x="378.67255"/><tspan id="tspan7280-9" y="-367.6485" x="378.67255"/></text>
- <g id="layer4-0-5" transform="matrix(.90475 0 0 .90475 -826.85 -693.58)">
- </g>
- <g id="layer4-0-7-6" transform="matrix(.90475 0 0 .90475 -826.85 -686.34)">
- </g>
- <text id="text7276-1" font-size="12.666px" xml:space="preserve" y="-378.51605" x="325.79324" font-family="&apos;Droid Sans&apos;" fill="#000000"><tspan id="tspan7278-4" y="-378.51605" x="325.79324"/><tspan id="tspan7280-1" y="-362.68298" x="325.79324"/></text>
- <g id="g4781" transform="translate(1,1)">
-  <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#c2352a"/>
-  <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-  <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
-  <path id="path5772" opacity=".2" d="m4.0664 3.5c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.867c0.592 0 1.067-0.475 1.067-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z"/>
-  <path id="path5769" d="m4.0664 3c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.868c0.591 0 1.066-0.475 1.066-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z" fill="#fff"/>
-  <circle id="path4058" style="enable-background:new" cx="16" cy="16" r="6" fill="#ffa822"/>
-  <path id="path5782" fill="#fff" d="m12 14v1h1v3h1v-3h1v-1h-3zm4 0 1.3008 4h1.5l1.199-4h-1l-1 3-1-3h-1z"/>
- </g>
+    <metadata id="metadata57">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g4781" transform="translate(1,1)">
+        <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#c2352a"/>
+        <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+        <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+        <path id="path5772" opacity=".2" d="m4.0664 3.5c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.867c0.592 0 1.067-0.475 1.067-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z"/>
+        <path id="path5769" d="m4.0664 3c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.868c0.591 0 1.066-0.475 1.066-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z" fill="#fff"/>
+        <circle id="path4058" style="enable-background:new" cx="16" cy="16" r="6" fill="#ffa822"/>
+        <path id="path5782" fill="#fff" d="m12 14v1h1v3h1v-3h1v-1h-3zm4 0 1.3008 4h1.5l1.199-4h-1l-1 3-1-3h-1z"/>
+    </g>
 </svg>

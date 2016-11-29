@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   style="enable-background:new 0 0 512 512"
-   viewBox="0 0 22 22">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <path
-     id="path4140"
-     d="M 11.009766 5 C 5.3344717 5 2 10.669922 2 10.669922 C 2 10.669922 5.6245883 17 11.009766 17 C 16.812118 17 20 10.669922 20 10.669922 C 20 10.669922 16.780355 5 11.009766 5 z M 11 8 C 12.656771 8 14 9.3432293 14 11 C 14 12.656771 12.656771 14 11 14 C 9.3432293 14 8 12.656771 8 11 C 8 9.3432293 9.3432293 8 11 8 z M 11 9 C 9.894992 9 9 9.8960689 9 11 C 9 12.105008 9.896069 13 11 13 C 12.105008 13 13 12.105008 13 11 C 13 9.8949919 12.103931 9 11 9 z "
-     style="fill:#ffffff;fill-opacity:1;opacity:1" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" style="enable-background:new 0 0 512 512" viewBox="0 0 22 22">
+    <metadata id="metadata10">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path id="path4140" d="M 11.009766 5 C 5.3344717 5 2 10.669922 2 10.669922 C 2 10.669922 5.6245883 17 11.009766 17 C 16.812118 17 20 10.669922 20 10.669922 C 20 10.669922 16.780355 5 11.009766 5 z M 11 8 C 12.656771 8 14 9.3432293 14 11 C 14 12.656771 12.656771 14 11 14 C 9.3432293 14 8 12.656771 8 11 C 8 9.3432293 9.3432293 8 11 8 z M 11 9 C 9.894992 9 9 9.8960689 9 11 C 9 12.105008 9.896069 13 11 13 C 12.105008 13 13 12.105008 13 11 C 13 9.8949919 12.103931 9 11 9 z " style="fill:#ffffff;fill-opacity:1;opacity:1"/>
 </svg>
