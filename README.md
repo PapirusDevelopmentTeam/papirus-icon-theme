@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-![apps](https://img.shields.io/badge/icons%20for%20apps-2400%2B-5294e2.svg) ![actions](https://img.shields.io/badge/icons%20for%20actions-1700%2B-5294e2.svg) ![panel](https://img.shields.io/badge/icons%20for%20panel-1600%2B-5294e2.svg) ![places](https://img.shields.io/badge/icons%20for%20places-90%2B-5294e2.svg)
+  <img alt="apps" src="https://img.shields.io/badge/icons%20for%20apps-2400%2B-5294e2.svg"/> <img alt="actions" src="https://img.shields.io/badge/icons%20for%20actions-1700%2B-5294e2.svg"/> <img alt="panel" src="https://img.shields.io/badge/icons%20for%20panel-1600%2B-5294e2.svg"/> <img alt="places" src="https://img.shields.io/badge/icons%20for%20places-90%2B-5294e2.svg"/>
 </p>
 
 # About
