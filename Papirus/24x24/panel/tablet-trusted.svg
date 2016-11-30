@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg4146" viewBox="0 0 23.999999 23.999999" height="24" width="24" inkscape:version="0.91 r13725" sodipodi:docname="tablet-trusted.svg">
-    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1600" inkscape:window-height="843" id="namedview7" showgrid="false" inkscape:zoom="28.620028" inkscape:cx="11" inkscape:cy="11" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg4146"/>
-    <metadata id="metadata4151">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path inkscape:connector-curvature="0" id="path4252" d="m 4.2500221,5.9999985 c 0,0 -1.25,-8e-4 -1.25,1.1992 l 0,9.6016005 c 0,1.2 1.25,1.1992 1.25,1.1992 l 15.4999529,0 c 0,0 1.25,8e-4 1.25,-1.1992 l 0,-9.6016005 c 0,-1.2 -1.25,-1.1992 -1.25,-1.1992 z m 6.7499529,0.5 2,0 0,0.5 -2,0 z m -4.9999529,1.5 11.9999529,0 0,8.0000005 -11.9960467,0 z" style="display:inline;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+<svg id="svg4146" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.999999 23.999999" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4151">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path4252" opacity=".3" style="enable-background:new" d="m4.25 6s-1.25-0.0008-1.25 1.1992v9.6016c0 1.2 1.25 1.1992 1.25 1.1992h15.5s1.25 0.0008 1.25-1.1992v-9.6016c0-1.2-1.25-1.1992-1.25-1.1992zm6.75 0.5h2v0.5h-2zm-5 1.5h12v8h-11.996z" filter="url(#filter7554)" fill="#fff"/>
 </svg>

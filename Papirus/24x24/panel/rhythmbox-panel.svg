@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="24" height="24" id="svg3215">
-    <metadata id="metadata12">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path d="M 7.5,20 C 6.669,20 6,19.331 6,18.5 L 6,5.5 C 6,4.669 6.669,4 7.5,4 l 8,0 C 16.331,4 17,4.669 17,5.5 l 0,13 c 0,0.831 -0.669,1.5 -1.5,1.5 l -8,0 z m 4,-2 C 13.433,18 15,16.4329 15,14.5 15,12.567 13.433,11 11.5,11 9.5666,11 7.9995,12.567 8,14.5 7.9995,16.4329 9.5666,18 11.5,18 Z m 0,-2 C 10.672,16 10,15.3284 10,14.5 10,13.6716 10.672,13 11.5,13 12.328,13 13,13.6716 13,14.5 13,15.3284 12.328,16 11.5,16 Z M 9,8 C 9.55243,8 10.0002,7.55222 10,7 10.000202,6.44778 9.55243,6 9,6 8.44757,6 7.9998,6.44778 8,7 7.9997981,7.55222 8.44757,8 9,8 Z m 5,0 c 0.55243,0 1.0002,-0.44778 1,-1 2.02e-4,-0.55222 -0.44757,-1 -1,-1 -0.55243,0 -1.0002,0.44778 -1,1 -2.02e-4,0.55222 0.44757,1 1,1 z" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd" id="rect2406"/>
+<svg id="svg3215" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata12">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="rect2406" d="m7.5 20c-0.831 0-1.5-0.669-1.5-1.5v-13c0-0.831 0.669-1.5 1.5-1.5h8c0.831 0 1.5 0.669 1.5 1.5v13c0 0.831-0.669 1.5-1.5 1.5h-8zm4-2c1.933 0 3.5-1.567 3.5-3.5s-1.567-3.5-3.5-3.5c-1.9334 0-3.5005 1.567-3.5 3.5-0.0005 1.933 1.5666 3.5 3.5 3.5zm0-2c-0.828 0-1.5-0.672-1.5-1.5s0.672-1.5 1.5-1.5 1.5 0.672 1.5 1.5-0.672 1.5-1.5 1.5zm-2.5-8c0.5524 0 1-0.4478 1-1s-0.4476-1-1-1-1.0002 0.4478-1 1c-0.0002 0.5522 0.4476 1 1 1zm5 0c0.55243 0 1.0002-0.44778 1-1 0.000202-0.55222-0.44757-1-1-1s-1.0002 0.44778-1 1c-0.000202 0.55222 0.44757 1 1 1z" fill-rule="evenodd" fill="#fff"/>
 </svg>

@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg3487" viewBox="0 0 22 22" height="22" width="22">
-    <metadata id="metadata3492">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g transform="translate(0,-1030.3622)" id="layer1">
-        <path id="path3553" d="m 9,1034.3622 0,1 -3,0 0,13 10,0 0,-13 -3,0 0,-1 -4,0 z m -2,8 8,0 0,2 -8,0 0,-2 z m 0,3 8,0 0,2 -8,0 0,-2 z" style="color:#7b7c7e;opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none"/>
-    </g>
+<svg id="svg3487" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="22" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3492">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1030.4)">
+  <path id="path3553" opacity="1e6" style="color:#7b7c7e" d="m9 1034.4v1h-3v13h10v-13h-3v-1h-4zm-2 8h8v2h-8v-2zm0 3h8v2h-8v-2z" fill="#fff"/>
+ </g>
 </svg>

@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" height="24" width="24">
-    <metadata id="metadata7">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g transform="translate(-269.7767,-485.04746)" id="layer1">
-        <g transform="translate(1,-1)" id="g4136">
-            <path style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" d="m 270.7767,490.04746 0,16 16,0 0,-7.5 -2,2 0,3.5 -12,0 0,-12 12,0 0,3 2,-2 0,-3 -16,0 z" id="path4182"/>
-            <path style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1" d="m 289.12826,492.11582 -7.02539,7.13476 -4.9414,-5 -1.38477,1.4043 4.94336,5.00195 1.37109,1.39063 1.38282,-1.40625 7.02734,-7.13477 -1.37305,-1.39062 z" id="path4150"/>
-        </g>
-    </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-269.78 -485.05)">
+  <g id="g4136" transform="translate(1,-1)">
+   <path id="path4182" opacity=".5" d="m270.78 490.05v16h16v-7.5l-2 2v3.5h-12v-12h12v3l2-2v-3h-16z"/>
+   <path id="path4150" d="m289.13 492.12-7.0254 7.1348-4.9414-5-1.3848 1.4043 4.9434 5.002 1.3711 1.3906 1.3828-1.4062 7.0273-7.1348-1.373-1.3906z" fill="#5294e2"/>
+  </g>
+ </g>
 </svg>

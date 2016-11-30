@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="22" height="22" id="svg2817">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path5498" d="m 12.56054,3.0000035 c -1.28,0 -2.5605464,-7.031e-4 -2.5605464,1.2792969 l 0,8.0624996 c -0.468462,-0.223772 -0.9808384,-0.340524 -1.5,-0.341797 -1.9329966,0 -3.5,1.567003 -3.5,3.5 0,1.932997 1.5670034,3.5 3.5,3.5 1.8917444,-0.0024 3.4392484,-1.507489 3.4941404,-3.398437 l 0.0059,0.0039 c 2.22e-4,-0.03496 -2.1e-4,-0.0705 0,-0.105469 0.01427,-2.376166 0,-4.780643 0,-7.1660165 0,-3.5324037 4.360001,1.026016 5,1.666016 0,-1.70688 0.04055,-7 -4.439454,-7 z" style="opacity:1;fill:#ffffff;fill-opacity:1"/>
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path5498" d="m12.561 3c-1.28 0-2.5605-0.0007031-2.5605 1.2793v8.0625c-0.46846-0.22377-0.98084-0.34052-1.5-0.3418-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5c1.8917-0.0024 3.4392-1.5075 3.4941-3.3984l0.0059 0.0039c0.000222-0.03496-0.00021-0.0705 0-0.10547 0.01427-2.3762 0-4.7806 0-7.166 0-3.5324 4.36 1.026 5 1.666 0-1.7069 0.04055-7-4.4395-7z" fill="#fff"/>
 </svg>

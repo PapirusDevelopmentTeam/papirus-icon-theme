@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="24" viewBox="0 0 24 24" height="24" version="1.1" id="svg6530">
-    <metadata id="metadata6535">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path10767" style="color:#bebebe;opacity:0.35;fill:#5294e2;fill-opacity:1" d="M 5.5,4 C 5.223,4 5,4.22301 5,4.50001 l 0,0.5 -2,-0.002 0,-2.6e-4 -2e-5,14.502 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 2e-5,-14.501 -0.50002,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.50001 -0.5,-0.50001 z"/>
-    <path id="path10769" style="color:#bebebe;fill:#5294e2;fill-opacity:1" d="m 3,17 0,2.5 C 3,19.777 3.223,20 3.5,20 l 6,0 C 9.777,20 10,19.777 10,19.5 L 10,17 Z"/>
-    <path id="path10811" d="m 17,4 c -2.77,0 -5,2.676 -5,6 l 5,0 z m 1,0 0,6 5,0 C 23,6.676 20.77,4 18,4 Z m -6,7 0,3 c 0,3.324 2.23,6 5,6 l 1,0 c 2.77,0 5,-2.676 5,-6 l 0,-3 -5,0 z" style="fill:#ffffff"/>
+<svg id="svg6530" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 24 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata6535">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path10767" opacity=".35" style="color:#bebebe" d="m5.5 4c-0.277 0-0.5 0.223-0.5 0.5v0.5l-2-0.002v-0.00026l-0.00002 14.502c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5l0.00002-14.501-0.50002 0.002h-1.5v-0.5c0-0.277-0.223-0.50001-0.5-0.50001z" fill="#5294e2"/>
+ <path id="path10769" style="color:#bebebe" fill="#5294e2" d="m3 17v2.5c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5v-2.5z"/>
+ <path id="path10811" fill="#fff" d="m17 4c-2.77 0-5 2.676-5 6h5zm1 0v6h5c0-3.324-2.23-6-5-6zm-6 7v3c0 3.324 2.23 6 5 6h1c2.77 0 5-2.676 5-6v-3h-5z"/>
 </svg>

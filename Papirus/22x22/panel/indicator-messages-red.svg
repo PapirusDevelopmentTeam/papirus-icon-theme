@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" height="22" version="1.1" id="svg6530">
-    <metadata id="metadata6535">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path10993" d="m 11,3 c 0.55228,0 1,0.44772 1,1 -2.9e-4,0.0333 -0.002,0.0665 -0.006,0.0996 C 14.2843,4.55843 16,6.5708 15.9999,9 l -1.4e-4,2 0,2.5 2,2 0,0.5 -2,0 -10,0 -2,0 0,-0.5 2,-2 0,-4.5 c 8e-5,-2.4292 1.7157,-4.4416 4.0059,-4.9004 -0.004,-0.0331 -0.006,-0.0663 -0.006,-0.0996 0,-0.55228 0.44772,-1 1,-1 z m 1.7284,14 c -0.35663,0.61771 -1.0152,0.99874 -1.7285,1 -0.71397,-5.6e-4 -1.3735,-0.38169 -1.7305,-1 z" style="fill:#5294e2;fill-opacity:1"/>
-    <rect id="rect10995" style="color:#bebebe;fill:none;enable-background:new" height="22" width="22" y="-1.4648437e-05" x="0"/>
+<svg id="svg6530" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 22 22" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata6535">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path10993" fill="#5294e2" d="m11 3c0.55228 0 1 0.44772 1 1-0.00029 0.0333-0.002 0.0665-0.006 0.0996 2.29 0.4588 4.006 2.4712 4.006 4.9004l-0.00014 2v2.5l2 2v0.5h-2-10-2v-0.5l2-2v-4.5c0.00008-2.4292 1.7157-4.4416 4.0059-4.9004-0.004-0.0331-0.006-0.0663-0.006-0.0996 0-0.55228 0.44772-1 1-1zm1.7284 14c-0.35663 0.61771-1.0152 0.99874-1.7285 1-0.71397-0.00056-1.3735-0.38169-1.7305-1z"/>
+ <rect id="rect10995" style="color:#bebebe;enable-background:new" height="22" width="22" y="-.000014648" x="0" fill="none"/>
 </svg>

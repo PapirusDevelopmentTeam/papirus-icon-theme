@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg6394" viewBox="0 0 16 16" height="16" width="16">
-    <defs id="defs6396">
-        <linearGradient gradientTransform="matrix(-0.40801424,2.7359005,1.4465395,0.18903615,2588.4859,828.26016)" osb:paint="solid" id="linearGradient19282">
-            <stop id="stop19284" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
-        </linearGradient>
-        <linearGradient gradientTransform="matrix(-2.7359006,0.40801425,-0.18903616,-1.4465395,-804.26018,-2564.486)" osb:paint="solid" id="linearGradient19282-3">
-            <stop id="stop19284-6" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
-        </linearGradient>
-        <linearGradient id="linearGradient19282-36" osb:paint="solid" gradientTransform="matrix(-2.73658,0.4081035,-0.1890831,-1.446856,-1254.4599,-3933.7766)">
-            <stop style="stop-color:#666666;stop-opacity:1;" offset="0" id="stop19284-7"/>
-        </linearGradient>
-    </defs>
-    <metadata id="metadata6399">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path3226" d="m 15.496197,0.99615212 a 0.50005012,0.50005012 0 0 0 -0.48828,0.46093698 c -0.39086,4.134066 -2.23642,6.800774 -5.1035105,8.9511719 l -2.32618,-2.3261719 c -0.12184,-0.62281 -0.27381,-1.262519 -0.5,-1.921875 -0.45294,-1.320382 -1.13901,-2.603708 -2.20507,-3.568359 -1.06607,-0.964652 -2.51717,-1.587891 -4.37304999,-1.587891 a 0.50005012,0.50005012 0 1 0 0,1 c 1.63797999,0 2.80509999,0.519248 3.70116999,1.330078 0.89607,0.81083 1.51533,1.936797 1.93164,3.150391 0.26588,0.77507 0.42687,1.565583 0.55078,2.335937 l -2.68359,2.6835939 3.5,3.5 3.5000005,-3.5 -0.35156,-0.351562 c 2.969,-2.2988069 4.94438,-5.2535869 5.35547,-9.6015629 a 0.50005012,0.50005012 0 0 0 -0.50782,-0.55468698 z" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"/>
+<svg id="svg6394" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata6399">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path3226" opacity=".5" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m15.496 0.99615a0.50005 0.50005 0 0 0 -0.48828 0.46094c-0.39086 4.1341-2.2364 6.8008-5.1035 8.9512l-2.3262-2.3262c-0.12184-0.62281-0.27381-1.2625-0.5-1.9219-0.45294-1.3204-1.139-2.6037-2.2051-3.5684-1.0661-0.96465-2.5172-1.5879-4.373-1.5879a0.50005 0.50005 0 1 0 0 1c1.638 0 2.8051 0.51925 3.7012 1.3301 0.89607 0.81083 1.5153 1.9368 1.9316 3.1504 0.26588 0.77507 0.42687 1.5656 0.55078 2.3359l-2.6836 2.6836 3.5 3.5 3.5-3.5-0.35156-0.35156c2.969-2.2988 4.9444-5.2536 5.3555-9.6016a0.50005 0.50005 0 0 0 -0.50782 -0.55469z"/>
 </svg>

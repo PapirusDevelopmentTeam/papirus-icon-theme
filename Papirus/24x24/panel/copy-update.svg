@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg2" x="0px" y="0px" version="1.1" width="24px" viewBox="0 0 24 24" height="24px" xml:space="preserve" enable-background="new 0 0 24 24">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" xml:space="preserve" viewBox="0 0 24 24" width="24px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" height="24px" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <metadata id="metadata14">
         <rdf:RDF>
             <cc:Work rdf:about="">
@@ -10,6 +10,6 @@
             </cc:Work>
         </rdf:RDF>
     </metadata>
-    <path d="m 20.635686,3.0254965 -0.621022,0.7539269 a 3.0001071,3.0001071 0 0 1 0.474017,0.5508197 L 21.000699,3.3517081 20.635686,3.0254965 Z M 6.0001639,7.5002562 2.0000211,11.000381 l 4.3751562,-0.625022 1.625058,9.625343 3.3931207,-2.301082 9.607343,2.8011 -3.000107,-7.500267 -2.000071,-1.40005 -5.252188,4.49216 L 7.5002175,8.0002741 6.0001639,7.5002562 Z m 10.2073641,0.9004322 -1.189042,1.4434515 1.982071,1.1562411 1.047037,-2.0020713 a 3.0001071,3.0001071 0 0 1 -0.047,0.002 3.0001071,3.0001071 0 0 1 -1.793064,-0.5996214 z m -3.207114,1.6286586 -3.000107,0.971034 1.000035,3.000107 4.000143,-3.000107 -2.000071,-0.971034 z" id="path6" style="fill:#ffffff"/>
-    <path style="color:#000000;clip-rule:evenodd;fill:#5294e2;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;enable-background:accumulate;fill-opacity:1" d="m 19.999577,6.0000354 a 1.9999878,1.9999878 0 0 1 -3.999976,0 1.9999878,1.9999878 0 1 1 3.999976,0 z" id="path8"/>
+    <path id="path6" fill="#fff" d="m20.636 3.0255-0.62102 0.75393a3.0001 3.0001 0 0 1 0.47402 0.55082l0.512-0.9785-0.365-0.3262zm-14.636 4.4748-4.0002 3.4997l4.3752-0.62502 1.6251 9.6253 3.3931-2.3011 9.6073 2.8011-3.0001-7.5003-2.0001-1.4-5.2522 4.4922-3.2488-8.0917-1.5-0.5zm10.207 0.90043-1.189 1.4435 1.9821 1.1562 1.047-2.0021a3.0001 3.0001 0 0 1 -0.047 0.002 3.0001 3.0001 0 0 1 -1.7931 -0.59962zm-3.2071 1.6287-3.0001 0.97103 1 3.0001 4.0001-3.0001-2.0001-0.97103z"/>
+    <path id="path8" style="color:#000000;enable-background:accumulate;image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m20 6a2 2 0 0 1 -4 0 2 2 0 1 1 4 0z" clip-rule="evenodd" fill="#5294e2"/>
 </svg>

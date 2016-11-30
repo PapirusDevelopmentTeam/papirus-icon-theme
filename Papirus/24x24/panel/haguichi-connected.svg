@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 24 24" version="1.1" width="24" height="24">
-    <metadata id="metadata14">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4545" style="display:inline;fill:#ffffff;fill-opacity:1;enable-background:new" transform="matrix(0.08511331,0,0,0.08333333,20.150169,-1.4999991)">
-        <path style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" d="m -89.59693,258 64.33449,0 -82.78595,-89.92394 -38.87241,27.49384 z" id="rect4985-67"/>
-        <path style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" d="m -89.59693,66 64.33449,0 -88.40307,96 -33.14402,33.68752 L -178,162 Z" id="rect4985-6-7"/>
-    </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="24" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata14">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4545" style="enable-background:new" transform="matrix(.085113 0 0 .083333 20.15 -1.5)" fill="#fff">
+  <path id="rect4985-67" style="color:#000000;enable-background:new" d="m-89.597 258h64.334l-82.786-89.924-38.872 27.494z"/>
+  <path id="rect4985-6-7" style="color:#000000;enable-background:new" d="m-89.597 66h64.334l-88.403 96-33.144 33.688-31.19-33.69z"/>
+ </g>
 </svg>

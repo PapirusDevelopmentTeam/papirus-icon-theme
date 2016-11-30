@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-    <g transform="translate(0,-1030.8622)">
-        <path d="m 9 1046.86 -2 2 c -1 1 -1 1 0 1 l 8 0 c 1 0 1 0 0 -1 l -2 -2 0 -1 -4 0 z" style="fill:#ffffff;fill-opacity:1;stroke:none"/>
-        <path d="m 5 1033.86 c -1.108 0 -2 0.892 -2 2 l 0 9 c 0 1.108 0.892 2 2 2 l 12 0 c 1.108 0 2 -0.892 2 -2 l 0 -9 c 0 -1.108 -0.892 -2 -2 -2 l -12 0 z m 0 2 12 0 0 9 -12 0 0 -9 z" style="fill:#ffffff;fill-opacity:1;stroke:none"/>
-        <g transform="translate(0.0534055,0)" style="fill:#ffffff;fill-opacity:1;stroke:none">
-            <path d="m 8.543 1037.17 4.807 0 0 0.927 -2.487 5.452 -1.602 0 2.354 -5.17 -3.072 0 0 -1.209 z"/>
-        </g>
-    </g>
+ <g fill="#fff" transform="translate(0 -1030.9)">
+  <path d="m9 1046.9-2 2c-1 1-1 1 0 1h8c1 0 1 0 0-1l-2-2v-1h-4z"/>
+  <path d="m5 1033.9c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2h-12zm0 2h12v9h-12v-9z"/>
+  <g transform="translate(.053406)">
+   <path d="m8.543 1037.2h4.807v0.927l-2.487 5.452h-1.602l2.354-5.17h-3.072v-1.209z"/>
+  </g>
+ </g>
 </svg>

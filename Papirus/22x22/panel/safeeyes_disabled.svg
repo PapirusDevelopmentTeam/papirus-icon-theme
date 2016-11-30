@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="22" height="22" id="svg2817">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path5104" d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.428053 19 18.993652 15.438232 19 11.011719 C 19.000006 11.007773 19 11.003947 19 11 C 19 6.568 15.432 3 11 3 z M 11.087891 5 A 6 6 0 0 1 15.242188 6.7578125 A 6 6 0 0 1 15.242188 15.242188 A 6 6 0 0 1 6.7578125 15.242188 A 6 6 0 0 1 6.7578125 6.7578125 A 6 6 0 0 1 11.087891 5 z M 11 6 L 11 11 L 16 11.007812 L 16 11 C 16 8.2267316 13.773268 6 11 6 z M 7 10 A 1 1 0 0 0 6 11 A 1 1 0 0 0 7 12 A 1 1 0 0 0 8 11 A 1 1 0 0 0 7 10 z M 11 14 A 1 1 0 0 0 10 15 A 1 1 0 0 0 11 16 A 1 1 0 0 0 12 15 A 1 1 0 0 0 11 14 z " style="fill:#ffffff;fill-opacity:1;opacity:0.3"/>
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path5104" opacity=".3" d="m11 3c-4.432 0-8 3.568-8 8s3.568 8 8 8c4.428 0 7.994-3.562 8-7.988v-0.012c0-4.432-3.568-8-8-8zm0.088 2a6 6 0 0 1 4.154 1.7578 6 6 0 0 1 0 8.4842 6 6 0 0 1 -8.4842 0 6 6 0 0 1 0 -8.4842 6 6 0 0 1 4.3302 -1.7578zm-0.088 1v5l5 0.008v-0.008c0-2.7733-2.227-5-5-5zm-4 4a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm4 4a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1z" fill="#fff"/>
 </svg>

@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="24" height="24" id="svg2817">
-    <defs id="defs429">
-        <linearGradient id="linearGradient5606" osb:paint="solid">
-            <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
-        </linearGradient>
-    </defs>
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g transform="translate(1,1)" id="g4973">
-        <path style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 7,3 A 4,4 0 0 0 6.4628906,3.0410156 3,3 0 0 1 9,6 3,3 0 0 1 8.6015625,7.4882812 L 8.7070312,7.3828125 11,9.6757812 13.292969,7.3828125 14.707031,8.796875 12.414062,11.089844 14.707031,13.382812 13.292969,14.796875 11,12.503906 8.7070312,14.796875 7.2929688,13.382812 9.5859375,11.089844 7.2929688,8.796875 7.4921875,8.5976562 A 3,3 0 0 1 6,9 3,3 0 0 1 3.0390625,6.4785156 4,4 0 0 0 3,7 4,4 0 0 0 4.1152344,9.7695312 7,7 0 0 0 4,11 7,7 0 0 0 11,18 7,7 0 0 0 12.238281,17.886719 4,4 0 0 0 15,19 4,4 0 0 0 19,15 4,4 0 0 0 17.884766,12.230469 7,7 0 0 0 18,11 7,7 0 0 0 11,4 7,7 0 0 0 9.7617188,4.1132812 4,4 0 0 0 7,3 Z" id="path5402"/>
-        <circle style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4559" cx="6" cy="6" r="2"/>
-    </g>
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4973" transform="translate(1,1)">
+  <path id="path5402" d="m7 3a4 4 0 0 0 -0.5371 0.041 3 3 0 0 1 2.5371 2.959 3 3 0 0 1 -0.3984 1.4883l0.1054-0.1055 2.293 2.293 2.293-2.293 1.414 1.4141-2.293 2.2931 2.293 2.293-1.414 1.414-2.293-2.293-2.293 2.293-1.414-1.414 2.2929-2.293-2.2929-2.2931 0.1992-0.1992a3 3 0 0 1 -1.4922 0.4023 3 3 0 0 1 -2.9609 -2.5215 4 4 0 0 0 -0.0391 0.5215 4 4 0 0 0 1.1152 2.7695 7 7 0 0 0 -0.1152 1.2305 7 7 0 0 0 7 7 7 7 0 0 0 1.238 -0.113 4 4 0 0 0 2.762 1.113 4 4 0 0 0 4 -4 4 4 0 0 0 -1.115 -2.77 7 7 0 0 0 0.115 -1.23 7 7 0 0 0 -7 -7 7 7 0 0 0 -1.2383 0.1133 4 4 0 0 0 -2.7617 -1.1133z" fill="#fff"/>
+  <circle id="path4559" cx="6" cy="6" r="2" fill="#5294e2"/>
+ </g>
 </svg>

@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" height="22" style="enable-background:new" id="svg7384">
-    <metadata id="metadata90">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <title id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-    <g transform="translate(3,-3)" id="g4136">
-        <path style="color:#bebebe;opacity:0.3;fill:#ffffff;fill-opacity:1" d="m 7.9999999,6 c -1.6621,0 -3,1.3381001 -3,3.0000001 l 0,5.0019999 c 0,1.6619 1.3379,2.998 3,2.998 C 9.6620999,17 11,15.6638 11,14.002 L 11,9.0000001 C 11,7.3381001 9.6620999,6 7.9999999,6 Z" id="path4186"/>
-        <path id="path4150" d="m 2,13.00005 0,0.998438 C 2.00001,16.96499 4,20 7,20 l 0,2 2,0 0,-2 c 3,0 5,-3.03511 5,-6.001512 L 14,13 l -2,0 0,0.998488 C 12,16.232569 10.2334,18 8,18 5.7666,18 4,16.232569 4,13.998488 L 4,13 2,13 Z" style="color:#bebebe;opacity:1;fill:#ffffff;fill-opacity:1"/>
-    </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4136" fill="#fff" transform="translate(3,-3)">
+  <path id="path4186" opacity=".3" style="color:#bebebe" d="m8 6c-1.6621 0-3 1.3381-3 3v5.002c0 1.6619 1.3379 2.998 3 2.998s3-1.336 3-2.998v-5.002c0-1.6619-1.3379-3-3-3z"/>
+  <path id="path4150" style="color:#bebebe" d="m2 13v0.99844c0 2.967 2 6.002 5 6.002v2h2v-2c3 0 5-3.0351 5-6.0015v-0.998h-2v0.99849c0 2.235-1.767 4.002-4 4.002-2.2334 0-4-1.767-4-4.002v-0.998h-2z"/>
+ </g>
 </svg>

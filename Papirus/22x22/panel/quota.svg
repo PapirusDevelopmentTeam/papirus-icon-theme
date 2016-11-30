@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="22" height="22" style="enable-background:new" id="svg7384" inkscape:version="0.91 r13725" sodipodi:docname="quota.svg">
-    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="809" inkscape:window-height="480" id="namedview7" showgrid="false" inkscape:zoom="10.727273" inkscape:cx="11" inkscape:cy="11" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg7384"/>
-    <metadata id="metadata90">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <title id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-    <path id="path4143" d="M 5.1660156 3 C 3.9993489 3 4 4.1425781 4 4.1425781 L 4 17.857422 C 4 17.857422 3.9993489 19 5.1660156 19 L 16.833984 19 C 16.833984 19 18 19.000279 18 17.857422 L 18 4.1425781 C 18 4.1425781 18.000651 3 16.833984 3 L 5.1660156 3 z M 11 5 C 13.761375 5 16 7.238625 16 10 C 16 12.761375 13.761375 15 11 15 L 6 15 L 6 10 C 6 7.238625 8.238625 5 11 5 z M 11 7 C 9.3431 7 8 8.343145 8 10 C 8 11.656855 9.343145 13 11 13 C 12.656855 13 14 11.656855 14 10 C 14 8.343145 12.656855 7 11 7 z " style="opacity:1;fill:#ffffff;fill-opacity:1"/>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path4143" d="m5.166 3c-1.1667 0-1.166 1.1426-1.166 1.1426v13.714s-0.0007 1.143 1.166 1.143h11.668s1.166 0 1.166-1.143v-13.714c0-0.0004 0.001-1.143-1.166-1.143h-11.668zm5.834 2c2.761 0 5 2.2386 5 5 0 2.761-2.239 5-5 5h-5v-5c0-2.7614 2.2386-5 5-5zm0 2c-1.6569 0-3 1.3431-3 3 0 1.657 1.3431 3 3 3 1.657 0 3-1.343 3-3 0-1.6569-1.343-3-3-3z" fill="#fff"/>
 </svg>

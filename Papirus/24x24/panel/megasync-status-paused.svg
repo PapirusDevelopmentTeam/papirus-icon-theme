@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" height="24" viewBox="0 0 6.7733335 6.7733335" width="24">
-    <metadata id="metadata14">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g transform="translate(0.28222227,0.28222227)" id="g4135">
-        <path d="m 11,3 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 4.418,0 8,-3.582 8,-8 C 19,6.582 15.418,3 11,3 Z M 7,6 15,6 15,16 7,16 7,6 Z" transform="scale(0.28222222,0.28222222)" style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path4"/>
-        <path d="m 2.258,1.976 0.564,0 0,2.258 -0.564,0 z" style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path6"/>
-        <path d="m 3.387,1.976 0.564,0 0,2.258 -0.564,0 z" style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path8"/>
-    </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 6.7733335 6.7733335" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata14">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4135" fill="#fff" transform="translate(.28222 .28222)">
+  <path id="path4" opacity=".3" d="m11 3c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm-4 3h8v10h-8v-10z" transform="scale(.28222)"/>
+  <path id="path6" d="m2.258 1.976h0.564v2.258h-0.564z"/>
+  <path id="path8" d="m3.387 1.976h0.564v2.258h-0.564z"/>
+ </g>
 </svg>

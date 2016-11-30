@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 24 24" version="1.1" width="22" height="22">
-    <metadata id="metadata14">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g style="fill:#ffffff;fill-opacity:1;opacity:1" id="g4" transform="matrix(1.0909091,0,0,1.0909091,-1.0907458,-1122.9818)">
-        <path id="path6" transform="translate(0,1028.4)" d="M 7,4 A 2.0002,2.0002 0 0 0 5.0117,5.7793 l -1,8.9997 A 2.0002,2.0002 0 0 0 6,17 l 12,0 a 2.0002,2.0002 0 0 0 1.988,-2.221 l -1,-8.9997 A 2.0002,2.0002 0 0 0 17,4 L 7,4 Z m 4.986,2 a 0.50005,0.50005 0 0 1 0.496,0.3477 l 0.87,2.7148 2.851,0 a 0.50005,0.50005 0 0 1 0.293,0.9063 l -2.314,1.6662 0.88,2.711 a 0.50005,0.50005 0 0 1 -0.769,0.556 L 11.992,13.219 9.6875,14.895 A 0.50005,0.50005 0 0 1 8.918,14.332 L 9.8086,11.625 7.5039,9.9492 A 0.50005,0.50005 0 0 1 7.7988,9.0449 L 10.65,9.0586 11.531,6.3457 A 0.50005,0.50005 0 0 1 11.986,6 Z" style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto"/>
-        <path id="path8" transform="translate(0,1028.4)" d="M 4,17.203 4,17.75 C 4,18.962 5.0381,20 6.25,20 l 11.5,0 C 18.962,20 20,18.962 20,17.75 l 0,-0.547 C 19.468,17.688 18.775,18 18,18 L 6,18 C 5.2254,18 4.5316,17.688 4,17.203 Z" style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto"/>
-    </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="22" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata14">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4" transform="matrix(1.0909 0 0 1.0909 -1.0907 -1123)" fill="#fff">
+  <path id="path6" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m7 4a2.0002 2.0002 0 0 0 -1.9883 1.7793l-1 8.9997a2.0002 2.0002 0 0 0 1.9883 2.221h12a2.0002 2.0002 0 0 0 1.988 -2.221l-1-8.9997a2.0002 2.0002 0 0 0 -1.988 -1.7793h-10zm4.986 2a0.50005 0.50005 0 0 1 0.496 0.3477l0.87 2.7148h2.851a0.50005 0.50005 0 0 1 0.293 0.9063l-2.314 1.6662 0.88 2.711a0.50005 0.50005 0 0 1 -0.769 0.556l-2.301-1.683-2.3045 1.676a0.50005 0.50005 0 0 1 -0.7695 -0.563l0.8906-2.707-2.3047-1.6758a0.50005 0.50005 0 0 1 0.2949 -0.9043l2.8512 0.0137 0.881-2.7129a0.50005 0.50005 0 0 1 0.455 -0.3457z" fill-rule="evenodd" transform="translate(0,1028.4)"/>
+  <path id="path8" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m4 17.203v0.547c0 1.212 1.0381 2.25 2.25 2.25h11.5c1.212 0 2.25-1.038 2.25-2.25v-0.547c-0.532 0.485-1.225 0.797-2 0.797h-12c-0.7746 0-1.4684-0.312-2-0.797z" transform="translate(0,1028.4)"/>
+ </g>
 </svg>

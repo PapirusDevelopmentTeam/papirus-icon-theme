@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
-    <metadata id="metadata90">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <title id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-    <defs id="defs7386">
-        <linearGradient osb:paint="solid" id="linearGradient5606">
-            <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop5608"/>
-        </linearGradient>
-        <filter style="color-interpolation-filters:sRGB" id="filter7554">
-            <feBlend mode="darken" in2="BackgroundImage" id="feBlend7556"/>
-        </filter>
-    </defs>
-    <g transform="translate(-504.00018,-200)" style="display:inline" id="layer1">
-        <path id="rect4152" d="m 504.00018,206 16,0 0,16 -16,0 z" style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-        <path id="path8757" d="m 515.00018,203 -5,5 2,0 0,6 -2,0 5,5 5,-5 -2,0 0,-6 2,0 z" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"/>
-    </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-504 -200)">
+  <path id="rect4152" opacity="0" d="m504 206h16v16h-16z"/>
+  <path id="path8757" d="m515 203-5 5h2v6h-2l5 5 5-5h-2v-6h2z" fill="#fff"/>
+ </g>
 </svg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 1771.6469 1771.6467" version="1.1" width="24" height="24" xml:space="preserve" style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="image-rendering:optimizeQuality;text-rendering:geometricPrecision;shape-rendering:geometricPrecision" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" xml:space="preserve" viewBox="0 0 1771.6469 1771.6467" width="24" version="1.1" clip-rule="evenodd" xmlns:cc="http://creativecommons.org/ns#" height="24" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <metadata id="metadata20">
         <rdf:RDF>
             <cc:Work rdf:about="">
@@ -20,8 +20,8 @@
    ]]>
         </style>
     </defs>
-    <g transform="translate(73.818607,73.818559)" id="g4135">
-        <path style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd" d="m 8.5761719,3 5.7167971,10.064453 5.443359,0 -2.890625,-5.0722655 A 3.0000154,3.0000154 0 0 1 14,5 3.0000154,3.0000154 0 0 1 14.345703,3.6074219 L 14,3 8.5761719,3 Z M 7.7128906,3.5078125 2,13.599609 4.7148438,18.488281 10.470703,8.3613281 7.7128906,3.5078125 Z M 8.3808594,14.064453 5.5761719,19 17,19 l 2.705078,-4.935547 -11.3242186,0 z" transform="scale(73.818621,73.818621)" id="path10"/>
-        <path style="color:#000000;fill:#5294e2;fill-opacity:1;fill-rule:nonzero" d="m 1402.5772,369.12374 a 147.64,147.64 0 0 1 -295.27,0 147.64,147.64 0 1 1 295.27,0 z" id="path16"/>
+    <g id="g4135" transform="translate(73.819 73.819)">
+        <path id="path10" d="m8.5762 3 5.7168 10.064h5.4434l-2.8906-5.0723a3 3 0 0 1 -2.845 -2.9917 3 3 0 0 1 0.346 -1.3926l-0.346-0.6074h-5.4238zm-0.8633 0.5078-5.7129 10.092 2.7148 4.888 5.7562-10.127-2.7581-4.8532zm0.668 10.556-2.8047 4.936h11.424l2.7051-4.9355h-11.324z" fill-rule="evenodd" transform="scale(73.819)" fill="#fff"/>
+        <path id="path16" style="color:#000000" d="m1402.6 369.12a147.64 147.64 0 0 1 -295.27 0 147.64 147.64 0 1 1 295.27 0z" fill-rule="nonzero" fill="#5294e2"/>
     </g>
 </svg>

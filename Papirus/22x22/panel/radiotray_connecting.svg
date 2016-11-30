@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg3049" height="22" width="22">
-    <metadata id="metadata3054">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g transform="translate(-421.71429,-525.79074)" id="layer1">
-        <path id="path4151" transform="translate(421.71429,525.79074)" d="M 3.1425781 4 C 2.5094281 4 2 4.5344187 2 5.1992188 L 2 16.800781 C 2 17.465581 2.5094281 18 3.1425781 18 L 18.857422 18 C 19.490572 18 20 17.465581 20 16.800781 L 20 5.1992188 C 20 4.5344187 19.490572 4 18.857422 4 L 3.1425781 4 z M 8 7 C 10.20913 7 12 8.79087 12 11 C 12 13.20913 10.20913 15 8 15 C 5.79087 15 4 13.20913 4 11 C 4 8.79087 5.79087 7 8 7 z M 13 7 L 18 7 L 18 8 L 13 8 L 13 7 z M 8 8 C 6.34314 8 5 9.34315 5 11 C 5 12.65685 6.34314 14 8 14 C 9.65685 14 11 12.65685 11 11 C 11 9.34315 9.65685 8 8 8 z M 13 10 L 18 10 L 18 11 L 13 11 L 13 10 z M 13 13 L 18 13 L 18 14 L 13 14 L 13 13 z " style="opacity:1000002;fill:#ffffff;fill-opacity:1;stroke:none"/>
-    </g>
+<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3054">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-421.71 -525.79)">
+  <path id="path4151" opacity="1e6" d="m3.1426 4c-0.6332 0-1.1426 0.5344-1.1426 1.1992v11.602c0 0.665 0.5094 1.199 1.1426 1.199h15.714c0.634 0 1.143-0.534 1.143-1.199v-11.602c0-0.6646-0.509-1.199-1.143-1.199h-15.714zm4.8574 3c2.209 0 4 1.7909 4 4 0 2.209-1.791 4-4 4-2.2091 0-4-1.791-4-4 0-2.2091 1.7909-4 4-4zm5 0h5v1h-5v-1zm-5 1c-1.6569 0-3 1.3432-3 3 0 1.657 1.3431 3 3 3 1.6568 0 3-1.343 3-3 0-1.6568-1.3432-3-3-3zm5 2h5v1h-5v-1zm0 3h5v1h-5v-1z" transform="translate(421.71 525.79)" fill="#fff"/>
+ </g>
 </svg>

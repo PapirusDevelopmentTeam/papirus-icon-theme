@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 22 22"
-   id="svg2"
-   version="1.1">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs18" />
-  <path
-     style="opacity:1;fill:#e74c3c;fill-opacity:1"
-     d="m 11,3 c -2.2091257,-5.5e-6 -3.9999834,1.7908522 -4,4 1.66e-5,2.2091478 1.7908743,4.000006 4,4 2.209126,6e-6 3.999983,-1.7908522 4,-4 -1.7e-5,-2.2091478 -1.790874,-4.0000055 -4,-4 z"
-     id="path4307" />
-  <path
-     style="opacity:1;fill:#e74c3c;fill-opacity:1"
-     d="M 11 12 C 6.9353042 12.0048 3.5080979 15.003572 3 19 L 11 19 L 19 19 C 18.491902 15.003572 15.064695 12.0048 11 12 z "
-     id="path4150" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 22 22" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata20">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path4307" d="m11 3c-2.2091-0.0000055-4 1.7909-4 4 0.0000166 2.2091 1.7909 4 4 4 2.2091 0.000006 4-1.7909 4-4-0.000017-2.2091-1.7909-4-4-4z" fill="#e74c3c"/>
+ <path id="path4150" d="m11 12c-4.0647 0.005-7.4919 3.004-8 7h8 8c-0.508-3.996-3.935-6.995-8-7z" fill="#e74c3c"/>
 </svg>

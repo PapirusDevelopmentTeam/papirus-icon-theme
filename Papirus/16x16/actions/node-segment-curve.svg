@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg6394" viewBox="0 0 16 16" height="16" width="16">
-    <defs id="defs6396">
-        <linearGradient gradientTransform="matrix(-0.40801424,2.7359005,1.4465395,0.18903615,2588.4859,828.26016)" osb:paint="solid" id="linearGradient19282">
-            <stop id="stop19284" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
-        </linearGradient>
-        <linearGradient gradientTransform="matrix(-2.7359006,0.40801425,-0.18903616,-1.4465395,-804.26018,-2564.486)" osb:paint="solid" id="linearGradient19282-3">
-            <stop id="stop19284-6" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
-        </linearGradient>
-        <linearGradient id="linearGradient19282-36" osb:paint="solid" gradientTransform="matrix(-2.73658,0.4081035,-0.1890831,-1.446856,-1254.4599,-3933.7766)">
-            <stop style="stop-color:#666666;stop-opacity:1;" offset="0" id="stop19284-7"/>
-        </linearGradient>
-    </defs>
-    <metadata id="metadata6399">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect7721" d="m 11,0 0,2.376953 C 8.5629901,2.742626 6.5520698,3.663134 5.0585898,5.126953 3.5658798,6.590038 2.6136298,8.574045 2.2343798,11 L -1.5e-7,11 l 0,5 4.99999995,0 0,-5 -1.7519499,0 C 3.6117699,8.826293 4.4663899,7.105625 5.7578098,5.839844 7.0514001,4.571944 8.8054602,3.742506 11,3.390625 L 11,5 16,5 16,0 11,0 Z" style="opacity:0.5;fill:#000000;fill-opacity:1"/>
+<svg id="svg6394" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata6399">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="rect7721" opacity=".5" d="m11 0v2.377c-2.437 0.3656-4.4479 1.2861-5.9414 2.75-1.4927 1.463-2.445 3.447-2.8242 5.873h-2.2344v5h5v-5h-1.7519c0.3637-2.1737 1.2183-3.8944 2.5097-5.1602 1.2936-1.2679 3.0477-2.0973 5.2422-2.4492v1.6094h5v-5h-5z"/>
 </svg>
