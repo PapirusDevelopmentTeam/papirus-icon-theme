@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata90">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <title id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-    <g id="layer12" transform="translate(-425 119)">
-        <path id="path4330" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" d="m436-114c-1.6569 0-3 1.3432-3 3s1.3431 3 3 3 3-1.3432 3-3-1.3431-3-3-3zm0 7c-6.0002 0.003-6 4-6 4v1h12v-1s-0.00023-4.003-6-4z" fill="#e74c3c"/>
-    </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <path
+     style="opacity:1;fill:#e74c3c;fill-opacity:1"
+     d="m 11,3 c -2.2091257,-5.5e-6 -3.9999834,1.7908522 -4,4 1.66e-5,2.2091478 1.7908743,4.000006 4,4 2.209126,6e-6 3.999983,-1.7908522 4,-4 -1.7e-5,-2.2091478 -1.790874,-4.0000055 -4,-4 z"
+     id="path4307" />
+  <path
+     style="opacity:1;fill:#e74c3c;fill-opacity:1"
+     d="M 11 12 C 6.9353042 12.0048 3.5080979 15.003572 3 19 L 11 19 L 19 19 C 18.491902 15.003572 15.064695 12.0048 11 12 z "
+     id="path4150" />
 </svg>
