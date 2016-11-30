@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="audio-headphones.svg" inkscape:export-filename="/home/sam/source-symbolic.png" inkscape:export-xdpi="270" inkscape:export-ydpi="270" height="16" id="svg7384" style="enable-background:new" version="1.1" inkscape:version="0.91 r13725" width="16">
-    <sodipodi:namedview inkscape:bbox-nodes="true" inkscape:bbox-paths="false" bordercolor="#666666" borderlayer="false" borderopacity="1" inkscape:current-layer="layer10" inkscape:cx="-150.50021" inkscape:cy="26.001036" gridtolerance="10" inkscape:guide-bbox="true" guidetolerance="10" id="namedview88" inkscape:object-nodes="true" inkscape:object-paths="true" objecttolerance="10" pagecolor="#f7f7f7" inkscape:pageopacity="1" inkscape:pageshadow="2" showborder="true" showgrid="false" showguides="true" inkscape:showpageshadow="false" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="false" inkscape:snap-bbox-midpoints="true" inkscape:snap-center="false" inkscape:snap-global="true" inkscape:snap-grids="true" inkscape:snap-intersection-paths="true" inkscape:snap-midpoints="true" inkscape:snap-nodes="true" inkscape:snap-object-midpoints="true" inkscape:snap-others="true" inkscape:snap-page="false" inkscape:snap-smooth-nodes="true" inkscape:snap-to-guides="true" inkscape:window-height="847" inkscape:window-maximized="1" inkscape:window-width="1600" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1">
-        <inkscape:grid color="#ffffff" dotted="false" empcolor="#0800ff" empopacity="0.4627451" empspacing="4" enabled="true" id="grid4866" opacity="0.16470588" originx="-264.00041" originy="-336.0033" snapvisiblegridlinesonly="true" spacingx="0.25px" spacingy="0.25px" type="xygrid" visible="true"/>
-    </sodipodi:namedview>
-    <metadata id="metadata90">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <title id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-    <defs id="defs7386">
-        <linearGradient id="linearGradient5606" osb:paint="solid">
-            <stop id="stop5608" offset="0" style="stop-color:#ffffff;stop-opacity:1;"/>
-        </linearGradient>
-        <filter inkscape:collect="always" id="filter7554" style="color-interpolation-filters:sRGB">
-            <feBlend inkscape:collect="always" id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-        </filter>
-    </defs>
-    <g inkscape:groupmode="layer" id="layer10" inkscape:label="devices" style="display:inline;filter:url(#filter7554)" transform="translate(-505.00061,119.0033)">
-        <path inkscape:connector-curvature="0" d="m 513.0002,-117.0033 c -3.324,0 -6,2.676 -6,6 l 0,4 c 0,0 0,2 2,2 l 2,0 0,-5 -2,0 0,-1 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 l 0,1 -2,0 0,5 2,0 c 0,0 2,0 2,-2 l 0,-1 0,-0.5 0,-2.5 c 0,-3.324 -2.676,-6 -6,-6 z" id="rect10440" sodipodi:nodetypes="sscscccsssccccsccss" style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-    </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7386">
+  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer10" filter="url(#filter7554)" transform="translate(-505 119)">
+  <path id="rect10440" opacity="1" fill="#d3dae3" d="m513-117c-3.324 0-6 2.676-6 6v4s0 2 2 2h2v-5h-2v-1c0-2.216 1.784-4 4-4s4 1.784 4 4v1h-2v5h2s2 0 2-2v-4c0-3.324-2.676-6-6-6z"/>
+ </g>
 </svg>

@@ -10,12 +10,12 @@
  </metadata>
  <defs id="defs7386">
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle id="path4188" style="color:#000000;enable-background:accumulate" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
+   <circle id="path4188" style="color:#d3dae3;enable-background:accumulate" cy="26" cx="286" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
  <g id="layer2" transform="translate(-424,-422)">
-  <circle id="path4240" opacity="0" style="color:#000000;enable-background:accumulate" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10"/>
-  <circle id="path4242" opacity="0" style="color:#000000;enable-background:accumulate" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10"/>
-  <path id="path4155" d="m435 425a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm-4 4h2v0.006l0.002-0.002 1.998 2.996 2-3h2v8h-2v-4l-2 2-2-2v4h-2v-8z" fill="#fff"/>
+  <circle id="path4240" opacity="0" style="color:#d3dae3;enable-background:accumulate" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10"/>
+  <circle id="path4242" opacity="0" style="color:#d3dae3;enable-background:accumulate" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10"/>
+  <path id="path4155" d="m435 425a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm-4 4h2v0.006l0.002-0.002 1.998 2.996 2-3h2v8h-2v-4l-2 2-2-2v4h-2v-8z" fill="#d3dae3"/>
  </g>
 </svg>

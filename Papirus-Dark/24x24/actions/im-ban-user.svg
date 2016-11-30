@@ -1,23 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata90">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <title id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-    <g id="layer12" transform="translate(-425 119)">
-        <path id="path4330" style="color:#ffffff;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" d="m437-113c-1.6569 0-3 1.3432-3 3s1.3431 3 3 3 3-1.3432 3-3-1.3431-3-3-3zm0 7c-6.0002 0.003-6 4-6 4v1h12v-1s-0.00023-4.003-6-4z" fill="#e76e3c"/>
-    </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 24 24"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="im-ban-user.svg"
+   width="24"
+   height="24">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4136"
+     transform="translate(1,0.9997)">
+    <path
+       d="m 11,3 c -2.2091,-5.5e-6 -4,1.7909 -4,4 1.66e-5,2.2091 1.7909,4 4,4 2.2091,6e-6 4,-1.7909 4,-4 -1.7e-5,-2.2091 -1.7909,-4 -4,-4 z m 0,8.9873 c -4.028,0.005 -7.4965,3.017 -8,7.013 l 9.7129,0 c -1.034,-0.827 -1.713,-2.082 -1.713,-3.5 0,-1.403 0.665,-2.66 1.682,-3.487 -0.739,-0.015 -1.495,-0.024 -1.682,-0.026 z"
+       id="path4150"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#d3dae3" />
+    <path
+       d="M 15.5,12 A 3.5,3.5 0 0 0 12,15.5 3.5,3.5 0 0 0 15.5,19 3.5,3.5 0 0 0 19,15.5 3.5,3.5 0 0 0 15.5,12 Z m -1.414,1.379 1.414,1.414 1.414,-1.414 0.707,0.707 -1.414,1.414 1.414,1.414 -0.707,0.707 -1.414,-1.414 -1.414,1.414 -0.707,-0.707 1.414,-1.414 -1.414,-1.414 0.707,-0.707 z"
+       id="path4137"
+       inkscape:connector-curvature="0"
+       style="fill:#5294e2" />
+  </g>
 </svg>

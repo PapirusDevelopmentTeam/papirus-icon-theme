@@ -10,11 +10,11 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs7386">
-  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
    <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
   </filter>
  </defs>
  <g id="layer10" filter="url(#filter7554)" transform="translate(-465 119.03)">
-  <path id="path6384" opacity="1" d="m468-118.03c-2 0-2 2-2 2v9c0 2 2 2 2 2h10c2 0 2-2 2-2v-9s0-2-2-2zm3 3h5v5.5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5c0.17259 0 0.34568 0.0401 0.5 0.0937v-2.0937h-3v3.5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5c0.17259 0 0.34568 0.0401 0.5 0.0937v-2.0937z"/>
+  <path id="path6384" opacity="1" fill="#5c616c" d="m468-118.03c-2 0-2 2-2 2v9c0 2 2 2 2 2h10c2 0 2-2 2-2v-9s0-2-2-2zm3 3h5v5.5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5c0.17259 0 0.34568 0.0401 0.5 0.0937v-2.0937h-3v3.5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5c0.17259 0 0.34568 0.0401 0.5 0.0937v-2.0937z"/>
  </g>
 </svg>

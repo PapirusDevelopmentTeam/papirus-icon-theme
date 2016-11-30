@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 16 16">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs18" />
-  <path
-     id="path4150"
-     d="M 8,0 C 5.7908743,-5.5e-6 4.0000166,1.7908522 4,4 c 1.66e-5,2.2091478 1.7908743,4.000006 4,4 2.209126,6e-6 3.999983,-1.7908522 4,-4 C 11.999983,1.7908522 10.209126,-5.5e-6 8,0 Z M 8,8.987305 C 3.9720212,8.992105 0.5035081,12.003572 0,16 l 9.712891,0 C 8.678574,15.173381 8,13.917879 8,12.5 8,11.096525 8.66527,9.839825 9.681641,9.012696 8.943079,8.998161 8.187296,8.988709 8,8.987305 Z"
-     style="opacity:0.720000018;fill:#ffffff;fill-opacity:1" />
-  <path
-     id="path4213"
-     d="M 12.5,9 A 3.5,3.5 0 0 0 9,12.5 3.5,3.5 0 0 0 12.5,16 3.5,3.5 0 0 0 16,12.5 3.5,3.5 0 0 0 12.5,9 Z m 1.742188,1.464844 0.707031,0.707031 L 12.121094,14 11.414062,13.292969 10,11.878906 l 0.707031,-0.707031 1.414063,1.414063 2.121094,-2.121094 z"
-     style="opacity:0.72;fill:#ffffff;fill-opacity:1" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata20">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path4150" opacity="1" fill="#d3dae3" d="m8 0c-2.2091-0.0000055-4 1.7909-4 4 0.0000166 2.2091 1.7909 4 4 4 2.2091 0.000006 4-1.7909 4-4s-1.791-4-4-4zm0 8.9873c-4.028 0.0048-7.4965 3.0167-8 7.0127h9.7129c-1.0343-0.827-1.7129-2.082-1.7129-3.5 0-1.403 0.6653-2.6602 1.6816-3.4873-0.7385-0.0145-1.4943-0.024-1.6816-0.0254z"/>
+ <path id="path4213" opacity="1" fill="#d3dae3" d="m12.5 9a3.5 3.5 0 0 0 -3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5 -3.5 3.5 3.5 0 0 0 -3.5 -3.5zm1.7422 1.4648 0.70703 0.70703l-2.828 2.828-0.707-0.707-1.414-1.414 0.70703-0.70703 1.4141 1.4141 2.1211-2.1211z"/>
 </svg>

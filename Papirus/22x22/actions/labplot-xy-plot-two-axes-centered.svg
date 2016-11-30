@@ -1,18 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3760" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3762">
- </defs>
- <metadata id="metadata3765">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-551.29 -607.65)">
-  <path id="rect3343" opacity="1" class="ColorScheme-Text" transform="translate(551.29 607.65)" d="m18 3v2.4062l-4 3.6719v1.9219h-3v-7h-1v7h-7v1h7v3.242l-3 2.754v0.004h-4v1h4.3848l2.6152-2.4v2.4h1v-3.318l4-3.672v-0.01h3v-1h-3v-1.4824l4-3.6719v-2.8457h-1zm-7 9h2.531l-2.531 2.324v-2.324z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3760"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="labplot-xy-plot-two-axes-centered.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="704"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3760" />
+  <defs
+     id="defs3762" />
+  <metadata
+     id="metadata3765">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-551.29 -607.65)">
+    <path
+       id="rect3343"
+       opacity="1"
+       class="ColorScheme-Text"
+       transform="translate(551.29 607.65)"
+       d="m18 3v2.4062l-4 3.6719v1.9219h-3v-7h-1v7h-7v1h7v3.242l-3 2.754v0.004h-4v1h4.3848l2.6152-2.4v2.4h1v-3.318l4-3.672v-0.01h3v-1h-3v-1.4824l4-3.6719v-2.8457h-1zm-7 9h2.531l-2.531 2.324v-2.324z"
+       style="fill:#5c616c;fill-opacity:1" />
+  </g>
 </svg>
