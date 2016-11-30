@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata7">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(0 -1036.4)">
-  <path id="path5121" opacity="1" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m7.0273 1037.4a1.0001 1.0001 0 0 0 -1.0137 0.8359l-1.209 7.2559-0.83398-3.334a1.0001 1.0001 0 0 0 -0.9706 -0.7h-3v2h2.2188l1.8105 7.2422a1.0001 1.0001 0 0 0 1.957 -0.078l1.3672-8.2031 1.2051 3.375a1.0001 1.0001 0 0 0 1.8984 -0.049l0.5918-1.9746 1.002 3.0039a1.0001 1.0001 0 0 0 0.949 0.7h3v-2h-2.2793l-1.7715-5.3164a1.0001 1.0001 0 0 0 -1.9062 0.029l-0.625 2.0839-1.4766-4.1328a1.0001 1.0001 0 0 0 -0.91406 -0.664z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+  </defs>
+  <path 
+     style="fill:currentColor;opacity:1"
+     class="ColorScheme-Text"
+     d="M 7.0273438 1 A 1.0001 1.0001 0 0 0 6.0136719 1.8359375 L 4.8046875 9.0917969 L 3.9707031 5.7578125 A 1.0001 1.0001 0 0 0 3 5.0585938 L 0 5.0585938 L 0 7.0585938 L 2.21875 7.0585938 L 4.0292969 14.300781 A 1.0001 1.0001 0 0 0 5.9863281 14.222656 L 7.3535156 6.0195312 L 8.5585938 9.3945312 A 1.0001 1.0001 0 0 0 10.457031 9.3457031 L 11.048828 7.3710938 L 12.050781 10.375 A 1.0001 1.0001 0 0 0 13 11.074219 L 16 11.074219 L 16 9.0742188 L 13.720703 9.0742188 L 11.949219 3.7578125 A 1.0001 1.0001 0 0 0 10.042969 3.7871094 L 9.4179688 5.8710938 L 7.9414062 1.7382812 A 1.0001 1.0001 0 0 0 7.0273438 1.0742188 L 7.0273438 1 z "
+      />
 </svg>
