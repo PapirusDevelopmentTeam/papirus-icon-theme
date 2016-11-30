@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer9" transform="translate(-265 455)">
-  <path id="path3074" opacity="1" style="color:#000000;enable-background:accumulate" d="m273.03-453c-3.0344 0-5.7659 1.0782-8.0312 2.75l8.0312 8.75 7.9688-8.7812c-2.2566-1.6533-4.9577-2.7188-7.9688-2.7188z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+  </defs>
+  <path 
+     style="fill:currentColor;opacity:1"
+     class="ColorScheme-Text"
+     d="M 8.0292969 2 C 4.9948969 2 2.2633469 3.0782 -0.001953125 4.75 L 8.0292969 13.5 L 15.998047 4.71875 C 13.741447 3.06545 11.040397 2 8.0292969 2 z "
+      />
 </svg>
