@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
-  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <g id="layer10" filter="url(#filter7554)" transform="translate(-505 119)">
-  <path id="rect10440" opacity="1" fill="#5c616c" d="m513-117c-3.324 0-6 2.676-6 6v4s0 2 2 2h2v-5h-2v-1c0-2.216 1.784-4 4-4s4 1.784 4 4v1h-2v5h2s2 0 2-2v-4c0-3.324-2.676-6-6-6z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+  </defs>
+  <path 
+     style="fill:currentColor;opacity:1"
+     class="ColorScheme-Text"
+     d="M 8 2 C 4.676 2 2 4.676 2 8 L 2 12 C 2 12 2 14 4 14 L 6 14 L 6 9 L 4 9 L 4 8 C 4 5.784 5.784 4 8 4 C 10.216 4 12 5.784 12 8 L 12 9 L 10 9 L 10 14 L 12 14 C 12 14 14 14 14 12 L 14 8 C 14 4.676 11.324 2 8 2 z "
+      />
 </svg>
