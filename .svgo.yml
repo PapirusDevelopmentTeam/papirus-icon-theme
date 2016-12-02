@@ -44,9 +44,9 @@ plugins:
   - removeUselessDefs
 
   # rounds numeric values to the fixed precision
+  # opacity="0.72000004" --> opactity=".72"
   # removes default ‘px’ units
-  # opacity="0.72000004" => opactity=".72"
-  # y="749.936002px" => y="749.936"
+  # y="749.936002px" --> y="749.936"
   - cleanupNumericValues:
       floatPrecision: 3
       leadingZero: true
@@ -54,7 +54,7 @@ plugins:
       convertToPx: false
 
   # rounds list of values to the fixed precision
-  # viewBox="0 0 16px 16px" => viewBox="0 0 16 16"
+  # viewBox="0 0 16px 16px" --> viewBox="0 0 16 16"
   - cleanupListOfValues:
       floatPrecision: 2
       leadingZero: true
@@ -76,9 +76,6 @@ plugins:
 
   # removes empty <text> elements
   - removeEmptyText
-
-  # collapses useless groups
-  - collapseGroups
 
   # removes empty attributes
   - removeEmptyAttrs
