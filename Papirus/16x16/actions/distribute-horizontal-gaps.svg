@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-505 39.003)">
-  <g id="g4460" transform="matrix(1 0 0 -1 9 -62.007)">
-   <rect id="rect4438" opacity="1" fill="#5c616c" height="14" width="2" y="-38.003" x="505"/>
-   <rect id="rect4440" opacity="1" fill="#5c616c" height="4" width="5" y="-36.003" x="507"/>
-   <rect id="rect4442" opacity="1" fill="#5c616c" height="4" width="5" y="-30.003" x="507"/>
-  </g>
-  <g id="g4460-6" style="enable-background:new" transform="matrix(-1 0 0 -1 1017 -62.007)">
-   <rect id="rect4438-7" opacity="1" fill="#5c616c" height="14" width="2" y="-38.003" x="505"/>
-   <rect id="rect4440-7" opacity="1" fill="#5c616c" height="4" width="5" y="-36.003" x="507"/>
-   <rect id="rect4442-1" opacity="1" fill="#5c616c" height="4" width="5" y="-30.003" x="507"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path 
+     style="fill:currentColor;opacity:1"
+     class="ColorScheme-Text"
+     d="M 5 0.99804688 L 5 2.9980469 L 0 2.9980469 L 0 6.9980469 L 5 6.9980469 L 5 8.9980469 L 0 8.9980469 L 0 12.998047 L 5 12.998047 L 5 14.998047 L 7 14.998047 L 7 0.99804688 L 5 0.99804688 z M 9 0.99804688 L 9 14.998047 L 11 14.998047 L 11 12.998047 L 16 12.998047 L 16 8.9980469 L 11 8.9980469 L 11 6.9980469 L 16 6.9980469 L 16 2.9980469 L 11 2.9980469 L 11 0.99804688 L 9 0.99804688 z "
+      />
 </svg>

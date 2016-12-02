@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg6394" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="16" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata6399">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="path5760" opacity="1" fill="#5c616c" style="fill-rendering:auto;text-decoration-fill:#5c616c;fill:#5c616c;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-fill:#5c616c;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m2.0156 2v2.0607h0.97001 9.043v2.9586 1.0284h1.94v-1.0284-5.0193h-10.983-0.97001zm-0.015645 4.0045v1.0304h0.48501 6.5241v1.4803 0.5142h0.97001v-0.5142-2.5106h-7.4941-0.48501zm8.9961 3.0093v1.9945h-2.0026v0.99724h2.0026v1.9945l3.0039-2.4931-3.0039-2.4931zm-7.0091 1.9789v1.0304h1.0013v-1.0304h-1.0013zm2.0183 0v1.0304h0.48501 1.0013 0.48501v-1.0304h-0.48501-1.0013-0.48501z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 2.015625 2 L 2.015625 4.0605469 L 2.9863281 4.0605469 L 12.029297 4.0605469 L 12.029297 7.0195312 L 12.029297 8.046875 L 13.96875 8.046875 L 13.96875 7.0195312 L 13.96875 2 L 2.9863281 2 L 2.015625 2 z M 2 6.0039062 L 2 7.0351562 L 2.484375 7.0351562 L 9.0097656 7.0351562 L 9.0097656 8.515625 L 9.0097656 9.0292969 L 9.9785156 9.0292969 L 9.9785156 8.515625 L 9.9785156 6.0039062 L 2.484375 6.0039062 L 2 6.0039062 z M 10.996094 9.0136719 L 10.996094 11.007812 L 8.9941406 11.007812 L 8.9941406 12.005859 L 10.996094 12.005859 L 10.996094 14 L 14 11.507812 L 10.996094 9.0136719 z M 3.9863281 10.992188 L 3.9863281 12.023438 L 4.9882812 12.023438 L 4.9882812 10.992188 L 3.9863281 10.992188 z M 6.0058594 10.992188 L 6.0058594 12.023438 L 6.4902344 12.023438 L 7.4921875 12.023438 L 7.9765625 12.023438 L 7.9765625 10.992188 L 7.4921875 10.992188 L 6.4902344 10.992188 L 6.0058594 10.992188 z "/>
 </svg>

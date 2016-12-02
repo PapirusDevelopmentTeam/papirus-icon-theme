@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3760" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3762">
- </defs>
- <metadata id="metadata3765">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-553.72 -589.12)">
-  <path id="path4149" opacity="1" fill="#5c616c" d="m561.85 590.12c0.60456 1.5973 3.1415 8.2953 3.1406 8.2949l3.502-1.75 0.22461 0.44727c0-3.8211-3.0632-6.9205-6.8672-6.9922zm-0.48633 0.01c-3.5302 0.17697-6.3652 2.9632-6.6191 6.4726l3.1602-2.2344 2.4863 4.9746 0.97265-9.2129zm0.63867 3.168-0.95898 9.584-3.5137-7.0254-2.5547 1.8066-0.24805-0.34961c0.10756 3.772 3.1922 6.7988 6.9902 6.7988 3.6719 0 6.6776-2.8294 6.9707-6.4258l-4.2441 2.1211-2.4414-6.5098z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 8.1308594 1 C 8.7354194 2.5973 11.272384 9.2953219 11.271484 9.2949219 L 14.773438 7.5449219 L 14.998047 7.9921875 C 14.998047 4.1710875 11.934859 1.0717 8.1308594 1 z M 7.6445312 1.0097656 C 4.1143312 1.1867356 1.2792906 3.9730219 1.0253906 7.4824219 L 4.1855469 5.2480469 L 6.671875 10.222656 L 7.6445312 1.0097656 z M 8.2832031 4.1777344 L 7.3242188 13.761719 L 3.8105469 6.7363281 L 1.2558594 8.5429688 L 1.0078125 8.1933594 C 1.1153725 11.965359 4.2000469 14.992188 7.9980469 14.992188 C 11.669947 14.992188 14.67565 12.162806 14.96875 8.5664062 L 10.724609 10.6875 L 8.2832031 4.1777344 z "/>
 </svg>

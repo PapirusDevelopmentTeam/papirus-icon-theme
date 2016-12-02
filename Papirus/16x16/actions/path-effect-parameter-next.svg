@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg6394" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 16 16" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata6399">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="rect7537" opacity="1" fill="#5c616c" d="m14.5 1a1.5 1.5 0 0 0 -1.4394 1.084c-5.3311 1.1017-10.044 4.6578-10.995 10.982a1.5 1.5 0 0 0 -1.066 1.434 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -0.9297 -1.387c0.9099-5.7886 5.1131-8.9604 10.055-10.019a1.5 1.5 0 0 0 1.375 0.90625 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -1.5 -1.5zm-5.5 6v4.5 4.5l3.5-2.25 2.5-1.607v3.857h1v-4.5-4.5h-1v3.8574l-2.5-1.6074-3.5-2.25z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 14.5 1 A 1.5 1.5 0 0 0 13.060547 2.0839844 C 7.7294469 3.1856844 3.0174063 6.7422063 2.0664062 13.066406 A 1.5 1.5 0 0 0 1 14.5 A 1.5 1.5 0 0 0 2.5 16 A 1.5 1.5 0 0 0 4 14.5 A 1.5 1.5 0 0 0 3.0703125 13.113281 C 3.9802125 7.3246813 8.1831 4.15235 13.125 3.09375 A 1.5 1.5 0 0 0 14.5 4 A 1.5 1.5 0 0 0 16 2.5 A 1.5 1.5 0 0 0 14.5 1 z M 9 7 L 9 11.5 L 9 16 L 12.5 13.75 L 15 12.142578 L 15 16 L 16 16 L 16 11.5 L 16 7 L 15 7 L 15 10.857422 L 12.5 9.25 L 9 7 z "/>
 </svg>
