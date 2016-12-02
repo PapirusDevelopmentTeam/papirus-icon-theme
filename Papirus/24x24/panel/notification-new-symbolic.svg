@@ -6,11 +6,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
+   height="24"
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   width="16">
+   width="24">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -69,41 +69,42 @@
          mode="darken" />
     </filter>
   </defs>
-  <g
-     id="layer9"
-     style="display:inline"
-     transform="translate(-665.00043,475)">
-    <path
-       d="m 673.00034,-473.99999 c 0.55228,0 1,0.44772 1,1 -2.9e-4,0.0333 -0.002,0.0665 -0.006,0.0996 2.29032,0.45883 4.00603,2.47123 4.00586,4.90039 l -1.4e-4,1.99999 0,2.5 2,2 0,0.5 -2,0 -10,0 -2,0 0,-0.5 2,-2 1.4e-4,-4.49999 c 8e-5,-2.42916 1.71568,-4.44157 4.00586,-4.90039 -0.004,-0.0331 -0.006,-0.0663 -0.006,-0.0996 0,-0.55228 0.44772,-1 1,-1 z M 674.72872,-460 c -0.35663,0.61771 -1.01525,0.99874 -1.72852,1 -0.71397,-5.6e-4 -1.37349,-0.38169 -1.73047,-1 z"
-       id="rect11474"
-       style="opacity:1;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+  <path
+     id="path6054"
+     d="M 15.152346,5.6972621 C 12.939574,4.9495219 10.447072,5.8338262 9.2324219,7.9374962 l -2.25,3.8964848 L 4.25,12.566403 4,12.999996 l 1.7324219,1 8.6601561,5 1.732422,1 0.25,-0.433594 -0.732422,-2.732421 1.25,-2.164063 1,-1.732422 c 0.544507,-0.942959 0.731387,-1.983706 0.632813,-2.9863279 -0.151935,0.024132 -0.30464,0.048828 -0.462891,0.048828 -1.64501,0 -3,-1.3549899 -3,-3 0,-0.4361652 0.09915,-0.8486763 0.272585,-1.2218917 0,0 -0.180996,-0.080071 -0.182739,-0.080842 z M 8.0644531,16.499996 c 0,0.71396 0.3800169,1.374952 0.9980469,1.732422 0.61834,0.35531 1.380337,0.354677 1.998047,-0.002 z"
+     style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     r="2"
+     cy="6.9994502"
+     cx="18.062498"
+     id="path4149"
+     style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
      id="layer10"
      style="display:inline;filter:url(#filter7554)"
-     transform="translate(-665.00043,475)" />
+     transform="translate(-645.00043,483)" />
   <g
      id="layer1"
      style="display:inline"
-     transform="translate(-424.00023,-142)" />
+     transform="translate(-404.00023,-134)" />
   <g
      id="layer14"
      style="display:inline"
-     transform="translate(-665.00043,475)" />
+     transform="translate(-645.00043,483)" />
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-665.00043,475)" />
+     transform="translate(-645.00043,483)" />
   <g
      id="g71291"
      style="display:inline"
-     transform="translate(-665.00043,475)" />
+     transform="translate(-645.00043,483)" />
   <g
      id="layer2"
      style="display:inline"
-     transform="translate(-424.00023,8)" />
+     transform="translate(-404.00023,16)" />
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-665.00043,475)" />
+     transform="translate(-645.00043,483)" />
 </svg>

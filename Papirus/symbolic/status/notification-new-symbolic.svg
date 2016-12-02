@@ -6,11 +6,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="16"
-   version="1.1"
-   style="enable-background:new"
+   height="16"
    id="svg7384"
-   height="16.003357">
+   style="enable-background:new"
+   version="1.1"
+   width="16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -45,72 +45,72 @@
   <defs
      id="defs7386">
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient6882">
+       id="linearGradient6882"
+       osb:paint="solid">
       <stop
-         style="stop-color:#555555;stop-opacity:1;"
+         id="stop6884"
          offset="0"
-         id="stop6884" />
+         style="stop-color:#555555;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
+       id="linearGradient5606"
+       osb:paint="solid">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5608"
          offset="0"
-         id="stop5608" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554">
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
       <feBlend
-         mode="darken"
+         id="feBlend7556"
          in2="BackgroundImage"
-         id="feBlend7556" />
+         mode="darken" />
     </filter>
   </defs>
   <g
-     transform="translate(-645.00043,475.00336)"
+     id="layer9"
      style="display:inline"
-     id="layer9">
+     transform="translate(-645.00043,475)">
     <path
-       id="path6054"
-       transform="translate(645.00043,-475.00336)"
+       style="opacity:1;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 11.089846,1.7011721 C 8.8770738,0.95343187 6.3845719,1.8377362 5.1699219,3.9414062 l -2.25,3.8964844 -2.7324219,0.7324219 -0.25,0.4335937 1.7324219,0.9999998 8.6601561,5 1.732422,1 0.25,-0.433594 -0.732422,-2.732421 1.25,-2.164063 1,-1.7324218 C 14.374585,7.9984468 14.561465,6.9576995 14.462891,5.9550781 14.310956,5.9792097 14.158251,6.0039062 14,6.0039062 c -1.64501,0 -3,-1.3549899 -3,-3 0,-0.4361652 0.09915,-0.8486763 0.272585,-1.2218917 0,0 -0.180996,-0.080071 -0.182739,-0.080842 z M 4.0019531,12.503906 c 0,0.71396 0.3800169,1.374952 0.9980469,1.732422 0.61834,0.35531 1.3803369,0.354677 1.9980469,-0.002 z"
-       style="opacity:1;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       transform="translate(645.00043,-475.00336)"
+       id="path6054" />
     <circle
-       r="2"
-       cy="-472"
-       cx="659.00043"
+       style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4149"
-       style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="659.00043"
+       cy="-472"
+       r="2" />
   </g>
   <g
-     transform="translate(-645.00043,475.00336)"
+     id="layer10"
      style="display:inline;filter:url(#filter7554)"
-     id="layer10" />
+     transform="translate(-645.00043,475)" />
   <g
-     transform="translate(-404.00023,-141.99664)"
+     id="layer1"
      style="display:inline"
-     id="layer1" />
+     transform="translate(-404.00023,-142)" />
   <g
-     transform="translate(-645.00043,475.00336)"
+     id="layer14"
      style="display:inline"
-     id="layer14" />
+     transform="translate(-645.00043,475)" />
   <g
-     transform="translate(-645.00043,475.00336)"
+     id="layer15"
      style="display:inline"
-     id="layer15" />
+     transform="translate(-645.00043,475)" />
   <g
-     transform="translate(-645.00043,475.00336)"
+     id="g71291"
      style="display:inline"
-     id="g71291" />
+     transform="translate(-645.00043,475)" />
   <g
-     transform="translate(-404.00023,8.0033569)"
+     id="layer2"
      style="display:inline"
-     id="layer2" />
+     transform="translate(-404.00023,8)" />
   <g
-     transform="translate(-645.00043,475.00336)"
+     id="layer12"
      style="display:inline"
-     id="layer12" />
+     transform="translate(-645.00043,475)" />
 </svg>
