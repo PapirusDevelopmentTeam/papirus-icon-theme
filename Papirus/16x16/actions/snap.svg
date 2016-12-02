@@ -1,75 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="snap.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-2.8813559"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>
-                    image/svg+xml
-                </dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
   </defs>
-  <path
-     id="rect3224-2"
-     style="color:#000000;fill-rule:evenodd;fill:#5c616c;fill-opacity:1"
-     d="m 2.9551,0.42288 -2.5332,2.5332 2.5605,2.5605 2.5332,-2.5332 -2.5605,-2.5605 z m 2.3828,4.209 -0.707,0.707 3.9843,3.9844 -1.6464,1.6467 4.0002,0 0,-4.0002 -1.6467,1.6464 -3.9844,-3.9843 z m 7.6801,5.8531 -2.534,2.534 2.561,2.56 2.533,-2.533 -2.56,-2.561 z"
-     inkscape:connector-curvature="0" />
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 2.9550781 0.42382812 L 0.421875 2.9570312 L 2.9824219 5.515625 L 5.515625 2.9824219 L 2.9550781 0.42382812 z M 5.3378906 4.6328125 L 4.6308594 5.3398438 L 8.6152344 9.3242188 L 6.96875 10.970703 L 10.96875 10.970703 L 10.96875 6.9707031 L 9.3222656 8.6152344 L 5.3378906 4.6328125 z M 13.017578 10.484375 L 10.484375 13.019531 L 13.044922 15.578125 L 15.578125 13.046875 L 13.017578 10.484375 z "/>
 </svg>

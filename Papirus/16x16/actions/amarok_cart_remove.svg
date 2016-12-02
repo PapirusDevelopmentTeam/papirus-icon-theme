@@ -1,67 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="amarok_cart_remove.svg">
-  <defs
-     id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="704"
-     inkscape:window-height="480"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer12"
-     transform="translate(-585 -41)">
-    <path
-       id="rect4139"
-       opacity="1"
-       transform="translate(585 41)"
-       d="m5 1c-0.554 0-1 0.446-1 1v3h-2c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h7v-4h6v-5c0-0.554-0.446-1-1-1h-2v-3c0-0.554-0.446-1-1-1h-6zm1 2h4v2h-4v-2zm4 9v2h6v-2h-6z"
-       style="fill:#5c616c;fill-opacity:1" />
-    <path
-       id="path4162"
-       opacity="1"
-       fill="none"
-       d="m597 51v2h-2v2h2v2h2v-2h2v-2h-2v-2h-2z" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1"
+        class="ColorScheme-Text" 
+        d="M 5 1 C 4.446 1 4 1.446 4 2 L 4 5 L 2 5 C 1.446 5 1 5.446 1 6 L 1 14 C 1 14.554 1.446 15 2 15 L 9 15 L 9 11 L 15 11 L 15 6 C 15 5.446 14.554 5 14 5 L 12 5 L 12 2 C 12 1.446 11.554 1 11 1 L 5 1 z M 6 3 L 10 3 L 10 5 L 6 5 L 6 3 z M 10 12 L 10 14 L 16 14 L 16 12 L 10 12 z "
+        />
 </svg>

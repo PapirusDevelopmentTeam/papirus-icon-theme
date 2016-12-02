@@ -1,66 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="media-repeat-track-amarok.svg">
-  <defs
-     id="defs11" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-2.8813559"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>
-                    image/svg+xml
-                </dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-  <path
-     inkscape:connector-curvature="0"
-     d="M 5,2 5,4 2.9316,4 C 1.8619,4 1,4.9391 1,6.1055 L 1,11.895 C 1,13.061 1.8619,14 2.9316,14 l 10.136,0 c 1.07,0 1.932,-0.939 1.932,-2.105 l 0,-5.7895 C 14.9996,4.9391 14.1376,4 13.0676,4 l -2.068,0 0,2 1.998,0 c -0.002,0.009 0.002,0.0263 0.002,0.1055 l 0,5.7895 c 0,0.079 -0.004,0.096 -0.002,0.105 L 3.0035,12 C 3.0045,11.991 2.9996,11.974 2.9996,11.895 l 0,-5.7895 C 2.9996,6.0263 3.0045,6.0089 3.0035,6 l 1.9961,0 0,2 4,-3 -4,-3 z m 5,5 0,4 1,0 0,-4 -1,0 z"
-     style="color:#000000;opacity:1;enable-background:accumulate;fill:#5c616c;fill-opacity:1"
-     id="path4282" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 5 2 L 5 4 L 2.9316406 4 C 1.8619406 4 1 4.9390688 1 6.1054688 L 1 11.894531 C 1 13.060531 1.8619406 14 2.9316406 14 L 13.068359 14 C 14.138359 14 15 13.060531 15 11.894531 L 15 6.1054688 C 15 4.9390688 14.138359 4 13.068359 4 L 11 4 L 11 6 L 12.998047 6 C 12.996047 6.009 13 6.0262687 13 6.1054688 L 13 11.894531 C 13 11.973531 12.996047 11.991 12.998047 12 L 3.0039062 12 C 3.0049063 11.991 3 11.973531 3 11.894531 L 3 6.1054688 C 3 6.0262688 3.0049062 6.0089 3.0039062 6 L 5 6 L 5 8 L 9 5 L 5 2 z M 10 7 L 10 11 L 11 11 L 11 7 L 10 7 z "/>
 </svg>

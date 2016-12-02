@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
-  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <g id="layer10" filter="url(#filter7554)" transform="translate(-385 139)">
-  <path id="path10465" opacity="1" fill="#5c616c" style="fill:#5c616c;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" d="m392-136c-3.2934 0-6 2.7066-6 6s2.7066 6 6 6 6-2.7066 6-6-2.7066-6-6-6zm0 4.2857c0.9417 0 1.7143 0.77259 1.7143 1.7143 0 0.94169-0.77259 1.7143-1.7143 1.7143-0.9417 0-1.7143-0.7726-1.7143-1.7143s0.77259-1.7143 1.7143-1.7143z"/>
-  <path id="path4186" opacity="1" fill="#5c616c" style="fill:#5c616c;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" transform="translate(385 -139)" d="m8.7148 1.2891c-1.6102 0-3.0782 0.6509-4.1601 1.6972a6.5 6.5 0 0 1 2.4453 -0.4824 6.5 6.5 0 0 1 6.5 6.5 6.5 6.5 0 0 1 -0.482 2.4431c1.046-1.082 1.697-2.5478 1.697-4.1579 0-3.2934-2.707-6-6.0002-6z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 8.7148438 1.2890625 C 7.1046437 1.2890625 5.6365875 1.9400281 4.5546875 2.9863281 A 6.5 6.5 0 0 1 7 2.5039062 A 6.5 6.5 0 0 1 13.5 9.0039062 A 6.5 6.5 0 0 1 13.017578 11.447266 C 14.063578 10.365266 14.714844 8.8991625 14.714844 7.2890625 C 14.714844 3.9956625 12.008044 1.2890625 8.7148438 1.2890625 z M 7 3 C 3.7066 3 1 5.7066 1 9 C 1 12.2934 3.7066 15 7 15 C 10.2934 15 13 12.2934 13 9 C 13 5.7066 10.2934 3 7 3 z M 7 7.2851562 C 7.9417 7.2851562 8.7148438 8.05829 8.7148438 9 C 8.7148438 9.94169 7.94171 10.714844 7 10.714844 C 6.0583 10.714844 5.2851563 9.9417 5.2851562 9 C 5.2851562 8.0583 6.05829 7.2851562 7 7.2851562 z "/>
 </svg>
