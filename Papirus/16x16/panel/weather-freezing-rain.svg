@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="16" width="16" viewBox="0 0 16 16" style="enable-background:new" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="weather-freezing-rain.svg">
-    <sodipodi:namedview pagecolor="#383838" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1535" inkscape:window-height="876" id="namedview20" showgrid="false" inkscape:zoom="34.62" inkscape:cx="3.8122903" inkscape:cy="8" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
-    <metadata id="metadata38">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path d="m 5.1191965,0.035 c -0.154,-0.001 -0.311,0.007 -0.478,0.03 -2.67,0.358 -2.588,2.745 -2.588,2.745 -1.094,0.194 -1.988,1.188 -1.988,2.228 0,1.039 1.143,1.96 2.1,2.228 0.57,0.159 1.313,0 1.313,0 0.338,0.621 1.454,1.034 2.232,1.034 1.268,0 2.564,-0.438 2.865,-1.034 0,0 5.2540005,0.438 6.3430005,0 1.585999,-0.637 1.092999,-2.629 0.038,-3.302 -1.055,-0.673 -2.437999,-0.199 -2.437999,-0.199 0,0 -0.008,-1.369 -1.5,-2.024 -1.4920005,-0.655 -2.7520005,0.791 -2.7520005,0.791 0,0 -0.837,-2.481 -3.146,-2.496 z" style="opacity:1;fill:#d3dae3;fill-opacity:1" id="path4" inkscape:connector-curvature="0"/>
-    <circle cx="7.756196" cy="15.000041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle6"/>
-    <circle cx="2.6291966" cy="11.508041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle8"/>
-    <circle cx="6.7311964" cy="11.000041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle10"/>
-    <circle cx="10.256196" cy="11.678041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle12"/>
-    <circle cx="4.8321962" cy="13.070041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle14"/>
-    <circle cx="4.7651963" cy="9.6780415" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle16"/>
-    <circle cx="8.7651968" cy="9.441041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle18"/>
-    <circle cx="11.815196" cy="9.5420408" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle20"/>
-    <circle cx="2.5611963" cy="8.9660406" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle22"/>
-    <circle cx="1.6461964" cy="13.81404" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle24"/>
-    <circle cx="13.544197" cy="11.271041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle26"/>
-    <circle cx="12.154197" cy="13.915042" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle28"/>
-    <circle cx="8.2221966" cy="12.763041" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle30"/>
-    <circle cx="14.256197" cy="9.0300407" r="0.5" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none" id="circle32"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#d3dae3;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 5.1191406 0.03515625 C 4.9651406 0.03415625 4.807625 0.041453125 4.640625 0.064453125 C 1.970625 0.42245312 2.0527344 2.8105469 2.0527344 2.8105469 C 0.95873437 3.0045469 0.064453125 3.9971094 0.064453125 5.0371094 C 0.064453125 6.0761094 1.2090156 6.997625 2.1660156 7.265625 C 2.7360156 7.424625 3.4785156 7.265625 3.4785156 7.265625 C 3.8165156 7.886625 4.9329375 8.3007813 5.7109375 8.3007812 C 6.9789375 8.3007812 8.2751719 7.861625 8.5761719 7.265625 C 8.5761719 7.265625 13.828969 7.703625 14.917969 7.265625 C 16.503968 6.628625 16.01203 4.6378438 14.957031 3.9648438 C 13.902031 3.2918437 12.517578 3.765625 12.517578 3.765625 C 12.517578 3.765625 12.509578 2.3952344 11.017578 1.7402344 C 9.5255776 1.0852344 8.265625 2.53125 8.265625 2.53125 C 8.265625 2.53125 7.4300938 0.05015625 5.1210938 0.03515625 L 5.1191406 0.03515625 z M 2.5253906 8.4667969 A 0.5 0.5 0 0 0 2.0605469 8.9667969 A 0.5 0.5 0 0 0 2.5605469 9.4667969 A 0.5 0.5 0 0 0 3.0605469 8.9667969 A 0.5 0.5 0 0 0 2.5605469 8.4667969 A 0.5 0.5 0 0 0 2.5253906 8.4667969 z M 14.255859 8.5292969 A 0.5 0.5 0 0 0 13.755859 9.0292969 A 0.5 0.5 0 0 0 14.255859 9.5292969 A 0.5 0.5 0 0 0 14.755859 9.0292969 A 0.5 0.5 0 0 0 14.255859 8.5292969 z M 8.7304688 8.9414062 A 0.5 0.5 0 0 0 8.265625 9.4414062 A 0.5 0.5 0 0 0 8.765625 9.9414062 A 0.5 0.5 0 0 0 9.265625 9.4414062 A 0.5 0.5 0 0 0 8.765625 8.9414062 A 0.5 0.5 0 0 0 8.7304688 8.9414062 z M 11.779297 9.0429688 A 0.5 0.5 0 0 0 11.314453 9.5429688 A 0.5 0.5 0 0 0 11.814453 10.042969 A 0.5 0.5 0 0 0 12.314453 9.5429688 A 0.5 0.5 0 0 0 11.814453 9.0429688 A 0.5 0.5 0 0 0 11.779297 9.0429688 z M 4.765625 9.1777344 A 0.5 0.5 0 0 0 4.265625 9.6777344 A 0.5 0.5 0 0 0 4.765625 10.177734 A 0.5 0.5 0 0 0 5.265625 9.6777344 A 0.5 0.5 0 0 0 4.765625 9.1777344 z M 6.7304688 10.5 A 0.5 0.5 0 0 0 6.2304688 11 A 0.5 0.5 0 0 0 6.7304688 11.5 A 0.5 0.5 0 0 0 7.2304688 11 A 0.5 0.5 0 0 0 6.7304688 10.5 z M 13.509766 10.771484 A 0.5 0.5 0 0 0 13.044922 11.271484 A 0.5 0.5 0 0 0 13.544922 11.771484 A 0.5 0.5 0 0 0 14.044922 11.271484 A 0.5 0.5 0 0 0 13.544922 10.771484 A 0.5 0.5 0 0 0 13.509766 10.771484 z M 2.6289062 11.007812 A 0.5 0.5 0 0 0 2.1289062 11.507812 A 0.5 0.5 0 0 0 2.6289062 12.007812 A 0.5 0.5 0 0 0 3.1289062 11.507812 A 0.5 0.5 0 0 0 2.6289062 11.007812 z M 10.255859 11.177734 A 0.5 0.5 0 0 0 9.7558594 11.677734 A 0.5 0.5 0 0 0 10.255859 12.177734 A 0.5 0.5 0 0 0 10.755859 11.677734 A 0.5 0.5 0 0 0 10.255859 11.177734 z M 8.1875 12.263672 A 0.5 0.5 0 0 0 7.7226562 12.763672 A 0.5 0.5 0 0 0 8.2226562 13.263672 A 0.5 0.5 0 0 0 8.7226562 12.763672 A 0.5 0.5 0 0 0 8.2226562 12.263672 A 0.5 0.5 0 0 0 8.1875 12.263672 z M 4.8320312 12.570312 A 0.5 0.5 0 0 0 4.3320312 13.070312 A 0.5 0.5 0 0 0 4.8320312 13.570312 A 0.5 0.5 0 0 0 5.3320312 13.070312 A 0.5 0.5 0 0 0 4.8320312 12.570312 z M 1.6113281 13.314453 A 0.5 0.5 0 0 0 1.1464844 13.814453 A 0.5 0.5 0 0 0 1.6464844 14.314453 A 0.5 0.5 0 0 0 2.1464844 13.814453 A 0.5 0.5 0 0 0 1.6464844 13.314453 A 0.5 0.5 0 0 0 1.6113281 13.314453 z M 12.119141 13.416016 A 0.5 0.5 0 0 0 11.654297 13.916016 A 0.5 0.5 0 0 0 12.154297 14.416016 A 0.5 0.5 0 0 0 12.654297 13.916016 A 0.5 0.5 0 0 0 12.154297 13.416016 A 0.5 0.5 0 0 0 12.119141 13.416016 z M 7.7558594 14.5 A 0.5 0.5 0 0 0 7.2558594 15 A 0.5 0.5 0 0 0 7.7558594 15.5 A 0.5 0.5 0 0 0 8.2558594 15 A 0.5 0.5 0 0 0 7.7558594 14.5 z "/>
 </svg>

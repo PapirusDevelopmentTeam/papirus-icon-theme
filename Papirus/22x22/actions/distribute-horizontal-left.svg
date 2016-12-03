@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-505 39.003)">
-  <g id="g4145" transform="translate(3 3)">
-   <g id="g4460">
-    <rect id="rect4438" opacity="1" fill="#5c616c" height="14" width="2" y="-38.003" x="505"/>
-    <rect id="rect4440" opacity="1" fill="#5c616c" height="4" width="5" y="-36.003" x="507"/>
-    <rect id="rect4442" opacity="1" fill="#5c616c" height="4" width="5" y="-30.003" x="507"/>
-   </g>
-   <g id="g4460-6" style="enable-background:new" transform="translate(9 .0000017483)">
-    <rect id="rect4438-7" opacity="1" fill="#5c616c" height="14" width="2" y="-38.003" x="505"/>
-    <rect id="rect4440-7" opacity="1" fill="#5c616c" height="4" width="5" y="-36.003" x="507"/>
-    <rect id="rect4442-1" opacity="1" fill="#5c616c" height="4" width="5" y="-30.003" x="507"/>
-   </g>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 0 1 L 0 15 L 2 15 L 2 13 L 7 13 L 7 9 L 2 9 L 2 7 L 7 7 L 7 3 L 2 3 L 2 1 L 0 1 z M 9 1 L 9 15 L 11 15 L 11 13 L 16 13 L 16 9 L 11 9 L 11 7 L 16 7 L 16 3 L 11 3 L 11 1 L 9 1 z "/>
 </svg>

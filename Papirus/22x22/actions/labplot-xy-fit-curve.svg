@@ -1,66 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4355"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="labplot-xy-fit-curve.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="704"
-     inkscape:window-height="480"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4355" />
-  <defs
-     id="defs4357" />
-  <metadata
-     id="metadata4360">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-544.57 -742.93)">
-    <g
-       id="g3845"
-       transform="translate(0 -.53516)">
-      <path
-         id="path5273-9-0"
-         opacity="1"
-         style="block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0;fill:#5c616c;fill-opacity:1"
-         d="m16.523 5c-0.817 0-1.525 0.7232-1.523 1.5234-0.002 0.8003 0.706 1.4766 1.523 1.4766 0.818 0 1.479-0.6763 1.477-1.4766 0.002-0.8002-0.659-1.5234-1.477-1.5234zm-6.9996 1c-0.8178 0-1.5253 0.7232-1.5234 1.5234-0.002 0.8003 0.7056 1.4766 1.5234 1.4766 0.8176 0 1.4786-0.6763 1.4766-1.4766 0.002-0.8002-0.659-1.5234-1.4766-1.5234zm-5 4c-0.8178 0-1.5253 0.723-1.5234 1.523-0.002 0.801 0.7056 1.477 1.5234 1.477 0.6475 0 1.1911-0.426 1.3907-1h13.086v-1h-13.1c-0.2102-0.566-0.7441-1-1.3766-1zm13 3c-0.817 0-1.525 0.723-1.523 1.523-0.002 0.801 0.706 1.477 1.523 1.477 0.818 0 1.479-0.676 1.477-1.477 0.002-0.8-0.659-1.523-1.477-1.523zm-5.5 1c-0.817 0-1.525 0.723-1.523 1.523-0.002 0.801 0.706 1.477 1.523 1.477 0.818 0 1.479-0.676 1.477-1.477 0.002-0.8-0.659-1.523-1.477-1.523z"
-         transform="translate(544.57 743.47)" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 13.519531 2.0039062 C 12.701731 2.0039062 11.994094 2.7271637 11.996094 3.5273438 C 11.994094 4.3275738 12.701771 5.0039062 13.519531 5.0039062 C 14.337321 5.0039062 14.997994 4.3276137 14.996094 3.5273438 C 14.998094 2.7271238 14.337361 2.0039062 13.519531 2.0039062 z M 6.5195312 3.0039062 C 5.7017312 3.0039062 4.9940938 3.7271637 4.9960938 4.5273438 C 4.9940938 5.3275738 5.7017712 6.0039062 6.5195312 6.0039062 C 7.3373212 6.0039062 7.9979938 5.3276137 7.9960938 4.5273438 C 7.9980937 3.7271238 7.3373612 3.0039062 6.5195312 3.0039062 z M 1.5195312 7.0039062 C 0.70173125 7.0039062 -0.00590625 7.7271637 -0.00390625 8.5273438 C -0.00590625 9.3275738 0.70177125 10.003906 1.5195312 10.003906 C 2.1670112 10.003906 2.7106563 9.5777562 2.9101562 9.0039062 L 15.996094 9.0039062 L 15.996094 8.0039062 L 2.8964844 8.0039062 C 2.6859044 7.4377963 2.1520412 7.0039062 1.5195312 7.0039062 z M 14.519531 10.003906 C 13.701731 10.003906 12.994094 10.727164 12.996094 11.527344 C 12.994094 12.327574 13.701771 13.003906 14.519531 13.003906 C 15.337321 13.003906 15.997994 12.327614 15.996094 11.527344 C 15.998094 10.727124 15.337361 10.003906 14.519531 10.003906 z M 9.0195312 11.003906 C 8.2017312 11.003906 7.4940938 11.727164 7.4960938 12.527344 C 7.4940938 13.327574 8.2017712 14.003906 9.0195312 14.003906 C 9.8373212 14.003906 10.497994 13.327614 10.496094 12.527344 C 10.498094 11.727124 9.8373612 11.003906 9.0195312 11.003906 z "/>
 </svg>

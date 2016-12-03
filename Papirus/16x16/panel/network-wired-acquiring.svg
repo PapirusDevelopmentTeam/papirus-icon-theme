@@ -1,22 +1,18 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="network-wired-acquiring.svg" height="16" id="svg6530" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" inkscape:version="0.91 r" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <sodipodi:namedview inkscape:bbox-nodes="true" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="71.350822" inkscape:cy="-124.17025" inkscape:document-units="px" id="base" inkscape:object-nodes="true" inkscape:object-paths="true" pagecolor="#dddddd" inkscape:pageopacity="0" inkscape:pageshadow="2" showgrid="false" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-smooth-nodes="true" units="px" inkscape:window-height="417" inkscape:window-maximized="0" inkscape:window-width="462" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1">
-        <inkscape:grid empspacing="4" id="grid8845" originx="-80.000198" originy="-484.00169" type="xygrid"/>
-    </sodipodi:namedview>
-    <metadata id="metadata6535">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g inkscape:groupmode="layer" id="layer1" inkscape:label="panel" transform="translate(-80.000198,-552.36047)">
-        <path inkscape:connector-curvature="0" d="m 82,554.3639 c 0,0 -1,0 -1,1 l 0,2 2,0 0,-1 10,0 0,1 2,0 0,-2 c 0,-1 -1,-1 -1,-1 l -12,0 z m -1,9 0,1 c 0,1 1,1 1,1 l 2,0 1,1 6,0 1,-1 2,0 c 0,0 1,0.12994 1,-1 l 0,-1 -2,0 -2,0 -1,1 -4,0 -1,-1 -2,0 -2,0 z" id="path6552" style="opacity:0.35;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-        <path inkscape:connector-curvature="0" d="m 83,558.3639 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z" id="rect8040-5-9" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#d3dae3;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" 
+        class="ColorScheme-Text" 
+        d="M 3 6.0039062 C 1.892 6.0039062 1 6.8959063 1 8.0039062 C 1 9.1119062 1.892 10.003906 3 10.003906 C 4.108 10.003906 5 9.1119062 5 8.0039062 C 5 6.8959063 4.108 6.0039062 3 6.0039062 z M 8 6.0039062 C 6.892 6.0039062 6 6.8959063 6 8.0039062 C 6 9.1119062 6.892 10.003906 8 10.003906 C 9.108 10.003906 10 9.1119062 10 8.0039062 C 10 6.8959063 9.108 6.0039062 8 6.0039062 z M 13 6.0039062 C 11.892 6.0039062 11 6.8959063 11 8.0039062 C 11 9.1119062 11.892 10.003906 13 10.003906 C 14.108 10.003906 15 9.1119062 15 8.0039062 C 15 6.8959063 14.108 6.0039062 13 6.0039062 z "
+        />
+  <path style="fill:currentColor;opacity:0.35" 
+        class="ColorScheme-Text" 
+        d="M 2 2.0039062 C 2 2.0039062 1 2.0039062 1 3.0039062 L 1 5.0039062 L 3 5.0039062 L 3 4.0039062 L 13 4.0039062 L 13 5.0039062 L 15 5.0039062 L 15 3.0039062 C 15 2.0039062 14 2.0039062 14 2.0039062 L 2 2.0039062 z M 1 11.003906 L 1 12.003906 C 1 13.003906 2 13.003906 2 13.003906 L 4 13.003906 L 5 14.003906 L 11 14.003906 L 12 13.003906 L 14 13.003906 C 14 13.003906 15 13.133846 15 12.003906 L 15 11.003906 L 13 11.003906 L 11 11.003906 L 10 12.003906 L 6 12.003906 L 5 11.003906 L 3 11.003906 L 1 11.003906 z "
+        />
 </svg>

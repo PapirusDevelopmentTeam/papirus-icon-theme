@@ -1,22 +1,18 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="network-wireless-acquiring.svg" height="16" id="svg6530" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" inkscape:version="0.91 r" viewBox="0 0 16.031448 16" width="16.031448" xmlns="http://www.w3.org/2000/svg">
-    <sodipodi:namedview inkscape:bbox-nodes="true" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="-0.61773" inkscape:cy="-172.17025" inkscape:document-units="px" id="base" inkscape:object-nodes="true" inkscape:object-paths="true" pagecolor="#dddddd" inkscape:pageopacity="0" inkscape:pageshadow="2" showgrid="false" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-smooth-nodes="true" units="px" inkscape:window-height="417" inkscape:window-maximized="0" inkscape:window-width="462" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1">
-        <inkscape:grid empspacing="4" id="grid8845" originx="-151.96875" originy="-532.00169" type="xygrid"/>
-    </sodipodi:namedview>
-    <metadata id="metadata6535">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g inkscape:groupmode="layer" id="layer1" inkscape:label="panel" transform="translate(-151.96875,-504.36047)">
-        <path inkscape:connector-curvature="0" d="m 160,506.36216 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 0.23242,0.25391 15.50977,0 0.25781,-0.28516 c -2.25661,-1.65329 -4.9577,-2.71875 -7.96875,-2.71875 z m -2.29102,9.00391 2.29102,2.49609 2.26562,-2.49609 -4.55664,0 z" id="path5677" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
-        <path inkscape:connector-curvature="0" d="m 154.99742,510.36271 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z" id="rect8040-5" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#d3dae3;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" 
+        class="ColorScheme-Text" 
+        d="M 3.0292969 6.0019531 C 1.9212969 6.0019531 1.0292969 6.8939531 1.0292969 8.0019531 C 1.0292969 9.1099531 1.9212969 10.001953 3.0292969 10.001953 C 4.1372969 10.001953 5.0292969 9.1099531 5.0292969 8.0019531 C 5.0292969 6.8939531 4.1372969 6.0019531 3.0292969 6.0019531 z M 8.0292969 6.0019531 C 6.9212969 6.0019531 6.0292969 6.8939531 6.0292969 8.0019531 C 6.0292969 9.1099531 6.9212969 10.001953 8.0292969 10.001953 C 9.1372969 10.001953 10.029297 9.1099531 10.029297 8.0019531 C 10.029297 6.8939531 9.1372969 6.0019531 8.0292969 6.0019531 z M 13.029297 6.0019531 C 11.921297 6.0019531 11.029297 6.8939531 11.029297 8.0019531 C 11.029297 9.1099531 11.921297 10.001953 13.029297 10.001953 C 14.137297 10.001953 15.029297 9.1099531 15.029297 8.0019531 C 15.029297 6.8939531 14.137297 6.0019531 13.029297 6.0019531 z "
+        />
+  <path style="fill:currentColor;opacity:0.35" 
+        class="ColorScheme-Text" 
+        d="M 8.03125 2.0019531 C 4.9969 2.0019531 2.26537 3.0801031 0 4.7519531 L 0.23242188 5.0058594 L 15.742188 5.0058594 L 16 4.7207031 C 13.74339 3.0674131 11.0423 2.0019531 8.03125 2.0019531 z M 5.7402344 11.005859 L 8.03125 13.501953 L 10.296875 11.005859 L 5.7402344 11.005859 z "
+        />
 </svg>

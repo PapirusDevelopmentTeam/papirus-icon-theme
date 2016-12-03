@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg6394" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 24 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata6399">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <rect id="rect6287" opacity="0.3" fill="#5c616c" style="fill:#5c616c" fill-rule="evenodd" transform="rotate(-90)" height="16.014" width="22.014" y="3.993" x="-23.007"/>
- <path id="rect6285" opacity="1" fill="#5c616c" style="fill-rendering:auto;text-decoration-fill:#5c616c;fill:#5c616c;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-fill:#5c616c;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m3 23.5a0.50048 0.50038 0 0 0 0.5004 0.5h17a0.50048 0.50038 0 0 0 0.5 -0.5v-7.0085-8.9805-7.0104a0.50048 0.50038 0 0 0 -0.5 -0.501h-17a0.50048 0.50038 0 0 0 -0.5 0.50033v7.0104 8.9805 7.0085zm1.0009-0.50032v-6.0078h11.082v3.0528h-2.0017l2.4631 2.955h-11.543zm0-7.0085v-7.9798h11.082v7.9798h-11.082zm0-8.9805v-6.0098h11.543l-2.4631 2.955h2.0017v3.0547h-11.082zm11.621 15.988 2.463-2.955h-2.0017v-3.0528h3.9155v6.0078h-4.3768zm0-21.999h4.3768v6.0098h-3.9155v-3.0547h2.0017l-2.4631-2.955zm0.46134 14.99v-7.9798h3.9155v7.9798h-3.9155z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" 
+        class="ColorScheme-Text" 
+        d="M 3.5 0 A 0.50048 0.50038 0 0 0 3 0.5 L 3 7.5097656 L 3 16.490234 L 3 23.5 A 0.50048 0.50038 0 0 0 3.5 24 L 20.5 24 A 0.50048 0.50038 0 0 0 21 23.5 L 21 16.492188 L 21 7.5117188 L 21 0.5 A 0.50048 0.50038 0 0 0 20.5 0 L 3.5 0 z M 4 1 L 15.542969 1 L 13.080078 3.9550781 L 15.082031 3.9550781 L 15.082031 7.0097656 L 4 7.0097656 L 4 1 z M 15.621094 1 L 19.998047 1 L 19.998047 7.0097656 L 16.083984 7.0097656 L 16.083984 3.9550781 L 18.083984 3.9550781 L 15.621094 1 z M 16.083984 8.0097656 L 19.998047 8.0097656 L 19.998047 15.990234 L 16.083984 15.990234 L 16.083984 8.0097656 z M 4 8.0117188 L 15.082031 8.0117188 L 15.082031 15.990234 L 4 15.990234 L 4 8.0117188 z M 16.083984 16.990234 L 19.998047 16.990234 L 19.998047 22.998047 L 15.621094 22.998047 L 18.083984 20.042969 L 16.083984 20.042969 L 16.083984 16.990234 z M 4 16.992188 L 15.082031 16.992188 L 15.082031 20.044922 L 13.082031 20.044922 L 15.544922 23 L 4.0019531 23 L 4 23 L 4 16.992188 z "
+        />
+  <path style="fill:currentColor;opacity:0.3" 
+        class="ColorScheme-Text" 
+        d="M 3.9921875 0.9921875 L 3.9921875 23.007812 L 20.007812 23.007812 L 20.007812 0.9921875 L 3.9921875 0.9921875 z "
+        />
 </svg>

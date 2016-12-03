@@ -1,21 +1,11 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="battery-missing.svg" height="16" id="svg6530" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" inkscape:version="0.91 r" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <sodipodi:namedview inkscape:bbox-nodes="true" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="-0.64896689" inkscape:cy="-0.16682" inkscape:document-units="px" id="base" inkscape:object-nodes="true" inkscape:object-paths="true" pagecolor="#dddddd" inkscape:pageopacity="0" inkscape:pageshadow="2" showgrid="false" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-smooth-nodes="true" units="px" inkscape:window-height="417" inkscape:window-maximized="0" inkscape:window-width="462" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1">
-        <inkscape:grid empspacing="4" id="grid8845" originx="-151.99999" originy="-359.99826" type="xygrid"/>
-    </sodipodi:namedview>
-    <metadata id="metadata6535">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g inkscape:groupmode="layer" id="layer1" inkscape:label="panel" transform="translate(-151.99999,-676.3639)">
-        <path inkscape:connector-curvature="0" d="m 158,677.3639 0,1 -3,0 c 0,0 0,0.446 0,1 l 0,11 c 0,0.554 0.446,1 1,1 l 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-11 c 0,-0.554 0,-1 0,-1 l -3,0 0,-1 -4,0 z m 2,4 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 l 0,1 -1,0 0,-2 1,0 c 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 -0.55228,0 -1,0.44772 -1,1 l -1,0 c 0,-1.10457 0.89543,-2 2,-2 z m -1,6 1,0 0,1 -1,0 0,-1 z" id="path5701" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#d3dae3;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 6 1 L 6 2 L 3 2 L 3 3 L 3 14 C 3 14.554 3.446 15 4 15 L 12 15 C 12.554 15 13 14.554 13 14 L 13 3 L 13 2 L 10 2 L 10 1 L 6 1 z M 8 5 C 9.10457 5 10 5.89543 10 7 C 10 8.10457 9.10457 9 8 9 L 8 10 L 7 10 L 7 8 L 8 8 C 8.55229 8 9 7.55228 9 7 C 9 6.44772 8.55229 6 8 6 C 7.44772 6 7 6.44772 7 7 L 6 7 C 6 5.89543 6.89543 5 8 5 z M 7 11 L 8 11 L 8 12 L 7 12 L 7 11 z "/>
 </svg>

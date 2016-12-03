@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 15.999999 15.999999" id="svg4146" version="1.1">
-    <metadata id="metadata4151">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new" d="m 2.2500106,2 c 0,0 -1.25,-8e-4 -1.25,1.1992 l 0,9.6016 c 0,1.2 1.25,1.1992 1.25,1.1992 l 11.4999774,0 c 0,0 1.25,8e-4 1.25,-1.1992 l 0,-9.6016 c 0,-1.2 -1.25,-1.1992 -1.25,-1.1992 z m 4.749977,0.5 1.9999997,0 0,0.5 -1.9999997,0 z m -2.999977,1.5 7.9999774,0 0,8 -7.9960712,0 z" id="path4252"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#d3dae3;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 2.25 2 C 2.25 2 1 1.9992186 1 3.1992188 L 1 12.800781 C 1 14.000781 2.25 14 2.25 14 L 13.75 14 C 13.75 14 15 14.000781 15 12.800781 L 15 3.1992188 C 15 1.9992186 13.75 2 13.75 2 L 2.25 2 z M 7 2.5 L 9 2.5 L 9 3 L 7 3 L 7 2.5 z M 4 4 L 12 4 L 12 12 L 4.0039062 12 L 4 4 z "/>
 </svg>

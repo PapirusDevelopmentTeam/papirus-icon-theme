@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3754" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3756">
- </defs>
- <metadata id="metadata3759">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-768.57 -674.08)">
-  <path id="rect4137" opacity="1" fill="#5c616c" style="color:#4d4d4d" d="m778.57 680.08-5.293 5.293-0.70703 0.70703 0.70703 0.70703 5.293 5.293h10v-12h-10zm3 2h1v1h-1c-0.55222 0-1 0.44771-1 1v1c0 0.38251-0.13928 0.73504-0.375 1 0.23572 0.26497 0.375 0.6175 0.375 1v1c0 0.55222 0.44771 1 1 1h1v1h-1c-1.1045 0-2-0.89548-2-2v-1c0-0.27615-0.22386-0.5-0.5-0.5h-0.5v-1h0.5c0.27614 0 0.5-0.22384 0.5-0.5v-1c0-1.1045 0.89548-2 2-2zm2 0h1c1.1045 0 2 0.89549 2 2v1c0 0.27616 0.22386 0.5 0.5 0.5h0.5v1h-0.5c-0.27614 0-0.5 0.22385-0.5 0.5v1c0 1.1045-0.89549 2-2 2h-1v-1h1c0.55229 0 1-0.44778 1-1v-1c0-0.3825 0.13928-0.73503 0.375-1-0.23572-0.26496-0.375-0.61749-0.375-1v-1c0-0.55229-0.44778-1-1-1h-1v-1z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 6 2 L 0.70703125 7.2929688 L 0 8 L 0.70703125 8.7070312 L 6 14 L 16 14 L 16 2 L 6 2 z M 9 4 L 10 4 L 10 5 L 9 5 C 8.44778 5 8 5.44771 8 6 L 8 7 C 8 7.38251 7.86072 7.73504 7.625 8 C 7.86072 8.26497 8 8.6175 8 9 L 8 10 C 8 10.55222 8.44771 11 9 11 L 10 11 L 10 12 L 9 12 C 7.8955 12 7 11.10452 7 10 L 7 9 C 7 8.72385 6.77614 8.5 6.5 8.5 L 6 8.5 L 6 7.5 L 6.5 7.5 C 6.77614 7.5 7 7.27616 7 7 L 7 6 C 7 4.8955 7.89548 4 9 4 z M 11 4 L 12 4 C 13.1045 4 14 4.89549 14 6 L 14 7 C 14 7.27616 14.22386 7.5 14.5 7.5 L 15 7.5 L 15 8.5 L 14.5 8.5 C 14.22386 8.5 14 8.72385 14 9 L 14 10 C 14 11.1045 13.10451 12 12 12 L 11 12 L 11 11 L 12 11 C 12.55229 11 13 10.55222 13 10 L 13 9 C 13 8.6175 13.13928 8.26497 13.375 8 C 13.13928 7.73504 13 7.38251 13 7 L 13 6 C 13 5.44771 12.55222 5 12 5 L 11 5 L 11 4 z "/>
 </svg>

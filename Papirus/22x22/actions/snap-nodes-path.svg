@@ -1,75 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="snap-nodes-path.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-3.9618644"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>
-                    image/svg+xml
-                </dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
   </defs>
-  <path
-     inkscape:connector-curvature="0"
-     d="M 3.52,5 A 0.50005,0.50005 0 0 0 3.438,5.99609 c 0,0 3.6861,0.51511 6.2988,2.1777 1.3064,0.83131 2.3077,1.9094 2.5566,3.3203 0.24898,1.4109 -0.23238,3.2612 -2.1797,5.6953 a 0.50005,0.50005 0 0 0 0.39,0.81 c 3.619,0 5.5704,-1.3346 6.5352,-2.7129 0.9648,-1.3783 0.96484,-2.7871 0.96484,-2.7871 a 0.50005,0.50005 0 1 0 -1,0 c 0,0 4e-5,1.0912 -0.78516,2.2129 -0.68535,0.97907 -2.1808,1.862 -4.7402,2.1035 1.4315,-2.1056 2.0683,-3.9712 1.7988,-5.498 -0.31352,-1.7766 -1.5603,-3.0716 -3.0039,-3.9902 -2.8873,-1.8374 -6.7031,-2.3242 -6.7031,-2.3242 a 0.50005,0.50005 0 0 0 -0.0508,-0.006 z"
-     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto;enable-background:accumulate;fill:#5c616c;fill-opacity:1"
-     id="path6308-6" />
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 1.0058594 1.4941406 L 1.0195312 1.5 A 0.50005 0.50005 0 0 0 0.9375 2.4960938 C 0.9375 2.4960938 4.6236281 3.0112381 7.2363281 4.6738281 C 8.5427281 5.5051381 9.5440688 6.5832406 9.7929688 7.9941406 C 10.041949 9.4050406 9.5606013 11.255353 7.6132812 13.689453 A 0.50005 0.50005 0 0 0 7.9941406 14.5 C 11.613141 14.5 13.564497 13.165409 14.529297 11.787109 C 15.489297 10.407109 15.488281 8.9960938 15.488281 8.9960938 A 0.50005 0.50005 0 1 0 14.488281 8.9960938 C 14.488281 8.9960938 14.488325 10.087284 13.703125 11.208984 C 13.017775 12.188054 11.522291 13.071 8.9628906 13.3125 C 10.394391 11.2069 11.031219 9.3412531 10.761719 7.8144531 C 10.448199 6.0378531 9.2014125 4.7428187 7.7578125 3.8242188 C 4.8705125 1.9868188 1.0546875 1.5 1.0546875 1.5 A 0.50005 0.50005 0 0 0 1.0058594 1.4941406 z "/>
 </svg>

@@ -1,40 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg4355" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs4357">
- </defs>
- <metadata id="metadata4360">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-544.57 -740.93)">
-  <g id="layer1-6" opacity="1" fill="#5c616c" transform="translate(545.57 -288.43)">
-   <rect id="rect4035-73" y="1035" width="0" x="-37.468" height="11"/>
-   <rect id="rect4035-5-02" y="1032.9" width="0" x="-19.427" height="11"/>
-   <rect id="rect4035-8-19" y="1035" width="0" x="-37.468" height="11"/>
-   <rect id="rect4035-59-2" y="1035" width="0" x="-37.468" height="11"/>
-   <rect id="rect4035-6-1" y="1030.1" width="0" x="-44.776" height="11"/>
-   <rect id="rect4035-5-1-7" y="1028.1" width="0" x="-26.736" height="11"/>
-   <rect id="rect4035-8-3-3" y="1030.1" width="0" x="-44.776" height="11"/>
-   <rect id="rect4035-59-4-86" y="1030.1" width="0" x="-44.776" height="11"/>
-   <rect id="rect4035-1-9" y="1034.4" width="0" x="-38.761" height="11"/>
-   <rect id="rect4035-5-0-1" y="1032.3" width="0" x="-20.72" height="11"/>
-   <rect id="rect4035-8-1-31" y="1034.4" width="0" x="-38.761" height="11"/>
-   <rect id="rect4035-59-1-4" y="1034.4" width="0" x="-38.761" height="11"/>
-   <rect id="rect4035-0-7" y="1038.4" width="0" x="-40" height="11"/>
-   <rect id="rect4035-5-5-3" y="1036.3" width="0" x="-21.959" height="11"/>
-   <rect id="rect4035-8-6-9" y="1038.4" width="0" x="-40" height="11"/>
-   <rect id="rect4035-59-11-8" y="1038.4" width="0" x="-40" height="11"/>
-   <rect id="rect4035-9-7" y="1034.7" width="0" x="-55.988" height="11"/>
-   <rect id="rect4035-5-8-0" y="1032.7" width="0" x="-37.947" height="11"/>
-   <rect id="rect4035-8-0-9" y="1034.7" width="0" x="-55.988" height="11"/>
-   <rect id="rect4035-59-1-8-7" y="1034.7" width="0" x="-55.988" height="11"/>
-   <path id="path4059" transform="translate(-1 1029.4)" d="m4 4v16h16v-16h-16zm15 1v14h-14l3.4688-3.469c-0.9049-0.905-1.4688-2.15-1.4688-3.531 0-2.7614 2.2386-5 5-5 1.3807 0 2.6264 0.56393 3.5312 1.4688l3.469-3.4688zm-3.4688 3.4688-7.0625 7.0625c0.9051 0.905 2.1505 1.469 3.5315 1.469 2.7614 0 5-2.2386 5-5 0-1.3807-0.56393-2.6264-1.4688-3.5312z"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 0 0.0390625 L 0 16.039062 L 16 16.039062 L 16 0.0390625 L 0 0.0390625 z M 15 1.0390625 L 15 15.039062 L 1 15.039062 L 4.46875 11.572266 C 5.37385 12.477266 6.619 13.041016 8 13.041016 C 10.7614 13.041016 13 10.802416 13 8.0410156 C 13 6.6603156 12.43612 5.4145656 11.53125 4.5097656 L 4.46875 11.570312 C 3.56385 10.665313 3 9.4200625 3 8.0390625 C 3 5.2776625 5.2386 3.0390625 8 3.0390625 C 9.3807 3.0390625 10.62645 3.6048956 11.53125 4.5097656 L 15 1.0390625 z "/>
 </svg>

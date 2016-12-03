@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-505 39.003)">
-  <g id="g4145" transform="matrix(0 -1 1 0 548 486)">
-   <g id="g4460">
-    <rect id="rect4438" opacity="1" fill="#5c616c" height="14" width="2" y="-38.003" x="505"/>
-    <rect id="rect4440" opacity="1" fill="#5c616c" height="4" width="5" y="-36.003" x="507"/>
-    <rect id="rect4442" opacity="1" fill="#5c616c" height="4" width="5" y="-30.003" x="507"/>
-   </g>
-   <g id="g4460-6" style="enable-background:new" transform="translate(9 .0000017483)">
-    <rect id="rect4438-7" opacity="1" fill="#5c616c" height="14" width="2" y="-38.003" x="505"/>
-    <rect id="rect4440-7" opacity="1" fill="#5c616c" height="4" width="5" y="-36.003" x="507"/>
-    <rect id="rect4442-1" opacity="1" fill="#5c616c" height="4" width="5" y="-30.003" x="507"/>
-   </g>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 2.9960938 0.00390625 L 2.9960938 5.0039062 L 0.99609375 5.0039062 L 0.99609375 7.0039062 L 14.996094 7.0039062 L 14.996094 5.0039062 L 12.996094 5.0039062 L 12.996094 0.00390625 L 8.9960938 0.00390625 L 8.9960938 5.0039062 L 6.9960938 5.0039062 L 6.9960938 0.00390625 L 2.9960938 0.00390625 z M 2.9960938 9.0039062 L 2.9960938 14.003906 L 0.99609375 14.003906 L 0.99609375 16.003906 L 14.996094 16.003906 L 14.996094 14.003906 L 12.996094 14.003906 L 12.996094 9.0039062 L 8.9960938 9.0039062 L 8.9960938 14.003906 L 6.9960938 14.003906 L 6.9960938 9.0039062 L 2.9960938 9.0039062 z "/>
 </svg>
