@@ -1,23 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3051">
- </defs>
- <metadata id="metadata3054">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-421.71 -531.79)">
-  <rect id="rect4752" height="10" width="2" y="534.79" x="425.71" fill="#f27935"/>
-  <rect id="rect4752-5" height="10" width="2" y="534.79" x="429.71" fill="#04896a"/>
-  <rect id="rect4752-3" height="10" width="2" y="534.79" x="433.71" fill="#3a539b"/>
-  <rect id="rect4752-31" height="10" width="2" y="534.79" x="423.71" fill="#fdd285"/>
-  <rect id="rect4752-4" height="10" width="2" y="534.79" x="431.71" fill="#1d99f3"/>
-  <rect id="rect4752-9-4" height="10" width="2" y="534.79" x="427.71" fill="#7fcc74"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 24 24">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <g
+     transform="translate(-417.70999,-527.78998)"
+     id="layer1">
+    <rect
+       style="fill:#f27935"
+       x="425.70999"
+       y="534.78998"
+       width="2"
+       height="10"
+       id="rect4752" />
+    <rect
+       style="fill:#04896a"
+       x="429.70999"
+       y="534.78998"
+       width="2"
+       height="10"
+       id="rect4752-5" />
+    <rect
+       style="fill:#3a539b"
+       x="433.70999"
+       y="534.78998"
+       width="2"
+       height="10"
+       id="rect4752-3" />
+    <rect
+       style="fill:#fdd285"
+       x="423.70999"
+       y="534.78998"
+       width="2"
+       height="10"
+       id="rect4752-31" />
+    <rect
+       style="fill:#1d99f3"
+       x="431.70999"
+       y="534.78998"
+       width="2"
+       height="10"
+       id="rect4752-4" />
+    <rect
+       style="fill:#7fcc74"
+       x="427.70999"
+       y="534.78998"
+       width="2"
+       height="10"
+       id="rect4752-9-4" />
+  </g>
 </svg>

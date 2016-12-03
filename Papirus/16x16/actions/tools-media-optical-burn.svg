@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
-  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <g id="layer10" filter="url(#filter7554)" transform="translate(-385 139)">
-  <path id="path4629" opacity="1" fill="#5c616c" d="m394.55-138c-4.0906 1.75-6.545 5.8505-6.545 8.75 0 2.8654 2.1474 5.1906 4.8144 5.2449-1.3328-0.028-2.4064-1.1877-2.4064-2.6199 0-1.4498 1.2272-3.5 3.2725-4.375 0 3.0625 2.196 3.5052 1.6362 5.25-0.31738 0.98934-1.0916 1.7402-2.4336 1.7483 0.008 0.00004 0.0169 0.001 0.0255 0.001 2.711 0 4.2705-1.5106 4.9087-3.5 1.1195-3.4896-3.2725-4.375-3.2725-10.5z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 9.5488281 1 C 5.4592083 2.7503927 3.0058594 6.850886 3.0058594 9.75 C 3.0058594 12.6154 5.1533125 14.939841 7.8203125 14.994141 C 6.4875125 14.966141 5.4121094 13.8072 5.4121094 12.375 C 5.4121094 10.9252 6.6402469 8.875 8.6855469 8 C 8.6855469 11.0625 10.882066 11.5052 10.322266 13.25 C 10.004886 14.23934 9.2306719 14.989947 7.8886719 14.998047 C 7.8966719 14.998087 7.9054625 15 7.9140625 15 C 10.625063 15 12.184066 13.4894 12.822266 11.5 C 13.941766 8.0104 9.5488281 7.125 9.5488281 1 z "/>
 </svg>

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-505 39.003)">
-  <g id="g4514" transform="matrix(0 1 -1 0 486 -541)">
-   <path id="rect4438" opacity="1" fill="#5c616c" transform="translate(506 -39.003)" d="m2.5 1v2h-1.5v4h1.5v2h-1.5v4h1.5v2h2v-2h1.5v-4h-1.5v-2h1.5v-4h-1.5v-2h-2zm9 0v2h-1.5v4h1.5v2h-1.5v4h1.5v2h2v-2h1.5v-4h-1.5v-2h1.5v-4h-1.5v-2h-2z"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 3.0039062 1.0039062 L 3.0039062 2.5039062 L 1.0039062 2.5039062 L 1.0039062 4.5039062 L 3.0039062 4.5039062 L 3.0039062 6.0039062 L 7.0039062 6.0039062 L 7.0039062 4.5039062 L 9.0039062 4.5039062 L 9.0039062 6.0039062 L 13.003906 6.0039062 L 13.003906 4.5039062 L 15.003906 4.5039062 L 15.003906 2.5039062 L 13.003906 2.5039062 L 13.003906 1.0039062 L 9.0039062 1.0039062 L 9.0039062 2.5039062 L 7.0039062 2.5039062 L 7.0039062 1.0039062 L 3.0039062 1.0039062 z M 3.0039062 10.003906 L 3.0039062 11.503906 L 1.0039062 11.503906 L 1.0039062 13.503906 L 3.0039062 13.503906 L 3.0039062 15.003906 L 7.0039062 15.003906 L 7.0039062 13.503906 L 9.0039062 13.503906 L 9.0039062 15.003906 L 13.003906 15.003906 L 13.003906 13.503906 L 15.003906 13.503906 L 15.003906 11.503906 L 13.003906 11.503906 L 13.003906 10.003906 L 9.0039062 10.003906 L 9.0039062 11.503906 L 7.0039062 11.503906 L 7.0039062 10.003906 L 3.0039062 10.003906 z "/>
 </svg>

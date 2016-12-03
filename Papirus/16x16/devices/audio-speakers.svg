@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16.004" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
-  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <g id="layer10" filter="url(#filter7554)" transform="translate(-445 119)">
-  <path id="path10508" opacity="1" fill="#5c616c" d="m449-118c-2 0-2 2-2 2v11c0 2 1.8933 1.9964 2 2h8s2-0.004 2-2v-11c0-2-2-2-2-2h-8zm4 2c0.55407 0 1 0.44945 1 1 0 0.55064-0.44593 1-1 1-0.55424 0-1-0.44936-1-1 0-0.55055 0.44576-1 1-1zm0 3c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4-4-1.7909-4-4 1.7909-4 4-4zm0 2c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path 
+     style="fill:currentColor;opacity:1"
+     class="ColorScheme-Text"
+     d="M 4 1 C 2 1 2 3 2 3 L 2 14 C 2 16 3.8933 15.9964 4 16 L 12 16 C 12 16 14 15.996 14 14 L 14 3 C 14 1 12 1 12 1 L 4 1 z M 8 3 C 8.55407 3 9 3.44945 9 4 C 9 4.55064 8.55407 5 8 5 C 7.44576 5 7 4.55064 7 4 C 7 3.44945 7.44576 3 8 3 z M 8 6 C 10.2091 6 12 7.7909 12 10 C 12 12.2091 10.2091 14 8 14 C 5.7909 14 4 12.2091 4 10 C 4 7.7909 5.7909 6 8 6 z M 8 8 C 6.8954 8 6 8.89543 6 10 C 6 11.10457 6.89543 12 8 12 C 9.10457 12 10 11.10457 10 10 C 10 8.89543 9.10457 8 8 8 z "
+      />
 </svg>

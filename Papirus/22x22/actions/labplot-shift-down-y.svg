@@ -1,61 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3760"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="labplot-shift-down-y.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="704"
-     inkscape:window-height="480"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3760" />
-  <defs
-     id="defs3762" />
-  <metadata
-     id="metadata3765">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-553.72 -583.12)">
-    <path
-       id="rect4148-2"
-       opacity="1"
-       style="color:#4d4d4d;fill:#5c616c;fill-opacity:1"
-       d="m564.72 589.12-2 4h4l-2-4zm-4 6-4 2 4 2v-4zm8 0v4l4-2-4-2zm-4 1c-0.554 0-1 0.446-1 1s0.446 1 1 1 1-0.446 1-1-0.446-1-1-1z" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 8 3 L 6 7 L 10 7 L 8 3 z M 4 9 L 0 11 L 4 13 L 4 9 z M 12 9 L 12 13 L 16 11 L 12 9 z M 8 10 C 7.446 10 7 10.446 7 11 C 7 11.554 7.446 12 8 12 C 8.554 12 9 11.554 9 11 C 9 10.446 8.554 10 8 10 z "/>
 </svg>

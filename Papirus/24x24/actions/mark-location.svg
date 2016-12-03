@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-385 39.003)">
-  <path id="path5874" opacity="1" fill="#5c616c" style="fill:#5c616c;enable-background:new" d="m397-34.007c-2.7614 0-5 2.2386-5 5 0 0.17259 0.0142 0.33191 0.0312 0.5 0.0137 0.16725 0.0358 0.33617 0.0625 0.5 0.57248 3.5144 2.9063 6.0034 4.9063 8.0034 2-2 4.3337-4.4889 4.9062-8.0034 0.0267-0.16383 0.0488-0.33275 0.0625-0.5 0.0171-0.16809 0.0312-0.32741 0.0312-0.5 0-2.7614-2.2386-5-5-5zm0 3c1.1046 0 2 0.89543 2 2s-0.89543 2-2 2-2-0.89543-2-2 0.89543-2 2-2z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 8 1.0039062 C 5.2386 1.0039062 3 3.2425062 3 6.0039062 C 3 6.1764962 3.01425 6.3358163 3.03125 6.5039062 C 3.04495 6.6711563 3.06705 6.8400763 3.09375 7.0039062 C 3.66623 10.518306 6 13.005859 8 15.005859 C 10 13.005859 12.33375 10.518406 12.90625 7.0039062 C 12.93295 6.8400763 12.95505 6.6711563 12.96875 6.5039062 C 12.98585 6.3358163 13 6.1764962 13 6.0039062 C 13 3.2425062 10.7614 1.0039062 8 1.0039062 z M 8 4.0039062 C 9.1046 4.0039062 10 4.8993362 10 6.0039062 C 10 7.1084763 9.10457 8.0039062 8 8.0039062 C 6.89543 8.0039062 6 7.1084762 6 6.0039062 C 6 4.8993363 6.89543 4.0039062 8 4.0039062 z "/>
 </svg>

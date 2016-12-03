@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
- </defs>
- <g id="layer12" transform="translate(-425 87)">
-  <path id="path4157" opacity="1" fill="#5c616c" style="enable-background:new" d="m431.84-81.994c-0.28103 0.04373-0.84375 0.23391-0.84375 0.93355v12.126c0 0.93286 1 0.93355 1 0.93355h9.9902c0.99921 0 1-0.93355 1-0.93355 0.0188-0.04301 0.005-6.9516 0-9.3277l-3.9961-3.7323h-6.9941s-0.0625-0.01455-0.15625 0zm5.1562 2.994 0.76563 2.1523 2.0625-0.98043-0.98047 2.0624 2.1523 0.76559-2.1523 0.76559 0.98047 2.0624-2.0625-0.98043-0.76563 2.1522-0.76562-2.1522-2.0625 0.98043 0.98046-2.0624-2.1523-0.76559 2.1523-0.76559-0.98046-2.0624 2.0625 0.98043 0.76562-2.1523z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 2.8398438 1.0058594 C 2.5588138 1.0495894 1.9960938 1.2398131 1.9960938 1.9394531 L 1.9960938 14.066406 C 1.9960938 14.999266 2.9960938 15 2.9960938 15 L 12.986328 15 C 13.985538 15 13.986328 14.066406 13.986328 14.066406 C 14.005128 14.023396 13.991328 7.1143812 13.986328 4.7382812 L 9.9902344 1.0058594 L 2.9960938 1.0058594 C 2.9960938 1.0058594 2.9335938 0.99130938 2.8398438 1.0058594 z M 7.9960938 4 L 8.7617188 6.1523438 L 10.824219 5.171875 L 9.84375 7.234375 L 11.996094 8 L 9.84375 8.765625 L 10.824219 10.828125 L 8.7617188 9.8476562 L 7.9960938 12 L 7.2304688 9.8476562 L 5.1679688 10.828125 L 6.1484375 8.765625 L 3.9960938 8 L 6.1484375 7.234375 L 5.1679688 5.171875 L 7.2304688 6.1523438 L 7.9960938 4 z "/>
 </svg>

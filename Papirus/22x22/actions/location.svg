@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-585 59.003)">
-  <path id="path6293" opacity="1" fill="#5c616c" style="fill:#5c616c;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" d="m592-54.003v2h7c1.6793 0 3 1.3207 3 3s-1.3207 3-3 3h-1v-2l-5 3 5 3v-2h1c2.7508 0.10093 5-2.2473 5-5s-2.2473-5-5-5h-7zm-2 7a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 4 2 L 4 4 L 11 4 C 12.6793 4 14 5.3207 14 7 C 14 8.6793 12.6793 10 11 10 L 10 10 L 10 8 L 5 11 L 10 14 L 10 12 L 11 12 C 13.7508 12.10093 16 9.7527 16 7 C 16 4.2473 13.7527 2 11 2 L 4 2 z M 2 9 A 2 2 0 0 0 0 11 A 2 2 0 0 0 2 13 A 2 2 0 0 0 4 11 A 2 2 0 0 0 2 9 z "/>
 </svg>

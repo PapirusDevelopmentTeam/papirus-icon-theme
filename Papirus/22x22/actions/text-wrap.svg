@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-385 -55)">
-  <path id="path5940" opacity="1" fill="#5c616c" style="fill:#5c616c;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" d="m394 59-5 14h2.5l1.0625-3h3.4629a3.5 3.5 0 0 1 2.9707 -3.0605l-2.99-7.94h-2zm1 4 1.75 5h-3.5l1.75-5zm4.5 4v0.85742c-1.3806 0-2.5 1.1502-2.5 2.5703 0 1.4202 1.1194 2.5723 2.5 2.5723 1.3666 0 2.4756-1.1291 2.498-2.5293a0.41663 0.42857 0 0 0 0.002 -0.04297 0.41663 0.42857 0 0 0 -0.42 -0.427 0.41663 0.42857 0 0 0 -0.41797 0.42773c0 0.94677-0.74562 1.7148-1.666 1.7148s-1.666-0.76807-1.666-1.7148c0-0.94677 0.74564-1.7129 1.666-1.7129v0.85742l1.666-1.2871-1.66-1.285z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5c616c;
+      }
+      </style>
+  </defs>
+  <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 6 1 L 1 15 L 3.5 15 L 4.5625 12 L 8.0253906 12 A 3.5 3.5 0 0 1 10.996094 8.9394531 L 8 1 L 6 1 z M 7 5 L 8.75 10 L 5.25 10 L 7 5 z M 11.5 9 L 11.5 9.8574219 C 10.119 9.8574219 9 11.007734 9 12.427734 C 9 13.847734 10.119 15 11.5 15 C 12.867 15 13.976047 13.870703 13.998047 12.470703 A 0.41663 0.42857 0 0 0 14 12.427734 A 0.41663 0.42857 0 0 0 13.583984 12 A 0.41663 0.42857 0 0 0 13.166016 12.427734 C 13.166016 13.374734 12.42 14.142578 11.5 14.142578 C 10.58 14.142578 9.8339844 13.374734 9.8339844 12.427734 C 9.8339844 11.480734 10.58 10.714844 11.5 10.714844 L 11.5 11.572266 L 13.166016 10.285156 L 11.5 9 z "/>
 </svg>
