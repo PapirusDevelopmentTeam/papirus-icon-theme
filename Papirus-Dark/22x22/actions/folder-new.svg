@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-525 99.01)">
-  <path id="path5986" opacity="1" fill="#d3dae3" style="fill:#d3dae3;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" d="m529.84-94.01c-0.28125 0.04688-0.84375 0.25-0.84375 1v11s0 1 1 1h12s1 0 1-1v-9c0-1-1-1-1-1h-5l-2-2h-5s-0.0625-0.0156-0.15625 0zm5.1562 4h2v2h2v2h-2v2h-2v-2h-2v-2h2v-2z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 1.8398438 1.0097656 C 1.5585938 1.0566456 0.99609375 1.2597656 0.99609375 2.0097656 L 0.99609375 13.009766 C 0.99609375 13.009766 0.99609375 14.009766 1.9960938 14.009766 L 13.996094 14.009766 C 13.996094 14.009766 14.996094 14.009766 14.996094 13.009766 L 14.996094 4.0097656 C 14.996094 3.0097656 13.996094 3.0097656 13.996094 3.0097656 L 8.9960938 3.0097656 L 6.9960938 1.0097656 L 1.9960938 1.0097656 C 1.9960938 1.0097656 1.9335938 0.99416562 1.8398438 1.0097656 z M 6.9960938 5.0097656 L 8.9960938 5.0097656 L 8.9960938 7.0097656 L 10.996094 7.0097656 L 10.996094 9.0097656 L 8.9960938 9.0097656 L 8.9960938 11.009766 L 6.9960938 11.009766 L 6.9960938 9.0097656 L 4.9960938 9.0097656 L 4.9960938 7.0097656 L 6.9960938 7.0097656 L 6.9960938 5.0097656 z"/>
 </svg>

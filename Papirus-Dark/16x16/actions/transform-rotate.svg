@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3051">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <metadata id="metadata3054">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-421.71 -531.79)">
-  <rect id="rect4035" height="11" width="0" y="534.79" x="417.71" fill="currentColor"/>
-  <rect id="rect4035-2" height="11" width="0" y="535.06" x="411.57" fill="currentColor"/>
-  <rect id="rect4035-5" height="11" width="0" y="533.01" x="429.61" fill="currentColor"/>
-  <rect id="rect4035-8" height="11" width="0" y="535.06" x="411.57" fill="currentColor"/>
-  <rect id="rect4035-59" height="11" width="0" y="535.06" x="411.57" fill="currentColor"/>
-  <rect id="rect4035-9" height="11" width="0" y="535.06" x="411.57" fill="currentColor"/>
-  <rect id="rect4035-5-7" height="11" width="0" y="533.01" x="429.61" fill="currentColor"/>
-  <rect id="rect4035-9-0" height="11" width="0" y="535.06" x="391.57" fill="currentColor"/>
-  <rect id="rect4035-5-7-5" height="11" width="0" y="533.01" x="409.61" fill="currentColor"/>
-  <path id="rect3344" opacity="1" fill="#d3dae3" style="color:#4d4d4d" d="m1 1v9h6v-5h2c1.108 0 2 0.89199 2 2v2h-3v2h-2v4h9v-6h-3v-2c0-1.662-1.338-3-3-3h-2v-3z" transform="translate(421.71 531.79)"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 1 1 L 1 10 L 7 10 L 7 5 L 9 5 C 10.108 5 11 5.89199 11 7 L 11 9 L 8 9 L 8 11 L 6 11 L 6 15 L 15 15 L 15 9 L 12 9 L 12 7 C 12 5.338 10.662 4 9 4 L 7 4 L 7 1 L 1 1 z"/>
 </svg>

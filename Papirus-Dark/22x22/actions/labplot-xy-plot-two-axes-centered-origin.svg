@@ -1,62 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3760"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="labplot-xy-plot-two-axes-centered-origin.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="704"
-     inkscape:window-height="480"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3760" />
-  <defs
-     id="defs3762" />
-  <metadata
-     id="metadata3765">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-551.29 -607.65)">
-    <path
-       id="rect3764"
-       opacity="1"
-       transform="translate(551.29 607.65)"
-       d="m16.727 3l-1.727 2.9902v2.0098h-3l-1 1v-5h-1v5.9941l-0.0059 0.0059h0.0059l-1.002 1h-5.998v1h4.9961l-0.9961 0.998-1 0.998v4.004h-3v1h4v-4.59l0.4102-0.41h0.0019l2-2h0.5879v7h1v-7h7v-1h-7v-0.588l1.412-1.412h3.588v-2.7422l1.303-2.2578h1.697v-1h-2.273z"
-       style="fill:#d3dae3;fill-opacity:1" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 13.720703 0 L 11.994141 2.9902344 L 11.994141 5 L 8.9941406 5 L 7.9941406 6 L 7.9941406 1 L 6.9941406 1 L 6.9941406 6.9941406 L 6.9882812 7 L 6.9941406 7 L 5.9921875 8 L -0.005859375 8 L -0.005859375 9 L 4.9902344 9 L 3.9941406 9.9980469 L 2.9941406 10.996094 L 2.9941406 15 L -0.005859375 15 L -0.005859375 16 L 3.9941406 16 L 3.9941406 11.410156 L 4.4042969 11 L 4.40625 11 L 6.40625 9 L 6.9941406 9 L 6.9941406 16 L 7.9941406 16 L 7.9941406 9 L 14.994141 9 L 14.994141 8 L 7.9941406 8 L 7.9941406 7.4121094 L 9.40625 6 L 12.994141 6 L 12.994141 3.2578125 L 14.296875 1 L 15.994141 1 L 15.994141 0 L 13.720703 0 z"/>
 </svg>

@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g6058" transform="translate(-424 -509)">
-  <g id="g4149" opacity="1" fill="#d3dae3">
-   <path id="path6174-9" style="fill:#d3dae3;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none" transform="translate(424 509)" d="m6 2c-1.6569 0-3 1.3432-3 3s1.3431 3 3 3 3-1.3432 3-3-1.3431-3-3-3zm5 1.9512c-0.38828 0-0.75331 0.089301-1.084 0.23828 0.0546 0.262 0.084 0.533 0.084 0.8105 0 1.1021-0.4542 2.1042-1.1836 2.8301 0.4603 0.7037 1.2626 1.1738 2.1836 1.1738 1.4327 0 2.5938-1.1303 2.5938-2.5254s-1.1611-2.5273-2.5938-2.5273zm-5 6.0488c-6.0002 0.0034-6 4.0039-6 4.0039v1c0.88052 0.0026 13.517-0.002 10-0.0039-0.55226-0.000055-0.99994-0.44774-1-1v-2c0.0000552-0.55226 0.44774-0.99994 1-1h0.1543c-0.8883-0.573-2.1989-1.001-4.154-1zm6 0v2h-2v2h2v2h2v-2h2v-2h-2v-2z"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 6 2 C 4.3431 2 3 3.3432 3 5 C 3 6.6568 4.3431 8 6 8 C 7.6569 8 9 6.6568 9 5 C 9 3.3432 7.6569 2 6 2 z M 11 3.9511719 C 10.61172 3.9511719 10.246706 4.0404741 9.9160156 4.1894531 C 9.9706156 4.4514531 10 4.7225 10 5 C 10 6.1021 9.5458062 7.1041781 8.8164062 7.8300781 C 9.2767063 8.5337781 10.079 9.0039063 11 9.0039062 C 12.4327 9.0039062 13.59375 7.8736156 13.59375 6.4785156 C 13.59375 5.0834156 12.4327 3.9511719 11 3.9511719 z M 6 10 C -0.0002 10.0034 0 14.003906 0 14.003906 L 0 15.003906 C 0.88052 15.006506 13.517 15.0019 10 15 C 9.44774 14.999945 9.00006 14.55226 9 14 L 9 12 C 9.0000552 11.44774 9.44774 11.00006 10 11 L 10.154297 11 C 9.2659969 10.427 7.9551 9.999 6 10 z M 12 10 L 12 12 L 10 12 L 10 14 L 12 14 L 12 16 L 14 16 L 14 14 L 16 14 L 16 12 L 14 12 L 14 10 L 12 10 z"/>
 </svg>

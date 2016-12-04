@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3869" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3871">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <metadata id="metadata3874">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-326 -534.36)">
-  <path id="path4383" opacity="1" fill="#d3dae3" style="fill-rendering:auto;fill:#d3dae3;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-fill:#d3dae3;image-rendering:auto" fill-rule="evenodd" d="m333.5 537.36c-2.3173-0.00001-2.8536 2.556-2.9668 6h-1.5332v4h4v-4h-1.4512c0.10929-2.8711 0.52232-5 1.9512-5 1.696 0 2.6133 2.1158 2.8945 5h-1.3945v4h1.6504c0.42699 3.4818 1.6636 5.9971 3.8496 6 2.5026-0.00001 2.6875-2.5404 2.9258-6h1.5742v-4h-4v4h1.4258c-0.20543 2.899-0.35893 5-1.9258 5-1.6756-0.004-2.5103-2.0793-2.8555-5h1.3555v-4h-1.6133c-0.36233-3.444-1.6761-6-3.8867-6z"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 4.5 0 C 2.1827 -1e-05 1.6464031 2.556 1.5332031 6 L 0 6 L 0 10 L 4 10 L 4 6 L 2.5488281 6 C 2.6581181 3.1289 3.07112 1 4.5 1 C 6.196 1 7.1133312 3.1158 7.3945312 6 L 6 6 L 6 10 L 7.6503906 10 C 8.0773806 13.4818 9.314 15.9971 11.5 16 C 14.0026 15.99999 14.187481 13.4596 14.425781 10 L 16 10 L 16 6 L 12 6 L 12 10 L 13.425781 10 C 13.220351 12.899 13.06687 15 11.5 15 C 9.8244 14.996 8.9897313 12.9207 8.6445312 10 L 10 10 L 10 6 L 8.3867188 6 C 8.0243888 2.556 6.7106 0 4.5 0 z"/>
 </svg>

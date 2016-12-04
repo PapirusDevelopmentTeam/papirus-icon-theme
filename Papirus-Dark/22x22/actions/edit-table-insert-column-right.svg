@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3051">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <metadata id="metadata3054">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-421.71 -525.79)">
-  <path id="rect6699-7-6-4-5" opacity="1" fill="#d3dae3" style="fill:#d3dae3" d="m433.71 529.79v2h-2v2h2v2h-2v2h2v2h-2v2h2v2h-8v-14h8zm6 1v7h-1.7188l0.71875-0.71875v-2.5625l-0.28125 0.28125-1 1-1.7188 1.7188v0.28125h-1v-7h1v1.2812l0.28125-0.28125 1-1h1.4375l-1 1-1.7188 1.7188v2.5624l0.28125-0.28125 1-1 1.7188-1.7188v-2.2812h1zm-10 1h-2v2h2v-2zm0 4h-2v2h2v-2zm6 3 4 2-4 2v-4zm-6 1h-2v2h2v-2z"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 1 1 L 1 15 L 9 15 L 9 13 L 7 13 L 7 11 L 9 11 L 9 9 L 7 9 L 7 7 L 9 7 L 9 5 L 7 5 L 7 3 L 9 3 L 9 1 L 1 1 z M 10 2 L 10 9 L 11 9 L 11 8.71875 L 12.71875 7 L 13.71875 6 L 14 5.71875 L 14 8.28125 L 13.28125 9 L 15 9 L 15 2 L 14 2 L 14 4.28125 L 12.28125 6 L 11.28125 7 L 11 7.28125 L 11 4.71875 L 12.71875 3 L 13.71875 2 L 12.28125 2 L 11.28125 3 L 11 3.28125 L 11 2 L 10 2 z M 3 3 L 5 3 L 5 5 L 3 5 L 3 3 z M 3 7 L 5 7 L 5 9 L 3 9 L 3 7 z M 11 10 L 11 14 L 15 12 L 11 10 z M 3 11 L 5 11 L 5 13 L 3 13 L 3 11 z"/>
 </svg>

@@ -1,89 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3049"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="draw-brush.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1" fill="#d3dae3"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="704"
-     inkscape:window-height="480"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3049" />
-  <defs
-     id="defs3051" />
-  <metadata
-     id="metadata3054">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-421.71 -531.79)">
-    <rect
-       id="rect4035"
-       height="11"
-       width="0"
-       y="534.79"
-       x="404.71"
-       fill="currentColor" />
-    <rect
-       id="rect4035-5"
-       height="11"
-       width="0"
-       y="532.74"
-       x="422.76"
-       fill="currentColor" />
-    <rect
-       id="rect4035-8"
-       height="11"
-       width="0"
-       y="534.79"
-       x="404.71"
-       fill="currentColor" />
-    <rect
-       id="rect4035-59"
-       height="11"
-       width="0"
-       y="534.79"
-       x="404.71"
-       fill="currentColor" />
-    <path
-       id="path88"
-       opacity="1" fill="#d3dae3"
-       style="color:#4d4d4d;fill:#d3dae3;fill-opacity:1"
-       d="m436.29 532.8c-1.0541-0.13287-3.8041 1.7506-6.5141 4.4616-1.2085 1.2092-2.2567 2.4048-3.06 3.5319 0.94148 0.29995 1.7002 1.0582 2 2 1.1267-0.80351 2.3252-1.8481 3.5341-3.057 3.0746-3.0758 5.0132-6.1231 4.3302-6.8069-0.0702-0.0707-0.16743-0.11418-0.29052-0.12997m-10.074 9.3262c-3.4999 0.93824-0.87498 3.1542-3.4999 4.6677 3.4999 0 5.2498-1.7516 5.2498-2.9197 0-0.58228 0.0595-1.6535-1.7499-1.7504" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 14.574219 1.0058594 C 13.520146 0.87298937 10.770478 2.75775 8.0605469 5.46875 C 6.8520776 6.67795 5.8032796 7.8729 5 9 C 5.9414561 9.29995 6.7002076 10.0582 7 11 C 8.1266713 10.19649 9.3243336 9.1522594 10.533203 7.9433594 C 13.607725 4.8675594 15.546263 1.8205187 14.863281 1.1367188 C 14.793083 1.0660188 14.697306 1.0216494 14.574219 1.0058594 z M 4.5 10.330078 L 4.5 10.332031 C 1.0001889 11.270271 3.6248533 13.4865 1 15 C 4.4998111 15 6.25 13.248178 6.25 12.080078 C 6.25 11.497798 6.3093545 10.426978 4.5 10.330078 z"/>
 </svg>

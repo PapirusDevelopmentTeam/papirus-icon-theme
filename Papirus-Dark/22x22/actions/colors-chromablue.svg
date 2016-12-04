@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3051">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs id="defs10">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
  </defs>
- <metadata id="metadata3054">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-421.71 -525.79)">
-  <path id="path4166" style="fill:#d3dae3;text-decoration-line:none" fill="#42a6ef" d="m432.71 529.79c-1.3398 4.4546-5 7.0853-5 9.5454 0 2.4602 2.2386 4.4546 5 4.4546s5-1.9944 5-4.4546-3.6602-5.0909-5-9.5454z"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Highlight" transform="translate(3 3)" d="M 8 1 C 6.6602 5.4546 3 8.0848219 3 10.544922 C 3 13.005122 5.2386 15 8 15 C 10.7614 15 13 13.005122 13 10.544922 C 13 8.0847219 9.3398 5.4545 8 1 z"/>
 </svg>

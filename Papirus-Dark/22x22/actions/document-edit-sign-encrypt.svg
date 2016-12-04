@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <g id="layer12" transform="translate(-566 85.01)">
-  <path id="path4192" opacity="1" fill="#d3dae3" style="fill:#d3dae3;enable-background:accumulate" d="m572-81.01s-1 0-1 1v12c0 1 1 1 1 1h4v-2h-3v-9.9961h8v4.9863h2v-5.9902c0-1-1-1-1-1h-10zm8 7.9902c-2 0-2 1-2 1v2h-1v3h6v-3h-1v-2s0-1-2-1zm0 1c0.37268 0 1 0.22386 1 0.5v1.5h-2v-1.5c0-0.27614 0.62732-0.5 1-0.5z"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 3 1 C 3 1 2 1 2 2 L 2 14 C 2 15 3 15 3 15 L 7 15 L 7 13 L 4 13 L 4 3.0039062 L 12 3.0039062 L 12 7.9902344 L 14 7.9902344 L 14 2 C 14 1 13 1 13 1 L 3 1 z M 11 8.9902344 C 9 8.9902344 9 9.9902344 9 9.9902344 L 9 11.990234 L 8 11.990234 L 8 14.990234 L 14 14.990234 L 14 11.990234 L 13 11.990234 L 13 9.9902344 C 13 9.9902344 13 8.9902344 11 8.9902344 z M 11 9.9902344 C 11.37268 9.9902344 12 10.214094 12 10.490234 L 12 11.990234 L 10 11.990234 L 10 10.490234 C 10 10.214094 10.62732 9.9902344 11 9.9902344 z"/>
 </svg>

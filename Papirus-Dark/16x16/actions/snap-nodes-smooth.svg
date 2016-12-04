@@ -1,75 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="snap-nodes-smooth.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-2.8813559"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>
-                    image/svg+xml
-                </dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-  </defs>
-  <path
-     inkscape:connector-curvature="0"
-     d="M 1.02,1.5 A 0.50005,0.50005 0 0 0 0.9692,1.502 0.50005,0.50005 0 0 0 0.936,2.49809 c 0,0 2.6625,0.37688 5.0664,1.5098 l 0,1.9941 2.8066,0 c 0.49604,0.57783 0.84911,1.2367 0.98242,1.9922 0.24898,1.4109 -0.23238,3.2612 -2.1797,5.6953 a 0.50005,0.50005 0 0 0 0.39063,0.8125 c 3.619,0 5.5704,-1.3346 6.5352,-2.7129 0.9648,-1.3783 0.96484,-2.7871 0.96484,-2.7871 a 0.50005,0.50005 0 1 0 -1,0 c 0,0 4e-5,1.0912 -0.78516,2.2129 -0.68535,0.97907 -2.1808,1.862 -4.7402,2.1035 1.4315,-2.1056 2.0683,-3.9692 1.7988,-5.4961 -0.2186,-1.2387 -0.89649,-2.2402 -1.7734,-3.0469 l 0,-1.7734 -2.7988,0 c -2.533,-1.1514 -5.1348,-1.4961 -5.1348,-1.4961 a 0.50005,0.50005 0 0 0 -0.0488,-0.006 z"
-     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;block-progression:tb;white-space:normal;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto;enable-background:accumulate;fill:#d3dae3;fill-opacity:1"
-     id="path6308-6-9" />
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 1.0195312 1.5 A 0.50005 0.50005 0 0 0 0.96875 1.5019531 A 0.50005 0.50005 0 0 0 0.93554688 2.4980469 C 0.93554688 2.4980469 3.5980531 2.8748925 6.0019531 4.0078125 L 6.0019531 6.0019531 L 8.8085938 6.0019531 C 9.3046338 6.5797831 9.6577056 7.2386406 9.7910156 7.9941406 C 10.039996 9.4050406 9.5586481 11.255353 7.6113281 13.689453 A 0.50005 0.50005 0 0 0 8.0019531 14.501953 C 11.620953 14.501953 13.572309 13.167363 14.537109 11.789062 C 15.501909 10.410763 15.501953 9.0019531 15.501953 9.0019531 A 0.50005 0.50005 0 1 0 14.501953 9.0019531 C 14.501953 9.0019531 14.501997 10.093144 13.716797 11.214844 C 13.031447 12.193914 11.535962 13.076859 8.9765625 13.318359 C 10.408062 11.212759 11.044891 9.3491656 10.775391 7.8222656 C 10.556791 6.5835656 9.8788631 5.5820906 9.0019531 4.7753906 L 9.0019531 3.0019531 L 6.203125 3.0019531 C 3.670125 1.8505531 1.0683594 1.5058594 1.0683594 1.5058594 A 0.50005 0.50005 0 0 0 1.0195312 1.5 z"/>
 </svg>

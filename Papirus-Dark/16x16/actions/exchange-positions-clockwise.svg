@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg3869" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs3871">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <metadata id="metadata3874">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-326 -540.36)">
-  <path id="rect4253" opacity="1" fill="#d3dae3" style="fill:#d3dae3" d="m326 540.36v7h8v-7h-8zm9 1.0781v3.9219h1v-2.6445c2.393 0.84605 3.9948 3.1064 4 5.6445h1c-0.003-3.4773-2.5584-6.4251-6-6.9219zm-8 6.9219c0.003 3.4773 2.5584 6.4251 6 6.9219v-3.9219h-1v2.6445c-2.393-0.84605-3.9948-3.1064-4-5.6445h-1zm11.5 1a3.5 3.5 0 0 0 -3.5 3.5 3.5 3.5 0 0 0 0.69922 2.0938l0.7168-0.7168a2.5 2.5 0 0 1 -0.42 -1.37 2.5 2.5 0 0 1 2.5 -2.5 2.5 2.5 0 0 1 1.377 0.41602l0.7168-0.7168a3.5 3.5 0 0 0 -2.1 -0.7zm2.8008 1.4062-0.7168 0.7168a2.5 2.5 0 0 1 0.42 1.37 2.5 2.5 0 0 1 -2.5 2.5 2.5 2.5 0 0 1 -1.377 -0.41602l-0.7168 0.7168a3.5 3.5 0 0 0 2.0938 0.69922 3.5 3.5 0 0 0 3.5 -3.5 3.5 3.5 0 0 0 -0.69922 -2.0938z"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 0 0 L 0 7 L 8 7 L 8 0 L 0 0 z M 9 1.078125 L 9 5 L 10 5 L 10 2.3554688 C 12.393 3.2015187 13.9948 5.4619 14 8 L 15 8 C 14.997 4.5227 12.4416 1.574925 9 1.078125 z M 1 8 C 1.003 11.4773 3.5584 14.425075 7 14.921875 L 7 11 L 6 11 L 6 13.644531 C 3.607 12.798481 2.0052 10.5381 2 8 L 1 8 z M 12.5 9 A 3.5 3.5 0 0 0 9 12.5 A 3.5 3.5 0 0 0 9.6992188 14.59375 L 10.416016 13.876953 A 2.5 2.5 0 0 1 9.9960938 12.507812 A 2.5 2.5 0 0 1 12.496094 10.007812 A 2.5 2.5 0 0 1 13.873047 10.423828 L 14.589844 9.7070312 A 3.5 3.5 0 0 0 12.490234 9.0058594 L 12.5 9 z M 15.304688 10.398438 L 15.300781 10.40625 L 14.583984 11.123047 A 2.5 2.5 0 0 1 15.003906 12.492188 A 2.5 2.5 0 0 1 12.503906 14.992188 A 2.5 2.5 0 0 1 11.126953 14.576172 L 10.410156 15.292969 A 3.5 3.5 0 0 0 12.503906 15.992188 A 3.5 3.5 0 0 0 16.003906 12.492188 A 3.5 3.5 0 0 0 15.304688 10.398438 z"/>
 </svg>

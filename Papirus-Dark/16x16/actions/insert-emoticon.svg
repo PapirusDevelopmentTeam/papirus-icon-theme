@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-347.14 -41)">
-  <path id="path5915-96" opacity="1" fill="#d3dae3" style="fill:#d3dae3;enable-background:accumulate" d="m355.14 41.999c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm-3 4.0039c0.55407 0 1 0.44945 1 1 0 0.55064-0.44593 1-1 1-0.55424 0-1-0.44936-1-1 0-0.55055 0.44576-1 1-1zm6 0c0.55415 0 1 0.44945 1 1 0 0.55064-0.44585 1-1 1-0.55407 0-1-0.44936-1-1 0-0.55055 0.44593-1 1-1zm-6.9922 5h7.9844c-0.94262 1.2568-2.4212 1.9975-3.9922 2-1.571-0.002-3.0496-0.74317-3.9922-2z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 8 0.99804688 C 4.134 0.99804688 1 4.1320469 1 7.9980469 C 1 11.864047 4.134 14.998047 8 14.998047 C 11.866 14.998047 15 11.864047 15 7.9980469 C 15 4.1320469 11.866 0.99804688 8 0.99804688 z M 5 5.0019531 C 5.55407 5.0019531 6 5.4514031 6 6.0019531 C 6 6.5525931 5.55407 7.0019531 5 7.0019531 C 4.44576 7.0019531 4 6.5525931 4 6.0019531 C 4 5.4514031 4.44576 5.0019531 5 5.0019531 z M 11 5.0019531 C 11.55415 5.0019531 12 5.4514031 12 6.0019531 C 12 6.5525931 11.55415 7.0019531 11 7.0019531 C 10.44593 7.0019531 10 6.5525931 10 6.0019531 C 10 5.4514031 10.44593 5.0019531 11 5.0019531 z M 4.0078125 10.001953 L 11.992188 10.001953 C 11.049568 11.258753 9.571 11.999453 8 12.001953 C 6.429 11.999953 4.9504125 11.258783 4.0078125 10.001953 z"/>
 </svg>

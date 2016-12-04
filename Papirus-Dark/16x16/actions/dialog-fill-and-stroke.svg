@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-505 39.003)">
-  <g id="g4180" opacity="1" fill="#d3dae3" transform="matrix(.72572 0 0 .81721 506 -38.885)">
-   <g id="g4140" style="">
-    <path id="path4142" style="" d="m7.621 10.267c-0.367 0.404-0.457 0.694-0.938 1.454 0.311 0.217 0.908 0.718 1.322 1.581 0.827-0.475 1.213-0.547 1.651-0.916 2.862-2.41 9.87-11.049 9.629-11.299-0.253-0.265-9.144 6.416-11.664 9.18zm-1.764 2.125c-1.243-0.22-2.47 0.566-3.289 2.53-0.82 1.964-2.284 2.75-2.568 2.702 1.528 0.553 6.188 1.967 7.346-3.416-0.492-1.291-1.489-1.816-1.489-1.816z"/>
-   </g>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 14.996094 1.0058594 C 14.812487 0.78929872 8.3600644 6.2490441 6.53125 8.5078125 C 6.2649108 8.8379653 6.1986807 9.076186 5.8496094 9.6972656 C 6.0753083 9.8746002 6.5081457 10.283029 6.8085938 10.988281 C 7.4087642 10.600106 7.6899471 10.541785 8.0078125 10.240234 C 10.084823 8.2707583 15.170992 1.2101619 14.996094 1.0058594 z M 4.9140625 10.216797 C 4.1311807 10.241243 3.3833503 10.908125 2.8632812 12.3125 C 2.2681909 13.9175 1.2061045 14.56071 1 14.521484 C 2.1089002 14.973402 5.4916475 16.127557 6.3320312 11.728516 C 5.974977 10.673498 5.25 10.244141 5.25 10.244141 C 5.1372413 10.221667 5.0259028 10.213305 4.9140625 10.216797 z"/>
 </svg>
