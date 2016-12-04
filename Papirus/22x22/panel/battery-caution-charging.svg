@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" viewBox="0 0 22 22">
  <g transform="translate(-129 -695.36)">
-  <rect style="color:#dddddd" transform="rotate(90)" height="22" width="22" y="-151" x="695.36" fill="none"/>
-  <path opacity=".3" d="m138 699.36v1h-3v12c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-12h-3v-1zm2 4v3h3l-3 5v-3h-3z" fill="#d3dae3"/>
-  <path d="m135 710.36v2c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-2h-4.4062l-0.59375 1v-1h-5z" fill="#d3dae3"/>
+  <path opacity=".3" style="fill:#d3dae3" d="m138 699.36v1h-3v12c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-12h-3v-1zm2 4v3h3l-3 5v-3h-3z"  />
+  <path style="fill:#d3dae3" d="m135 710.36v2c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-2h-4.4062l-0.59375 1v-1h-5z"  />
  </g>
 </svg>

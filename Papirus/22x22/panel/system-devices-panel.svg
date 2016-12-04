@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" viewBox="0 0 22 22">
- <g transform="translate(-33 -863.36)">
-  <rect style="color:#bebebe;enable-background:new" rx=".144" ry=".151" height="22" width="22" y="863.36" x="33" fill="none"/>
-  <rect style="color:#bebebe" rx="1" ry="1" height="7.003" width="2" y="867.36" x="43" fill="#d3dae3"/>
-  <path style="block-progression:tb;color:#d3dae3;text-transform:none;text-indent:0" d="m46.844 869.36a1.0001 1.0001 0 0 0 -0.4375 1.8125c1.7785 1.3304 2.1428 3.8153 0.8125 5.5938-1.3304 1.7785-3.8465 2.1116-5.625 0.78125s-2.1116-3.8153-0.78125-5.5938c0.21656-0.28951 0.4639-0.52896 0.75-0.75a1.0032 1.0032 0 1 0 -1.2188 -1.5938c-0.42915 0.33156-0.83141 0.72199-1.1562 1.1562-1.9778 2.644-1.4252 6.4285 1.2188 8.4062 2.644 1.9778 6.4285 1.4252 8.4062-1.2188 1.9778-2.644 1.4252-6.4285-1.2188-8.4062a1.0001 1.0001 0 0 0 -0.75 -0.1875z" fill="#d3dae3"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="system-devices-panel-alert.svg">
+  <path
+     style="fill:#d3dae3"
+     d="M 11 4 C 10.446 4 10 4.446 10 5 L 10 10.003906 C 10 10.557906 10.446 11.003906 11 11.003906 C 11.554 11.003906 12 10.557906 12 10.003906 L 12 5 C 12 4.446 11.554 4 11 4 z M 14.037109 5.9882812 A 1.0001 1.0001 0 0 0 13.84375 6 A 1.0001 1.0001 0 0 0 13.40625 7.8125 C 15.18475 9.1429 15.54905 11.62775 14.21875 13.40625 C 12.88835 15.18475 10.37225 15.51785 8.59375 14.1875 C 6.81525 12.85715 6.48215 10.37225 7.8125 8.59375 C 8.02906 8.30424 8.2764 8.06479 8.5625 7.84375 A 1.0032039 1.0032039 0 0 0 7.34375 6.25 C 6.9146 6.58156 6.51229 6.97204 6.1875 7.40625 C 4.2097 10.05025 4.76225 13.8348 7.40625 15.8125 C 10.05025 17.7903 13.8348 17.23775 15.8125 14.59375 C 17.7903 11.94975 17.23775 8.1652 14.59375 6.1875 A 1.0001 1.0001 0 0 0 14.037109 5.9882812 z "
+     id="rect6" />
 </svg>
