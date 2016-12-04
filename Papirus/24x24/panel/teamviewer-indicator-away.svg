@@ -1,57 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   viewBox="0 0 6.77 6.77"
-   width="24"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="teamviewer-indicator-away.svg">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="849"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="15.980142"
-     inkscape:cx="16.492145"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     style="fill:#d3dae3"
-     d="m3.1044 0.84581a2.2578 2.2578 0 0 1 2.2578 2.2578 2.2578 2.2578 0 0 1 -0.0386 0.409l-0.1025-0.1025-0.1995-0.1996-0.7982 0.7982 0.22379 0.22379h-1.0605v1.109a2.2578 2.2578 0 0 1 -0.2823 0.0199 2.2578 2.2578 0 0 1 -2.2577 -2.2578 2.2578 2.2578 0 0 1 2.2577 -2.2578zm0.56444 1.4111v0.56389h-1.1289v-0.56389l-0.8466 0.8467 0.8467 0.8467v-0.56389h1.1289v0.56389l0.8467-0.8467-0.8467-0.8467zm1.3528 1.3527 1.1873 1.1873-1.1873 1.1873-0.3991-0.399 0.506-0.5061h-1.4596v-0.56444h1.4596l-0.506-0.506 0.3991-0.3991z"
-     id="path4" />
-  <g
-     transform="matrix(.28222 0 0 .28222 -4.0521 -1.819)"
-     id="g6" />
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 6.77 6.77" width="24" version="1.1" id="svg2">
+ <defs id="defs12">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" d="m3.1044 0.84581a2.2578 2.2578 0 0 1 2.2578 2.2578 2.2578 2.2578 0 0 1 -0.0386 0.409l-0.1025-0.1025-0.1995-0.1996-0.7982 0.7982 0.22379 0.22379h-1.0605v1.109a2.2578 2.2578 0 0 1 -0.2823 0.0199 2.2578 2.2578 0 0 1 -2.2577 -2.2578 2.2578 2.2578 0 0 1 2.2577 -2.2578zm0.56444 1.4111v0.56389h-1.1289v-0.56389l-0.8466 0.8467 0.8467 0.8467v-0.56389h1.1289v0.56389l0.8467-0.8467-0.8467-0.8467zm1.3528 1.3527 1.1873 1.1873-1.1873 1.1873-0.3991-0.399 0.506-0.5061h-1.4596v-0.56444h1.4596l-0.506-0.506 0.3991-0.3991z" id="path4" class="ColorScheme-ButtonBackground"/>
 </svg>

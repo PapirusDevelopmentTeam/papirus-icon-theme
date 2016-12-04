@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2"   xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" xml:space="preserve" viewBox="0 0 1624.01 1624.01" width="22" version="1.1" clip-rule="evenodd" height="22">
- <path id="path10" style="fill:#d3dae3" d="m8.5762 3l5.7168 10.064h5.443l-5.736-10.064h-5.4238zm-0.1953 11.064l-2.8047 4.936h11.424l2.705-4.936h-11.324z" transform="scale(73.819)"  />
- <path id="path12" style="fill:#5294e2" d="m569.35 258.97-421.71 744.94 200.4 360.9 424.89-747.56-203.58-358.28z"  />
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" fill-rule="evenodd" xml:space="preserve" viewBox="0 0 1624.01 1624.01" width="22" version="1.1" clip-rule="evenodd" height="22">
+ <defs id="defs7">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <path id="path10" style="fill:currentColor" d="m8.5762 3l5.7168 10.064h5.443l-5.736-10.064h-5.4238zm-0.1953 11.064l-2.8047 4.936h11.424l2.705-4.936h-11.324z" transform="scale(73.819)" class="ColorScheme-ButtonBackground"/>
+ <path id="path12" style="fill:currentColor" d="m569.35 258.97-421.71 744.94 200.4 360.9 424.89-747.56-203.58-358.28z" class="ColorScheme-Highlight"/>
 </svg>

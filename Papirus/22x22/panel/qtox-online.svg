@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg   xmlns="http://www.w3.org/2000/svg" viewBox="-1 -1 22.49 22.4" width="22" version="1.1" height="22">
- <path stroke-linejoin="round" style="fill:#d3dae3" d="m11 3c-2.2089 0-4 1.7911-4 4v2h-2a0.99978 0.99978 0 0 0 -1 1v8a0.99978 0.99978 0 0 0 1 1h12a0.99978 0.99978 0 0 0 1 -1v-8a0.99978 0.99978 0 0 0 -1 -1h-2v-2c0-2.2089-1.791-4-4-4zm-0.002 2h0.002c1.104 0 2 0.8955 2 2 0 0.4715-0.102 0.8423-0.236 1.1074-0.133 0.2651-0.428 0.6177-0.766 0.8906-0.33 0.2671-1 0.6075-1 0.6075s0.305-0.3706 0.43-0.6563c-0.141 0.0313-0.285 0.0488-0.43 0.0488-1.1044 0.001-2-0.8935-2-1.998s0.8956-2 2-2zm0.002 5a4.0001 4.0001 0 0 1 4 4 4.0001 4.0001 0 0 1 -4 4 4.0001 4.0001 0 0 1 -4 -4 4.0001 4.0001 0 0 1 4 -4zm0 1a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3z" transform="matrix(1.0222 0 0 1.0222 -1 -1.0426)" stroke-linecap="round" stroke-width=".709"  />
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -1 22.49 22.4" width="22" version="1.1" height="22" id="svg2">
+ <defs id="defs8">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <path stroke-linejoin="round" style="fill:currentColor" d="m11 3c-2.2089 0-4 1.7911-4 4v2h-2a0.99978 0.99978 0 0 0 -1 1v8a0.99978 0.99978 0 0 0 1 1h12a0.99978 0.99978 0 0 0 1 -1v-8a0.99978 0.99978 0 0 0 -1 -1h-2v-2c0-2.2089-1.791-4-4-4zm-0.002 2h0.002c1.104 0 2 0.8955 2 2 0 0.4715-0.102 0.8423-0.236 1.1074-0.133 0.2651-0.428 0.6177-0.766 0.8906-0.33 0.2671-1 0.6075-1 0.6075s0.305-0.3706 0.43-0.6563c-0.141 0.0313-0.285 0.0488-0.43 0.0488-1.1044 0.001-2-0.8935-2-1.998s0.8956-2 2-2zm0.002 5a4.0001 4.0001 0 0 1 4 4 4.0001 4.0001 0 0 1 -4 4 4.0001 4.0001 0 0 1 -4 -4 4.0001 4.0001 0 0 1 4 -4zm0 1a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3z" transform="matrix(1.0222 0 0 1.0222 -1 -1.0426)" stroke-linecap="round" stroke-width=".709" id="path4" class="ColorScheme-ButtonBackground"/>
 </svg>

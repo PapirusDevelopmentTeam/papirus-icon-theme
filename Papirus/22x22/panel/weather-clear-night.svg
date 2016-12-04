@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg   xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" height="22" viewBox="0 0 22 22">
- <path style="fill:#d3dae3" d="m11.474 3c-4.266 0-7.724 3.582-7.724 8s3.458 8 7.724 8c1.172 0 2.281-0.273 3.276-0.756-2.627-1.277-4.447-4.04-4.447-7.244s1.82-5.967 4.447-7.244c-0.995-0.484-2.105-0.756-3.276-0.756z"  />
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" height="22" viewBox="0 0 22 22" id="svg2">
+ <defs id="defs8">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" d="m11.474 3c-4.266 0-7.724 3.582-7.724 8s3.458 8 7.724 8c1.172 0 2.281-0.273 3.276-0.756-2.627-1.277-4.447-4.04-4.447-7.244s1.82-5.967 4.447-7.244c-0.995-0.484-2.105-0.756-3.276-0.756z" id="path4" class="ColorScheme-ButtonBackground"/>
 </svg>
