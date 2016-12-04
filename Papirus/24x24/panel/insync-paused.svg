@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="image-rendering:optimizeQuality;text-rendering:geometricPrecision;shape-rendering:geometricPrecision" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" xml:space="preserve" viewBox="0 0 1771.6469 1771.6467" width="24" version="1.1" clip-rule="evenodd" xmlns:cc="http://creativecommons.org/ns#" height="24" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata18">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <defs id="defs4">
-        <style id="style6" type="text/css">
-            <![CDATA[
+<svg id="svg2" style="image-rendering:optimizeQuality;text-rendering:geometricPrecision;shape-rendering:geometricPrecision" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" xml:space="preserve" viewBox="0 0 1771.65 1771.65" width="24" version="1.1" clip-rule="evenodd" height="24">
+ <defs id="defs4">
+  <style id="style6" type="text/css">
+   <![CDATA[
     .fil2 {fill:#11A861}
     .fil0 {fill:#3777E3}
     .fil1 {fill:#FFCF63}
    ]]>
-        </style>
-    </defs>
-    <g id="g4135" fill-rule="evenodd" fill="#d3dae3" transform="translate(73.819 73.819)">
-        <path id="path10" opacity=".3" d="m8.5762 3 5.1118 9h1.312 1 3.129l-5.129-9h-5.4238zm-0.8633 0.5078-5.7129 10.092 2.7148 4.888 5.7562-10.127-2.7581-4.8532zm0.668 10.556-2.8047 4.936h5.4238v-4.9355h-2.6191z" transform="scale(73.819)"/>
-        <path id="path14" style="image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m885.82 959.64v442.91h221.46v-442.91h-221.46zm295.27 0v442.91h221.46v-442.91h-221.46z" clip-rule="evenodd"/>
-    </g>
+  </style>
+ </defs>
+ <g id="g4135" fill="#d3dae3" transform="translate(73.819 73.819)">
+  <path id="path10" opacity=".3" d="m8.5762 3 5.1118 9h1.312 1 3.129l-5.129-9h-5.4238zm-0.8633 0.5078-5.7129 10.092 2.7148 4.888 5.7562-10.127-2.7581-4.8532zm0.668 10.556-2.8047 4.936h5.4238v-4.9355h-2.6191z" transform="scale(73.819)"/>
+  <path id="path14" style="image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m885.82 959.64v442.91h221.46v-442.91h-221.46zm295.27 0v442.91h221.46v-442.91h-221.46z"/>
+ </g>
 </svg>

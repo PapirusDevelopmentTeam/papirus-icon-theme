@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4350" rx=".75" ry=".8" height="16" width="6" y="4e-8" x="5" fill="#ccc"/>
-    <rect id="rect4352" transform="rotate(90)" rx=".75" ry=".8" height="16" width="6" y="-16" x="5" fill="#ccc"/>
-    <rect id="rect4354" rx="1" ry=".75" height="6" width="2" y="2" x="7" fill="#3e3e3e"/>
-    <rect id="rect4356" transform="rotate(90)" rx="1" ry=".75" height="6" width="2" y="-14" x="7" fill="#3e3e3e"/>
-    <circle id="path4358" cy="8" cx="8" r="2" fill="#df574d"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect rx=".75" ry=".8" height="16" width="6" y="0" x="5" fill="#ccc"/>
+ <rect transform="rotate(90)" rx=".75" ry=".8" height="16" width="6" y="-16" x="5" fill="#ccc"/>
+ <rect rx="1" ry=".75" height="6" width="2" y="2" x="7" fill="#3e3e3e"/>
+ <rect transform="rotate(90)" rx="1" ry=".75" height="6" width="2" y="-14" x="7" fill="#3e3e3e"/>
+ <circle cy="8" cx="8" r="2" fill="#df574d"/>
 </svg>

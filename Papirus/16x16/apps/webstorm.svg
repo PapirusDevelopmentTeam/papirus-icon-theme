@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" ry=".8" rx=".8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#5d5d5d"/>
-    <g id="g4526" transform="matrix(.5 0 0 .5 -.5 .5)">
-        <path id="path57" fill="#f38e09" d="m21.667 23c1.3333-1.3964 2-2.6279 2-4.1891 0-2.095-2.667-3.011-2.667-4.887 0-2.095 0.667-3.491 2-4.8877h1.8494c1.4107 0 2.1506-0.081806 2.1506 0.0000693-1.3333 1.3964-2.6667 2.7927-2.6667 4.8872s2.6667 2.7927 2.6667 4.8873c0 1.4719 0 2.7927-1.3333 4.189"/>
-        <path id="rect4352" d="m5 9 3.5 14h5.6l1.4-6.3 2.1 6.3h2.1c1.4-1.3964 2.1-2.6279 2.1-4.1891 0-2.0945-2.1903-3.1118-2.8-4.8877-0.538-1.568-0.889-3.294-0.7-4.923h-4.777l-2.223 8.4-2.1-8.4z" fill="#0990f3"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry=".8" rx=".8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#5d5d5d"/>
+ <g transform="matrix(.5 0 0 .5 -.5 .5)">
+  <path fill="#f38e09" d="m21.667 23c1.3333-1.3964 2-2.6279 2-4.1891 0-2.095-2.667-3.011-2.667-4.887 0-2.095 0.667-3.491 2-4.8877h1.8494c1.4107 0 2.1506-0.081806 2.1506 0.0000693-1.3333 1.3964-2.6667 2.7927-2.6667 4.8872s2.6667 2.7927 2.6667 4.8873c0 1.4719 0 2.7927-1.3333 4.189"/>
+  <path d="m5 9 3.5 14h5.6l1.4-6.3 2.1 6.3h2.1c1.4-1.3964 2.1-2.6279 2.1-4.1891 0-2.0945-2.1903-3.1118-2.8-4.8877-0.538-1.568-0.889-3.294-0.7-4.923h-4.777l-2.223 8.4-2.1-8.4z" fill="#0990f3"/>
+ </g>
 </svg>

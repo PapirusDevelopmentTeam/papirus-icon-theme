@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4861" transform="scale(.5)">
-        <path id="path4793" opacity=".2" d="m24 5c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20z"/>
-        <path id="rect4203-6-2" fill="#d2d2d2" d="m24 4c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20z"/>
-        <circle id="circle4814" opacity=".1" transform="rotate(45)" cy=".70711" cx="34.648" r="14"/>
-        <path id="path4788" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.0076 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.654 19.988 19.5c0.004-0.167 0.012-0.332 0.012-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
-        <circle id="path4786" cx="33.941" transform="rotate(45)" cy="-4.2426e-8" r="14" fill="#4d4d4d"/>
-        <path id="path4812" opacity=".2" d="m32.485 16.515c-1.313-1.314-2.854-2.248-4.49-2.827l-1.5206 3.8877-3.182 8.1317 8.1317-3.182 3.8877-1.5206c-0.57979-1.6355-1.5134-3.1762-2.827-4.4899z"/>
-        <path id="path4799" d="m32.485 15.515c-1.313-1.314-2.854-2.248-4.49-2.827l-1.5206 3.8877-3.182 8.1317 8.1317-3.182 3.8877-1.5206c-0.57979-1.6355-1.5134-3.1762-2.827-4.4899z" fill="#57beff"/>
-        <circle id="circle4834" opacity=".2" cy="15" cx="24" r="2"/>
-        <circle id="path4816" cx="24" cy="14" r="2" fill="#94ff57"/>
-        <circle id="circle4836" opacity=".2" cx="24" cy="35" r="2"/>
-        <circle id="circle4818" cy="34" cx="24" r="2" fill="#94ff57"/>
-        <circle id="circle4838" opacity=".2" cx="25" transform="rotate(90)" cy="-34" r="2"/>
-        <circle id="circle4826" transform="rotate(90)" cy="-34" cx="24" r="2" fill="#94ff57"/>
-        <circle id="circle4840" opacity=".2" transform="rotate(90)" cy="-14" cx="25" r="2"/>
-        <circle id="circle4828" cx="24" transform="rotate(90)" cy="-14" r="2" fill="#94ff57"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="scale(.5)">
+  <path opacity=".2" d="m24 5c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20z"/>
+  <path fill="#d2d2d2" d="m24 4c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20z"/>
+  <circle opacity=".1" transform="rotate(45)" cy=".707" cx="34.648" r="14"/>
+  <path opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.0076 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.654 19.988 19.5c0.004-0.167 0.012-0.332 0.012-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
+  <circle cx="33.941" transform="rotate(45)" cy="0" r="14" fill="#4d4d4d"/>
+  <path opacity=".2" d="m32.485 16.515c-1.313-1.314-2.854-2.248-4.49-2.827l-1.5206 3.8877-3.182 8.1317 8.1317-3.182 3.8877-1.5206c-0.57979-1.6355-1.5134-3.1762-2.827-4.4899z"/>
+  <path d="m32.485 15.515c-1.313-1.314-2.854-2.248-4.49-2.827l-1.5206 3.8877-3.182 8.1317 8.1317-3.182 3.8877-1.5206c-0.57979-1.6355-1.5134-3.1762-2.827-4.4899z" fill="#57beff"/>
+  <circle opacity=".2" cy="15" cx="24" r="2"/>
+  <circle cx="24" cy="14" r="2" fill="#94ff57"/>
+  <circle opacity=".2" cx="24" cy="35" r="2"/>
+  <circle cy="34" cx="24" r="2" fill="#94ff57"/>
+  <circle opacity=".2" cx="25" transform="rotate(90)" cy="-34" r="2"/>
+  <circle transform="rotate(90)" cy="-34" cx="24" r="2" fill="#94ff57"/>
+  <circle opacity=".2" transform="rotate(90)" cy="-14" cx="25" r="2"/>
+  <circle cx="24" transform="rotate(90)" cy="-14" r="2" fill="#94ff57"/>
+ </g>
 </svg>

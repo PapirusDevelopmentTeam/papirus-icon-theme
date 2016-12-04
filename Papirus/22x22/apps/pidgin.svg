@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path4078" fill="#0286c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
-    <path id="rect4093" opacity=".2" d="m9 5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
-    <path id="path4127" fill="#a002c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
-    <path id="path4099" opacity=".2" d="m20.5 2.5-1.5 1.5v0.5l2-2h-0.5zm-13.5 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
-    <path id="path3284" fill="#d335f5" d="m1 8 2 2v9c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-13z"/>
-    <path id="path4365" opacity=".2" d="m5 12.5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
-    <path id="rect4080" d="m5 12v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z" fill="#edaefb"/>
-    <path id="path4137" opacity=".1" fill="#fff" d="m8 2c-0.554 0-1 0.446-1 1v0.25c0-0.554 0.446-1 1-1h12.75l0.25-0.25h-13z"/>
-    <path id="path4139" opacity=".1" fill="#fff" d="m1 8 0.25 0.25h12.75c0.554 0 1 0.446 1 1v-0.25c0-0.554-0.446-1-1-1h-13z"/>
-    <path id="path4101" opacity=".2" d="m1 8.5 2 2v-0.5l-1.5-1.5h-0.5zm2 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <path fill="#0286c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
+ <path opacity=".2" d="m9 5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
+ <path fill="#a002c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
+ <path opacity=".2" d="m20.5 2.5-1.5 1.5v0.5l2-2h-0.5zm-13.5 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
+ <path fill="#d335f5" d="m1 8 2 2v9c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-13z"/>
+ <path opacity=".2" d="m5 12.5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
+ <path d="m5 12v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z" fill="#edaefb"/>
+ <path opacity=".1" fill="#fff" d="m8 2c-0.554 0-1 0.446-1 1v0.25c0-0.554 0.446-1 1-1h12.75l0.25-0.25h-13z"/>
+ <path opacity=".1" fill="#fff" d="m1 8 0.25 0.25h12.75c0.554 0 1 0.446 1 1v-0.25c0-0.554-0.446-1-1-1h-13z"/>
+ <path opacity=".2" d="m1 8.5 2 2v-0.5l-1.5-1.5h-0.5zm2 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
 </svg>

@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4203-6" fill="#ccc" d="m5.9999 6c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h22l16-16v-18c0-1.108-0.892-2-2-2z"/>
-    <path id="rect6307-3" opacity=".1" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m16.5 19.688 9.9375 11.25 6.375-6.1875 5.2886 5.2886-1.102 0.961-4 5h-24v-7.5z"/>
-    <path id="path4240" style="enable-background:new" fill="#ebebeb" d="m44 26h-14c-1.1046 0-2 0.89544-2 2v14z"/>
-    <path id="path4320" opacity=".1" style="enable-background:new" fill="#fff" d="m30 26c-1.1046 0-2 0.89544-2 2v1c0-1.1046 0.89543-2 2-2h13l1-1h-14z"/>
-    <path id="path4509" opacity=".2" d="m44 25.955-16 16h-22c-1.108 0-2-0.892-2-2v1.045c0 1.108 0.892 2 2 2h22l16-16v-1.0449z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <path fill="#ccc" d="m5.9999 6c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h22l16-16v-18c0-1.108-0.892-2-2-2z"/>
+ <path opacity=".1" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m16.5 19.688 9.9375 11.25 6.375-6.1875 5.2886 5.2886-1.102 0.961-4 5h-24v-7.5z"/>
+ <path style="enable-background:new" fill="#ebebeb" d="m44 26h-14c-1.1046 0-2 0.89544-2 2v14z"/>
+ <path opacity=".1" style="enable-background:new" fill="#fff" d="m30 26c-1.1046 0-2 0.89544-2 2v1c0-1.1046 0.89543-2 2-2h13l1-1h-14z"/>
+ <path opacity=".2" d="m44 25.955-16 16h-22c-1.108 0-2-0.892-2-2v1.045c0 1.108 0.892 2 2 2h22l16-16v-1.0449z"/>
 </svg>

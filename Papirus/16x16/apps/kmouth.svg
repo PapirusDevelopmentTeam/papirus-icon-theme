@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4255-5" ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#fe4d38"/>
-    <path id="path4229-7" fill="#3f3f3f" d="m4.1389 10.5c0.7969 1.546 2.2692 2.499 3.8629 2.5 1.5926-0.003 3.0632-0.955 3.8592-2.5 0.715-1.3865-1.448-1.5-3.8609-1.5-2.4133 0-4.5765 0.1127-3.8613 1.5z"/>
-    <ellipse id="path4352" rx="1" ry="1.5" cy="4.5" cx="5" fill="#3f3f3f"/>
-    <ellipse id="ellipse6027" rx="1" ry="1.5" cy="4.5" cx="11" fill="#3f3f3f"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#fe4d38"/>
+ <path fill="#3f3f3f" d="m4.1389 10.5c0.7969 1.546 2.2692 2.499 3.8629 2.5 1.5926-0.003 3.0632-0.955 3.8592-2.5 0.715-1.3865-1.448-1.5-3.8609-1.5-2.4133 0-4.5765 0.1127-3.8613 1.5z"/>
+ <ellipse rx="1" ry="1.5" cy="4.5" cx="5" fill="#3f3f3f"/>
+ <ellipse rx="1" ry="1.5" cy="4.5" cx="11" fill="#3f3f3f"/>
 </svg>

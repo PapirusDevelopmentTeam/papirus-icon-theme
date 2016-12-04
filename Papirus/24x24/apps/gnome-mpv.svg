@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g6649" transform="translate(1,1)">
-        <path id="rect4203-5" d="m2.5 2c-0.831 0-1.5 0.669-1.5 1.5v12.5h20v-12.5c0-0.831-0.669-1.5-1.5-1.5z" style="enable-background:new" fill="#558dcb"/>
-        <path id="rect4428-3" opacity=".2" d="m2.5 2c-0.831 0-1.5 0.669-1.5 1.5v0.5c0-0.831 0.669-1.5 1.5-1.5h17c0.831 0 1.5 0.669 1.5 1.5v-0.5c0-0.831-0.669-1.5-1.5-1.5h-17z" style="enable-background:new" fill="#fff"/>
-        <path id="rect13685-7" d="m1 15v3.5c0 0.831 0.669 1.5 1.5 1.5h17c0.831 0 1.5-0.669 1.5-1.5v-3.5z" style="enable-background:new" fill="#f2f2f2"/>
-        <rect id="rect13693-3" style="enable-background:new" rx=".53846" ry=".46402" height="1" width="7" y="17" x="13" fill="#999"/>
-        <rect id="rect13695-6" style="enable-background:new" rx=".52381" ry=".5" height="1" width="11" y="17" x="2" fill="#558dcb"/>
-        <circle id="circle5025" opacity=".2" style="enable-background:new" cx="13.5" cy="18" r="1.5"/>
-        <circle id="circle13699-7" style="enable-background:new" cx="13.5" cy="17.5" r="1.5" fill="#fff"/>
-        <path id="path4999" opacity=".2" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m8.3016 5.5001c-0.2723-0.0054-0.3192 0.3448-0.2967 0.5976 0.002 2.366-0.00351 4.7323 0.0025 7.0981 0.023945 0.28288 0.3278 0.3959 0.50056 0.22047 1.846-1.211 4.532-2.414 6.376-3.6305 0.201-0.1675 0.124-0.5574-0.101-0.6385-1.846-1.2065-4.525-2.4196-6.3729-3.622-0.0346-0.0164-0.0717-0.0249-0.1088-0.025z"/>
-        <path id="path4352-0" d="m8.3016 5.0001c-0.2723-0.0054-0.3192 0.3448-0.2967 0.5976 0.002 2.366-0.00351 4.7323 0.0025 7.0981 0.023945 0.28288 0.3278 0.3959 0.50056 0.22047 1.846-1.211 4.532-2.414 6.376-3.6305 0.201-0.1675 0.124-0.5574-0.101-0.6385-1.846-1.2065-4.525-2.4196-6.3729-3.622-0.0346-0.0164-0.0717-0.0249-0.1088-0.025z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#f3e5f5"/>
-        <path id="rect4388-6" opacity=".2" style="enable-background:new" d="m1 18.5v0.5c0 0.831 0.669 1.5 1.5 1.5h17c0.831 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.669 1.5-1.5 1.5h-17c-0.831 0-1.5-0.669-1.5-1.5z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <path d="m2.5 2c-0.831 0-1.5 0.669-1.5 1.5v12.5h20v-12.5c0-0.831-0.669-1.5-1.5-1.5z" style="enable-background:new" fill="#558dcb"/>
+  <path opacity=".2" d="m2.5 2c-0.831 0-1.5 0.669-1.5 1.5v0.5c0-0.831 0.669-1.5 1.5-1.5h17c0.831 0 1.5 0.669 1.5 1.5v-0.5c0-0.831-0.669-1.5-1.5-1.5h-17z" style="enable-background:new" fill="#fff"/>
+  <path d="m1 15v3.5c0 0.831 0.669 1.5 1.5 1.5h17c0.831 0 1.5-0.669 1.5-1.5v-3.5z" style="enable-background:new" fill="#f2f2f2"/>
+  <rect style="enable-background:new" rx=".538" ry=".464" height="1" width="7" y="17" x="13" fill="#999"/>
+  <rect style="enable-background:new" rx=".524" ry=".5" height="1" width="11" y="17" x="2" fill="#558dcb"/>
+  <circle opacity=".2" style="enable-background:new" cx="13.5" cy="18" r="1.5"/>
+  <circle style="enable-background:new" cx="13.5" cy="17.5" r="1.5" fill="#fff"/>
+  <path opacity=".2" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m8.3016 5.5001c-0.2723-0.0054-0.3192 0.3448-0.2967 0.5976 0.002 2.366-0.00351 4.7323 0.0025 7.0981 0.023945 0.28288 0.3278 0.3959 0.50056 0.22047 1.846-1.211 4.532-2.414 6.376-3.6305 0.201-0.1675 0.124-0.5574-0.101-0.6385-1.846-1.2065-4.525-2.4196-6.3729-3.622-0.0346-0.0164-0.0717-0.0249-0.1088-0.025z"/>
+  <path d="m8.3016 5.0001c-0.2723-0.0054-0.3192 0.3448-0.2967 0.5976 0.002 2.366-0.00351 4.7323 0.0025 7.0981 0.023945 0.28288 0.3278 0.3959 0.50056 0.22047 1.846-1.211 4.532-2.414 6.376-3.6305 0.201-0.1675 0.124-0.5574-0.101-0.6385-1.846-1.2065-4.525-2.4196-6.3729-3.622-0.0346-0.0164-0.0717-0.0249-0.1088-0.025z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#f3e5f5"/>
+  <path opacity=".2" style="enable-background:new" d="m1 18.5v0.5c0 0.831 0.669 1.5 1.5 1.5h17c0.831 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.669 1.5-1.5 1.5h-17c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ </g>
 </svg>

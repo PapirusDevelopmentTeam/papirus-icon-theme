@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg6530" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 22 22" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata6535">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-81 -599.36)">
-  <rect id="rect6563" style="color:#bebebe" height="22" width="22" y="599.36" x="81" fill="none"/>
-  <path id="path6565" opacity=".3" d="m85 617.37 14-14v14z" fill="#d3dae3"/>
-  <path id="path6567" d="m93 609.37-8 8h8v-8z" fill="#d3dae3"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" viewBox="0 0 22 22">
+ <g transform="translate(-81 -599.36)">
+  <rect style="color:#bebebe" height="22" width="22" y="599.36" x="81" fill="none"/>
+  <path opacity=".3" d="m85 617.37 14-14v14z" fill="#d3dae3"/>
+  <path d="m93 609.37-8 8h8v-8z" fill="#d3dae3"/>
  </g>
 </svg>

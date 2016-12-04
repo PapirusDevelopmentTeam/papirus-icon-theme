@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4377" transform="translate(1,1)">
-        <path id="path4078" fill="#0286c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
-        <path id="rect4093" opacity=".2" d="m9 5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
-        <path id="path4127" fill="#0286c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
-        <path id="path4452" opacity=".2" d="m20.5 2.5-1.5 1.5v0.5l2-2h-0.5zm-13.5 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
-        <path id="path3284" fill="#35b9f5" d="m1 8 2 2v9c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-13z"/>
-        <path id="path4365" opacity=".2" d="m5 12.5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
-        <path id="rect4080" d="m5 12v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z" fill="#aee3fb"/>
-        <path id="path4447" opacity=".2" d="m1 8.5 2 2v-0.5l-1.5-1.5h-0.5zm2 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
-        <path id="path4367" opacity=".2" d="m1 8 0.5 0.5h12.5c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-13z" fill="#fff"/>
-        <path id="path4372" opacity=".2" d="m8 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h12.5l0.5-0.5h-13z" fill="#fff"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <path fill="#0286c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
+  <path opacity=".2" d="m9 5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
+  <path fill="#0286c2" d="m21 2-2 2v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h13z"/>
+  <path opacity=".2" d="m20.5 2.5-1.5 1.5v0.5l2-2h-0.5zm-13.5 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
+  <path fill="#35b9f5" d="m1 8 2 2v9c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-13z"/>
+  <path opacity=".2" d="m5 12.5v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z"/>
+  <path d="m5 12v1h8v-1h-8zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z" fill="#aee3fb"/>
+  <path opacity=".2" d="m1 8.5 2 2v-0.5l-1.5-1.5h-0.5zm2 10.5v0.5c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1z"/>
+  <path opacity=".2" d="m1 8 0.5 0.5h12.5c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-13z" fill="#fff"/>
+  <path opacity=".2" d="m8 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h12.5l0.5-0.5h-13z" fill="#fff"/>
+ </g>
 </svg>

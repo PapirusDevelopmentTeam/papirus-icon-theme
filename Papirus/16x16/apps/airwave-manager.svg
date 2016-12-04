@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4388" rx=".66665" ry=".875" height="7" width="2" y="0" x="10" fill="#848484"/>
-    <rect id="rect4444" rx=".66665" ry=".875" height="7" width="2" y="0" x="4" fill="#848484"/>
-    <rect id="rect4442" rx=".79998" ry=".83331" height="10" width="12" y="6" x="2" fill="#ba2d2d"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect rx=".667" ry=".875" height="7" width="2" y="0" x="10" fill="#848484"/>
+ <rect rx=".667" ry=".875" height="7" width="2" y="0" x="4" fill="#848484"/>
+ <rect rx=".8" ry=".833" height="10" width="12" y="6" x="2" fill="#ba2d2d"/>
 </svg>

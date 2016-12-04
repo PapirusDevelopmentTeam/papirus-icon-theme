@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4255" ry=".85714" rx=".875" transform="matrix(0,-1,-1,0,0,0)" height="16" width="14" y="-16" x="-15" fill="#d8d8d8"/>
-    <path id="rect4424" fill="#636e73" d="m16 3v-1.1286c0-0.4748-0.382-0.8571-0.857-0.8571h-14.286c-0.47471 0-0.857 0.3823-0.857 0.8571l4e-8 1.1286z"/>
-    <path id="rect4355" opacity=".15" d="m16 14.125v-11.125h-8v12h7.143c0.475 0 0.857-0.39 0.857-0.875z"/>
-    <g id="g4389" fill="#636e73">
-        <path id="rect5039" d="m2 5.0003v0.4997h1v1.5h-2v-2h1z"/>
-        <path id="path4385" d="m2 8.0003v0.4997h1v1.5h-2v-2h1z"/>
-        <path id="path4387" d="m2 11v0.5h1v1.5h-2v-2h1z"/>
-    </g>
-    <g id="g4394" opacity=".9" fill="#636e73" transform="translate(8)">
-        <path id="path4396" d="m2 5.0003v0.4997h1v1.5h-2v-2h1z"/>
-        <path id="path4398" d="m2 8.0003v0.4997h1v1.5h-2v-2h1z"/>
-        <path id="path4400" d="m2 11v0.5h1v1.5h-2v-2h1z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry=".857" rx=".875" transform="matrix(0,-1,-1,0,0,0)" height="16" width="14" y="-16" x="-15" fill="#d8d8d8"/>
+ <path fill="#636e73" d="m16 3v-1.1286c0-0.4748-0.382-0.8571-0.857-0.8571h-14.286c-0.47471 0-0.857 0.3823-0.857 0.8571l4e-8 1.1286z"/>
+ <path opacity=".15" d="m16 14.125v-11.125h-8v12h7.143c0.475 0 0.857-0.39 0.857-0.875z"/>
+ <g fill="#636e73">
+  <path d="m2 5.0003v0.4997h1v1.5h-2v-2h1z"/>
+  <path d="m2 8.0003v0.4997h1v1.5h-2v-2h1z"/>
+  <path d="m2 11v0.5h1v1.5h-2v-2h1z"/>
+ </g>
+ <g opacity=".9" fill="#636e73" transform="translate(8)">
+  <path d="m2 5.0003v0.4997h1v1.5h-2v-2h1z"/>
+  <path d="m2 8.0003v0.4997h1v1.5h-2v-2h1z"/>
+  <path d="m2 11v0.5h1v1.5h-2v-2h1z"/>
+ </g>
 </svg>

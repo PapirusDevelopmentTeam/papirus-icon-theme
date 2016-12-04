@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4358" transform="translate(1,1)">
-        <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#4e91d9"/>
-        <g id="g4501" opacity=".2" transform="translate(-1 -.5)">
-            <path id="rect4503" opacity="1" d="m11 15v2h-5v2h12v-2h-5v-2h-2z"/>
-        </g>
-        <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-        <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
-        <path id="path4495" opacity=".2" d="m7.043 4.5c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.9141zm0.957 2h6v6h-6v-6z"/>
-        <path id="path4490" fill="#a3caf6" d="m7.043 4c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.914zm0.957 2h6v6h-6v-6z"/>
-        <g id="g4497" fill="#fae695" transform="translate(-1,-1)">
-            <rect id="rect4349" y="15" width="2" height="3" x="11"/>
-            <rect id="rect4363" y="17" width="12" height="2" x="6"/>
-        </g>
-        <g id="g4514" opacity=".2" transform="translate(-1 -.5)">
-            <circle id="circle4508" opacity="1" cy="18" cx="5" r="2"/>
-            <circle id="circle4510" opacity="1" cy="18" cx="12" r="2"/>
-            <circle id="circle4512" opacity="1" cy="18" cx="19" r="2"/>
-        </g>
-        <circle id="path4370" cy="17" cx="4" r="2" fill="#ffad53"/>
-        <circle id="circle4372" cy="17" cx="11" r="2" fill="#ffad53"/>
-        <circle id="circle4374" cy="17" cx="18" r="2" fill="#ffad53"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#4e91d9"/>
+  <g opacity=".2" transform="translate(-1 -.5)">
+   <path opacity="1" d="m11 15v2h-5v2h12v-2h-5v-2h-2z"/>
+  </g>
+  <path opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+  <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+  <path opacity=".2" d="m7.043 4.5c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.9141zm0.957 2h6v6h-6v-6z"/>
+  <path fill="#a3caf6" d="m7.043 4c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.914zm0.957 2h6v6h-6v-6z"/>
+  <g fill="#fae695" transform="translate(-1,-1)">
+   <rect y="15" width="2" height="3" x="11"/>
+   <rect y="17" width="12" height="2" x="6"/>
+  </g>
+  <g opacity=".2" transform="translate(-1 -.5)">
+   <circle opacity="1" cy="18" cx="5" r="2"/>
+   <circle opacity="1" cy="18" cx="12" r="2"/>
+   <circle opacity="1" cy="18" cx="19" r="2"/>
+  </g>
+  <circle cy="17" cx="4" r="2" fill="#ffad53"/>
+  <circle cy="17" cx="11" r="2" fill="#ffad53"/>
+  <circle cy="17" cx="18" r="2" fill="#ffad53"/>
+ </g>
 </svg>

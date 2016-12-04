@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#c2352a"/>
-    <g id="g4412" opacity=".2" transform="translate(0,1)">
-        <path id="path4414" opacity="1" d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-        <path id="path4416" opacity="1" d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-        <path id="path4418" opacity="1" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
-    </g>
-    <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
-    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
-    <g id="g4407" fill="#fff">
-        <path id="rect4348" d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-        <path id="rect4352" d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
-        <path id="rect4354" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#c2352a"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <path opacity="1" d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path opacity="1" d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path opacity="1" d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
+ </g>
+ <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <g fill="#fff">
+  <path d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
+ </g>
 </svg>

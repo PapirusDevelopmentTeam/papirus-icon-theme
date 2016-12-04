@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4505" fill="#2d4a5d" d="m24 4h-18c-1.108 0-2 0.892-2 2v18h20z"/>
-    <path id="path4508" fill="#1f8fd7" d="m24 4h18c1.108 0 2 0.892 2 2v18h-20z"/>
-    <path id="path4527" fill="#1f8fd7" d="m24 44h-18c-1.108 0-2-0.892-2-2v-18h20z"/>
-    <path id="path4529" fill="#2d4a5d" d="m24 44h18c1.108 0 2-0.892 2-2v-18h-20z"/>
-    <path id="rect4592" opacity=".1" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
-    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <path fill="#2d4a5d" d="m24 4h-18c-1.108 0-2 0.892-2 2v18h20z"/>
+ <path fill="#1f8fd7" d="m24 4h18c1.108 0 2 0.892 2 2v18h-20z"/>
+ <path fill="#1f8fd7" d="m24 44h-18c-1.108 0-2-0.892-2-2v-18h20z"/>
+ <path fill="#2d4a5d" d="m24 44h18c1.108 0 2-0.892 2-2v-18h-20z"/>
+ <path opacity=".1" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
 </svg>

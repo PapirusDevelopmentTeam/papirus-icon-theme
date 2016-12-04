@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g6058" transform="translate(-623 -501)">
-  <path id="path4151" d="m11 3c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm-1 3h2v5h3l-4 5c0.00008 0.00007-4-5-4-5h3v-5z" transform="translate(624 502)" fill="#d3dae3"/>
+<svg style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1">
+ <g transform="translate(-623 -501)">
+  <path d="m11 3c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm-1 3h2v5h3l-4 5c0.00008 0.00007-4-5-4-5h3v-5z" transform="translate(624 502)" fill="#d3dae3"/>
  </g>
- <circle id="path4140" cx="21" cy="19" r="2" fill="#5294e2"/>
+ <circle cx="21" cy="19" r="2" fill="#5294e2"/>
 </svg>

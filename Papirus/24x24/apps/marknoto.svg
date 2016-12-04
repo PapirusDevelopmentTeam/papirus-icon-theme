@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4987" transform="translate(1,1)">
-        <path id="rect4203-9" fill="#fecd38" d="m2 1c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h11l8-8v-11c0-0.554-0.446-1-1-1z"/>
-        <g id="g4363" opacity=".5" transform="matrix(.5 0 0 .5 -1 -4.5001)">
-            <path id="rect4440" opacity="1" d="m28 22v3l4.5 4-4.5 4v3l7.9999-6.8672z"/>
-            <path id="path4456" opacity="1" d="m20 24v3l-4.5 4 4.5 4v3l-7.9999-6.8672z"/>
-            <rect id="rect4458" opacity="1" transform="rotate(15)" height="16" width="2" y="14.77" x="29.986"/>
-        </g>
-        <path id="path4240" style="enable-background:new" fill="#ffe69b" d="m21 13h-7c-0.5523 0-1 0.44772-1 1v7z"/>
-        <path id="path4245" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
-        <path id="path4320" opacity=".2" style="enable-background:new" fill="#fff" d="m14 13c-0.5523 0-1 0.44772-1 1v0.5c0-0.5523 0.44772-1 1-1h6.5l0.5-0.5h-7z"/>
-        <path id="path4433" opacity=".2" d="m20.002 13.998-7.002 7.002h-11c-0.554 0-1-0.446-1-1v0.5c0 0.554 0.446 1 1 1h11l7.486-7.486z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <path fill="#fecd38" d="m2 1c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h11l8-8v-11c0-0.554-0.446-1-1-1z"/>
+  <g opacity=".5" transform="matrix(.5 0 0 .5 -1 -4.5001)">
+   <path opacity="1" d="m28 22v3l4.5 4-4.5 4v3l7.9999-6.8672z"/>
+   <path opacity="1" d="m20 24v3l-4.5 4 4.5 4v3l-7.9999-6.8672z"/>
+   <rect opacity="1" transform="rotate(15)" height="16" width="2" y="14.77" x="29.99"/>
+  </g>
+  <path style="enable-background:new" fill="#ffe69b" d="m21 13h-7c-0.5523 0-1 0.44772-1 1v7z"/>
+  <path opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+  <path opacity=".2" style="enable-background:new" fill="#fff" d="m14 13c-0.5523 0-1 0.44772-1 1v0.5c0-0.5523 0.44772-1 1-1h6.5l0.5-0.5h-7z"/>
+  <path opacity=".2" d="m20.002 13.998-7.002 7.002h-11c-0.554 0-1-0.446-1-1v0.5c0 0.554 0.446 1 1 1h11l7.486-7.486z"/>
+ </g>
 </svg>

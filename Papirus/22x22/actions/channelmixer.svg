@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <circle
-      transform="translate(3 3)" 
-     id="path4149-7"
-     cy="9.9999924"
-     cx="10.000008"
-     r="5"
-     style="fill:#fdbc4b" />
-  <circle
-      transform="translate(3 3)" 
-     id="path4149-7-1"
-     cy="9.9999924"
-     cx="6.0000072"
-     r="5"
-     style="fill:#5294e2" />
-  <circle
-      transform="translate(3 3)" 
-     id="path4149"
-     cy="5.9999928"
-     cx="8.0000076"
-     r="5"
-     style="fill:#4fef42;fill-opacity:1" />
+ <circle transform="translate(3 3)" cy="10" cx="10" r="5" style="fill:#fdbc4b"/>
+ <circle transform="translate(3 3)" cy="10" cx="6" r="5" style="fill:#5294e2"/>
+ <circle transform="translate(3 3)" cy="6" cx="8" r="5" style="fill:#4fef42;fill-opacity:1"/>
 </svg>

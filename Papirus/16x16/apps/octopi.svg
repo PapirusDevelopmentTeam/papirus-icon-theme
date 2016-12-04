@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4102" fill="#3fc778" d="m7.1176 2.7843e-7c-2.8233 0-5.0965 2.5657-5.1155 5.76h-0.0021v9.24c0 0.8864 0.8492 0.99028 1.5 0.99972 0.6008 0.0087 1.5-0.11333 1.5-0.99972 0 0.8864 0.8991 0.99972 1.5 0.99972s1.48-0.25699 1.5-0.99972c0 0.8864 0.8991 0.99972 1.5 0.99972s1.4799-0.25699 1.5-0.99972c0 0.8864 0.8991 0.99972 1.5 0.99972s1.5-0.11333 1.5-0.99972v-9.24h-0.0021c-0.019-3.1943-2.293-5.76-5.1155-5.76z"/>
-    <rect id="rect4204" ry="1.5" height="3" width="3" y="5" x="4" fill="#ecf0f1"/>
-    <rect id="rect4206" ry=".5" height="1" width="1" y="6" x="6" fill="#494949"/>
-    <rect id="rect5344" ry="1.5" height="3" width="3" y="5" x="10" fill="#ecf0f1"/>
-    <rect id="rect5346" ry=".5" height="1" width="1" y="6" x="12" fill="#494949"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <path fill="#3fc778" d="m7.1176 2.7843e-7c-2.8233 0-5.0965 2.5657-5.1155 5.76h-0.0021v9.24c0 0.8864 0.8492 0.99028 1.5 0.99972 0.6008 0.0087 1.5-0.11333 1.5-0.99972 0 0.8864 0.8991 0.99972 1.5 0.99972s1.48-0.25699 1.5-0.99972c0 0.8864 0.8991 0.99972 1.5 0.99972s1.4799-0.25699 1.5-0.99972c0 0.8864 0.8991 0.99972 1.5 0.99972s1.5-0.11333 1.5-0.99972v-9.24h-0.0021c-0.019-3.1943-2.293-5.76-5.1155-5.76z"/>
+ <rect ry="1.5" height="3" width="3" y="5" x="4" fill="#ecf0f1"/>
+ <rect ry=".5" height="1" width="1" y="6" x="6" fill="#494949"/>
+ <rect ry="1.5" height="3" width="3" y="5" x="10" fill="#ecf0f1"/>
+ <rect ry=".5" height="1" width="1" y="6" x="12" fill="#494949"/>
 </svg>

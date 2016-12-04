@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-44" fill="#c6ae91"/>
-    <path id="rect4100" fill="#fff" d="m24 8c-8.864 0-16 7.136-16 16s7.136 16 16 16v-4a12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12v-4z"/>
-    <path id="rect4131" opacity=".2" fill="#fff" d="m24 4c-10.901 0-19.688 8.637-19.969 19.469 0.5339-10.597 9.235-18.969 19.969-18.969s19.435 8.372 19.969 18.969c-0.281-10.832-9.068-19.469-19.969-19.469z"/>
-    <path id="rect4102" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
-    <path id="path4368" opacity=".5" fill="#fff" d="m24 8v4a12 12 0 0 1 12 12 12 12 0 0 1 -12 12v4c8.864 0 16-7.136 16-16s-7.136-16-16-16z"/>
-    <path id="path4378" fill="#fff" d="m32 24c0 4.4183-3.5817 8-8 8s-8-3.5817-8-8z"/>
-    <path id="path4350" opacity=".5" fill="#fff" d="m32 24c0-4.4183-3.5817-8-8-8s-8 3.5817-8 8z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="20" ry="20" height="40" width="40" y="-44" x="-44" fill="#c6ae91"/>
+ <path fill="#fff" d="m24 8c-8.864 0-16 7.136-16 16s7.136 16 16 16v-4a12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12v-4z"/>
+ <path opacity=".2" fill="#fff" d="m24 4c-10.901 0-19.688 8.637-19.969 19.469 0.5339-10.597 9.235-18.969 19.969-18.969s19.435 8.372 19.969 18.969c-0.281-10.832-9.068-19.469-19.969-19.469z"/>
+ <path opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
+ <path opacity=".5" fill="#fff" d="m24 8v4a12 12 0 0 1 12 12 12 12 0 0 1 -12 12v4c8.864 0 16-7.136 16-16s-7.136-16-16-16z"/>
+ <path fill="#fff" d="m32 24c0 4.4183-3.5817 8-8 8s-8-3.5817-8-8z"/>
+ <path opacity=".5" fill="#fff" d="m32 24c0-4.4183-3.5817-8-8-8s-8 3.5817-8 8z"/>
 </svg>

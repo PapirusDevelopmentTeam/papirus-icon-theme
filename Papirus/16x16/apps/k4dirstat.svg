@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="8" ry="8" height="16" width="16" y="-16" x="-16" fill="#c6ae91"/>
-    <g id="g4485" fill="#fff" transform="matrix(0 -.6 .6 0 -1.6 17.6)">
-        <path id="path4474" opacity=".5" d="m6 16c0 5.54 4.46 10 10 10s10-4.46 10-10h-3a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7h-3z"/>
-        <path id="path4479" d="m6 16c0-5.54 4.46-10 10-10s10 4.46 10 10h-3a7 7 0 0 0 -7 -7 7 7 0 0 0 -7 7h-3z"/>
-    </g>
-    <g id="g4365" fill="#fff" transform="matrix(.975 0 0 .975 .00019970 .39980)">
-        <path id="circle4459" opacity=".5" d="m8.2049 4.7182c-1.6993 0-3.0769 1.3776-3.0769 3.0769h6.1538c0-1.6993-1.3776-3.0769-3.0769-3.0769z"/>
-        <path id="path4483" d="m8.2049 10.872c-1.6993 0-3.0769-1.3776-3.0769-3.0769h6.1538c0 1.6993-1.3776 3.0769-3.0769 3.0769z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="8" ry="8" height="16" width="16" y="-16" x="-16" fill="#c6ae91"/>
+ <g fill="#fff" transform="matrix(0 -.6 .6 0 -1.6 17.6)">
+  <path opacity=".5" d="m6 16c0 5.54 4.46 10 10 10s10-4.46 10-10h-3a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7h-3z"/>
+  <path d="m6 16c0-5.54 4.46-10 10-10s10 4.46 10 10h-3a7 7 0 0 0 -7 -7 7 7 0 0 0 -7 7h-3z"/>
+ </g>
+ <g fill="#fff" transform="matrix(.975 0 0 .975 .00019970 .39980)">
+  <path opacity=".5" d="m8.2049 4.7182c-1.6993 0-3.0769 1.3776-3.0769 3.0769h6.1538c0-1.6993-1.3776-3.0769-3.0769-3.0769z"/>
+  <path d="m8.2049 10.872c-1.6993 0-3.0769-1.3776-3.0769-3.0769h6.1538c0 1.6993-1.3776 3.0769-3.0769 3.0769z"/>
+ </g>
 </svg>

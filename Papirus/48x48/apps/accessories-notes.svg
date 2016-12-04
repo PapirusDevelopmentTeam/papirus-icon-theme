@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4203-9" fill="#fecd38" d="m6 3c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h22l16-16v-22c0-1.108-0.892-2-2-2z"/>
-    <path id="path4240" style="enable-background:new" fill="#ffe69b" d="m44 27h-14c-1.1046 0-2 0.89544-2 2v14z"/>
-    <path id="path4245" opacity=".2" fill="#fff" d="m6 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
-    <path id="path4320" opacity=".2" style="enable-background:new" fill="#fff" d="m30 27c-1.1046 0-2 0.89544-2 2v1c0-1.1046 0.89543-2 2-2h13l1-1h-14z"/>
-    <path id="path4433" opacity=".2" d="m42.005 28.995-14.005 14.005h-22c-1.108 0-2-0.892-2-2v1c0 1.108 0.892 2 2 2h22l14.972-14.972z"/>
-    <path id="path13992" opacity=".5" style="enable-background:new" d="m15 26v-2h12v2zm0-4v-2h18v2zm0-4v-2h18v2zm0-4v-2h18v2z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <path fill="#fecd38" d="m6 3c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h22l16-16v-22c0-1.108-0.892-2-2-2z"/>
+ <path style="enable-background:new" fill="#ffe69b" d="m44 27h-14c-1.1046 0-2 0.89544-2 2v14z"/>
+ <path opacity=".2" fill="#fff" d="m6 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+ <path opacity=".2" style="enable-background:new" fill="#fff" d="m30 27c-1.1046 0-2 0.89544-2 2v1c0-1.1046 0.89543-2 2-2h13l1-1h-14z"/>
+ <path opacity=".2" d="m42.005 28.995-14.005 14.005h-22c-1.108 0-2-0.892-2-2v1c0 1.108 0.892 2 2 2h22l14.972-14.972z"/>
+ <path opacity=".5" style="enable-background:new" d="m15 26v-2h12v2zm0-4v-2h18v2zm0-4v-2h18v2zm0-4v-2h18v2z"/>
 </svg>

@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="path4350" style="color:#000000;block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0" d="m4.223 2.8063-1.416 1.416 16.971 16.971 1.416-1.416-16.971-16.971zm7.777 1.1933a4 4 0 0 0 -3.3512 1.8204l1.3516 1.3516v-0.17188h1v-1h2v1h1v2h-1v1h-0.17188l1.3496 1.3496a4 4 0 0 0 1.8223 -3.3496 4 4 0 0 0 -4 -4zm-0.79492 10.033c-7.1831 0.34142-7.2051 5.1113-7.2051 5.1113v0.85547h13.172l-5.9668-5.9668z" fill="#d3dae3"/>
- <g id="g4146" fill="none" transform="translate(-39.549 -8.213)">
-  <path id="path4148" fill="none" d="m30.565 21.238 1.414 1.414-1.793 1.793h5.172v2h-5.172l1.793 1.793-1.414 1.414-4.207-4.207z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <path style="color:#000000;block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0" d="m4.223 2.8063-1.416 1.416 16.971 16.971 1.416-1.416-16.971-16.971zm7.777 1.1933a4 4 0 0 0 -3.3512 1.8204l1.3516 1.3516v-0.17188h1v-1h2v1h1v2h-1v1h-0.17188l1.3496 1.3496a4 4 0 0 0 1.8223 -3.3496 4 4 0 0 0 -4 -4zm-0.79492 10.033c-7.1831 0.34142-7.2051 5.1113-7.2051 5.1113v0.85547h13.172l-5.9668-5.9668z" fill="#d3dae3"/>
+ <g fill="none" transform="translate(-39.549 -8.213)">
+  <path d="m30.565 21.238 1.414 1.414-1.793 1.793h5.172v2h-5.172l1.793 1.793-1.414 1.414-4.207-4.207z"/>
  </g>
- <path id="path4410" opacity="0.72" fill="none" d="m15.414 15.93-1.414 1.414 2.123 2.121-2.123 2.123 1.414 1.412 2.121-2.121 2.123 2.121l1.4121-1.4121-2.1211-2.123 2.1211-2.1211-1.4121-1.4141-2.123 2.123-2.1211-2.123z"/>
+ <path opacity=".72" fill="none" d="m15.414 15.93-1.414 1.414 2.123 2.121-2.123 2.123 1.414 1.412 2.121-2.121 2.123 2.121l1.4121-1.4121-2.1211-2.123 2.1211-2.1211-1.4121-1.4141-2.123 2.123-2.1211-2.123z"/>
 </svg>

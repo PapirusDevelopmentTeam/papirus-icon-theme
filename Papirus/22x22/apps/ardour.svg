@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path5323" fill="#c2352a" d="m10.5 2-4.75 9.5-4.75 9.5h3v-3h1v3h1v-4h1v4h1v-5h1v5h1v-4h1v4h1v-3h1v3h1v-2h1v2h1v-1h1v1h3l-4.75-9.5-4.75-9.5z"/>
-    <path id="path5392" opacity=".2" fill="#fff" d="m10.5 2-4.75 9.5-4.75 9.5h0.25l4.5-9 4.75-9.5 4.75 9.5 4.5 9h0.25l-4.75-9.5-4.75-9.5z"/>
-    <path id="path4703" opacity=".2" d="m8 16v0.5h1v-0.5h-1zm-2 1v0.5h1v-0.5h-1zm4 0v0.5h1v-0.5h-1zm-6 1v0.5h1v-0.5h-1zm8 0v0.5h1v-0.5h-1zm2 1v0.5h1v-0.5h-1zm2 1v0.5h1v-0.5h-1zm-14.75 1-0.25 0.5h3v-0.5h-2.75zm3.75 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h3l-0.25-0.5h-2.75z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <path fill="#c2352a" d="m10.5 2-4.75 9.5-4.75 9.5h3v-3h1v3h1v-4h1v4h1v-5h1v5h1v-4h1v4h1v-3h1v3h1v-2h1v2h1v-1h1v1h3l-4.75-9.5-4.75-9.5z"/>
+ <path opacity=".2" fill="#fff" d="m10.5 2-4.75 9.5-4.75 9.5h0.25l4.5-9 4.75-9.5 4.75 9.5 4.5 9h0.25l-4.75-9.5-4.75-9.5z"/>
+ <path opacity=".2" d="m8 16v0.5h1v-0.5h-1zm-2 1v0.5h1v-0.5h-1zm4 0v0.5h1v-0.5h-1zm-6 1v0.5h1v-0.5h-1zm8 0v0.5h1v-0.5h-1zm2 1v0.5h1v-0.5h-1zm2 1v0.5h1v-0.5h-1zm-14.75 1-0.25 0.5h3v-0.5h-2.75zm3.75 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h1v-0.5h-1zm2 0v0.5h3l-0.25-0.5h-2.75z"/>
 </svg>

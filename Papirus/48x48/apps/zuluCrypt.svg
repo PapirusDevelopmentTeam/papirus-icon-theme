@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#d92929"/>
-    <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
-    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
-    <g id="g4559" opacity=".2" stroke-linejoin="round" transform="translate(0 .99950)" stroke="#000" stroke-linecap="round" stroke-width="3" fill="none">
-        <path id="path4561" d="m10 18.5h11l-10 13h11"/>
-        <path id="path4563" d="m37 31.495s-11.054 0.47384-11-8.5474c0.05391-9.0213 11-8.4526 11-8.4526"/>
-    </g>
-    <g id="g5030" stroke-linejoin="round" stroke="#ff895e" stroke-linecap="round" stroke-width="3" fill="none">
-        <path id="path5022" d="m10 18.5h11l-10 13h11"/>
-        <path id="path5024" d="m37 31.495s-11.054 0.47384-11-8.5474c0.05391-9.0213 11-8.4526 11-8.4526"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#d92929"/>
+ <path opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <g opacity=".2" stroke-linejoin="round" transform="translate(0 .99950)" stroke="#000" stroke-linecap="round" stroke-width="3" fill="none">
+  <path d="m10 18.5h11l-10 13h11"/>
+  <path d="m37 31.495s-11.054 0.47384-11-8.5474c0.05391-9.0213 11-8.4526 11-8.4526"/>
+ </g>
+ <g stroke-linejoin="round" stroke="#ff895e" stroke-linecap="round" stroke-width="3" fill="none">
+  <path d="m10 18.5h11l-10 13h11"/>
+  <path d="m37 31.495s-11.054 0.47384-11-8.5474c0.05391-9.0213 11-8.4526 11-8.4526"/>
+ </g>
 </svg>

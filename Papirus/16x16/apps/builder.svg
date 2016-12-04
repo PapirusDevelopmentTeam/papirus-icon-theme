@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata85">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path4668" d="m9 2-4 4" stroke="#cbbb2e" stroke-width="3" fill="none"/>
-    <rect id="rect4670" ry="0" transform="scale(-1,1)" height="8.5" width="4" y="6" x="-6" fill="#cbbb2e"/>
-    <path id="rect4674" d="m6 13h-4c-0.554 0-1 0.446-1 1s0.446 1 1 1h4c0.554 0 1-0.446 1-1s-0.446-1-1-1z" fill="#d6c84a"/>
-    <path id="path4676" d="m7 14c1 0 1 1 1 1v1h-8v-1c0-1 1-1 1-1z" style="enable-background:new" fill="#3f3f3f"/>
-    <path id="path4682" d="m9 2 2 2" stroke="#cbbb2e" stroke-linecap="square" stroke-width="2" fill="none"/>
-    <rect id="rect4702" opacity=".2" style="enable-background:new" transform="scale(-1,1)" ry="2" height="4" width="4" y="1" x="-11"/>
-    <rect id="rect4704" opacity=".2" style="enable-background:new" transform="scale(-1,1)" ry="3" height="6" width="6" y="5" x="-7"/>
-    <rect id="rect4678" ry="3" style="enable-background:new" transform="scale(-1,1)" height="6" width="6" y="4" x="-7" fill="#d6c84a"/>
-    <rect id="rect4680" ry="2" style="enable-background:new" transform="scale(-1,1)" height="4" width="4" y="5" x="-6" fill="#3f3f3f"/>
-    <rect id="rect4692" opacity=".1" ry="1" style="enable-background:new" transform="scale(-1,1)" height="2" width="2" y="6" x="-5" fill="#fff"/>
-    <rect id="rect4686" ry="2" style="enable-background:new" transform="scale(-1,1)" height="4" width="4" y="0" x="-11" fill="#d6c84a"/>
-    <path id="path4688" stroke-linejoin="round" d="m12.5 7.5-2-0.003v-2l2-2h2v2" stroke="#3f3f3f" stroke-linecap="round" fill="none"/>
-    <rect id="rect4690" ry="1" style="enable-background:new" transform="scale(-1,1)" height="2" width="2" y="1" x="-10" fill="#3f3f3f"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1">
+ <path d="m9 2-4 4" stroke="#cbbb2e" stroke-width="3" fill="none"/>
+ <rect ry="0" transform="scale(-1,1)" height="8.5" width="4" y="6" x="-6" fill="#cbbb2e"/>
+ <path d="m6 13h-4c-0.554 0-1 0.446-1 1s0.446 1 1 1h4c0.554 0 1-0.446 1-1s-0.446-1-1-1z" fill="#d6c84a"/>
+ <path d="m7 14c1 0 1 1 1 1v1h-8v-1c0-1 1-1 1-1z" style="enable-background:new" fill="#3f3f3f"/>
+ <path d="m9 2 2 2" stroke="#cbbb2e" stroke-linecap="square" stroke-width="2" fill="none"/>
+ <rect opacity=".2" style="enable-background:new" transform="scale(-1,1)" ry="2" height="4" width="4" y="1" x="-11"/>
+ <rect opacity=".2" style="enable-background:new" transform="scale(-1,1)" ry="3" height="6" width="6" y="5" x="-7"/>
+ <rect ry="3" style="enable-background:new" transform="scale(-1,1)" height="6" width="6" y="4" x="-7" fill="#d6c84a"/>
+ <rect ry="2" style="enable-background:new" transform="scale(-1,1)" height="4" width="4" y="5" x="-6" fill="#3f3f3f"/>
+ <rect opacity=".1" ry="1" style="enable-background:new" transform="scale(-1,1)" height="2" width="2" y="6" x="-5" fill="#fff"/>
+ <rect ry="2" style="enable-background:new" transform="scale(-1,1)" height="4" width="4" y="0" x="-11" fill="#d6c84a"/>
+ <path stroke-linejoin="round" d="m12.5 7.5-2-0.003v-2l2-2h2v2" stroke="#3f3f3f" stroke-linecap="round" fill="none"/>
+ <rect ry="1" style="enable-background:new" transform="scale(-1,1)" height="2" width="2" y="1" x="-10" fill="#3f3f3f"/>
 </svg>

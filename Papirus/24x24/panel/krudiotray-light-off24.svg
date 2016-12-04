@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3049"
-   height="24"
-   width="24"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="krudiotray-light-off24.svg">
-  <defs
-     id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3049" />
-  <metadata
-     id="metadata3054">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-421.71 -523.79)">
-    <g
-       id="g4153"
-       transform="translate(1,-1)">
-      <path
-         id="path4148"
-         opacity="0.72"
-         d="m3.1426 4c-0.6332 0-1.1426 0.5344-1.1426 1.1992v11.602c0 0.665 0.5094 1.199 1.1426 1.199h15.714c0.634 0 1.143-0.534 1.143-1.199v-11.602c0-0.6646-0.509-1.199-1.143-1.199h-15.714zm4.8574 3c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4-4-1.791-4-4c0-2.2091 1.7909-4 4-4zm5 0h5v1h-5v-1zm-4.9004 1c-1.6569 0-3 1.3432-3 3s1.3431 3 3 3c1.6568 0 3-1.3432 3-3s-1.3431-3-3-3zm4.9004 2h5v1h-5v-1zm0 3h5v1h-5v-1z"
-         transform="translate(421.71 525.79)"
-         fill="#d3dae3"
-         style="opacity:1" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1">
+ <g transform="translate(-421.71 -523.79)">
+  <g transform="translate(1,-1)">
+   <path opacity=".72" d="m3.1426 4c-0.6332 0-1.1426 0.5344-1.1426 1.1992v11.602c0 0.665 0.5094 1.199 1.1426 1.199h15.714c0.634 0 1.143-0.534 1.143-1.199v-11.602c0-0.6646-0.509-1.199-1.143-1.199h-15.714zm4.8574 3c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4-4-1.791-4-4c0-2.2091 1.7909-4 4-4zm5 0h5v1h-5v-1zm-4.9004 1c-1.6569 0-3 1.3432-3 3s1.3431 3 3 3c1.6568 0 3-1.3432 3-3s-1.3431-3-3-3zm4.9004 2h5v1h-5v-1zm0 3h5v1h-5v-1z" transform="translate(421.71 525.79)" fill="#d3dae3" style="opacity:1"/>
   </g>
+ </g>
 </svg>

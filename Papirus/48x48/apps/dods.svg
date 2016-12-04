@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#c2352a"/>
-    <path id="rect4358" d="m44 23v-17c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v17z" fill="#6fbb34"/>
-    <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
-    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
-    <path id="path4361" transform="matrix(1 0 0 .98575 -1.382 .54920)" fill="#fff" d="m25.382 5.5296 2.4721 5.0091 5.5279 0.80325-4 3.899 0.94427 5.5055-4.9443-2.5994-4.9443 2.5994 0.94427-5.5055-4-3.899 5.5279-0.80325z"/>
-    <path id="rect4363" fill="#1f1f1f" d="m21 26h6l-2 8 2 8h-6l2-8z"/>
-    <path id="path4373" fill="#1f1f1f" d="m32 31v6l-8-2-8 2v-6l8 2z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#c2352a"/>
+ <path d="m44 23v-17c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v17z" fill="#6fbb34"/>
+ <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <path transform="matrix(1 0 0 .98575 -1.382 .54920)" fill="#fff" d="m25.382 5.5296 2.4721 5.0091 5.5279 0.80325-4 3.899 0.94427 5.5055-4.9443-2.5994-4.9443 2.5994 0.94427-5.5055-4-3.899 5.5279-0.80325z"/>
+ <path fill="#1f1f1f" d="m21 26h6l-2 8 2 8h-6l2-8z"/>
+ <path fill="#1f1f1f" d="m32 31v6l-8-2-8 2v-6l8 2z"/>
 </svg>

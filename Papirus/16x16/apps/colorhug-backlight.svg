@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4418" transform="translate(-16,-13)">
-        <circle id="path4058-7" style="enable-background:new" cx="24" cy="21" r="8" fill="#3facd2"/>
-        <circle id="path4381" cy="19" cx="24" r="4" fill="#fff"/>
-        <rect id="rect4383" height="4" width="4" y="20" x="22" fill="#fff"/>
-        <rect id="rect4385" height="1" width="4" y="25" x="22" fill="#fff"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <g transform="translate(-16,-13)">
+  <circle style="enable-background:new" cx="24" cy="21" r="8" fill="#3facd2"/>
+  <circle cy="19" cx="24" r="4" fill="#fff"/>
+  <rect height="4" width="4" y="20" x="22" fill="#fff"/>
+  <rect height="1" width="4" y="25" x="22" fill="#fff"/>
+ </g>
 </svg>

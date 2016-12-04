@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4255" ry=".85714" rx=".85714" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#7de63e"/>
-    <path id="path4465" opacity=".2" d="m3.9293 3.9257a13.433 13.445 0 0 0 -3.7207 11.862 13.433 13.445 0 0 0 11.862 -3.714 13.433 13.445 0 0 0 3.72 -11.862 13.433 13.445 0 0 0 -11.862 3.7137z"/>
-    <circle id="path4484" opacity=".3" cy="8" cx="8" r="3"/>
-    <circle id="circle4486" cy="8" cx="8" r="2" fill="#ffc20c"/>
-    <g id="g4380">
-        <circle id="circle4494" opacity=".3" cy="3" cx="13" r="2"/>
-        <circle id="circle4496" cy="3" cx="13" r="1" fill="#ffc20c"/>
-    </g>
-    <g id="g4384" transform="translate(-10,10)">
-        <circle id="circle4386" opacity=".3" cy="3" cx="13" r="2"/>
-        <circle id="circle4388" cy="3" cx="13" r="1" fill="#ffc20c"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry=".857" rx=".857" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#7de63e"/>
+ <path opacity=".2" d="m3.9293 3.9257a13.433 13.445 0 0 0 -3.7207 11.862 13.433 13.445 0 0 0 11.862 -3.714 13.433 13.445 0 0 0 3.72 -11.862 13.433 13.445 0 0 0 -11.862 3.7137z"/>
+ <circle opacity=".3" cy="8" cx="8" r="3"/>
+ <circle cy="8" cx="8" r="2" fill="#ffc20c"/>
+ <g>
+  <circle opacity=".3" cy="3" cx="13" r="2"/>
+  <circle cy="3" cx="13" r="1" fill="#ffc20c"/>
+ </g>
+ <g transform="translate(-10,10)">
+  <circle opacity=".3" cy="3" cx="13" r="2"/>
+  <circle cy="3" cx="13" r="1" fill="#ffc20c"/>
+ </g>
 </svg>

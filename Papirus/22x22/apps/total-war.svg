@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4393" transform="matrix(.625 0 0 .74999 1 -.49995)">
-        <g id="g4353">
-            <path id="polygon4355" fill="#fec006" d="m16 6-7.2 9.333-8.8-9.333 1.6 20h28.8l1.6-20-8.8 9.333z"/>
-        </g>
-    </g>
-    <rect id="rect4859" transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="1.8028" width="1.8028" y="24.037" x="6.6101" fill="#e82d2d"/>
-    <rect id="rect4861" transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="1.8028" width="1.8028" y="11.418" x="-6.0093" fill="#e82d2d"/>
-    <rect id="rect4863" transform="matrix(.70711 -.70710 .70711 .70710 0 0)" height="2.8284" width="2.8284" y="16.263" x="-3.5355" fill="#e82d2d"/>
-    <g id="g4441" fill="#fff" transform="matrix(.625 0 0 .74999 1 -.49995)">
-        <g id="g4443" fill="#fff">
-            <path id="path4445" opacity=".2" d="m4 9 0.0723 1.092 10.928 13.908 9-14 9 14 10.928-13.908 0.072-1.092-11 14-9-14-9 14-11-14z" fill="#fff" transform="matrix(.8 0 0 .66667 -3.2 0)"/>
-        </g>
-    </g>
-    <g id="g4516" transform="matrix(.625 0 0 .74999 1 .000048881)">
-        <g id="g4518">
-            <path id="path4520" opacity=".2" transform="matrix(.8 0 0 .66667 -3.2 0)" d="m4 9 2 30h36l2-30-0.072 0.0918-1.928 28.908h-36l-1.9277-28.908-0.0723-0.0922z"/>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <g transform="matrix(.625 0 0 .74999 1 -.49995)">
+  <g>
+   <path fill="#fec006" d="m16 6-7.2 9.333-8.8-9.333 1.6 20h28.8l1.6-20-8.8 9.333z"/>
+  </g>
+ </g>
+ <rect transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="1.803" width="1.803" y="24.04" x="6.61" fill="#e82d2d"/>
+ <rect transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="1.803" width="1.803" y="11.42" x="-6.01" fill="#e82d2d"/>
+ <rect transform="matrix(.70711 -.70710 .70711 .70710 0 0)" height="2.828" width="2.828" y="16.26" x="-3.54" fill="#e82d2d"/>
+ <g fill="#fff" transform="matrix(.625 0 0 .74999 1 -.49995)">
+  <g>
+   <path opacity=".2" d="m4 9 0.0723 1.092 10.928 13.908 9-14 9 14 10.928-13.908 0.072-1.092-11 14-9-14-9 14-11-14z" transform="matrix(.8 0 0 .66667 -3.2 0)"/>
+  </g>
+ </g>
+ <g transform="matrix(.625 0 0 .74999 1 .000048881)">
+  <g>
+   <path opacity=".2" transform="matrix(.8 0 0 .66667 -3.2 0)" d="m4 9 2 30h36l2-30-0.072 0.0918-1.928 28.908h-36l-1.9277-28.908-0.0723-0.0922z"/>
+  </g>
+ </g>
 </svg>

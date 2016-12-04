@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#f15990"/>
-    <path id="rect4903" opacity=".2" fill="#fff" d="m11 1c-5.54 0-10 4.46-10 10 0 0.084 0.004 0.166 0.0058 0.25 0.1324-5.423 4.5382-9.75 9.9942-9.75 5.4558 0 9.862 4.327 9.994 9.75 0.002-0.08343 0.0059-0.16606 0.0059-0.25 0-5.54-4.46-10-10-10z"/>
-    <path id="rect4722" opacity=".2" d="m1.0058 11.25c-0.002 0.084-0.0058 0.166-0.0058 0.25 0 5.54 4.46 10 10 10s10-4.46 10-10c0-0.084-0.004-0.1665-0.006-0.25-0.132 5.423-4.538 9.75-9.994 9.75s-9.862-4.327-9.994-9.75z"/>
-    <g id="g4591" opacity=".2" transform="translate(-1 -.5)">
-        <path id="path4593" opacity="1" d="m16 8a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3z"/>
-        <path id="path4595" opacity="1" d="m7 9a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
-    </g>
-    <g id="g4587" fill="#fff" transform="translate(-1,-1)">
-        <path id="path4571" d="m16 8a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3z"/>
-        <path id="path4569" d="m7 9a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#f15990"/>
+ <path opacity=".2" fill="#fff" d="m11 1c-5.54 0-10 4.46-10 10 0 0.084 0.004 0.166 0.0058 0.25 0.1324-5.423 4.5382-9.75 9.9942-9.75 5.4558 0 9.862 4.327 9.994 9.75 0.002-0.08343 0.0059-0.16606 0.0059-0.25 0-5.54-4.46-10-10-10z"/>
+ <path opacity=".2" d="m1.0058 11.25c-0.002 0.084-0.0058 0.166-0.0058 0.25 0 5.54 4.46 10 10 10s10-4.46 10-10c0-0.084-0.004-0.1665-0.006-0.25-0.132 5.423-4.538 9.75-9.994 9.75s-9.862-4.327-9.994-9.75z"/>
+ <g opacity=".2" transform="translate(-1 -.5)">
+  <path opacity="1" d="m16 8a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3z"/>
+  <path opacity="1" d="m7 9a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
+ </g>
+ <g fill="#fff" transform="translate(-1,-1)">
+  <path d="m16 8a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3z"/>
+  <path d="m7 9a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
+ </g>
 </svg>

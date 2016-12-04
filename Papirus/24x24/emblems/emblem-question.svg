@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2817" height="24" width="24" version="1.0" inkscape:version="0.91 r13725" sodipodi:docname="emblem-question.svg">
-    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1600" inkscape:window-height="849" id="namedview231" showgrid="false" inkscape:zoom="1" inkscape:cx="-232.01695" inkscape:cy="24" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2817"/>
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4370" transform="scale(0.5,0.5)">
-        <circle r="20" cy="24" cx="24" id="path4344" style="opacity:1;fill:#252a35;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-        <path d="m 26,38 -4,0 0,-4 4,0 z m 4.14,-15.5 -1.8,1.84 C 26.9,25.8 26,27 26,30 l -4,0 0,-1 c 0,-2.2 0.9,-4.2 2.34,-5.66 l 2.48,-2.52 C 27.56,20.1 28,19.1 28,18 c 0,-2.2 -1.8,-4 -4,-4 -2.2,0 -4,1.8 -4,4 l -4,0 c 0,-4.42 3.58,-8 8,-8 4.42,0 8,3.58 8,8 0,1.76 -0.72,3.36 -1.86,4.5 z" style="fill:#ffffff;enable-background:new" id="path4382" inkscape:connector-curvature="0"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="scale(0.5,0.5)">
+  <circle r="20" cy="24" cx="24" style="opacity:1;fill:#252a35;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 26,38 -4,0 0,-4 4,0 z m 4.14,-15.5 -1.8,1.84 C 26.9,25.8 26,27 26,30 l -4,0 0,-1 c 0,-2.2 0.9,-4.2 2.34,-5.66 l 2.48,-2.52 C 27.56,20.1 28,19.1 28,18 c 0,-2.2 -1.8,-4 -4,-4 -2.2,0 -4,1.8 -4,4 l -4,0 c 0,-4.42 3.58,-8 8,-8 4.42,0 8,3.58 8,8 0,1.76 -0.72,3.36 -1.86,4.5 z" style="fill:#ffffff;enable-background:new"/>
+ </g>
 </svg>

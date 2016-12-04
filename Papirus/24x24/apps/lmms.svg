@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4348" transform="translate(1,1)">
-        <path id="path3854" style="enable-background:new" fill="#25c65f" d="m11 2-10 6 0.0098 3.117-0.0098 7.383 3.5 1.5 3.5-1.5v-3.5l-3-2v-3l6-4 6 4v3l-3 2v3.5l3.5 1.5 3.5-1.5-0.01-7.383 0.01-3.117-10-6z"/>
-        <path id="path4353" opacity=".2" d="m11 2-10 6 0.002 0.5 9.998-6 9.998 6 0.002-0.5-10-6zm-6 11v0.5l3 2v-0.5l-3-2zm12 0-3 2v0.5l3-2v-0.5z" style="enable-background:new" fill="#fff"/>
-        <path id="path4358" opacity=".2" style="enable-background:new" d="m11 6-6 4v0.5l6-4 6 4v-0.5l-6-4zm-10 2.5 0.00977 2.9688v-0.35156l-0.0078-2.617h-0.002zm19.998 0-0.0078 2.6172v0.35156l0.01-2.969h-0.002zm-19.998 10v0.5l3.5 1.5 3.5-1.5v-0.5l-3.5 1.5-3.5-1.5zm13 0v0.5l3.5 1.5 3.5-1.5v-0.5l-3.5 1.5-3.5-1.5z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <path style="enable-background:new" fill="#25c65f" d="m11 2-10 6 0.0098 3.117-0.0098 7.383 3.5 1.5 3.5-1.5v-3.5l-3-2v-3l6-4 6 4v3l-3 2v3.5l3.5 1.5 3.5-1.5-0.01-7.383 0.01-3.117-10-6z"/>
+  <path opacity=".2" d="m11 2-10 6 0.002 0.5 9.998-6 9.998 6 0.002-0.5-10-6zm-6 11v0.5l3 2v-0.5l-3-2zm12 0-3 2v0.5l3-2v-0.5z" style="enable-background:new" fill="#fff"/>
+  <path opacity=".2" style="enable-background:new" d="m11 6-6 4v0.5l6-4 6 4v-0.5l-6-4zm-10 2.5 0.00977 2.9688v-0.35156l-0.0078-2.617h-0.002zm19.998 0-0.0078 2.6172v0.35156l0.01-2.969h-0.002zm-19.998 10v0.5l3.5 1.5 3.5-1.5v-0.5l-3.5 1.5-3.5-1.5zm13 0v0.5l3.5 1.5 3.5-1.5v-0.5l-3.5 1.5-3.5-1.5z"/>
+ </g>
 </svg>

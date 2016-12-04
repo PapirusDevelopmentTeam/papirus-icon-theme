@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#c2352a"/>
-    <path id="rect4592" opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-    <path id="path4597" opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
-    <path id="path5772" opacity=".2" d="m4.0664 3.5c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.867c0.592 0 1.067-0.475 1.067-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z"/>
-    <path id="path5769" d="m4.0664 3c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.868c0.591 0 1.066-0.475 1.066-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z" fill="#fff"/>
-    <circle id="path4058" style="enable-background:new" cx="16" cy="16" r="6" fill="#ffa822"/>
-    <path id="path5782" fill="#fff" d="m12 14v1h1v3h1v-3h1v-1h-3zm4 0 1.3008 4h1.5l1.199-4h-1l-1 3-1-3h-1z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#c2352a"/>
+ <path opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+ <path opacity=".2" d="m4.0664 3.5c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.867c0.592 0 1.067-0.475 1.067-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z"/>
+ <path d="m4.0664 3c-0.5909 0-1.0664 0.4755-1.0664 1.0664v13.868c0 0.591 0.4755 1.066 1.0664 1.066h13.868c0.591 0 1.066-0.475 1.066-1.066v-13.868c0-0.5905-0.475-1.066-1.066-1.066h-13.868zm0.9336 2h4l2 4 2-4h4v12h-3v-8.7266l-2 4.7266h-2l-2-4.7266v8.7266h-3v-12z" fill="#fff"/>
+ <circle style="enable-background:new" cx="16" cy="16" r="6" fill="#ffa822"/>
+ <path fill="#fff" d="m12 14v1h1v3h1v-3h1v-1h-3zm4 0 1.3008 4h1.5l1.199-4h-1l-1 3-1-3h-1z"/>
 </svg>

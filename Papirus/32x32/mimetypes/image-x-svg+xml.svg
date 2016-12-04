@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4203" d="m29 26.667v-21.334c0-0.7383-0.58-1.333-1.3-1.333h-23.4c-0.7202 0-1.3 0.59467-1.3 1.3333v21.334c0 0.738 0.5798 1.333 1.3 1.333h23.4c0.72 0 1.3-0.595 1.3-1.333z" fill="#bf9a66"/>
-    <circle id="path4369" cy="15.5" cx="8.5" r="2.5" fill="#fff"/>
-    <path id="path4375" d="m8 15 6 7 10-2" stroke="#fff" fill="none"/>
-    <path id="path5294" opacity=".1" d="m4.2998 4c-0.7202 0-1.2998 0.5943-1.2998 1.333v1c0-0.7387 0.5796-1.333 1.2998-1.333h23.4c0.72 0 1.3 0.5943 1.3 1.333v-1c0-0.7387-0.58-1.333-1.3-1.333h-23.4z" fill="#fff"/>
-    <circle id="circle5299" cy="20.5" cx="23.5" r="2.5" fill="#fff"/>
-    <circle id="circle5301" cy="21.5" cx="14.5" r="2.5" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <path d="m29 26.667v-21.334c0-0.7383-0.58-1.333-1.3-1.333h-23.4c-0.7202 0-1.3 0.59467-1.3 1.3333v21.334c0 0.738 0.5798 1.333 1.3 1.333h23.4c0.72 0 1.3-0.595 1.3-1.333z" fill="#bf9a66"/>
+ <circle cy="15.5" cx="8.5" r="2.5" fill="#fff"/>
+ <path d="m8 15 6 7 10-2" stroke="#fff" fill="none"/>
+ <path opacity=".1" d="m4.2998 4c-0.7202 0-1.2998 0.5943-1.2998 1.333v1c0-0.7387 0.5796-1.333 1.2998-1.333h23.4c0.72 0 1.3 0.5943 1.3 1.333v-1c0-0.7387-0.58-1.333-1.3-1.333h-23.4z" fill="#fff"/>
+ <circle cy="20.5" cx="23.5" r="2.5" fill="#fff"/>
+ <circle cy="21.5" cx="14.5" r="2.5" fill="#fff"/>
 </svg>

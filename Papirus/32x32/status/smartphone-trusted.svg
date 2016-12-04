@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4194" opacity=".2" d="m4 29v1.5c0 0.831 0.669 1.5 1.5 1.5h21c0.831 0 1.5-0.669 1.5-1.5v-1.5c0 0.831-0.669 1.5-1.5 1.5h-21c-0.831 0-1.5-0.669-1.5-1.5z"/>
-    <rect id="rect4203" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="24" width="30" y="-28" x="-31" fill="#757575"/>
-    <path id="rect4443" fill="#4d4d4d" d="m7.5385 3.9997h16.924c0.852 0 1.538 0.7548 1.538 1.6923v18.616c0 0.937-0.686 1.692-1.538 1.692h-16.924c-0.8518 0-1.538-0.75458-1.538-1.6918v-18.615c0.001-0.9374 0.6872-1.6922 1.5395-1.6922z"/>
-    <path id="rect6003" opacity=".1" fill="#fff" d="m5.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h21c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-21z"/>
-    <rect id="rect4556" rx=".5" ry=".5" height="1" width="8" y="2" x="12" fill="#4d4d4d"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <path opacity=".2" d="m4 29v1.5c0 0.831 0.669 1.5 1.5 1.5h21c0.831 0 1.5-0.669 1.5-1.5v-1.5c0 0.831-0.669 1.5-1.5 1.5h-21c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="24" width="30" y="-28" x="-31" fill="#757575"/>
+ <path fill="#4d4d4d" d="m7.5385 3.9997h16.924c0.852 0 1.538 0.7548 1.538 1.6923v18.616c0 0.937-0.686 1.692-1.538 1.692h-16.924c-0.8518 0-1.538-0.75458-1.538-1.6918v-18.615c0.001-0.9374 0.6872-1.6922 1.5395-1.6922z"/>
+ <path opacity=".1" fill="#fff" d="m5.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h21c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-21z"/>
+ <rect rx=".5" ry=".5" height="1" width="8" y="2" x="12" fill="#4d4d4d"/>
 </svg>

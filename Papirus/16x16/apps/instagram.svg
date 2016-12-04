@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#765a4d"/>
-    <rect id="rect4417" height="2" width="2" y="0" x="1" fill="#e15a5a"/>
-    <rect id="rect4419" height="2" width="2" y="0" x="3" fill="#f1a24a"/>
-    <rect id="rect4421" height="2" width="2" y="0" x="5" fill="#50b449"/>
-    <rect id="rect4423" height="2" width="2" y="0" x="7" fill="#498fb4"/>
-    <path id="path4403" d="m14 1a1 1 0 0 1 1 1 1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1z" fill="#383838"/>
-    <path id="path4401" d="m8 3a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5z" fill="#9b9b9b"/>
-    <path id="path4375" d="m8 5a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3z" fill="#c4c4c4"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#765a4d"/>
+ <rect height="2" width="2" y="0" x="1" fill="#e15a5a"/>
+ <rect height="2" width="2" y="0" x="3" fill="#f1a24a"/>
+ <rect height="2" width="2" y="0" x="5" fill="#50b449"/>
+ <rect height="2" width="2" y="0" x="7" fill="#498fb4"/>
+ <path d="m14 1a1 1 0 0 1 1 1 1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1z" fill="#383838"/>
+ <path d="m8 3a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5z" fill="#9b9b9b"/>
+ <path d="m8 5a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3z" fill="#c4c4c4"/>
 </svg>

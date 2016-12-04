@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4350" transform="translate(1,1)">
-        <circle id="circle4359" opacity=".2" cy="11.5" cx="11" r="10"/>
-        <circle id="path4352" cy="11" cx="11" r="10" fill="#5e5e5e"/>
-        <circle id="circle4350" opacity=".1" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" cy="-11" cx="-10.5" r="8" fill="#fff"/>
-        <circle id="circle4407" style="enable-background:new" cx="-11" transform="matrix(0,-1,-1,0,0,0)" cy="-11" r="8" fill="#3f3f3f"/>
-        <circle id="circle4385-5" style="enable-background:new" cx="-11" transform="matrix(0,-1,-1,0,0,0)" cy="-11" r="6" fill="#fec006"/>
-        <circle id="circle4501" style="enable-background:new" cx="-11" transform="matrix(0,-1,-1,0,0,0)" cy="-11" r="3" fill="#3f3f3f"/>
-        <path id="circle4354" opacity=".1" d="m11 1a10 10 0 0 0 -10 10 10 10 0 0 0 0.0098 0.293 10 10 0 0 1 9.9902 -9.793 10 10 0 0 1 9.99 9.707 10 10 0 0 0 0.01 -0.207 10 10 0 0 0 -10 -10z" fill="#fff"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <circle opacity=".2" cy="11.5" cx="11" r="10"/>
+  <circle cy="11" cx="11" r="10" fill="#5e5e5e"/>
+  <circle opacity=".1" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" cy="-11" cx="-10.5" r="8" fill="#fff"/>
+  <circle style="enable-background:new" cx="-11" transform="matrix(0,-1,-1,0,0,0)" cy="-11" r="8" fill="#3f3f3f"/>
+  <circle style="enable-background:new" cx="-11" transform="matrix(0,-1,-1,0,0,0)" cy="-11" r="6" fill="#fec006"/>
+  <circle style="enable-background:new" cx="-11" transform="matrix(0,-1,-1,0,0,0)" cy="-11" r="3" fill="#3f3f3f"/>
+  <path opacity=".1" d="m11 1a10 10 0 0 0 -10 10 10 10 0 0 0 0.0098 0.293 10 10 0 0 1 9.9902 -9.793 10 10 0 0 1 9.99 9.707 10 10 0 0 0 0.01 -0.207 10 10 0 0 0 -10 -10z" fill="#fff"/>
+ </g>
 </svg>

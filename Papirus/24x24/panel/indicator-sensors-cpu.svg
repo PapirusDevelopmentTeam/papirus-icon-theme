@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="24" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata28">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4" fill="#d3dae3" transform="translate(4 -1029.4)">
-  <rect id="rect6" rx=".25" ry=".25" height="9" width="9" y="1038.4" x="5"/>
-  <rect id="rect8" rx=".25" ry=".25" height="2" width="1" y="1033.4" x="13"/>
-  <rect id="rect10" rx=".25" ry=".25" height="2" width="1" y="1033.4" x="9"/>
-  <rect id="rect12" rx=".25" ry=".25" height="2" width="1" y="1033.4" x="5"/>
-  <g id="g14" transform="matrix(0,1,-1,0,1033.4,1029.4)">
-   <rect id="rect16" rx=".25" ry=".25" height="2" width="1" y="1031.4" x="17"/>
-   <rect id="rect18" rx=".25" ry=".25" height="2" width="1" y="1031.4" x="13"/>
-   <rect id="rect20" rx=".25" ry=".25" height="2" width="1" y="1031.4" x="9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" version="1.1" height="24">
+ <g fill="#d3dae3" transform="translate(4 -1029.4)">
+  <rect rx=".25" ry=".25" height="9" width="9" y="1038.4" x="5"/>
+  <rect rx=".25" ry=".25" height="2" width="1" y="1033.4" x="13"/>
+  <rect rx=".25" ry=".25" height="2" width="1" y="1033.4" x="9"/>
+  <rect rx=".25" ry=".25" height="2" width="1" y="1033.4" x="5"/>
+  <g transform="matrix(0,1,-1,0,1033.4,1029.4)">
+   <rect rx=".25" ry=".25" height="2" width="1" y="1031.4" x="17"/>
+   <rect rx=".25" ry=".25" height="2" width="1" y="1031.4" x="13"/>
+   <rect rx=".25" ry=".25" height="2" width="1" y="1031.4" x="9"/>
   </g>
-  <path id="path22" d="m3.25 5c-0.6925 0-1.25 0.5575-1.25 1.25v0.7754c0.5716 0.1154 1 0.618 1 1.2246v0.5c0 0.6066-0.4284 1.1092-1 1.2246v1.0504c0.5716 0.116 1 0.618 1 1.225v0.5c0 0.607-0.4284 1.109-1 1.225v1.05c0.5716 0.116 1 0.618 1 1.225v0.5c0 0.599-0.418 1.095-0.9785 1.219 0.1034 0.587 0.6111 1.031 1.2285 1.031h11.5c0.692 0 1.25-0.558 1.25-1.25v-11.5c0-0.6086-0.431-1.1113-1.006-1.2246-0.014 0.5414-0.449 0.9746-0.994 0.9746h-1c-0.554 0-1-0.446-1-1h-1c0 0.554-0.446 1-1 1h-1c-0.554 0-1-0.446-1-1h-1c0 0.554-0.446 1-1 1h-1c-0.554 0-1-0.446-1-1h-0.75zm1.75 2h9c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-9c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z" transform="translate(0,1030.4)"/>
+  <path d="m3.25 5c-0.6925 0-1.25 0.5575-1.25 1.25v0.7754c0.5716 0.1154 1 0.618 1 1.2246v0.5c0 0.6066-0.4284 1.1092-1 1.2246v1.0504c0.5716 0.116 1 0.618 1 1.225v0.5c0 0.607-0.4284 1.109-1 1.225v1.05c0.5716 0.116 1 0.618 1 1.225v0.5c0 0.599-0.418 1.095-0.9785 1.219 0.1034 0.587 0.6111 1.031 1.2285 1.031h11.5c0.692 0 1.25-0.558 1.25-1.25v-11.5c0-0.6086-0.431-1.1113-1.006-1.2246-0.014 0.5414-0.449 0.9746-0.994 0.9746h-1c-0.554 0-1-0.446-1-1h-1c0 0.554-0.446 1-1 1h-1c-0.554 0-1-0.446-1-1h-1c0 0.554-0.446 1-1 1h-1c-0.554 0-1-0.446-1-1h-0.75zm1.75 2h9c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-9c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z" transform="translate(0,1030.4)"/>
  </g>
 </svg>

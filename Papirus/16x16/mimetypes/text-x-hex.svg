@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16px" width="16px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 16 16" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata67">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="path57" fill="#ccc" d="m2.75 1c-0.4172 0-0.75 0.3328-0.75 0.75v13.5c0 0.417 0.3328 0.75 0.75 0.75h10.5c0.418 0 0.75-0.332 0.75-0.75v-9.25l-4.125-0.875-0.875-4.125z"/>
-    <path id="path61" fill="#f8f8f0" d="m9 1v4.1667c0 0.4584 0.3749 0.8333 0.8333 0.8333h4.1667z"/>
-    <path id="path63" fill-opacity=".2" d="m2.75 1c-0.4172 0-0.75 0.3328-0.75 0.75v0.6c0-0.4172 0.3328-0.75 0.75-0.75h6.75v-0.6z" fill="#fff"/>
-    <path id="rect4169" opacity=".5" d="m3 3v3h2v-3h-2zm3 0v3h1v-3h-1zm2 0v3h1v-3h-1zm-4 4v3h2v-3h-2zm3 0v3h1v-3h-1zm2 0v3h1v-3h-1zm2 0v3h2v-3h-2zm-8 4v3h1v-3h-1zm2 0v3h2v-3h-2zm6 0v3h1v-3h-1z"/>
-    <rect id="rect4189" opacity=".5" height="3" width="2" y="11" x="8"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" viewBox="0 0 16 16">
+ <path fill="#ccc" d="m2.75 1c-0.4172 0-0.75 0.3328-0.75 0.75v13.5c0 0.417 0.3328 0.75 0.75 0.75h10.5c0.418 0 0.75-0.332 0.75-0.75v-9.25l-4.125-0.875-0.875-4.125z"/>
+ <path fill="#f8f8f0" d="m9 1v4.1667c0 0.4584 0.3749 0.8333 0.8333 0.8333h4.1667z"/>
+ <path fill-opacity=".2" d="m2.75 1c-0.4172 0-0.75 0.3328-0.75 0.75v0.6c0-0.4172 0.3328-0.75 0.75-0.75h6.75v-0.6z" fill="#fff"/>
+ <path opacity=".5" d="m3 3v3h2v-3h-2zm3 0v3h1v-3h-1zm2 0v3h1v-3h-1zm-4 4v3h2v-3h-2zm3 0v3h1v-3h-1zm2 0v3h1v-3h-1zm2 0v3h2v-3h-2zm-8 4v3h1v-3h-1zm2 0v3h2v-3h-2zm6 0v3h1v-3h-1z"/>
+ <rect opacity=".5" height="3" width="2" y="11" x="8"/>
 </svg>

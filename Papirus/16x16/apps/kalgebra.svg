@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4255" ry=".85714" rx=".85714" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#dcdcbe"/>
-    <path id="rect4259" fill="#2a2a2a" d="m5.0002 4v0.7l0.0028 0.29998 1.497 2.5-1.5 2.5v1h5.5v-1.5h-1v0.5h-3.5l1.5-2.5-1.5-2.5h3v0.5h1v-1.5h-4.9999z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry=".857" rx=".857" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#dcdcbe"/>
+ <path fill="#2a2a2a" d="m5.0002 4v0.7l0.0028 0.29998 1.497 2.5-1.5 2.5v1h5.5v-1.5h-1v0.5h-3.5l1.5-2.5-1.5-2.5h3v0.5h1v-1.5h-4.9999z"/>
 </svg>

@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#4e91d9"/>
-    <path id="path4691" fill="#ffeb5d" d="m12.5 11 0.33378 0.86722 0.8691-0.27303-0.4529 0.80835 0.74999 0.52676l-0.899 0.141 0.067 0.93-0.668-0.633-0.668 0.633 0.067-0.93-0.899-0.141 0.74999-0.52676-0.4529-0.80835 0.8691 0.27303z"/>
-    <rect id="rect4442" transform="scale(-1)" height="1" width="4" y="-15" x="-16" fill="#ad3131"/>
-    <rect id="rect4444" transform="scale(-1)" height="1" width="4" y="-15" x="-12" fill="#742424"/>
-    <rect id="rect4446" transform="scale(-1)" height="1" width="4" y="-15" x="-8" fill="#ad3131"/>
-    <rect id="rect4448" transform="scale(-1)" height="1" width="4" y="-15" x="-4" fill="#742424"/>
-    <path id="rect4452" fill="#ad3131" d="m14 15v1h1.199c0.443 0 0.801-0.358 0.801-0.801v-0.199h-2z"/>
-    <rect id="rect4454" transform="scale(-1)" height="1" width="4" y="-16" x="-14" fill="#742424"/>
-    <rect id="rect4456" transform="scale(-1)" height="1" width="4" y="-16" x="-10" fill="#ad3131"/>
-    <rect id="rect4458" transform="scale(-1)" height="1" width="4" y="-16" x="-6" fill="#742424"/>
-    <path id="path4460" fill="#ad3131" d="m0 15v0.199c0 0.443 0.35758 0.801 0.80078 0.801h1.1992v-1h-2z"/>
-    <path id="rect4845" fill="#742424" d="m6 2h2v1h-2z"/>
-    <path id="rect4847" fill="#ad3131" d="m8 2h4v1h-4z"/>
-    <path id="rect4849" fill="#742424" d="m12 2h4v1h-4z"/>
-    <path id="rect4857" fill="#ad3131" d="m6 1h4v1h-4z"/>
-    <path id="rect4859" fill="#742424" d="m10 1h4v1h-4z"/>
-    <path id="rect4861" fill="#ad3131" d="m14 1h2v1h-2z"/>
-    <g id="g4394" fill="#fff" transform="translate(-5,9)">
-        <rect id="rect4685" y="1" width="4" height="1" x="6"/>
-        <rect id="rect4913" y="-8" width="1" height="12" x="6"/>
-        <rect id="rect4915" y="-8" width="1" height="12" x="9"/>
-        <rect id="rect4917" y="-3" width="4" height="1" x="6"/>
-        <rect id="rect4919" y="-7" width="4" height="1" x="6"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#4e91d9"/>
+ <path fill="#ffeb5d" d="m12.5 11 0.33378 0.86722 0.8691-0.27303-0.4529 0.80835 0.74999 0.52676l-0.899 0.141 0.067 0.93-0.668-0.633-0.668 0.633 0.067-0.93-0.899-0.141 0.74999-0.52676-0.4529-0.80835 0.8691 0.27303z"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-15" x="-16" fill="#ad3131"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-15" x="-12" fill="#742424"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-15" x="-8" fill="#ad3131"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-15" x="-4" fill="#742424"/>
+ <path fill="#ad3131" d="m14 15v1h1.199c0.443 0 0.801-0.358 0.801-0.801v-0.199h-2z"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-16" x="-14" fill="#742424"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-16" x="-10" fill="#ad3131"/>
+ <rect transform="scale(-1)" height="1" width="4" y="-16" x="-6" fill="#742424"/>
+ <path fill="#ad3131" d="m0 15v0.199c0 0.443 0.35758 0.801 0.80078 0.801h1.1992v-1h-2z"/>
+ <path fill="#742424" d="m6 2h2v1h-2z"/>
+ <path fill="#ad3131" d="m8 2h4v1h-4z"/>
+ <path fill="#742424" d="m12 2h4v1h-4z"/>
+ <path fill="#ad3131" d="m6 1h4v1h-4z"/>
+ <path fill="#742424" d="m10 1h4v1h-4z"/>
+ <path fill="#ad3131" d="m14 1h2v1h-2z"/>
+ <g fill="#fff" transform="translate(-5,9)">
+  <rect y="1" width="4" height="1" x="6"/>
+  <rect y="-8" width="1" height="12" x="6"/>
+  <rect y="-8" width="1" height="12" x="9"/>
+  <rect y="-3" width="4" height="1" x="6"/>
+  <rect y="-7" width="4" height="1" x="6"/>
+ </g>
 </svg>

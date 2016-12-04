@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg6530" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 24 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata6535">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-368 -524.36)">
-  <path id="path16126" style="color:#bebebe" d="m375 529.36s-2 0-2 2.0625v9.9375c0 2 2 2 2 2h10c2 0 2-2 2-2v-10s0.00001-2-2-2zm1.0002 2h2v8h4v-8h2v8s0 2-2 2h-4s-2 0-2-2z" fill="#d3dae3"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" viewBox="0 0 24 24">
+ <g transform="translate(-368 -524.36)">
+  <path style="color:#bebebe" d="m375 529.36s-2 0-2 2.0625v9.9375c0 2 2 2 2 2h10c2 0 2-2 2-2v-10s0.00001-2-2-2zm1.0002 2h2v8h4v-8h2v8s0 2-2 2h-4s-2 0-2-2z" fill="#d3dae3"/>
  </g>
 </svg>

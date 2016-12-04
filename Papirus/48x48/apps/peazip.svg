@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#7de63e"/>
-    <path id="path4465" opacity=".2" d="m13.823 13.814a33.581 33.612 0 0 0 -9.3015 29.656 33.581 33.612 0 0 0 29.656 -9.284 33.581 33.612 0 0 0 9.3 -29.656 33.581 33.612 0 0 0 -29.655 9.284z"/>
-    <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
-    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
-    <circle id="path4484" opacity=".3" cy="24" cx="24" r="9"/>
-    <circle id="circle4522" opacity=".2" cy="25" cx="24" r="5"/>
-    <circle id="circle4486" cy="24" cx="24" r="5" fill="#ffc20c"/>
-    <circle id="circle4494" opacity=".3" cy="12" cx="36" r="5"/>
-    <circle id="circle4524" opacity=".2" cy="13" cx="36" r="3"/>
-    <circle id="circle4496" cy="12" cx="36" r="3" fill="#ffc20c"/>
-    <circle id="circle4512" opacity=".3" cy="36" cx="12" r="5"/>
-    <circle id="circle4526" opacity=".2" cy="37" cx="12" r="3"/>
-    <circle id="circle4514" cy="36" cx="12" r="3" fill="#ffc20c"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#7de63e"/>
+ <path opacity=".2" d="m13.823 13.814a33.581 33.612 0 0 0 -9.3015 29.656 33.581 33.612 0 0 0 29.656 -9.284 33.581 33.612 0 0 0 9.3 -29.656 33.581 33.612 0 0 0 -29.655 9.284z"/>
+ <path opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <circle opacity=".3" cy="24" cx="24" r="9"/>
+ <circle opacity=".2" cy="25" cx="24" r="5"/>
+ <circle cy="24" cx="24" r="5" fill="#ffc20c"/>
+ <circle opacity=".3" cy="12" cx="36" r="5"/>
+ <circle opacity=".2" cy="13" cx="36" r="3"/>
+ <circle cy="12" cx="36" r="3" fill="#ffc20c"/>
+ <circle opacity=".3" cy="36" cx="12" r="5"/>
+ <circle opacity=".2" cy="37" cx="12" r="3"/>
+ <circle cy="36" cx="12" r="3" fill="#ffc20c"/>
 </svg>

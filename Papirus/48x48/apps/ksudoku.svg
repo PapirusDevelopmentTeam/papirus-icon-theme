@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203" ry="20" rx="20" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#ccc"/>
-    <rect id="rect3874" style="color:#000000;enable-background:new" ry="0" height="16" width="16" y="16" x="16" fill="#a26b4e"/>
-    <path id="path3833" opacity=".2" style="color:#000000;block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0" d="m17 5.2754c-0.336 0.125-0.673 0.2445-1 0.3867v10.338h-10.338c-0.1421 0.327-0.2616 0.664-0.3866 1h10.725v14h-10.725c0.12498 0.33587 0.24454 0.67305 0.38672 1h10.338v10.338c0.32695 0.14218 0.66413 0.26174 1 0.38672v-10.725h14v10.725c0.33587-0.12498 0.67305-0.24454 1-0.38672v-10.338h10.338c0.14218-0.32695 0.26174-0.66413 0.38672-1h-10.725v-14h10.725c-0.125-0.336-0.245-0.673-0.387-1h-10.338v-10.338c-0.327-0.1421-0.664-0.2616-1-0.3866v10.725h-14v-10.725zm0 11.725h14v14h-14v-14z"/>
-    <path id="rect4903" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.008 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004-0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
-    <path id="rect4849" opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.16787-0.0076-0.33314-0.01172-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
-    <text id="text3880" opacity=".2" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="12px" line-height="125%" y="28.830078" x="20.701172" font-family="'Clear Sans'" fill="#000000">
-        <tspan id="tspan3882" y="28.830078" x="20.701172">3</tspan>
-    </text>
-    <text id="text3876" font-size="12px" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" line-height="125%" y="27.829681" x="20.701172" font-family="'Clear Sans'" fill="#ffffff">
-        <tspan id="tspan3878" y="27.829681" x="20.701172">3</tspan>
-    </text>
-    <text id="text3888" font-size="12px" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" line-height="125%" y="27.754318" x="5.8416138" font-family="'Clear Sans'" fill="#555555">
-        <tspan id="tspan3890" y="27.754318" x="5.8416138">9</tspan>
-    </text>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect ry="20" rx="20" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#ccc"/>
+ <rect style="color:#000000;enable-background:new" ry="0" height="16" width="16" y="16" x="16" fill="#a26b4e"/>
+ <path opacity=".2" style="color:#000000;block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0" d="m17 5.2754c-0.336 0.125-0.673 0.2445-1 0.3867v10.338h-10.338c-0.1421 0.327-0.2616 0.664-0.3866 1h10.725v14h-10.725c0.12498 0.33587 0.24454 0.67305 0.38672 1h10.338v10.338c0.32695 0.14218 0.66413 0.26174 1 0.38672v-10.725h14v10.725c0.33587-0.12498 0.67305-0.24454 1-0.38672v-10.338h10.338c0.14218-0.32695 0.26174-0.66413 0.38672-1h-10.725v-14h10.725c-0.125-0.336-0.245-0.673-0.387-1h-10.338v-10.338c-0.327-0.1421-0.664-0.2616-1-0.3866v10.725h-14v-10.725zm0 11.725h14v14h-14v-14z"/>
+ <path opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.008 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004-0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z" fill="#fff"/>
+ <path opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.16787-0.0076-0.33314-0.01172-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
+ <text opacity=".2" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="12" y="28.83" x="20.7" font-family="'Clear Sans'" fill="#000000">
+  <tspan y="28.83" x="20.7">3</tspan>
+ </text>
+ <text font-size="12" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" y="27.83" x="20.7" font-family="'Clear Sans'" fill="#ffffff">
+  <tspan y="27.83" x="20.7">3</tspan>
+ </text>
+ <text font-size="12" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" y="27.75" x="5.84" font-family="'Clear Sans'" fill="#555555">
+  <tspan y="27.75" x="5.84">9</tspan>
+ </text>
 </svg>

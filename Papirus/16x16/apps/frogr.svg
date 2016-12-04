@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg4180" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata4185">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="layer1" transform="translate(0 -1036.4)">
-        <g id="g5545">
-            <path id="rect4728" d="m7.2 1037.4h1.6c1.773 0 3.2 1.3 3.2 2.9v8.1052c0 1.6329-1.4272 2.9474-3.2 2.9474h-1.6c-1.7728 0.1-3.2-1.3-3.2-2.9v-8.1052c0-1.6329 1.4272-2.9474 3.2-2.9474z" fill="#91dd48"/>
-            <g id="g5368" stroke-linejoin="round" transform="matrix(.53245 0 0 .53494 -.52107 490.47)" stroke="#91dd48" stroke-linecap="round" stroke-width="1.8737" fill="none">
-                <path id="path4906" d="m5.6739 1023.3v7.4775h7.5125"/>
-                <path id="path4908" d="m1.9177 1027h2.8172"/>
-            </g>
-            <g id="g5541" stroke-linejoin="round" stroke="#91dd48" stroke-linecap="round" fill="none">
-                <path id="path5380" d="m2.5 1051.9v-4h4"/>
-                <path id="path5382" d="m0.5 1049.9h1.5"/>
-            </g>
-        </g>
-        <g id="g5531">
-            <circle id="path4770" cy="1038.9" cx="5.5" r="1.5" fill="#9a48dd"/>
-            <circle id="circle4774" cy="1038.9" cx="5.5" fill="#fff"/>
-        </g>
-        <g id="g5535" transform="translate(5)">
-            <circle id="circle5537" cy="1038.9" cx="5.5" r="1.5" fill="#9a48dd"/>
-            <circle id="circle5539" cy="1038.9" cx="5.5" fill="#fff"/>
-        </g>
-        <g id="g5558" stroke-linejoin="round" transform="matrix(-.53245 0 0 .53494 16.521 490.47)" stroke="#91dd48" stroke-linecap="round" stroke-width="1.8737" fill="none">
-            <path id="path5560" d="m5.6739 1023.3v7.4775h7.5125"/>
-            <path id="path5562" d="m1.9177 1027h2.8172"/>
-        </g>
-        <g id="g5564" stroke-linejoin="round" transform="matrix(-1,0,0,1,16,0)" stroke="#91dd48" stroke-linecap="round" fill="none">
-            <path id="path5566" d="m2.5 1051.9v-4h4"/>
-            <path id="path5568" d="m0.5 1049.9h1.5"/>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1">
+ <g transform="translate(0 -1036.4)">
+  <g>
+   <path d="m7.2 1037.4h1.6c1.773 0 3.2 1.3 3.2 2.9v8.1052c0 1.6329-1.4272 2.9474-3.2 2.9474h-1.6c-1.7728 0.1-3.2-1.3-3.2-2.9v-8.1052c0-1.6329 1.4272-2.9474 3.2-2.9474z" fill="#91dd48"/>
+   <g stroke-linejoin="round" transform="matrix(.53245 0 0 .53494 -.52107 490.47)" stroke="#91dd48" stroke-linecap="round" stroke-width="1.874" fill="none">
+    <path d="m5.6739 1023.3v7.4775h7.5125"/>
+    <path d="m1.9177 1027h2.8172"/>
+   </g>
+   <g stroke-linejoin="round" stroke="#91dd48" stroke-linecap="round" fill="none">
+    <path d="m2.5 1051.9v-4h4"/>
+    <path d="m0.5 1049.9h1.5"/>
+   </g>
+  </g>
+  <g>
+   <circle cy="1038.9" cx="5.5" r="1.5" fill="#9a48dd"/>
+   <circle cy="1038.9" cx="5.5" fill="#fff"/>
+  </g>
+  <g transform="translate(5)">
+   <circle cy="1038.9" cx="5.5" r="1.5" fill="#9a48dd"/>
+   <circle cy="1038.9" cx="5.5" fill="#fff"/>
+  </g>
+  <g stroke-linejoin="round" transform="matrix(-.53245 0 0 .53494 16.521 490.47)" stroke="#91dd48" stroke-linecap="round" stroke-width="1.874" fill="none">
+   <path d="m5.6739 1023.3v7.4775h7.5125"/>
+   <path d="m1.9177 1027h2.8172"/>
+  </g>
+  <g stroke-linejoin="round" transform="matrix(-1,0,0,1,16,0)" stroke="#91dd48" stroke-linecap="round" fill="none">
+   <path d="m2.5 1051.9v-4h4"/>
+   <path d="m0.5 1049.9h1.5"/>
+  </g>
+ </g>
 </svg>

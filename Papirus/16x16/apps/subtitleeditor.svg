@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4838" transform="translate(-15,-15)">
-        <circle id="circle4426" style="enable-background:new" fill-rule="evenodd" cx="23" cy="23" r="8" fill="#772bbe"/>
-        <path id="path3903" style="enable-background:new" fill="#fff" d="m19 25.218v1.782h1.7819l4.5004-4.5004-1.7819-1.7819zm7.8586-4.2891c0.18848-0.18847 0.18848-0.48545 0-0.67393l-1.1137-1.1137c-0.18848-0.18848-0.48546-0.18848-0.67393 0l-0.931 0.937 1.782 1.782z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <g transform="translate(-15,-15)">
+  <circle style="enable-background:new" fill-rule="evenodd" cx="23" cy="23" r="8" fill="#772bbe"/>
+  <path style="enable-background:new" fill="#fff" d="m19 25.218v1.782h1.7819l4.5004-4.5004-1.7819-1.7819zm7.8586-4.2891c0.18848-0.18847 0.18848-0.48545 0-0.67393l-1.1137-1.1137c-0.18848-0.18848-0.48546-0.18848-0.67393 0l-0.931 0.937 1.782 1.782z"/>
+ </g>
 </svg>

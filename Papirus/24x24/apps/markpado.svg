@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4358" transform="translate(1,1)">
-        <path id="rect4203" fill="#ba9766" d="m19 20v-18c0-0.554-0.446-1-1-1h-14c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1z"/>
-        <path id="rect4199" opacity=".2" fill="#fff" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
-        <path id="path4447" opacity=".2" d="m3 20v0.5c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1z"/>
-        <g id="g4363" opacity=".5" transform="matrix(.5 0 0 .5 -1 -4)">
-            <path id="rect4440" opacity="1" d="m28 22v3l4.5 4-4.5 4v3l7.9999-6.8672z"/>
-            <path id="path4456" opacity="1" d="m20 24v3l-4.5 4 4.5 4v3l-7.9999-6.8672z"/>
-            <rect id="rect4458" opacity="1" transform="rotate(15)" height="16" width="2" y="14.77" x="29.986"/>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <path fill="#ba9766" d="m19 20v-18c0-0.554-0.446-1-1-1h-14c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1z"/>
+  <path opacity=".2" fill="#fff" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+  <path opacity=".2" d="m3 20v0.5c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1z"/>
+  <g opacity=".5" transform="matrix(.5 0 0 .5 -1 -4)">
+   <path opacity="1" d="m28 22v3l4.5 4-4.5 4v3l7.9999-6.8672z"/>
+   <path opacity="1" d="m20 24v3l-4.5 4 4.5 4v3l-7.9999-6.8672z"/>
+   <rect opacity="1" transform="rotate(15)" height="16" width="2" y="14.77" x="29.99"/>
+  </g>
+ </g>
 </svg>

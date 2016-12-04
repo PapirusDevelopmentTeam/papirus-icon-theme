@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <circle id="path4352" cy="24" cx="24" r="20" fill="#36bb94"/>
-    <g id="g4798" opacity=".2" transform="translate(-5,1)" fill-rule="evenodd">
-        <path id="path4800" d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
-        <path id="path4802" d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
-    </g>
-    <g id="g4352" fill-rule="evenodd" transform="translate(-5)" fill="#fff">
-        <path id="path4356" d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
-        <path id="path4350" d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
-    </g>
-    <path id="circle4354" opacity=".2" fill="#fff" d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 0.0215 0.582 20 20 0 0 1 19.978 -19.582 20 20 0 0 1 19.979 19.418 20 20 0 0 0 0.021 -0.418 20 20 0 0 0 -20 -20z"/>
-    <path id="circle4359" opacity=".2" d="m43.979 24.418a20 20 0 0 1 -19.979 19.582 20 20 0 0 1 -19.978 -19.418 20 20 0 0 0 -0.022 0.418 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -0.021 -0.582z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <circle cy="24" cx="24" r="20" fill="#36bb94"/>
+ <g opacity=".2" transform="translate(-5,1)" fill-rule="evenodd">
+  <path d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
+  <path d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
+ </g>
+ <g fill-rule="evenodd" transform="translate(-5)" fill="#fff">
+  <path d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
+  <path d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
+ </g>
+ <path opacity=".2" fill="#fff" d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 0.0215 0.582 20 20 0 0 1 19.978 -19.582 20 20 0 0 1 19.979 19.418 20 20 0 0 0 0.021 -0.418 20 20 0 0 0 -20 -20z"/>
+ <path opacity=".2" d="m43.979 24.418a20 20 0 0 1 -19.979 19.582 20 20 0 0 1 -19.978 -19.418 20 20 0 0 0 -0.022 0.418 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -0.021 -0.582z"/>
 </svg>

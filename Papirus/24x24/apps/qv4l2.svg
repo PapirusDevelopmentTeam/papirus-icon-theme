@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4599" transform="translate(1,1)">
-        <rect id="rect4597" opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21.5"/>
-        <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#c4c4c4"/>
-        <circle id="circle4723" opacity=".5" cy="11.5" cx="11" r="5.5"/>
-        <circle id="path4369" cy="11" cx="11" r="6" fill="#3f3f3f"/>
-        <circle id="circle4590" opacity=".2" transform="scale(1,-1)" cy="-11.5" cx="11" r="5"/>
-        <circle id="circle4385" transform="scale(1,-1)" cy="-11" cx="11" r="5" fill="#ba174e"/>
-        <circle id="path4058-1" style="enable-background:new" cx="17" cy="17" r="5" fill="#55cc98"/>
-        <path id="path5125" style="enable-background:new" fill="#fff" d="m16.244 14-0.06673 0.7902a2.3784 2.3572 0 0 0 -0.6951 0.39844l-0.72465-0.33818-0.75675 1.2991 0.65795 0.45285a2.3784 2.3572 0 0 0 -0.03632 0.3976 2.3784 2.3572 0 0 0 0.03461 0.39928l-0.65625 0.45117 0.75675 1.2991 0.72295-0.33733a2.3784 2.3572 0 0 0 0.6968 0.39592l0.06672 0.79185h1.5135l0.06672-0.7902a2.3784 2.3572 0 0 0 0.6951 -0.39844l0.72465 0.33817 0.75675-1.2991-0.65795-0.45285a2.3784 2.3572 0 0 0 0.03632 -0.3976 2.3784 2.3572 0 0 0 -0.03461 -0.39928l0.65625-0.45118-0.75675-1.2991-0.723 0.33734a2.3784 2.3572 0 0 0 -0.6968 -0.39592l-0.06672-0.79185h-1.5135zm0.75675 2.1428a0.86485 0.85715 0 0 1 0.864 0.857 0.86485 0.85715 0 0 1 -0.865 0.857 0.86485 0.85715 0 0 1 -0.864 -0.857 0.86485 0.85715 0 0 1 0.864 -0.857z"/>
-        <circle id="circle4588" opacity=".2" cy="11.5" cx="11" r="3"/>
-        <circle id="path4586" cy="11" cx="11" r="3" fill="#d67495"/>
-        <path id="rect4592" opacity=".2" d="m11 1c-5.54 0-10 4.46-10 10 0 0.084 0.0097 0.166 0.0117 0.25 0.1331-5.4224 4.5327-9.75 9.9883-9.75s9.8552 4.3276 9.9883 9.75c0.002-0.084 0.012-0.166 0.012-0.25 0-5.54-4.46-10-10-10z" fill="#fff"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <g transform="translate(1,1)">
+  <rect opacity=".2" transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21.5"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" rx="10" ry="10" height="20" width="20" y="-21" x="-21" fill="#c4c4c4"/>
+  <circle opacity=".5" cy="11.5" cx="11" r="5.5"/>
+  <circle cy="11" cx="11" r="6" fill="#3f3f3f"/>
+  <circle opacity=".2" transform="scale(1,-1)" cy="-11.5" cx="11" r="5"/>
+  <circle transform="scale(1,-1)" cy="-11" cx="11" r="5" fill="#ba174e"/>
+  <circle style="enable-background:new" cx="17" cy="17" r="5" fill="#55cc98"/>
+  <path style="enable-background:new" fill="#fff" d="m16.244 14-0.06673 0.7902a2.3784 2.3572 0 0 0 -0.6951 0.39844l-0.72465-0.33818-0.75675 1.2991 0.65795 0.45285a2.3784 2.3572 0 0 0 -0.03632 0.3976 2.3784 2.3572 0 0 0 0.03461 0.39928l-0.65625 0.45117 0.75675 1.2991 0.72295-0.33733a2.3784 2.3572 0 0 0 0.6968 0.39592l0.06672 0.79185h1.5135l0.06672-0.7902a2.3784 2.3572 0 0 0 0.6951 -0.39844l0.72465 0.33817 0.75675-1.2991-0.65795-0.45285a2.3784 2.3572 0 0 0 0.03632 -0.3976 2.3784 2.3572 0 0 0 -0.03461 -0.39928l0.65625-0.45118-0.75675-1.2991-0.723 0.33734a2.3784 2.3572 0 0 0 -0.6968 -0.39592l-0.06672-0.79185h-1.5135zm0.75675 2.1428a0.86485 0.85715 0 0 1 0.864 0.857 0.86485 0.85715 0 0 1 -0.865 0.857 0.86485 0.85715 0 0 1 -0.864 -0.857 0.86485 0.85715 0 0 1 0.864 -0.857z"/>
+  <circle opacity=".2" cy="11.5" cx="11" r="3"/>
+  <circle cy="11" cx="11" r="3" fill="#d67495"/>
+  <path opacity=".2" d="m11 1c-5.54 0-10 4.46-10 10 0 0.084 0.0097 0.166 0.0117 0.25 0.1331-5.4224 4.5327-9.75 9.9883-9.75s9.8552 4.3276 9.9883 9.75c0.002-0.084 0.012-0.166 0.012-0.25 0-5.54-4.46-10-10-10z" fill="#fff"/>
+ </g>
 </svg>

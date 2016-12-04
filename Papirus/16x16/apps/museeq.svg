@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g id="g4621" transform="translate(23.474 7.9864)">
-        <circle id="circle4526" cy=".0136" cx="-15.474" r="8" fill="#0277bd"/>
-        <path id="rect4404" d="m-18.474-3.9864v9h1v-3.7754c0.53088 0.47718 1.2267 0.77539 2 0.77539s1.4691-0.29821 2-0.77539v0.77539h1v-6h-1v3c0 1.108-0.892 2-2 2s-2-0.892-2-2v-3z" fill="#fff"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <g transform="translate(23.474 7.9864)">
+  <circle cy=".014" cx="-15.474" r="8" fill="#0277bd"/>
+  <path d="m-18.474-3.9864v9h1v-3.7754c0.53088 0.47718 1.2267 0.77539 2 0.77539s1.4691-0.29821 2-0.77539v0.77539h1v-6h-1v3c0 1.108-0.892 2-2 2s-2-0.892-2-2v-3z" fill="#fff"/>
+ </g>
 </svg>

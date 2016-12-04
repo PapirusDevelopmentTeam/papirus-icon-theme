@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4255" ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#5e5e5e"/>
-    <circle id="circle4407" style="enable-background:new" cx="-8" transform="matrix(0,-1,-1,0,0,0)" cy="-8" r="6" fill="#3f3f3f"/>
-    <circle id="circle4385-5" style="enable-background:new" cx="-8" transform="matrix(0,-1,-1,0,0,0)" cy="-8" r="5" fill="#fec006"/>
-    <circle id="circle4501" style="enable-background:new" cx="-8" transform="matrix(0,-1,-1,0,0,0)" cy="-8" r="2" fill="#3f3f3f"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#5e5e5e"/>
+ <circle style="enable-background:new" cx="-8" transform="matrix(0,-1,-1,0,0,0)" cy="-8" r="6" fill="#3f3f3f"/>
+ <circle style="enable-background:new" cx="-8" transform="matrix(0,-1,-1,0,0,0)" cy="-8" r="5" fill="#fec006"/>
+ <circle style="enable-background:new" cx="-8" transform="matrix(0,-1,-1,0,0,0)" cy="-8" r="2" fill="#3f3f3f"/>
 </svg>

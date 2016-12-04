@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203-1" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#765a4d"/>
-    <rect id="rect4417" height="6" width="4" y="4" x="6" fill="#e15a5a"/>
-    <rect id="rect4419" height="6" width="4" y="4" x="10" fill="#f1a24a"/>
-    <rect id="rect4421" height="6" width="4" y="4" x="14" fill="#50b449"/>
-    <rect id="rect4423" height="6" width="4" y="4" x="18" fill="#498fb4"/>
-    <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
-    <path id="path4597" opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
-    <path id="path4403" fill="#383838" d="m38 7a3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3z"/>
-    <path id="path4411" opacity=".2" d="m24 13a12 12 0 0 1 12 12 12 12 0 0 1 -12 12 12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12z"/>
-    <path id="path4401" fill="#9b9b9b" d="m24 12a12 12 0 0 1 12 12 12 12 0 0 1 -12 12 12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12z"/>
-    <path id="path4413" opacity=".2" d="m24 17a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8z"/>
-    <path id="path4375" fill="#c4c4c4" d="m24 16a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#765a4d"/>
+ <rect height="6" width="4" y="4" x="6" fill="#e15a5a"/>
+ <rect height="6" width="4" y="4" x="10" fill="#f1a24a"/>
+ <rect height="6" width="4" y="4" x="14" fill="#50b449"/>
+ <rect height="6" width="4" y="4" x="18" fill="#498fb4"/>
+ <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <path fill="#383838" d="m38 7a3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3z"/>
+ <path opacity=".2" d="m24 13a12 12 0 0 1 12 12 12 12 0 0 1 -12 12 12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12z"/>
+ <path fill="#9b9b9b" d="m24 12a12 12 0 0 1 12 12 12 12 0 0 1 -12 12 12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12z"/>
+ <path opacity=".2" d="m24 17a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8z"/>
+ <path fill="#c4c4c4" d="m24 16a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8z"/>
 </svg>

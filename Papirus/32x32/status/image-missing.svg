@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <defs id="defs221">
-        <clipPath id="clipPath4483" clipPathUnits="userSpaceOnUse">
-            <path id="path4485" fill="#fecd38" d="m91.5 254c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-16.5c0-0.831-0.669-1.5-1.5-1.5z"/>
-        </clipPath>
-    </defs>
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path id="rect4255" d="m3.4999 4c-0.831 0-1.5 0.669-1.5 1.5v21c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-12.5c0-0.831-0.669-1.5-1.5-1.5z" fill="#ccc"/>
-    <path id="path4021" opacity=".1" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m11 13.125 6.625 7.5 4.25-4.125 4.125 4.125-3 3.375h-17v-5z"/>
-    <path id="path4365" opacity=".2" style="enable-background:new" d="m118 272h-8.5c-0.82843 0-1.5 0.67158-1.5 1.5v8.5z" clip-path="url(#clipPath4483)" transform="translate(-88 -254)"/>
-    <path id="path4172" d="m30 18h-8.5c-0.82843 0-1.5 0.67158-1.5 1.5v8.5z" style="enable-background:new" fill="#ebebeb"/>
-    <path id="path4328" opacity=".1" d="m21.5 18c-0.82843 0-1.5 0.67158-1.5 1.5v1c0-0.82842 0.67157-1.5 1.5-1.5h7.5l1-1h-8.5z" style="enable-background:new" fill="#fff"/>
-    <path id="path4517" opacity=".2" d="m30 18-10 10h-16.5c-0.831 0-1.5-0.669-1.5-1.5v1c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-1z"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <defs>
+  <clipPath id="clipPath4483" clipPathUnits="userSpaceOnUse">
+   <path fill="#fecd38" d="m91.5 254c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-16.5c0-0.831-0.669-1.5-1.5-1.5z"/>
+  </clipPath>
+ </defs>
+ <path d="m3.4999 4c-0.831 0-1.5 0.669-1.5 1.5v21c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-12.5c0-0.831-0.669-1.5-1.5-1.5z" fill="#ccc"/>
+ <path opacity=".1" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m11 13.125 6.625 7.5 4.25-4.125 4.125 4.125-3 3.375h-17v-5z"/>
+ <path opacity=".2" style="enable-background:new" d="m118 272h-8.5c-0.82843 0-1.5 0.67158-1.5 1.5v8.5z" clip-path="url(#clipPath4483)" transform="translate(-88 -254)"/>
+ <path d="m30 18h-8.5c-0.82843 0-1.5 0.67158-1.5 1.5v8.5z" style="enable-background:new" fill="#ebebeb"/>
+ <path opacity=".1" d="m21.5 18c-0.82843 0-1.5 0.67158-1.5 1.5v1c0-0.82842 0.67157-1.5 1.5-1.5h7.5l1-1h-8.5z" style="enable-background:new" fill="#fff"/>
+ <path opacity=".2" d="m30 18-10 10h-16.5c-0.831 0-1.5-0.669-1.5-1.5v1c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-1z"/>
 </svg>

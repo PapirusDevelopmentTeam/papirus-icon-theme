@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>
-                    image/svg+xml
-                </dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <rect id="rect4203" ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#86316b"/>
-    <g id="g4758" transform="translate(-1)">
-        <path id="path4580" d="m6 5 4-1 2 2-1 5h-4l-2-2z" stroke="#fff" stroke-width=".5" fill="none"/>
-        <path id="path4582" d="m9 9 1-5" stroke="#fff" stroke-width=".5" fill="none"/>
-        <path id="path4584" d="m9 9-3-4" stroke="#fff" stroke-width=".5" fill="none"/>
-        <path id="path4586" d="m9 9h-4" stroke="#fff" stroke-width=".5" fill="none"/>
-        <path id="path4588" d="m9 9 2 2" stroke="#fff" stroke-width=".5" fill="none"/>
-        <path id="path4590" d="m9 9-2 2" stroke="#fff" stroke-width=".5" fill="none"/>
-        <path id="path4592" d="m9 9 3-3" stroke="#fff" stroke-width=".5" fill="none"/>
-        <circle id="path4566" cy="4" cx="10" r="1" fill="#fff"/>
-        <circle id="circle4568" cy="6" cx="12" r="1" fill="#fff"/>
-        <circle id="circle4570" cy="11" cx="11" r="1" fill="#fff"/>
-        <circle id="circle4572" cy="11" cx="7" r="1" fill="#fff"/>
-        <circle id="circle4574" cy="9" cx="5" r="1" fill="#fff"/>
-        <circle id="circle4576" cy="5" cx="6" r="1" fill="#fff"/>
-        <circle id="circle4578" cy="9" cx="9" r="1" fill="#fff"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry="8" rx="8" transform="matrix(0,-1,-1,0,0,0)" height="16" width="16" y="-16" x="-16" fill="#86316b"/>
+ <g transform="translate(-1)">
+  <path d="m6 5 4-1 2 2-1 5h-4l-2-2z" stroke="#fff" stroke-width=".5" fill="none"/>
+  <path d="m9 9 1-5" stroke="#fff" stroke-width=".5" fill="none"/>
+  <path d="m9 9-3-4" stroke="#fff" stroke-width=".5" fill="none"/>
+  <path d="m9 9h-4" stroke="#fff" stroke-width=".5" fill="none"/>
+  <path d="m9 9 2 2" stroke="#fff" stroke-width=".5" fill="none"/>
+  <path d="m9 9-2 2" stroke="#fff" stroke-width=".5" fill="none"/>
+  <path d="m9 9 3-3" stroke="#fff" stroke-width=".5" fill="none"/>
+  <circle cy="4" cx="10" r="1" fill="#fff"/>
+  <circle cy="6" cx="12" r="1" fill="#fff"/>
+  <circle cy="11" cx="11" r="1" fill="#fff"/>
+  <circle cy="11" cx="7" r="1" fill="#fff"/>
+  <circle cy="9" cx="5" r="1" fill="#fff"/>
+  <circle cy="5" cx="6" r="1" fill="#fff"/>
+  <circle cy="9" cx="9" r="1" fill="#fff"/>
+ </g>
 </svg>
