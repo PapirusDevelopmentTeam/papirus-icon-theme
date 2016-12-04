@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
-  <filter id="filter7554" style="fill-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <g id="layer10" filter="url(#filter7554)" transform="translate(-305 99.003)">
-  <g id="g6058-8" opacity="1" fill="#d3dae3" style="enable-background:new" transform="translate(-316 -624)">
-   <path id="path8431-2" d="m636 528c-1.6568 0-3 1.3432-3 3 0 0.23127 0.0442 0.44001 0.0937 0.65625l-3.2188 2c-0.51341-0.41127-1.1659-0.65625-1.875-0.65625-1.6568 0-3 1.3432-3 3s1.3432 3 3 3c0.70904 0 1.3615-0.24498 1.875-0.65625l3.2188 2c-0.0495 0.21624-0.0937 0.42498-0.0937 0.65625 0 1.6568 1.3432 3 3 3s3-1.3432 3-3-1.3432-3-3-3c-0.70904 0-1.3615 0.24498-1.875 0.65625l-3.2188-2c0.0495-0.21624 0.0937-0.42498 0.0937-0.65625s-0.0442-0.44001-0.0937-0.65625l3.2188-2c0.51341 0.41127 1.1659 0.65625 1.875 0.65625 1.6568 0 3-1.3432 3-3s-1.3432-3-3-3z"/>
-  </g>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 12 0.00390625 C 10.3432 0.00390625 9 1.3471063 9 3.0039062 C 9 3.2351762 9.04425 3.4439163 9.09375 3.6601562 L 5.875 5.6601562 C 5.36159 5.2488863 4.7091 5.0039062 4 5.0039062 C 2.3432 5.0039062 1 6.3471063 1 8.0039062 C 1 9.6607062 2.3432 11.003906 4 11.003906 C 4.70904 11.003906 5.3615 10.758926 5.875 10.347656 L 9.09375 12.347656 C 9.04425 12.563896 9 12.772636 9 13.003906 C 9 14.660706 10.3432 16.003906 12 16.003906 C 13.6568 16.003906 15 14.660706 15 13.003906 C 15 11.347106 13.6568 10.003906 12 10.003906 C 11.29096 10.003906 10.6385 10.248886 10.125 10.660156 L 6.90625 8.6601562 C 6.95575 8.4439163 7 8.2351762 7 8.0039062 C 7 7.7726363 6.95575 7.5638962 6.90625 7.3476562 L 10.125 5.3476562 C 10.63841 5.7589262 11.2909 6.0039062 12 6.0039062 C 13.6568 6.0039062 15 4.6607062 15 3.0039062 C 15 1.3471063 13.6568 0.00390625 12 0.00390625 z"/>
 </svg>

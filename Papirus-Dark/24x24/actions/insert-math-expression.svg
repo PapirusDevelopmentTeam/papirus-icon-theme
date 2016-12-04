@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <g id="layer9" transform="translate(-265 283)">
-  <path id="path4195" opacity="1" fill="#d3dae3" style="enable-background:accumulate;fill-rendering:auto;text-decoration-fill:#d3dae3;fill:#d3dae3;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-fill:#d3dae3;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" d="m277-277.02c-0.91677 0.001-1.8102 0.29301-2.3555 0.96875-0.54527 0.67574-0.69905 1.5035-0.76758 2.4629-0.0338 0.47264-0.0437 0.99446-0.0391 1.5684h-0.83789c-0.554 0-1 0.446-1 1s0.446 1 1 1h0.88867c0.0477 1.3981 0.11128 3.0426 0.11133 5a1.0001 1.0001 0 1 0 2 0c-0.00005-1.9617-0.0563-3.6195-0.10157-5h1.1016c0.554 0 1-0.446 1-1s-0.446-1-1-1h-1.1543c-0.007-0.5528-0.001-1.028 0.0273-1.4258 0.0565-0.79061 0.2171-1.212 0.32813-1.3496s0.21745-0.22395 0.80078-0.22461a1.0001 1.0001 0 1 0 -0.002 -2zm0.70703 8.7578-0.70703 0.70703 1.4141 1.4141-1.4141 1.4141 0.70703 0.70703 1.4141-1.4141 1.4141 1.4141 0.70703-0.70703-1.4141-1.4141 1.4141-1.4141-0.70703-0.70703-1.4141 1.4141-1.4141-1.4141z"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 8 1.9804688 C 7.08323 1.9814687 6.1898312 2.2734787 5.6445312 2.9492188 C 5.0992612 3.6249588 4.9454831 4.4527094 4.8769531 5.4121094 C 4.8431531 5.8847494 4.8332906 6.4065288 4.8378906 6.9804688 L 4 6.9804688 C 3.446 6.9804688 3 7.4264688 3 7.9804688 C 3 8.5344687 3.446 8.9804688 4 8.9804688 L 4.8886719 8.9804688 C 4.9363719 10.378569 4.99995 12.023069 5 13.980469 A 1.0001 1.0001 0 1 0 7 13.980469 C 6.99995 12.018769 6.9437075 10.360969 6.8984375 8.9804688 L 8 8.9804688 C 8.554 8.9804688 9 8.5344687 9 7.9804688 C 9 7.4264688 8.554 6.9804688 8 6.9804688 L 6.8457031 6.9804688 C 6.8387031 6.4276688 6.8447469 5.9524875 6.8730469 5.5546875 C 6.9295469 4.7640775 7.0901419 4.3426781 7.2011719 4.2050781 C 7.3122019 4.0674781 7.4186231 3.9811287 8.0019531 3.9804688 A 1.0001 1.0001 0 1 0 8 1.9804688 z M 8.7070312 10.738281 L 8 11.445312 L 9.4140625 12.859375 L 8 14.273438 L 8.7070312 14.980469 L 10.121094 13.566406 L 11.535156 14.980469 L 12.242188 14.273438 L 10.828125 12.859375 L 12.242188 11.445312 L 11.535156 10.738281 L 10.121094 12.152344 L 8.7070312 10.738281 z"/>
 </svg>

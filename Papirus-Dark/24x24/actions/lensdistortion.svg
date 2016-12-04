@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg4355" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs4357">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
  </defs>
- <metadata id="metadata4360">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-544.57 -740.93)">
-  <path id="path4155" opacity="1" fill="#d3dae3" d="m548.57 744.93v3.8887 1.1211 2.9902 2.9902 1.0098 0.11133 3.8887h16v-3.8926-0.10742-1.0098-2.9902-2.9902-1.1172-3.8926h-16zm1 1h14v2.3867a11 6 0 0 0 -7 -1.3867 11 6 0 0 0 -7 1.3809v-2.3809zm7 2a10 5 0 0 1 7 1.4414v2.1074a8 3 0 0 0 -7 -1.5488 8 3 0 0 0 -7 1.5547v-2.1094a10 5 0 0 1 7 -1.4453zm0 3a7 2 0 0 1 7 2 7 2 0 0 1 -7 2 7 2 0 0 1 -7 -2 7 2 0 0 1 7 -2zm7 3.4453v2.1133a10 5 0 0 1 -7 1.4414 10 5 0 0 1 -7 -1.4453v-2.1035a8 3 0 0 0 7 1.5488 8 3 0 0 0 7 -1.5547zm0 3.168v2.3867h-14v-2.3809a11 6 0 0 0 7 1.3809 11 6 0 0 0 7 -1.3867z"/>
- </g>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 0 0 L 0 3.8886719 L 0 5.0097656 L 0 8 L 0 10.990234 L 0 12 L 0 12.111328 L 0 16 L 16 16 L 16 12.107422 L 16 12 L 16 10.990234 L 16 8 L 16 5.0097656 L 16 3.8925781 L 16 0 L 0 0 z M 1 1 L 15 1 L 15 3.3867188 A 11 6 0 0 0 8 2 A 11 6 0 0 0 1 3.3808594 L 1 1 z M 8 3 A 10 5 0 0 1 15 4.4414062 L 15 6.5488281 A 8 3 0 0 0 8 5 A 8 3 0 0 0 1 6.5546875 L 1 4.4453125 A 10 5 0 0 1 8 3 z M 8 6 A 7 2 0 0 1 15 8 A 7 2 0 0 1 8 10 A 7 2 0 0 1 1 8 A 7 2 0 0 1 8 6 z M 15 9.4453125 L 15 11.558594 A 10 5 0 0 1 8 13 A 10 5 0 0 1 1 11.554688 L 1 9.4511719 A 8 3 0 0 0 8 11 A 8 3 0 0 0 15 9.4453125 z M 15 12.613281 L 15 15 L 1 15 L 1 12.619141 A 11 6 0 0 0 8 14 A 11 6 0 0 0 15 12.613281 z"/>
 </svg>

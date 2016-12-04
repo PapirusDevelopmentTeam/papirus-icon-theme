@@ -1,80 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="24"
-   width="24"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="adjusthsl.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient4177"
-       x1="393"
-       gradientUnits="userSpaceOnUse"
-       y1="-63.996"
-       gradientTransform="translate(4 -4)"
-       x2="393"
-       y2="-77.996">
-      <stop
-         id="stop4173"
-         offset="0"
-         style="stop-color:#d3dae3;stop-opacity:1" />
-      <stop
-         id="stop4175"
-         stop-opacity="0"
-         offset="1"
-         style="stop-color:#d3dae3;stop-opacity:0" />
-    </linearGradient>
-  </defs>
-  <g
-     id="layer12"
-     transform="translate(-385 86.996)">
-    <path
-       id="rect4168"
-       opacity="1"
-       fill="url(#linearGradient4177)"
-       d="m390-81.996h14v14h-14z" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <linearGradient id="linearGradient4177" y2="-77.996" gradientUnits="userSpaceOnUse" y1="-63.996" x2="393" x1="393" gradientTransform="translate(-385,78.996)">
+   <stop offset="0" style="stop-color:#d3dae3;stop-opacity:1"/>
+   <stop stop-opacity="0" offset="1" style="stop-color:#d3dae3;stop-opacity:0"/>
+  </linearGradient>
+ </defs>
+ <path style="fill:url(#linearGradient4177)" transform="translate(4 4)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 z"/>
 </svg>

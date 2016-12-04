@@ -1,60 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg6654"
-   height="24"
-   width="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="draw-connector.svg">
-  <defs
-     id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-4.3220339"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6654" />
-  <metadata
-     id="metadata6659">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>
-                    image/svg+xml
-                </dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="opacity:1;fill-rule:evenodd;fill:#d3dae3;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     d="m 15,4.9 0,0.012 0,1.543 C 14.63666,6.476 14.27652,6.496 13.8848,6.533 12.6059,6.6558 11.2229,6.8619 10,7.2634 l 0,-0.3633 -4,0 0,4 0.12695,0 c -0.56931,1.3541 -0.91993,2.9318 -1.1621,4.3906 -0.035463,0.2136 -0.055591,0.4019 -0.085937,0.6094 l -0.87891,0 0,0.012 0,3.9883 0,0.012 1.5,0 2.5,0 0,-0.012 0,-1.543 c 0.3633,-0.021 0.72353,-0.041 1.1152,-0.078 1.2789,-0.1229 2.6619,-0.329 3.8848,-0.7305 l 0,0.3633 4,0 0,-4 -0.12695,0 c 0.5694,-1.3541 0.91991,-2.9318 1.1621,-4.3906 0.035,-0.2136 0.05594,-0.4019 0.08594,-0.6094 l 0.8789,0 0,-0.012 0,-3.9883 0,-0.012 -1.5,0 -2.5,0 z m 0,2.5547 0,1.4453 0,0.012 2.1113,0 c -0.023,0.1535 -0.0365,0.2905 -0.0625,0.4473 -0.2605,1.5691 -0.69799,3.2566 -1.3047,4.5527 l -2.7441,0 0,2.5508 c -1.1634,0.4239 -2.6276,0.6926 -3.9805,0.8223 -0.3579,0.034 -0.68553,0.052 -1.0195,0.072 l 0,-1.4454 0,-0.012 -2.1113,0 c 0.023155,-0.1535 0.036483,-0.2906 0.0625,-0.4473 0.26049,-1.5691 0.698,-3.2566 1.3047,-4.5527 l 2.7441,0 0,-2.5508 C 11.1634,7.925 12.6276,7.6563 13.9805,7.5266 14.33844,7.4926 14.66598,7.4746 15,7.4546 Z"
-     id="path4137" />
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="m 11,0 0,0.011719 0,1.543 c -0.363,0.021 -0.723,0.0411 -1.1152,0.0781 -1.2789,0.1228 -2.6619,0.329 -3.8848,0.7305 l 0,-0.3633 -4,0 0,4 0.127,0 c -0.5694,1.3541 -0.92,2.9317 -1.1622,4.391 -0.03542,0.213 -0.05555,0.401 -0.08589,0.609 l -0.87891,0 0,0.012 0,3.988 0,0.012 1.5,0 2.5,0 0,-0.012 0,-1.543 c 0.3633,-0.021 0.7235,-0.041 1.1152,-0.078 1.2789,-0.123 2.6619,-0.329 3.8848,-0.731 l 0,0.364 4,0 0,-4.0003 -0.127,0 c 0.569,-1.3541 0.92,-2.9317 1.162,-4.3906 0.035,-0.2136 0.056,-0.4019 0.086,-0.6094 l 0.879,0 0,-0.0117 0,-3.9883 0,-0.0117 -1.5,0 -2.5,0 z M 11,2.5547 11,4 l 0,0.0117 2.111,0 C 13.088,4.1652 13.075,4.3022 13.049,4.459 12.788,6.0281 12.351,7.7156 11.744,9.0117 L 9,9.0117 9,11.562 C 7.8366,11.986 6.3724,12.255 5.0195,12.385 4.6616,12.419 4.334,12.437 4,12.457 L 4,11.012 4,11 1.8887,11 C 1.9118,10.846 1.9252,10.71 1.9512,10.553 2.2117,8.9836 2.6492,7.2961 3.2559,6 L 6,6 6,3.4492 C 7.1634,3.0253 8.6276,2.7567 9.9805,2.627 10.338,2.593 10.666,2.5747 11,2.5547 Z"/>
 </svg>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-467 -141)">
-  <path id="path4142" opacity="1" fill="#d3dae3" d="m473 147c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-12zm10.525 1.9062c0.37993 0.0344 0.6582 0.30859 0.6582 0.30859s0.72083 0.72632 0 1.4141v0.002l-6.3633 6.3652-3.5371-3.5371c-0.37762-0.35895-0.37762-1.0571 0-1.416 0.37762-0.35896 1.0365-0.35899 1.4141 0l2.1211 2.123 4.9492-4.9512c0.26413-0.26413 0.52985-0.32923 0.75781-0.30859z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 2 2.0039062 C 0.892 2.0039062 0 2.8959063 0 4.0039062 L 0 12.003906 C 0 13.111906 0.892 14.003906 2 14.003906 L 14 14.003906 C 15.108 14.003906 16 13.111906 16 12.003906 L 16 4.0039062 C 16 2.8959062 15.108 2.0039062 14 2.0039062 L 2 2.0039062 z M 12.525391 3.9101562 C 12.905391 3.9444562 13.183594 4.21875 13.183594 4.21875 C 13.183594 4.21875 13.903594 4.9451125 13.183594 5.6328125 L 13.183594 5.6347656 L 6.8203125 12 L 3.2832031 8.4628906 C 2.9056031 8.1038906 2.9056031 7.405775 3.2832031 7.046875 C 3.6608031 6.687875 4.3196656 6.687875 4.6972656 7.046875 L 6.8183594 9.1699219 L 11.767578 4.21875 C 12.031578 3.95455 12.297391 3.8894563 12.525391 3.9101562 z"/>
 </svg>

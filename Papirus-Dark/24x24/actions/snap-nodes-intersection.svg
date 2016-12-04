@@ -1,75 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="24"
-   width="24"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="snap-nodes-intersection.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
-     id="namedview15"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-4.3220339"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>
-                    image/svg+xml
-                </dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-                    Paper Symbolic Icon Theme
-                </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">
-        Paper Symbolic Icon Theme
-    </title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-  </defs>
-  <path
-     style="opacity:1;fill:#d3dae3;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     d="m 19.51,3.99 a 0.50005,0.50005 0 0 0 -0.34375,0.15039 l -5.8555,5.8555 -2.291,0 0,1.4062 -5.6367,1.6113 a 0.50005,0.50005 0 1 0 0.27344,0.96093 l 5.1465,-1.4707 -5.6367,5.6367 a 0.50005,0.50005 0 1 0 0.70704,0.70703 l 5.8516,-5.8516 2.2949,0 0,-1.4102 5.6367,-1.6113 A 0.50005,0.50005 0 0 0 19.5159,8.99183 0.50005,0.50005 0 0 0 19.38309,9.01333 l -5.1465,1.4707 5.6367,-5.6367 A 0.50005,0.50005 0 0 0 19.51,3.98991 Z"
-     id="rect4355" />
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 14.990234 0.49414062 A 0.50005 0.50005 0 0 0 14.646484 0.64453125 L 8.7910156 6.5 L 6.5 6.5 L 6.5 7.90625 L 0.86328125 9.5175781 A 0.50005 0.50005 0 1 0 1.1367188 10.478516 L 6.2832031 9.0078125 L 0.64648438 14.644531 A 0.50005 0.50005 0 1 0 1.3535156 15.351562 L 7.2050781 9.5 L 9.5 9.5 L 9.5 8.0898438 L 15.136719 6.4785156 A 0.50005 0.50005 0 0 0 14.996094 5.4960938 A 0.50005 0.50005 0 0 0 14.863281 5.5175781 L 9.7167969 6.9882812 L 15.353516 1.3515625 A 0.50005 0.50005 0 0 0 14.990234 0.49414062 z"/>
 </svg>

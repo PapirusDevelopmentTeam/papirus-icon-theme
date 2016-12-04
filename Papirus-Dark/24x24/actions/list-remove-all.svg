@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created with Inkscape (http://www.inkscape.org/)-->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer12" transform="translate(-305 -.99667)">
-  <g id="g4141" transform="translate(2.0004 3)">
-   <path id="path3482-5-5" class="error" style="fill:#d3dae3;enable-background:accumulate" fill="#5294e2" d="m317.5 9.9967c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5zm0 3h2.5v1h-5v-1z"/>
-   <rect id="rect6620" opacity="1" fill="#d3dae3" style="fill:#d3dae3;enable-background:new" height="2" width="10" y="3.9966" x="308"/>
-   <path id="rect6622" opacity="1" fill="#d3dae3" style="fill:#d3dae3;enable-background:new" d="m308 7.9966v2h6.6875c0.77002-0.61639 1.7494-1 2.8125-1 0.17178 0 0.33323 0.0438 0.5 0.0625v-1.0625h-10z"/>
-   <path id="rect6624" opacity="1" fill="#d3dae3" style="fill:#d3dae3;enable-background:new" d="m308 11.997v2h5.0625c-0.0187-0.16677-0.0625-0.32822-0.0625-0.5 0-0.53043 0.11271-1.0274 0.28125-1.5h-5.2812z"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<defs id="defs10">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(4 4)" d="M 3 3 L 3 5 L 13 5 L 13 3 L 3 3 z M 3 7 L 3 9 L 9.6875 9 C 10.45752 8.38361 11.4369 8 12.5 8 C 12.67178 8 12.83323 8.0438 13 8.0625 L 13 7 L 3 7 z M 3 11 L 3 13 L 8.0625 13 C 8.0438 12.83323 8 12.67178 8 12.5 C 8 11.96957 8.11271 11.4726 8.28125 11 L 3 11 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Highlight" transform="translate(4 4)" d="M 12.5 9 C 10.567 9 9 10.567 9 12.5 C 9 14.433 10.567 16 12.5 16 C 14.433 16 16 14.433 16 12.5 C 16 10.567 14.433 9 12.5 9 z M 10 12 L 12.5 12 L 15 12 L 15 13 L 10 13 L 10 12 z"/>
 </svg>
