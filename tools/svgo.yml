@@ -68,8 +68,8 @@ plugins:
 
   # removes unknown elements content and attributes
   # don't touch attrs with default values
-  - removeUnknownsAndDefaults:
-      defaultAttrs: false
+  # - removeUnknownsAndDefaults:
+  #     defaultAttrs: false
 
   # remove or cleanup enable-background attribute when possible
   - cleanupEnableBackground
