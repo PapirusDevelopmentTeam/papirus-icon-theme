@@ -5,16 +5,16 @@
 # for d in Papirus/16x16/* Papirus/22x22/* Papirus/24x24/* \
 #   Papirus/32x32/* Papirus/48x48/* Papirus/64x64/*
 # do
-#   svgo --config=.svgo.yml -f "$d"
+#   svgo --config=svgo.yml -f "$d"
 # done
 #
 # - or -
 #
-# svgo --config=.svgo.yml -f Papirus/16x16/actions
+# svgo --config=svgo.yml -f Papirus/16x16/actions
 #
 # - or -
 #
-#   svgo --config=.svgo.yml -i FILE
+#   svgo --config=svgo.yml -i FILE
 
 full: true
 multipass: true
