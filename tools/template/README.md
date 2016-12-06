@@ -67,6 +67,7 @@ Papirus Dark classes:
 
 ## Main icons
 Main icons - it's all others icons (apps, devices, places and etc..)
+
 On folder **main** available templates for developers and designers
 
 # If you want modify or create new icon please follow this rules:
@@ -83,23 +84,8 @@ This needed for right work for scripts
 
 - Not save monochrome icons without STYLE, CLASS and FILL on code!
 
-- After all changes run scripts for fix colors, styles and clear svg code  (HERE SCRIPTS)
+- After all changes run scripts for clear svg code  (HERE SCRIPT) #script for svgo
 
 - Before git commit please check your icon - STYLE, CLASS and FILL on your new svg-file.
-
-For example, Papirus 16px actions icon:
-
-```
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-<defs id="defs10">
-  <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
- </defs>
- <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 2,0 2,16 4,16 4,7 7,7 8,9 14,9 14,2 10,2 9,0 4,0 2,0 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 4,0 4,7 7,7 8,9 14,9 14,2 10,2 9,0 4,0 Z"/>
-</svg>
-```
 
 
