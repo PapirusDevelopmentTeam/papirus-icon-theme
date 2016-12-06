@@ -1,14 +1,28 @@
 # NOT USE NOW THIS INSTRUCTION, BECAUSE NOT FINISHED!!!
 # FOR DEVELOPERS and DESIGNERS:
 It's easy :)
+Icons draw for Papiru icon theme only! For papirus Dark use another colors and class on SVG-file.
+If you create monochrome icon, please add version for Papirus Dark too!!!
 
-# Steb by Step
-- open template file
+# Steb by step for monochrome icons
+- open template file on inkscape
 - delete not needed objects
 - draw new objects
-- save file as **ICONNAME_tempp.svg**
-- run scripts for fix colors, styles and clear svg code  (HERE SCRIPTS)
-- for monochrome icons added Papirus Dark version use script (HERE SCRIPT)
+- save file as **ICONNAME_p.svg**
+- run scripts for fix colors, styles and clear svg code  (HERE SCRIPTS) #add classes and fix fill + clear with svgo
+- rename your new files with script (HERE SCRIPT) #rename script
+- copy files to Papirus icon theme folders
+- run script for change color for Papiru Dark (HERE SCRIPT) #script change color HEX and class for panel
+- copy files to Papirus Dark icon theme folders
+- check your work
+- commit to github
+
+# Steb by step for main icons
+- open template file on inkscape
+- delete not needed objects
+- draw new objects
+- save file as **ICONNAME_p.svg**
+- run script for clear svg code  (HERE SCRIPT) #script for svgo
 - check your work
 - commit to github
 
@@ -25,8 +39,34 @@ Now support only icons:
 
 On folder **monochrome** available templates for developers and designers
 
+### Colors and Class
+List for colors and class for monochrome icons
+Papirus CSS:
+```
+ <defs id="papirus">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+```
+Papirus classes:
+- actions, devices, places icons use `class="ColorScheme-Text"` and `class="ColorScheme-Highlight"`
+- panel icons use `class="ColorScheme-ButtonBackground"`
+
+Papirus Dark CSS:
+```
+ <defs id="papirus">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+```
+Papirus Dark classes:
+- actions, devices, places and panel icons use `class="ColorScheme-Text"` and `class="ColorScheme-Highlight"`
+
+
 ## Main icons
-Main icons have all others icons (apps, devices, places and etc..)
+Main icons - it's all others icons (apps, devices, places and etc..)
 On folder **main** available templates for developers and designers
 
 # If you want modify or create new icon please follow this rules:
