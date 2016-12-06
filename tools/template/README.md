@@ -51,7 +51,7 @@ Papirus CSS:
 ```
 Papirus classes:
 - actions, devices, places icons use `class="ColorScheme-Text"` and `class="ColorScheme-Highlight"`
-- panel icons use `class="ColorScheme-ButtonBackground"`
+- panel icons use `class="ColorScheme-ButtonBackground"` and `class="ColorScheme-Highlight"`
 
 Papirus Dark CSS:
 ```
