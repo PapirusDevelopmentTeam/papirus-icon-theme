@@ -1,6 +1,7 @@
 # FOR DEVELOPERS and DESIGNERS:
 
 Papirus now support KDE color scheme for actions, devices, places and panel icons
+
 More info about that [here](https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors)
 
 Now support only icons:
@@ -11,7 +12,7 @@ Now support only icons:
 
 # If you want modify or create new icon please follow the rules:
 
-- For new icon use template (this icons already available on every folder - _papirus_template.svg)
+- For new icon use template (this icons already available on every folder - `_papirus_template.svg`)
 
 - Please check STYLE, CLASS and FILL on your new svg-file. For example:
 
@@ -28,4 +29,4 @@ Now support only icons:
 </svg>
 ```
 
-# After all changes run scripts for fix colors, styles and clear svg code.
+- After all changes run scripts for fix colors, styles and clear svg code.
