@@ -1,7 +1,7 @@
 # NOT USE NOW THIS INSTRUCTION, BECAUSE NOT FINISHED!!!
 # FOR DEVELOPERS and DESIGNERS:
 It's easy :)
-Icons draw for Papiru icon theme only! For papirus Dark use another colors and class on SVG-file.
+Icons draw for Papirus icon theme only! For Papirus Dark use another colors and class on SVG-file.
 If you create monochrome icon, please add version for Papirus Dark too!!!
 
 # Steb by step for monochrome icons
