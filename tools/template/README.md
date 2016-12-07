@@ -4,6 +4,20 @@ It's easy :)
 Icons draw for Papirus icon theme only! For Papirus Dark use another colors and class on SVG-file.
 If you create monochrome icon, please add version for Papirus Dark too!!!
 
+# System Requirements
+- linux
+- bash
+- inkscape
+- npm
+- svgo
+- xmllint
+
+For Debian/Ubuntu/Linux Mint users:
+```
+sudo apt update
+sudo apt install inkscape npm
+sudo npm install -g svgo xmllint
+```
 # Steb by step for monochrome icons
 - open template file on inkscape
 - delete not needed objects
