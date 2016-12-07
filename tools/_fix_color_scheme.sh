@@ -1,8 +1,8 @@
 #!/bin/sh
 #
-# This script deletes a color and replaces fill property from style
-# attribute if a class ColorScheme-* exist, and replaces colors by
-# color scheme
+# This script looks in the SVG files for certain colors and replaces
+# them with the corresponding stylesheet class. And fixes the color
+# scheme after Inkscape.
 #
 # limitations:
 #  - works only with one element per line
