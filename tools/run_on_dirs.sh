@@ -3,6 +3,8 @@
 # usage:
 #  ./run_on_dirs.sh DIR...
 
+SCRIPT_DIR=$(dirname "$0")
+
 for dir in "$@"; do
 	# continue if arg is directory
 	[ -d "$dir" ] || continue
@@ -19,9 +21,9 @@ for dir in "$@"; do
 		echo "=> Workon '$file' ..." >&2
 
 		# optimize
-		svgo --config="svgo.yml" -i "$file"
+		svgo --config="$SCRIPT_DIR/svgo.yml" -i "$file"
 
 		# fix
-		eval "_fix_color_scheme.sh"	"$file"
+		eval "$SCRIPT_DIR/_fix_color_scheme.sh"	"$file"
 	done
 done

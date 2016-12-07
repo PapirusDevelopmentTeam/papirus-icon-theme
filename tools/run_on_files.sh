@@ -3,6 +3,8 @@
 # usage:
 #  ./run_on_files.sh FILE...
 
+SCRIPT_DIR=$(dirname "$0")
+
 for file in "$@"; do
 	# continue if exist
 	[ -e "$file" ] || continue
@@ -16,8 +18,8 @@ for file in "$@"; do
 	echo "=> Workon '$file' ..." >&2
 
 	# optimize
-	svgo --config="svgo.yml" -i "$file"
+	svgo --config="$SCRIPT_DIR/svgo.yml" -i "$file"
 
 	# fix
-	eval "_fix_color_scheme.sh"	"$file"
+	eval "$SCRIPT_DIR/_fix_color_scheme.sh"	"$file"
 done
