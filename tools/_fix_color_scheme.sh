@@ -15,17 +15,17 @@ set -e
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/(fill|color):#5c616c/ s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/(fill|color):#5294e2/ s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
-		-e '/(fill|color):#d3dae3/ s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
+		-e '/([^-]color|fill|stop-color):#5c616c/ s/(style="\S+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color):#5294e2/ s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color):#d3dae3/ s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
 		"$@"
 }
 
 add_class_dark() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/(fill|color):#d3dae3/ s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/(fill|color):#5294e2/ s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color):#d3dae3/ s/(style="\S+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color):#5294e2/ s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -34,8 +34,9 @@ fix_color_and_fill() {
 	#   - remove color
 	#   - replace fill=#HEXHEX to fill=currentColor
 	sed -i -r \
-		-e '/class="ColorScheme-/ s/color:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?//' \
+		-e '/class="ColorScheme-/ s/[^-]color:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?//' \
 		-e '/class="ColorScheme-/ s/fill:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?/fill:currentColor;/' \
+		-e '/class="ColorScheme-/ s/stop-color:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?/stop-color:currentColor;/' \
 		"$@"
 }
 
