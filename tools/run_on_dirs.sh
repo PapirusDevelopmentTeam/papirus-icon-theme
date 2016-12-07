@@ -3,8 +3,6 @@
 # usage:
 #  ./run_on_dirs.sh DIR...
 
-GIT_ROOT=$(git rev-parse --show-toplevel)
-
 for dir in "$@"; do
 	# continue if arg is directory
 	[ -d "$dir" ] || continue
@@ -21,9 +19,9 @@ for dir in "$@"; do
 		echo "=> Workon '$file' ..." >&2
 
 		# optimize
-		svgo --config="$GIT_ROOT/tools/svgo.yml" -i "$file"
+		svgo --config="svgo.yml" -i "$file"
 
 		# fix
-		eval "$GIT_ROOT/tools/_fix_color_scheme.sh"	"$file"
+		eval "_fix_color_scheme.sh"	"$file"
 	done
 done
