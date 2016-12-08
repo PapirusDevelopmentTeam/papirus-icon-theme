@@ -39,10 +39,16 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 # Hardcoded tray icons
 
-Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
+Papirus icon theme now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
 ![hardcode-tray](hardcode-tray-preview.png)
 
+# KDE color scheme
+Now available support monochrome icons for KDE color scheme (with Breeze engine and supported Plasma Themes):
+- Papirus - for dark plasma theme & light window theme
+- Papirus Dark - for dark plasma theme & window theme or white plasma theme & window theme
+
+![kde-color-scheme](kde-color-scheme.png)
 
 # Recommends
 - For GTK better use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
