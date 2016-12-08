@@ -68,7 +68,7 @@ work/Papirus/apps/abricotine48.svg
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
-- save file as **nameSIZE.svg**
+- save file as **nameSIZE.svg** (use lowercase registry for svg)
 - draw icons for other sizes
 - run script for clear icon from **tools**
 
@@ -88,6 +88,8 @@ For example:
 - all is ready! Now you commited changes to GitHub
 
 # Steb by step for Papirus Dark
+**work/Papirus-Dark** have only monochrome icons with another CSS style.
+
 - initially draw icons for **work/Papirus** and run scrip from **tools** run_on_dirs.sh 
 - copy files to **work/Papirus-Dark** directory, use script copy-to-dark.sh
 - go to **work/Papirus-Dark directory** and run script colors-for-dark.sh
