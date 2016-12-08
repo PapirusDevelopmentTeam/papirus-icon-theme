@@ -15,7 +15,7 @@ for dir in "$@"; do
 	sleep 5
 
 	# get all svg files w/o symlinks
-	FILES=$(find "$dir" -type f -iname '*.svg' -print)
+	FILES=$(find "$dir" -type f -name '*.svg' -print)
 
 	for file in $FILES; do
 		echo "=> Workon '$file' ..." >&2
