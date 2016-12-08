@@ -64,7 +64,6 @@ work/Papirus/apps/abricotine48.svg
 **NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. 
 
 # Steb by step for Papirus
-
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
@@ -78,7 +77,7 @@ For example:
 ```
 - fine, your icon fixed and clear
 - now you can check icons
-- if all fine - copy icon to icon theme folder, use script copy-CATEGORY-to-theme.sh:
+- if all fine - copy icon to icon theme folder, use script `copy-to-theme.sh`:
 
 For example:
 ```
@@ -89,12 +88,11 @@ For example:
 
 # Steb by step for Papirus Dark
 **work/Papirus-Dark** have only monochrome icons with another CSS style.
-
-- initially draw icons for **work/Papirus** and run scrip from **tools** run_on_dirs.sh 
-- copy files to **work/Papirus-Dark** directory, use script copy-to-dark.sh
-- go to **work/Papirus-Dark directory** and run script colors-for-dark.sh
+- initially draw icons for **work/Papirus** and run scrip from **tools** `run_on_dirs.sh`
+- copy files to **work/Papirus-Dark** directory, use script `copy-to-work-dark.sh`
+- go to **work/Papirus-Dark directory** and run script `colors-for-dark.sh`
 - now check your work
-- copy files to Papirus-Dark icon theme, use script copy-CATEGORY-to-theme.sh
+- copy files to Papirus-Dark icon theme, use script `copy-to-theme.sh`
 
 
 
