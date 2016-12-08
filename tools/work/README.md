@@ -67,7 +67,7 @@ work/Papirus/apps/abricotine48.svg
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
-- save file as **nameSIZE.svg** (use lowercase registry for svg)
+- save file as **name-size.svg** (use lowercase registry for svg)
 - draw icons for other sizes
 - run script for clear icon from **tools**
 
