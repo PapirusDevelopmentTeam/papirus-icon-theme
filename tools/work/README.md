@@ -59,7 +59,7 @@ Open on Inkscape template file and draw new icon and save on **work** category d
 
 For example:
 ```
-work/Papirus/apps/abricotine48.svg
+work/Papirus/apps/abricotine-48.svg
 ```
 **NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. 
 
