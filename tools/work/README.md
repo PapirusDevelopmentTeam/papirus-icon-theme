@@ -69,7 +69,7 @@ work/Papirus/apps/abricotine48.svg
 - delete not needed objects
 - draw new objects
 - save file as **nameSIZE.svg**
-- draw icon for other size
+- draw icons for other sizes
 - run script for clear icon from **tools**
 
 For example:
@@ -78,11 +78,11 @@ For example:
 ```
 - fine, your icon fixed and clear
 - now you can check icons
-- if all fine - copy icon to icon theme folder, use script copy-CATEGORY.sh:
+- if all fine - copy icon to icon theme folder, use script copy-CATEGORY-to-theme.sh:
 
 For example:
 ```
-./move-app.sh
+./copy-app-to-theme.sh
 ```
 - clear work directory (not delete template files)
 - all is ready! Now you commited changes to GitHub
@@ -92,7 +92,7 @@ For example:
 - copy files to **work/Papirus-Dark** directory, use script copy-to-dark.sh
 - go to **work/Papirus-Dark directory** and run script colors-for-dark.sh
 - now check your work
-- copy files to Papirus-Dark icon theme, use script copy-CATEGORY.sh
+- copy files to Papirus-Dark icon theme, use script copy-CATEGORY-to-theme.sh
 
 
 
