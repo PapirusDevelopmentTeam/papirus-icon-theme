@@ -34,7 +34,7 @@ fix_color_and_fill() {
 	#   - remove color
 	#   - replace fill=#HEXHEX to fill=currentColor
 	sed -i -r \
-		-e '/class="ColorScheme-/ s/[^-]color:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?//' \
+		-e '/class="ColorScheme-/ s/([^-])color:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?/\1/' \
 		-e '/class="ColorScheme-/ s/fill:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?/fill:currentColor;/' \
 		-e '/class="ColorScheme-/ s/stop-color:#([0-9a-zA-Z]{3}|[0-9a-zA-Z]{6});?/stop-color:currentColor;/' \
 		"$@"
