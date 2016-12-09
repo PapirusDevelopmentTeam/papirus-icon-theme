@@ -1,13 +1,20 @@
-#!/bin/bash
-export f=`ls *16.svg | grep -o '^[^16]*'`.svg
+#!/usr/bin/env bash
 
-rename 's/48.svg/.svg/' *48.svg
-cp $f ../../../../Papirus/48x48/apps/
-rename 's/32.svg/.svg/' *32.svg
-cp $f ../../../../Papirus/32x32/apps/
-rename 's/24.svg/.svg/' *24.svg
-cp $f ../../../../Papirus/24x24/apps/
-rename 's/22.svg/.svg/' *22.svg
-cp $f ../../../../Papirus/22x22/apps/
-rename 's/16.svg/.svg/' *16.svg
-cp $f ../../../../Papirus/16x16/apps/
+SCRIPT_DIR=$(dirname "$0")
+TARGET_DIR="$SCRIPT_DIR/../.."
+
+FILES=$(find "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
+	-name '*.svg' -print)
+
+for file in $FILES; do
+	src_dir=$(dirname "$file")
+	base_dir=$(basename "$(dirname "$src_dir")")
+	directory=$(basename "$src_dir")
+
+	basename=$(basename --suffix=".svg" "$file")
+	filename=${basename%%@*}
+	suffix="${basename##*@}"
+
+	cp --no-preserve=mode,ownership -vi "$file" \
+		"$TARGET_DIR/$base_dir/$suffix/$directory/$filename.svg"
+done
