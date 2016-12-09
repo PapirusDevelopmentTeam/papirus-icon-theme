@@ -15,17 +15,17 @@ set -e
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color):#5c616c/ s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color):#5294e2/ s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
-		-e '/([^-]color|fill|stop-color):#d3dae3/ s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
+		-e '/([^-]color|fill|stop-color):#5c616c/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color):#d3dae3/I s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
 		"$@"
 }
 
 add_class_dark() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color):#d3dae3/ s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color):#5294e2/ s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color):#d3dae3/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -44,11 +44,11 @@ for file in "$@"; do
 	[ -f "$file" ] || continue
 
 	# skip if a file not have color scheme
-	grep -q '\.ColorScheme-Text' "$file" || continue
+	grep -q -i '\.ColorScheme-Text' "$file" || continue
 
 	fix_color_and_fill "$file"
 
-	if grep -q '#5c616c' "$file"; then
+	if grep -q -i '#5c616c' "$file"; then
 		# is Papirus
 		add_class "$file"
 		fix_color_and_fill "$file"
