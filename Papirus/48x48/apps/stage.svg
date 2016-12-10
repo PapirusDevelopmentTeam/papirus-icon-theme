@@ -4,8 +4,8 @@
  <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#ccc"/>
  <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <path opacity=".5" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m18 18c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4h-4z" filter="url(#filter14069)" fill="#f00"/>
- <path opacity=".5" filter="url(#filter14069)" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m25 18v2h9v-2z"/>
- <path opacity=".5" filter="url(#filter14069)" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m25 23v2h9v-2z"/>
- <path opacity=".5" filter="url(#filter14069)" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m14 28v2h16v-2z"/>
+ <path opacity=".5" style="enable-background:new;" d="m18 18c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4h-4z" filter="url(#filter14069)" fill="#f00"/>
+ <path opacity=".5" filter="url(#filter14069)" style="color:#000000;enable-background:new;" d="m25 18v2h9v-2z"/>
+ <path opacity=".5" filter="url(#filter14069)" style="color:#000000;enable-background:new;" d="m25 23v2h9v-2z"/>
+ <path opacity=".5" filter="url(#filter14069)" style="color:#000000;enable-background:new;" d="m14 28v2h16v-2z"/>
 </svg>

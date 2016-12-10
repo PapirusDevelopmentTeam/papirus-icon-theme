@@ -2,10 +2,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
  <defs>
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
+   <circle cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
- <circle style="color:#000000" cx="24" cy="24" r="20" fill="#37a0f2"/>
+ <circle cx="24" cy="24" r="20" fill="#37a0f2"/>
  <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(2,0,0,2,-548,-28)" cy="26" cx="286" stroke-width=".455"/>
  <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(2,0,0,2,-548,-28)" cy="26" cx="286" stroke-width=".909"/>
  <path opacity=".2" fill="#fff" d="m24 4c-11.079 0-19.998 8.92-19.998 20 0 0.16772-0.004 0.33329 0 0.5 0.2642-10.846 9.087-19.5 19.998-19.5s19.734 8.6536 19.998 19.5c0.004-0.16671 0-0.33228 0-0.5 0-11.08-8.919-20-19.998-20z"/>

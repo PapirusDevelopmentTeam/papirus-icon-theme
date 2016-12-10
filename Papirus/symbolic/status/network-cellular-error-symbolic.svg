@@ -3,8 +3,8 @@
  <title>
   Paper Symbolic Icon Theme
  </title>
- <g style="display:inline" transform="translate(-305.00352,594.99814)">
-  <path class="error" d="m 317.00344,-588.99505 -1e-5,4 0.25,2 1.5,0 0.25,-2 1e-5,-4 z m 0,7 0,2 2,0 0,-2 z" style="color:#444444;fill:#5294e2;fill-opacity:1;stroke:none"/>
-  <path d="m 320.00411,-593.99414 -3.99414,3.99414 3.99414,0 0,-3.99414 z m -4.00391,4.00391 -9.99609,9.99609 9.99609,0 0,-9.99609 z" style="opacity:0.35;fill:#5c616c;fill-opacity:1;stroke:none"/>
+ <g transform="translate(-305.00352,594.99814)">
+  <path class="error" d="m 317.00344,-588.99505 -1e-5,4 0.25,2 1.5,0 0.25,-2 1e-5,-4 z m 0,7 0,2 2,0 0,-2 z" style="fill:#5294e2;fill-opacity:1;"/>
+  <path d="m 320.00411,-593.99414 -3.99414,3.99414 3.99414,0 0,-3.99414 z m -4.00391,4.00391 -9.99609,9.99609 9.99609,0 0,-9.99609 z" style="opacity:0.35;fill:#5c616c;fill-opacity:1;"/>
  </g>
 </svg>

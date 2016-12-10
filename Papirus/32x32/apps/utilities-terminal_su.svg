@@ -3,7 +3,7 @@
  <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="24" y="-30" x="-28" fill="#f03939"/>
  <g transform="translate(-1,-2)">
   <path opacity=".2" style="color:#bebebe" d="m7 10v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1h-1zm1 2h2v3h-2v-3zm6 4v1h6v-1h-6z"/>
-  <path style="color:#bebebe" d="m7 9v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1h-1zm1 2h2v3h-2v-3zm6 4v1h6v-1h-6z" fill="#fff"/>
+  <path d="m7 9v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1h-1zm1 2h2v3h-2v-3zm6 4v1h6v-1h-6z" fill="#fff"/>
  </g>
  <path opacity=".1" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
  <path opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>

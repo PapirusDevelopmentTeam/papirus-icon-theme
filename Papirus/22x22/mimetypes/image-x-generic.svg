@@ -3,6 +3,6 @@
  <g transform="translate(-1,-1)">
   <path d="m22 20v-16c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1z" fill="#66bfb7"/>
   <path opacity=".1" d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" fill="#fff"/>
-  <path d="m9 10 4 6 3-4 3 4v2h-14v-4z" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" fill="#fff"/>
+  <path d="m9 10 4 6 3-4 3 4v2h-14v-4z" style="enable-background:new;" fill="#fff"/>
  </g>
 </svg>

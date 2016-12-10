@@ -2,12 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
  <defs>
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
+   <circle cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
  <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" stroke-width=".455"/>
  <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.4,0,0,1.4,-384.4,-36.4)" cy="26" cx="286" stroke-width=".909"/>
- <circle style="color:#000000" cx="8" cy="8" r="8" fill="#2f67ba"/>
+ <circle cx="8" cy="8" r="8" fill="#2f67ba"/>
  <path fill="#7fc1de" d="m4.5 6a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 1.5 -0.504v4.504h1v-9h-1v0.50195a2.5 2.5 0 0 0 -1.5 -0.502zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z"/>
  <path fill="#fff" d="m11.5 11a2.5 2.5 0 0 0 2.5 -2.5 2.5 2.5 0 0 0 -2.5 -2.5 2.5 2.5 0 0 0 -1.5 0.5039v-4.5039h-1v9h1v-0.50195a2.5 2.5 0 0 0 1.5 0.502zm0-1a1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5z"/>
 </svg>

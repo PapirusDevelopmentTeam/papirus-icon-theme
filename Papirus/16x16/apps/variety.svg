@@ -3,6 +3,6 @@
  <rect transform="matrix(0,-1,-1,0,0,0)" rx=".75" ry=".833" height="10" width="12" y="-13" x="-15" fill="#7e7e7e"/>
  <rect ry=".8" rx=".75" transform="matrix(0,-1,-1,0,0,0)" height="16" width="12" y="-16" x="-13" fill="#757575"/>
  <rect transform="matrix(0,-1,-1,0,0,0)" rx="0" ry="0" height="14" width="10" y="-15" x="-12" fill="#464646"/>
- <path d="m10 4c-0.5523 0-1 0.4477-1 1s0.4477 1 1 1c0.552 0 1-0.4477 1-1s-0.448-1-1-1z" style="color:#bebebe;enable-background:new" fill="#c0ca33"/>
- <path d="m4.5 7c-1.75 0-3.5 2-3.5 4.531v0.46875h14s-1.1667-4-2.9167-4-1.75 2-2.9167 2c-1.1666 0-2.9166-3-4.6666-3z" style="color:#bebebe;enable-background:new" fill="#c0ca33"/>
+ <path d="m10 4c-0.5523 0-1 0.4477-1 1s0.4477 1 1 1c0.552 0 1-0.4477 1-1s-0.448-1-1-1z" style="enable-background:new" fill="#c0ca33"/>
+ <path d="m4.5 7c-1.75 0-3.5 2-3.5 4.531v0.46875h14s-1.1667-4-2.9167-4-1.75 2-2.9167 2c-1.1666 0-2.9166-3-4.6666-3z" style="enable-background:new" fill="#c0ca33"/>
 </svg>

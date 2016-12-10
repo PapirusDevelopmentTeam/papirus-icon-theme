@@ -4,8 +4,8 @@
   Compiz
  </title>
  <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#319ed6"/>
- <path opacity=".2" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-rule="evenodd" d="m10 11v24l6.5-8.5 7.0938 17.5h7.7559l-12.35-19h11l-20-14z"/>
- <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-rule="evenodd" fill="#fff" d="m10 10v24l6.5-8.5 7.5 18.5h8l-13-20h11z"/>
+ <path opacity=".2" style="color:#000000;" fill-rule="evenodd" d="m10 11v24l6.5-8.5 7.0938 17.5h7.7559l-12.35-19h11l-20-14z"/>
+ <path fill-rule="evenodd" fill="#fff" d="m10 10v24l6.5-8.5 7.5 18.5h8l-13-20h11z"/>
  <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
 </svg>

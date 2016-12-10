@@ -8,7 +8,7 @@
    <feBlend in2="BackgroundImage" mode="darken"/>
   </filter>
  </defs>
- <g style="display:inline;filter:url(#filter7554)" transform="translate(-345.0004,119.00336)">
-  <path d="m 353.0002,-118 c -3.84231,0 -7,3.1577 -7,7 0,3.8423 3.15769,7 7,7 3.8423,0 7,-3.1577 7,-7 0,-3.8423 -3.1577,-7 -7,-7 z m 0,5 c 1.09865,0 2,0.90135 2,2 0,1.09864 -0.90135,2 -2,2 -1.09865,0 -2,-0.90136 -2,-2 0,-1.09865 0.90135,-2 2,-2 z" style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:5.61250019;marker:none;enable-background:accumulate"/>
+ <g style="filter:url(#filter7554)" transform="translate(-345.0004,119.00336)">
+  <path d="m 353.0002,-118 c -3.84231,0 -7,3.1577 -7,7 0,3.8423 3.15769,7 7,7 3.8423,0 7,-3.1577 7,-7 0,-3.8423 -3.1577,-7 -7,-7 z m 0,5 c 1.09865,0 2,0.90135 2,2 0,1.09864 -0.90135,2 -2,2 -1.09865,0 -2,-0.90136 -2,-2 0,-1.09865 0.90135,-2 2,-2 z" style="fill:#d3dae3;fill-opacity:1;"/>
  </g>
 </svg>

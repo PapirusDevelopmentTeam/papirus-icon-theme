@@ -8,7 +8,7 @@
    <feBlend in2="BackgroundImage" mode="darken"/>
   </filter>
  </defs>
- <g style="display:inline;filter:url(#filter7554)" transform="translate(-585.0002,139)">
-  <path d="m 593.03147,-137 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 598.74361,-135.93454 596.04252,-137 593.03147,-137 Z" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5c616c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
+ <g style="filter:url(#filter7554)" transform="translate(-585.0002,139)">
+  <path d="m 593.03147,-137 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 598.74361,-135.93454 596.04252,-137 593.03147,-137 Z" style="fill:#5c616c;fill-opacity:1;"/>
  </g>
 </svg>

@@ -8,7 +8,7 @@
    <feBlend in2="BackgroundImage" mode="darken"/>
   </filter>
  </defs>
- <g style="display:inline;filter:url(#filter7554)" transform="translate(-324.99737,159)">
-  <path d="m 327.0002,-157 c -2,0 -2,2 -2,2 l 0,6 c 0,2 2,2 2,2 l 4,0 8,0 c 0,0 2,0 2,-2 l 0,-6 c 0,0 0,-2 -2,-2 z m 6,8 -4,5 8,0 z m 3,-6 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"/>
+ <g style="filter:url(#filter7554)" transform="translate(-324.99737,159)">
+  <path d="m 327.0002,-157 c -2,0 -2,2 -2,2 l 0,6 c 0,2 2,2 2,2 l 4,0 8,0 c 0,0 2,0 2,-2 l 0,-6 c 0,0 0,-2 -2,-2 z m 6,8 -4,5 8,0 z m 3,-6 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z" style="fill:#d3dae3;fill-opacity:1;"/>
  </g>
 </svg>

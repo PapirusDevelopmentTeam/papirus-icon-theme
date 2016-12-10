@@ -4,11 +4,11 @@
  <rect style="fill:#19416f;fill-opacity:1" x="-44" y="-44" width="40" height="40" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,7 C 4,5.892 4.892,5 6,5 l 36,0 c 1.108,0 2,0.892 2,2 L 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"/>
  <path d="M 6,45 C 4.892,45 4,44.108 4,43 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,45 Z" style="opacity:0.2"/>
- <path d="m 27,10 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -4,7 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 l 2,0 0,12.222656 c 0,0.941478 -0.294217,1.935806 -1.003906,2.671875 A 3,3 0 0 0 21,33 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 c 5,0 8,1.47e-4 8,-5.777344 L 29,17 l -4,0 -2,0 z" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Noto Sans Saurashtra';-inkscape-font-specification:'Noto Sans Saurashtra';letter-spacing:0px;word-spacing:0px;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+ <path d="m 27,10 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -4,7 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 l 2,0 0,12.222656 c 0,0.941478 -0.294217,1.935806 -1.003906,2.671875 A 3,3 0 0 0 21,33 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 c 5,0 8,1.47e-4 8,-5.777344 L 29,17 l -4,0 -2,0 z" style="font-size:35px;line-height:125%;font-family:'Noto Sans Saurashtra';'Noto Sans Saurashtra';letter-spacing:0px;word-spacing:0px;opacity:0.2;fill:#000000;fill-opacity:1;"/>
  <g transform="translate(1,0)">
-  <path d="m 24,16 4,0 0,16.222509 C 28,38 25,38 20,38 l 0,-2 c 3,0 4,-2 4,-3.777491 z" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Noto Sans Saurashtra';-inkscape-font-specification:'Noto Sans Saurashtra';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-  <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="26" cy="12" r="3"/>
-  <circle r="3" cy="35" cx="20" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="6" height="4" x="20" y="16" ry="2" rx="2"/>
+  <path d="m 24,16 4,0 0,16.222509 C 28,38 25,38 20,38 l 0,-2 c 3,0 4,-2 4,-3.777491 z" style="font-size:35px;line-height:125%;font-family:'Noto Sans Saurashtra';'Noto Sans Saurashtra';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;"/>
+  <circle style="opacity:1;fill:#ffffff;fill-opacity:1;" cx="26" cy="12" r="3"/>
+  <circle r="3" cy="35" cx="20" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;" width="6" height="4" x="20" y="16" ry="2" rx="2"/>
  </g>
 </svg>

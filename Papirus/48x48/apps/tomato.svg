@@ -2,10 +2,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
  <defs>
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
+   <circle cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
   </clipPath>
  </defs>
- <circle style="color:#000000" cx="24" cy="24" r="20" fill="#e74c3c"/>
+ <circle cx="24" cy="24" r="20" fill="#e74c3c"/>
  <path opacity=".2" fill-rule="evenodd" d="m19.463 2.0014c-0.13664 0.00578-0.2757 0.02978-0.41335 0.073885-0.73414 0.23525-1.1414 0.94825-0.91317 1.5985l0.57281 1.6321c-8.302 0.8004-12.709 9.5601-12.709 9.5601s2.778 0.52245 9.4785-3.1785c1.8617-1.0283 2.9349-2.1337 3.5475-3.1339-0.127 1.0318-0.108 2.3544 0.187 4.0414 0.743 4.237 3.844 7.405 3.844 7.405s3.7537-6.2332-0.27146-12.343c5.936 4.033 15.214 2.2804 15.214 2.2804s-4.1561-3.9429-8.5685-4.9257c-3.2926-0.73337-6.3237-0.25431-7.8996 0.11792-0.000927-0.12043-0.021-0.24226-0.063-0.36182l-0.682-1.9434c-0.186-0.5284-0.732-0.8479-1.324-0.823z"/>
  <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(2,0,0,2,-548,-28)" cy="26" cx="286" stroke-width=".455"/>
  <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(2,0,0,2,-548,-28)" cy="26" cx="286" stroke-width=".909"/>

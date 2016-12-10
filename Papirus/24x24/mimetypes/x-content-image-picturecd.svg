@@ -10,7 +10,7 @@
   <g transform="translate(.2 2.4)">
    <path d="m43.8 37.6v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#ff766a"/>
    <path opacity=".2" d="m31.8 12.6c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6z" style="color:#000000;enable-background:new" fill-rule="evenodd"/>
-   <path d="m31.8 11.6c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6z" style="color:#000000;enable-background:new" fill="#fffee4" fill-rule="evenodd"/>
+   <path d="m31.8 11.6c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6z" style="enable-background:new" fill="#fffee4" fill-rule="evenodd"/>
    <path opacity=".2" d="m5.8 3.6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
    <path d="m3.8 29.6v8c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-8z" fill="#d22f7a"/>
    <path opacity=".2" d="m3.8 29.756 10 9.8438h28c2 0 2-2 2-2v-7.8438h-40.001z" fill="url(#linearGradient4534)"/>
