@@ -57,7 +57,7 @@ Now available support monochrome icons for KDE color scheme (with Breeze engine 
 # Manual fixes
 For Cinnamon users with Arc Dark better use another color for tray icons:
 ```
-sudo sed -i 's|white|#d3dae3|g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
+sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
 ```
 ![cinnamon-fix](cinnamon-fix.png)
 
