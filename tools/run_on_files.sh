@@ -20,6 +20,9 @@ for file in "$@"; do
 	# optimize
 	svgo --config="$SCRIPT_DIR/svgo.yml" -i "$file"
 
-	# fix
+	# fix color scheme
 	eval "$SCRIPT_DIR/_fix_color_scheme.sh"	"$file"
+
+	# clear a style attribute
+	eval "$SCRIPT_DIR/_clean_style_attr.sh"	"$file"
 done
