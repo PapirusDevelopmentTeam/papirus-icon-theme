@@ -54,6 +54,49 @@ Now available support monochrome icons for KDE color scheme (with Breeze engine 
 - For GTK better use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
 - For KDE better use with [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
 
+# Manual fixes
+For Cinnamon users with Arc Dark better use another color for tray icons:
+```
+sudo sed -i 's|white|#d3dae3|g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
+```
+![cinnamon-fix](cinnamon-fix.png)
+
+Also increase panel size with text option - because on Papirus available for tray apps only 22px & 24px
+
+For Ubuntu users recommend use patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with icon size 33px
+
+**~/.notify-osd** example:
+```
+slot-allocation = dynamic
+bubble-expire-timeout = 10sec
+bubble-vertical-gap = 10px
+bubble-horizontal-gap = 10px
+bubble-corner-radius = 24px
+bubble-icon-size = 33px
+bubble-gauge-size = 6px
+bubble-width = 240px
+bubble-background-color = 2f343f
+bubble-background-opacity = 95%
+text-margin-size = 10px
+text-title-size = 100%
+text-title-weight = bold
+text-title-color = adb7bf
+text-title-opacity = 100%
+text-body-size = 90%
+text-body-weight = normal
+text-body-color = eaeaea
+text-body-opacity = 100%
+text-shadow-opacity = 50%
+location = 1
+bubble-prevent-fade = 1
+bubble-close-on-click = 1
+bubble-as-desktop-bg = 0
+```
+[!notify-fix](notify-fix.png)
+
+Also you can change main launcher logo and unity-tweak-tool icons, see **extra** folder on icon theme.
+
+
 # Icon request
 - Application name
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
