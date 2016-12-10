@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 SCRIPT_DIR=$(dirname "$0")
 _PAPIRUS_DIR="$SCRIPT_DIR/Papirus"
 
@@ -54,18 +56,18 @@ case "$1" in
 		;;
 	*)
 		cat <<-EOF
-		  Usage:
-		    $0 context [icon name]
+		Usage:
+		  $0 context [icon name]
 
-		    context available:
-		      [ac]tions
-		      [ap]ps
-		      [d]evices
-		      [e]mblems
-		      [m]imetypes
-		      [pa]nel
-		      [pl]aces
-		      [s]tatus
+		  context available:
+		    [ac]tions
+		    [ap]ps
+		    [d]evices
+		    [e]mblems
+		    [m]imetypes
+		    [pa]nel
+		    [pl]aces
+		    [s]tatus
 		EOF
 		;;
 esac

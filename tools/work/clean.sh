@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 SCRIPT_DIR=$(dirname "$0")
 _PAPIRUS_DIR="$SCRIPT_DIR/Papirus"
 _PAPIRUS_DARK_DIR="$SCRIPT_DIR/Papirus-Dark"
