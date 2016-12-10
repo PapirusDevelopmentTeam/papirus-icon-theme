@@ -92,7 +92,7 @@ bubble-prevent-fade = 1
 bubble-close-on-click = 1
 bubble-as-desktop-bg = 0
 ```
-[!notify-fix](notify-fix.png)
+![notify-fix](notify-fix.png)
 
 Also you can change main launcher logo and unity-tweak-tool icons, see **extra** folder on icon theme.
 
