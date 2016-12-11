@@ -1,4 +1,4 @@
-# FOR DEVELOPERS and DESIGNERS:
+# FOR DEVELOPERS and DESIGNERS
 It's easy :)
 
 First draw icons for Papirus icon theme only! For Papirus Dark use script for change colors.
@@ -40,7 +40,7 @@ Now support only icons:
 
 For monochrome icons use ONLY template and ONLY color pallete from template, because this icons have CSS style!!!
 
-# System Requirements
+## System Requirements
 - linux
 - bash
 - inkscape
@@ -53,8 +53,8 @@ sudo apt update
 sudo apt install inkscape npm
 sudo npm install -g svgo
 ```
-# How doing this?
-Open directory **work** and choose need category. On this directory alredy available template files for development.
+## How doing this?
+Open directory **work** and choose need category. On this directory already available template files for development.
 
 Open on Inkscape template file and draw new icon and save on **work** category dir.
 
@@ -62,13 +62,13 @@ For example:
 ```
 work/Papirus/apps/abricotine@48x48.svg
 ```
-**NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. Use only lowercase registry for **svg**.
+**NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. Use only lowercase registry for **.svg**.
 
-# Step by step for Papirus
+### Step by step for Papirus
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
-- save file as **name@size.svg** (use lowercase registry for **svg**)
+- save file as `name@size.svg` (use lowercase registry for **.svg**)
 - draw icons for other sizes
 - run script for clean icons `tools/run_on_dirs.sh`
 
@@ -88,11 +88,11 @@ For example:
 ```
 ./clean.sh
 ```
-- all is ready! Now you can commited changes to GitHub
+- all is ready! Now you can commit changes to GitHub
 
-# Step by step for Papirus Dark
-**work/Papirus-Dark** have only monochrome icons with another CSS style.
-- initially draw icons for **work/Papirus** and run scrip from `tools/run_on_dirs.sh`
+### Step by step for Papirus Dark
+**work/Papirus-Dark** have only monochrome icons with another CSS stylesheet.
+- initially draw icons for **work/Papirus** and run script from `tools/run_on_dirs.sh`
 
 For example:
 ```
@@ -121,6 +121,4 @@ For example:
 ```
 ./clean.sh
 ```
-- all is ready! Now you can commited changes to GitHub
-
-
+- all is ready! Now you can commit changes to GitHub
