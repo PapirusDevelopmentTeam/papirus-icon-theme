@@ -102,6 +102,9 @@ Also you can change main launcher logo and unity-tweak-tool icons, see **extra**
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
 - Original icon image
 
+# For newest designers and developers
+Papirus now have manual for easy development new icons. Please see this [info](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/tools/work)
+
 # Donate
 If you like my project , you can donate:
 
