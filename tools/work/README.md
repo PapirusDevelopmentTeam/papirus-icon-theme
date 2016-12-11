@@ -41,8 +41,6 @@ Now support only icons:
 For monochrome icons use ONLY template and ONLY color pallete from template, because this icons have CSS style!!!
 
 ## System Requirements
-- linux
-- bash
 - inkscape
 - npm
 - svgo
