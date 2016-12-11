@@ -19,7 +19,7 @@ Now main icons have sizes 16px, 22px, 24px, 32px and 48px. Also available some 6
 
 > Why needed this more sizes  for SVG?
 
-Because if use single size for all - icons will be blurred.
+Because if use single size for all - icons will be blurred. All objects on Papirus have pixelated alignment.
 
 **It's important!!!**
 
@@ -38,7 +38,7 @@ Now support only icons:
 
 **It's important!!!**
 
-For monochrome icons use ONLY template and ONLY color pallete from template, becuase this icons have CSS style!!!
+For monochrome icons use ONLY template and ONLY color pallete from template, because this icons have CSS style!!!
 
 # System Requirements
 - linux
@@ -64,13 +64,13 @@ work/Papirus/apps/abricotine@48x48.svg
 ```
 **NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. Use only lowercase registry for **svg**.
 
-# Steb by step for Papirus
+# Step by step for Papirus
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
 - save file as **name@size.svg** (use lowercase registry for **svg**)
 - draw icons for other sizes
-- run script for clear icons `tools/work/clean.sh`
+- run script for clean icons `tools/run_on_dirs.sh`
 
 For example:
 ```
@@ -84,13 +84,13 @@ For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clear **work** directory, use script `tools/work/clean.sh`:
+- clean **work** directory, use script `tools/work/clean.sh`:
 ```
 ./clean.sh
 ```
-- all is ready! Now you commited changes to GitHub
+- all is ready! Now you can commited changes to GitHub
 
-# Steb by step for Papirus Dark
+# Step by step for Papirus Dark
 **work/Papirus-Dark** have only monochrome icons with another CSS style.
 - initially draw icons for **work/Papirus** and run scrip from `tools/run_on_dirs.sh`
 For example:
@@ -113,10 +113,10 @@ For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clear **work** directory, use script `tools/work/clean.sh`:
+- clean **work** directory, use script `tools/work/clean.sh`:
 ```
 ./clean.sh
 ```
-- all is ready! Now you commited changes to GitHub
+- all is ready! Now you can commited changes to GitHub
 
 
