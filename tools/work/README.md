@@ -93,22 +93,26 @@ For example:
 # Step by step for Papirus Dark
 **work/Papirus-Dark** have only monochrome icons with another CSS style.
 - initially draw icons for **work/Papirus** and run scrip from `tools/run_on_dirs.sh`
+
 For example:
 ```
 ./run_on_dirs.sh work/Papirus-Dark/actions
 ```
 - copy files to **work/Papirus-Dark** directory, use script `tools/work/copy-to-work-dark.sh`
+
 For example:
 ```
 ./copy-to-work-dark.sh
 ```
 - now need change colors and class for Papirus Dark - run script `tools/work/convert-to-dark.sh`
+
 For example:
 ```
 ./convert-to-dark.sh
 ```
 - now check your work
 - copy all files to main icon theme, use script `tools/work/copy-to-theme.sh`
+
 For example:
 ```
 ./copy-app-to-theme.sh
