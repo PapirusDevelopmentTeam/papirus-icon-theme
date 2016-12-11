@@ -7,7 +7,7 @@ First draw icons for Papirus icon theme only! For Papirus Dark use script for ch
 **NOTE:** If you draw monochrome icon for Papirus, please add version for Papirus Dark too!
 
 ## Basic concepts
-Papirus - it's SVG-based icon theme for Linux. Have mix material and flat style.
+Papirus - it's SVG-based icon theme for Linux with material and flat style.
 
 All elements have clear distinction and outlines. Also main feature  - it's warm colors tone!
 
@@ -59,17 +59,17 @@ Open on Inkscape template file and draw new icon and save on **work** category d
 
 For example:
 ```
-work/Papirus/apps/abricotine-48.svg
+work/Papirus/apps/abricotine@48x48.svg
 ```
-**NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. 
+**NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. Use only lowercase registry for **svg**.
 
 # Steb by step for Papirus
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
-- save file as **name-size.svg** (use lowercase registry for svg)
+- save file as **name-size.svg** (use lowercase registry for **svg**)
 - draw icons for other sizes
-- run script for clear icon from **tools**
+- run script for clear icons `tools/work/clean.sh`
 
 For example:
 ```
@@ -77,22 +77,45 @@ For example:
 ```
 - fine, your icon fixed and clear
 - now you can check icons
-- if all fine - copy icon to icon theme folder, use script `copy-to-theme.sh`:
+- if all fine - copy icon to icon theme folder, use script `tools/work/copy-to-theme.sh`:
 
 For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clear work directory (not delete template files)
+- clear work directory, use script `tools/work/clean.sh`:
+```
+./clean.sh
+```
 - all is ready! Now you commited changes to GitHub
 
 # Steb by step for Papirus Dark
 **work/Papirus-Dark** have only monochrome icons with another CSS style.
-- initially draw icons for **work/Papirus** and run scrip from **tools** `run_on_dirs.sh`
-- copy files to **work/Papirus-Dark** directory, use script `copy-to-work-dark.sh`
-- go to **work/Papirus-Dark directory** and run script `convert-color-scheme-to-dark.sh`
+- initially draw icons for **work/Papirus** and run scrip from `tools/run_on_dirs.sh`
+For example:
+```
+./run_on_dirs.sh work/Papirus-Dark/actions
+```
+- copy files to **work/Papirus-Dark** directory, use script `tools/work/copy-to-work-dark.sh`
+For example:
+```
+./copy-to-work-dark.sh
+```
+- now need change colors and class for Papirus Dark - run script `tools/work/convert-to-dark.sh`
+For example:
+```
+./convert-to-dark.sh
+```
 - now check your work
-- copy files to Papirus-Dark icon theme, use script `copy-to-theme.sh`
-
+- copy all files to main icon theme, use script `tools/work/copy-to-theme.sh`
+For example:
+```
+./copy-app-to-theme.sh
+```
+- clear work directory, use script `tools/work/clean.sh`:
+```
+./clean.sh
+```
+- all is ready! Now you commited changes to GitHub
 
 
