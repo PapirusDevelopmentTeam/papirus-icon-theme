@@ -18,18 +18,20 @@ set -e
 # removes unused properties
 # NOTE: delete a color property if currentColor not exists and fill have a value
 sed -i \
-	-e '/style=/ { /-inkscape-/ s/-inkscape-[0-9a-zA-Z:-]\+;\?//I }' \
-	-e '/style=/ { /fill:none/ s/fill-rule:\(nonzero\|evenodd\|inherit\);\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-width:[0-9a-zA-Z.%]\+;\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-linecap:\(butt\|round\|square\|inherit\);\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-linejoin:\(miter\|round\|bevel\|inherit\);\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-miterlimit:[0-9]\+;\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-dasharray:\(none\|[0-9,]\+\);\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-dashoffset:[0-9a-zA-Z.%]\+;\?//I }' \
-	-e '/style=/ { /stroke:none/ s/stroke-opacity:[0-9.]\+;\?//I }' \
-	-e '/currentColor/! {
-		/fill[:=]"\?none/! {
-			/fill[:=]"\?[^;"]/ s/\([^-]\)color:#[0-9a-zA-Z]\+;\?/\1/I
+	-e '/style=/ { /-inkscape-/ s/-inkscape-[^;"]\+;\?// }' \
+	-e '/style=/ { /fill:none/ s/fill-rule:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-width:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-linecap:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-linejoin:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-miterlimit:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-dasharray:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-dashoffset:[^;"]\+;\?// }' \
+	-e '/style=/ { /stroke:none/ s/stroke-opacity:[^;"]\+;\?// }' \
+	-e '/style=/ {
+		/currentColor/! {
+			/fill[:=]"\?none/! {
+				/fill[:=]"\?[^;"]/ s/\([^-]\)color:#[[:xdigit:]]\+;\?/\1/
+			}
 		}
 	}' \
 	"$@"
