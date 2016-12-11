@@ -13,6 +13,8 @@ All elements have clear distinction and outlines. Also main feature  - it's warm
 
 PLEASE not use very bright and toxic colors for Papirus!!!
 
+Examples available on main icon theme folders. On **work** directory only templates and scripts.
+
 ### Main icons
 Now main icons have sizes 16px, 22px, 24px, 32px and 48px. Also available some 64px icons for Places and Mimes.
 
@@ -37,7 +39,7 @@ Now support only icons:
 
 **It's important!!!**
 
-For monochrome icons use ONLY color pallete from template, becuase this icons have CSS style!!!
+For monochrome icons use ONLY template and ONLY color pallete from template, becuase this icons have CSS style!!!
 
 # System Requirements
 - linux
@@ -67,7 +69,7 @@ work/Papirus/apps/abricotine@48x48.svg
 - open template file on Inkscape
 - delete not needed objects
 - draw new objects
-- save file as **name-size.svg** (use lowercase registry for **svg**)
+- save file as **name@size.svg** (use lowercase registry for **svg**)
 - draw icons for other sizes
 - run script for clear icons `tools/work/clean.sh`
 
@@ -77,13 +79,13 @@ For example:
 ```
 - fine, your icon fixed and clear
 - now you can check icons
-- if all fine - copy icon to icon theme folder, use script `tools/work/copy-to-theme.sh`:
+- if all fine - copy icons to main icon theme folders, use script `tools/work/copy-to-theme.sh`:
 
 For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clear work directory, use script `tools/work/clean.sh`:
+- clear **work** directory, use script `tools/work/clean.sh`:
 ```
 ./clean.sh
 ```
@@ -112,7 +114,7 @@ For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clear work directory, use script `tools/work/clean.sh`:
+- clear **work** directory, use script `tools/work/clean.sh`:
 ```
 ./clean.sh
 ```
