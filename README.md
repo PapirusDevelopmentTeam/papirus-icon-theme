@@ -41,6 +41,10 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 Papirus icon theme now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
+**NOTE:** For right work wit Papirus icon theme use hardcode-tray option '--force-inkscape':
+```
+hardcode-tray --size 22 --force-inkscape
+```
 ![hardcode-tray](hardcode-tray-preview.png)
 
 # KDE color scheme
