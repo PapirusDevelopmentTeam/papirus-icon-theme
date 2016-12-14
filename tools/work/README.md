@@ -48,8 +48,8 @@ For monochrome icons use ONLY template and ONLY color pallete from template, bec
 For Debian/Ubuntu/Linux Mint users:
 ```
 sudo apt update
-sudo apt install inkscape npm
-sudo npm install -g svgo
+sudo apt install inkscape npm nodejs-legacy
+sudo npm install -g npm svgo
 ```
 ## How doing this?
 Open directory **work** and choose need category. On this directory already available template files for development.
