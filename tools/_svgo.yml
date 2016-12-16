@@ -2,19 +2,18 @@
 #
 # Usage:
 #
-# for d in Papirus/16x16/* Papirus/22x22/* Papirus/24x24/* \
-#   Papirus/32x32/* Papirus/48x48/* Papirus/64x64/*
-# do
-#   svgo --config=svgo.yml -f "$d"
-# done
+#   for d in Papirus/16x16/* Papirus/22x22/* Papirus/24x24/*
+#   do
+#     svgo --config=_svgo.yml -f "$d"
+#   done
 #
-# - or -
+# or
 #
-# svgo --config=svgo.yml -f Papirus/16x16/actions
+#   svgo --config=_svgo.yml -f Papirus/16x16/actions
 #
-# - or -
+# or
 #
-#   svgo --config=svgo.yml -i FILE
+#   svgo --config=_svgo.yml -i FILE
 
 full: true
 multipass: true
