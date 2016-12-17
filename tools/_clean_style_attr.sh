@@ -1,17 +1,27 @@
 #!/bin/sh
 #
-# removes unused properties and removes properties with default
-# values from  style attributes
+# Written in 2016 by Sergei Eremenko <https://github.com/SmartFinn>
 #
-# https://www.w3.org/TR/SVG/styling.html
+# To the extent possible under law, the author(s) have dedicated all copyright
+# and related and neighboring rights to this software to the public domain
+# worldwide. This software is distributed without any warranty.
 #
-# ignore property:
-#   - fill
-#   - fill-opacity
-#   - opacity
+# You should have received a copy of the CC0 Public Domain Dedication along
+# with this software. If not, see
+# <http://creativecommons.org/publicdomain/zero/1.0/>.
 #
-# usage:
-#   _clean_style_attr.sh FILE...
+# Description:
+#  This script removes unused properties and removes properties with default
+#  values from style attributes.
+#  More details https://www.w3.org/TR/SVG/styling.html
+#
+# Ignore property:
+#  - fill
+#  - fill-opacity
+#  - opacity
+#
+# Usage:
+#  _clean_style_attr.sh FILE...
 
 set -e
 

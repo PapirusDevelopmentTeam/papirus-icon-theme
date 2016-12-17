@@ -1,14 +1,25 @@
 #!/bin/sh
 #
-# This script looks in the SVG files for certain colors and replaces
-# them with the corresponding stylesheet class. And fixes the color
-# scheme after Inkscape.
+# Written in 2016 by Sergei Eremenko <https://github.com/SmartFinn>
 #
-# limitations:
+# To the extent possible under law, the author(s) have dedicated all copyright
+# and related and neighboring rights to this software to the public domain
+# worldwide. This software is distributed without any warranty.
+#
+# You should have received a copy of the CC0 Public Domain Dedication along
+# with this software. If not, see
+# <http://creativecommons.org/publicdomain/zero/1.0/>.
+#
+# Description:
+#  This script looks in the SVG files for certain colors and replaces
+#  them with the corresponding stylesheet class. Fixes a color scheme
+#  after Inkscape.
+#
+# Limitations:
 #  - works only with one element per line
 #
-# usage:
-#   _fix_color_scheme.sh FILE...
+# Usage:
+#  _fix_color_scheme.sh FILE...
 
 set -e
 
@@ -41,9 +52,10 @@ fix_color_and_fill() {
 }
 
 for file in "$@"; do
+	# continue if it is a file
 	[ -f "$file" ] || continue
 
-	# skip if a file not have color scheme
+	# continue if the file has a color scheme
 	grep -q -i '\.ColorScheme-Text' "$file" || continue
 
 	fix_color_and_fill "$file"
