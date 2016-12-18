@@ -16,6 +16,8 @@
 # Usage:
 #  ffsvg.sh PATH...
 
+set -e
+
 SCRIPT_DIR=$(dirname "$0")
 
 _run_helpers() {
