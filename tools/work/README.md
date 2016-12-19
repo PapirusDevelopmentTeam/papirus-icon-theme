@@ -68,11 +68,11 @@ work/Papirus/apps/abricotine@48x48.svg
 - draw new objects
 - save file as `name@size.svg` (use lowercase registry for **.svg**)
 - draw icons for other sizes
-- run script for clean icons `tools/run_on_dirs.sh`
+- run script for clean and fix icons `tools/ffsvg.sh`
 
 For example:
 ```
-./run_on_dirs.sh work/Papirus/apps
+./ffsvg.sh -d work/Papirus/apps
 ```
 - fine, your icon fixed and clear
 - now you can check icons
@@ -90,25 +90,19 @@ For example:
 
 ### Step by step for Papirus Dark
 **work/Papirus-Dark** have only monochrome icons with another CSS stylesheet.
-- initially draw icons for **work/Papirus** and run script from `tools/run_on_dirs.sh`
+- initially draw icons for **work/Papirus** and run script from `tools/ffsvg.sh`
 
 For example:
 ```
-./run_on_dirs.sh work/Papirus-Dark/actions
+./ffsvg.sh -d work/Papirus/actions
 ```
-- copy files to **work/Papirus-Dark** directory, use script `tools/work/copy-to-work-dark.sh`
-
-For example:
-```
-./copy-to-work-dark.sh
-```
-- now need change colors and class for Papirus Dark - run script `tools/work/convert-to-dark.sh`
+- now need copy files to **work/Papirus-Dark** with change colors and class - run script `tools/work/convert-to-dark.sh`
 
 For example:
 ```
 ./convert-to-dark.sh
 ```
-- now check your work
+- check your work
 - copy all files to main icon theme, use script `tools/work/copy-to-theme.sh`
 
 For example:
