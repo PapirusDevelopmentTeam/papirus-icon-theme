@@ -1,16 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <defs>
-  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
-  </clipPath>
- </defs>
- <path fill="#cddff0" d="m28.75 16a12.75 12.75 0 0 1 -12.75 12.75 12.75 12.75 0 0 1 -12.75 -12.75 12.75 12.75 0 0 1 12.75 -12.75 12.75 12.75 0 0 1 12.75 12.75z"/>
- <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.5,0,0,1.5,-413,-23)" cy="26" cx="286" stroke-width=".455"/>
- <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(1.5,0,0,1.5,-413,-23)" cy="26" cx="286" stroke-width=".909"/>
- <path opacity=".2" fill="#fff" d="m16 3.25a12.75 12.75 0 0 0 -12.75 12.75 12.75 12.75 0 0 0 0.0161 0.435 12.75 12.75 0 0 1 12.734 -12.435 12.75 12.75 0 0 1 12.734 12.315 12.75 12.75 0 0 0 0.016 -0.315 12.75 12.75 0 0 0 -12.75 -12.75z"/>
- <path fill="#85b4df" d="m23.877 27.588c-6.815 3.936-15.53 1.6-19.466-5.215-3.9345-6.816-1.5993-15.531 5.2164-19.466 8.0306-0.0371 13.13 17.316 14.25 24.681z"/>
- <path opacity=".2" fill="#fff" d="m9.6279 2.9072c-4.7387 2.7359-7.3048 7.7828-7.1103 12.895 0.0715-4.85 2.6038-9.5429 7.1103-12.145 7.7991-0.0356 12.821 16.301 14.131 23.991 0.03893-0.02201 0.07984-0.03765 0.11865-0.06006-1.12-7.365-6.219-24.718-14.25-24.681z"/>
- <path d="m30.25 15.75c0 7.87-6.38 14.25-14.25 14.25-7.8701 0-14.25-6.38-14.25-14.25 3.9835-6.9734 21.562-2.713 28.5 0z" fill="#608ab5"/>
- <path opacity=".2" style="color:#000000" d="m1.7969 16.678c-0.0148 0.025-0.0325 0.047-0.0469 0.072 0 7.87 6.3799 14.25 14.25 14.25s14.25-6.3799 14.25-14.25c-0.01527-0.006-0.0354-0.01159-0.05078-0.01758-0.507 7.41-6.661 13.268-14.199 13.268-7.5569 0-13.723-5.887-14.203-13.322z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="akonaditray.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-5.2881356"
+     inkscape:cy="16"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4186"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         cx="286"
+         cy="26"
+         r="10"
+         id="circle7"
+         style="fill:url(#linearGradient4190)" />
+    </clipPath>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;opacity:0.2"
+     d="M 3.5938,33.356 C 3.5642,33.406 3.5288,33.45 3.5,33.5 3.5,49.24 16.2598,62 32,62 47.7402,62 60.5,49.2402 60.5,33.5 c -0.03054,-0.012 -0.0708,-0.02318 -0.10156,-0.03516 -1.014,14.82 -13.322,26.536 -28.398,26.536 -15.1138,0 -27.446,-11.774 -28.406,-26.644 z"
+     id="path23" />
+  <path
+     style="fill:#cddff0"
+     inkscape:connector-curvature="0"
+     d="M 57.5,33 A 25.5,25.5 0 0 1 32,58.5 25.5,25.5 0 0 1 6.5,33 25.5,25.5 0 0 1 32,7.5 25.5,25.5 0 0 1 57.5,33 Z"
+     id="path9" />
+  <circle
+     style="color:#000000;opacity:0;stroke-width:0.45500001"
+     clip-path="url(#clipPath4186)"
+     r="10"
+     transform="matrix(3,0,0,3,-826,-45)"
+     cy="26"
+     cx="286"
+     id="circle11" />
+  <circle
+     style="color:#000000;opacity:0;stroke-width:0.90899998"
+     clip-path="url(#clipPath4186)"
+     r="10"
+     transform="matrix(3,0,0,3,-826,-45)"
+     cy="26"
+     cx="286"
+     id="circle13" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 32 7.5 A 25.5 25.5 0 0 0 6.5 33 A 25.5 25.5 0 0 0 6.5175781 33.498047 A 25.5 25.5 0 0 1 32 8.5 A 25.5 25.5 0 0 1 57.474609 33.501953 A 25.5 25.5 0 0 0 57.5 33 A 25.5 25.5 0 0 0 32 7.5 z "
+     id="path15" />
+  <path
+     style="fill:#85b4df"
+     inkscape:connector-curvature="0"
+     d="M 47.754,56.176 C 34.124,64.048 16.694,59.376 8.822,45.746 0.953,32.114 5.6234,14.684 19.2548,6.814 c 16.0612,-0.0742 26.26,34.632 28.5,49.362 z"
+     id="path17" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 19.255859 6.8144531 C 10.080068 12.112119 4.9937061 21.742339 5.03125 31.628906 C 5.3289351 22.097083 10.389632 12.933391 19.255859 7.8144531 C 35.00823 7.7418796 45.100699 41.074453 47.597656 56.255859 C 47.650463 56.230371 47.704367 56.205514 47.755859 56.175781 C 45.515859 41.445781 35.317859 6.7404531 19.255859 6.8144531 z "
+     id="path19" />
+  <path
+     style="fill:#608ab5"
+     inkscape:connector-curvature="0"
+     d="M 60.5,32.5 C 60.5,48.24 47.74,61 32,61 16.2598,61 3.5,48.24 3.5,32.5 c 7.967,-13.9468 43.124,-5.426 57,0 z"
+     id="path21" />
 </svg>
