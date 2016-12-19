@@ -1,18 +1,141 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="24" y="-30" x="-28" fill="#3b80ae"/>
- <g transform="translate(0,1)">
-  <rect opacity=".2" rx="1.132" ry="1.227" height="7" width="8" y="8" x="6"/>
-  <rect opacity=".2" rx=".991" ry="1.051" height="6" width="7" y="12" x="18"/>
-  <rect opacity=".2" rx=".849" ry=".876" height="5" width="6" y="20" x="13"/>
-  <path opacity=".2" stroke="#000" fill="none" d="m10.5 11.5 12 3-6 8z"/>
- </g>
- <path opacity=".2" fill="#fff" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
- <path opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <g>
-  <rect rx="1.132" ry="1.227" height="7" width="8" y="8" x="6" fill="#c9a1ff"/>
-  <rect rx=".991" ry="1.051" height="6" width="7" y="12" x="18" fill="#c9a1ff"/>
-  <rect rx=".849" ry=".876" height="5" width="6" y="20" x="13" fill="#c9a1ff"/>
-  <path stroke="#c9a1ff" fill="none" d="m10.5 11.5 12 3-6 8z"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="driconf.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="4.24"
+     inkscape:cx="-8.0677966"
+     inkscape:cy="16"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 4,52 0,2 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 L 7,55 C 5.338,55 4,53.662 4,52 Z"
+     id="path18" />
+  <rect
+     style="fill:#3b80ae"
+     ry="3"
+     rx="3"
+     transform="matrix(0,-1,-1,0,0,0)"
+     height="56"
+     width="48"
+     y="-60"
+     x="-56"
+     id="rect4" />
+  <g
+     transform="matrix(2,0,0,2,0,1)"
+     id="g6">
+    <rect
+       style="opacity:0.2"
+       rx="1.132"
+       ry="1.227"
+       height="7"
+       width="8"
+       y="8"
+       x="6"
+       id="rect8" />
+    <rect
+       style="opacity:0.2"
+       rx="0.991"
+       ry="1.051"
+       height="6"
+       width="7"
+       y="12"
+       x="18"
+       id="rect10" />
+    <rect
+       style="opacity:0.2"
+       rx="0.84899998"
+       ry="0.87599999"
+       height="5"
+       width="6"
+       y="20"
+       x="13"
+       id="rect12" />
+    <path
+       style="opacity:0.2;fill:none;stroke:#000000"
+       inkscape:connector-curvature="0"
+       d="m 10.5,11.5 12,3 -6,8 z"
+       id="path14" />
+  </g>
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 7 8 C 5.338 8 4 9.338 4 11 L 4 12 C 4 10.338 5.338 9 7 9 L 57 9 C 58.662 9 60 10.338 60 12 L 60 11 C 60 9.338 58.662 8 57 8 L 7 8 z "
+     id="path16" />
+  <g
+     id="g20"
+     transform="scale(2,2)">
+    <rect
+       style="fill:#c9a1ff"
+       rx="1.132"
+       ry="1.227"
+       height="7"
+       width="8"
+       y="8"
+       x="6"
+       id="rect22" />
+    <rect
+       style="fill:#c9a1ff"
+       rx="0.991"
+       ry="1.051"
+       height="6"
+       width="7"
+       y="12"
+       x="18"
+       id="rect24" />
+    <rect
+       style="fill:#c9a1ff"
+       rx="0.84899998"
+       ry="0.87599999"
+       height="5"
+       width="6"
+       y="20"
+       x="13"
+       id="rect26" />
+    <path
+       style="fill:none;stroke:#c9a1ff"
+       inkscape:connector-curvature="0"
+       d="m 10.5,11.5 12,3 -6,8 z"
+       id="path28" />
+  </g>
 </svg>
