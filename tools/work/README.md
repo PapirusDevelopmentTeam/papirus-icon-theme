@@ -72,7 +72,7 @@ work/Papirus/apps/abricotine@48x48.svg
 
 For example:
 ```
-./ffsvg.sh -d work/Papirus/apps
+./ffsvg.sh work/Papirus/apps
 ```
 - fine, your icon fixed and clear
 - now you can check icons
@@ -94,7 +94,7 @@ For example:
 
 For example:
 ```
-./ffsvg.sh -d work/Papirus/actions
+./ffsvg.sh work/Papirus/actions
 ```
 - now need copy files to **work/Papirus-Dark** with change colors and class - run script `tools/work/convert-to-dark.sh`
 
