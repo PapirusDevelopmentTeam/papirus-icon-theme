@@ -1,17 +1,119 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#7de63e"/>
- <path opacity=".2" d="m8.8764 8.8699a23.507 23.528 0 0 0 -6.5113 20.759 23.507 23.528 0 0 0 20.759 -6.499 23.507 23.528 0 0 0 6.511 -20.759 23.507 23.528 0 0 0 -20.759 6.4989z"/>
- <path opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
- <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <circle opacity=".3" cy="16" cx="16" r="6"/>
- <circle cy="16" cx="16" r="4" fill="#ffc20c"/>
- <g>
-  <circle opacity=".3" cy="8" cx="24" r="3"/>
-  <circle cy="8" cx="24" r="2" fill="#ffc20c"/>
- </g>
- <g transform="translate(-16,16)">
-  <circle opacity=".3" cy="8" cx="24" r="3"/>
-  <circle cy="8" cx="24" r="2" fill="#ffc20c"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="peazip.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="25.299015"
+     inkscape:cy="33.217897"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3360" />
+  </sodipodi:namedview>
+  <rect
+     ry="3"
+     rx="3"
+     transform="matrix(0,-1,-1,0,0,0)"
+     height="56"
+     width="56"
+     y="-60.000072"
+     x="-60.000023"
+     id="rect4"
+     style="fill:#7de63e" />
+  <path
+     d="M 17.752716,17.7403 A 47.013469,47.055468 0 0 0 4.7302627,59.257831 47.013469,47.055468 0 0 0 46.247794,46.259978 47.013469,47.055468 0 0 0 59.269646,4.7424472 47.013469,47.055468 0 0 0 17.752116,17.7401 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="opacity:0.2" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 7,4 C 5.3380187,4 4,5.3373658 4,6.9985359 L 4,8 C 4,6.3388299 5.3380187,5.0014641 7,5.0014641 l 50,0 c 1.661981,0 3,1.3373658 3,2.9985359 L 60,6.9985359 C 60,5.3373658 58.661981,4 57,4 L 7,4 Z"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.2"
+     d="M 4 57 L 4 58 C 4 59.661981 5.3380187 61 7 61 L 57 61 C 58.661981 61 60 59.661981 60 58 L 60 57 C 60 58.661981 58.661981 60 57 60 L 7 60 C 5.3380187 60 4 58.661981 4 57 z "
+     id="path10" />
+  <circle
+     cy="32.00034"
+     cx="31.999754"
+     r="11.999865"
+     id="circle12"
+     style="opacity:0.3" />
+  <circle
+     cy="32.00034"
+     cx="31.999754"
+     r="7.9999094"
+     id="circle14"
+     style="fill:#ffc20c" />
+  <g
+     id="g16"
+     transform="matrix(1.9999774,0,0,1.9999774,1.1615646e-4,7.008e-4)">
+    <circle
+       cy="8"
+       cx="24"
+       r="3"
+       id="circle18"
+       style="opacity:0.3" />
+    <circle
+       cy="8"
+       cx="24"
+       r="2"
+       id="circle20"
+       style="fill:#ffc20c" />
+  </g>
+  <g
+     transform="matrix(1.9999774,0,0,1.9999774,-31.999522,32.000339)"
+     id="g22">
+    <circle
+       cy="8"
+       cx="24"
+       r="3"
+       id="circle24"
+       style="opacity:0.3" />
+    <circle
+       cy="8"
+       cx="24"
+       r="2"
+       id="circle26"
+       style="fill:#ffc20c" />
+  </g>
 </svg>
