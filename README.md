@@ -67,6 +67,7 @@ sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamo
 
 Also increase panel size with text option - because on Papirus available for tray apps only 22px & 24px
 
+
 For Ubuntu users recommend use patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with icon size 33px
 
 **~/.notify-osd** example:
@@ -100,6 +101,12 @@ bubble-as-desktop-bg = 0
 
 Also you can change main launcher logo and unity-tweak-tool icons, see **extra** folder on icon theme.
 
+
+For elementary OS Loki users recommend use another color for panel icons with elementary GTK theme:
+```
+sudo sed -i.orig 's/color: #fff/color: #d3dae3/g' /usr/share/themes/elementary/gtk-3.0/apps.css
+```
+![elementary-fix](elementary-fix.png)
 
 # Icon request
 - Application name
