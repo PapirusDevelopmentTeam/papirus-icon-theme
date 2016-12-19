@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect ry="1.5" rx="1.4" transform="scale(-1,1)" height="24" width="28" y="4" x="-30" fill="#826f3d"/>
+ <rect opacity=".2" height="14" width="24" y="7" x="4"/>
+ <rect height="14" width="24" y="6" x="4" fill="#fff"/>
+ <g transform="translate(1)" fill="#ff6e6e">
+  <rect transform="rotate(90)" height="6" width="2" y="-13" x="12"/>
+  <rect transform="rotate(90)" height="6" width="2" y="-13" x="8"/>
+  <rect y="8" width="2" x="7" height="10"/>
+ </g>
+ <circle cy="24.5" cx="26.5" r="1.5" fill="#01d900"/>
+ <rect opacity=".4" height="1" width="14" y="21" x="4"/>
+ <path opacity=".2" fill="#fff" d="m3.4004 4c-0.7756 0-1.4004 0.669-1.4004 1.5v1c0-0.831 0.6248-1.5 1.4004-1.5h25.2c0.775 0 1.4 0.669 1.4 1.5v-1c0-0.831-0.625-1.5-1.4-1.5h-25.2z"/>
+ <path opacity=".2" d="m2 26.5v1c0 0.831 0.6248 1.5 1.4004 1.5h25.2c0.775 0 1.4-0.669 1.4-1.5v-1c0 0.831-0.625 1.5-1.4 1.5h-25.2c-0.7752 0-1.4-0.669-1.4-1.5z"/>
+ <g transform="matrix(0,1,-1,0,33,5)" fill="#ff6e6e">
+  <rect transform="rotate(90)" height="6" width="2" y="-13" x="16"/>
+  <rect transform="rotate(90)" height="6" width="2" y="-13" x="12"/>
+  <rect transform="rotate(90)" height="6" width="2" y="-13" x="8"/>
+  <rect y="8" width="2" x="7" height="10"/>
+ </g>
+ <rect opacity=".4" height="1" width="14" y="23" x="4"/>
+ <rect opacity=".4" height="1" width="14" y="25" x="4"/>
+</svg>

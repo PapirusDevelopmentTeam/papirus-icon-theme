@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect height="3" width="8" y="2" x="12" fill="#629c4d"/>
+ <rect rx="1.467" ry="1.529" height="26" width="22" y="4" x="5" fill="#518140"/>
+ <rect rx="1.444" ry="1.5" height="6" width="26" y="3" x="3" fill="#629c4d"/>
+ <rect opacity=".4" rx="1" ry=".7" height="14" width="4" y="13" x="14"/>
+ <rect opacity=".4" rx="1" ry=".7" height="14" width="4" y="13" x="8"/>
+ <rect opacity=".4" rx="1" ry=".7" height="14" width="4" y="13" x="20"/>
+ <path opacity=".2" d="m5 28.471v1c0 0.847 0.6543 1.529 1.4668 1.529h19.066c0.813 0 1.467-0.682 1.467-1.529v-1c0 0.847-0.654 1.529-1.467 1.529h-19.066c-0.8127 0-1.467-0.682-1.467-1.529z"/>
+ <path opacity=".2" d="m3 7.5v1c0 0.831 0.6451 1.5 1.4453 1.5h23.11c0.8 0 1.445-0.669 1.445-1.5v-1c0 0.831-0.645 1.5-1.445 1.5h-23.11c-0.7999 0-1.445-0.669-1.445-1.5z"/>
+ <path opacity=".2" fill="#fff" d="m4.4453 3c-0.8002 0-1.4453 0.669-1.4453 1.5v1c0-0.831 0.6451-1.5 1.4453-1.5h23.11c0.8 0 1.445 0.669 1.445 1.5v-1c0-0.831-0.645-1.5-1.445-1.5h-23.11z"/>
+ <rect opacity=".1" height="1" width="8" y="2" x="12" fill="#fff"/>
+</svg>

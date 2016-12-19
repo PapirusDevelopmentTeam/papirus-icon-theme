@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="28" width="22" y="-30" x="-27" fill="#4ab3e4"/>
+ <path opacity=".2" d="m2 25.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path opacity=".1" d="m3.5 5c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <g transform="translate(15,1)">
+  <rect ry=".5" rx=".5" transform="matrix(0,-1,-1,0,0,0)" height="15" width="12" y="-16" x="-28" fill="#ebebeb"/>
+  <path opacity=".1" d="m1 26.5v1c0 0.277 0.223 0.5 0.5 0.5h14c0.277 0 0.5-0.223 0.5-0.5v-1c0 0.277-0.223 0.5-0.5 0.5h-14c-0.277 0-0.5-0.223-0.5-0.5z"/>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect opacity=".05" transform="rotate(90)" rx="1.5" ry="1.5" height="19" width="19" stroke="#000" y="-30" x="2" stroke-width="2"/>
+ <rect opacity=".2" ry="1.5" rx="1.5" transform="rotate(90)" height="19" width="19" y="-30" x="2"/>
+ <rect opacity=".05" ry="1.5" rx="1.5" transform="rotate(90)" height="19" width="19" stroke="#000" y="-21" x="11" stroke-width="2"/>
+ <rect transform="rotate(90)" rx="1.5" ry="1.5" height="19" width="19" y="-30" x="1" fill="#c2c2c2"/>
+ <g opacity=".2" transform="translate(4,-4)">
+  <path opacity="1" style="enable-background:new" d="m10 11v-1h12v1z"/>
+  <path opacity="1" style="enable-background:new" d="m10 14v-1h12v1z"/>
+  <path opacity="1" style="enable-background:new" d="m10 17v-1h12v1z"/>
+  <path opacity="1" style="enable-background:new" d="m10 20v-1h8v1z"/>
+ </g>
+ <rect opacity=".2" transform="rotate(90)" rx="1.5" ry="1.5" height="19" width="19" y="-21" x="11"/>
+ <rect ry="1.5" rx="1.5" transform="rotate(90)" height="19" width="19" y="-21" x="10" fill="#d3d3d3"/>
+ <path opacity=".1" d="m12.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z" fill="#fff"/>
+ <path opacity=".1" d="m3.5 10c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z" fill="#fff"/>
+ <g opacity=".5" transform="translate(-5,5)">
+  <path opacity="1" style="enable-background:new" d="m10 11v-1h12v1z"/>
+  <path opacity="1" style="enable-background:new" d="m10 14v-1h12v1z"/>
+  <path opacity="1" style="enable-background:new" d="m10 17v-1h12v1z"/>
+  <path opacity="1" style="enable-background:new" d="m10 20v-1h8v1z"/>
+ </g>
+</svg>

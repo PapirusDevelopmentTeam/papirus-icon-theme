@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4414">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4420" x1="23.968" xlink:href="#linearGradient4414" gradientUnits="userSpaceOnUse" y1="32.02" gradientTransform="matrix(.7 0 0 .5 -.8 3)" x2="23.968" y2="34.144"/>
+  <linearGradient id="linearGradient4387" x1="16.034" xlink:href="#linearGradient4414" gradientUnits="userSpaceOnUse" x2="16.062" y1="16.945" y2="12.055"/>
+ </defs>
+ <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#4e91d9"/>
+ <path opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path fill="#fff" d="m16 12 5 5-5.0364 0.95877l-4.964-0.959z"/>
+ <path opacity=".2" d="m6 13 10 5 10-5-3 8h-14z"/>
+ <path opacity=".15" fill="url(#linearGradient4387)" d="m16 12 5 5-5.0364 0.95877l-4.964-0.959z"/>
+ <path fill="#fff" d="m6 12 10 5 10-5-3 8h-14z"/>
+ <path opacity=".15" fill="url(#linearGradient4420)" d="m16 19 7 1h-14z"/>
+</svg>

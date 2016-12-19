@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" width="32" version="1.1">
+ <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="28" y="-30" x="-30" fill="#394e6f"/>
+ <path opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
+ <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <circle stroke-linejoin="round" r="3.25" cx="18.5" cy="14.5" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="1.75" cx="26" cy="21" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="3.75" cx="22" cy="19" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="3.25" cx="7.5" cy="19.5" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="1.75" cx="10.5" cy="13" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="3.75" cx="11" cy="17" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="1.75" cx="11" cy="21" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="3.25" cx="14.5" cy="12.5" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+ <circle stroke-linejoin="round" r="4.75" cx="16" cy="18" stroke="#394e6f" stroke-linecap="round" stroke-width=".5" fill="#fff"/>
+</svg>

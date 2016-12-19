@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <path fill="#6aa22a" d="m30 16v12.5c0 0.831-0.669 1.5-1.5 1.5h-12.5v-14h14z"/>
+ <path fill="#36862c" d="m28.5 2c0.831 0 1.5 0.669 1.5 1.5v12.5h-14v-14h12.5z"/>
+ <path fill="#71c454" d="m2 16v12.5c0 0.831 0.669 1.5 1.5 1.5h12.5v-14h-14z"/>
+ <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path fill="#86d478" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v12.5h14v-14h-12.5z"/>
+ <circle style="enable-background:new" fill-rule="evenodd" cx="23" cy="23" r="8" fill="#4b4b4b"/>
+ <path style="enable-background:new" fill="#4b4b4b" d="m9 6v3h-3v1h3v3h1v-3h3v-1h-3v-3z"/>
+ <path style="enable-background:new" fill="#4b4b4b" d="m20 9v1h6v-1z"/>
+ <path opacity=".2" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path d="m6.3535 19.646-0.707 0.708 2.6465 2.646-2.6465 2.646 0.707 0.708 2.6465-2.647 2.646 2.647 0.708-0.708-2.647-2.646 2.647-2.646-0.708-0.708-2.646 2.647-2.6465-2.647z" fill="#4b4b4b" fill-rule="evenodd"/>
+ <path style="enable-background:new" fill="#ebebeb" d="m20 21v1h6v-1zm0 3v1h6v-1z"/>
+ <path opacity=".2" style="enable-background:new" d="m30.979 23.424a8 8 0 0 1 -7.979 7.576 8 8 0 0 1 -7.979 -7.424 8 8 0 0 0 -0.021 0.424 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -0.02148 -0.57617z"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="24" y="-30" x="-28" fill="#3b80ae"/>
+ <g transform="translate(0,1)">
+  <rect opacity=".2" rx="1.132" ry="1.227" height="7" width="8" y="8" x="6"/>
+  <rect opacity=".2" rx=".991" ry="1.051" height="6" width="7" y="12" x="18"/>
+  <rect opacity=".2" rx=".849" ry=".876" height="5" width="6" y="20" x="13"/>
+  <path opacity=".2" stroke="#000" fill="none" d="m10.5 11.5 12 3-6 8z"/>
+ </g>
+ <path opacity=".2" fill="#fff" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <g>
+  <rect rx="1.132" ry="1.227" height="7" width="8" y="8" x="6" fill="#c9a1ff"/>
+  <rect rx=".991" ry="1.051" height="6" width="7" y="12" x="18" fill="#c9a1ff"/>
+  <rect rx=".849" ry=".876" height="5" width="6" y="20" x="13" fill="#c9a1ff"/>
+  <path stroke="#c9a1ff" fill="none" d="m10.5 11.5 12 3-6 8z"/>
+ </g>
+</svg>
