@@ -1,14 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <path d="m30 16a14 14 0 0 1 -14 14 14 14 0 0 1 -14 -14 14 14 0 0 1 14 -14 14 14 0 0 1 14 14z" fill="#5d5d5d"/>
- <path opacity=".1" fill="#fff" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.0215 0.586 14 14 0 0 1 13.978 -13.586 14 14 0 0 1 13.979 13.414 14 14 0 0 0 0.021 -0.414 14 14 0 0 0 -14 -14z"/>
- <path opacity=".2" d="m29.979 16.414a14 14 0 0 1 -13.979 13.586 14 14 0 0 1 -13.978 -13.414 14 14 0 0 0 -0.022 0.414 14 14 0 0 0 14 14 14 14 0 0 0 14 -14 14 14 0 0 0 -0.021 -0.586z"/>
- <g opacity=".2" transform="translate(0,1)">
-  <path opacity="1" d="m16 6a10 10 0 0 0 -10 10 10 10 0 0 0 10 10v-3a7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7h3a10 10 0 0 0 -10 -10z"/>
-  <path opacity="1" d="m16 11a5 5 0 0 0 -5 5h3a2 2 0 0 1 2 -2 2 2 0 0 1 2 2h3a5 5 0 0 0 -5 -5z"/>
- </g>
- <g>
-  <path fill="#fff" d="m16 6a10 10 0 0 0 -10 10 10 10 0 0 0 10 10v-3a7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7h3a10 10 0 0 0 -10 -10z"/>
-  <path fill="#00adef" d="m16 11a5 5 0 0 0 -5 5h3a2 2 0 0 1 2 -2 2 2 0 0 1 2 2h3a5 5 0 0 0 -5 -5z"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="echonest.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-8.0677966"
+     inkscape:cy="16"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="M 59.958,31.828 A 28,28 0 0 1 32,59 28,28 0 0 1 4.044,32.172 28,28 0 0 0 4,33 28,28 0 0 0 32,61 28,28 0 0 0 60,33 28,28 0 0 0 59.958,31.828 Z"
+     id="path8" />
+  <path
+     style="fill:#5d5d5d"
+     inkscape:connector-curvature="0"
+     d="M 60,32 A 28,28 0 0 1 32,60 28,28 0 0 1 4,32 28,28 0 0 1 32,4 28,28 0 0 1 60,32 Z"
+     id="path4" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 31.998047 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 4.0175781 32.492188 A 28 28 0 0 1 31.998047 5 L 32 5 A 28 28 0 0 1 59.972656 32.5 A 28 28 0 0 0 59.998047 32 A 28 28 0 0 0 32 4 L 31.998047 4 z "
+     id="path6" />
+  <g
+     style="opacity:0.2"
+     transform="matrix(2,0,0,2,0,1)"
+     id="g10">
+    <path
+       style="opacity:1"
+       inkscape:connector-curvature="0"
+       d="M 16,6 A 10,10 0 0 0 6,16 10,10 0 0 0 16,26 l 0,-3 a 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 l 3,0 A 10,10 0 0 0 16,6 Z"
+       id="path12" />
+    <path
+       style="opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 16,11 a 5,5 0 0 0 -5,5 l 3,0 a 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 l 3,0 a 5,5 0 0 0 -5,-5 z"
+       id="path14" />
+  </g>
+  <path
+     id="path18"
+     d="M 32,12 A 20,20 0 0 0 12,32 20,20 0 0 0 32,52 l 0,-6 A 14,14 0 0 1 18,32 14,14 0 0 1 32,18 14,14 0 0 1 46,32 l 6,0 A 20,20 0 0 0 32,12 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="path20"
+     d="M 32,22 A 10,10 0 0 0 22,32 l 6,0 a 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 l 6,0 A 10,10 0 0 0 32,22 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#00adef" />
 </svg>
