@@ -1,27 +1,116 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <defs>
-  <clipPath id="clipPath-440697951">
-   <g transform="translate(0 -1004.4)">
-    <path transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z"/>
-   </g>
-  </clipPath>
- </defs>
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="28" width="28" y="-30" x="-30" fill="#c2352a"/>
- <g opacity=".2" transform="matrix(.76896 0 0 .77773 -2.4509 -1.6651)">
-  <g clip-path="url(#clipPath-440697951)">
-   <g>
-    <path d="m24.17 15c-3.039 0-7.523 0.184-8.867 0.227-1.461 0.129-2 0.203-2.797 0.875-1.227 1.066-1.516 3.16-1.516 6.367v3.051c0 3.656 0.492 5.516 1.313 6.195 0.938 0.793 1.559 0.855 2.18 0.949 0.242 0.035 1.961 0.336 9.574 0.336 4.746 0 8.824-0.223 9.246-0.273 0.68-0.086 1.645-0.207 2.391-1.012 1.09-1.219 1.305-3.242 1.305-6.176v-3.551c0-1.898-0.105-4.578-1.305-5.703-0.91-0.758-1.242-0.969-3.121-1.063-0.531-0.023-5.164-0.223-8.402-0.223m-2.7774 5.1431 6.5022 3.8569-6.5022 3.8579"/>
-   </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="youtube.svg">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="16.833607"
+     inkscape:cy="29.981659"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid37" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath-440697951">
+      <g
+         transform="translate(0,-1004.4)"
+         id="g7">
+        <path
+           transform="matrix(15.333,0,0,11.5,415,878.86)"
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           id="path9"
+           inkscape:connector-curvature="0"
+           style="fill:#1890d0" />
+      </g>
+    </clipPath>
+  </defs>
+  <rect
+     style="fill:#c2352a"
+     transform="matrix(0,-1,-1,0,0,0)"
+     rx="3"
+     ry="3"
+     height="56"
+     width="56"
+     y="-60"
+     x="-60"
+     id="rect11" />
+  <g
+     style="opacity:0.2"
+     transform="matrix(1.53792,0,0,1.55546,-4.9018,-4.33018)"
+     id="g13">
+    <g
+       clip-path="url(#clipPath-440697951)"
+       id="g15">
+      <g
+         id="g17">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 24.17,15 c -3.039,0 -7.523,0.184 -8.867,0.227 -1.461,0.129 -2,0.203 -2.797,0.875 -1.227,1.066 -1.516,3.16 -1.516,6.367 l 0,3.051 c 0,3.656 0.492,5.516 1.313,6.195 0.938,0.793 1.559,0.855 2.18,0.949 0.242,0.035 1.961,0.336 9.574,0.336 4.746,0 8.824,-0.223 9.246,-0.273 0.68,-0.086 1.645,-0.207 2.391,-1.012 1.09,-1.219 1.305,-3.242 1.305,-6.176 l 0,-3.551 c 0,-1.898 -0.105,-4.578 -1.305,-5.703 -0.91,-0.758 -1.242,-0.969 -3.121,-1.063 -0.531,-0.023 -5.164,-0.223 -8.402,-0.223 m -2.7774,5.1431 6.5022,3.8569 -6.5022,3.8579"
+           id="path19" />
+      </g>
+    </g>
   </g>
- </g>
- <path opacity=".1" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
- <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <g transform="matrix(.76896 0 0 .77773 -2.4509 -2.6652)">
-  <g clip-path="url(#clipPath-440697951)">
-   <g>
-    <path fill="#f9f9f9" d="m24.17 15c-3.039 0-7.523 0.184-8.867 0.227-1.461 0.129-2 0.203-2.797 0.875-1.227 1.066-1.516 3.16-1.516 6.367v3.051c0 3.656 0.492 5.516 1.313 6.195 0.938 0.793 1.559 0.855 2.18 0.949 0.242 0.035 1.961 0.336 9.574 0.336 4.746 0 8.824-0.223 9.246-0.273 0.68-0.086 1.645-0.207 2.391-1.012 1.09-1.219 1.305-3.242 1.305-6.176v-3.551c0-1.898-0.105-4.578-1.305-5.703-0.91-0.758-1.242-0.969-3.121-1.063-0.531-0.023-5.164-0.223-8.402-0.223m-2.7774 5.1431 6.5022 3.8569-6.5022 3.8579"/>
-   </g>
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 8 C 4 6.338 5.338 5 7 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 7 4 z "
+     id="path21" />
+  <path
+     style="opacity:0.2"
+     d="m 4,57 0,1 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-1 c 0,1.662 -1.338,3 -3,3 L 7,60 C 5.338,60 4,58.662 4,57 Z"
+     id="path23"
+     inkscape:connector-curvature="0" />
+  <g
+     transform="matrix(1.53792,0,0,1.55546,-4.9018,-5.3304)"
+     id="g25">
+    <g
+       clip-path="url(#clipPath-440697951)"
+       id="g27">
+      <g
+         id="g29">
+        <path
+           style="fill:#f9f9f9"
+           inkscape:connector-curvature="0"
+           d="m 24.17,15 c -3.039,0 -7.523,0.184 -8.867,0.227 -1.461,0.129 -2,0.203 -2.797,0.875 -1.227,1.066 -1.516,3.16 -1.516,6.367 l 0,3.051 c 0,3.656 0.492,5.516 1.313,6.195 0.938,0.793 1.559,0.855 2.18,0.949 0.242,0.035 1.961,0.336 9.574,0.336 4.746,0 8.824,-0.223 9.246,-0.273 0.68,-0.086 1.645,-0.207 2.391,-1.012 1.09,-1.219 1.305,-3.242 1.305,-6.176 l 0,-3.551 c 0,-1.898 -0.105,-4.578 -1.305,-5.703 -0.91,-0.758 -1.242,-0.969 -3.121,-1.063 -0.531,-0.023 -5.164,-0.223 -8.402,-0.223 m -2.7774,5.1431 6.5022,3.8569 -6.5022,3.8579"
+           id="path31" />
+      </g>
+    </g>
   </g>
- </g>
 </svg>
