@@ -1,14 +1,107 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <path fill="#fecd38" d="m16 2c-7.756 0-14 6.244-14 14s6.244 14 14 14 14-6.244 14-14-6.244-14-14-14z"/>
- <path opacity=".4" fill="#fff" d="m16 9v6h6l-6 10v-6h-6z"/>
- <path opacity=".2" fill="#fff" d="m16 2c-7.756 0-14 6.244-14 14 0 0.169 0.0254 0.333 0.0312 0.5 0.2636-7.5207 6.3815-13.5 13.969-13.5 7.5872 0 13.705 5.9793 13.969 13.5 0.006-0.16727 0.0312-0.33125 0.0312-0.5 0-7.756-6.244-14-14-14z"/>
- <path fill="#3f3f3f" d="m16 8v6h6l-6 10v-6h-6z"/>
- <path opacity=".2" d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.16884-0.01952-0.33264-0.02539-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"/>
- <circle opacity=".2" style="enable-background:new" fill-rule="evenodd" cy="24" cx="24" r="8"/>
- <circle style="enable-background:new" fill-rule="evenodd" cx="24" cy="23" r="8" fill="#4daaf5"/>
- <g transform="translate(3,2)" fill="#fff">
-  <rect y="20" x="19" height="6" width="3"/>
-  <rect y="16" x="19" height="3" width="3"/>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-power-statistics.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview24"
+     showgrid="true"
+     inkscape:zoom="11.98"
+     inkscape:cx="16"
+     inkscape:cy="26.126582"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4178" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="M 4.0508,32 C 4.039,32.334 4,32.662 4,33 4,48.512 16.488,61 32,61 47.512,61 60,48.512 60,33 c 0,-0.33768 -0.03904,-0.66528 -0.05078,-1 -0.528,15.042 -12.776,27 -27.95,27 -15.1744,0 -27.422,-11.958 -27.95,-27 z"
+     id="path12" />
+  <path
+     style="fill:#fecd38"
+     inkscape:connector-curvature="0"
+     d="M 32,4 C 16.488,4 4,16.488 4,32 4,47.512 16.488,60 32,60 47.512,60 60,47.512 60,32 60,16.488 47.512,4 32,4 Z"
+     id="path4" />
+  <path
+     style="opacity:0.4;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="m 32,17 0,12 12,0 -12,20 0,-12 -12,0 z"
+     id="path6" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 32 4 C 16.488 4 4 16.488 4 32 C 4 32.09835 4.0111931 32.193964 4.0175781 32.291016 C 4.3923777 17.110278 16.725784 5 32 5 C 47.27028 5 59.601553 17.104056 59.982422 32.279297 C 59.988351 32.186169 60 32.094265 60 32 C 60 16.488 47.512 4 32 4 z "
+     id="path8" />
+  <path
+     style="fill:#3f3f3f"
+     inkscape:connector-curvature="0"
+     d="m 32,16 0,12 12,0 -12,20 0,-12 -12,0 z"
+     id="path10" />
+  <circle
+     style="opacity:0.2;fill-rule:evenodd;enable-background:new"
+     cy="47"
+     cx="48"
+     r="16"
+     id="circle14" />
+  <circle
+     style="fill:#4daaf5;fill-rule:evenodd;enable-background:new"
+     cx="48"
+     cy="46"
+     r="16"
+     id="circle16" />
+  <g
+     style="fill:#ffffff"
+     transform="matrix(2,0,0,2,7,4)"
+     id="g18">
+    <rect
+       y="20"
+       x="19"
+       height="6"
+       width="3"
+       id="rect20" />
+    <rect
+       y="16"
+       x="19"
+       height="3"
+       width="3"
+       id="rect22" />
+  </g>
 </svg>

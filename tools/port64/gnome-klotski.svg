@@ -1,9 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <path fill="#f4c165" d="m16 2h12.5c0.831 0 1.5 0.669 1.5 1.5v12.5h-14z"/>
- <path fill="#f2ae37" d="m16 30h-12.5c-0.831 0-1.5-0.669-1.5-1.5v-12.5h14z"/>
- <rect rx="1" ry="1" height="8" width="8" y="19" x="19" fill="#6192f5"/>
- <rect rx="1" ry="1" height="8" width="8" y="5" x="5" fill="#3775f2"/>
- <path opacity=".2" fill="#fff" d="m16 2v1h12.5c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-12.5zm-10 3c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-6zm-4 11v1h14v-1h-14zm18 3c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-6z"/>
- <path opacity=".2" d="m5 12v1c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1zm11 4v1h14v-1h-14zm3 10v1c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1zm-17 2.5v1c0 0.831 0.669 1.5 1.5 1.5h12.5v-1h-12.5c-0.831 0-1.5-0.669-1.5-1.5z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-klotski.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="6.42"
+     inkscape:cx="-8.0677966"
+     inkscape:cy="16"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 10,23 0,2 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-2 c 0,1.108 -0.892,2 -2,2 l -12,0 c -1.108,0 -2,-0.892 -2,-2 z m 22,8 0,2 28,0 0,-2 -28,0 z m 6,20 0,2 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-2 c 0,1.108 -0.892,2 -2,2 l -12,0 c -1.108,0 -2,-0.892 -2,-2 z m -34,5 0,2 c 0,1.662 1.338,3 3,3 l 25,0 0,-2 -25,0 C 5.338,59 4,57.662 4,56 Z"
+     id="path14" />
+  <path
+     style="fill:#f4c165"
+     inkscape:connector-curvature="0"
+     d="m 32,4 25,0 c 1.662,0 3,1.338 3,3 l 0,25 -28,0 z"
+     id="path4" />
+  <path
+     style="fill:#f2ae37"
+     inkscape:connector-curvature="0"
+     d="M 32,60 7,60 C 5.338,60 4,58.662 4,57 l 0,-25 28,0 z"
+     id="path6" />
+  <rect
+     style="fill:#6192f5"
+     rx="2"
+     ry="2"
+     height="16"
+     width="16"
+     y="38"
+     x="38"
+     id="rect8" />
+  <rect
+     style="fill:#3775f2"
+     rx="2"
+     ry="2"
+     height="16"
+     width="16"
+     y="10"
+     x="10"
+     id="rect10" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 32 4 L 32 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 32 4 z M 12 10 C 10.892 10 10 10.892 10 12 L 10 13 C 10 11.892 10.892 11 12 11 L 24 11 C 25.108 11 26 11.892 26 13 L 26 12 C 26 10.892 25.108 10 24 10 L 12 10 z M 4 32 L 4 33 L 32 33 L 32 32 L 4 32 z M 40 38 C 38.892 38 38 38.892 38 40 L 38 41 C 38 39.892 38.892 39 40 39 L 52 39 C 53.108 39 54 39.892 54 41 L 54 40 C 54 38.892 53.108 38 52 38 L 40 38 z "
+     id="path12" />
 </svg>
