@@ -1,18 +1,133 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <path d="m6 3h20v10h-20z" fill="#848484"/>
- <rect rx="1.4" ry="1.417" height="17" width="28" y="12" x="2" fill="#5d5d5d"/>
- <g opacity=".2">
-  <rect opacity="1" height="2" width="16" y="16" x="8"/>
-  <rect opacity="1" height="2" width="12" y="20" x="10"/>
-  <rect opacity="1" height="2" width="8" y="24" x="12"/>
- </g>
- <path opacity=".1" fill="#fff" d="m3.4004 12c-0.7756 0-1.4004 0.631-1.4004 1.416v1c0-0.785 0.6248-1.416 1.4004-1.416h25.2c0.775 0 1.4 0.631 1.4 1.416v-1c0-0.785-0.625-1.416-1.4-1.416h-25.2z"/>
- <path opacity=".2" d="m2 27.584v1c0 0.785 0.6248 1.416 1.4004 1.416h25.2c0.775 0 1.4-0.631 1.4-1.416v-1c0 0.785-0.625 1.416-1.4 1.416h-25.2c-0.7752 0-1.4-0.631-1.4-1.416z"/>
- <path opacity=".2" fill="#fff" d="m6 3v1h20v-1h-20z"/>
- <circle opacity=".2" cy="24" cx="24" r="8"/>
- <circle cy="23" cx="24" r="8" fill="#e74c3c"/>
- <path d="m21 25.143 3.5 2.857 3.5-3h-2v-7h-3v7.1429z" fill="#fff"/>
- <rect opacity=".2" height="3" width="5" y="5" x="8"/>
- <rect opacity=".2" height="3" width="5" y="5" x="19"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="unetbootin.svg">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="29.167102"
+     inkscape:cy="23.510565"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#848484"
+     inkscape:connector-curvature="0"
+     d="m 12,6 40,0 0,20 -40,0 z"
+     id="path4" />
+  <rect
+     style="fill:#5d5d5d"
+     rx="2.8"
+     ry="2.8340001"
+     height="34"
+     width="56"
+     y="24"
+     x="4"
+     id="rect6" />
+  <g
+     style="opacity:0.2"
+     id="g8"
+     transform="scale(2,2)">
+    <rect
+       style="opacity:1"
+       height="2"
+       width="16"
+       y="16"
+       x="8"
+       id="rect10" />
+    <rect
+       style="opacity:1"
+       height="2"
+       width="12"
+       y="20"
+       x="10"
+       id="rect12" />
+    <rect
+       style="opacity:1"
+       height="2"
+       width="8"
+       y="24"
+       x="12"
+       id="rect14" />
+  </g>
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 6.8007812,24 C 5.2495813,24 4,25.262031 4,26.832031 l 0,1 C 4,26.262031 5.2495813,25 6.8007812,25 L 57.201172,25 C 58.751172,25 60,26.262031 60,27.832031 l 0,-1 C 60,25.262031 58.751172,24 57.201172,24 L 6.8007812,24 Z"
+     id="path16"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.2"
+     d="m 4,55.167969 0,1 C 4,57.737969 5.2496033,59 6.8007812,59 L 57.199219,59 C 58.749197,59 60,57.737969 60,56.167969 l 0,-1 C 60,56.737969 58.749197,58 57.199219,58 L 6.8007812,58 C 5.2496033,58 4,56.737969 4,55.167969 Z"
+     id="path18"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 12,6 12,7 52,7 52,6 12,6 Z"
+     id="path20"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:0.2"
+     cy="47"
+     cx="48"
+     r="16"
+     id="circle22" />
+  <circle
+     style="fill:#e74c3c"
+     cy="46"
+     cx="48"
+     r="16"
+     id="circle24" />
+  <path
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     d="m 42,50.286 7,5.714 7,-6 -4,0 0,-14 -6,0 0,14.2858 z"
+     id="path26" />
+  <rect
+     style="opacity:0.2"
+     height="6"
+     width="10"
+     y="10"
+     x="16"
+     id="rect28" />
+  <rect
+     style="opacity:0.2"
+     height="6"
+     width="10"
+     y="10"
+     x="38"
+     id="rect30" />
 </svg>
