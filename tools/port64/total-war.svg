@@ -1,13 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <g transform="matrix(.875 0 0 1.05 2 -.3)">
-  <path fill="#fec006" d="m16 6-6.8571 9.524-9.1429-9.524 1.1429 20h29.714l1.143-20-9.143 9.524z"/>
- </g>
- <rect transform="matrix(.6 -.8 .6 .8 0 0)" height="2.5" width="2.5" y="32.5" x="7.5" fill="#e82d2d"/>
- <rect transform="matrix(.55470 -.83205 .55470 .83205 0 0)" height="3.606" width="3.606" y="24.52" x=".72" fill="#e82d2d"/>
- <rect transform="matrix(.6 -.8 .6 .8 0 0)" height="2.5" width="2.5" y="16.67" x="-8.33" fill="#e82d2d"/>
- <g fill="#fff" transform="matrix(.875 0 0 1.05 2 -.3)">
-  <path opacity=".2" transform="matrix(1.1429 0 0 .95238 -2.2857 .28571)" d="m2 6 0.0508 1.0625 7.9492 9.9375 6-10 6 10 7.949-9.9375 0.051-1.0625-8 10-6-10-6 10-8-10z"/>
- </g>
- <path opacity=".2" d="m2.0001 7 1 21h26.001l1-21-0.051 0.0625-0.94904 19.938h-26.001l-0.94924-19.938-0.050802-0.062z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="total-war.svg">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview20"
+     showgrid="true"
+     inkscape:zoom="9.73"
+     inkscape:cx="17.988576"
+     inkscape:cy="24.221994"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4170" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="M 4.0001993,12.001705 6.0001181,54 58.000007,54 59.999926,12.001705 59.89793,12.1267 l -1.898003,39.874381 -51.9998889,0 L 4.1016352,12.1267 4.0000353,12.002705 Z"
+     id="path18" />
+  <g
+     transform="matrix(1.749929,0,0,2.0999147,3.9999993,-1.597702)"
+     id="g4">
+    <path
+       style="fill:#fec006"
+       inkscape:connector-curvature="0"
+       d="M 16,6 9.1429,15.524 0,6 l 1.1429,20 29.714,0 1.143,-20 -9.143,9.524 z"
+       id="path6" />
+  </g>
+  <rect
+     style="fill:#e82d2d"
+     transform="matrix(0.60000002,-0.79999999,0.60000002,0.79999999,0,0)"
+     height="4.9997969"
+     width="4.9997969"
+     y="64.373917"
+     x="15.623105"
+     id="rect8" />
+  <rect
+     style="fill:#e82d2d"
+     transform="matrix(0.55470022,-0.83205028,0.55470022,0.83205028,0,0)"
+     height="7.2117047"
+     width="7.2117047"
+     y="48.43858"
+     x="2.0396459"
+     id="rect10" />
+  <rect
+     style="fill:#e82d2d"
+     transform="matrix(0.60000002,-0.79999999,0.60000002,0.79999999,0,0)"
+     height="4.9997969"
+     width="4.9997969"
+     y="32.715202"
+     x="-16.03561"
+     id="rect12" />
+  <g
+     id="g4172"
+     transform="matrix(1.749929,0,0,2.0999147,3.9999993,-1.597702)"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.2">
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 4 11.001953 L 4.0507812 12.064453 L 20 32.001953 L 31.998047 12.001953 L 43.998047 32.001953 L 59.947266 12.064453 L 59.998047 11.001953 L 43.998047 31.001953 L 31.998047 11.001953 L 20 31.001953 L 4 11.001953 z "
+       transform="matrix(0.57145176,0,0,0.47620982,-2.2858066,0.76084138)"
+       id="path4174" />
+  </g>
+  <g
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     transform="matrix(1.749929,0,0,2.0999147,3.9999993,-0.5977822)"
+     id="g4176" />
 </svg>
