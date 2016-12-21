@@ -1,306 +1,2427 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-26" x="18" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-26" x="10" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-26" x="4" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-26" x="6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-24" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="10" x="8" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-16" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-14" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-4" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-16" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-4" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-14" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="2" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="6" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="8" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-22" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="6" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="2" x="6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-10" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-6" fill="#6e6e6e"/>
- <path fill="#828282" d="m4 2h-0.5s-1.5 0-1.5 1.5v0.5h2z"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="12" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="12" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="12" x="6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="10" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="10" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="10" x="6" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="8" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="6" x="16" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-12" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-8" fill="#6e6e6e"/>
- <path fill="#6e6e6e" d="m12 2h-2v2h2z"/>
- <rect ry="0" height="2" width="2" y="24" x="2" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="24" x="12" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="24" x="22" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-14" x="2" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-14" x="12" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-14" x="14" fill="#6e6e6e"/>
- <rect transform="scale(-1)" ry="0" height="2" width="2" y="-14" x="-10" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-14" x="22" fill="#6e6e6e"/>
- <path fill="#6e6e6e" d="m2 28.5v-0.5h2v2h-0.5s-1.5 0-1.5-1.5z"/>
- <rect ry="0" height="2" width="2" y="28" x="12" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-24" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-10" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-8" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-12" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-20" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="28" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="28" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="28" x="6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-14" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-4" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="26" x="22" fill="#6e6e6e"/>
- <rect transform="scale(-1)" ry="0" height="2" width="2" y="-26" x="-26" fill="#6e6e6e"/>
- <rect transform="scale(-1)" ry="0" height="2" width="2" y="-26" x="-22" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-26" x="14" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-20" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="10" x="26" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="10" x="28" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="8" x="18" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-28" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="14" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="16" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="4" x="18" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-30" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-30" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="2" x="18" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-26" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-18" fill="#6e6e6e"/>
- <path fill="#6e6e6e" d="m16 2h-2v2h2z"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-26" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="12" x="-22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-26" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="10" x="-22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-24" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-26" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-24" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-14" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="6" x="24" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="2" x="12" fill="#6e6e6e"/>
- <path fill="#6e6e6e" d="m30 3.5c0-1.5-1.5-1.5-1.5-1.5h-0.5v2h2z"/>
- <rect ry="0" height="2" width="2" y="2" x="22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-30" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-18" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1)" height="2" width="2" y="-14" x="-30" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1)" height="2" width="2" y="-14" x="-28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-14" x="18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="28" x="16" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-26" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-16" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="26" x="20" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="26" x="24" fill="#6e6e6e"/>
- <path fill="#828282" d="m30 28.5v-0.5h-2v2h0.5s1.5 0 1.5-1.5z"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="28" x="-22" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="28" x="14" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-30" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="26" x="-18" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="28" x="-20" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="20" x="-18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="20" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="20" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="20" x="6" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="8" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="22" x="-4" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-22" x="2" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-22" x="12" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-22" x="14" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1)" height="2" width="2" y="-22" x="-10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="12" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="22" x="-8" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="4" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="22" x="-20" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="16" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-22" x="18" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="22" x="-16" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="26" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="18" x="-18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="18" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-26" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-30" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-22" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="2" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="14" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="8" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="18" x="6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-12" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="18" x="-14" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="20" x="-26" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-22" x="20" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(1,-1)" height="2" width="2" y="-22" x="22" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="20" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="22" x="-28" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="20" x="-30" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="22" x="24" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-22" x="26" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="22" x="-24" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="16" x="18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="16" x="12" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="16" x="14" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-18" x="10" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-18" x="20" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-18" x="22" fill="#6e6e6e"/>
- <rect transform="scale(-1)" ry="0" height="2" width="2" y="-18" x="-18" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="10" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="12" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="22" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="16" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="14" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="14" x="-20" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="14" x="-22" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1)" height="2" width="2" y="-18" x="-26" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="16" x="-30" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="16" x="-28" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="28" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="14" x="-28" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="24" fill="#6e6e6e"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="14" x="-6" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1)" height="2" width="2" y="-16" x="-10" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1)" height="2" width="2" y="-16" x="-8" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-18" x="8" fill="#6e6e6e"/>
- <rect transform="scale(-1)" ry="0" height="2" width="2" y="-18" x="-8" fill="#6e6e6e"/>
- <rect transform="scale(1,-1)" ry="0" height="2" width="2" y="-18" x="4" fill="#6e6e6e"/>
- <rect ry="0" height="2" width="2" y="14" x="2" fill="#6e6e6e"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="16" x="-4" fill="#6e6e6e"/>
- <g fill="#828282">
-  <g>
-   <rect ry="0" height="2" width="2" y="8" x="4"/>
-   <rect ry="0" height="2" width="2" y="8" x="12"/>
-   <rect ry="0" height="2" width="2" y="6" x="2"/>
-   <rect ry="0" height="2" width="2" y="6" x="14"/>
-   <rect ry="0" height="2" width="2" y="6" x="6"/>
-   <rect ry="0" height="2" width="2" y="8" x="20"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-18"/>
-   <rect ry="0" height="2" width="2" y="6" x="10"/>
-   <rect ry="0" height="2" width="2" y="6" x="26"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-20"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-30"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-10"/>
-   <rect ry="0" height="2" width="2" y="6" x="22"/>
-   <rect ry="0" height="2" width="2" y="8" x="24"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="karbon.svg">
+  <metadata
+     id="metadata600">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs598" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview596"
+     showgrid="true"
+     inkscape:zoom="7.9"
+     inkscape:cx="-2.2425488"
+     inkscape:cy="24.221994"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5325" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 4,56 0,2 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 L 7,59 C 5.338,59 4,57.662 4,56 Z"
+     id="path594" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-52"
+     x="36"
+     id="rect4" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-52"
+     x="20"
+     id="rect6" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-52"
+     x="8"
+     id="rect8" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-52"
+     x="12"
+     id="rect10" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-48"
+     id="rect12" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="20"
+     x="16"
+     id="rect14" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-32"
+     id="rect16" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-28"
+     id="rect18" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-8"
+     id="rect20" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="16"
+     x="-32"
+     id="rect22" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="16"
+     x="-8"
+     id="rect24" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="12"
+     x="-28"
+     id="rect26" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="4"
+     id="rect28" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="8"
+     id="rect30" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="12"
+     id="rect32" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="16"
+     id="rect34" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="12"
+     x="-44"
+     id="rect36" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="12"
+     x="8"
+     id="rect38" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="12"
+     id="rect40" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-20"
+     id="rect42" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-12"
+     id="rect44" />
+  <path
+     style="fill:#828282"
+     inkscape:connector-curvature="0"
+     d="M 8,4 7,4 C 7,4 4,4 4,7 l 0,1 4,0 z"
+     id="path46" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="24"
+     x="-36"
+     id="rect48" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="24"
+     x="20"
+     id="rect50" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="24"
+     x="8"
+     id="rect52" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="24"
+     x="12"
+     id="rect54" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-36"
+     id="rect56" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="20"
+     x="20"
+     id="rect58" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="20"
+     x="8"
+     id="rect60" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="20"
+     x="12"
+     id="rect62" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="16"
+     x="20"
+     id="rect64" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="12"
+     x="32"
+     id="rect66" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-24"
+     id="rect68" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="16"
+     x="-16"
+     id="rect70" />
+  <path
+     style="fill:#6e6e6e"
+     inkscape:connector-curvature="0"
+     d="m 24,4 -4,0 0,4 4,0 z"
+     id="path72" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="4"
+     id="rect74" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="24"
+     id="rect76" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-20"
+     id="rect78" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="44"
+     id="rect80" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-28"
+     x="4"
+     id="rect82" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-28"
+     x="24"
+     id="rect84" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-28"
+     x="28"
+     id="rect86" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-28"
+     x="-20"
+     id="rect88" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-28"
+     x="44"
+     id="rect90" />
+  <path
+     style="fill:#6e6e6e"
+     inkscape:connector-curvature="0"
+     d="m 4,57 0,-1 4,0 0,4 -1,0 c 0,0 -3,0 -3,-3 z"
+     id="path92" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="24"
+     id="rect94" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="56"
+     x="-48"
+     id="rect96" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="56"
+     x="-20"
+     id="rect98" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-16"
+     id="rect100" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-12"
+     id="rect102" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-24"
+     id="rect104" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-40"
+     id="rect106" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="20"
+     id="rect108" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="8"
+     id="rect110" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="12"
+     id="rect112" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-28"
+     id="rect114" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-8"
+     id="rect116" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-20"
+     id="rect118" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="44"
+     id="rect120" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-52"
+     x="-52"
+     id="rect122" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-52"
+     x="-44"
+     id="rect124" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-52"
+     x="28"
+     id="rect126" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-40"
+     id="rect128" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="20"
+     x="52"
+     id="rect130" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="20"
+     x="56"
+     id="rect132" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="16"
+     x="36"
+     id="rect134" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="16"
+     x="-56"
+     id="rect136" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="28"
+     id="rect138" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="32"
+     id="rect140" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="36"
+     id="rect142" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-60"
+     id="rect144" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-56"
+     id="rect146" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="12"
+     x="-60"
+     id="rect148" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="36"
+     id="rect150" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-52"
+     id="rect152" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-56"
+     id="rect154" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-36"
+     id="rect156" />
+  <path
+     style="fill:#6e6e6e"
+     inkscape:connector-curvature="0"
+     d="m 32,4 -4,0 0,4 4,0 z"
+     id="path158" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="24"
+     x="-52"
+     id="rect160" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="24"
+     x="-44"
+     id="rect162" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-52"
+     id="rect164" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="20"
+     x="-44"
+     id="rect166" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="16"
+     x="-48"
+     id="rect168" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-52"
+     id="rect170" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-48"
+     id="rect172" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-44"
+     id="rect174" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-28"
+     id="rect176" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="12"
+     x="48"
+     id="rect178" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="12"
+     x="-20"
+     id="rect180" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="24"
+     id="rect182" />
+  <path
+     style="fill:#6e6e6e"
+     inkscape:connector-curvature="0"
+     d="M 60,7 C 60,4 57,4 57,4 l -1,0 0,4 4,0 z"
+     id="path184" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="44"
+     id="rect186" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-44"
+     id="rect188" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-60"
+     id="rect190" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-56"
+     id="rect192" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-36"
+     id="rect194" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,-1)"
+     height="4"
+     width="4"
+     y="-28"
+     x="-60"
+     id="rect196" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,-1)"
+     height="4"
+     width="4"
+     y="-28"
+     x="-56"
+     id="rect198" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-28"
+     x="36"
+     id="rect200" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="32"
+     id="rect202" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="56"
+     x="-56"
+     id="rect204" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="56"
+     x="-52"
+     id="rect206" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-32"
+     id="rect208" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="40"
+     id="rect210" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="48"
+     id="rect212" />
+  <path
+     style="fill:#828282"
+     inkscape:connector-curvature="0"
+     d="m 60,57 0,-1 -4,0 0,4 1,0 c 0,0 3,0 3,-3 z"
+     id="path214" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="56"
+     x="-44"
+     id="rect216" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="28"
+     id="rect218" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-60"
+     id="rect220" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-56"
+     id="rect222" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="52"
+     x="-36"
+     id="rect224" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="-40"
+     id="rect226" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="40"
+     x="-36"
+     id="rect228" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="40"
+     x="20"
+     id="rect230" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="40"
+     x="8"
+     id="rect232" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="40"
+     x="12"
+     id="rect234" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="16"
+     id="rect236" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="44"
+     x="-8"
+     id="rect238" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-44"
+     x="4"
+     id="rect240" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-44"
+     x="24"
+     id="rect242" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-44"
+     x="28"
+     id="rect244" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,-1)"
+     height="4"
+     width="4"
+     y="-44"
+     x="-20"
+     id="rect246" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="24"
+     id="rect248" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="-16"
+     id="rect250" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="20"
+     id="rect252" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="8"
+     id="rect254" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="-40"
+     id="rect256" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="32"
+     id="rect258" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-44"
+     x="36"
+     id="rect260" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="-32"
+     id="rect262" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="52"
+     id="rect264" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="-36"
+     id="rect266" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="36"
+     id="rect268" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="36"
+     x="-52"
+     id="rect270" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="44"
+     id="rect272" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="36"
+     x="-60"
+     id="rect274" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="36"
+     x="-44"
+     id="rect276" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="4"
+     id="rect278" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="8"
+     id="rect280" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="28"
+     id="rect282" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="16"
+     id="rect284" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="36"
+     x="12"
+     id="rect286" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="36"
+     x="-24"
+     id="rect288" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="36"
+     x="-28"
+     id="rect290" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="40"
+     x="-52"
+     id="rect292" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="56"
+     id="rect294" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-44"
+     x="40"
+     id="rect296" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(1,-1)"
+     height="4"
+     width="4"
+     y="-44"
+     x="44"
+     id="rect298" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="40"
+     id="rect300" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="-56"
+     id="rect302" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="40"
+     x="-60"
+     id="rect304" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="48"
+     id="rect306" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-44"
+     x="52"
+     id="rect308" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="-48"
+     id="rect310" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="32"
+     x="36"
+     id="rect312" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="32"
+     x="24"
+     id="rect314" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="32"
+     x="28"
+     id="rect316" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="20"
+     id="rect318" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="40"
+     id="rect320" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="44"
+     id="rect322" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="-36"
+     id="rect324" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="20"
+     id="rect326" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="24"
+     id="rect328" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="44"
+     id="rect330" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="32"
+     id="rect332" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="28"
+     id="rect334" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="-40"
+     id="rect336" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="-44"
+     id="rect338" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,-1)"
+     height="4"
+     width="4"
+     y="-36"
+     x="-52"
+     id="rect340" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="32"
+     x="-60"
+     id="rect342" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="32"
+     x="-56"
+     id="rect344" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="56"
+     id="rect346" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="28"
+     x="-56"
+     id="rect348" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="48"
+     id="rect350" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="-12"
+     id="rect352" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,-1)"
+     height="4"
+     width="4"
+     y="-32"
+     x="-20"
+     id="rect354" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,-1)"
+     height="4"
+     width="4"
+     y="-32"
+     x="-16"
+     id="rect356" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="16"
+     id="rect358" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(-1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="-16"
+     id="rect360" />
+  <rect
+     style="fill:#6e6e6e"
+     transform="scale(1,-1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="-36"
+     x="8"
+     id="rect362" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     height="4"
+     width="4"
+     y="28"
+     x="4"
+     id="rect364" />
+  <rect
+     style="fill:#6e6e6e"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="32"
+     x="-8"
+     id="rect366" />
+  <g
+     style="fill:#828282"
+     id="g368"
+     transform="scale(2,2)">
+    <g
+       id="g370">
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="4"
+         id="rect372" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="12"
+         id="rect374" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="2"
+         id="rect376" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="14"
+         id="rect378" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="6"
+         id="rect380" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="20"
+         id="rect382" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="8"
+         x="-18"
+         id="rect384" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="10"
+         id="rect386" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="26"
+         id="rect388" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="6"
+         x="-20"
+         id="rect390" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="8"
+         x="-30"
+         id="rect392" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="8"
+         x="-10"
+         id="rect394" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="22"
+         id="rect396" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="24"
+         id="rect398" />
+    </g>
+    <g
+       transform="translate(0,4)"
+       id="g400">
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="4"
+         id="rect402" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="12"
+         id="rect404" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="2"
+         id="rect406" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="14"
+         id="rect408" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="6"
+         id="rect410" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="20"
+         id="rect412" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="-18"
+         id="rect414" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="10"
+         id="rect416" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="26"
+         id="rect418" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="-20"
+         id="rect420" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="-30"
+         id="rect422" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="-10"
+         id="rect424" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="22"
+         id="rect426" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="24"
+         id="rect428" />
+    </g>
   </g>
-  <g transform="translate(0,4)">
-   <rect ry="0" height="2" width="2" y="8" x="4"/>
-   <rect ry="0" height="2" width="2" y="8" x="12"/>
-   <rect ry="0" height="2" width="2" y="6" x="2"/>
-   <rect ry="0" height="2" width="2" y="6" x="14"/>
-   <rect ry="0" height="2" width="2" y="6" x="6"/>
-   <rect ry="0" height="2" width="2" y="8" x="20"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="8" x="-18"/>
-   <rect ry="0" height="2" width="2" y="6" x="10"/>
-   <rect ry="0" height="2" width="2" y="6" x="26"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="6" x="-20"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="8" x="-30"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="8" x="-10"/>
-   <rect ry="0" height="2" width="2" y="6" x="22"/>
-   <rect ry="0" height="2" width="2" y="8" x="24"/>
+  <g
+     style="fill:#828282"
+     transform="matrix(2,0,0,2,0,16)"
+     id="g430">
+    <g
+       id="g432">
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="4"
+         id="rect434" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="12"
+         id="rect436" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="2"
+         id="rect438" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="14"
+         id="rect440" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="6"
+         id="rect442" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="20"
+         id="rect444" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="-18"
+         id="rect446" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="10"
+         id="rect448" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="26"
+         id="rect450" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="-20"
+         id="rect452" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="-30"
+         id="rect454" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="-10"
+         id="rect456" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="22"
+         id="rect458" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="24"
+         id="rect460" />
+    </g>
+    <g
+       transform="translate(0,4)"
+       id="g462">
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="4"
+         id="rect464" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="12"
+         id="rect466" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="2"
+         id="rect468" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="14"
+         id="rect470" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="6"
+         id="rect472" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="20"
+         id="rect474" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="8"
+         x="-18"
+         id="rect476" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="10"
+         id="rect478" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="26"
+         id="rect480" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="6"
+         x="-20"
+         id="rect482" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="8"
+         x="-30"
+         id="rect484" />
+      <rect
+         ry="0"
+         transform="scale(-1,1)"
+         height="2"
+         width="2"
+         y="8"
+         x="-10"
+         id="rect486" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="6"
+         x="22"
+         id="rect488" />
+      <rect
+         ry="0"
+         height="2"
+         width="2"
+         y="8"
+         x="24"
+         id="rect490" />
+    </g>
   </g>
- </g>
- <g fill="#828282" transform="translate(0,8)">
-  <g>
-   <rect ry="0" height="2" width="2" y="8" x="4"/>
-   <rect ry="0" height="2" width="2" y="8" x="12"/>
-   <rect ry="0" height="2" width="2" y="6" x="2"/>
-   <rect ry="0" height="2" width="2" y="6" x="14"/>
-   <rect ry="0" height="2" width="2" y="6" x="6"/>
-   <rect ry="0" height="2" width="2" y="8" x="20"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="8" x="-18"/>
-   <rect ry="0" height="2" width="2" y="6" x="10"/>
-   <rect ry="0" height="2" width="2" y="6" x="26"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="6" x="-20"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="8" x="-30"/>
-   <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="8" x="-10"/>
-   <rect ry="0" height="2" width="2" y="6" x="22"/>
-   <rect ry="0" height="2" width="2" y="8" x="24"/>
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="8"
+     id="rect492" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="24"
+     id="rect494" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="4"
+     id="rect496" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="28"
+     id="rect498" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="12"
+     id="rect500" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="40"
+     id="rect502" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-36"
+     id="rect504" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="20"
+     id="rect506" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="52"
+     id="rect508" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="44"
+     x="-40"
+     id="rect510" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-60"
+     id="rect512" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="48"
+     x="-20"
+     id="rect514" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="44"
+     x="44"
+     id="rect516" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="48"
+     x="48"
+     id="rect518" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="8"
+     id="rect520" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="24"
+     id="rect522" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="4"
+     id="rect524" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="28"
+     id="rect526" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="12"
+     id="rect528" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="40"
+     id="rect530" />
+  <rect
+     style="fill:#828282"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="-36"
+     id="rect532" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="20"
+     id="rect534" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="52"
+     id="rect536" />
+  <rect
+     style="fill:#828282"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="-40"
+     id="rect538" />
+  <rect
+     style="fill:#828282"
+     transform="scale(-1,1)"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="-20"
+     id="rect540" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="52"
+     x="44"
+     id="rect542" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="56"
+     x="48"
+     id="rect544" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="8"
+     id="rect546" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="24"
+     id="rect548" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="28"
+     id="rect550" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="12"
+     id="rect552" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="40"
+     id="rect554" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-36"
+     id="rect556" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="20"
+     id="rect558" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="52"
+     id="rect560" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="4"
+     x="-40"
+     id="rect562" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-60"
+     id="rect564" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     transform="scale(-1,1)"
+     height="4"
+     width="4"
+     y="8"
+     x="-20"
+     id="rect566" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="4"
+     x="44"
+     id="rect568" />
+  <rect
+     style="fill:#828282"
+     ry="0"
+     height="4"
+     width="4"
+     y="8"
+     x="48"
+     id="rect570" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 8 C 4 6.338 5.338 5 7 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 7 4 z "
+     id="path572" />
+  <path
+     style="fill:none;stroke:#ff80ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     d="m 10,18 c 0,0 15.659,1.20594 20,6.0008 3.3334,3.6818 -3.2126,10.2112 0,13.9992 4.2716,5.0366 20,8 20,8"
+     id="path574" />
+  <g
+     style="opacity:0.2"
+     transform="matrix(2,0,0,2,0,1)"
+     id="g576">
+    <circle
+       cy="9"
+       cx="5"
+       r="1"
+       id="circle578" />
+    <circle
+       cy="23"
+       cx="24"
+       r="4"
+       id="circle580" />
+    <circle
+       cy="19"
+       cx="15"
+       r="3"
+       id="circle582" />
+    <circle
+       cy="12"
+       cx="15"
+       r="2"
+       id="circle584" />
   </g>
-  <g transform="translate(0,4)">
-   <rect ry="0" height="2" width="2" y="8" x="4"/>
-   <rect ry="0" height="2" width="2" y="8" x="12"/>
-   <rect ry="0" height="2" width="2" y="6" x="2"/>
-   <rect ry="0" height="2" width="2" y="6" x="14"/>
-   <rect ry="0" height="2" width="2" y="6" x="6"/>
-   <rect ry="0" height="2" width="2" y="8" x="20"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-18"/>
-   <rect ry="0" height="2" width="2" y="6" x="10"/>
-   <rect ry="0" height="2" width="2" y="6" x="26"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="6" x="-20"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-30"/>
-   <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="8" x="-10"/>
-   <rect ry="0" height="2" width="2" y="6" x="22"/>
-   <rect ry="0" height="2" width="2" y="8" x="24"/>
-  </g>
- </g>
- <rect ry="0" height="2" width="2" y="24" x="4" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="24" x="12" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="22" x="2" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="22" x="14" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="22" x="6" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="24" x="20" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-18" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="22" x="10" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="22" x="26" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="22" x="-20" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-30" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="24" x="-10" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="22" x="22" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="24" x="24" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="28" x="4" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="28" x="12" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="26" x="2" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="26" x="14" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="26" x="6" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="28" x="20" fill="#828282"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="28" x="-18" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="26" x="10" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="26" x="26" fill="#828282"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="26" x="-20" fill="#828282"/>
- <rect transform="scale(-1,1)" ry="0" height="2" width="2" y="28" x="-10" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="26" x="22" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="28" x="24" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="4" x="4" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="4" x="12" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="2" x="14" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="2" x="6" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="4" x="20" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-18" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="2" x="10" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="2" x="26" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="2" x="-20" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-30" fill="#828282"/>
- <rect ry="0" transform="scale(-1,1)" height="2" width="2" y="4" x="-10" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="2" x="22" fill="#828282"/>
- <rect ry="0" height="2" width="2" y="4" x="24" fill="#828282"/>
- <path opacity=".2" fill="#fff" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
- <path stroke-linejoin="round" d="m5 9s7.8295 0.60297 10 3.0004c1.6667 1.8409-1.6063 5.1056 0 6.9996 2.1358 2.5183 10 4 10 4" stroke="#ff80ff" stroke-linecap="round" fill="none"/>
- <g opacity=".2" transform="translate(0,1)">
-  <circle cy="9" cx="5" r="1"/>
-  <circle cy="23" cx="24" r="4"/>
-  <circle cy="19" cx="15" r="3"/>
-  <circle cy="12" cx="15" r="2"/>
- </g>
- <circle cy="9" cx="5" r="1" fill="#fff"/>
- <circle cy="23" cx="24" r="4" fill="#fff"/>
- <circle cy="19" cx="15" r="3" fill="#fff"/>
- <circle cy="12" cx="15" r="2" fill="#fff"/>
- <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+  <circle
+     style="fill:#ffffff"
+     cy="18"
+     cx="10"
+     r="2"
+     id="circle586" />
+  <circle
+     style="fill:#ffffff"
+     cy="46"
+     cx="48"
+     r="8"
+     id="circle588" />
+  <circle
+     style="fill:#ffffff"
+     cy="38"
+     cx="30"
+     r="6"
+     id="circle590" />
+  <circle
+     style="fill:#ffffff"
+     cy="24"
+     cx="30"
+     r="4"
+     id="circle592" />
 </svg>

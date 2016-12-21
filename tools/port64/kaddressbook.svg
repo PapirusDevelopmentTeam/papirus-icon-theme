@@ -1,16 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <rect opacity=".2" rx="2" ry="2" height="24" width="28" y="5" x="2"/>
- <rect rx="2" ry="2" height="24" width="28" y="4" x="2" fill="#816130"/>
- <g opacity=".2" transform="translate(0 .99967)">
-  <path style="color:#000000;" d="m12 10c1.6569 0 3 1.3432 3 3s-1.3431 3-3 3-3-1.3432-3-3 1.3431-3 3-3z"/>
-  <path style="color:#000000;" d="m12 17.667c6-0.003 6 4 6 4v0.99933h-12v-0.99933s0-3.9973 6.0002-4.0007z"/>
-  <path style="color:#000000;" d="m22 10c1.105 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2c0-1.1045 0.89543-2 2-2z"/>
-  <path style="color:#000000;" d="m22 15c4-0.002 4 3.201 4 3.201v0.799h-8v-0.79946s0-3.1979 4.0002-3.2005z"/>
- </g>
- <path fill="#fff" d="m12 10c1.6569 0 3 1.3432 3 3s-1.3431 3-3 3-3-1.3432-3-3 1.3431-3 3-3z"/>
- <path fill="#fff" d="m12 17.667c6-0.003 6 4 6 4v0.99933h-12v-0.99933s0-3.9973 6.0002-4.0007z"/>
- <path fill="#fff" d="m22 10c1.105 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2c0-1.1045 0.89543-2 2-2z"/>
- <path fill="#fff" d="m22 15c4-0.002 4 3.201 4 3.201v0.799h-8v-0.79946s0-3.1979 4.0002-3.2005z"/>
- <path opacity=".2" fill="#fff" d="m4 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h24c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-24z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kaddressbook.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview28"
+     showgrid="true"
+     inkscape:zoom="15.81"
+     inkscape:cx="28.861353"
+     inkscape:cy="21.060089"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4189" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.2"
+     rx="4"
+     ry="4"
+     height="48"
+     width="56"
+     y="9"
+     x="4"
+     id="rect4" />
+  <rect
+     style="fill:#816130"
+     rx="4"
+     ry="4"
+     height="48"
+     width="56"
+     y="8"
+     x="4"
+     id="rect6" />
+  <path
+     sodipodi:nodetypes="sssssssssscccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path4194"
+     d="m 24,21 c -3.3138,0 -6,2.6864 -6,6 0,3.3136 2.6862,6 6,6 3.3138,0 6,-2.6864 6,-6 0,-3.3136 -2.6862,-6 -6,-6 z m 20,0 c -2.20914,0 -4,1.791 -4,4 0,2.21 1.79,4 4,4 2.21,0 4,-1.79 4,-4 0,-2.21 -1.79,-4 -4,-4 z m 0,10 c -8.0004,0.0052 -8,6.400391 -8,6.400391 L 36,39 52,39 52,37.402344 C 52,37.402344 52,30.996 44,31 Z M 24,36 C 11.9996,36.0068 12,44.333984 12,44.333984 L 12,46 36,46 36,44.333984 C 36,44.333984 36,35.994 24,36 Z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1" />
+  <path
+     style="fill:#ffffff"
+     d="m 24,20 c -3.3138,0 -6,2.6864 -6,6 0,3.3136 2.6862,6 6,6 3.3138,0 6,-2.6864 6,-6 0,-3.3136 -2.6862,-6 -6,-6 z m 20,0 c -2.20914,0 -4,1.791 -4,4 0,2.21 1.79,4 4,4 2.21,0 4,-1.79 4,-4 0,-2.21 -1.79,-4 -4,-4 z m 0,10 c -8.0004,0.0052 -8,6.400391 -8,6.400391 L 36,38 52,38 52,36.402344 C 52,36.402344 52,29.996 44,30 Z M 24,35 C 11.9996,35.0068 12,43.333984 12,43.333984 L 12,45 36,45 36,43.333984 C 36,43.333984 36,34.994 24,35 Z"
+     id="path18"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssssscccccccccccc" />
+  <path
+     style="opacity:0.2;fill:#ffffff"
+     d="M 8 8 C 5.784 8 4 9.784 4 12 L 4 13 C 4 10.784 5.784 9 8 9 L 56 9 C 58.216 9 60 10.784 60 13 L 60 12 C 60 9.784 58.216 8 56 8 L 8 8 z "
+     id="path26" />
 </svg>
