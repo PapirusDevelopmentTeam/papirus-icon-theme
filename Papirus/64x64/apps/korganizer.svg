@@ -3,7 +3,7 @@
  <rect style="opacity:0.2" rx="4" ry="4" height="48" width="56" y="9" x="4"/>
  <rect style="fill:#f13c3c" rx="4" ry="4" height="48" width="56" y="8" x="4"/>
  <g style="opacity:0.2" transform="matrix(2,0,0,2,0,1)">
-  <path style="fill:none;stroke:#000000;.17700005;stroke-linecap:round;stroke-linejoin:round" d="m 6.5929,13.231 1.2714,2.18 c 0.81026,-1.2023 1.7427,-2.7904 2.5428,-3.8158"/>
+  <path style="fill:none;stroke:#000000;stroke-width:1.17700005;stroke-linecap:round;stroke-linejoin:round" d="m 6.5929,13.231 1.2714,2.18 c 0.81026,-1.2023 1.7427,-2.7904 2.5428,-3.8158"/>
   <circle cy="9" cx="8" r="1"/>
   <rect rx="1" ry="1" height="2" width="13" y="8" x="12"/>
   <rect rx="1" ry="1" height="2" width="13" y="13" x="12"/>
@@ -13,7 +13,7 @@
   <circle cy="24" cx="8" r="1"/>
  </g>
  <g transform="scale(2,2)">
-  <path style="fill:none;stroke:#ffffff;.17700005;stroke-linecap:round;stroke-linejoin:round" d="m 6.5929,13.231 1.2714,2.18 c 0.81026,-1.2023 1.7427,-2.7904 2.5428,-3.8158"/>
+  <path style="fill:none;stroke:#ffffff;stroke-width:1.17700005;stroke-linecap:round;stroke-linejoin:round" d="m 6.5929,13.231 1.2714,2.18 c 0.81026,-1.2023 1.7427,-2.7904 2.5428,-3.8158"/>
   <circle style="fill:#ffffff" cy="9" cx="8" r="1"/>
   <rect style="fill:#ffffff" rx="1" ry="1" height="2" width="13" y="8" x="12"/>
   <rect style="fill:#ffffff" rx="1" ry="1" height="2" width="13" y="13" x="12"/>
