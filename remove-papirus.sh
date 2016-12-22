@@ -25,6 +25,7 @@ cat <<- EOF
 EOF
 
 echo "=> Removing $gh_desc ..."
+sudo rm -rf /usr/share/icons/ePapirus
 sudo rm -rf /usr/share/icons/Papirus
 sudo rm -rf /usr/share/icons/Papirus-Dark
 sudo rm -rf /usr/share/icons/Papirus-GTK
@@ -33,6 +34,7 @@ sudo rm -rf /usr/share/icons/papirus
 sudo rm -rf /usr/share/icons/papirus-dark
 sudo rm -rf /usr/share/icons/papirus-arc
 sudo rm -rf /usr/share/icons/papirus-arc-dark
+rm -rf ~/.icons/ePapirus
 rm -rf ~/.icons/Papirus
 rm -rf ~/.icons/Papirus-Dark
 rm -rf ~/.icons/Papirus-GTK

@@ -101,13 +101,6 @@ bubble-as-desktop-bg = 0
 
 Also you can change main launcher logo and unity-tweak-tool icons, see **extra** folder on icon theme.
 
-
-For elementary OS Loki users recommend use another color for panel icons with elementary GTK theme:
-```
-sudo sed -i.orig 's/color: #fff/color: #d3dae3/g' /usr/share/themes/elementary/gtk-3.0/apps.css
-```
-![elementary-fix](elementary-fix.png)
-
 # Icon request
 - Application name
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)

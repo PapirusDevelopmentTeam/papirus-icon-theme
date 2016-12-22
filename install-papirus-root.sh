@@ -32,6 +32,7 @@ wget -O "/tmp/$gh_repo.tar.gz" \
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
+sudo rm -rf /usr/share/icons/ePapirus
 sudo rm -rf /usr/share/icons/Papirus
 sudo rm -rf /usr/share/icons/Papirus-Dark
 sudo rm -rf /usr/share/icons/Papirus-GTK
@@ -42,8 +43,10 @@ sudo rm -rf /usr/share/icons/papirus-arc
 sudo rm -rf /usr/share/icons/papirus-arc-dark
 echo "=> Installing ..."
 sudo cp --no-preserve=mode,ownership -r \
+  "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" /usr/share/icons/
+sudo gtk-update-icon-cache -q "/usr/share/icons/ePapirus" || true
 sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus" || true
 sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus-Dark" || true
 echo "=> Clearing cache ..."
