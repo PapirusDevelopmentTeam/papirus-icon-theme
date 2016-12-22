@@ -32,6 +32,7 @@ wget -O "/tmp/$gh_repo.tar.gz" \
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
+rm -rf ~/.local/share/icons/ePapirus
 rm -rf ~/.local/share/icons/Papirus
 rm -rf ~/.local/share/icons/Papirus-Dark
 rm -rf ~/.local/share/icons/papirus
@@ -41,6 +42,7 @@ rm -rf ~/.local/share/icons/papirus-arc-dark
 echo "=> Installing ..."
 mkdir -p ~/.local/share/icons
 cp --no-preserve=mode,ownership -r \
+  "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" ~/.local/share/icons/
 echo "=> Clearing cache ..."
