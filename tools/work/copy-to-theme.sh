@@ -5,10 +5,9 @@ set -e
 SCRIPT_DIR=$(dirname "$0")
 TARGET_DIR="$SCRIPT_DIR/../.."
 
-FILES=$(find "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
-	-name '*.svg' -print)
+find "$SCRIPT_DIR/ePapirus" "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
+	-name '*.svg' | while read file; do
 
-for file in $FILES; do
 	src_dir=$(dirname "$file")
 	top_dir=$(dirname "$src_dir")
 	base_name=$(basename --suffix=".svg" "$file")

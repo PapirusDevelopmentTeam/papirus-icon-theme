@@ -36,11 +36,10 @@ case "$1" in
 		;;
 esac
 
-FILES=$(find "$TARGET_DIR/Papirus" "$TARGET_DIR/Papirus-Dark" \
-	-type f -name '*.svg' -print | grep "$CONTEXT_DIR" | \
-	grep -i "${2:?PATTERN not set!}")
+find "$TARGET_DIR/ePapirus" "$TARGET_DIR/Papirus" "$TARGET_DIR/Papirus-Dark" \
+	-type f -name '*.svg' | grep "$CONTEXT_DIR" | \
+	grep -i "${2:?PATTERN not set!}" | while read file; do
 
-for file in $FILES; do
 	src_dir=$(dirname "$file")
 	top_dir=$(dirname "$src_dir")
 
