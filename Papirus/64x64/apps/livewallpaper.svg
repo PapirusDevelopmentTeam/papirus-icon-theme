@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <path style="opacity:0.2" d="m 16.0002,51.376 0,2 c 0,1.454 1.1906,2.624 2.668,2.624 l 26.664,0 c 1.478,0 2.668,-1.17 2.668,-2.624 l 0,-2 c 0,1.454 -1.19,2.624 -2.668,2.624 l -26.664,0 c -1.4774,0 -2.668,-1.17 -2.668,-2.624 z"/>
+ <rect style="fill:#7e7e7e" transform="matrix(0,-1,-1,0,0,0)" rx="2.626" ry="2.666" height="32" width="42" y="-48" x="-55"/>
+ <path style="opacity:0.2" d="m 6.0002,45.5 0,2 c 0,1.384 1.1612,2.5 2.6016,2.5 l 46.796,0 c 1.44,0 2.602,-1.116 2.602,-2.5 l 0,-2 c 0,1.384 -1.162,2.5 -2.602,2.5 L 8.6018,48 C 7.161,48 5.9998,46.884 5.9998,45.5 Z"/>
+ <rect style="fill:#757575" ry="2.6" rx="2.5" transform="matrix(0,-1,-1,0,0,0)" height="52" width="40" y="-58" x="-49"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8.6015625 9 C 7.1611625 9 6 10.115 6 11.5 L 6 12.5 C 6 11.115 7.1611625 10 8.6015625 10 L 55.398438 10 C 56.838438 10 58 11.115 58 12.5 L 58 11.5 C 58 10.115 56.838438 9 55.398438 9 L 8.6015625 9 z"/>
+ <rect ry="0" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="44" width="32" y="-54" x="-45" style="fill:#6bc2e6;fill-opacity:1"/>
+ <path style="opacity:0.2;fill:#000000;fill-opacity:1" d="m 43.0002,16 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m -14,4 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -10,6 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 27.941406,8.941406 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z M 36.0002,36 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z"/>
+ <circle style="opacity:1;fill:#f0f9fd;fill-opacity:1" cx="43" cy="22" r="7"/>
+ <circle r="5" cy="30" cx="19" style="opacity:1;fill:#c4e7f5;fill-opacity:1"/>
+ <circle style="opacity:1;fill:#a6daf0;fill-opacity:1" cx="36" cy="39" r="4"/>
+ <circle r="3" cy="22" cx="29" style="opacity:1;fill:#c4e7f5;fill-opacity:1"/>
+ <circle r="2" cy="35.941" cx="46.941" style="opacity:1;fill:#d3edf8;fill-opacity:1"/>
+</svg>
