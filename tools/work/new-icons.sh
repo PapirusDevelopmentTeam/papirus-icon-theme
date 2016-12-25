@@ -19,7 +19,7 @@ case "$1" in
 		done
 		;;
 	devices|d*)
-		for size in '16x16' '22x22' '24x24' '32x32' '48x48'; do
+		for size in '16x16' '22x22' '24x24' '32x32' '48x48' '64x64'; do
 			cp -v "$_PAPIRUS_DIR/devices/_TEMPLATE@${size}.SVG" \
 				"$_PAPIRUS_DIR/devices/${2:-newicon}@${size}.svg"
 		done
