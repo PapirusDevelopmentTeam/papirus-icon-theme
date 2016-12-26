@@ -10,7 +10,7 @@
 </p>
 
 # About
-Papirus - free  and open source SVG icon theme for Linux systems, based on [Paper](https://github.com/snwh/paper-icon-theme) with more additionals ([hardcode-tray support](#hardcoded-tray-icons), [kde-color-scheme support](#kde-color-scheme), [libreoffice icon theme](https://github.com/PapirusDevelopmentTeam/papirus-libreoffice-theme), [filezilla theme](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes), [smplayer themes](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme) ...) and modifications. Available light and dark version for GTK and KDE.
+Papirus - A free  and open source SVG icon theme for Linux systems, based on [Paper](https://github.com/snwh/paper-icon-theme) with a few extras like ([hardcode-tray support](#hardcoded-tray-icons), [kde-color-scheme support](#kde-color-scheme), [libreoffice icon theme](https://github.com/PapirusDevelopmentTeam/papirus-libreoffice-theme), [filezilla theme](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes), [smplayer themes](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme) ...) and other modifications. The theme is available in two variants - light and dark. It is available for both, GTK and KDE.
 
 # Install / Update
 ## ROOT directory
@@ -27,7 +27,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-home-kde.sh | sh
 ```
 
-**Depends:**
+**Dependencies:**
 - wget
 - tar
 - libqt4-svg (optional, need for right work on Qt4-apps)
@@ -39,36 +39,36 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 # Hardcoded tray icons
 
-Papirus icon theme now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
+Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
-**NOTE:** For right work with Papirus icon theme use hardcode-tray option `--force-inkscape`:
+**NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--force-inkscape`:
 ```
 hardcode-tray --size 22 --force-inkscape
 ```
 ![hardcode-tray](hardcode-tray-preview.png)
 
 # KDE color scheme
-Now available support monochrome icons for KDE color scheme (with Breeze engine and supported Plasma Themes):
+Support for monochrome icons for KDE color scheme (with Breeze engine and supported Plasma Themes) is now available:
 - Papirus - for dark plasma theme & light window theme
 - Papirus Dark - for dark plasma theme & window theme or white plasma theme & window theme
 
 ![kde-color-scheme](kde-color-scheme.png)
 
-# Recommends
-- For GTK better use icons with GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
-- For KDE better use with [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
+# Recommendations
+- For GTK, better use icons alongside GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
+- For KDE, better use alongside [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
 
 # Manual fixes
-For Cinnamon users with Arc Dark better use another color for tray icons:
+For Cinnamon users with Arc Dark, use another color for tray icons for an optimal experience:
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
 ```
 ![cinnamon-fix](cinnamon-fix.png)
 
-Also increase panel size with text option - because on Papirus available for tray apps only 22px & 24px
+Also increase panel size with text option because Papirus is only available for tray apps with sizes of 22px & 24px.
 
 
-For Ubuntu users recommend use patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with icon size 33px
+For Ubuntu users, we recommend using patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with an icon size of 33px.
 
 **~/.notify-osd** example:
 ```
@@ -99,15 +99,15 @@ bubble-as-desktop-bg = 0
 ```
 ![notify-fix](notify-fix.png)
 
-Also you can change main launcher logo and unity-tweak-tool icons, see **extra** folder on icon theme.
+Also, you can change the logo of the main launcher and unity-tweak-tool icon. Check the **extra** folder in the icon theme.
 
 # Icon request
 - Application name
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
 - Original icon image
 
-# For newest designers and developers
-Papirus now have manual for easy development new icons. Please see this [info](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/tools/work)
+# For new designers and developers
+Papirus now has a manual to aid in easy development of new icons. Please see this [info](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/tools/work)
 
 # Donate
 If you like my project , you can donate:
