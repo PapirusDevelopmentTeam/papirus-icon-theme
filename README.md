@@ -99,7 +99,7 @@ bubble-as-desktop-bg = 0
 ```
 ![notify-fix](notify-fix.png)
 
-Also, you can change the logo of the main launcher and unity-tweak-tool icon. Check the **extra** folder in the icon theme.
+Also, you can change ubuntu logo of the main launcher and unity-tweak-tool icons. Check the **extra** folder in the icon theme.
 
 # Icon request
 - Application name
