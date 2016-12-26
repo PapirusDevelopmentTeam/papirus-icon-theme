@@ -1,44 +1,41 @@
-# FOR DEVELOPERS and DESIGNERS
-It's easy :)
+# For Developers and Designers
 
-First draw icons for Papirus icon theme only! For Papirus Dark use script for change colors.
+Designing icons for Papirus is easy :)
 
-**NOTE:** If you draw monochrome icon for Papirus, please add version for Papirus Dark too!
+You only need to draw icons for Papirus (Light theme) first. You can then use our script to change its colours for Papirus Dark.
+
+**NOTE:** If you draw monochrome icon for Papirus, please add a version for Papirus Dark too.
 
 ## Basic concepts
-Papirus - it's SVG-based icon theme for Linux with material and flat style.
+Papirus is a SVG-based icon theme for Linux, drawing inspiration from Material Design and flat design.
 
-All elements have clear distinction and outlines. Also main feature  - it's warm colors tone!
+All elements are clear, distinct and have outlines. Another main feature that distinguishes our theme is its use of warm color tones.
 
-PLEASE not use very bright and toxic colors for Papirus!!!
+Keeping this in mind, **please do not use** very bright and toxic colors for Papirus.
 
-Examples available on main icon theme folders. On **work** directory only templates and scripts.
+Examples are available in the main icon theme folders. On **work** directory, you'll only find templates and scripts.
 
 ### Main icons
-Now main icons have sizes 16px, 22px, 24px, 32px and 48px. Also available some 64px icons for Places and Mimes.
+Main icons have the following sizes: 16px, 22px, 24px, 32px and 48px. Also available are some 64px icons for Places and Mimes.
 
-> Why needed this more sizes  for SVG?
+> Why do we need so many sizes for a SVG?
 
-Because if use single size for all - icons will be blurred. All objects on Papirus have pixelated alignment.
+Because if we use a single size for all then the icons will be blurred. All objects on Papirus have pixelated alignment.
 
-**It's important!!!**
-
-For all icons use ONLY template, because this icons alredy have clear SVG code (and some needed objects)!
+**IMPORTANT:** For all new icons, **please stick to using the template.** This is because these icons alredy have clear SVG code (and some needed objects).
 
 ### Monochrome icons
-Papirus now support KDE color scheme for monochrome actions, devices, places and panel icons
+Papirus now also supports KDE color scheme for monochrome actions, devices, places and panel icons.
 
-More info about that [here](https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors)
+You can find more detailed info about that [here](https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors)
 
-Now support only icons:
+Presently we only support the following icons:
 - actions (16px, 22px, 24px)
 - devices (16px)
 - places (16px)
 - panel (22px, 24px)
 
-**It's important!!!**
-
-For monochrome icons use ONLY template and ONLY color pallete from template, because this icons have CSS style!!!
+**IMPORTANT:** For monochrome icons, **please stick to using the template and the color palette from the template.** This is because these icons have CSS style.
 
 ## System Requirements
 - inkscape
@@ -51,42 +48,42 @@ sudo apt update
 sudo apt install inkscape npm nodejs-legacy
 sudo npm install -g npm svgo
 ```
-## How doing this?
-Open directory **work** and choose need category. On this directory already available template files for development.
+## Recommended Workflow
+Open directory `work` and navigate to the relevant category directory. Within this directory you'll find template files, ready for development.
 
-Open on Inkscape template file and draw new icon and save on **work** category dir.
+Open the template file on Inkscape and draw the new icon and save it in the `work/category` dir.
 
 For example:
 ```
 work/Papirus/apps/abricotine@48x48.svg
 ```
-**NOTE**: Please not forgot add size suffix for icon name - it's needed for right work scripts. Use only lowercase registry for **.svg**.
+**NOTE:** Please do not forget to add size suffixes for icon name - it's needed for the scripts to work correctly. Use only lowercase registry for **.svg**.
 
-### Step by step for Papirus
-- open template file on Inkscape
-- delete not needed objects
-- draw new objects
-- save file as `name@size.svg` (use lowercase registry for **.svg**)
-- draw icons for other sizes
-- run script for clean and fix icons `tools/ffsvg.sh`
+### Step-by-step procedure
+- Open template file on Inkscape
+- Delete any objects you do not need
+- Draw new objects
+- Save file as `name@size.svg` (use lowercase registry for **.svg**)
+- Draw icons for other sizes
+- Run script for cleaning and fixing the icons: `tools/ffsvg.sh`
 
 For example:
 ```
 ./ffsvg.sh work/Papirus/apps
 ```
-- fine, your icon fixed and clear
-- now you can check icons
-- if all fine - copy icons to main icon theme folders, use script `tools/work/copy-to-theme.sh`:
+- Your icon shall be fixed and clear
+- Please check your icons again
+- If everything is fine then copy icons to main icon theme folders, using the script `tools/work/copy-to-theme.sh`:
 
 For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clean **work** directory, use script `tools/work/clean.sh`:
+- clean the `work` directory, using the script `tools/work/clean.sh`:
 ```
 ./clean.sh
 ```
-- all is ready! Now you can commit changes to GitHub
+- Everything is ready now! You can commit the changes to GitHub.
 
 ### Step by step for Papirus Dark
 **work/Papirus-Dark** have only monochrome icons with another CSS stylesheet.
