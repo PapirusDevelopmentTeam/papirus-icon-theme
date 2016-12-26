@@ -68,7 +68,7 @@ sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamo
 Also increase panel size with text option because Papirus is only available for tray apps with sizes of 22px & 24px.
 
 
-For Ubuntu users recommend use patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with icon size 33px
+For Ubuntu users, we recommend using patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik/+packages) with an icon size of 33px.
 
 **~/.notify-osd** example:
 ```
