@@ -2,9 +2,9 @@
 
 Designing icons for Papirus is easy :)
 
-You only need to draw icons for Papirus (Light theme) first. You can then use our script to change its colours for Papirus Dark.
+You only need to draw icons for Papirus (Light theme) first. You can then use our script to change its colors for Papirus Dark.
 
-**NOTE:** If you draw monochrome icon for Papirus, please add a version for Papirus Dark too.
+**NOTE:** If you draw a monochrome icon for Papirus, please add a version for Papirus Dark too.
 
 ## Basic concepts
 Papirus is a SVG-based icon theme for Linux, drawing inspiration from Material Design and flat design.
@@ -13,14 +13,14 @@ All elements are clear, distinct and have outlines. Another main feature that di
 
 Keeping this in mind, **please do not use** very bright and toxic colors for Papirus.
 
-Examples are available in the main icon theme folders. On **work** directory, you'll only find templates and scripts.
+Examples are available in the main icon theme folders. In the `work` directory, you'll only find templates and scripts.
 
 ### Main icons
 Main icons have the following sizes: 16px, 22px, 24px, 32px and 48px. Also available are some 64px icons for Places and Mimes.
 
 > Why do we need so many sizes for a SVG?
 
-Because if we use a single size for all then the icons will be blurred. All objects on Papirus have pixelated alignment.
+Because if we use a single size for all, then the icons will be blurred. All objects on Papirus have pixelated alignment.
 
 **IMPORTANT:** For all new icons, **please stick to using the template.** This is because these icons alredy have clear SVG code (and some needed objects).
 
@@ -85,29 +85,31 @@ For example:
 ```
 - Everything is ready now! You can commit the changes to GitHub.
 
-### Step by step for Papirus Dark
-**work/Papirus-Dark** have only monochrome icons with another CSS stylesheet.
-- initially draw icons for **work/Papirus** and run script from `tools/ffsvg.sh`
+### Step-by-step procedure for Papirus Dark
+`work/Papirus-Dark` only has monochrome icons with another CSS stylesheet.
+- Draw your icons for `work/Papirus` and run script `tools/ffsvg.sh` from `tools`.
 
 For example:
 ```
 ./ffsvg.sh work/Papirus/actions
 ```
-- now need copy files to **work/Papirus-Dark** with change colors and class - run script `tools/work/convert-to-dark.sh`
+- Copy the files to `work/Papirus-Dark` with the changed colors and class. For this, run script `tools/work/convert-to-dark.sh`
 
 For example:
 ```
 ./convert-to-dark.sh
 ```
-- check your work
-- copy all files to main icon theme, use script `tools/work/copy-to-theme.sh`
+- Check your work
+- Copy all files to main icon theme, using the script `tools/work/copy-to-theme.sh`
 
 For example:
 ```
 ./copy-app-to-theme.sh
 ```
-- clean **work** directory, use script `tools/work/clean.sh`:
+- Clean the `work*` directory using the script `tools/work/clean.sh.` 
+
+For example:
 ```
 ./clean.sh
 ```
-- all is ready! Now you can commit changes to GitHub
+- Everything is ready now! You can commit the changes to GitHub.
