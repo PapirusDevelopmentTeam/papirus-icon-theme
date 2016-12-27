@@ -2,7 +2,7 @@
 
 Designing icons for Papirus is easy :)
 
-You only need to draw icons for Papirus (Light theme) first and then use our script to convert colors for ePapirus and Papirus Dark.
+You only need to draw icons for Papirus (Light theme) and then use our script to convert colors for ePapirus and Papirus Dark.
 
 ## Basic concepts
 
@@ -12,7 +12,7 @@ All elements are clear, distinct and have outlines. Another main feature that di
 
 Keeping this in mind, **please do not use** very bright and toxic colors for Papirus.
 
-Examples are available in the main icon theme folders. On **work** directory, you'll only find templates and scripts.
+Examples are available in the main icon theme folders. In the `work` directory, you'll only find templates and scripts.
 
 #### Main icons
 
@@ -51,18 +51,18 @@ sudo npm install -g npm svgo
 
 ### 1. Getting Started
 
-Open directory `work` in a file manager and open a terminal at the directory, you can do it by a context menu entry `Open in Terminal` or `Action → Open Terminal Here`.
+Open directory `work` in a file manager and open a terminal at the directory. You can do it from the context menu entry `Open in Terminal` or `Action → Open Terminal Here`.
 
 - #### Create a new icon
 
-    Create a new icon from template using the script `tools/work/new-icons.sh`. For all new icons, **please stick to using the template.** This is because these icons already have some needed objects like a CSS stylesheet.
+    Create a new icon from the provided template using the script `tools/work/new-icons.sh`. For all new icons, **please stick to using the template.** This is because the template already has some needed objects, like a CSS stylesheet.
 
     ```
-    # for example
+    # For example
 
     ./new-icons.sh apps abricotine
 
-    # it creates files inside work directory
+    # It creates the required files inside work directory
     # ./Papirus/apps/abricotine@16x16.svg
     # ./Papirus/apps/abricotine@22x22.svg
     # ./Papirus/apps/abricotine@24x24.svg
@@ -73,21 +73,21 @@ Open directory `work` in a file manager and open a terminal at the directory, yo
 
 - #### Edit an existing icon
 
-    If you want modify an existing icon you can using the script `tools/work/copy-from-theme.sh`.
+    If you want modify an existing icon, you can do that using the script `tools/work/copy-from-theme.sh`.
 
     ```
-    # for example
+    # For example
 
     ./copy-from-theme.sh panel transmission-tray-icon.svg
 
-    # it copies files into work directory
+    # It copies files into work directory
     # ./Papirus/panel/transmission-tray-icon@22x22.svg
     # ./Papirus/panel/transmission-tray-icon@24x24.svg
     # ./Papirus-Dark/panel/transmission-tray-icon@22x22.svg
     # ./Papirus-Dark/panel/transmission-tray-icon@24x24.svg
     ```
 
-**IMPORTANT:** Please don't remove a suffix of filename, it's needed for other scripts. Filename extension must be in lowercase.
+**IMPORTANT:** Please don't remove suffixes from the filename as it's needed for other scripts. Filename extension must be in lowercase.
 
 ### 2. Papirus
 
@@ -100,28 +100,28 @@ Open directory `work` in a file manager and open a terminal at the directory, yo
 ### 3. Papirus Dark
 
 
-1. Run script `tools/work/convert-to-dark.sh`, it copies needed icons from `work/Papirus` to `work/Papirus-Dark` and change it colors.
+1. Run script `tools/work/convert-to-dark.sh`, it copies needed icons from `work/Papirus` to `work/Papirus-Dark` and changes its colors.
 
-    **IMPORTANT:** initially draw icons for Papirus.
+    **IMPORTANT:** Only draw icons for Papirus.
 
     ```
     ./convert-to-dark.sh
     ```
 
-2. Check result, edit manually if it needed.
+2. Check result and edit manually if needed.
 
 ### 4. ePapirus
 
 
-1. Run script `tools/work/convert-to-e.sh`, it copies needed icons from `work/Papirus` to `work/ePapirus` and change it colors.
+1. Run script `tools/work/convert-to-e.sh`. It copies needed icons from `work/Papirus` to `work/ePapirus` and changes its colors.
 
-    **IMPORTANT:** initially draw icons for Papirus.
+    **IMPORTANT:** Only draw icons for Papirus.
 
     ```
     ./convert-to-e.sh
     ```
 
-2. Check result, edit manually if it needed.
+2. Check result and edit manually if needed.
 
 ### 5. Final Steps
 
@@ -132,7 +132,7 @@ Open directory `work` in a file manager and open a terminal at the directory, yo
     ```
 
 2. Please check your icons again.
-3. If everything is fine then copy icons to main icon theme folders:
+3. If everything is fine then copy icons into main icon theme folders:
 
     ```
     ./copy-to-theme.sh
