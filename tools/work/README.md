@@ -62,7 +62,8 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
     ./new-icons.sh apps abricotine
 
-    # It creates the required files inside work directory
+    # It creates the following files inside work directory
+    # from the template files:
     # ./Papirus/apps/abricotine@16x16.svg
     # ./Papirus/apps/abricotine@22x22.svg
     # ./Papirus/apps/abricotine@24x24.svg
@@ -80,11 +81,14 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
     ./copy-from-theme.sh panel transmission-tray-icon.svg
 
-    # It copies files into work directory
-    # ./Papirus/panel/transmission-tray-icon@22x22.svg
-    # ./Papirus/panel/transmission-tray-icon@24x24.svg
-    # ./Papirus-Dark/panel/transmission-tray-icon@22x22.svg
-    # ./Papirus-Dark/panel/transmission-tray-icon@24x24.svg
+    # It copies following files into work directory from the
+    # main icon theme folders:
+    # './ePapirus/panel/transmission-tray-icon@22x22.svg'
+    # './ePapirus/panel/transmission-tray-icon@24x24.svg'
+    # './Papirus/panel/transmission-tray-icon@22x22.svg'
+    # './Papirus/panel/transmission-tray-icon@24x24.svg'
+    # './Papirus-Dark/panel/transmission-tray-icon@22x22.svg'
+    # './Papirus-Dark/panel/transmission-tray-icon@24x24.svg'
     ```
 
 **IMPORTANT:** Please don't remove suffixes from the filename as it's needed for other scripts. Filename extension must be in lowercase.
@@ -100,9 +104,9 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 ### 3. Papirus Dark
 
 
-1. Run script `tools/work/convert-to-dark.sh`, it copies needed icons from `work/Papirus` to `work/Papirus-Dark` and changes its colors.
+1. Run script `tools/work/convert-to-dark.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Dark` and changes its colors.
 
-    **IMPORTANT:** Only draw icons for Papirus.
+    **IMPORTANT:** You should draw icons for Papirus first.
 
     ```
     ./convert-to-dark.sh
@@ -115,7 +119,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 1. Run script `tools/work/convert-to-e.sh`. It copies needed icons from `work/Papirus` to `work/ePapirus` and changes its colors.
 
-    **IMPORTANT:** Only draw icons for Papirus.
+    **IMPORTANT:** You should draw icons for Papirus first.
 
     ```
     ./convert-to-e.sh
