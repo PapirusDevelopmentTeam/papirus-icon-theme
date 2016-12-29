@@ -43,7 +43,7 @@ Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussao
 
 **NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--force-inkscape`:
 ```
-hardcode-tray --size 22 --force-inkscape
+hardcode-tray --size 22 --conversion-tool Inkscape
 ```
 ![hardcode-tray](hardcode-tray-preview.png)
 
