@@ -58,9 +58,9 @@ Support for monochrome icons for KDE color scheme (with Breeze engine and suppor
 
 ![kde-color-scheme](kde-color-scheme.png)
 
-Also you can replace color tray icons for non-KDE apps by manually. For example (Breeze colors):
+**NOTE:** Non-KDE apps not support KDE color scheme on tray, but you can replace color by manually. For example:
 ```
-grep -rl d3dae3 ~/.local/share/icons/Papirus-Dark/22x22/panel | xargs sed -i -e 's/#d3dae3/#33393e/g'
+grep -rl d3dae3 ~/.local/share/icons/Papirus-Dark/22x22/panel | xargs sed -i -e 's/#d3dae3/#5c616c/g'
 ```
 
 # Recommendations
