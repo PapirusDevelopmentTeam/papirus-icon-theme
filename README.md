@@ -41,9 +41,13 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
-**NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--force-inkscape`:
+**NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool Inkscape`:
 ```
-hardcode-tray --size 22 --conversion-tool Inkscape
+hardcode-tray --conversion-tool Inkscape
+```
+or:
+```
+hardcode-tray -ct Inkscape
 ```
 ![hardcode-tray](hardcode-tray-preview.png)
 
