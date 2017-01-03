@@ -64,6 +64,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
     # It creates the following files inside work directory
     # from the template files:
+    #
     # ./Papirus/apps/abricotine@16x16.svg
     # ./Papirus/apps/abricotine@22x22.svg
     # ./Papirus/apps/abricotine@24x24.svg
@@ -83,6 +84,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
     # It copies following files into work directory from the
     # main icon theme folders:
+    #
     # './ePapirus/panel/transmission-tray-icon@22x22.svg'
     # './ePapirus/panel/transmission-tray-icon@24x24.svg'
     # './Papirus/panel/transmission-tray-icon@22x22.svg'
