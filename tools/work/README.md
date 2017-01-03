@@ -85,12 +85,12 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
     # It copies following files into work directory from the
     # main icon theme folders:
     #
-    # './ePapirus/panel/transmission-tray-icon@22x22.svg'
-    # './ePapirus/panel/transmission-tray-icon@24x24.svg'
-    # './Papirus/panel/transmission-tray-icon@22x22.svg'
-    # './Papirus/panel/transmission-tray-icon@24x24.svg'
-    # './Papirus-Dark/panel/transmission-tray-icon@22x22.svg'
-    # './Papirus-Dark/panel/transmission-tray-icon@24x24.svg'
+    # ./ePapirus/panel/transmission-tray-icon@22x22.svg
+    # ./ePapirus/panel/transmission-tray-icon@24x24.svg
+    # ./Papirus/panel/transmission-tray-icon@22x22.svg
+    # ./Papirus/panel/transmission-tray-icon@24x24.svg
+    # ./Papirus-Dark/panel/transmission-tray-icon@22x22.svg
+    # ./Papirus-Dark/panel/transmission-tray-icon@24x24.svg
     ```
 
 **IMPORTANT:** Please don't remove suffixes from the filename as it's needed for other scripts. Filename extension must be in lowercase.
