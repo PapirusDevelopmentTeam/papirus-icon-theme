@@ -53,15 +53,26 @@ hardcode-tray -ct Inkscape
 
 # KDE color scheme
 Support for monochrome icons for KDE color scheme (with Breeze engine and supported Plasma Themes) is now available:
-- Papirus - for dark plasma theme & light window theme
-- Papirus Dark - for dark plasma theme & window theme or white plasma theme & window theme
+- Papirus - for dark plasma theme & light color scheme
+- Papirus Dark - for dark plasma theme & color scheme or white plasma theme & color scheme
 
 ![kde-color-scheme](kde-color-scheme.png)
 
-**NOTE:** Non-KDE apps not support KDE color scheme on tray, but you can replace color by manually. For example:
+**NOTE:** Non-KDE apps not support KDE color scheme on tray, but you can replace color by manually. It's needed if you use light plasma theme and light color scheme only (because all tray icons use light colors by default).
+For all dark customization (dark plasma theme and dark color scheme) this NOT NEEDED!!!
+For example (use dark colors for tray apps):
 ```
 grep -rl d3dae3 ~/.local/share/icons/Papirus-Dark/22x22/panel | xargs sed -i -e 's/#d3dae3/#5c616c/g'
 ```
+> What used colors for monochrome icons on KDE?
+
+Papirus:
+- actions, devices, places - class **Text** color:#5c616c and class **Highlight** color:#5294e2
+- panel - class **Button Background** color:#d3dae3 and class **Highlight** color:#5294e2
+
+Papirus-Dark:
+- actions, devices, places - class **Text** color:#d3dae3 and class **Highlight** color:#5294e2
+- panel - class **Text** color:#d3dae3 and class **Highlight** color:#5294e2
 
 # Recommendations
 - For GTK, better use icons alongside GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
