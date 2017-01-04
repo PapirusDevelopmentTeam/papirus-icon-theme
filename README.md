@@ -71,8 +71,7 @@ Papirus:
 - panel - class **Button Background** color:#d3dae3 and class **Highlight** color:#5294e2
 
 Papirus-Dark:
-- actions, devices, places - class **Text** color:#d3dae3 and class **Highlight** color:#5294e2
-- panel - class **Text** color:#d3dae3 and class **Highlight** color:#5294e2
+- actions, devices, places an panel - class **Text** color:#d3dae3 and class **Highlight** color:#5294e2
 
 # Recommendations
 - For GTK, better use icons alongside GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
