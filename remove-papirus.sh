@@ -28,6 +28,7 @@ echo "=> Removing $gh_desc ..."
 sudo rm -rf /usr/share/icons/ePapirus
 sudo rm -rf /usr/share/icons/Papirus
 sudo rm -rf /usr/share/icons/Papirus-Dark
+sudo rm -rf /usr/share/icons/Papirus-Light
 sudo rm -rf /usr/share/icons/Papirus-GTK
 sudo rm -rf /usr/share/icons/Papirus-Dark-GTK
 sudo rm -rf /usr/share/icons/papirus
@@ -41,6 +42,7 @@ rm -rf ~/.icons/Papirus-GTK
 rm -rf ~/.icons/Papirus-Dark-GTK
 rm -rf ~/.local/share/icons/Papirus
 rm -rf ~/.local/share/icons/Papirus-Dark
+rm -rf ~/.local/share/icons/Papirus-Light
 rm -rf ~/.local/share/icons/papirus
 rm -rf ~/.local/share/icons/papirus-dark
 rm -rf ~/.local/share/icons/papirus-arc

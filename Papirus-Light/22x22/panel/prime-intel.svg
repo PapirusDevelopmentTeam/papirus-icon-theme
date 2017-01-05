@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="22" width="22" version="1" id="svg2">
+ <defs id="defs4">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }
+  </style>
+  <linearGradient id="linearGradient3812" y2="50.069" gradientUnits="userSpaceOnUse" x2="65.263" gradientTransform="matrix(.625 0 0 .625 78.5 32.25)" y1="64.205" x1="65.263">
+   <stop offset="0" id="stop13"/>
+   <stop stop-opacity="0" offset="1" id="stop15"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3788" y2="75.095" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="70" gradientTransform="translate(0,4)" y1="54" x1="70"/>
+  <linearGradient id="linearGradient3773" y2="72" gradientUnits="userSpaceOnUse" x2="88" gradientTransform="matrix(.9375 0 0 .9375 -140.5 3.5)" y1="72" x1="56">
+   <stop stop-color="#499119" offset="0" id="stop22"/>
+   <stop stop-color="#8fd625" offset="1" id="stop24"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3832" y2="50.069" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="65.263" gradientTransform="matrix(.625 0 0 .625 28.5 31.25)" y1="64.205" x1="65.263"/>
+  <linearGradient id="linearGradient3737">
+   <stop stop-color="#5c616c" offset="0" id="stop31"/>
+   <stop stop-color="#5c616c" stop-opacity="0" offset="1" id="stop33"/>
+  </linearGradient>
+  <linearGradient id="ButtonShadow" y2="7.016" gradientUnits="userSpaceOnUse" x2="45.448" gradientTransform="scale(1.0059 .99417)" y1="92.54" x1="45.448">
+   <stop offset="0" id="stop36"/>
+   <stop stop-opacity=".588" offset="1" id="stop38"/>
+  </linearGradient>
+  <filter id="filter3831">
+   <feGaussianBlur stdDeviation=".637" id="feGaussianBlur7"/>
+  </filter>
+  <filter id="filter3806">
+   <feGaussianBlur stdDeviation="1.2" id="feGaussianBlur18"/>
+  </filter>
+  <filter id="filter3174">
+   <feGaussianBlur stdDeviation="1.71" id="feGaussianBlur28"/>
+  </filter>
+  <clipPath id="clipPath3823">
+   <path style="fill:currentColor" d="m108.81 58c-1.56 0-2.81 1.254-2.81 2.812v24.375c0 1.559 1.25 2.813 2.81 2.813h24.375c1.57 0 2.82-1.254 2.82-2.812v-24.375c0-1.559-1.25-2.813-2.81-2.813h-24.375zm7.1875 4.5h10v8.75h5l-10 13.75-10-13.75h5v-8.75z" id="path10" class="ColorScheme-ButtonBackground"/>
+  </clipPath>
+ </defs>
+ <g display="none" transform="translate(-226.66 -45.198)" id="g40">
+  <path opacity=".9" style="fill:currentColor" d="m11 7 37-2 37 2c3.324 0 6 2.676 6 6v73c0 3.324-2.676 6-6 6h-74c-3.324 0-6-2.676-6-6v-73c0-3.324 2.676-6 6-6z" filter="url(#filter3174)" id="path42" class="ColorScheme-ButtonBackground"/>
+ </g>
+ <g display="none" transform="translate(-226.66 -45.198)" id="g44">
+  <path opacity=".5" style="fill:currentColor" d="m58.812 58c-1.558 0-2.812 1.254-2.812 2.812v24.375c0 0.87307 0.41082 1.6412 1.0312 2.1562-0.003-0.053-0.031-0.101-0.031-0.155v-24.375c0-1.559 1.171-2.813 2.625-2.813h22.75c1.454 0 2.625 1.254 2.625 2.812v24.375c0 0.05463-0.02841 0.10241-0.03125 0.15625 0.62-0.514 1.031-1.282 1.031-2.155v-24.375c0-1.559-1.254-2.813-2.812-2.813h-24.375z" id="path46" class="ColorScheme-ButtonBackground"/>
+  <path opacity=".6" filter="url(#filter3831)" style="fill:currentColor" d="m116 63.5v8.75h-5l10 13.75 10-13.75h-5v-8.75h-10z" clip-path="url(#clipPath3823)" transform="translate(-50)" display="inline" id="path48" class="ColorScheme-ButtonBackground"/>
+  <path style="fill:currentColor" d="m66 62.5v8.75h-5l10 13.75 10-13.75h-5v-8.75h-10z" display="inline" id="path50" class="ColorScheme-ButtonBackground"/>
+ </g>
+ <path style="fill:currentColor" d="m4 3c-1.108 0-2 0.7925-2 1.7773v12.446c0 0.985 0.892 1.777 2 1.777h14c1.108 0 2-0.79246 2-1.7773v-12.446c0-0.9845-0.892-1.777-2-1.777h-14zm-1 4h1v1h-1v-1zm7 1h1v1h1v1h-1v2c0 0.25798 0.05298 1 0.32422 1h0.676v1h-1c-0.93081 0-1-1.17-1-1.8008v-4.199zm8 0h1v6c-0.86-0.082-1-0.406-1-1v-5zm-15 1h1v5c-0.8599-0.082-1-0.906-1-1.5v-3.5zm2 0h2.5c0.9976-0.0116 1.5 0.8671 1.5 1.5v3.5h-1v-3.5c0-0.264-0.336-0.5-0.6699-0.5h-1.3301v4h-1v-5zm10.098 0c1.208 0 1.902 1.054 1.902 2.439v0.561h-2.855c0.0462 0.56144 0.39041 0.96875 0.98633 0.96875 0.50271 0 0.75219-0.1512 1.043-0.46094l0.69727 0.72461c-0.449 0.477-0.917 0.767-1.748 0.767-1.084 0-2.123-0.639-2.123-2.504 0-1.5944 0.905-2.496 2.098-2.496zm-0.05078 1.0117c-0.38621 0-0.68392 0.21757-0.80859 0.50976-0.07474 0.17611-0.099 0.26208-0.11133 0.47852h1.748c-0.02496-0.52866-0.24657-0.98828-0.82812-0.98828z" id="path52" class="ColorScheme-ButtonBackground"/>
+</svg>

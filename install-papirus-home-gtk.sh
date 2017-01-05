@@ -34,6 +34,7 @@ tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
 rm -rf ~/.icons/ePapirus
 rm -rf ~/.icons/Papirus
+rm -rf ~/.icons/Papirus-Light
 rm -rf ~/.icons/Papirus-Dark
 rm -rf ~/.icons/Papirus-GTK
 rm -rf ~/.icons/Papirus-Dark-GTK
@@ -42,9 +43,11 @@ mkdir -p ~/.icons
 cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
+  "$temp_dir/$gh_repo-master/Papirus-Light" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" ~/.icons/
 gtk-update-icon-cache -q ~/.icons/ePapirus || true
 gtk-update-icon-cache -q ~/.icons/Papirus || true
+gtk-update-icon-cache -q ~/.icons/Papirus-Light || true
 gtk-update-icon-cache -q ~/.icons/Papirus-Dark || true
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
