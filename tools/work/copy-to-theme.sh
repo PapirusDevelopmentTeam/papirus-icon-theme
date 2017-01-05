@@ -6,7 +6,7 @@ SCRIPT_DIR=$(dirname "$0")
 TARGET_DIR="$SCRIPT_DIR/../.."
 
 find "$SCRIPT_DIR/ePapirus" "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
-	-name '*.svg' | while read file; do
+	"$SCRIPT_DIR/Papirus-Light" -name '*.svg' | while read file; do
 
 	src_dir=$(dirname "$file")
 	top_dir=$(dirname "$src_dir")

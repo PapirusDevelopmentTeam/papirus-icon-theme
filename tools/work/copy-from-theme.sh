@@ -37,7 +37,7 @@ case "$1" in
 esac
 
 find "$TARGET_DIR/ePapirus" "$TARGET_DIR/Papirus" "$TARGET_DIR/Papirus-Dark" \
-	-type f -name '*.svg' | grep "$CONTEXT_DIR" | \
+	"$TARGET_DIR/Papirus-Light" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
 	grep -i "${2:?PATTERN not set!}" | while read file; do
 
 	src_dir=$(dirname "$file")

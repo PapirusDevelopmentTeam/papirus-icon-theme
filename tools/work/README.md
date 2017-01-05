@@ -91,6 +91,8 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
     # ./Papirus/panel/transmission-tray-icon@24x24.svg
     # ./Papirus-Dark/panel/transmission-tray-icon@22x22.svg
     # ./Papirus-Dark/panel/transmission-tray-icon@24x24.svg
+    # ./Papirus-Light/panel/transmission-tray-icon@22x22.svg
+    # ./Papirus-Light/panel/transmission-tray-icon@24x24.svg
     ```
 
 **IMPORTANT:** Please don't remove suffixes from the filename as it's needed for other scripts. Filename extension must be in lowercase.
@@ -116,7 +118,20 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 2. Check result and edit manually if needed.
 
-### 4. ePapirus
+### 4. Papirus Light
+
+
+1. Run script `tools/work/convert-to-light.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Light` and changes its colors.
+
+    **IMPORTANT:** You should draw icons for Papirus first.
+
+    ```
+    ./convert-to-light.sh
+    ```
+
+2. Check result and edit manually if needed.
+
+### 5. ePapirus
 
 
 1. Run script `tools/work/convert-to-e.sh`. It copies needed icons from `work/Papirus` to `work/ePapirus` and changes its colors.
@@ -129,12 +144,12 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 2. Check result and edit manually if needed.
 
-### 5. Final Steps
+### 6. Final Steps
 
 1. Run script `tools/ffsvg.sh` for cleaning and fixing the icons:
 
     ```
-    ../ffsvg.sh ePapirus/ Papirus/ Papirus-Dark/
+    ../ffsvg.sh ePapirus/ Papirus/ Papirus-Dark/ Papirus-Light/
     ```
 
 2. Please check your icons again.
