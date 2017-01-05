@@ -10,7 +10,7 @@
 </p>
 
 # About
-Papirus - A free  and open source SVG icon theme for Linux systems, based on [Paper](https://github.com/snwh/paper-icon-theme) with a few extras like ([hardcode-tray support](#hardcoded-tray-icons), [kde-color-scheme support](#kde-color-scheme), [libreoffice icon theme](https://github.com/PapirusDevelopmentTeam/papirus-libreoffice-theme), [filezilla theme](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes), [smplayer themes](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme) ...) and other modifications. The theme is available in two variants - light and dark. It is available for both, GTK and KDE.
+Papirus - A free  and open source SVG icon theme for Linux systems, based on [Paper](https://github.com/snwh/paper-icon-theme) with a few extras like ([hardcode-tray support](#hardcoded-tray-icons), [kde-color-scheme support](#kde-color-scheme), [libreoffice icon theme](https://github.com/PapirusDevelopmentTeam/papirus-libreoffice-theme), [filezilla theme](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes), [smplayer themes](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme) ...) and other modifications. The theme is available for GTK and KDE.
 
 # Install / Update
 ## ROOT directory
@@ -52,18 +52,15 @@ hardcode-tray -ct Inkscape
 ![hardcode-tray](hardcode-tray-preview.png)
 
 # KDE color scheme
-Support for monochrome icons for KDE color scheme (with Breeze engine and supported Plasma Themes) is now available:
+Support for monochrome icons for KDE color scheme is now available:
 - Papirus - for dark plasma theme & light color scheme
-- Papirus Dark - for dark plasma theme & color scheme or white plasma theme & color scheme
+- Papirus Dark - for dark plasma theme & color scheme
+- Papirus Light - for light plasma theme & color scheme
 
 ![kde-color-scheme](kde-color-scheme.png)
 
-**NOTE:** Non-KDE apps not support KDE color scheme on tray, but you can replace color by manually. It's needed if you use light plasma theme and light color scheme only (because all tray icons use light colors by default).
-For all dark customization (dark plasma theme and dark color scheme) this NOT NEEDED!!!
-For example (use dark colors for tray apps):
-```
-grep -rl d3dae3 ~/.local/share/icons/Papirus-Dark/22x22/panel | xargs sed -i -e 's/#d3dae3/#5c616c/g'
-```
+**NOTE:** Non-KDE apps not support KDE color scheme on tray, but you can replace color by manually.
+
 > What used colors for monochrome icons on KDE?
 
 Papirus:
@@ -72,6 +69,9 @@ Papirus:
 
 Papirus-Dark:
 - actions, devices, places an panel - class **Text** color:#d3dae3 and class **Highlight** color:#5294e2
+
+Papirus-Light:
+- actions, devices, places an panel - class **Text** color:#5c616c and class **Highlight** color:#5294e2
 
 # Recommendations
 - For GTK, better use icons alongside GTK theme [Arc Dark](https://github.com/horst3180/arc-theme)
