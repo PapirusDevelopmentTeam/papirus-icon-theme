@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <defs>
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
+  </clipPath>
+ </defs>
+ <path fill="#cccccc" d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -20 -20zm0 8a9 12 0 0 1 9 12 9 12 0 0 1 -9 12 9 12 0 0 1 -9 -12 9 12 0 0 1 9 -12z"/>
+ <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(2,0,0,2,-548,-28)" cy="26" cx="286" stroke-width=".455"/>
+ <circle opacity="0" style="color:#000000" clip-path="url(#clipPath4186)" r="10" transform="matrix(2,0,0,2,-548,-28)" cy="26" cx="286" stroke-width=".909"/>
+ <path opacity=".2" fill="#fff" d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 0.0215 0.418 20 20 0 0 1 19.978 -19.418 20 20 0 0 1 19.979 19.582 20 20 0 0 0 0.021 -0.582 20 20 0 0 0 -20 -20zm8.984 20.424a9 12 0 0 1 -8.984 11.576 9 12 0 0 1 -8.984 -11.424 9 12 0 0 0 -0.016 0.424 9 12 0 0 0 9 12 9 12 0 0 0 9 -12 9 12 0 0 0 -0.016 -0.576z"/>
+ <path opacity=".2" style="color:#000000" d="m24 12a9 12 0 0 0 -9 12 9 12 0 0 0 0.01563 0.57617 9 12 0 0 1 8.984 -11.576 9 12 0 0 1 8.984 11.424 9 12 0 0 0 0.016 -0.424 9 12 0 0 0 -9 -12zm-19.978 12.418a20 20 0 0 0 -0.0215 0.582 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -0.021 -0.418 20 20 0 0 1 -19.98 19.418 20 20 0 0 1 -19.978 -19.582z"/>
+</svg>
