@@ -5,14 +5,14 @@ set -e
 SCRIPT_DIR=$(dirname "$0")
 
 find "$SCRIPT_DIR/ePapirus" "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
-	"$SCRIPT_DIR/Papirus-Light" -type f -name '*.svg' -print
+	"$SCRIPT_DIR/Papirus-Light" -name '*.svg' -print
 
 echo -n "Do you want to delete the files? [y/N]: "; read REPLY
 
 case "$REPLY" in
 	[Yy]*)
 		find "$SCRIPT_DIR/ePapirus" "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
-			"$SCRIPT_DIR/Papirus-Light" -type f -name '*.svg' -delete
+			"$SCRIPT_DIR/Papirus-Light" -name '*.svg' -delete
 		;;
 	*)
 		echo "Abort."
