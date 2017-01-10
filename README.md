@@ -37,6 +37,15 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh
 ```
 
+# Unofficial packages
+Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
+
+| **Distro** | **Maintainer** | **Package** |
+|:-----------|:---------------|:------------|
+| Arch Linux | Edgard Castro  | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) (AUR) |
+
+**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
+
 # Hardcoded tray icons
 
 Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
