@@ -40,9 +40,11 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 # Unofficial packages
 Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
 
-| **Distro** | **Maintainer** | **Package** |
-|:-----------|:---------------|:------------|
-| Arch Linux | Edgard Castro  | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) (AUR) |
+| **Distro**         | **Maintainer** | **Package** |
+|:-------------------|:---------------|:------------|
+| Arch Linux         | Edgard Castro  | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) (AUR) |
+| Arch Linux         | Josip Ponjavic | [papirus-icon-theme-git](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git) (OBS) |
+| openSUSE Leap 42.2 | Maciek Krawiec | [papirus-icon-theme](https://build.opensuse.org/package/show/home:mkrwc/papirus-icon-theme) (OBS) |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
