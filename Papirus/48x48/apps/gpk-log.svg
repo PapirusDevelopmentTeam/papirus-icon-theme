@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <path opacity=".05" d="m6 5c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2h-36z"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#fabd7f"/>
+ <path fill="#3f3f3f" d="m22 12c-0.554 0-1 0.446-1 1v16h-4l7 9 7-9h-4v-16c0-0.554-0.446-1-1-1h-4z"/>
+ <path opacity=".2" fill="#fff" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z"/>
+ <path opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <rect style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.39285713" ry="1.179" rx="1.179" transform="matrix(0,-1,-1,0,0,0)" height="22" width="22" y="-47" x="-48"/>
+ <rect x="-47" y="-47" width="22" height="22" transform="matrix(0,-1,-1,0,0,0)" rx="1.179" ry="1.179" style="fill:#cccccc;fill-opacity:1;stroke-width:0.39285713"/>
+ <path style="fill:#3f3f3f;fill-opacity:1;stroke-width:0.74978465" d="m 28,28 v 4 h 16 v -4 z m 0,6 v 4 h 16 v -4 z m 0,6 v 4 h 16 v -4 z"/>
+</svg>
