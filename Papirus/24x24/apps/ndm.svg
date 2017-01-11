@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <path style="opacity:0.05;stroke-width:0.5" d="m 3,2.5 c -0.554,0 -1,0.446 -1,1 V 12 H 22 V 3.5 c 0,-0.554 -0.446,-1 -1,-1 z"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-22" x="-22" style="fill:#ff6464;fill-opacity:1;stroke-width:0.5"/>
+ <path style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.5" d="m 8,6.5 v 9 h 2 v -6 c 1.5,0 2.573394,0.07606 3.083984,0.4042969 0.255296,0.1641181 0.445096,0.3718741 0.619141,0.8417971 C 13.87717,11.216016 14,11.949074 14,13 v 3.5 h -2 l 3,4 3,-4 H 16 V 13 C 16,11.800926 15.87283,10.846484 15.578125,10.050781 15.28342,9.2550788 14.78572,8.6190847 14.166016,8.2207031 12.926606,7.4239399 11.5,7.5 10,7.5 v -1 z"/>
+ <path style="opacity:0.2;fill:#ffffff;stroke-width:0.5" d="M 2,3.5 V 3 C 2,2.446 2.446,2 3,2 h 18 c 0.554,0 1,0.446 1,1 v 0.5 c 0,-0.554 -0.446,-1 -1,-1 H 3 c -0.554,0 -1,0.446 -1,1 z"/>
+ <path style="opacity:0.2;stroke-width:0.5" d="m 2,21 v 0.5 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 21 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,22 2,21.554 2,21 Z"/>
+ <path style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.5" d="m 14,16 h -2 l 3,4 3,-4 h -2 v -3.5 h -2 z"/>
+ <path style="opacity:1;fill:#ffffff;fill-opacity:1;" d="m 8,6 h 2 v 9 H 8 Z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-opacity:1" d="M 15,12.5 C 15,8 13,8 10,8"/>
+</svg>
