@@ -3,7 +3,11 @@ all: install
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons
 	cp --no-preserve=mode,ownership -r \
-		ePapirus Papirus Papirus-Light Papirus-Dark /usr/share/icons
+		ePapirus \
+		Papirus \
+		Papirus-Light \
+		Papirus-Dark \
+		$(DESTDIR)/usr/share/icons
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/ePapirus
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Dark
