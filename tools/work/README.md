@@ -2,7 +2,7 @@
 
 Designing icons for Papirus is easy :)
 
-You only need to draw icons for Papirus (Light theme) and then use our script to convert colors for ePapirus and Papirus Dark.
+You only need to draw icons for Papirus and then use our script to convert colors for ePapirus, Papirus Dark and Papirus-Light.
 
 ## Basic concepts
 
@@ -55,7 +55,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 - #### Create a new icon
 
-    Create a new icon from the provided template using the script `tools/work/new-icons.sh`. For all new icons, **please stick to using the template.** This is because the template already has some needed objects, like a CSS stylesheet.
+    Create a new icon from the provided template using the script `tools/work/new-icons.sh`. For all new icons, **please stick to using the template**. This is because the template already has some needed objects, like a CSS stylesheet.
 
     ```
     # For example
