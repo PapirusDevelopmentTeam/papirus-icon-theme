@@ -25,6 +25,7 @@ _get_version:
 	$(eval DATE := $(shell git log -1 --format=%cd --date=format:%Y.%m.%d))
 	$(eval COUNT := $(shell git rev-list --all --count))
 	$(eval VERSION := $(DATE)-r$(COUNT))
+	@echo $(VERSION)
 
 push:
 	git push origin
