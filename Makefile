@@ -1,4 +1,4 @@
-all: install
+all: install post-install
 
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons
@@ -8,6 +8,12 @@ install:
 		Papirus-Light \
 		Papirus-Dark \
 		$(DESTDIR)/usr/share/icons
+
+post-install:
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/ePapirus
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Dark
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Light
 
 uninstall:
 	-rm -rf $(DESTDIR)/usr/share/icons/ePapirus
