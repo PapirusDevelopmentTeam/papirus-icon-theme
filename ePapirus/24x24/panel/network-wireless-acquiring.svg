@@ -1,12 +1,10 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" viewBox="0 0 24 24" id="svg2">
  <defs id="defs12">
   <style type="text/css" id="current-color-scheme">
    .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
   </style>
  </defs>
- <g transform="translate(-152 -500.36)" id="g4">
-  <path opacity=".35" style="fill:currentColor" d="m164 506.36c-3.0344 0-5.7659 1.0782-8.0312 2.75l0.23242 0.25391h15.51l0.25781-0.28516c-2.2566-1.6533-4.9577-2.7188-7.9688-2.7188zm-2.291 9.0039 2.291 2.4961 2.2656-2.4961h-4.5566z" id="path6" class="ColorScheme-ButtonBackground"/>
-  <path style="fill:currentColor" d="m159 510.36c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2z" id="path8" class="ColorScheme-ButtonBackground"/>
- </g>
+ <path class="ColorScheme-ButtonBackground" id="path6" d="M 12.03121,6.00005 C 8.9968,6.00005 6.26531,7.12513 4,8.8696 L 4.23242,9 l 15.51,0 0.25781,-0.163 C 17.74363,7.11182 15.04253,6 12.03143,6 Z M 9.00012,15 l 3.03109,3 2.96891,-3 z" style="opacity:0.3;fill:currentColor"/>
+ <path class="ColorScheme-ButtonBackground" id="path8" d="m 7.00012,10 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z" style="fill:currentColor"/>
 </svg>
