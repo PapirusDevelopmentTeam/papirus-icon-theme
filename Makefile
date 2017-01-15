@@ -1,4 +1,4 @@
-all: install post-install
+all:
 
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons
