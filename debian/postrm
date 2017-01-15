@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_icons
+if which update-icon-caches >/dev/null 2>&1 ; then
+	update-icon-caches /usr/share/icons/ePapirus /usr/share/icons/Papirus /usr/share/icons/Papirus-Dark /usr/share/icons/Papirus-Light
+fi
+# End automatically added section

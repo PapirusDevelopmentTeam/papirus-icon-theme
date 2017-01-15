@@ -1,0 +1,13 @@
+Source: papirus-icon-theme
+Section: misc
+Priority: optional
+Maintainer: Sergei Eremenko <finalitik@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.8
+Homepage: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
+Package: papirus-icon-theme
+Architecture: all
+Depends: hicolor-icon-theme, ${misc:Depends}
+Replaces: papirus-gtk-icon-theme, papirus-kde-icon-theme
+Description: Papirus Icon Theme
