@@ -37,6 +37,11 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh
 ```
 
+#Official packages
+| **Distro**                | **Maintainer** | **Package** |
+|:--------------------------|:---------------|:------------|
+| Ubuntu-based distros      | Sergei Eremenko| [papirus-icon-theme](https://launchpad.net/~papirus/+archive/ubuntu/papirus) (PPA) |
+
 # Unofficial packages
 Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
 
@@ -45,7 +50,6 @@ Packages in this section are not part of the official repositories. If you have 
 | Arch Linux                | Edgard Castro  | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) (AUR) |
 | Arch Linux                | Josip Ponjavic | [papirus-icon-theme-git](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git) (OBS) |
 | openSUSE Leap 42.2        | Maciek Krawiec | [papirus-icon-theme](https://build.opensuse.org/package/show/home:mkrwc/papirus-icon-theme) (OBS) |
-| Ubuntu-based distros      | Sergei Eremenko| [papirus-icon-theme](https://launchpad.net/~papirus/+archive/ubuntu/papirus) (PPA) |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
