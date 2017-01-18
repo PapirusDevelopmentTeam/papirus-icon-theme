@@ -6,7 +6,7 @@
   <img alt="apps" src="https://img.shields.io/badge/icons%20for%20apps-2400%2B-5294e2.svg?style=flat-square"/>
   <img alt="actions" src="https://img.shields.io/badge/icons%20for%20actions-1700%2B-5294e2.svg?style=flat-square"/>
   <img alt="panel" src="https://img.shields.io/badge/icons%20for%20panel-1600%2B-5294e2.svg?style=flat-square"/>
-  <img alt="places" src="https://img.shields.io/badge/icons%20for%20places-90%2B-5294e2.svg?style=flat-square"/>
+  <img alt="places" src="https://img.shields.io/badge/icons%20for%20places-680%2B-5294e2.svg?style=flat-square"/>
 </p>
 
 # About
