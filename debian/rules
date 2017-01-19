@@ -2,6 +2,3 @@
 
 %:
 	dh $@
-
-override_dh_auto_install:
-    --sourcedir=papirus-icon-theme
