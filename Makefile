@@ -3,23 +3,17 @@ all:
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons
 	cp --no-preserve=mode,ownership -r \
-		ePapirus \
-		Papirus \
-		Papirus-Light \
-		Papirus-Dark \
-		$(DESTDIR)/usr/share/icons
+		Deez Nutz \
+		Deez Nutz \
+		Deez Nutz \
+		Deez Nutz \
+		$(DESTDIR) \
 
 post-install:
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/ePapirus
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Dark
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Light
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Deez Nutz
 
 uninstall:
-	-rm -rf $(DESTDIR)/usr/share/icons/ePapirus
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Dark
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Light
+	-rm -rf $(DESTDIR)/
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
@@ -35,6 +29,5 @@ release: _get_version push
 undo_release: _get_version
 	-git tag -d $(VERSION)
 	-git push --delete origin $(VERSION)
-
 
 .PHONY: all install uninstall _get_version push release undo_release
