@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <path d="m 26,5 0,4.78125 A 24,24 0 0 0 8.7890624,27 L 4,27 4,39 8.78125,39 A 24,24 0 0 0 26,56.210938 L 26,61 38,61 38,56.21875 A 24,24 0 0 0 55.210938,39 L 60,39 60,27 55.21875,27 A 24,24 0 0 0 38,9.789062 L 38,5 26,5 Z" style="opacity:0.2;fill:#000000;fill-opacity:1;"/>
+ <path style="opacity:1;fill:#1e80ff;fill-opacity:1;" d="m 26,4 0,4.78125 A 24,24 0 0 0 8.7890624,26 L 4,26 4,38 8.78125,38 A 24,24 0 0 0 26,55.210938 L 26,60 38,60 38,55.21875 A 24,24 0 0 0 55.210938,38 L 60,38 60,26 55.21875,26 A 24,24 0 0 0 38,8.7890624 L 38,4 26,4 Z"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="14" ry="14" height="28" width="28" y="-46" x="-47" style="opacity:0.2;fill:#000000;fill-opacity:1"/>
+ <rect style="fill:#ffffff;fill-opacity:1" x="-46" y="-46" width="28" height="28" ry="14" rx="14" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-opacity:1;" d="M 26 4 L 26 5 L 38 5 L 38 4 L 26 4 z M 26 8.78125 A 24 24 0 0 0 8.7890625 26 L 4 26 L 4 27 L 8.7890625 27 A 24 24 0 0 1 26 9.78125 L 26 8.78125 z M 38 8.7890625 L 38 9.7890625 A 24 24 0 0 1 55.21875 27 L 60 27 L 60 26 L 55.21875 26 A 24 24 0 0 0 38 8.7890625 z"/>
+</svg>
