@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
+# This script copies icons from the directory to the main theme.
 
-set -e
+set -eo pipefail
 
 SCRIPT_DIR=$(dirname "$0")
 TARGET_DIR="$SCRIPT_DIR/../.."

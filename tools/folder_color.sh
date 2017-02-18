@@ -26,6 +26,10 @@ set -e
 
 DESTDIR="../Papirus"
 
+FOLDER_COLOR_PREFIX="folder_color"
+FOLDER_EXTRA_PREFIX="folder_extraicons"
+
+# Available colors in Papirus
 COLORS=(
 	'black'
 	'brown'
@@ -38,11 +42,9 @@ COLORS=(
 	'yellow'
 )
 
-ICON_PREFIX="folder_color"
-
 # Icons mapping
 ICONS_MAP=(
-	# folder_color sufix::papirus icon
+	# 'folder color sufix::papirus icon prefix'
 	'::folder'
 	'_desktop::user-desktop'
 	'_documents::folder-documents'
@@ -54,13 +56,41 @@ ICONS_MAP=(
 	'_videos::folder-video'
 )
 
-EXTRA_ICONS_PREFIX="folder_extraicons"
 EXTRA_ICONS_MAP=(
+	# 'folder color sufix::papirus icon prefix'
 	'_home::folder-home'
 	'_remote::folder-remote'
 	'_recent::folder-recent'
 )
 
+# Monochrome icons (16px)
+MONO_ICONS_MAP=(
+	# 'folder color sufix::papirus icon prefix'
+	'::folder'
+	'_desktop::user-desktop'
+	'_documents::folder-documents'
+	'_downloads::folder-downloads'
+	'_music::folder-sound'
+	'_pictures::folder-image'
+	'_public::folder-publicshare'
+	'_templates::folder-temp'
+	'_videos::folder-video'
+)
+
+# Extra monochrome icons (16px)
+MONO_EXTRA_ICONS_MAP=(
+	# 'folder color sufix::papirus icon prefix'
+	'_home::user-home'
+	'_remote::folder-remote'
+	'_recent::folder-recent'
+)
+
+ICON_THEMES=(
+	ePapirus
+	Papirus
+	Papirus-Dark
+	Papirus-Light
+)
 
 SIZES=(
 	22
@@ -71,8 +101,8 @@ SIZES=(
 )
 
 # Cleanup
-find "$DESTDIR" -name "${ICON_PREFIX}_*" -not -path '*actions*' -delete
-find "$DESTDIR" -name "${EXTRA_ICONS_PREFIX}_*" -not -path '*actions*' -delete
+find "$DESTDIR" -name "${FOLDER_COLOR_PREFIX}_*" -not -path '*actions*' -delete
+find "$DESTDIR" -name "${FOLDER_EXTRA_PREFIX}_*" -not -path '*actions*' -delete
 
 for size in "${SIZES[@]}"; do
 	for icon in "${ICONS_MAP[@]}"; do
@@ -83,12 +113,12 @@ for size in "${SIZES[@]}"; do
 		# IMPORTANT:
 		#  Folder Color will show your Folder Color Icons if "folder_color_blue.svg" exists.
 		ln -sfv "${icon##*::}.svg" \
-			"${DESTDIR}/${size}x${size}/places/${ICON_PREFIX}_blue${icon%%::*}.svg"
+			"${DESTDIR}/${size}x${size}/places/${FOLDER_COLOR_PREFIX}_blue${icon%%::*}.svg"
 
 		# Another colors
 		for color in "${COLORS[@]}"; do
 			ln -sfv "${icon##*::}-${color}.svg" \
-				"${DESTDIR}/${size}x${size}/places/${ICON_PREFIX}_${color}${icon%%::*}.svg"
+				"${DESTDIR}/${size}x${size}/places/${FOLDER_COLOR_PREFIX}_${color}${icon%%::*}.svg"
 		done
 	done
 
@@ -98,12 +128,51 @@ for size in "${SIZES[@]}"; do
 
 		# Default color
 		ln -sfv "${icon##*::}.svg" \
-			"${DESTDIR}/${size}x${size}/places/${EXTRA_ICONS_PREFIX}_blue${extra_icon%%::*}.svg"
+			"${DESTDIR}/${size}x${size}/places/${FOLDER_EXTRA_PREFIX}_blue${extra_icon%%::*}.svg"
 
 		# Another colors
 		for color in "${COLORS[@]}"; do
 			ln -sfv "${extra_icon##*::}-${color}.svg" \
-				"${DESTDIR}/${size}x${size}/places/${EXTRA_ICONS_PREFIX}_${color}${extra_icon%%::*}.svg"
+				"${DESTDIR}/${size}x${size}/places/${FOLDER_EXTRA_PREFIX}_${color}${extra_icon%%::*}.svg"
+		done
+	done
+done
+
+# Monochrome icons (16px)
+size="16"
+
+for theme in "${ICON_THEMES[@]}"; do
+	DESTDIR="${DESTDIR%/*}/${theme}"
+
+	for icon in "${MONO_ICONS_MAP[@]}"; do
+		# folder_color icon  -> ${icon%%::*}
+		# papirus icon -> ${icon##*::}
+
+		# Default color
+		# IMPORTANT:
+		#  Folder Color will show your Folder Color Icons if "folder_color_blue.svg" exists.
+		ln -sfv "${icon##*::}.svg" \
+			"${DESTDIR}/${size}x${size}/places/${FOLDER_COLOR_PREFIX}_blue${icon%%::*}.svg"
+
+		# Another colors
+		for color in "${COLORS[@]}"; do
+			ln -sfv "${icon##*::}.svg" \
+				"${DESTDIR}/${size}x${size}/places/${FOLDER_COLOR_PREFIX}_${color}${icon%%::*}.svg"
+		done
+	done
+
+	for extra_icon in "${MONO_EXTRA_ICONS_MAP[@]}"; do
+		# folder_color icon  -> ${extra_icon%%::*}
+		# papirus icon -> ${extra_icon##*::}
+
+		# Default color
+		ln -sfv "${icon##*::}.svg" \
+			"${DESTDIR}/${size}x${size}/places/${FOLDER_EXTRA_PREFIX}_blue${extra_icon%%::*}.svg"
+
+		# Another colors
+		for color in "${COLORS[@]}"; do
+			ln -sfv "${extra_icon##*::}.svg" \
+				"${DESTDIR}/${size}x${size}/places/${FOLDER_EXTRA_PREFIX}_${color}${extra_icon%%::*}.svg"
 		done
 	done
 done

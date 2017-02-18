@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -e
+set -eo pipefail
 
 SCRIPT_DIR=$(dirname "$0")
 TARGET_DIR="$SCRIPT_DIR/../.."
@@ -17,6 +17,8 @@ case "$1" in
 	status|st*)   CONTEXT_DIR="/status/"    ;;
 	*)
 		cat <<-EOF
+		This script copies icons from the main theme to the directory.
+
 		Usage:
 		  $0 context PATTERN
 
@@ -32,7 +34,7 @@ case "$1" in
 		    [st]atus
 		EOF
 
-		exit 0
+		exit 2
 		;;
 esac
 

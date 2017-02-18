@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -e
+set -eo pipefail
 
 SCRIPT_DIR=$(dirname "$0")
 _PAPIRUS_DIR="$SCRIPT_DIR/Papirus"
