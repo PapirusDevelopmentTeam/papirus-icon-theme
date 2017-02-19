@@ -2,9 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64" width="64" version="1.1">
  <defs>
   <style type="text/css" id="folder-color-scheme">
-   .FolderColorScheme-Light { color:#value_light; }
-   .FolderColorScheme-Middle { color:#value_middle; }
-   .FolderColorScheme-Dark { color:#value_dark; }
+   .FolderColorScheme-Light { color:#value_light; } .FolderColorScheme-Middle { color:#value_middle; } .FolderColorScheme-Dark { color:#value_dark; }
   </style>
  </defs>
  <path d="m 57,53.5011 0,-26.989543 c 0,-1.384444 -1.1235,-2.651935 -2.5,-2.498995 l -20,0 -4.5,4.09e-4 -20.5,0 C 7,24.012971 7,26.40791 7,26.40791 L 7,53.501 C 7,54.88545 8.115,56 9.5,56 l 45,0 c 1.385,0 2.5,-1.11455 2.5,-2.499 z" style="opacity:0.2;fill:#000000;fill-opacity:1"/>
