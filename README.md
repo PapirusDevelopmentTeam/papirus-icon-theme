@@ -147,7 +147,6 @@ Also, you can change ubuntu logo of the main launcher and unity-tweak-tool icons
 Papirus now has a manual to aid in easy development of new icons. Please see this [info](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/tools/work)
 
 # Donate
-If you like my project , you can donate:
 **varlesh**:
 <span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
