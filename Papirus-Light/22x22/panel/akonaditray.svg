@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" id="svg2">
  <defs id="defs4">
   <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
    <circle cx="286" cy="26" r="10" id="circle7"/>
@@ -12,7 +12,7 @@
   <circle opacity="0" stroke-width=".455" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10" id="circle11"/>
   <circle opacity="0" stroke-width=".909" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10" id="circle13"/>
   <g transform="matrix(.42105 0 0 .42320 270.86 244.46)" id="g15">
-   <path style="fill:currentColor" d="m-42.668-0.050781c-5.9746 3.4494-9.3445 9.6557-9.4766 16.084-0.389 0.41849-0.73765 0.86934-1.0254 1.373 0 10.493 8.5066 19 19 19s19-8.5066 19-19c-0.61336-0.2398-1.2987-0.48726-2.0273-0.74023a17 17 0 0 0 -16.973 -16.26 17 17 0 0 0 -4.539 0.6194c-1.2525-0.69202-2.5724-1.0825-3.959-1.0762z" transform="translate(424,428)" id="path17" class="ColorScheme-ButtonBackground"/>
+   <path style="fill:currentColor" d="m-42.668-0.050781c-5.9746 3.4494-9.3445 9.6557-9.4766 16.084-0.389 0.41849-0.73765 0.86934-1.0254 1.373 0 10.493 8.5066 19 19 19s19-8.5066 19-19c-0.61336-0.2398-1.2987-0.48726-2.0273-0.74023a17 17 0 0 0 -16.973 -16.26 17 17 0 0 0 -4.539 0.6194c-1.2525-0.69202-2.5724-1.0825-3.959-1.0762z" transform="translate(424,428)" id="path17" class="ColorScheme-Text"/>
   </g>
  </g>
 </svg>

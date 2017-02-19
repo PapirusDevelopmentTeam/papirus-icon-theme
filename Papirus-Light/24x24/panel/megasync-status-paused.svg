@@ -2,12 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 6.77 6.77" width="24" version="1.1" id="svg2">
  <defs id="defs14">
   <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
  <g transform="translate(.28222 .28222)" id="g4">
-  <path opacity=".3" style="fill:currentColor" d="m11 3c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm-4 3h8v10h-8v-10z" transform="scale(.28222)" id="path6" class="ColorScheme-ButtonBackground"/>
-  <path style="fill:currentColor" d="m2.258 1.976h0.564v2.258h-0.564z" id="path8" class="ColorScheme-ButtonBackground"/>
-  <path style="fill:currentColor" d="m3.387 1.976h0.564v2.258h-0.564z" id="path10" class="ColorScheme-ButtonBackground"/>
+  <path opacity=".3" style="fill:currentColor" d="m11 3c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm-4 3h8v10h-8v-10z" transform="scale(.28222)" id="path6" class="ColorScheme-Text"/>
+  <path style="fill:currentColor" d="m2.258 1.976h0.564v2.258h-0.564z" id="path8" class="ColorScheme-Text"/>
+  <path style="fill:currentColor" d="m3.387 1.976h0.564v2.258h-0.564z" id="path10" class="ColorScheme-Text"/>
  </g>
 </svg>
