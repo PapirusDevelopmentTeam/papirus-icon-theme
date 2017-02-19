@@ -25,4 +25,6 @@ done
 
 # convert color scheme
 find "$_PAPIRUS_LIGHT_DIR" -type f -name '*.svg' -exec sed -i \
-	-e 's/#d3dae3/#5c616c/I' '{}' \;
+	-e 's/class="ColorScheme-ButtonBackground"/class="ColorScheme-Text"/I' \
+	-e 's/\s*\.ColorScheme-ButtonBackground.\+\}//I' \
+	-e 's/#d3dae3/#5c616c/gI' '{}' \;
