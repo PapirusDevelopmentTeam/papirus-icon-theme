@@ -23,6 +23,7 @@
 
 set -e
 
+# Papirus and Papirus-Light
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
@@ -32,11 +33,22 @@ add_class() {
 		"$@"
 }
 
+# Papirus-Dark
 add_class_dark() {
 	# add the class if a value matches:
 	sed -i -r \
 		-e '/([^-]color|fill|stop-color|stroke):#d3dae3/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		"$@"
+}
+
+# ePapirus
+add_class_e() {
+	# add the class if a value matches:
+	sed -i -r \
+		-e '/([^-]color|fill|stop-color|stroke):#6e6e6e/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#ffffff/I s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
 		"$@"
 }
 
@@ -62,11 +74,15 @@ for file in "$@"; do
 	fix_color_and_fill "$file"
 
 	if grep -q -i '#5c616c' "$file"; then
-		# is Papirus
+		# it is Papirus or Papirus-Light
 		add_class "$file"
 		fix_color_and_fill "$file"
+	elif grep -q -i '#6e6e6e' "$file"; then
+		# it is ePapirus
+		add_class_e "$file"
+		fix_color_and_fill "$file"
 	else
-		# is Papirus-Dark
+		# it is Papirus-Dark
 		add_class_dark "$file"
 		fix_color_and_fill "$file"
 	fi

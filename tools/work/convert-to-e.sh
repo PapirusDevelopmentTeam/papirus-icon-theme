@@ -37,5 +37,5 @@ done
 
 # convert color scheme
 find "$_EPAPIRUS_DIR" -type f -name '*.svg' -exec sed -i \
-	-e 's/#5c616c/#6e6e6e/I' \
-	-e 's/#d3dae3/#ffffff/I' '{}' \;
+	-e 's/#5c616c/#6e6e6e/gI' \
+	-e 's/#d3dae3/#ffffff/gI' '{}' \;
