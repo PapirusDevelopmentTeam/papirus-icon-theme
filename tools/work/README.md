@@ -2,11 +2,11 @@
 
 Designing icons for Papirus is easy :)
 
-You only need to draw icons for Papirus and then use our script to convert colors for ePapirus, Papirus Dark and Papirus-Light.
+You only need to draw icons for Papirus and then convert colors for ePapirus, Papirus Dark and Papirus-Light using our scripts.
 
 ## Basic concepts
 
-Papirus is a SVG-based icon theme for Linux, drawing inspiration from Material Design and flat design.
+Papirus is an SVG-based icon theme for Linux, drawing inspiration from Material Design and flat design.
 
 All elements are clear, distinct and have outlines. Another main feature that distinguishes our theme is its use of warm color tones.
 
@@ -18,7 +18,7 @@ Examples are available in the main icon theme folders. In the `work` directory, 
 
 Main icons have the following sizes: 16px, 22px, 24px, 32px and 48px. Also available are some 64px icons for Apps, Devices, Places and Mimes.
 
-> Why do we need so many sizes for a SVG?
+> Why do we need so many sizes for an SVG?
 
 Because if we use a single size for all then the icons will be blurred. All objects on Papirus have pixelated alignment.
 
@@ -35,7 +35,7 @@ Presently we only support the following icons:
 
 ## System Requirements
 
-- inkscape
+- Inkscape
 - npm
 - svgo
 
@@ -51,11 +51,11 @@ sudo npm install -g npm svgo
 
 ### 1. Getting Started
 
-Open directory `work` in a file manager and open a terminal at the directory. You can do it from the context menu entry `Open in Terminal` or `Action → Open Terminal Here`.
+Open directory `work` in a file manager and open a terminal in the directory. You can do it from the context menu entry `Open in Terminal` or `Action → Open Terminal Here`.
 
 - #### Create a new icon
 
-    Create a new icon from the provided template using the script `tools/work/new-icons.sh`. For all new icons, **please stick to using the template**. This is because the template already has some needed objects, like a CSS stylesheet.
+    Create a new icon from the provided template using the script `tools/work/new-icons.sh`. For all new icons, **please stick to using the template**. It is necessary because the template already has some needed objects, like a CSS stylesheet.
 
     ```
     # For example
@@ -75,7 +75,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 - #### Edit an existing icon
 
-    If you want modify an existing icon, you can do that using the script `tools/work/copy-from-theme.sh`.
+    If you want to modify an existing icon, you can do that using the script `tools/work/copy-from-theme.sh`.
 
     ```
     # For example
@@ -95,20 +95,47 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
     # ./Papirus-Light/panel/transmission-tray-icon@24x24.svg
     ```
 
+- #### Make symlinks to an existing icon
+
+    It is a real example of the issue #354
+
+    Make sure that icons exist:
+
+    ```
+    find ../../Papirus -iname '*ardour*' -print
+    # ./Papirus/16x16/apps/ardour.svg
+    # ./Papirus/22x22/apps/ardour.svg
+    # ./Papirus/24x24/apps/ardour.svg
+    # ./Papirus/32x32/apps/ardour.svg
+    # ./Papirus/48x48/apps/ardour.svg
+    # ./Papirus/64x64/apps/ardour.svg
+    ```
+
+    Okay, it is true, now you have the filename of the existing icon, it's `ardour.svg`, and the icon name from the issue, it's `ardour5`. Make symlinks with the command:
+
+    ```
+    # Usage: ./new-symlink.sh context <symlink name> <icon filename>
+
+    ./new-symlink.sh apps ardour5 ardour.svg
+    ```
+
+    **NOTE:** Symlinks will look like broken but is ok.
+
+    If your symlinks are in apps, emblems or mimetypes you can continue from step *6.3*, else continue from step *3*.
+
 **IMPORTANT:** Please don't remove suffixes from the filename as it's needed for other scripts. Filename extension must be in lowercase.
 
 ### 2. Papirus
 
-1. Open the created/copied file on Inkscape.
+1. Open the created/copied file in Inkscape.
 2. Delete any objects you do not need.
 3. Draw new objects.
-4. Save file with same filename.
+4. Save the file with the same filename.
 5. Repeat it for other sizes.
 
 ### 3. Papirus Dark
 
-
-1. Run script `tools/work/convert-to-dark.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Dark` and changes its colors.
+1. Run script `tools/work/convert-to-dark.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Dark` and changes the color scheme.
 
     **IMPORTANT:** You should draw icons for Papirus first.
 
@@ -120,8 +147,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 ### 4. Papirus Light
 
-
-1. Run script `tools/work/convert-to-light.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Light` and changes its colors.
+1. Run script `tools/work/convert-to-light.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Light` and changes the color scheme.
 
     **IMPORTANT:** You should draw icons for Papirus first.
 
@@ -133,8 +159,7 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
 
 ### 5. ePapirus
 
-
-1. Run script `tools/work/convert-to-e.sh`. It copies needed icons from `work/Papirus` to `work/ePapirus` and changes its colors.
+1. Run script `tools/work/convert-to-e.sh`. It copies needed icons from `work/Papirus` to `work/ePapirus` and changes the color scheme.
 
     **IMPORTANT:** You should draw icons for Papirus first.
 
@@ -165,4 +190,14 @@ Open directory `work` in a file manager and open a terminal at the directory. Yo
     ./clean.sh
     ```
 
-5. Everything is ready now! You can commit the changes to GitHub.
+5. Go to repository root and run tests:
+
+    ```
+    # change directory
+    cd $(git rev-parse --show-cdup)
+
+    # run tests
+    make tests
+    ```
+
+6. Everything is ready now! You can commit the changes to GitHub.

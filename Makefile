@@ -36,5 +36,9 @@ undo_release: _get_version
 	-git tag -d $(VERSION)
 	-git push --delete origin $(VERSION)
 
+tests:
+	# Printing all broken symlinks
+	@find . -xtype l -not -path './tools/work/*' -print
 
-.PHONY: all install uninstall _get_version push release undo_release
+
+.PHONY: all install uninstall _get_version push release undo_release tests
