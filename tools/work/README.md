@@ -97,12 +97,13 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
 
 - #### Make symlinks to an existing icon
 
-    It is a real example of the issue #354
+    It is a real example of the issue [#354](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/354)
 
     Make sure that icons exist:
 
     ```
     find ../../Papirus -iname '*ardour*' -print
+
     # ./Papirus/16x16/apps/ardour.svg
     # ./Papirus/22x22/apps/ardour.svg
     # ./Papirus/24x24/apps/ardour.svg
