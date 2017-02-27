@@ -71,7 +71,7 @@ Packages in this section are not part of the official repositories. If you have 
 |:-----------|:------------------|:------------|
 | Arch Linux | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) (AUR) |
 | Arch Linux | Josip Ponjavic    | [papirus-icon-theme-git](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git) (OBS) |
-| Fedora     | —                 | Maintainer needed. Use [Papirus Installer](#papirus-installer) as before |
+| Fedora     | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) (copr) |
 | Manjaro    | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE   | Konstantin Voinov | [papirus-icon-theme](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme) (OBS) |
 | Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
