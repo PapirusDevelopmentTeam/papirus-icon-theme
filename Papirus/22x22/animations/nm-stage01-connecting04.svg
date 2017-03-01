@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg version="1.1" height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
  <defs>
-  <linearGradient id="linearGradient3816" y2="4.125" gradientUnits="userSpaceOnUse" y1="31.125" gradientTransform="matrix(0 -1 -1 0 544.12 391.88)" x2="3.875" x1="5.875">
-   <stop stop-color="#dbdee0" offset="0"/>
-   <stop stop-color="#dbdee0" stop-opacity="0" offset="1"/>
+  <linearGradient id="linearGradient3605" x1="7" gradientUnits="userSpaceOnUse" y1="12" gradientTransform="matrix(.98481 .17363 .17363 -.98481 -2.9013 20.734)" x2="19" y2="5">
+   <stop stop-color="#d3dae3" stop-opacity=".5" offset="0"/>
+   <stop stop-color="#d3dae3" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3819" y2="10" gradientUnits="userSpaceOnUse" y1="6" gradientTransform="matrix(0,1,-1,0,544,368)" x2="23" x1="12">
-   <stop stop-color="#dbdee0" offset="0"/>
-   <stop stop-color="#dbdee0" stop-opacity="0" offset="1"/>
+  <linearGradient id="linearGradient3611" x1="7" gradientUnits="userSpaceOnUse" y1="12" gradientTransform="matrix(-.98481 -.17363 -.17363 .98481 24.901 1.2656)" x2="17" y2="12">
+   <stop stop-color="#d3dae3" offset="0"/>
+   <stop stop-opacity=".5" stop-color="#d3dae3" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(-521 -369)">
-  <path d="m540 380c0-4.4064-3.5936-8-8-8s-8 3.5936-8 8h2c0-3.3256 2.6744-6 6-6s6 2.6744 6 6c0 0.55228 0.44772 1 1 1s1-0.44772 1-1z" fill="url(#linearGradient3819)"/>
-  <path d="m540 380c0 4.4064-3.5936 8-8 8s-8-3.5936-8-8h2c0 3.3256 2.6744 6 6 6s6-2.6744 6-6z" fill="url(#linearGradient3816)"/>
-  <rect style="color:#bebebe" height="22" width="22" y="369" x="521" fill="none"/>
- </g>
+ <path fill="url(#linearGradient3611)" d="m17.894 12.215c.671-3.8069-1.871-7.4374-5.679-8.1087-3.8069-.6712-7.4374 1.871-8.1087 5.6787l1.9696.34726c.4795-2.7196 3.0731-4.5355 5.7921-4.0561 2.7195.47946 4.5354 3.0728 4.0559 5.7922-.22572 1.2803 1.7439 1.6275 1.9696.34726z"/>
+ <path fill="url(#linearGradient3605)" d="m17.894 12.215-1.9696-.34726c-.47946 2.7195-3.0728 4.5354-5.7922 4.0559-2.7196-.479-4.5355-3.073-4.0561-5.792l-1.9696-0.347c-.67126 3.8073 1.871 7.4378 5.6783 8.1091 3.8073.67126 7.4378-1.871 8.1091-5.6783z"/>
 </svg>

@@ -1,1 +1,16 @@
-nm-stage01-connecting02.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient3605" y2="5" gradientUnits="userSpaceOnUse" x2="19" gradientTransform="matrix(.43366 -.90108 -.90108 -.43366 16.609 27.017)" y1="12" x1="7">
+   <stop stop-color="#d3dae3" stop-opacity=".5" offset="0"/>
+   <stop stop-color="#d3dae3" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3611" y2="12" gradientUnits="userSpaceOnUse" x2="17" gradientTransform="matrix(-.43366 .90108 .90108 .43366 5.3906 -5.0168)" y1="12" x1="7">
+   <stop stop-color="#d3dae3" offset="0"/>
+   <stop stop-opacity=".5" stop-color="#d3dae3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#linearGradient3611)" d="m11.342 4.0059c-2.7251-.1320-5.3913 1.3462-6.6486 3.9589-1.6765 3.4832-.2122 7.6672 3.2714 9.3442l.8672-1.803c-2.4882-1.198-3.5352-4.186-2.3379-6.674 1.1975-2.4882 4.1859-3.5354 6.6739-2.3379 1.171.5638 2.039-1.2369.867-1.8007-.871-.4192-1.785-.6435-2.693-.6875z"/>
+ <path fill="url(#linearGradient3605)" d="m14.035 4.6934l-.867 1.8007c1.949.9382 2.995 2.9751 2.789 5.0099.015 0 .028-.004.043-.004.743 0 1.402.338 1.859.859.608-3.0562-.886-6.2517-3.824-7.6656zm-5.203 10.813l-.8672 1.803c1.4681.706 3.0582.848 4.5352.523v-2.076c-1.171.369-2.475.324-3.668-.250z"/>
+ <path fill="#d3dae3" d="m16 12c-1.108 0-2 .91085-2 2.0312v.96875h-1v4h6v-4h-1v-.96875c0-1.12-.892-2.031-2-2.031zm0 1c.554 0 1 .4424 1 1v1h-2v-1c0-.5576.446-1 1-1z"/>
+</svg>
