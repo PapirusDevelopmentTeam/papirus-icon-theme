@@ -69,11 +69,11 @@ Packages in this section are not part of the official repositories. If you have 
 
 | **Distro** | **Maintainer**    | **Package** |
 |:-----------|:------------------|:------------|
-| Arch Linux | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) (AUR) |
-| Arch Linux | Josip Ponjavic    | [papirus-icon-theme-git](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git) (OBS) |
-| Fedora     | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) (copr) |
+| Arch Linux | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
+| Arch Linux | Josip Ponjavic    | [papirus-icon-theme-git](https://software.opensuse.org/download.html?project=home:metakcahura&package=papirus-icon-theme-git) <sup>OBS [[link](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git)] </sub> |
+| Fedora     | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | Manjaro    | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
-| openSUSE   | Konstantin Voinov | [papirus-icon-theme](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme) (OBS) |
+| openSUSE   | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
 | Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
