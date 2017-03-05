@@ -3,7 +3,7 @@
 set -e
 
 gh_repo="papirus-icon-theme"
-gh_desc="Papirus icon theme for KDE"
+gh_desc="Papirus icon theme KDE"
 
 cat <<- EOF
 
@@ -34,19 +34,15 @@ tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
 rm -rf ~/.local/share/icons/ePapirus
 rm -rf ~/.local/share/icons/Papirus
-rm -rf ~/.local/share/icons/Papirus-Light
 rm -rf ~/.local/share/icons/Papirus-Dark
-rm -rf ~/.local/share/icons/papirus
-rm -rf ~/.local/share/icons/papirus-dark
-rm -rf ~/.local/share/icons/papirus-arc
-rm -rf ~/.local/share/icons/papirus-arc-dark
+rm -rf ~/.local/share/icons/Papirus-Light
 echo "=> Installing ..."
 mkdir -p ~/.local/share/icons
 cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
-  "$temp_dir/$gh_repo-master/Papirus-Light" \
-  "$temp_dir/$gh_repo-master/Papirus-Dark" ~/.local/share/icons/
+  "$temp_dir/$gh_repo-master/Papirus-Dark" \
+  "$temp_dir/$gh_repo-master/Papirus-Light" ~/.local/share/icons/
 echo "=> Clearing cache ..."
 rm -f ~/.cache/icon-cache.kcache
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"

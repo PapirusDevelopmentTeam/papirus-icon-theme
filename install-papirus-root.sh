@@ -36,22 +36,16 @@ sudo rm -rf /usr/share/icons/ePapirus
 sudo rm -rf /usr/share/icons/Papirus
 sudo rm -rf /usr/share/icons/Papirus-Dark
 sudo rm -rf /usr/share/icons/Papirus-Light
-sudo rm -rf /usr/share/icons/Papirus-GTK
-sudo rm -rf /usr/share/icons/Papirus-Dark-GTK
-sudo rm -rf /usr/share/icons/papirus
-sudo rm -rf /usr/share/icons/papirus-dark
-sudo rm -rf /usr/share/icons/papirus-arc
-sudo rm -rf /usr/share/icons/papirus-arc-dark
 echo "=> Installing ..."
 sudo cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
-  "$temp_dir/$gh_repo-master/Papirus-Light" \
-  "$temp_dir/$gh_repo-master/Papirus-Dark" /usr/share/icons/
+  "$temp_dir/$gh_repo-master/Papirus-Dark" \
+  "$temp_dir/$gh_repo-master/Papirus-Light" /usr/share/icons/
 sudo gtk-update-icon-cache -q "/usr/share/icons/ePapirus" || true
 sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus" || true
-sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus-Light" || true
 sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus-Dark" || true
+sudo gtk-update-icon-cache -q "/usr/share/icons/Papirus-Light" || true
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
 echo "=> Done!"
