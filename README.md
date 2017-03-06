@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-2400%2B-5294e2.svg?style=flat-square"/>
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-2500%2B-5294e2.svg?style=flat-square"/>
   <img alt="actions" src="https://img.shields.io/badge/actions_icons-1700%2B-5294e2.svg?style=flat-square"/>
   <img alt="panel" src="https://img.shields.io/badge/panel_icons-1600%2B-5294e2.svg?style=flat-square"/>
   <img alt="places" src="https://img.shields.io/badge/places_icons-880%2B-5294e2.svg?style=flat-square"/>
@@ -70,7 +70,7 @@ Packages in this section are not part of the official repositories. If you have 
 | **Distro** | **Maintainer**    | **Package** |
 |:-----------|:------------------|:------------|
 | Arch Linux | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
-| Arch Linux | Josip Ponjavic    | [papirus-icon-theme-git](https://software.opensuse.org/download.html?project=home:metakcahura&package=papirus-icon-theme-git) <sup>OBS [[link](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git)] </sub> |
+| Arch Linux | Josip Ponjavic    | [papirus-icon-theme-git](https://software.opensuse.org/download.html?project=home:metakcahura&package=papirus-icon-theme-git) <sup>OBS [[link](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git)]</sub> |
 | Fedora     | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | Manjaro    | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE   | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
