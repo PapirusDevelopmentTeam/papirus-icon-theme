@@ -5,6 +5,7 @@ Maintainer: Sergei Eremenko <finalitik@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+Bugs: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues
 
 Package: papirus-icon-theme
 Architecture: all
