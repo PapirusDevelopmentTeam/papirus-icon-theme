@@ -1,9 +1,11 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" fill-rule="evenodd" xml:space="preserve" viewBox="0 0 1771.65 1771.65" width="24" version="1.1" clip-rule="evenodd" height="24">
- <defs id="defs6">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" version="1.1" height="24">
+ <defs>
   <style type="text/css" id="current-color-scheme">
    .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
   </style>
  </defs>
- <path id="path10" style="fill:currentColor" d="m706.9 295.27 422.01 742.94h401.82l-423.45-742.94h-400.38zm-63.73 37.49-421.71 744.94 200.4 360.9 424.89-747.56-203.58-358.28zm49.309 779.28-207.04 364.34h843.29l199.69-364.34h-835.94z" class="ColorScheme-ButtonBackground"/>
+ <g>
+  <path d="m 3.000028,15 5.5,-10 3,5.5 -5.5,9.5 z m 7,0.01 11,-0.01055 -3,5 -11,-3e-6 z m 5.0001,-11.01 6,10 -6.5,0 -5.5,-10 z" class="ColorScheme-ButtonBackground" style="fill:currentColor"/>
+ </g>
 </svg>
