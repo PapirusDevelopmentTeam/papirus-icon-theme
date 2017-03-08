@@ -1,16 +1,9 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" id="svg2">
- <defs id="defs4">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
+ <defs>
   <style type="text/css" id="current-color-scheme">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
-  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle cy="26" cx="286" r="10" id="circle7"/>
-  </clipPath>
  </defs>
- <g transform="translate(-424,-422)" id="g9">
-  <circle opacity="0" stroke-width=".455" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10" id="circle11"/>
-  <circle opacity="0" stroke-width=".909" clip-path="url(#clipPath4186)" transform="matrix(2 0 0 2 -182.17 393.41)" cy="26" cx="286" r="10" id="circle13"/>
-  <path style="fill:currentColor" d="m435 425a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm-4 4h2v0.006l0.002-0.002 1.998 2.996 2-3h2v8h-2v-4l-2 2-2-2v4h-2v-8z" id="path15" class="ColorScheme-Text"/>
- </g>
+ <path style="fill:currentColor" d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z M 7,7 9,7 9,7.006 9.002,7.004 11,10 l 2,-3 2,0 0,8 -2,0 0,-4 -2,2 -2,-2 0,4 -2,0 0,-8 z" class="ColorScheme-Text"/>
 </svg>
