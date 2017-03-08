@@ -1,0 +1,26 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+	install|upgrade)
+		# Removes symbolic links before installing/upgrading the package
+		#
+		# The stupid way to avoid that problem in the future
+		# https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/370
+		find /usr/share/icons/ePapirus      -type l -delete || true
+		find /usr/share/icons/Papirus       -type l -delete || true
+		find /usr/share/icons/Papirus-Dark  -type l -delete || true
+		find /usr/share/icons/Papirus-Light -type l -delete || true
+		;;
+
+	abort-upgrade)
+		;;
+
+	*)
+		echo "preinst called with unknown argument \`$1'" >&2
+		exit 0
+		;;
+esac
+
+exit 0
