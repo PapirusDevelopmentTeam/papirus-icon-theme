@@ -40,10 +40,10 @@ if [ -d /usr/share/icons/Papirus ]; then
   sudo rm -rf "/usr/share/icons/Papirus-Light.HiDPI"
   echo "=> Installing ..."
   sudo cp --no-preserve=mode,ownership -r \
-    "$temp_dir/$gh_repo-master/ePapirus.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus-Light.HiDPI" /usr/share/icons/
+    "$temp_dir/$gh_repo-HiDPI/ePapirus.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" /usr/share/icons/
 elif [ -d ~/.icons/Papirus ]; then
   echo "=> Deleting old $gh_desc ..."
   rm -rf "$HOME/.icons/ePapirus.HiDPI"
@@ -52,10 +52,10 @@ elif [ -d ~/.icons/Papirus ]; then
   rm -rf "$HOME/.icons/Papirus-Light.HiDPI"
   echo "=> Installing ..."
   cp --no-preserve=mode,ownership -r \
-    "$temp_dir/$gh_repo-master/ePapirus.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus-Light.HiDPI" ~/.icons/
+    "$temp_dir/$gh_repo-HiDPI/ePapirus.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" ~/.icons/
 elif [ -d ~/.local/share/icons/Papirus ]; then
   echo "=> Deleting old $gh_desc ..."
   rm -rf "$HOME/.local/share/icons/ePapirus.HiDPI"
@@ -64,10 +64,10 @@ elif [ -d ~/.local/share/icons/Papirus ]; then
   rm -rf "$HOME/.local/share/icons/Papirus-Light.HiDPI"
   echo "=> Installing ..."
   cp --no-preserve=mode,ownership -r \
-    "$temp_dir/$gh_repo-master/ePapirus.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-master/Papirus-Light.HiDPI" ~/.local/share/icons/
+    "$temp_dir/$gh_repo-HiDPI/ePapirus.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" ~/.local/share/icons/
 else
   echo "!! Papirus icon theme cannot be found."
 fi
