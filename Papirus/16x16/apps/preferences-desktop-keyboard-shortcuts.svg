@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect ry=".8" rx=".857" transform="matrix(0,-1,-1,0,0,0)" height="16" width="12" y="-16" x="-14" fill="#5d5d5d"/>
- <rect rx=".4" ry=".5" height="2" width="12" y="11" x="2" fill="#ccc"/>
- <path fill="#ccc" d="m12 5a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ccc" d="m3 5a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ccc" d="m6 5a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ccc" d="m9 5a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ff8834" d="m15 5a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ccc" d="m14 8a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ccc" d="m5 8a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ccc" d="m8 8a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
- <path fill="#ff8834" d="m11 8a1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1 1 1 0 0 1 1 1z"/>
+ <rect style="fill:#5d5d5d" rx=".8" ry=".8" height="12" width="16" y="2" x="0"/>
+ <circle r="1" style="fill:#cccccc" cy="5" cx="2"/>
+ <circle r="1" style="fill:#cccccc" cy="5" cx="5"/>
+ <circle r="1" style="fill:#cccccc" cy="5" cx="8"/>
+ <circle r="1" style="fill:#cccccc" cy="5" cx="11"/>
+ <circle r="1" style="fill:#ff8834" cy="5" cx="14"/>
+ <circle r="1" style="fill:#cccccc" cy="8" cx="4"/>
+ <circle r="1" style="fill:#cccccc" cy="8" cx="7"/>
+ <circle r="1" style="fill:#ff8834" cy="8" cx="10"/>
+ <circle r="1" style="fill:#cccccc" cy="8" cx="13"/>
+ <rect style="fill:#cccccc" rx=".5" ry=".5" height="2" width="12" y="11" x="2"/>
 </svg>
