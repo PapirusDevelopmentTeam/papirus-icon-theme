@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="24" y="-30" x="-28" fill="#f03939"/>
- <g transform="translate(-1,-2)">
-  <path opacity=".2" style="color:#bebebe" d="m7 10v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1h-1zm1 2h2v3h-2v-3zm6 4v1h6v-1h-6z"/>
-  <path d="m7 9v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1h-1zm1 2h2v3h-2v-3zm6 4v1h6v-1h-6z" fill="#fff"/>
- </g>
- <path opacity=".1" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
- <path opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <path d="m6 8v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z" style="opacity:.2"/>
+ <rect rx="1.5" ry="1.5" height="24" width="28" y="4" x="2" style="fill:#f03939"/>
+ <path d="m6 7v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z" style="fill:#ffffff"/>
+ <path style="fill:#ffffff;opacity:.1" d="m3.5 4c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5h-25z"/>
+ <path style="opacity:.1" d="m2 26.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z"/>
 </svg>
