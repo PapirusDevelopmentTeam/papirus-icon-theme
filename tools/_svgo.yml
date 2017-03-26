@@ -38,6 +38,7 @@ plugins:
   # removes unused IDs
   - cleanupIDs:
       minify: false
+      preserve: [ 'current-color-scheme' ]
 
   # removes elements in <defs> without id
   - removeUselessDefs
