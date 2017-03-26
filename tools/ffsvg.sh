@@ -29,6 +29,9 @@ _run_helpers() {
 	# fix a color scheme
 	eval "$SCRIPT_DIR/_fix_color_scheme.sh"	"$1"
 
+	# clear attributes
+	eval "$SCRIPT_DIR/_clean_attrs.sh" "$1"
+
 	# clear a style attribute
 	eval "$SCRIPT_DIR/_clean_style_attr.sh"	"$1"
 }
