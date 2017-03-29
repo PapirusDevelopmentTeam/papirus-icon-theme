@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24" height="24">
+<svg width="24" xmlns="http://www.w3.org/2000/svg" version="1.1" height="24">
  <defs>
-  <linearGradient x1="7" y1="12" gradientTransform="matrix(0.0017459,1,1,-0.0017459,-0.020902,0.020902)" x2="19" gradientUnits="userSpaceOnUse" y2="5" id="linearGradient3605">
-   <stop offset="0" stop-opacity=".5" stop-color="#ffffff"/>
-   <stop offset="1" stop-opacity="0" stop-color="#ffffff"/>
+  <linearGradient id="linearGradient3605" x1="7" gradientUnits="userSpaceOnUse" x2="19" gradientTransform="matrix(.0017459 1 1 -.0017459 -.020902 .020902)" y1="12" y2="5">
+   <stop stop-opacity=".5" stop-color="#ffffff" offset="0"/>
+   <stop stop-opacity="0" stop-color="#ffffff" offset="1"/>
   </linearGradient>
-  <linearGradient x1="7" y1="12" gradientTransform="matrix(-0.0017459,-1,-1,0.0017459,24.021,23.979)" x2="17" gradientUnits="userSpaceOnUse" y2="12" id="linearGradient3611">
-   <stop offset="0" stop-color="#ffffff"/>
-   <stop offset="1" stop-color="#ffffff" stop-opacity=".5"/>
+  <linearGradient id="linearGradient3611" x1="7" gradientUnits="userSpaceOnUse" x2="17" gradientTransform="matrix(-.0017459 -1 -1 .0017459 24.021 23.979)" y1="12" y2="12">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#ffffff" stop-opacity=".5" offset="1"/>
   </linearGradient>
  </defs>
- <path d="M 11.988281 5 L 11.992188 7 C 14.754188 6.9952 16.995 9.2294344 17 11.990234 C 17 11.993528 17.000007 11.996708 17 12 C 17.753524 12 18.431103 12.295575 18.955078 12.763672 C 18.983293 12.509074 19.000556 12.250821 19 11.988281 C 18.993 8.1222813 15.854281 4.9932 11.988281 5 z M 13 16.873047 C 12.678722 16.9461 12.351257 16.999343 12.007812 17 C 10.707812 17.002 10.711719 19.002 12.011719 19 C 12.348333 18.999341 12.676393 18.965237 13 18.917969 L 13 16.873047 z" style="fill:url(#linearGradient3611)"/>
- <path d="M 11.988281 5 C 8.1225812 5.0068 4.9933 8.1454187 5 12.011719 C 5.0068 15.877719 8.1454188 19.007 12.011719 19 L 12.007812 17 C 9.2470125 17.005 7.0049 14.770766 7 12.009766 C 6.9952 9.2478656 9.2312875 7.0048 11.992188 7 L 11.988281 5 z" style="fill:url(#linearGradient3605)"/>
- <path d="m17 13c-1.108 0-2 .91085-2 2.0312v.96875h-1v4h6v-4h-1v-.96875c0-1.12-.892-2.031-2-2.031zm0 1c.554 0 1 .4424 1 1v1h-2v-1c0-.5576.446-1 1-1z" fill="#ffffff"/>
+ <path style="fill:url(#linearGradient3611)" d="m11.988 5l0.004 2c2.762-0.0048 5.003 2.2294 5.008 4.99v0.01c0.754 0 1.431 0.296 1.955 0.764 0.028-0.255 0.046-0.513 0.045-0.776-0.007-3.8657-3.146-6.9948-7.012-6.988zm1.012 11.873c-0.321 0.073-0.649 0.126-0.992 0.127-1.3 0.002-1.296 2.002 0.004 2 0.336-0.001 0.664-0.035 0.988-0.082v-2.045z"/>
+ <path style="fill:url(#linearGradient3605)" d="m11.988 5c-3.8654 0.0068-6.9947 3.1454-6.988 7.012 0.0068 3.866 3.1454 6.995 7.012 6.988l-0.004-2c-2.761 0.005-5.0031-2.229-5.008-4.99-0.0048-2.7621 2.2313-5.0052 4.992-5.01l-0.004-2z"/>
+ <path d="m17 13c-1.108 0-2 0.91085-2 2.0312v0.96875h-1v4h6v-4h-1v-0.96875c0-1.12-0.892-2.031-2-2.031zm0 1c0.554 0 1 0.4424 1 1v1h-2v-1c0-0.5576 0.446-1 1-1z" fill="#ffffff"/>
 </svg>

@@ -4,9 +4,9 @@
  <path style="fill:#00bcd4" d="m8 16a8 8 0 0 0 8 -8h-8z"/>
  <path style="fill:#009688" d="m8-1e-7a8 8 0 0 1 8 8h-8z"/>
  <path style="fill:#cddc39" d="m8 16a8 8 0 0 1 -8 -8h8z"/>
- <circle r="5" style="fill:#f9f9f9" cx="8" cy="8"/>
+ <circle cx="8" style="fill:#f9f9f9" r="5" cy="8"/>
  <path style="fill:#2196f3" d="m0 8 1.5 1.5 1.5-1.5z"/>
- <path d="m16 8-1.5-1.5-1.5 1.5z" style="fill:#00bcd4"/>
- <path d="m8 16 1.5-1.5-1.5-1.5z" style="fill:#cddc39"/>
- <path style="fill:#009688" d="m8-1e-7-1.5 1.5 1.5 1.5z"/>
+ <path style="fill:#00bcd4" d="m16 8-1.5-1.5-1.5 1.5z"/>
+ <path style="fill:#cddc39" d="m8 16 1.5-1.5-1.5-1.5z"/>
+ <path style="fill:#009688" d="m8-1e-7 -1.5 1.5 1.5 1.5z"/>
 </svg>

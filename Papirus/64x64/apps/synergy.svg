@@ -10,6 +10,6 @@
  <path style="fill:#2196f3" d="m2 32 5 5 5-5z"/>
  <path style="fill:#009688" d="m32 2-5 5 5 5z"/>
  <circle cy="34" cx="32" r="20" style="opacity:.2"/>
- <circle cx="32" style="fill:#f9f9f9" r="20" cy="32"/>
- <path style="opacity:.2;fill:#ffffff" d="m32 2.0002a30 30 0 0 0 -30 30 30 30 0 0 0 .0215 .590 30 30 0 0 1 29.978 -29.59 30 30 0 0 1 29.979 29.41 30 30 0 0 0 .021 -.410 30 30 0 0 0 -30 -30z"/>
+ <circle style="fill:#f9f9f9" cx="32" r="20" cy="32"/>
+ <path style="opacity:.2;fill:#ffffff" d="m32 2.0002a30 30 0 0 0 -30 30 30 30 0 0 0 0.0215 0.59 30 30 0 0 1 29.978 -29.59 30 30 0 0 1 29.979 29.41 30 30 0 0 0 0.021 -0.41 30 30 0 0 0 -30 -30z"/>
 </svg>

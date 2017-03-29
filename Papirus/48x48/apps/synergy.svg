@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" viewBox="0 0 48 48">
- <circle cx="24" cy="25" r="22" style="opacity:.2"/>
+ <circle cy="25" cx="24" r="22" style="opacity:.2"/>
  <path style="fill:#009688" d="m24 2a22 22 0 0 1 22 22h-22z"/>
  <path style="fill:#cddc39" d="m24 46a22 22 0 0 1 -22 -22h22z"/>
  <path style="fill:#2196f3" d="m2 24 4 4 4-4z"/>
  <path style="fill:#2196f3" d="m24 2a22 22 0 0 0 -22 22h22z"/>
  <path style="fill:#00bcd4" d="m46 24-4-4-4 4z"/>
  <path style="fill:#00bcd4" d="m24 46a22 22 0 0 0 22 -22h-22z"/>
- <path d="m24 46 4-4-4-4z" style="fill:#cddc39"/>
+ <path style="fill:#cddc39" d="m24 46 4-4-4-4z"/>
  <path style="fill:#009688" d="m24 2-4 4 4 4z"/>
- <path style="opacity:.2;fill:#ffffff" d="m24 2a22 22 0 0 0 -22 22 22 22 0 0 0 .0215 .586 22 22 0 0 1 21.978 -21.586 22 22 0 0 1 21.979 21.414 22 22 0 0 0 .021 -.414 22 22 0 0 0 -22 -22z"/>
- <circle cx="24" cy="25" r="14" style="opacity:.2"/>
- <circle r="14" style="fill:#f9f9f9" cx="24" cy="24"/>
+ <path style="opacity:.2;fill:#ffffff" d="m24 2a22 22 0 0 0 -22 22 22 22 0 0 0 0.0215 0.586 22 22 0 0 1 21.978 -21.586 22 22 0 0 1 21.979 21.414 22 22 0 0 0 0.021 -0.414 22 22 0 0 0 -22 -22z"/>
+ <circle cy="25" cx="24" r="14" style="opacity:.2"/>
+ <circle cx="24" style="fill:#f9f9f9" r="14" cy="24"/>
 </svg>
