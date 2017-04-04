@@ -8,10 +8,10 @@ case "$1" in
 		#
 		# The stupid way to avoid that problem in the future
 		# https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/370
-		find /usr/share/icons/ePapirus      -type l -delete || true
-		find /usr/share/icons/Papirus       -type l -delete || true
-		find /usr/share/icons/Papirus-Dark  -type l -delete || true
-		find /usr/share/icons/Papirus-Light -type l -delete || true
+		find /usr/share/icons/ePapirus      -type l -delete > /dev/null 2>&1 || true
+		find /usr/share/icons/Papirus       -type l -delete > /dev/null 2>&1 || true
+		find /usr/share/icons/Papirus-Dark  -type l -delete > /dev/null 2>&1 || true
+		find /usr/share/icons/Papirus-Light -type l -delete > /dev/null 2>&1 || true
 		;;
 
 	abort-upgrade)
