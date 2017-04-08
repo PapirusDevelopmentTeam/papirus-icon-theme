@@ -1,9 +1,46 @@
-Sam Hewitt - author icon theme Paper (https://github.com/snwh/paper-icon-theme)
-Alexey Varfolomeev - author icon theme Papirus (https://github.com/PapirusDevelopmentTeam)
-Sergei Eremenko - code optimization, scripting (https://github.com/SmartFinn)
-Andreas_K - kde color support (https://github.com/DarkknightAK)
-Tomasz Przybył - Makefile scripts (https://github.com/FadeMind)
-Mohammed Aquib Azad - some additional icons (https://github.com/azadaquib)
-Some sources use from Numix & Numix Circle icon themes (https://github.com/numixproject)
-Some sources use from elementary+ icon theme (https://github.com/mank319/elementaryPlus)
+Authors:
 
+  - Alexey Varfolomeev (https://github.com/varlesh)
+    The author of Papirus icon theme
+
+
+Maintainers:
+
+  - Sergei Eremenko (https://github.com/SmartFinn)
+    SVG optimization, scripting
+
+  - Tomasz Przybył (https://github.com/FadeMind)
+    Makefile scripts
+
+
+Contributors (sorted alphabetically):
+
+  - Andreas Kainz (https://github.com/DarkknightAK)
+    KDE colorscheme support
+
+  - Gregor Kofler (https://github.com/Vectrex)
+    The author of extra icons
+
+  - Mohammed Aquib Azad (https://github.com/azadaquib)
+    The author of extra icons
+
+  See https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/contributors for details.
+
+
+Original sources:
+
+  - Paper Icon Theme (https://github.com/snwh/paper-icon-theme)
+    Author: Sam Hewitt (https://samuelhewitt.com)
+    License: CC-BY-SA-4.0
+
+  - Numix icon theme (https://github.com/numixproject/numix-icon-theme)
+    Author: Numix Project (http://numixproject.org)
+    License: GPL-3.0
+
+  - Numix Core (https://github.com/numixproject/numix-core)
+    Author: Numix Project (http://numixproject.org)
+    License: GPL-3.0
+
+  - elementary+ Icon Theme (https://github.com/mank319/elementaryPlus)
+    Author: elementaryPlus contributors (https://github.com/mank319/elementaryPlus)
+    License: GPL-3.0
