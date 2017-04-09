@@ -18,6 +18,6 @@ find "$SCRIPT_DIR/ePapirus" "$SCRIPT_DIR/Papirus" "$SCRIPT_DIR/Papirus-Dark" \
 	filename="${base_name%%@*}"
 	size="${base_name##*@}"
 
-	cp --no-preserve=mode,ownership -P -v "$file" \
+	cp --no-preserve=mode,ownership --remove-destination -P -v "$file" \
 		"$TARGET_DIR/$base_dir/$size/$context/$filename.svg"
 done
