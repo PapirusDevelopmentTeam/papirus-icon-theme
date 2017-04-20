@@ -3,23 +3,14 @@ all:
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons
 	cp --no-preserve=mode,ownership -r \
-		ePapirus \
-		Papirus \
-		Papirus-Light \
-		Papirus-Dark \
+		Pop \
 		$(DESTDIR)/usr/share/icons
 
 post-install:
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/ePapirus
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Dark
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Light
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Pop
 
 uninstall:
-	-rm -rf $(DESTDIR)/usr/share/icons/ePapirus
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Dark
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Light
+	-rm -rf $(DESTDIR)/usr/share/icons/Pop
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
