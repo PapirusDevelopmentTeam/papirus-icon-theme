@@ -1,9 +1,60 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   style="enable-background:new"
+   version="1.1"
+   width="16"
+   id="svg8"
+   sodipodi:docname="process-stop-symbolic.svg"
+   inkscape:version="0.92+devel unknown">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="40.625"
+     inkscape:cx="6.708902"
+     inkscape:cy="6.2364089"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid839" />
+  </sodipodi:namedview>
+  <title
+     id="title2">
   Paper Symbolic Icon Theme
  </title>
- <g transform="translate(-445.03186,38.93752)">
-  <path d="m 450.2502,-37.9375 -0.3125,0.28125 -3.625,3.625 -0.28125,0.3125 0,0.40625 0,4.75 0,0.40625 0.28125,0.3125 3.625,3.625 0.3125,0.28125 0.40625,0 4.75,0 0.40625,0 0.3125,-0.28125 3.625,-3.625 0.28125,-0.3125 0,-0.40625 0,-4.75 0,-0.40625 -0.28125,-0.3125 -3.625,-3.625 -0.3125,-0.28125 -0.40625,0 -4.75,0 -0.40625,0 z m -0.25,3.9375 1,0 c 0.27614,0 0.53779,0.10028 0.71875,0.28125 l 1.28125,1.27734 1.28125,-1.27734 C 454.46241,-33.89972 454.72406,-34 455.0002,-34 l 1,0 0,1 c 0,0.27614 -0.10029,0.53778 -0.28125,0.71875 l -1.28125,1.27734 1.28125,1.28516 c 0.18096,0.18097 0.28262,0.44261 0.28125,0.71875 l 0,1 -1,0 c -0.27614,0 -0.53779,-0.10028 -0.71875,-0.28125 l -1.28125,-1.28516 -1.28125,1.28516 C 451.53799,-28.10028 451.27634,-28 451.0002,-28 l -1,0 0,-1 c 0,-0.27614 0.10029,-0.53778 0.28125,-0.71875 l 1.28125,-1.28516 -1.28125,-1.27734 C 450.10049,-32.46222 450.0002,-32.72386 450.0002,-33 l 0,-1 z" style="fill:#ababab;fill-opacity:1;"/>
- </g>
+  <path
+     style="opacity:1;fill:#ababab;fill-opacity:1"
+     d="M 1 1 L 1 3 L 1 4 L 1 14 L 1 15 L 15 15 L 15 14 L 15 4 L 15 3 L 15 1 L 1 1 z M 2 4 L 14 4 L 14 14 L 2 14 L 2 4 z M 4 6 L 4 8 L 12 8 L 12 6 L 4 6 z M 4 10 L 4 12 L 12 12 L 12 10 L 4 10 z "
+     id="path18" />
 </svg>
