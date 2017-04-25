@@ -30,11 +30,6 @@ Note that an initial `./configure` or `make` is not required.
 
 Pop has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
 
-Available colors:
-
-![Folder Color Preview](folder-color-preview.png)
-
-
 ## Recommendations
 
 - For GTK, use icons alongside [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
