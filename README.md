@@ -9,7 +9,12 @@ You can install Pop from our official [PPA](https://launchpad.net/~system76-dev/
 ```
 sudo add-apt-repository ppa:system76-dev/stable
 sudo apt-get update
-sudo apt-get install system76-pop-icon-theme
+sudo apt-get install system76-pop-theme
+```
+
+This will install the complete look; individual components can be installed separately:
+```
+sudo apt install system76-pop-icon-theme
 ```
 
 ### Installation from Source
@@ -29,15 +34,10 @@ Available colors:
 
 ![Folder Color Preview](folder-color-preview.png)
 
-## Extras
-
-- [Papirus theme for LibreOffice](https://github.com/PapirusDevelopmentTeam/papirus-libreoffice-theme)
-- [Papirus themes for FileZilla](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes)
-- [Papirus theme for SMPlayer](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme)
 
 ## Recommendations
 
-- For GTK, better use icons alongside [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
+- For GTK, use icons alongside [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
 
 ## Manual fixes
 <details>
