@@ -4,7 +4,7 @@ all:
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons/Pop
 	cp --no-preserve=mode,ownership -r \
-		Pop/* \
+		Papirus/* \
 		$(DESTDIR)/usr/share/icons/Pop
 	./icons-recolor.sh $(DESTDIR)/usr/share/icons/Pop/
 

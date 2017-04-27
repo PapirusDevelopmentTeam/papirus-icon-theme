@@ -16,8 +16,8 @@ find $1 -type f -exec sed -i 's/5294e2/48b9c7/g' {} +
 find $1 -type f -exec sed -i 's/4877b1/318b93/g' {} +
 
 # blacks
-find $1 -type f -exec sed -i 's/5d5d5d/574f4a/g' {} +
-find $1 -type f -exec sed -i 's/505050/3c352e/g' {} +
+find $1 -type f -exec sed -i 's/5d5d5d/463e39/g' {} +
+find $1 -type f -exec sed -i 's/505050/2b241d/g' {} +
 
 # browns
 find $1 -type f -exec sed -i 's/856b35/5a463e/g' {} +
