@@ -1,10 +1,12 @@
 all:
+	#"There is no need to run 'make'. Just run 'sudo make install'"
 
 install:
-	mkdir -p $(DESTDIR)/usr/share/icons
+	mkdir -p $(DESTDIR)/usr/share/icons/Pop
 	cp --no-preserve=mode,ownership -r \
-		Pop \
-		$(DESTDIR)/usr/share/icons
+		Pop/* \
+		$(DESTDIR)/usr/share/icons/Pop
+	./icons-recolor.sh $(DESTDIR)/usr/share/icons/Pop/
 
 post-install:
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Pop
