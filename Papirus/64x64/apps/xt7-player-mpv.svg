@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <rect style="fill:#5d5d5d" ry="3" rx="3" transform="matrix(0,-1,-1,0,0,0)" height="56" width="56" y="-60" x="-60"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 8 C 4 6.338 5.338 5 7 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 7 4 z"/>
+ <path style="opacity:0.2" d="m 4,57 0,1 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-1 c 0,1.662 -1.338,3 -3,3 L 7,60 C 5.338,60 4,58.662 4,57 Z"/>
+ <path style="opacity:0.2" d="M 32,13 A 20,20 0 0 0 12,33 20,20 0 0 0 32,53 20,20 0 0 0 52,33 20,20 0 0 0 32,13 Z m -6,10 8,5 8,5 -8,5 -8,5 0,-20 z"/>
+ <path style="fill:#ffffff" d="M 32,12 A 20,20 0 0 0 12,32 20,20 0 0 0 32,52 20,20 0 0 0 52,32 20,20 0 0 0 32,12 Z m -6,10 8,5 8,5 -8,5 -8,5 0,-20 z"/>
+</svg>

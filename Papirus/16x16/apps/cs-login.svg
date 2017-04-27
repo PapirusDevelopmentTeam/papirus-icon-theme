@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect ry=".8" style="enable-background:new" rx=".75" transform="matrix(0,-1,-1,0,0,0)" height="16" width="12" y="-16" x="-14" fill="#5d5d5d"/>
+ <rect rx=".8" ry=".75" height="3" width="12" y="9" x="2" fill="#fff"/>
+ <rect rx=".8" ry=".75" height="3" width="12" y="4" x="2" fill="#fff"/>
+ <circle cy="6" cx="4" r="1" fill="#4fa0ff"/>
+ <circle cy="11" cx="4" r="1" fill="#ff4f4f"/>
+ <circle cy="6" cx="7" r="1" fill="#4fa0ff"/>
+ <circle cy="11" cx="7" r="1" fill="#ff4f4f"/>
+ <circle cy="6" cx="10" r="1" fill="#4fa0ff"/>
+ <circle cy="11" cx="10" r="1" fill="#ff4f4f"/>
+</svg>

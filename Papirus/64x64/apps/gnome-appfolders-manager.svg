@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2.8" ry="2.8" height="56" width="56" y="-60" x="-60" style="fill:#5d5d5d"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.8007812,4 C 5.2496034,4 4,5.2495828 4,6.8002056 L 4,7.8 C 4,6.2493772 5.2496034,4.9997944 6.8007812,4.9997944 l 50.3984378,0 C 58.749197,4.9997944 60,6.2493772 60,7.8 L 60,6.8002056 C 60,5.2495828 58.749197,4 57.199219,4 L 6.8007812,4 Z"/>
+ <path style="opacity:0.2" d="m 4,57.2 0,0.999795 C 4,59.749454 5.2504035,61 6.8007812,61 L 57.199219,61 C 58.749197,61 60,59.749454 60,58.199795 L 60,57.2 c 0,1.54966 -1.250803,2.800205 -2.800781,2.800205 l -50.3984378,0 C 5.2504035,60.000205 4,58.74966 4,57.2 Z"/>
+ <g transform="matrix(1.9999714,0,0,2,5.72e-5,1)" style="opacity:0.2">
+  <rect rx=".75" ry=".75" height="6" width="6" y="5" x="5" style="opacity:1"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="5" x="13" style="opacity:1"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="13" x="5" style="opacity:1"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="13" x="13" style="opacity:1"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="21" x="5" style="opacity:1"/>
+ </g>
+ <g style="fill:#81ff85" transform="matrix(1.9999714,0,0,2,5.72e-5,1.146e-4)">
+  <rect rx=".75" ry=".75" height="6" width="6" y="5" x="5"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="5" x="13"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="13" x="5"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="13" x="13"/>
+  <rect rx=".75" ry=".75" height="6" width="6" y="21" x="5"/>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <path style="opacity:0.2;enable-background:new" d="m 4.0000004,51.12407 0,1.999971 C 4.0000004,54.718018 5.2495825,56 6.8007604,56 L 57.20004,56 C 58.750017,56 60,54.718018 60,53.124041 l 0,-1.999971 c 0,1.593977 -1.249983,2.875959 -2.79996,2.875959 l -50.3992796,0 c -1.5503779,0 -2.79996,-1.281982 -2.79996,-2.875959 z"/>
+ <rect ry="2.8" style="fill:#5d5d5d;enable-background:new" rx="2.876" transform="matrix(0,-1,-1,0,0,0)" height="55.999" width="45.999" y="-60" x="-55"/>
+ <g style="opacity:0.2" transform="matrix(1.9999714,0,0,1.9999714,5.760572e-5,8.008e-4)">
+  <rect rx="1.333" ry="1.25" height="5" width="20" y="10" x="6"/>
+  <rect rx="1.333" ry="1.25" height="5" width="20" y="18" x="6"/>
+ </g>
+ <rect style="fill:#ffffff" rx="2.666" ry="2.5" height="10" width="39.999" y="19" x="12"/>
+ <rect style="fill:#ffffff" rx="2.666" ry="2.5" height="10" width="39.999" y="35" x="12"/>
+ <path style="opacity:0.1;fill:#ffffff;enable-background:new" d="M 6.8007812 9 C 5.2496034 9 4 10.282223 4 11.875 L 4 12.876953 C 4 11.284176 5.2496034 10.001953 6.8007812 10.001953 L 57.199219 10.001953 C 58.749196 10.001953 60 11.284176 60 12.876953 L 60 11.875 C 60 10.282223 58.749196 9 57.199219 9 L 6.8007812 9 z"/>
+ <circle style="fill:#4fa0ff" cy="24" cx="17" r="3"/>
+ <circle style="fill:#ff4f4f" cy="40" cx="17" r="3"/>
+ <circle style="fill:#4fa0ff" cy="24" cx="27" r="3"/>
+ <circle style="fill:#ff4f4f" cy="40" cx="27" r="3"/>
+ <circle style="fill:#4fa0ff" cy="24" cx="37" r="3"/>
+ <circle style="fill:#ff4f4f" cy="40" cx="37" r="3"/>
+</svg>

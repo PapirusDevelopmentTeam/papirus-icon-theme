@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" height="24" width="4" y="-36" x="-44" fill="#c4c4c4"/>
+ <rect transform="scale(1,-1)" height="7" width="4" y="-40" x="22" fill="#c4c4c4"/>
+ <path d="m9 19v2.5c0 6.925 6.69 12.5 15 12.5s15-5.575 15-12.5v-2.5h-4v1.834c0 5.078-4.906 9.166-11 9.166s-11-4.088-11-9.166v-1.834h-4z" fill="#c4c4c4"/>
+ <rect ry="10" rx="10" transform="matrix(0,-1,-1,0,0,0)" height="20" width="24" y="-34" x="-28" fill="#5d5d5d"/>
+ <path opacity=".1" d="m24 4c-5.54 0-10 4.46-10 10v1c0-5.54 4.46-10 10-10s10 4.46 10 10v-1c0-5.54-4.46-10-10-10zm-15 15v1h4v-1h-4zm26 0v1h4v-1h-4zm-22 1.834v1c0 5.078 4.906 9.166 11 9.166s11-4.088 11-9.166v-1c0 5.078-4.906 9.166-11 9.166s-11-4.088-11-9.166zm-1 19.166v1h10v-1h-10zm14 0v1h10v-1h-10z" fill="#fff"/>
+ <path opacity=".2" d="m14 18v1c0 5.54 4.46 10 10 10s10-4.46 10-10v-1c0 5.54-4.46 10-10 10s-10-4.46-10-10zm-5 3.5v1c0 6.358 5.645 11.565 13 12.377v-1c-7.355-0.812-13-6.019-13-12.377zm30 0c0 6.358-5.645 11.565-13 12.377v1c7.355-0.812 13-6.019 13-12.377v-1zm-27 22.5v1h24v-1h-24z"/>
+ <circle style="enable-background:new" cx="36" cy="37" r="10" fill="#db3c30"/>
+ <path opacity=".2" style="enable-background:new" d="m45.979 37.414a10 10 0 0 1 -9.979 9.586 10 10 0 0 1 -9.979 -9.414 10 10 0 0 0 -0.021 0.414 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -0.021 -0.586z"/>
+ <g fill="#fff" transform="matrix(.70711 -.70711 .70711 .70711 -13.497 35.846)">
+  <rect y="35" width="12" height="2" x="28"/>
+  <rect transform="rotate(-90)" height="2" width="12" y="33" x="-42"/>
+ </g>
+</svg>

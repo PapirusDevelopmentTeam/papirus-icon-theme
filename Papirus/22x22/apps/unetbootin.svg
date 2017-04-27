@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <g transform="matrix(.93333 0 0 1 -.2 -1)">
+  <path fill="#848484" d="m4.5 3h15v7h-15z"/>
+  <path opacity=".2" d="m4.5 3v0.5h15v-0.5h-15z" fill="#fff"/>
+ </g>
+ <rect rx="1" ry="1" height="12" width="20" y="8" x="1" fill="#5d5d5d"/>
+ <g opacity=".2" transform="matrix(.5 0 0 .5 -1 -3)">
+  <rect opacity="1" height="4" width="24" y="26" x="12"/>
+  <rect opacity="1" height="4" width="20" y="32" x="14"/>
+  <rect opacity="1" height="4" width="16" y="38" x="16"/>
+ </g>
+ <path opacity=".2" d="m1 19v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
+ <circle cy="16" cx="16" r="6" fill="#e74c3c"/>
+ <path d="m 13,17 3,3 3,-3 -2,0 0,-4 -2,0 0,4 z" style="fill:#ffffff"/>
+ <rect opacity=".2" height="2" width="4" y="4" x="5"/>
+ <rect opacity=".2" height="2" width="4" y="4" x="13"/>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <path fill="#848484" d="m9 6h30v14h-30z"/>
+ <rect rx="2" ry="2" height="24" width="40" y="18" x="4" fill="#5d5d5d"/>
+ <rect opacity=".3" height="4" width="24" y="23" x="12"/>
+ <rect opacity=".3" height="4" width="20" y="29" x="14"/>
+ <rect opacity=".3" height="4" width="16" y="35" x="16"/>
+ <path opacity=".2" d="m9 6v1h30v-1h-30z" fill="#fff"/>
+ <path opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <rect opacity=".3" height="4" width="6" y="9" x="12"/>
+ <rect opacity=".3" height="4" width="6" y="9" x="30"/>
+</svg>

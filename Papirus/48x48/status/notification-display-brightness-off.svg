@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" width="48" version="1.1">
+ <rect ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="24" width="32" y="-36" x="-42" fill="#c4c4c4"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="32" y="-44" x="-38" fill="#c4c4c4"/>
+ <rect ry="0" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="34" width="26" y="-41" x="-35" fill="#5d5d5d"/>
+ <path opacity=".2" fill="#fff" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m12 40v1c0 1.108 0.892 2 2 2h20c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-20c-1.108 0-2-0.892-2-2z"/>
+ <path opacity=".2" d="m4 36v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <circle style="enable-background:new" cx="37" cy="36" r="10" fill="#db3c30"/>
+ <path opacity=".2" style="enable-background:new" d="m46.979 36.414a10 10 0 0 1 -9.979 9.586 10 10 0 0 1 -9.979 -9.414 10 10 0 0 0 -0.021 0.414 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -0.021 -0.586z"/>
+ <g fill="#fff" transform="matrix(.70711 -.70711 .70711 .70711 -12.497 34.846)">
+  <rect y="35" width="12" height="2" x="28"/>
+  <rect transform="rotate(-90)" height="2" width="12" y="33" x="-42"/>
+ </g>
+</svg>

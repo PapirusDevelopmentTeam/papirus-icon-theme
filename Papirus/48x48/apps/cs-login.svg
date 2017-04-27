@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect ry="2" style="enable-background:new" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="40" width="32" y="-44" x="-40" fill="#5d5d5d"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <rect rx="2" ry="2" height="8" width="30" y="14" x="9"/>
+  <rect rx="2" ry="2" height="8" width="30" y="26" x="9"/>
+ </g>
+ <path opacity=".1" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" style="enable-background:new" fill="#fff"/>
+ <path opacity=".2" style="enable-background:new" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <rect rx="2" ry="2" height="8" width="30" y="14" x="9" fill="#fff"/>
+ <rect rx="2" ry="2" height="8" width="30" y="26" x="9" fill="#fff"/>
+ <circle cy="18" cx="13" r="3" fill="#4fa0ff"/>
+ <circle cy="18" cx="20" r="3" fill="#4fa0ff"/>
+ <circle cy="18" cx="27" r="3" fill="#4fa0ff"/>
+ <circle cy="30" cx="13" r="3" fill="#ff4f4f"/>
+ <circle cy="30" cx="20" r="3" fill="#ff4f4f"/>
+ <circle cy="30" cx="27" r="3" fill="#ff4f4f"/>
+</svg>

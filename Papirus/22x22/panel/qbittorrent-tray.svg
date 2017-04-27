@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1" id="svg2">
+ <defs id="defs4">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle cx="286" cy="26" r="10" id="circle7"/>
+  </clipPath>
+ </defs>
+ <circle opacity="0" stroke-width=".455" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-30.4)" cy="26" cx="286" r="10" id="circle9"/>
+ <circle opacity="0" stroke-width=".909" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-30.4)" cy="26" cx="286" r="10" id="circle11"/>
+ <path style="fill:currentColor" d="m11 3a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm1 2h1v4.5039a2.5 2.5 0 0 1 1.5 -0.5039 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1 -2.5 2.5 2.5 2.5 0 0 1 -1.5 -0.502v0.502h-1v-2.5-6.5zm-4.5 4a2.5 2.5 0 0 1 1.5 0.502v-0.502h1v2.5 6.5h-1v-4.5039a2.5 2.5 0 0 1 -1.5 0.504 2.5 2.5 0 0 1 -2.5 -2.5 2.5 2.5 0 0 1 2.5 -2.5zm0 1a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -1.5 -1.5zm7 0a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -1.5 -1.5z" id="path13" class="ColorScheme-ButtonBackground"/>
+</svg>
