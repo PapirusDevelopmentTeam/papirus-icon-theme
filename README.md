@@ -88,7 +88,7 @@ Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussao
 hardcode-tray --conversion-tool Inkscape
 ```
 
-![hardcode-tray](hardcode-tray-preview.png)
+![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
 
 ## KDE colorscheme
 
@@ -97,7 +97,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 - Papirus Dark - for dark plasma theme & color scheme
 - Papirus Light - for light plasma theme & color scheme
 
-![kde-color-scheme](kde-color-scheme.png)
+![kde-color-scheme](http://i.imgur.com/oM1qhQH.png)
 
 **NOTE:** Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color by manually.
 
@@ -129,7 +129,7 @@ Papirus has [Folder colors](http://foldercolor.tuxfamily.org/) support that allo
 
 Available colors:
 
-![Folder Color Preview](folder-color-preview.png)
+![Folder Color Preview](http://i.imgur.com/JSIa5WD.png)
 
 ## Extras
 
@@ -167,7 +167,7 @@ For Cinnamon users who want use Papirus icon theme with [arc-theme](https://gith
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
 ```
 
-![Cinnamon Arc-Dark theme fix](cinnamon-arc-dark-theme-fix.png)
+![Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
 
 Also, increase panel size with `Allow Cinnamon to scale panel text and icons according to the panel height` option because Papirus contains only 22px and 24px panel's icons.
 </details>
@@ -206,7 +206,7 @@ bubble-close-on-click = 1
 bubble-as-desktop-bg = 0
 ```
 
-![notify-fix](notify-fix.png)
+![notify-fix](http://i.imgur.com/hjTpvca.png)
 
 Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
 </details>
@@ -214,7 +214,7 @@ Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopment
 <details>
 <summary>For Xfce users</summary>
 
-Here is a few recommendation for Xfce users. 
+Here is a few recommendation for Xfce users.
 
 #### Thunar File Manager
 
