@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="24" y="-30" x="-28" fill="#5d5d5d"/>
+ <path opacity=".1" fill="#fff" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path opacity=".2" stroke-linejoin="round" d="m8.5151 10.485 14 14" stroke="#000" stroke-linecap="round" stroke-width="3" fill="none"/>
+ <path opacity=".2" stroke-linejoin="round" d="m22.515 10.485-14 14" stroke="#000" stroke-linecap="round" stroke-width="3" fill="none"/>
+ <path opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <g transform="translate(-.48485 -1019.9)">
+  <g>
+   <g stroke-linejoin="round" transform="translate(-.012810 .0213)" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="none">
+    <path d="m9.0128 1029.3 14 14"/>
+    <path d="m23.013 1029.3-14 14"/>
+   </g>
+  </g>
+ </g>
+</svg>

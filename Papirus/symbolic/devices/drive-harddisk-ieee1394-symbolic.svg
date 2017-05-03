@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg height="16" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg" enable-background="new">
+ <defs>
+  <filter color-interpolation-filters="sRGB" id="filter7554">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-281.00021,52.031197)" filter="url(#filter7554)">
+  <path d="m 289.5002,-47 c -1.38071,0 -2.5,1.11929 -2.5,2.5 0,1.38071 1.11929,2.5 2.5,2.5 1.38071,0 2.5,-1.11929 2.5,-2.5 0,-1.38071 -1.11929,-2.5 -2.5,-2.5 z m 0,1 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z" fill="#5c616c"/>
+  <rect height="1" width="3" x="288" y="-41" fill="#5c616c"/>
+  <rect height="1" width="3" x="288" y="-39" fill="#5c616c"/>
+  <rect height="1" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" width="3" x="234.67" y="166.74" fill="#5c616c"/>
+  <rect height="1" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" width="3" x="234.67" y="168.74" fill="#5c616c"/>
+  <rect height="3" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" width="3" x="171.74" y="-242.67" fill="#5c616c"/>
+ </g>
+</svg>

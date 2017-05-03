@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="22" width="28" y="-27" x="-30" fill="#5d5d5d"/>
+ <path opacity=".3" style="enable-background:new" d="m16 6c-3.866 0-7 3.134-7 7v7h7c3.866 0 7-3.134 7-7s-3.134-7-7-7zm0 3a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z"/>
+ <path opacity=".1" d="m7 2c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-18z" fill="#fff"/>
+ <path opacity=".2" d="m5 28v1c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2z"/>
+ <circle style="enable-background:new" fill-rule="evenodd" cx="24" cy="23" r="8" fill="#4daaf5"/>
+ <g transform="translate(4,2)" fill="#fff">
+  <rect y="20" x="19" height="6" width="3"/>
+  <rect y="16" x="19" height="3" width="3"/>
+ </g>
+ <path opacity=".2" style="enable-background:new" d="m31.979 23.424a8 8 0 0 1 -7.979 7.576 8 8 0 0 1 -7.979 -7.424 8 8 0 0 0 -0.021 0.424 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -0.02148 -0.57617z"/>
+</svg>

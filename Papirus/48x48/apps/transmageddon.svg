@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <path d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z" fill="#5d5d5d"/>
+ <path opacity=".1" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
+ <path opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <rect opacity="1" height="4" width="4" y="6" x="10"/>
+  <rect opacity="1" height="4" width="4" y="14" x="10"/>
+  <rect opacity="1" height="4" width="4" y="22" x="10"/>
+  <rect opacity="1" height="4" width="4" y="30" x="10"/>
+  <rect opacity="1" height="4" width="4" y="38" x="10"/>
+  <rect opacity="1" height="4" width="4" y="6" x="34"/>
+  <rect opacity="1" height="4" width="4" y="14" x="34"/>
+  <rect opacity="1" height="4" width="4" y="22" x="34"/>
+  <rect opacity="1" height="4" width="4" y="30" x="34"/>
+  <rect opacity="1" height="4" width="4" y="38" x="34"/>
+ </g>
+ <g fill="#fff">
+  <rect y="6" width="4" x="10" height="4"/>
+  <rect y="14" width="4" x="10" height="4"/>
+  <rect y="22" width="4" x="10" height="4"/>
+  <rect y="30" width="4" x="10" height="4"/>
+  <rect y="38" width="4" x="10" height="4"/>
+  <rect y="6" width="4" x="34" height="4"/>
+  <rect y="14" width="4" x="34" height="4"/>
+  <rect y="22" width="4" x="34" height="4"/>
+  <rect y="30" width="4" x="34" height="4"/>
+  <rect y="38" width="4" x="34" height="4"/>
+ </g>
+ <rect opacity=".2" height="14" width="16" y="8" x="16"/>
+ <rect opacity=".2" height="14" width="16" y="26" x="16"/>
+ <circle opacity=".2" style="enable-background:new" fill-rule="evenodd" cy="37" cx="36" r="11"/>
+ <circle style="enable-background:new" fill-rule="evenodd" cx="36" cy="36" r="11" fill="#4269cd"/>
+ <path d="m36 29c-3.866 0-7 3.134-7 7s3.134 7 7 7c3.1748 0 5.8615-2.1032 6.7188-5h-2.1562c-0.77427 1.7595-2.5168 3-4.5625 3-2.7614 0-5-2.2386-5-5s2.2386-5 5-5c1.3816 0 2.6155 0.57505 3.5156 1.4844l-2.516 2.516h6v-6l-2.0527 2.0527c-1.268-1.265-3.013-2.053-4.947-2.053z" style="enable-background:new" fill="#fff"/>
+</svg>

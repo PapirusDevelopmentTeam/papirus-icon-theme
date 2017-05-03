@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#5d5d5d"/>
+ <g transform="scale(.5)">
+  <path d="m4.5 12 3.225 8h2.3l3.175-8h-2.175l-2.175 5.275-2.15-5.275h-2.2z" fill="#631428"/>
+  <path d="m15.325 12c-1.0831 2.6805-2.1839 5.3442-3.325 8h2.3l2.15-5.25 2.125 5.25h2.3l2.125-5.4 2.2 5.4h2.3c-1.1411-2.6558-2.2669-5.3195-3.35-8h-2.3l-2.125 5.275-2.175-5.275h-2.225z" fill="#8b9193" fill-opacity=".941"/>
+ </g>
+</svg>

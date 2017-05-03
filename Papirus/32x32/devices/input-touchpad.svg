@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
+ <rect ry="1.3" rx="1.3" transform="matrix(0,-1,-1,0,0,0)" height="26" width="26" y="-29" x="-29" fill="#5d5d5d"/>
+ <path opacity=".1" d="m4.3008 3c-0.7202 0-1.3008 0.5806-1.3008 1.3008v1c0-0.7202 0.5806-1.3008 1.3008-1.3008h23.398c0.72 0 1.301 0.5806 1.301 1.3008v-1c0-0.7202-0.581-1.3008-1.301-1.3008h-23.398z" fill="#fff"/>
+ <g opacity=".3">
+  <rect opacity="1" rx="1.222" ry="1.2" height="6" width="11" y="22" x="4"/>
+  <rect opacity="1" rx="1.222" ry="1.2" height="6" width="11" y="22" x="17"/>
+  <rect opacity="1" height="1" width="4" y="7" x="24"/>
+  <rect opacity="1" height="1" width="4" y="9" x="24"/>
+  <rect opacity="1" height="1" width="4" y="11" x="24"/>
+  <rect opacity="1" height="1" width="4" y="13" x="24"/>
+  <rect opacity="1" height="1" width="4" y="15" x="24"/>
+  <rect opacity="1" height="1" width="4" y="17" x="24"/>
+ </g>
+ <path opacity=".2" d="m3 27.699v1c0 0.72 0.5806 1.301 1.3008 1.301h23.398c0.72 0 1.301-0.581 1.301-1.301v-1c0 0.72-0.581 1.301-1.301 1.301h-23.398c-0.7204 0-1.301-0.581-1.301-1.301z"/>
+</svg>
