@@ -7,6 +7,8 @@ install:
 		Papirus \
 		Papirus-Light \
 		Papirus-Dark \
+		Papirus-Unity-Light \
+		Papirus-Unity-Dark \
 		$(DESTDIR)/usr/share/icons
 
 post-install:
@@ -14,12 +16,16 @@ post-install:
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Dark
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Light
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Unity-Dark
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Unity-Light
 
 uninstall:
 	-rm -rf $(DESTDIR)/usr/share/icons/ePapirus
 	-rm -rf $(DESTDIR)/usr/share/icons/Papirus
 	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Dark
 	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Light
+	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Unity-Dark
+	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Unity-Light
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))

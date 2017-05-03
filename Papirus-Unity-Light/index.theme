@@ -1,0 +1,43 @@
+[Icon Theme]
+Name=Papirus-Unity-Light
+Comment=A simple and modern icon theme.
+Inherits=Papirus-Light,breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+
+DesktopDefault=48
+ToolbarDefault=16
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=16
+MainToolbarSizes=16,22,32,48
+PanelDefault=22
+PanelSizes=16,22,32,48,64,128,256
+FollowsColorScheme=true
+
+# Directory list
+Directories=24x24/status,24x24@2x/status,48x48/status,48x48@2x/status
+
+[24x24/status]
+Context=Status
+Size=24
+Type=Fixed
+
+[24x24@2x/status]
+Context=Status
+Size=24
+Scale=2
+Type=Fixed
+
+[48x48/status]
+Context=Status
+Size=48
+MinSize=48
+MaxSize=512
+Type=Scalable
+
+[48x48@2x/status]
+Context=Status
+Size=48
+MinSize=48
+MaxSize=512
+Scale=2
+Type=Scalable
+
