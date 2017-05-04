@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64" width="64" version="1.1">
+ <path style="opacity:0.2" d="m 4,56 v 2 c 0,1.662 1.338,3 3,3 h 50 c 1.662,0 3,-1.338 3,-3 v -2 c 0,1.662 -1.338,3 -3,3 H 7 C 5.338,59 4,57.662 4,56 Z"/>
+ <rect style="fill:#5d5d5d;;" ry="3" rx="3" transform="matrix(0,-1,-1,0,0,0)" height="56" width="56" y="-60" x="-60"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7,4 C 5.338,4 4,5.338 4,7 V 8 C 4,6.338 5.338,5 7,5 h 50 c 1.662,0 3,1.338 3,3 V 7 C 60,5.338 58.662,4 57,4 Z"/>
+ <path style="fill:#f24c3d;fill-rule:evenodd;stroke-width:0.1;;" d="M 10,60 H 20 L 60,20 V 10 Z"/>
+ <path style="fill:#e6df15;fill-rule:evenodd;stroke-width:0.1;;" d="M 20,60 H 30 L 60,30 V 20 Z"/>
+ <path style="fill:#66dd23;fill-rule:evenodd;stroke-width:0.1;;" d="M 30,60 H 40 L 60,40 V 30 Z"/>
+ <path style="fill:#24f0ff;fill-rule:evenodd;stroke-width:0.1;;" d="M 40,60 H 50 L 60,50 V 40 Z"/>
+ <g aria-label="ZX" style="font-size:22.84363556px;line-height:14.27727222px;letter-spacing:0px;word-spacing:0px;stroke-width:0.57109088px;opacity:0.25" transform="translate(1,1)">
+  <path d="m 9,10 h 14 v 2 l -9,11 h 9 v 3 H 9 V 24 L 18,13 H 9 Z" style="font-weight:bold;font-size:22.84363556px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"/>
+ </g>
+ <g aria-label="ZX" style="font-size:22.84363556px;line-height:14.27727222px;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.57109088px;" transform="translate(1)">
+  <path d="m 9,10 h 14 v 2 l -9,11 h 9 v 3 H 9 V 24 L 18,13 H 9 Z" style="font-weight:bold;font-size:22.84363556px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#ffffff;"/>
+ </g>
+ <path style="fill-rule:evenodd;stroke-width:0.1;;opacity:0.25" d="m 26,11 5,8 -5,8 h 4 L 33,22.199219 36,27 h 4 l -5,-8 5,-8 H 36 L 33,15.800781 30,11 Z"/>
+ <path style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.1;;" d="m 26,10 5,8 -5,8 h 4 L 33,21.199219 36,26 h 4 l -5,-8 5,-8 H 36 L 33,14.800781 30,10 Z"/>
+</svg>
