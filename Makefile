@@ -40,5 +40,11 @@ tests:
 	# Printing all broken symlinks
 	@find . -xtype l -not -path './tools/work/*' -print
 
+update_authors:
+	editor Papirus/AUTHORS
+	cp -f Papirus/AUTHORS ePapirus/AUTHORS
+	cp -f Papirus/AUTHORS Papirus-Dark/AUTHORS
+	cp -f Papirus/AUTHORS Papirus-Light/AUTHORS
 
-.PHONY: all install uninstall _get_version push release undo_release tests
+
+.PHONY: all install uninstall _get_version push release undo_release tests update_authors
