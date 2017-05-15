@@ -131,6 +131,17 @@ Available colors:
 
 ![Folder Color Preview](http://i.imgur.com/JSIa5WD.png)
 
+For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color)
+<details>
+<summary>Caveats for using dolphin-folder-color</summary>
+
+- The flags of the `kdialog` command used by the scripts varies by version. Some newer versions lack the `--caption` and `--geometry` flags. You may need to edit the script files manually so that they can be successfully run.
+- Papirus icon theme does not have the same color set as the default Breeze theme, so one or two of the colors may not work.
+
+</details>
+
+Currently, there is no easy way to change the global color of folders in KDE. You may edit the themes by yourself if you wish.
+
 ## Extras
 
 - [Papirus theme for LibreOffice](https://github.com/PapirusDevelopmentTeam/papirus-libreoffice-theme)
