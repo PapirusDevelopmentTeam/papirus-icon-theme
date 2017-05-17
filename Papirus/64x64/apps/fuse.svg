@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1" viewBox="0 0 64 64">
+ <path style="opacity:.2" d="m4 56v2c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-2c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3z"/>
+ <rect style="fill:#5d5d5d" transform="matrix(0,-1,-1,0,0,0)" rx="3" ry="3" height="56" width="56" y="-60" x="-60"/>
+ <path style="opacity:.1;fill:#ffffff" d="m7 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3z"/>
+ <path style="fill:#f24c3d" d="m10 60h10l40-40v-10z"/>
+ <path style="fill:#e6df15" d="m20 60h10l30-30v-10z"/>
+ <path style="fill:#66dd23" d="m30 60h10l20-20v-10z"/>
+ <path style="fill:#24f0ff" d="m40 60h10l10-10v-10z"/>
+ <path style="opacity:.2" d="m26 11 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16 0h14v2l-9 11h9v3h-14v-2l9-11h-9z"/>
+ <path style="fill:#ffffff" d="m26 10 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16 0h14v2l-9 11h9v3h-14v-2l9-11h-9z"/>
+</svg>
