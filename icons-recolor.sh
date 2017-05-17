@@ -56,3 +56,4 @@ find $1 -type f -exec sed -i 's/1ea362/f15d22/g' {} +
 
 # symbolic battery status Icons
 sed -i 's/48b9c7/f15d22/g' $1/symbolic/status/battery-*.svg
+sed -i 's/999999/f6f6f6/g' $1/symbolic/actions/system-shutdown-symbolic.svg
