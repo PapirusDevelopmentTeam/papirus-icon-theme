@@ -36,6 +36,7 @@ for i in "$@"; do
 			--enable-id-stripping \
 			--remove-metadata \
 			--renderer-workaround \
+			--set-precision=10 \
 			--strip-xml-space \
 			-i "$i" -o "$i".tmp
 
