@@ -6,7 +6,7 @@
 
 **Is this issue an Icon Request?**
 
-****Please note that Icon Requests are considered low-priority. We recommend submitting Icon Requests directly to [upstream Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues)****
+_Please note that Icon Requests are considered low-priority. We recommend submitting Icon Requests directly to [upstream Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues)_
 
 
 **Pop version (if you knew)**
