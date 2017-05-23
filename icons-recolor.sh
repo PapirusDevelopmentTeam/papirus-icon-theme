@@ -49,7 +49,7 @@ find $1 -type f -exec sed -i 's/bf4b4b/bf6c4b/g' {} +
 find $1 -type f -exec sed -i 's/f5ce46/ffce51/g' {} +
 
 # symbolic
-find $1 -type f -exec sed -i 's/5c616c/999999/g' {} +
+find $1 -type f -exec sed -i 's/5c616c/bebebe/g' {} +
 find $1 -type f -exec sed -i 's/ff9800/faa41a/g' {} +
 find $1 -type f -exec sed -i 's/fec006/ffce51/g' {} +
 find $1 -type f -exec sed -i 's/1ea362/f15d22/g' {} +
