@@ -1,6 +1,10 @@
+## Pop Icons ![Pop Icons](logo.png)
+-------------------
+
 Pop is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) and [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
 ## Installation
+-------------------
 
 ### Ubuntu and derivatives
 
