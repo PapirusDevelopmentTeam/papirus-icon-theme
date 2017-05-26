@@ -36,7 +36,7 @@ sudo make post-install
 ```
 Note that an initial `./configure` or `make` is not required. 
 
-## Folder's color
+#### Folder color
 
 Pop has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
 
