@@ -1,6 +1,16 @@
+<p align="center">
+<img src="https://github.com/system76/pop-icon-theme/raw/master/logo.png"/>
+</p>
+
+-------------------
+
 Pop is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) and [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+<p align="center">
+<img src="https://github.com/system76/pop-icon-theme/raw/master/preview.png"/>
+</p>
 
 ## Installation
+-------------------
 
 ### Ubuntu and derivatives
 
@@ -26,7 +36,7 @@ sudo make post-install
 ```
 Note that an initial `./configure` or `make` is not required. 
 
-## Folder's color
+#### Folder color
 
 Pop has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
 

@@ -36,15 +36,13 @@ Presently we only support the following icons:
 ## System Requirements
 
 - Inkscape
-- npm
-- svgo
+- scour
 
 For Debian/Ubuntu/Linux Mint users:
 
 ```
 sudo apt update
-sudo apt install inkscape npm nodejs-legacy
-sudo npm install -g npm svgo
+sudo apt install inkscape python-scour
 ```
 
 ## Step-by-Step Guide

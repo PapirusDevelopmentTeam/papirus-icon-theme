@@ -24,16 +24,32 @@ _run_helpers() {
 	echo "=> Working on '$1' ..." >&2
 
 	# optimize a SVG
-	svgo --config="$SCRIPT_DIR/_svgo.yml" -i "$1"
+	if command -v svgo > /dev/null 2>&1; then
+		# use SVGO
+		svgo --config="$SCRIPT_DIR/_svgo.yml" -i "$1"
+	elif command -v scour > /dev/null 2>&1; then
+		# use scour
+		eval "$SCRIPT_DIR/_scour.sh" "$1"
+	else
+		cat <<-'EOF'
+
+		You should have installed svgo or scour to use this script.
+
+		sudo apt-get install python-scour
+
+		EOF
+
+		exit 1
+	fi
 
 	# fix a color scheme
-	eval "$SCRIPT_DIR/_fix_color_scheme.sh"	"$1"
+	eval "$SCRIPT_DIR/_fix_color_scheme.sh" "$1"
 
 	# clear attributes
-	eval "$SCRIPT_DIR/_clean_attrs.sh" "$1"
+	sed -r -i -f "$SCRIPT_DIR/_clean_attrs.sed" "$1"
 
 	# clear a style attribute
-	eval "$SCRIPT_DIR/_clean_style_attr.sh"	"$1"
+	sed -r -i -f "$SCRIPT_DIR/_clean_style_attr.sed" "$1"
 }
 
 for i in "$@"; do
