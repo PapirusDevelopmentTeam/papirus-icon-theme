@@ -1,1 +1,36 @@
-accessories-text-editor.svg
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="16" height="16" viewBox="0 0 16 16" xml:space="preserve">
+ <path fill="#CCCCCC" d="M2,0C1.446,0,1,0.446,1,1v14c0,0.555,0.446,1,1,1h12c0.555,0,1-0.445,1-1V1c0-0.554-0.445-1-1-1H9H2z"/>
+ <rect x="2.02" opacity=".082" width=".923" height="16"/>
+ <g>
+  <rect x="5.8" y="3.79" opacity=".513" fill="#28B171" width="3.529" height=".442"/>
+  <rect x="8.01" y="4.68" fill="#F199C8" width="1.323" height=".442"/>
+  <rect x="7.13" y="5.56" opacity=".647" fill="#F75ED0" width="3.086" height=".44"/>
+  <rect x="4.04" y="2.03" opacity=".478" fill="#00A8F9" width="2.206" height=".443"/>
+  <rect x="8.45" y="2.91" opacity=".647" fill="#F75ED0" width="1.324" height=".441"/>
+  <rect x="5.8" y="9.97" opacity=".513" fill="#28B171" width="3.529" height=".439"/>
+  <rect x="8.45" y="9.09" opacity=".647" fill="#F75ED0" width="1.324" height=".438"/>
+  <rect x="4.04" y="8.21" opacity=".478" fill="#00A8F9" width="1.779" height=".44"/>
+  <rect x="4.92" y="7.33" opacity=".513" fill="#28B171" width="4.411" height=".44"/>
+  <rect x="9.77" y="7.33" opacity=".647" fill="#F75ED0" width="2.207" height=".44"/>
+  <rect x="4.04" y="6.44" opacity=".478" fill="#00A8F9" width="3.087" height=".441"/>
+  <rect x="4.04" y="10.86" opacity=".478" fill="#00A8F9" width="4.411" height=".439"/>
+  <rect x="8.45" y="11.74" opacity=".647" fill="#F75ED0" width="2.207" height=".441"/>
+  <rect x="5.8" y="12.62" opacity=".513" fill="#28B171" width="5.735" height=".443"/>
+  <g>
+   <rect x="9.77" y="3.79" fill="#666666" width="2.207" height=".442"/>
+   <rect x="4.92" y="4.68" fill="#666666" width="2.648" height=".442"/>
+   <rect x="4.92" y="5.56" fill="#666666" width="1.779" height=".44"/>
+   <rect x="8.89" y="2.03" fill="#666666" width="1.324" height=".443"/>
+   <rect x="4.92" y="2.91" fill="#666666" width="3.088" height=".441"/>
+   <rect x="9.77" y="9.97" fill="#666666" width="2.646" height=".439"/>
+   <rect x="4.92" y="9.09" fill="#666666" width="3.088" height=".438"/>
+   <rect x="6.24" y="8.21" fill="#666666" width="3.531" height=".44"/>
+   <rect x="8.01" y="6.44" fill="#666666" width="2.205" height=".441"/>
+   <rect x="4.92" y="11.74" fill="#666666" width="3.088" height=".441"/>
+   <rect x="4.92" y="13.5" fill="#666666" width="3.971" height=".441"/>
+   <rect x="9.77" y="4.68" fill="#666666" width="2.207" height=".442"/>
+   <rect x="6.68" y="2.03" fill="#666666" width="1.765" height=".443"/>
+  </g>
+ </g>
+</svg>

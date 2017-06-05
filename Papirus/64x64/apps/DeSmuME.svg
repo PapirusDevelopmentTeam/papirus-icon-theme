@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="64" height="64" viewBox="0 0 64 64" xml:space="preserve">
+ <g>
+  <polygon opacity=".2" points="55 59 55 61 23 61 23 59"/>
+  <rect x="17" y="43" opacity=".2" width="7" height="2"/>
+  <rect x="9" y="27" opacity=".2" width="9" height="3"/>
+  <polygon fill="#393939" points="15 4 50 4 50 40 55 40 55 59.94 23 60 23 44 17 44 17 29 9 29 9 7 15 7"/>
+ </g>
+ <g>
+  <g>
+   <g>
+    <g>
+     <path opacity=".2" d="M19,8v3h-6v16h9V8H19z M19,24h-3V13h3V24z"/>
+    </g>
+   </g>
+   <polygon opacity=".2" points="25 8 34 8 34 10 29 10 29 11 34 11 34 13 29 13 29 23 31 23 31 15 34 15 34 27 25 27"/>
+   <polygon opacity=".2" points="37 8 46 8 46 10 41 10 41 11 46 11 46 27 37 27 37 15 40 15 40 23 43 23 43 13 37 13"/>
+   <polygon opacity=".2" points="20 30 34 30 34 42 31 42 31 32 29 32 29 42 26 42 26 32 24 32 24 42 20 42"/>
+   <polygon opacity=".2" points="37 30 40 30 40 39 42 39 42 30 46 30 46 42 37 42"/>
+   <polygon opacity=".2" points="26 44 40 44 40 58 37 58 37 46 35 46 35 58 31 58 31 46 29 46 29 58 26 58"/>
+   <polygon opacity=".2" points="43 44 52 44 52 46 47 46 47 47 52 47 52 49 47 49 47 56 49 56 49 51 52 51 52 58 45 58 43 56"/>
+  </g>
+  <g>
+   <g>
+    <g>
+     <path fill="#CECDFF" d="M19,7v3h-6v16h9V7H19z M19,23h-3V12h3V23z"/>
+    </g>
+   </g>
+   <polygon fill="#CECDFF" points="25 7 34 7 34 9 29 9 29 10 34 10 34 12 29 12 29 22 31 22 31 14 34 14 34 26 25 26"/>
+   <polygon fill="#CECDFF" points="37 7 46 7 46 9 41 9 41 10 46 10 46 26 37 26 37 14 40 14 40 23 43 23 43 12 37 12"/>
+   <polygon fill="#9999FF" points="20 29 34 29 34 41 31 41 31 31 29 31 29 41 26 41 26 31 24 31 24 41 20 41"/>
+   <polygon fill="#9999FF" points="37 29 40 29 40 38 42 38 42 29 46 29 46 41 37 41"/>
+   <polygon fill="#7473FF" points="26 43 40 43 40 57 37 57 37 45 35 45 35 57 31 57 31 45 29 45 29 57 26 57"/>
+   <polygon fill="#7473FF" points="43 43 52 43 52 45 47 45 47 47 52 47 52 48 47 48 47 55 49 55 49 50 52 50 52 57 45 57 43 55"/>
+  </g>
+ </g>
+</svg>
