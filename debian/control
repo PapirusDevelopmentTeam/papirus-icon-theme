@@ -2,11 +2,12 @@ Source: system76-pop-icon-theme
 Section: gnome
 Priority: optional
 Maintainer: Jeremy Soller <jeremy@system76.com>
-Uploaders: Jeremy Soller <jeremy@system76.com>
+Uploaders: Ian Santopietro <ian@system76.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/system76/pop-icon-theme
 
 Package: system76-pop-icon-theme
 Architecture: all
+Depends: ${misc:Depends}
 Description: System76 Pop Icons
