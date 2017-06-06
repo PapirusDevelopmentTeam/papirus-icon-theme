@@ -156,6 +156,18 @@ Currently, there is no easy way to change the global color of folders in KDE. Yo
 ## Manual fixes
 
 <details>
+<summary>For Gnome users</summary>
+
+For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend
+use [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
+And change icons color for panel:
+```
+sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
+```
+![Gnome Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
+</details>
+
+<details>
 <summary>For Cinnamon users</summary>
 
 For Cinnamon users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend the following combinations:
