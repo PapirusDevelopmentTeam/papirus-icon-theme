@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
- <defs>
-  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
-   <circle cy="26" cx="286" r="10" style="fill:url(#linearGradient4190)"/>
-  </clipPath>
- </defs>
  <circle cy="41" cx="40" r="20" style="opacity:.2"/>
- <circle cx="40" style="fill:#2c80a2" r="20" cy="40.000004"/>
+ <circle cx="40" style="fill:#2c80a2" r="20" cy="40"/>
  <circle r="12" style="opacity:.2" cx="40" cy="41"/>
- <circle cx="40" cy="40.000004" r="12" style="fill:#ffffff"/>
- <circle style="color:#000000;opacity:0" clip-path="url(#clipPath4186)" cx="286" transform="matrix(2.8,0,0,2.8,-768.8,-40.8)" cy="26" r="10"/>
- <circle style="color:#000000;opacity:0" clip-path="url(#clipPath4186)" cx="286" transform="matrix(2.8,0,0,2.8,-768.8,-40.8)" cy="26" r="10"/>
- <circle cx="24" style="opacity:.2" r="20" cy="24.999996"/>
+ <circle cx="40" cy="40" r="12" style="fill:#ffffff"/>
+ <circle cx="24" style="opacity:.2" r="20" cy="25"/>
  <circle cy="24" cx="24" r="20" style="fill:#37abc8"/>
  <circle cx="24" cy="25" r="12" style="opacity:.2"/>
  <circle r="12" style="fill:#ffffff" cx="24" cy="24"/>
