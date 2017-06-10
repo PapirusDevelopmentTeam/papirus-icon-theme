@@ -32,6 +32,21 @@ sudo apt-get install papirus-icon-theme
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=papirus-icon-theme).
 
+### Debian and derivatives
+
+Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
+
+```
+sudo tee /etc/apt/sources.list.d/papirus-ppa.list << EOF
+deb http://ppa.launchpad.net/papirus/papirus/ubuntu xenial main
+EOF
+
+sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
+sudo apt-get update
+sudo apt-get install papirus-icon-theme
+```
+
+
 ### Papirus Installer
 
 Use the scripts to install the latest version directly from this repo (independently on your distro):
