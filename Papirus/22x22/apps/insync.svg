@@ -1,1 +1,11 @@
-google-drive.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <rect ry="1.5" style="opacity:.2" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="20" width="20" y="-21" x="-21.5"/>
+ <rect style="fill:#1e87e4" transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="20" width="20" y="-21" x="-21"/>
+ <path style="opacity:.1;fill:#ffffff" d="m2.5 1c-0.831 0-1.5 0.669-1.5 1.5v0.5c0-0.831 0.669-1.5 1.5-1.5h17c0.831 0 1.5 0.669 1.5 1.5v-0.5c0-0.831-0.669-1.5-1.5-1.5z"/>
+ <path style="stroke:#ffffff;stroke-linecap:square;stroke-width:2;fill:none" d="m9 12a5 5 0 0 1 5 -5"/>
+ <path style="stroke:#ffffff;stroke-linecap:square;stroke-width:2;fill:none" d="m12 12a2 2 0 0 1 2 -2"/>
+ <path style="stroke:#ffffff;stroke-linecap:square;stroke-width:2;fill:none" d="m6 12a8 8 0 0 1 8 -8"/>
+ <rect style="fill:#ffffff" height="4" width="2" y="15" x="14"/>
+ <circle cx="15" style="fill:#ffffff" r="1" cy="13"/>
+</svg>
