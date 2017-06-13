@@ -21,7 +21,7 @@ Papirus icon theme is available in four variants:
 ## Installation
 
 <details>
-<summary>## Ubuntu and derivatives</summary>
+<summary>Ubuntu and derivatives</summary>
 
 You can install Papirus from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
 
@@ -35,7 +35,7 @@ or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ub
 </details>
 
 <details>
-<summary>## Debian and derivatives</summary>
+<summary>Debian and derivatives</summary>
 
 Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
 
@@ -51,7 +51,7 @@ sudo apt-get install papirus-icon-theme
 </details>
 
 <details>
-<summary>## Papirus Installer</summary>
+<summary>Papirus Installer</summary>
 
 Use the scripts to install the latest version directly from this repo (independently on your distro):
 
@@ -84,7 +84,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 </details>
 
 <details>
-<summary>## Unofficial packages</summary>
+<summary>Unofficial repos (Manjaro, Arch Linux, openSUSE, Fedora, Solus OS)</summary>
 
 Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
 
@@ -100,7 +100,10 @@ Packages in this section are not part of the official repositories. If you have 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 </details>
 
-## Hardcoded tray icons
+## Supported
+
+<details>
+<summary>Hardcoded tray icons</summary>
 
 Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
@@ -111,8 +114,10 @@ hardcode-tray --conversion-tool Inkscape
 ```
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
+</details>
 
-## KDE colorscheme
+<details>
+<summary>KDE colorscheme</summary>
 
 Support for monochrome icons for KDE colorscheme is now available:
 - Papirus - for dark plasma theme & light color scheme
@@ -144,8 +149,10 @@ Support for monochrome icons for KDE colorscheme is now available:
   - class: **ColorScheme-Text** color: `#5c616c`
   - class: **ColorScheme-Highlight** color: `#5294e2`
 </details>
+</details>
 
-## Folder's color
+<details>
+<summary>Folder's color</summary>
 
 Papirus has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
 
@@ -163,6 +170,7 @@ For KDE, colors of individual folders can be changed using [dolphin-folder-color
 </details>
 
 Currently, there is no easy way to change the global color of folders in KDE. You may edit the themes by yourself if you wish.
+</details>
 
 ## Extras
 
