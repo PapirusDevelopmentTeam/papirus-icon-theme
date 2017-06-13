@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/system76/pop-icon-theme/raw/master/logo.png"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
 
 -------------------
@@ -9,11 +9,11 @@ Pop is a free and open source SVG icon theme for Linux, based on [Paper Icon Set
 <img src="https://github.com/system76/pop-icon-theme/raw/master/preview.png"/>
 </p>
 
-## Installation
+
 -------------------
 
-### Ubuntu and derivatives
 
+## Installation
 You can install Pop from our official [PPA](https://launchpad.net/~system76-dev/+archive/ubuntu/stable):
 
 ```
@@ -26,8 +26,8 @@ This will install the complete look; individual components can be installed sepa
 ```
 sudo apt install system76-pop-icon-theme
 ```
+#### HOME directory for GTK
 
-### Installation from Source
 
 You can also install the Pop icon set from git by cloning the repository, and using these commands:
 ```
@@ -36,22 +36,22 @@ sudo make post-install
 ```
 Note that an initial `./configure` or `make` is not required. 
 
-#### Folder color
 
+#### Remove
 Pop has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
 
-## Recommendations
 
+### Unofficial packages
 - For GTK, use icons alongside [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
  > Window Titles: Fira Sans SemiBold 10
- 
+
  > Interface: Fira Sans Book 10
- 
+
  > Documents: Roboto Slab Regular 11
- 
+
  > Monospace: Fira Mono Regular 11
 
-## Manual fixes
+
 <details>
 <summary>For Unity users</summary>
 

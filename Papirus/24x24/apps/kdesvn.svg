@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+ <rect style="fill:#6688be" transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-22" x="-22"/>
+ <path style="opacity:.2;fill:#ffffff" d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+ <path style="opacity:.2" d="m2 21v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
+ <path style="stroke-linejoin:round;stroke:#5b5b5b;fill:none" d="m5.5 12.5h10"/>
+ <path style="stroke-linejoin:round;stroke:#5b5b5b;fill:none" d="m10.5 12.5 2.5-5"/>
+ <path style="stroke-linejoin:round;stroke:#5b5b5b;fill:none" d="m10.5 12.5 2.5 5h5"/>
+ <g style="opacity:.2" transform="translate(0 .5)">
+  <circle r="1.5" cx="5.5" cy="12.5"/>
+  <circle cx="10.5" cy="12.5" r="1.5"/>
+  <circle r="1.5" cx="15.5" cy="12.5"/>
+  <circle r="1.5" cx="12.499998" cy="17.5"/>
+  <circle cx="17.5" cy="17.5" r="1.5"/>
+  <circle cx="12.5" cy="7.5" r="1.5"/>
+ </g>
+ <circle cx="5.5" cy="12.5" r="1.5" style="fill:#ffffff"/>
+ <circle r="1.5" style="fill:#ffffff" cx="10.5" cy="12.5"/>
+ <circle cx="15.5" cy="12.5" r="1.5" style="fill:#ffffff"/>
+ <circle cx="12.499998" cy="17.5" r="1.5" style="fill:#ffffff"/>
+ <circle r="1.5" style="fill:#ffffff" cx="17.5" cy="17.5"/>
+ <circle r="1.5" style="fill:#ffffff" cx="12.5" cy="7.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <g transform="translate(-1,-1)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" rx="4" ry="4" height="20" width="14" y="-22" x="-19.5" style="opacity:0.2"/>
+  <rect style="fill:#5d5d5d" x="-19" y="-22" width="14" height="20" ry="4" rx="4" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.2" d="M 19,14.214286 V 10.785715 C 19,9.519428 17.7512,8.5 16.2,8.5 H 7.8 C 6.2488,8.5 5,9.519428 5,10.785715 v 3.428571 C 5,15.480572 6.2488,16.5 7.8,16.5 h 1.7 l 2.5,-1 2.5,1 h 1.7 c 1.5512,0 2.8,-1.019428 2.8,-2.285714 z"/>
+  <path d="M 19,13.714286 V 10.285715 C 19,9.0194284 17.7512,8 16.2,8 H 7.8 C 6.2488,8 5,9.0194284 5,10.285715 v 3.428571 C 5,14.980572 6.2488,16 7.8,16 h 1.7 l 2.5,-1 2.5,1 h 1.7 c 1.5512,0 2.8,-1.019428 2.8,-2.285714 z" style="fill:#48aad5"/>
+  <rect style="opacity:0.2;stroke-width:0.17159984;stroke-linecap:round;stroke-linejoin:round" width="4" height="2" x="10.5" y="-3" rx=".5" ry=".5" transform="rotate(90)"/>
+  <rect transform="rotate(90)" ry=".5" rx=".5" y="-3" x="10" height="2" width="4" style="fill:#929292;stroke-width:0.17159984;stroke-linecap:round;stroke-linejoin:round"/>
+  <rect transform="rotate(90)" ry=".5" rx=".5" y="-23" x="10.5" height="2" width="4" style="opacity:0.2;stroke-width:0.17159984;stroke-linecap:round;stroke-linejoin:round"/>
+  <rect style="fill:#929292;stroke-width:0.17159984;stroke-linecap:round;stroke-linejoin:round" width="4" height="2" x="10" y="-23" rx=".5" ry=".5" transform="rotate(90)"/>
+  <path d="M 6,5 C 3.784,5 2,6.784 2,9 v 0.5 c 0,-2.216 1.784,-4 4,-4 h 12 c 2.216,0 4,1.784 4,4 V 9 C 22,6.784 20.216,5 18,5 Z" style="opacity:0.1;fill:#ffffff"/>
+ </g>
+</svg>
