@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
+ <path d="M 1,4.5 V 19 c 0,0.5544 0.445625,1 1,1 H 20.0005 C 20.5545,20 21,19.5545 21,19 V 4.5 Z" style="fill:#c7c7c7"/>
+ <rect ry=".829" rx=".762" y="14.5" x="3" height="2" width="16" style="opacity:0.2;stroke-width:0.79472947;stroke-linecap:round;stroke-linejoin:round"/>
+ <path style="fill:#5a6367" d="M 2,2 C 1.4456,2 1,2.44575 1,2.99975 V 5 H 21 V 2.99975 C 21,2.44575 20.5545,2 20,2 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 2,2 C 1.4456,2 1,2.446 1,3 v 0.5 c 0,-0.554 0.4456,-1 1,-1 h 18 c 0.5544,0 1,0.446 1,1 V 3 C 21,2.446 20.5545,2 20,2 Z"/>
+ <path d="m 1,19 v 0.5 c 0,0.5544 0.445625,1 1,1 H 20.001 C 20.5545,20.5 21,20.0545 21,19.5 V 19 c 0,0.5544 -0.445275,1 -0.999,1 H 2 C 1.4456,20 1,19.5545 1,19 Z" style="opacity:0.2"/>
+ <rect style="fill:#ffffff;stroke-width:0.79472947;stroke-linecap:round;stroke-linejoin:round" width="16" height="2" x="3" y="14" rx=".762" ry=".829"/>
+ <path d="m 17,15.5 c 0,1.655998 -1.344002,3 -3,3 -1.656,0 -3,-1.344002 -3,-3 0,-1.656 1.344,-3 3,-3 1.655998,0 3,1.344 3,3 z" style="opacity:0.1;fill-rule:evenodd;stroke-width:0.96428007;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.69620254"/>
+ <path style="fill:#5294e2;fill-rule:evenodd;stroke-width:0.96428007;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.69620254" d="m 17,15 c 0,1.655998 -1.344002,3 -3,3 -1.656,0 -3,-1.344002 -3,-3 0,-1.656 1.344,-3 3,-3 1.655998,0 3,1.344 3,3 z"/>
+ <circle r="1" cy="7.5" cx="4" style="opacity:0.2;stroke-width:0.45389968;stroke-linecap:round;stroke-linejoin:round"/>
+ <circle style="fill:#ffffff;stroke-width:0.45389968;stroke-linecap:round;stroke-linejoin:round" cx="4" cy="7" r="1"/>
+ <rect style="opacity:0.1;stroke-width:0.32881764;stroke-linecap:round;stroke-linejoin:round" width="2" height="2" x="7" y="10.5" rx=".315" ry=".344"/>
+ <rect ry=".344" rx=".315" y="10" x="7" height="2" width="2" style="fill:#5294e2;stroke-width:0.32881764;stroke-linecap:round;stroke-linejoin:round"/>
+ <rect ry=".344" rx=".315" y="6.5" x="7" height="2" width="2" style="opacity:0.2;stroke-width:0.32881764;stroke-linecap:round;stroke-linejoin:round"/>
+ <rect style="fill:#ffffff;stroke-width:0.32881764;stroke-linecap:round;stroke-linejoin:round" width="2" height="2" x="7" y="6" rx=".315" ry=".344"/>
+ <circle style="opacity:0.1;stroke-width:0.45389968;stroke-linecap:round;stroke-linejoin:round" cx="4" cy="11.5" r="1"/>
+ <circle r="1" cy="11" cx="4" style="fill:#5294e2;stroke-width:0.45389968;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>
