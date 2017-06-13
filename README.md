@@ -14,13 +14,14 @@ Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon
 Papirus icon theme is available in four variants:
 
  - Papirus (for a light theme with a dark panel)
- - Papirus Dark
- - Papirus Light
+ - Papirus Dark (for a dark theme and panel)
+ - Papirus Light (for a light theme and panel)
  - ePapirus (for elementary OS and Pantheon Desktop)
 
 ## Installation
 
-### Ubuntu and derivatives
+<details>
+<summary>## Ubuntu and derivatives</summary>
 
 You can install Papirus from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
 
@@ -31,8 +32,10 @@ sudo apt-get install papirus-icon-theme
 ```
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=papirus-icon-theme).
+</details>
 
-### Debian and derivatives
+<details>
+<summary>## Debian and derivatives</summary>
 
 Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
 
@@ -45,9 +48,10 @@ sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
+</details>
 
-
-### Papirus Installer
+<details>
+<summary>## Papirus Installer</summary>
 
 Use the scripts to install the latest version directly from this repo (independently on your distro):
 
@@ -77,8 +81,10 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh
 ```
+</details>
 
-### Unofficial packages
+<details>
+<summary>## Unofficial packages</summary>
 
 Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
 
@@ -92,6 +98,7 @@ Packages in this section are not part of the official repositories. If you have 
 | Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
+</details>
 
 ## Hardcoded tray icons
 
