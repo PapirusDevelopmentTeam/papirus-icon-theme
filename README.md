@@ -14,14 +14,13 @@ Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon
 Papirus icon theme is available in four variants:
 
  - Papirus (for a light theme with a dark panel)
- - Papirus Dark (for a dark theme and panel)
- - Papirus Light (for a light theme and panel)
+ - Papirus Dark
+ - Papirus Light
  - ePapirus (for elementary OS and Pantheon Desktop)
 
 ## Installation
 
-<details>
-<summary>Ubuntu and derivatives</summary>
+### Ubuntu and derivatives
 
 You can install Papirus from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
 
@@ -32,10 +31,8 @@ sudo apt-get install papirus-icon-theme
 ```
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=papirus-icon-theme).
-</details>
 
-<details>
-<summary>Debian and derivatives</summary>
+### Debian and derivatives
 
 Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
 
@@ -48,10 +45,9 @@ sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
-</details>
 
-<details>
-<summary>Papirus Installer</summary>
+
+### Papirus Installer
 
 Use the scripts to install the latest version directly from this repo (independently on your distro):
 
@@ -81,10 +77,8 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh
 ```
-</details>
 
-<details>
-<summary>Unofficial repos (Manjaro, Arch Linux, openSUSE, Fedora, Solus OS)</summary>
+### Unofficial packages
 
 Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
 
@@ -98,12 +92,8 @@ Packages in this section are not part of the official repositories. If you have 
 | Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
-</details>
 
-## Supported
-
-<details>
-<summary>Hardcoded tray icons</summary>
+## Hardcoded tray icons
 
 Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
@@ -114,10 +104,8 @@ hardcode-tray --conversion-tool Inkscape
 ```
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
-</details>
 
-<details>
-<summary>KDE colorscheme</summary>
+## KDE colorscheme
 
 Support for monochrome icons for KDE colorscheme is now available:
 - Papirus - for dark plasma theme & light color scheme
@@ -149,10 +137,8 @@ Support for monochrome icons for KDE colorscheme is now available:
   - class: **ColorScheme-Text** color: `#5c616c`
   - class: **ColorScheme-Highlight** color: `#5294e2`
 </details>
-</details>
 
-<details>
-<summary>Folder's color</summary>
+## Folder's color
 
 Papirus has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
 
@@ -170,7 +156,6 @@ For KDE, colors of individual folders can be changed using [dolphin-folder-color
 </details>
 
 Currently, there is no easy way to change the global color of folders in KDE. You may edit the themes by yourself if you wish.
-</details>
 
 ## Extras
 
