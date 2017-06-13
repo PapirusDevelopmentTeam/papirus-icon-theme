@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <defs>
+  <clipPath id="clipPath4266-4" clipPathUnits="userSpaceOnUse">
+   <path d="m146 240c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-12-12h-18z" fill="#fff"/>
+  </clipPath>
+  <filter id="filter4987" y="-.11" x="-.13" width="1.26" height="1.223">
+   <feGaussianBlur stdDeviation=".65"/>
+  </filter>
+ </defs>
+ <path opacity=".1" style="enable-background:new" d="m163.22 242.45v11c0 1.1046 0.89543 2 2 2h10l-1-1-10-9z" clip-path="url(#clipPath4266-4)" transform="translate(-135.61 -237.72)" filter="url(#filter4987)"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z" fill="#ccc"/>
+ <path opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z" fill="#fff"/>
+ <path d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z" fill="#ebebeb"/>
+ <path opacity=".5" style="color:#000000" d="m24 20c-2.5853 0-5 2.0816-5 4.6426v2.357h-0.834c-0.646 0-1.166 0.367-1.166 1v6.8574c0 0.634 0.52 1.143 1.166 1.143h11.668c0.646 0 1.166-0.509 1.166-1.143v-6.857c0-0.63314-0.51968-1-1.166-1h-0.834v-2.357c0-2.56-2.415-4.643-5-4.643zm0 3c1.108 0 2 0.892 2 2v2h-4v-2c0-1.108 0.892-2 2-2z"/>
+</svg>

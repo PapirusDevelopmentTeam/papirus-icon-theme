@@ -6,6 +6,9 @@ install:
 	cp --no-preserve=mode,ownership -r \
 		Papirus/* \
 		$(DESTDIR)/usr/share/icons/Pop
+	cp --no-preserve=mode,ownership -r \
+	    Pop\ Overrides/* \
+	    $(DESTDIR)/usr/share/icons/Pop
 	./icons-recolor.sh $(DESTDIR)/usr/share/icons/Pop/
 
 post-install:
