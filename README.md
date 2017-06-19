@@ -17,14 +17,14 @@ Pop is a free and open source SVG icon theme for Linux, based on [Paper Icon Set
 You can install Pop from our official [PPA](https://launchpad.net/~system76-dev/+archive/ubuntu/stable):
 
 ```
-sudo add-apt-repository ppa:system76-dev/stable
+sudo add-apt-repository ppa:system76/pop
 sudo apt-get update
-sudo apt-get install system76-pop-theme
+sudo apt-get install pop-theme
 ```
 
 This will install the complete look; individual components can be installed separately:
 ```
-sudo apt install system76-pop-icon-theme
+sudo apt install pop-icon-theme
 ```
 #### HOME directory for GTK
 
