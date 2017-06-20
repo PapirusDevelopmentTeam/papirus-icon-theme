@@ -10,4 +10,5 @@ Homepage: https://github.com/system76/pop-icon-theme
 Package: pop-icon-theme
 Architecture: all
 Depends: ${misc:Depends}
+Conflicts: system76-pop-icon-theme
 Description: Pop Icons
