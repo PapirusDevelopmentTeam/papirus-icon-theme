@@ -1,3 +1,9 @@
+pop-icon-theme (1.1.10) zesty; urgency=medium
+
+  * Pull latest icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 23 Jun 2017 11:19:16 -0600
+
 pop-icon-theme (1.1.9) zesty; urgency=medium
 
   * Inherit the invisible pop-os-branding theme for dist logo 
