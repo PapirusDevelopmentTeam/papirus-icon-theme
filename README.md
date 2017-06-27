@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
+  <img src="https://github.com/system76/pop-icon-theme/raw/master/Pop_icons-logo.png" alt="preview"/>
 </p>
 
 -------------------
