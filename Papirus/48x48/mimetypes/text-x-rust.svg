@@ -1,1 +1,7 @@
-text-r.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1">
+ <path d="M 10,4 C 8.892,4 8,4.892 8,6 V 42 C 8,43.108 8.892,44 10,44 H 38 C 39.108,44 40,43.108 40,42 V 16 L 29,15 28,4 Z" style="fill:#dc682a"/>
+ <path d="M 10 4 C 8.892 4 8 4.892 8 6 L 8 7 C 8 5.892 8.892 5 10 5 L 28 5 L 28 4 L 10 4 z" style="fill:#ffffff;opacity:0.1"/>
+ <path d="M 28,4 V 14 C 28,15.105 28.895,16 30,16 H 40 Z" style="fill:#f5c97c"/>
+ <path d="M 15,33 H 12 V 36 H 23 V 33 H 20 V 30 H 22 C 25,30 25,36 28,36 H 33 C 36,36 36,30 36,30 H 32.5 C 32.5,30 33,33 30,33 28.5,33 27,30 27,30 H 28 C 30,30 32,28 32,25.5 32,23 30,21 28,21 H 12 V 24 H 15 M 26,24 C 27,24 28,24 28,25.5 28,27 27,27 26,27 H 20 V 24" style="fill:#ffffff"/>
+</svg>
