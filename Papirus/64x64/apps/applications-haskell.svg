@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <rect ry="5.6" rx="4.55" y="7" x="6" height="52" width="52" style="opacity:0.2"/>
+ <rect style="fill:#cccccc" width="52" height="52" x="6" y="6" rx="4.55" ry="5.6"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 10.551 6 C 8.0301 6 6 8.4972 6 11.6 L 6 12.6 C 6 9.4972 8.0301 7 10.551 7 L 53.449 7 C 55.97 7 58 9.4972 58 12.6 L 58 11.6 C 58 8.4972 55.97 6 53.449 6 L 10.551 6 z"/>
+ <path d="M 13,15 23,33 13,51 H 19 L 29,33 19,15 Z M 23,15 33,33 23,51 H 29 L 36,38.398 43,51 H 49 L 29,15 Z M 39.668,27 41.89,31 H 51 V 27 Z M 44.11,35 46.332,39 H 51 V 35 Z" style="opacity:0.1"/>
+ <path style="fill:#8b82a4" d="M 13,14 23,32 13,50 H 19 L 29,32 19,14 Z M 39.668,26 41.89,30 H 51 V 26 Z M 44.11,34 46.332,38 H 51 V 34 Z"/>
+ <path style="fill:#5f5088" d="M 23,14 33,32 23,50 H 29 L 36,37.398 43,50 H 49 L 29,14 Z"/>
+</svg>
