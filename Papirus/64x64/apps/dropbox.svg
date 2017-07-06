@@ -9,20 +9,26 @@
   <linearGradient id="linearGradient4521" x1="31.427" xlink:href="#linearGradient3681" gradientUnits="userSpaceOnUse" y1="34.828" gradientTransform="matrix(1.33334,0,0,1.33334,0.092856,-0.6987)" x2="12.189" y2="36.388"/>
  </defs>
  <path style="opacity:0.2" d="m 16,47.102 0,2 16,9.898 16,-9.8984 0,-2 -16,9.898 -16,-9.898 z"/>
+ <path style="fill:#37a0f2" d="M 48,41.28 43.594,43.11 32,36 20.473,42.51 16,41.88 l 0,6.2198 16,9.9 16,-9.9 z"/>
+ <path style="opacity:0.05;fill:url(#linearGradient4521)" d="m 32,36 0,22 16,-10 0,-6 -4.5738,2.5012 z"/>
  <g style="opacity:0.2" transform="matrix(2,0,0,2,0,1)">
   <path d="M 7.5,13 16,8 10,3 2,8.5 Z"/>
   <path d="M 16,18 7.5,13 2,17.5 10,23 Z"/>
   <path d="M 30,17.5 24.5,13 16,18 l 6,4.834 z"/>
   <path d="M 16,8 24.5,13 30,8.5 22,3 Z"/>
  </g>
- <path style="fill:#37a0f2" d="M 48,41.28 43.594,43.11 32,36 20.473,42.51 16,41.88 l 0,6.2198 16,9.9 16,-9.9 z"/>
- <path style="opacity:0.05;fill:url(#linearGradient4521)" d="m 32,36 0,22 16,-10 0,-6 -4.5738,2.5012 z"/>
- <g style="fill:#99cff8" transform="scale(2,2)">
+ <g style="fill:#8ec3f8" transform="scale(2,2)">
   <path d="M 7.5,13 16,8 10,3 2,8.5 Z"/>
   <path d="M 16,18 7.5,13 2,17.5 10,23 Z"/>
   <path d="M 30,17.5 24.5,13 16,18 l 6,4.834 z"/>
   <path d="M 16,8 24.5,13 30,8.5 22,3 Z"/>
  </g>
- <path style="fill:#88c0ec" d="M 49,26 32,36 15,26 32,16 Z"/>
+ <path style="fill:#6db2e8" d="M 49,26 32,36 15,26 32,16 Z"/>
  <path style="opacity:0.05;fill:url(#linearGradient4517)" d="M 15,26 32,36 32,16 Z"/>
+ <g transform="scale(2,2)" style="fill:#ffffff;opacity:0.1">
+  <path style="fill:#ffffff" d="M 20 6 L 4 17 L 4.6640625 17.542969 L 20 7 L 31.296875 16.414062 L 32 16 L 20 6 z" transform="scale(0.5)"/>
+  <path style="fill:#ffffff" d="M 15 26 L 4 35 L 4.6640625 35.457031 L 15 27 L 31.296875 36.585938 L 32 36 L 15 26 z" transform="scale(0.5)"/>
+  <path style="fill:#ffffff" d="M 49 26 L 32 36 L 32.716797 36.578125 L 49 27 L 59.326172 35.449219 L 60 35 L 49 26 z" transform="scale(0.5)"/>
+  <path style="fill:#ffffff" d="M 44 6 L 32 16 L 32.703125 16.414062 L 44 7 L 59.335938 17.542969 L 60 17 L 44 6 z" transform="scale(0.5)"/>
+ </g>
 </svg>
