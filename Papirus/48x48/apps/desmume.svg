@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" viewBox="0 0 48 48">
+ <rect x="-45" y="-44" width="40" height="40" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="fill:#9293ff" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44"/>
+ <path transform="matrix(0,-1,-1,0,0,0)" style="fill:#6469bb" d="M -41.999996,-44 H -23 v 40 h -18.999996 c -1.108,0 -2,-0.892 -2,-2 v -36 c 0,-1.108 0.892,-2 2,-2 z"/>
+ <polygon style="display:none;fill:#5a0e00" points="707 615 713 603 688.5 578 676.5 569.5 693.5 560.5 693.5 540 732.5 497.5 664 430.5 588 333 517.5 214 500 192 386 355 328 328 304 332.5 299.5 366 318.5 403.5 338 431 309.5 462 275.5 507 300 533 304 551 318.5 569.5 340.5 583 351.5 604.5 373.5 617 395 637.5 452.5 723 488.5 788.5 502 812.5 551.5 721.5 612.5 637 628.5 616 668 619.5" transform="matrix(0.063142,0,0,0.063142,-155,-6.7621454)" display="none"/>
+ <path style="fill:#3e3e3e;stroke-width:1.66904604" d="M 12,7 H 36 V 20 H 12 M 12,7"/>
+ <path style="fill:#3e3e3e;stroke-width:1.47196007" d="M 16,28 H 32 V 41 H 16 m 0,-13"/>
+ <g transform="translate(-4.0200005,18.07)" style="opacity:0.2">
+  <rect x="13.02" y="12.93" width="3" height="9" ry="0"/>
+  <rect x="15.93" y="-19.02" width="3" height="9" transform="rotate(90)" ry="0"/>
+ </g>
+ <g style="fill:#cccccc" transform="translate(-4.0200005,17.07)">
+  <rect ry="0" height="9" width="3" y="12.93" x="13.02"/>
+  <rect ry="0" transform="rotate(90)" height="9" width="3" y="-19.02" x="15.93"/>
+ </g>
+ <g style="opacity:0.2" transform="translate(8.5359798,1.7821423)">
+  <circle cy="33.718" cx="31.964" r="1.5"/>
+  <g transform="translate(-4.5559803,16.287855)">
+   <circle cy="17.43" cx="30.52" r="1.5"/>
+   <circle transform="rotate(90)" cy="-33.52" cx="14.43" r="1.5"/>
+  </g>
+  <circle transform="rotate(90)" cy="-28.964" cx="36.718" r="1.5"/>
+ </g>
+ <g transform="translate(8.5359798,0.78214264)" style="fill:#cccccc">
+  <circle style="fill:#cccccc" r="1.5" cx="31.964" cy="33.718"/>
+  <g transform="translate(-4.5559803,16.287855)" style="fill:#cccccc">
+   <circle r="1.5" cx="30.52" cy="17.43" style="fill:#cccccc"/>
+   <circle r="1.5" cx="14.43" cy="-33.52" transform="rotate(90)" style="fill:#cccccc"/>
+  </g>
+  <circle style="fill:#cccccc" r="1.5" cx="36.718" cy="-28.964" transform="rotate(90)"/>
+ </g>
+ <g style="opacity:0.2">
+  <rect y="15" x="6" height="1" width="4" style="stroke-width:8.25092602;stroke-linecap:round;stroke-linejoin:round"/>
+  <rect style="stroke-width:8.25092602;stroke-linecap:round;stroke-linejoin:round" width="4" height="1" x="6" y="17"/>
+  <rect y="19" x="6" height="1" width="4" style="stroke-width:8.25092602;stroke-linecap:round;stroke-linejoin:round"/>
+ </g>
+ <g transform="translate(32)" style="opacity:0.2">
+  <rect style="stroke-width:8.25092602;stroke-linecap:round;stroke-linejoin:round" width="4" height="1" x="6" y="15"/>
+  <rect y="17" x="6" height="1" width="4" style="stroke-width:8.25092602;stroke-linecap:round;stroke-linejoin:round"/>
+  <rect style="stroke-width:8.25092602;stroke-linecap:round;stroke-linejoin:round" width="4" height="1" x="6" y="19"/>
+ </g>
+ <rect style="opacity:0.2;fill:#030304;stroke-width:7.70164299;stroke-linecap:round;stroke-linejoin:round" width="40" height="2" x="4" y="23"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 7 C 4 5.892 4.892 5 6 5 L 42 5 C 43.108 5 44 5.892 44 7 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z"/>
+</svg>
