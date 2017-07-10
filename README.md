@@ -187,7 +187,7 @@ Also we recommend use [AppIndicator/KStatusNotifierItem Support](https://extensi
 
 Manual fix tiny icons size for appindicator on gnome-shell extension for panel. See [this](https://github.com/rgcjonas/gnome-shell-extension-appindicator/issues/68) for more info:
 ```
-sed -i '/indicator\,\ icon\_size/a 	icon\_size\ \+\=\ 8\;' ~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js
+sed -i '/indicator\,\ icon\_size/aicon\_size\ \+\=\ 8\;' ~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js
 ```
 
 </details>
