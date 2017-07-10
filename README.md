@@ -176,11 +176,20 @@ Currently, there is no easy way to change the global color of folders in KDE. Yo
 
 For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend
 use [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
+
 And change icons color for panel:
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
 ```
 ![Gnome Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
+
+Also we recommend use [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched sni-qt version for hardcode-tray not use icons without this on gnome-shell.
+
+Manual fix tiny icons size for appindicator on gnome-shell extension for panel. See [this](https://github.com/rgcjonas/gnome-shell-extension-appindicator/issues/68) for more info:
+```
+sed -i '/indicator\,\ icon\_size/a 	icon\_size\ \+\=\ 8\;' ~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js
+```
+
 </details>
 
 <details>
