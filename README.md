@@ -172,27 +172,6 @@ Currently, there is no easy way to change the global color of folders in KDE. Yo
 ## Manual fixes
 
 <details>
-<summary>For Gnome users</summary>
-
-For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend
-use [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
-
-And change icons color for panel:
-```
-sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
-```
-![Gnome Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
-
-Also we recommend use [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched sni-qt version for hardcode-tray not use icons without this on gnome-shell.
-
-Manual fix tiny icons size for appindicator on gnome-shell extension for panel. See [this](https://github.com/rgcjonas/gnome-shell-extension-appindicator/issues/68) for more info:
-```
-sed -i '/indicator\,\ icon\_size/aicon\_size\ \+\=\ 8\;' ~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js
-```
-
-</details>
-
-<details>
 <summary>For Cinnamon users</summary>
 
 For Cinnamon users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend the following combinations:
@@ -218,6 +197,27 @@ sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamo
 ![Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
 
 Also, increase panel size with `Allow Cinnamon to scale panel text and icons according to the panel height` option because Papirus contains only 22px and 24px panel's icons.
+</details>
+
+<details>
+<summary>For GNOME 3 users</summary>
+
+For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend
+use [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
+
+And change icons color for panel:
+```
+sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
+```
+![Gnome Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
+
+Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
+
+To fix tiny icons size of the extension use the following command (details [rgcjonas/gnome-shell-extension-appindicator#68](https://github.com/rgcjonas/gnome-shell-extension-appindicator/issues/68)):
+
+```
+sed -i.orig '/indicator, icon_size/a icon_size += 8;' ~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js
+```
 </details>
 
 <details>
