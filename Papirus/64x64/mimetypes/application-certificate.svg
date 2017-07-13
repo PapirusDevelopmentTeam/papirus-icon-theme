@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1">
+ <path d="M 14.5,7 C 13.115,7 12,8.115 12,9.5 V 54.5 C 12,55.885 13.115,57 14.5,57 H 49.5 C 50.885,57 52,55.885 52,54.5 V 22 L 38.25,20.75 37,7 Z" style="fill:#13a553"/>
+ <path d="M 37,7 V 19.5 C 37,20.881 38.119,22 39.5,22 H 52 Z" style="fill:#70c896"/>
+ <path d="M 14.5,7 C 13.115,7 12,8.115 12,9.5 V 10.5 C 12,9.115 13.115,8 14.5,8 H 37 V 7 Z" style="fill:#ffffff;opacity:0"/>
+ <path style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linejoin:round" d="M 29,43 V 51 L 32,48 35,51 V 43 Z"/>
+ <g>
+  <circle r="4" cy="28" cx="32" style="fill:#ffffff"/>
+  <circle style="fill:#ffffff" cx="39" cy="35" r="4"/>
+  <circle r="4" cy="42" cx="32" style="fill:#ffffff"/>
+  <circle style="fill:#ffffff" cx="25" cy="35" r="4"/>
+  <circle r="4" cy="30" cx="27" style="fill:#ffffff"/>
+  <circle style="fill:#ffffff" cx="37" cy="30" r="4"/>
+  <circle r="4" cy="40" cx="37" style="fill:#ffffff"/>
+  <circle style="fill:#ffffff" cx="27" cy="40" r="4"/>
+ </g>
+ <circle style="fill:#13a553" cx="32" cy="35" r="7"/>
+ <circle style="fill:#ffffff" r="6" cy="35" cx="32"/>
+</svg>
