@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
- <path fill="#81d547" d="m21 13h-3v-11c0-0.554-1.084-1-1.5-1h-11c-0.4155 0-1.5252 0.4466-1.5 1v11h-3l10 8z"/>
- <path opacity=".2" d="m5.5 1c-0.4155 0-1.5252 0.4466-1.5 1v0.5c-0.025156-0.55343 1.0845-1 1.5-1h11c0.4155 0 1.5 0.446 1.5 1v-0.5c0-0.554-1.084-1-1.5-1h-11zm-4.5 12 0.625 0.5h2.375v-0.5h-3zm17 0v0.5h2.375l0.625-0.5h-3z" fill="#fff"/>
- <path opacity=".2" d="m1 13.5 10 8 10-8h-0.625l-9.375 7.5-9.375-7.5h-0.625z"/>
+ <rect ry="1" rx="1" y="1.5" x="1" height="20" width="20" style="opacity:0.2"/>
+ <rect style="fill:#8bc34a" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path style="fill:#ffffff" d="M 19,10 H 15 V 12 H 17 L 13,17 9,12 H 11 V 6 H 15 V 8 H 19 V 6 C 19,6 19,3 16,3 H 10 C 10,3 7,3 7,6 V 7 13 H 5 V 7 H 3 V 13 C 3,15 5,15 5,15 H 7 V 16 C 7,19 10,19 10,19 H 16 C 19,19 19,16 19,16"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 V 2.5 C 1,1.946 1.446,1.5 2,1.5 H 20 C 20.554,1.5 21,1.946 21,2.5 V 2 C 21,1.446 20.554,1 20,1 Z"/>
 </svg>
