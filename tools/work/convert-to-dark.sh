@@ -15,21 +15,27 @@ for dir in "$_PAPIRUS_DARK_DIR"/*; do
 			find "$_PAPIRUS_DIR/$subdir" \
 				-name '*@16x16.svg' -print0 -o \
 				-name '*@22x22.svg' -print0 -o \
-				-name '*@24x24.svg' -print0 | xargs -0 -i \
+				-name '*@24x24.svg' -print0 -o \
+				-name '*@symbolic.svg' -print0 | xargs -0 -i \
 					cp -auv '{}' "$_PAPIRUS_DARK_DIR/$subdir"
 			;;
 		devices|places)
 			find "$_PAPIRUS_DIR/$subdir" \
-				-name '*@16x16.svg' -print0 | xargs -0 -i \
+				-name '*@16x16.svg' -print0 -o \
+				-name '*@symbolic.svg' -print0 | xargs -0 -i \
 					cp -auv '{}' "$_PAPIRUS_DARK_DIR/$subdir"
 			;;
 		panel)
 			find "$_PAPIRUS_DIR/$subdir" \
 				-name '*@22x22.svg' -print0 -o \
-				-name '*@24x24.svg' -print0 | xargs -0 -i \
+				-name '*@24x24.svg' -print0 -o \
+				-name '*@symbolic.svg' -print0 | xargs -0 -i \
 					cp -auv '{}' "$_PAPIRUS_DARK_DIR/$subdir"
 			;;
 		*)
+			find "$_PAPIRUS_DIR/$subdir" \
+				-name '*@symbolic.svg' -print0 | xargs -0 -i \
+					cp -auv '{}' "$_PAPIRUS_DARK_DIR/$subdir"
 			continue
 			;;
 	esac
