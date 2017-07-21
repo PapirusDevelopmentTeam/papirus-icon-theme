@@ -29,7 +29,7 @@ _run_helpers() {
 		svgo --config="$SCRIPT_DIR/_svgo.yml" -i "$1"
 	elif command -v scour > /dev/null 2>&1; then
 		# use scour
-		eval "$SCRIPT_DIR/_scour.sh" "$1"
+		"$SCRIPT_DIR/_scour.sh" "$1"
 	else
 		cat <<-'EOF'
 
