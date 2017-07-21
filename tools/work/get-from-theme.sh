@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script copies icons from the main theme to the directory
 
 set -eo pipefail
 
@@ -22,7 +23,7 @@ case "$1" in
 		Usage:
 		  $0 context PATTERN
 
-		  context available:
+		  available contexts:
 		    all
 		    [ac]tions
 		    [ap]ps
@@ -32,6 +33,11 @@ case "$1" in
 		    [pa]nel
 		    [pl]aces
 		    [st]atus
+
+		Examples:
+		  $0 apps clementine.svg
+		  $0 panel mumble-indicator.svg
+		  $0 mime text-x-ruby.svg
 		EOF
 
 		exit 2

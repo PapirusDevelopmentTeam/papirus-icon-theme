@@ -57,9 +57,9 @@ for i in "$@"; do
 		# is a directory
 
 		echo "=> Directory '$i' will be processed." >&2
-		echo "   Press <CTRL-C> to abort (wait 3 seconds) ..." >&2
+		echo "   Press <CTRL-C> to abort (wait 1 seconds) ..." >&2
 
-		sleep 3
+		sleep 1
 
 		# process all SVG files w/o symlinks
 		find "$i" -type f -name '*.svg' | while read file; do
