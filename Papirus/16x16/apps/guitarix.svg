@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+ <rect x="0" y="5" width="16" height="11" ry=".846" rx=".8" style="fill:#3f3f3f"/>
+ <circle style="fill:#cccccf;fill-opacity:0.94117647" cx="4.5" cy="10.5" r="3.5"/>
+ <circle r="1.5" cy="10.5" cx="4.5" style="fill:#3f3f3f"/>
+ <rect style="fill:#3f3f3f" rx=".8" ry=".714" height="5" width="16" y="0" x="0"/>
+ <rect style="fill:#63a535" width="14" height="3" x="1" y="1" rx=".871" ry=".675"/>
+ <circle style="fill:#3f3f3f" cx="2.5" cy="2.5" r=".5"/>
+ <g transform="matrix(0.62499999,0,0,0.62499999,5.2500001,0.7500001)">
+  <rect y="2" x="12.4" height="1.6" width="1.6" style="fill:#983a0e"/>
+  <rect y="2.4" x="12.8" height=".8" width=".8" style="fill:#f7bf32"/>
+ </g>
+ <circle r=".5" cy="2.5" cx="4.5" style="fill:#3f3f3f"/>
+ <circle style="fill:#3f3f3f" cx="6.5" cy="2.5" r=".5"/>
+ <circle r="3.5" cy="10.5" cx="11.5" style="fill:#cccccf;fill-opacity:0.94117647"/>
+ <circle style="fill:#3f3f3f" cx="11.5" cy="10.5" r="1.5"/>
+</svg>
