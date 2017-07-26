@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
- <path style="opacity:0.2" d="m 6.7996,59 c -1.5512,0 -2.8,-1.2388 -2.8,-2.7778 V 53 h 56 v 3.2222 c 0,1.539 -1.2488,2.7778 -2.8,2.7778 z"/>
- <path fill="#4d4d4d" d="m6.7996 58c-1.5512 0-2.8-1.2388-2.8-2.7778v-3.2222h56v3.2222c0 1.539-1.2488 2.7778-2.8 2.7778z"/>
- <path fill="#4ab3e4" d="m6.8008 8c-1.5512 0-2.8008 1.2383-2.8008 2.777v41.223h56v-41.223c0-1.5387-1.25-2.777-2.801-2.777h-50.398z"/>
- <rect opacity=".2" width="24" height="16" x="20" y="25" rx="1.5" ry="1.333"/>
- <path fill="#fff" d="m20 28v10.668c0 0.739 0.669 1.332 1.5 1.332h21c0.831 0 1.5-0.593 1.5-1.332v-10.668h-24z"/>
- <path fill="#4d4d4d" d="m21.5 24h21c0.831 0 1.5 0.59467 1.5 1.3333v2.667h-24v-2.6667c0-0.73867 0.669-1.3333 1.5-1.3333z"/>
- <rect opacity=".2" width="6" height="6" x="6" y="35" rx=".75" ry=".75"/>
- <rect opacity=".2" width="6" height="6" x="6" y="11" rx=".75" ry=".75"/>
- <rect fill="#fff" width="6" height="6" x="6" y="10" rx=".75" ry=".75"/>
- <rect opacity=".2" width="6" height="6" x="6" y="19" rx=".75" ry=".75"/>
- <rect fill="#fff" width="6" height="6" x="6" y="18" rx=".75" ry=".75"/>
- <rect opacity=".2" width="6" height="6" x="6" y="27" rx=".75" ry=".75"/>
- <rect fill="#fff" width="6" height="6" x="6" y="26" rx=".75" ry=".75"/>
- <rect fill="#fff" width="6" height="6" x="6" y="34" rx=".75" ry=".75"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 6.8007812 8 C 5.2495813 8 4 9.2386437 4 10.777344 L 4 11.777344 C 4 10.238644 5.2495813 9 6.8007812 9 L 57.199219 9 C 58.750219 9 60 10.238644 60 11.777344 L 60 10.777344 C 60 9.2386437 58.750219 8 57.199219 8 L 6.8007812 8 z"/>
-</svg>
+../apps/preferences-desktop-theme.svg
