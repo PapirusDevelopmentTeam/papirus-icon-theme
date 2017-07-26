@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
- <rect ry="2.6" rx="2.6" transform="matrix(0,-1,-1,0,0,0)" height="52" width="52" y="-58" x="-58" fill="#d2d2d2"/>
- <path d="m24 22v21h5v-8h8v-13h-10.2zm5.4 5.3997h2.6v2.6h-2.6z" fill="#b19a61"/>
- <path d="m10 22v21h5v-5l3 5h5l-2.5-8h2.5v-13h-13zm5.2 5.3997h2.6v2.6h-2.6z" fill="#b19a61"/>
- <path d="m38 22v21h5v-9l3.5 4 3.5-4v8.9995h5v-21h-5l-3.5 8-3.5-8z" fill="#b19a61"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2;fill:#030303" width="52" height="52" x="-59" y="-58" rx="2.6" ry="2.6" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect fill="#d2d2d2" width="52" height="52" x="-58" y="-58" rx="2.6" ry="2.6" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#b19a61" d="m24 22v21h5v-8h8v-13h-10.2zm5.4 5.3997h2.6v2.6h-2.6z"/>
+ <path fill="#b19a61" d="m10 22v21h5v-5l3 5h5l-2.5-8h2.5v-13h-13zm5.2 5.3997h2.6v2.6h-2.6z"/>
+ <path fill="#b19a61" d="m38 22v21h5v-9l3.5 4 3.5-4v8.9995h5v-21h-5l-3.5 8-3.5-8z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 8.5996094 6 C 7.1592094 6 6 7.1592094 6 8.5996094 L 6 9.5996094 C 6 8.1592094 7.1592094 7 8.5996094 7 L 55.400391 7 C 56.840791 7 58 8.1592094 58 9.5996094 L 58 8.5996094 C 58 7.1592094 56.840791 6 55.400391 6 L 8.5996094 6 z"/>
 </svg>
