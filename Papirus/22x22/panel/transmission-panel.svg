@@ -4,5 +4,5 @@
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 4.999992,3 c -0.5540001,0 -1,0.446 -1,1 v 14 c 0,0.554 0.4459999,1 1,1 h 12.000016 c 0.554,0 1,-0.446 1,-1 V 4 c 0,-0.554 -0.446,-1 -1,-1 z m 1.666016,2 h 8.667984 c 0.369334,0 0.666016,0.3345 0.666016,0.75 v 10.5 c 0,0.4155 -0.296682,0.75 -0.666016,0.75 H 6.666008 C 6.296675,17 5.999992,16.6655 5.999992,16.25 V 5.75 C 5.999992,5.3345 6.296675,5 6.666008,5 Z M 11,6 8,9 h 2 v 4 H 8 l 3,3 3,-3 H 12 V 9 h 2 z"/>
+ <path style="fill:currentColor" d="M 5 3 C 4.446 3 4 3.446 4 4 L 4 18 C 4 18.554 4.446 19 5 19 L 17 19 C 17.554 19 18 18.554 18 18 L 18 4 C 18 3.446 17.554 3 17 3 L 5 3 z M 7 5 L 15 5 C 15.554 5 16 5.446 16 6 L 16 16 C 16 16.554 15.554 17 15 17 L 7 17 C 6.446 17 6 16.554 6 16 L 6 6 C 6 5.446 6.446 5 7 5 z M 11 6 L 8 9 L 10 9 L 10 13 L 8 13 L 11 16 L 14 13 L 12 13 L 12 9 L 14 9 L 11 6 z" class="ColorScheme-ButtonBackground"/>
 </svg>
