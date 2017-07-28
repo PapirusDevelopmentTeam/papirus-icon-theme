@@ -3,14 +3,14 @@
  <rect y="19" x="18" height="1" width="2" style="fill:#414141"/>
  <rect style="fill:#414141" width="2" height="1" x="4" y="19"/>
  <rect style="opacity:0.2" x="-19.5" y="-22" width="7" height="20" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="20" width="7" y="-22" x="-19" style="fill:#5d5d5d"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="20" width="7" y="-22" x="-19" style="fill:#757575"/>
  <circle r="1" cy="15.5" cx="18" style="opacity:0.2"/>
  <circle style="fill:#e75454" cx="18" cy="15" r="1"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 3.5,12 C 2.669,12 2,12.669 2,13.5 V 14 c 0,-0.831 0.669,-1.5 1.5,-1.5 h 17 c 0.831,0 1.5,0.669 1.5,1.5 V 13.5 C 22,12.669 21.331,12 20.5,12 Z"/>
  <rect style="fill:#414141" width="2" height="1" x="18" y="10.5"/>
  <rect y="11" x="4" height="1" width="2" style="fill:#414141"/>
  <rect transform="matrix(0,-1,-1,0,0,0)" rx="1.5" ry="1.5" height="20" width="7" y="-22" x="-11.5" style="opacity:0.2"/>
- <rect style="fill:#5d5d5d" x="-11" y="-22" width="7" height="20" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#757575" x="-11" y="-22" width="7" height="20" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
  <circle style="opacity:0.2" cx="18" cy="7.5" r="1"/>
  <circle r="1" cy="7" cx="18" style="fill:#e75454"/>
  <path d="M 3.5,4 C 2.669,4 2,4.669 2,5.5 V 6 C 2,5.169 2.669,4.5 3.5,4.5 h 17 C 21.331,4.5 22,5.169 22,6 V 5.5 C 22,4.669 21.331,4 20.5,4 Z" style="opacity:0.1;fill:#ffffff"/>
