@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1">
- <rect ry="2.5" rx="2.5" y="11" x="7" height="45" width="50" style="opacity:0.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="50" height="45" x="7" y="11" rx="2.5" ry="2.5"/>
  <rect style="fill:#5294e2" width="50" height="45" x="7" y="10" rx="2.5" ry="2.5"/>
  <path style="opacity:0.65" d="M 9.5,10 C 8.115,10 7,11.115 7,12.5 V 15 H 57 V 12.5 C 57,11.115 55.885,10 54.5,10 Z"/>
  <path style="opacity:0.65" d="M 21.6,50 C 20.16,50 19,51.115 19,52.5 V 55 H 45 V 52.5 C 45,51.115 43.84,50 42.4,50 Z"/>
