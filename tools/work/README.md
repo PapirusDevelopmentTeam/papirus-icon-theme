@@ -10,9 +10,18 @@ Papirus is an SVG-based icon theme for Linux, drawing inspiration from Material 
 
 All elements are clear, distinct and have outlines. Another main feature that distinguishes our theme is its use of warm color tones.
 
-Keeping this in mind, **please do not use** very bright and toxic colors for Papirus.
+Papirus use layering style - moving from dark (down) to light (up) tone on layers.
 
-Examples are available in the main icon theme folders. In the `work` directory, you'll only find templates and scripts.
+Objects have light stroke (#fff 20% or 10% for dark icons) and shadow (always #000 20%), see templates for more info.
+
+Mainly single size for all icons (without shadow):
+
+- 16px draw 16px icon
+- 22px draw 20px icon
+- 24px draw 20px icon
+- 32px draw 28px icon
+- 48px draw 40px icon
+- 64px draw 56px icon
 
 #### Main icons
 
@@ -21,6 +30,16 @@ Main icons have the following sizes: 16px, 22px, 24px, 32px and 48px. Also avail
 > Why do we need so many sizes for an SVG?
 
 Because if we use a single size for all then the icons will be blurred. All objects on Papirus have pixelated alignment.
+
+Keeping this in mind, **please do not use** very bright and toxic colors for Papirus.
+
+For compabillity with mostly GTK Themes we use this palette:
+
+- black #6d6d6d
+- metal #848484
+- white #cccccc
+
+Examples are available in the main icon theme folders. In the `work` directory, you'll only find templates and scripts.
 
 #### Monochrome icons
 
