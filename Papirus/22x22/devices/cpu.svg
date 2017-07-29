@@ -1,21 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect style="fill:#666666" width="1" height="19" x="14" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="12" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="10" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="8" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="16" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="18" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="6" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="4" y="-20" transform="rotate(90)"/>
- <rect style="fill:#666666" width="1" height="19" x="11" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="9" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="7" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="5" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="13" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="15" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="17" y="2"/>
- <rect style="fill:#666666" width="1" height="19" x="3" y="2"/>
+ <g style="fill:#8e8e8e">
+  <rect width="1" height="19" x="14" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="12" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="10" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="8" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="16" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="18" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="6" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="4" y="-20" transform="rotate(90)"/>
+  <rect width="1" height="19" x="11" y="2"/>
+  <rect width="1" height="19" x="9" y="2"/>
+  <rect width="1" height="19" x="7" y="2"/>
+  <rect width="1" height="19" x="5" y="2"/>
+  <rect width="1" height="19" x="13" y="2"/>
+  <rect width="1" height="19" x="15" y="2"/>
+  <rect width="1" height="19" x="17" y="2"/>
+  <rect width="1" height="19" x="3" y="2"/>
+ </g>
  <rect style="opacity:0.2" width="17" height="17" x="-20.5" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#8e8e8e" width="17" height="17" x="-20" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#b7b7b7" width="17" height="17" x="-20" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 2.9453125,3 C 2.4220903,3 2,3.4220903 2,3.9453125 v 0.5 C 2,3.9220903 2.4220903,3.5 2.9453125,3.5 H 18.054688 C 18.57791,3.5 19,3.9220903 19,4.4453125 v -0.5 C 19,3.4220903 18.57791,3 18.054688,3 Z"/>
 </svg>
