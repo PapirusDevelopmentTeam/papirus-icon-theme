@@ -1,25 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <g style="fill:#666666">
-  <rect width="1" height="20" x="13.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="11.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="9.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="7.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="15.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="17.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="19.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="5.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="3.5" y="-22" transform="rotate(90)"/>
-  <rect width="1" height="20" x="11.5" y="2"/>
-  <rect width="1" height="20" x="9.5" y="2"/>
-  <rect width="1" height="20" x="7.5" y="2"/>
-  <rect width="1" height="20" x="5.5" y="2"/>
-  <rect width="1" height="20" x="13.5" y="2"/>
-  <rect width="1" height="20" x="15.5" y="2"/>
-  <rect width="1" height="20" x="17.5" y="2"/>
-  <rect width="1" height="20" x="3.5" y="2"/>
-  <rect width="1" height="20" x="19.5" y="2"/>
- </g>
- <rect style="opacity:0.2" width="18" height="18" x="-21.5" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#8e8e8e" width="18" height="18" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 4,3 C 3.446,3 3,3.446 3,4 V 4.5 C 3,3.946 3.446,3.5 4,3.5 H 20 C 20.554,3.5 21,3.946 21,4.5 V 4 C 21,3.446 20.554,3 20,3 Z"/>
+ <rect style="fill:#666666" width="1" height="19" x="15" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="13" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="11" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="9" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="17" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="19" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="7" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="5" y="-21" transform="rotate(90)"/>
+ <rect style="fill:#666666" width="1" height="19" x="12" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="10" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="8" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="6" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="14" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="16" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="18" y="3"/>
+ <rect style="fill:#666666" width="1" height="19" x="4" y="3"/>
+ <rect style="opacity:0.2" width="17" height="17" x="-21.5" y="-20" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="17" height="17" x="-21" y="-20" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3.9453125 4 C 3.4220903 4 3 4.4220903 3 4.9453125 L 3 5.4453125 C 3 4.9220903 3.4220903 4.5 3.9453125 4.5 L 19.054688 4.5 C 19.57791 4.5 20 4.9220903 20 5.4453125 L 20 4.9453125 C 20 4.4220903 19.57791 4 19.054688 4 L 3.9453125 4 z"/>
 </svg>
