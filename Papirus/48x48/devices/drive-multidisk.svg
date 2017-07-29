@@ -4,7 +4,7 @@
   <rect style="fill:#414141" width="4" height="2" x="36" y="38"/>
   <rect y="38" x="8" height="2" width="4" style="fill:#414141"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" rx="3" ry="3" height="40" width="14" y="-44" x="-39" style="opacity:0.2"/>
-  <rect style="fill:#8e8e8e" x="-38" y="-44" width="14" height="40" ry="3" rx="3" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#848484" x="-38" y="-44" width="14" height="40" ry="3" rx="3" transform="matrix(0,-1,-1,0,0,0)"/>
   <circle style="opacity:0.2" cx="36" cy="32" r="2"/>
   <circle r="2" cy="31" cx="36" style="fill:#c0f957"/>
   <path d="M 7 24 C 5.338 24 4 25.338 4 27 L 4 28 C 4 26.338 5.338 25 7 25 L 41 25 C 42.662 25 44 26.338 44 28 L 44 27 C 44 25.338 42.662 24 41 24 L 7 24 z" style="fill:#ffffff;opacity:0.1"/>
@@ -13,7 +13,7 @@
   <rect y="38" x="36" height="2" width="4" style="fill:#414141"/>
   <rect style="fill:#414141" width="4" height="2" x="8" y="38"/>
   <rect style="opacity:0.2" x="-39" y="-44" width="14" height="40" ry="3" rx="3" transform="matrix(0,-1,-1,0,0,0)"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" rx="3" ry="3" height="40" width="14" y="-44" x="-38" style="fill:#8e8e8e"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" rx="3" ry="3" height="40" width="14" y="-44" x="-38" style="fill:#848484"/>
   <circle r="2" cy="32" cx="36" style="opacity:0.2"/>
   <circle style="fill:#c0f957" cx="36" cy="31" r="2"/>
   <path style="opacity:0.1;fill:#ffffff" d="m 7,24 c -1.662,0 -3,1.338 -3,3 v 1 c 0,-1.662 1.338,-3 3,-3 h 34 c 1.662,0 3,1.338 3,3 v -1 c 0,-1.662 -1.338,-3 -3,-3 z"/>
