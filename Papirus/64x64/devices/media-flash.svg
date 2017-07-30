@@ -1,1 +1,13 @@
-media-flash-sd-mmc.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="opacity:0.2" d="M 13.5,5 C 12.115,5 11,6.114 11,7.5 V 58.5 C 11,59.884 12.115,61 13.5,61 H 50.5 C 51.884,61 53,59.884 53,58.5 V 17 L 43,5 Z"/>
+ <path style="fill:#5b5b5b" d="M 13.5,4 C 12.115,4 11,5.114 11,6.5 V 57.5 C 11,58.884 12.115,60 13.5,60 H 50.5 C 51.884,60 53,58.884 53,57.5 V 16 L 43,4 Z"/>
+ <g style="fill:#f8c44e">
+  <rect width="6" height="8" x="13" y="52"/>
+  <rect width="6" height="8" x="21" y="52"/>
+  <rect width="6" height="8" x="29" y="52"/>
+  <rect width="6" height="8" x="37" y="52"/>
+  <rect width="6" height="8" x="45" y="52"/>
+ </g>
+ <rect style="opacity:0.40" width="34" height="24" x="15" y="-44" rx="2.5" ry="2.5" transform="scale(1,-1)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 13.5 4 C 12.115 4 11 5.114 11 6.5 L 11 7.5 C 11 6.114 12.115 5 13.5 5 L 43 5 L 53 17 L 53 16 L 43 4 L 13.5 4 z"/>
+</svg>

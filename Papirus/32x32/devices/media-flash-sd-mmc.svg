@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path style="opacity:0.2" d="M 6.25,3 C 5.5575,3 5,3.5575 5,4.25 V 29.75 C 5,30.442 5.5575,31 6.25,31 H 24.75 C 25.442,31 26,30.442 26,29.75 V 9 L 21,3 Z"/>
- <path style="fill:#5b5b5b" d="M 6.25,2 C 5.5575,2 5,2.5575 5,3.25 V 28.75 C 5,29.442 5.5575,30 6.25,30 H 24.75 C 25.442,30 26,29.442 26,28.75 V 8 L 21,2 Z"/>
- <g fill="#f8c44e">
-  <rect width="3" height="4" x="6" y="26"/>
-  <rect width="3" height="4" x="10" y="26"/>
-  <rect width="3" height="4" x="14" y="26"/>
-  <rect width="3" height="4" x="18" y="26"/>
-  <rect width="3" height="4" x="22" y="26"/>
- </g>
- <rect style="opacity:0.40" width="17" height="12" x="7" y="-22" rx="1.25" ry="1.25" transform="scale(1,-1)"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 6.25 2 C 5.5575 2 5 2.5575 5 3.25 L 5 4.25 C 5 3.5575 5.5575 3 6.25 3 L 21 3 L 26 9 L 26 8 L 21 2 L 6.25 2 z"/>
-</svg>
+media-flash.svg

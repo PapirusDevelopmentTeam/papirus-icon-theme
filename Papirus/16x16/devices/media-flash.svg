@@ -1,1 +1,8 @@
-media-flash-sd-mmc.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 4 3 L 4 13 C 4 13.554 4.446 14 5 14 L 12 14 C 12.554 14 13 13.554 13 13 L 13 5 L 11 3 L 4 3 z M 6 11 L 11 11 L 11 12 L 6 12 L 6 11 z"/>
+</svg>
