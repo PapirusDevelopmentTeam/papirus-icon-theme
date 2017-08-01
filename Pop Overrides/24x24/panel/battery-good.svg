@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="battery-good.svg"
+   inkscape:version="0.92+devel unknown">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1376"
+     id="namedview8"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="29.639559"
+     inkscape:cx="10.67012"
+     inkscape:cy="9.4289264"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817" />
+    <sodipodi:guide
+       position="7,19"
+       orientation="1,0"
+       id="guide819"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17,19"
+       orientation="1,0"
+       id="guide821"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17,19"
+       orientation="0,1"
+       id="guide823"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17,5"
+       orientation="0,1"
+       id="guide825"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs12">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <g
+     transform="translate(-56 -696.36)"
+     id="g4">
+    <g
+       style="enable-background:new"
+       id="g1033"
+       transform="translate(59.99998,700.36)" />
+    <g
+       style="enable-background:new"
+       id="g1170"
+       transform="translate(60,700.36)">
+      <g
+         id="g8"
+         transform="translate(-425.00018,395)">
+        <path
+           sodipodi:nodetypes="cccsssscccc"
+           inkscape:connector-curvature="0"
+           id="path4"
+           transform="translate(425.00018,-395)"
+           d="M 6,1 V 2 H 3 v 12 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 2 H 10 V 1 Z"
+           style="opacity:0.35;fill:#d3dae3;fill-opacity:1" />
+        <path
+           sodipodi:nodetypes="csssscc"
+           inkscape:connector-curvature="0"
+           id="path6"
+           transform="translate(425.00018,-395)"
+           d="m 3,4 v 10 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 4 Z"
+           style="fill:#d3dae3;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
