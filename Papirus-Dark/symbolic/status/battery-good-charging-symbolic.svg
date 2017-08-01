@@ -1,10 +1,76 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   style="enable-background:new"
+   version="1.1"
+   width="16"
+   id="svg10"
+   sodipodi:docname="battery-good-charging-symbolic.svg"
+   inkscape:version="0.92+devel unknown">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+  Paper Symbolic Icon Theme
+ </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="62.875"
+     inkscape:cx="8.1033797"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823" />
+  </sodipodi:namedview>
+  <title
+     id="title2">
   Paper Symbolic Icon Theme
  </title>
- <g transform="translate(-425.00018,395)">
-  <path d="m 431.0002,-394 0,1 -3,0 c 0,0 0,0.446 0,1 l 0,11 c 0,0.554 0.446,1 1,1 l 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-11 c 0,-0.554 0,-1 0,-1 l -3,0 0,-1 z m 2,4 0,3 3,0 -3,5 0,-3 -3,0 z" style="opacity:0.35;fill:#d3dae3;fill-opacity:1;"/>
-  <path d="m 428.0002,-389 0,8 c 0,0.554 0.446,1 1,1 l 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-8 -5,0 0,2 3,0 -3,5 0,-3 -3,0 2.40625,-4 -4.40625,0 z" style="fill:#d3dae3;fill-opacity:1;"/>
- </g>
+  <g
+     transform="translate(-425.00018,395)"
+     id="g8">
+    <path
+       style="opacity:0.35;fill:#d3dae3;fill-opacity:1"
+       d="M 6 1 L 6 2 L 3 2 L 3 14 C 3 14.554 3.446 15 4 15 L 12 15 C 12.554 15 13 14.554 13 14 L 13 2 L 10 2 L 10 1 L 6 1 z M 8 4 L 8 7 L 11 7 L 8 12 L 8 9 L 5 9 L 8 4 z "
+       transform="translate(425.00018,-395)"
+       id="path4" />
+    <path
+       style="fill:#d3dae3;fill-opacity:1"
+       d="M 3 4 L 3 14 C 3 14.554 3.446 15 4 15 L 12 15 C 12.554 15 13 14.554 13 14 L 13 4 L 8 4 L 8 7 L 11 7 L 8 12 L 8 9 L 5 9 L 8 4 L 3 4 z "
+       transform="translate(425.00018,-395)"
+       id="path6" />
+  </g>
 </svg>
