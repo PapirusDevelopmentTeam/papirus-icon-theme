@@ -23,82 +23,6 @@
 	# add a trailing semicolon for secure matching
 	s/style="([^"]+[^;])"/style="\1;"/gI
 
-	# delete Inkscape properties
-	/-inkscape-/ {
-		s/-inkscape-[^;"]+;//gI
-	}
-
-	# delete 'fill- *' properties if fill equal none
-	/fill[:=]"?none/ {
-		s/fill-rule:[^;"]+;//gI
-		s/fill-opacity:[^;"]+;//gI
-	}
-
-	# delete a fill property if it has the default value and fill attribute not exist
-	/fill="[^"]/! {
-		s/fill:(#000|#000000|black);//gI
-	}
-
-	# delete a color property if currentColor not exists and fill has a value
-	/currentColor/! {
-		/fill[:=]"?[^;"]/ s/([^-])color:[^;"]+;/\1/gI
-	}
-
-	# delete 'stroke- *' properties if an object doesn't have a stroke
-	/stroke[:=]"?(|none)/! {
-		s/stroke-width:[^;"]+;//gI
-		s/stroke-linecap:[^;"]+;//gI
-		s/stroke-linejoin:[^;"]+;//gI
-		s/stroke-miterlimit:[^;"]+;//gI
-		s/stroke-dasharray:[^;"]+;//gI
-		s/stroke-dashoffset:[^;"]+;//gI
-		s/stroke-opacity:[^;"]+;//gI
-	}
-
-	# delete unused properties from non-container elements
-	/<(defs|g|marker|mask|svg|symbol)/! {
-		s/enable-background:[^;"]+;//gI
-	}
-
-	# delete unused properties from non-text content elements
-	/<(g|altGlyph|textPath|text|tref|tspan)/! {
-		s/alignment-baseline:[^;"]+;//gI
-		s/baseline-shift:[^;"]+;//gI
-		s/block-progression:[^;"]+;//gI
-		s/direction:[^;"]+;//gI
-		s/dominant-baseline:[^;"]+;//gI
-		s/font-family:[^;"]+;//gI
-		s/font-feature-settings:[^;"]+;//gI
-		s/font-size-adjust:[^;"]+;//gI
-		s/font-size:[^;"]+;//gI
-		s/font-stretch:[^;"]+;//gI
-		s/font-style:[^;"]+;//gI
-		s/font-variant-alternates:[^;"]+;//gI
-		s/font-variant-caps:[^;"]+;//gI
-		s/font-variant-ligatures:[^;"]+;//gI
-		s/font-variant-numeric:[^;"]+;//gI
-		s/font-variant-position:[^;"]+;//gI
-		s/font-variant:[^;"]+;//gI
-		s/font-weight:[^;"]+;//gI
-		s/glyph-orientation-horizontal:[^;"]+;//gI
-		s/glyph-orientation-vertical:[^;"]+;//gI
-		s/kerning:[^;"]+;//gI
-		s/letter-spacing:[^;"]+;//gI
-		s/line-height:[^;"]+;//gI
-		s/text-align:[^;"]+;//gI
-		s/text-anchor:[^;"]+;//gI
-		s/text-decoration-color:[^;"]+;//gI
-		s/text-decoration-line:[^;"]+;//gI
-		s/text-decoration-style:[^;"]+;//gI
-		s/text-decoration:[^;"]+;//gI
-		s/text-indent:[^;"]+;//gI
-		s/text-orientation:[^;"]+;//gI
-		s/text-transform:[^;"]+;//gI
-		s/unicode-bidi:[^;"]+;//gI
-		s/word-spacing:[^;"]+;//gI
-		s/writing-mode:[^;"]+;//gI
-	}
-
 	# remove properties with default values
 	s/font-family:(sans|sans-serif);//gI
 	s/font-style:normal;//gI
@@ -172,6 +96,82 @@
 	s/text-rendering:auto;//gI
 	s/image-rendering:auto;//gI
 	s/enable-background:accumulate;//gI
+
+	# delete Inkscape properties
+	/-inkscape-/ {
+		s/-inkscape-[^;"]+;//gI
+	}
+
+	# delete 'fill- *' properties if fill equal none
+	/fill[:=]"?none/ {
+		s/fill-rule:[^;"]+;//gI
+		s/fill-opacity:[^;"]+;//gI
+	}
+
+	# delete a fill property if it has the default value and fill attribute not exist
+	/fill="[^"]/! {
+		s/fill:(#000|#000000|black);//gI
+	}
+
+	# delete a color property if currentColor not exists and fill has a value
+	/currentColor/! {
+		s/([^-])color:[^;"]+;/\1/gI
+	}
+
+	# delete 'stroke- *' properties if an object doesn't have a stroke
+	/stroke[:=]/! {
+		s/stroke-width:[^;"]+;//gI
+		s/stroke-linecap:[^;"]+;//gI
+		s/stroke-linejoin:[^;"]+;//gI
+		s/stroke-miterlimit:[^;"]+;//gI
+		s/stroke-dasharray:[^;"]+;//gI
+		s/stroke-dashoffset:[^;"]+;//gI
+		s/stroke-opacity:[^;"]+;//gI
+	}
+
+	# delete unused properties from non-container elements
+	/<(defs|g|marker|mask|svg|symbol)/! {
+		s/enable-background:[^;"]+;//gI
+	}
+
+	# delete unused properties from non-text content elements
+	/<(g|altGlyph|textPath|text|tref|tspan)/! {
+		s/alignment-baseline:[^;"]+;//gI
+		s/baseline-shift:[^;"]+;//gI
+		s/block-progression:[^;"]+;//gI
+		s/direction:[^;"]+;//gI
+		s/dominant-baseline:[^;"]+;//gI
+		s/font-family:[^;"]+;//gI
+		s/font-feature-settings:[^;"]+;//gI
+		s/font-size-adjust:[^;"]+;//gI
+		s/font-size:[^;"]+;//gI
+		s/font-stretch:[^;"]+;//gI
+		s/font-style:[^;"]+;//gI
+		s/font-variant-alternates:[^;"]+;//gI
+		s/font-variant-caps:[^;"]+;//gI
+		s/font-variant-ligatures:[^;"]+;//gI
+		s/font-variant-numeric:[^;"]+;//gI
+		s/font-variant-position:[^;"]+;//gI
+		s/font-variant:[^;"]+;//gI
+		s/font-weight:[^;"]+;//gI
+		s/glyph-orientation-horizontal:[^;"]+;//gI
+		s/glyph-orientation-vertical:[^;"]+;//gI
+		s/kerning:[^;"]+;//gI
+		s/letter-spacing:[^;"]+;//gI
+		s/line-height:[^;"]+;//gI
+		s/text-align:[^;"]+;//gI
+		s/text-anchor:[^;"]+;//gI
+		s/text-decoration-color:[^;"]+;//gI
+		s/text-decoration-line:[^;"]+;//gI
+		s/text-decoration-style:[^;"]+;//gI
+		s/text-decoration:[^;"]+;//gI
+		s/text-indent:[^;"]+;//gI
+		s/text-orientation:[^;"]+;//gI
+		s/text-transform:[^;"]+;//gI
+		s/unicode-bidi:[^;"]+;//gI
+		s/word-spacing:[^;"]+;//gI
+		s/writing-mode:[^;"]+;//gI
+	}
 
 	# replace 2 and more semicolons by one
 	s/;{2,}/;/g

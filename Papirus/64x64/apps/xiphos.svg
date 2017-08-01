@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64" width="64" version="1.1">
+ <g>
+  <path d="m 10,56 0,2 c 0,1.662 1.338,3 3,3 l 38,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 l -38,0 c -1.662,0 -3,-1.338 -3,-3 z" style="opacity:0.2"/>
+  <path d="m 13,4 c -1.662,0 -3,1.338 -3,3 l 0,50 c 0,1.662 1.338,3 3,3 l 38,0 c 1.662,0 3,-1.338 3,-3 L 54,7 C 54,5.338 52.662,4 51,4 L 13,4 Z" style="fill:#961a1a"/>
+  <path d="m 13,4 c -1.662,0 -3,1.338 -3,3 l 0,50 c 0,1.662 1.338,3 3,3 l 5,0 0,-56 z" style="opacity:0.2"/>
+  <path d="M 13 4 C 11.338 4 10 5.338 10 7 L 10 8 C 10 6.338 11.338 5 13 5 L 51 5 C 52.662 5 54 6.338 54 8 L 54 7 C 54 5.338 52.662 4 51 4 L 13 4 z" style="opacity:0.1;fill:#ffffff"/>
+  <path d="M 32,13 V 23 H 22 v 8 h 10 v 22 h 8 V 31 H 50 V 23 H 40 V 13 Z" style="opacity:0.2;stroke-width:1.4141413;stroke-linecap:round;stroke-linejoin:round"/>
+  <rect y="12" x="32" height="40" width="8" style="fill:#ffffff;stroke-width:1.4141413;stroke-linecap:round;stroke-linejoin:round"/>
+  <rect transform="rotate(90)" style="fill:#ffffff;stroke-width:1.18315554;stroke-linecap:round;stroke-linejoin:round" width="8" height="28" x="22" y="-50"/>
+ </g>
+</svg>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect ry=".8" rx=".75" transform="scale(-1,1)" height="16" width="12" y="0" x="-14" style="fill:#cccccc;fill-opacity:1"/>
- <rect rx="0" ry="0" height="7" width="10" stroke-miterlimit="3.429" y="1" x="3" style="opacity:1;fill:#3f3f3f;fill-opacity:1;fill-rule:evenodd;stroke-miterlimit:3.4289999"/>
- <circle style="opacity:1;fill:#ffffff;fill-opacity:1" cx="8" cy="12" r="3"/>
- <circle cy="12" cx="8" style="opacity:1;fill:#cccccc;fill-opacity:1" r="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#8e8e8e" width="12" height="16" x="-14" y="0" rx=".75" ry=".8" transform="scale(-1,1)"/>
+ <rect stroke-miterlimit="3.429" style="opacity:0.5;fill-rule:evenodd" width="10" height="7" x="3" y="1" rx="0" ry="0"/>
+ <circle style="fill:#ffffff" cx="8" cy="12" r="3"/>
+ <circle style="fill:#8e8e8e" cx="8" cy="12" r="1"/>
 </svg>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1">
- <rect ry="1.3" rx="1.25" transform="scale(-1,1)" height="26" width="20" y="3" x="-26" fill="#ccc"/>
- <circle transform="rotate(-90)" cy="16" cx="-18" r="9" fill="#3f3f3f"/>
- <circle opacity=".2" transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-19" r="7"/>
- <circle transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-18" r="7" fill="#fec006"/>
- <circle transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-18" r="3" fill="#3f3f3f"/>
- <circle transform="rotate(90)" cy="-10" cx="7" r="1" fill="#3f3f3f"/>
- <circle transform="rotate(90)" cy="-22" cx="7" r="1" fill="#3f3f3f"/>
- <path opacity=".2" d="m6 27.699v1c0 0.72 0.5575 1.301 1.25 1.301h17.5c0.692 0 1.25-0.581 1.25-1.301v-1c0 0.72-0.558 1.301-1.25 1.301h-17.5c-0.6925 0-1.25-0.581-1.25-1.301z"/>
- <path opacity=".1" d="m7.25 3c-0.6925 0-1.25 0.5806-1.25 1.3008v1c0-0.7202 0.5575-1.3008 1.25-1.3008h17.5c0.692 0 1.25 0.5806 1.25 1.3008v-1c0-0.7202-0.558-1.3008-1.25-1.3008h-17.5z" fill="#fff"/>
+ <rect style="opacity:0.2;fill:#0b0000" x="-27" y="3" width="22" height="28" transform="scale(-1,1)" rx="1.375" ry="1.4"/>
+ <rect ry="1.4" rx="1.375" transform="scale(-1,1)" height="28" width="22" y="2" x="-27" style="fill:#cccccc"/>
+ <circle transform="rotate(-90)" cy="16" cx="-19" r="9" style="fill:#3f3f3f"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-19.5" r="7" style="opacity:0.2"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-19" r="7" style="fill:#fec006"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-19" r="3" style="fill:#3f3f3f"/>
+ <circle transform="rotate(90)" cy="-9.5" cx="6.5" r="1.5" style="fill:#3f3f3f"/>
+ <circle transform="rotate(90)" cy="-22.5" cx="6.5" r="1.5" style="fill:#3f3f3f"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6.375 2 C 5.61325 2 5 2.6247906 5 3.4003906 L 5 4.4003906 C 5 3.6247906 5.61325 3 6.375 3 L 25.625 3 C 26.38675 3 27 3.6247906 27 4.4003906 L 27 3.4003906 C 27 2.6247906 26.38675 2 25.625 2 L 6.375 2 z"/>
 </svg>

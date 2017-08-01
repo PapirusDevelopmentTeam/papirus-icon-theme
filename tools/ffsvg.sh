@@ -29,7 +29,7 @@ _run_helpers() {
 		svgo --config="$SCRIPT_DIR/_svgo.yml" -i "$1"
 	elif command -v scour > /dev/null 2>&1; then
 		# use scour
-		eval "$SCRIPT_DIR/_scour.sh" "$1"
+		"$SCRIPT_DIR/_scour.sh" "$1"
 	else
 		cat <<-'EOF'
 
@@ -57,9 +57,9 @@ for i in "$@"; do
 		# is a directory
 
 		echo "=> Directory '$i' will be processed." >&2
-		echo "   Press <CTRL-C> to abort (wait 3 seconds) ..." >&2
+		echo "   Press <CTRL-C> to abort (wait 1 seconds) ..." >&2
 
-		sleep 3
+		sleep 1
 
 		# process all SVG files w/o symlinks
 		find "$i" -type f -name '*.svg' | while read file; do

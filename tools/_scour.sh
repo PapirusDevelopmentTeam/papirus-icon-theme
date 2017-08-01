@@ -17,8 +17,6 @@
 #
 # Usage:
 #  _clean_attrs.sh FILE...
-#
-# rg -l -e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' -e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"'
 
 set -e
 
@@ -36,7 +34,8 @@ for i in "$@"; do
 			--enable-id-stripping \
 			--remove-metadata \
 			--renderer-workaround \
-			--set-precision=10 \
+			--strip-xml-prolog \
+			--set-precision=8 \
 			--strip-xml-space \
 			-i "$i" -o "$i".tmp
 

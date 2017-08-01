@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
-  <style type="text/css" id="current-color-scheme">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 11 1.0078125 L 8 3.0078125 L 12 5.0078125 L 15 3.0078125 L 11 1.0078125 z M 12 5.0078125 L 8 7.5078125 L 11 9.5078125 L 15 7.5078125 L 12 5.0078125 z M 5 1.0253906 L 1 3.0253906 L 3.9550781 4.9960938 L 1 7.4589844 L 5 9.4589844 L 8 7.4589844 L 4.0585938 4.9960938 L 8 3.0253906 L 5 1.0253906 z M 8 8.5410156 L 5 10.541016 L 4 10.041016 L 4 13.041016 L 8 15.041016 L 12 13.041016 L 12 10.041016 L 11 10.541016 L 8 8.5410156 z"/>
+ <path style="fill:currentColor" d="M 11,2.0078 8,4.0078 12,6.0078 15,4.0078 Z M 12,6.0078 8,8.5078 11,10.508 15,8.5078 Z M 5,2.0254 1,4.0254 3.9551,5.9961 1,8.459 5,10.459 8,8.459 4.0586,5.9961 8,4.0254 Z M 8,9.541 5,11.541 4,11.041 V 12.041 L 8,14.041 12,12.041 V 11.041 L 11,11.541 Z" class="ColorScheme-Text"/>
 </svg>

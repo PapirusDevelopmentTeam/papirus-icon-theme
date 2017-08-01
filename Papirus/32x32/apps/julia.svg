@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" viewBox="0 0 32 32">
+ <circle r="6.5" style="opacity:0.2;fill:#0d0b09" cx="8.5" cy="24.5"/>
+ <circle r="6.5" style="opacity:0.2;fill:#0d0b09" cx="16.5" cy="9.5"/>
+ <circle cx="23.5" cy="24.5" r="6.5" style="opacity:0.2;fill:#0d0b09"/>
+ <circle cy="23.5" cx="8.5" style="fill:#c2352a" r="6.5"/>
+ <circle r="4.5" style="opacity:0.2;fill:#0d0b09" cx="8.5" cy="24.5"/>
+ <circle cy="23.5" cx="8.5" style="fill:#e67a73" r="4.5"/>
+ <circle cy="8.5" cx="16.5" style="fill:#46a249" r="6.5"/>
+ <circle r="4.5" style="opacity:0.2;fill:#0d0b09" cx="16.5" cy="9.5"/>
+ <circle cy="8.5" cx="16.5" style="fill:#7bde7f" r="4.5"/>
+ <circle style="fill:#8e53ab" r="6.5" cy="23.5" cx="23.5"/>
+ <circle cx="23.5" cy="24.5" r="4.5" style="opacity:0.2;fill:#0d0b09"/>
+ <circle style="fill:#ba96cc" r="4.5" cy="23.5" cx="23.5"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 8.5 17 A 6.5 6.5 0 0 0 2 23.5 A 6.5 6.5 0 0 0 2.0234375 24.029297 A 6.5 6.5 0 0 1 8.5 18 A 6.5 6.5 0 0 1 14.976562 23.970703 A 6.5 6.5 0 0 0 15 23.5 A 6.5 6.5 0 0 0 8.5 17 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 8.5 19 A 4.5 4.5 0 0 0 4 23.5 A 4.5 4.5 0 0 0 4.0332031 23.988281 A 4.5 4.5 0 0 1 8.5 20 A 4.5 4.5 0 0 1 12.966797 24.011719 A 4.5 4.5 0 0 0 13 23.5 A 4.5 4.5 0 0 0 8.5 19 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 16.5,2 A 6.5,6.5 0 0 0 10,8.5 6.5,6.5 0 0 0 10.023438,9.0292969 6.5,6.5 0 0 1 16.5,3 6.5,6.5 0 0 1 22.976562,8.9707031 6.5,6.5 0 0 0 23,8.5 6.5,6.5 0 0 0 16.5,2 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 16.5,4 A 4.5,4.5 0 0 0 12,8.5 4.5,4.5 0 0 0 12.0332,8.9882812 4.5,4.5 0 0 1 16.5,5 4.5,4.5 0 0 1 20.966797,9.0117188 4.5,4.5 0 0 0 21,8.5 4.5,4.5 0 0 0 16.5,4 Z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 23.5 17 A 6.5 6.5 0 0 0 17 23.5 A 6.5 6.5 0 0 0 17.023438 24.029297 A 6.5 6.5 0 0 1 23.5 18 A 6.5 6.5 0 0 1 29.976562 23.970703 A 6.5 6.5 0 0 0 30 23.5 A 6.5 6.5 0 0 0 23.5 17 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 23.5 19 A 4.5 4.5 0 0 0 19 23.5 A 4.5 4.5 0 0 0 19.033203 23.988281 A 4.5 4.5 0 0 1 23.5 20 A 4.5 4.5 0 0 1 27.966797 24.011719 A 4.5 4.5 0 0 0 28 23.5 A 4.5 4.5 0 0 0 23.5 19 z"/>
+</svg>

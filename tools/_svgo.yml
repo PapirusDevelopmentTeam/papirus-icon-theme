@@ -23,6 +23,9 @@ plugins:
   # removes doctype declaration
   - removeDoctype
 
+  # removes XML processing instructions
+  - removeXMLProcInst
+
   # removes comments
   - removeComments
 
@@ -85,6 +88,27 @@ plugins:
 
   # removes unused namespaces declaration
   - removeUnusedNS
+
+  # sorts element attributes (disabled by default)
+  - sortAttrs:
+      order:
+        - 'id'
+        - 'fill'
+        - 'stroke'
+        - 'opacity'
+        - 'style'
+        - 'width'
+        - 'height'
+        - 'x'
+        - 'x1'
+        - 'x2'
+        - 'y'
+        - 'y1'
+        - 'y2'
+        - 'cx'
+        - 'cy'
+        - 'r'
+        - 'd'
 
   # removes <desc> (only non-meaningful by default)
   - removeDesc
