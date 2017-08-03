@@ -43,7 +43,7 @@ _run_helpers() {
 	fi
 
 	# fix a color scheme
-	eval "$SCRIPT_DIR/_fix_color_scheme.sh" "$1"
+	"$SCRIPT_DIR/_fix_color_scheme.sh" "$1"
 
 	# clear attributes
 	sed -r -i -f "$SCRIPT_DIR/_clean_attrs.sed" "$1"
