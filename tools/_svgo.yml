@@ -96,6 +96,7 @@ plugins:
         - 'fill'
         - 'stroke'
         - 'opacity'
+        - 'class'
         - 'style'
         - 'width'
         - 'height'
@@ -109,6 +110,9 @@ plugins:
         - 'cy'
         - 'r'
         - 'd'
+
+  # removes <title> (disabled by default)
+  - removeTitle: true
 
   # removes <desc> (only non-meaningful by default)
   - removeDesc
