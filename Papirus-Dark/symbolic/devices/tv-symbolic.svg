@@ -1,14 +1,3 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16.003" style="enable-background:new" version="1.1" width="16.003" xmlns="http://www.w3.org/2000/svg">
- <title>
-  Paper Symbolic Icon Theme
- </title>
- <defs>
-  <filter id="filter7554" style="color-interpolation-filters:sRGB">
-   <feBlend in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <g style="filter:url(#filter7554)" transform="translate(-485.0002,119.0033)">
-  <path d="m 487.0002,-119 c -1.99959,0 -2,2 -2,2 l 0,9 c 0,0 4.1e-4,2 2,2 l 12,0 c 0,0 2,0 2,-2 0.006,-3.33194 0,-5.66671 0,-9 0,0 0,-2 -2,-2 z m 3,3 7,3.5 -7,3.5 z m -1.03125,11 c 0,0 -0.96875,0 -0.96875,1 l 0,1 10,0 0,-1 c 0,-1 -1,-1 -1,-1 z" style="fill:#d3dae3;fill-opacity:1;"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#d3dae3" d="M 2,0 C 0,0 0,2 0,2 V 11 C 0,11 0,13 2,13 H 14 C 14,13 16,13 16,11 V 2 C 16,2 16,0 14,0 Z M 5,3 12,6.5 5,10 Z M 3.97,14 C 3.97,14 3,14 3,15 V 16 H 13 V 15 C 13,14 12,14 12,14 Z"/>
 </svg>
