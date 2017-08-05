@@ -27,9 +27,9 @@ set -e
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):#5c616c/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#d3dae3/I s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#5c616c/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#d3dae3/I s/(style="[^"]+")/\1 class="ColorScheme-ButtonBackground"/' \
 		"$@"
 }
 
@@ -37,8 +37,8 @@ add_class() {
 add_class_dark() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):#d3dae3/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#d3dae3/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -46,9 +46,9 @@ add_class_dark() {
 add_class_e() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):#6e6e6e/I s/(style="\S+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="\S+")/\1 class="ColorScheme-Highlight"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#ffffff/I s/(style="\S+")/\1 class="ColorScheme-ButtonBackground"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#6e6e6e/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#ffffff/I s/(style="[^"]+")/\1 class="ColorScheme-ButtonBackground"/' \
 		"$@"
 }
 
@@ -56,7 +56,7 @@ add_class_e() {
 add_class_symbolic() {
 	# add the class if a value matches and class="warning" not exists:
 	sed -i -r \
-		-e '/class="warning"/! { /([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="\S+")/\1 class="warning"/ }' \
+		-e '/class="warning"/! { /([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="warning"/ }' \
 		"$@"
 }
 
