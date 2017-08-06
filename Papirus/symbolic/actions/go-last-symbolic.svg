@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-321.0002,-29)">
-  <path d="m 326.21895,31 -1.40625,1.375 3.65625,3.65625 L 321.0002,36 l 0,2 7.46875,0.0312 -3.65625,3.625 1.40625,1.375 6,-6.03125 -6,-6 z m 8.78125,4 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z" fill="#5c616c"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <circle style="fill:#5c616c" cx="14" cy="8" r="2"/>
+ <path style="fill:#5c616c" d="M 5,2 3.62,3.37 7.25,7 H 0 V 9 H 7.25 L 3.62,12.63 5,14 11,8 Z"/>
 </svg>

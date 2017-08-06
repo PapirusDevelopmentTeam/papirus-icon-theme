@@ -1,9 +1,3 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
-  Paper Symbolic Icon Theme
- </title>
- <g transform="translate(-485.0002,-205.02794)">
-  <path d="m 493.0002,207 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 4,4 0 0 1 4,4 l -2,0 3,4 3,-4 -2,0 a 6,6 0 0 0 -6,-6 z m -5,2 -3,4 2,0 a 6,6 0 0 0 6,6 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 4,4 0 0 1 -4,-4 l 2,0 -3,-4 z" style="fill:#5c616c;fill-opacity:1;enable-background:new"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#5c616c" d="M 8,2 A 1,1 0 0 0 7,3 1,1 0 0 0 8,4 4,4 0 0 1 12,8 H 10 L 13,12 16,8 H 14 A 6,6 0 0 0 8,2 Z M 3,4 0,8 H 2 A 6,6 0 0 0 8,14 1,1 0 0 0 9,13 1,1 0 0 0 8,12 4,4 0 0 1 4,8 H 6 Z"/>
 </svg>
