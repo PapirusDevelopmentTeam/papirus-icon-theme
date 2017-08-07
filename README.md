@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-2700%2B-5294e2.svg?style=flat-square"/>
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-2900%2B-5294e2.svg?style=flat-square"/>
   <img alt="actions" src="https://img.shields.io/badge/actions_icons-1700%2B-5294e2.svg?style=flat-square"/>
   <img alt="panel" src="https://img.shields.io/badge/panel_icons-1600%2B-5294e2.svg?style=flat-square"/>
   <img alt="places" src="https://img.shields.io/badge/places_icons-880%2B-5294e2.svg?style=flat-square"/>
@@ -13,9 +13,9 @@ Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon
 
 Papirus icon theme is available in four variants:
 
- - Papirus (for a light theme with a dark panel)
- - Papirus Dark
- - Papirus Light
+ - Papirus (for light theme and dark panel)
+ - Papirus Dark (for dark theme and panel)
+ - Papirus Light (for light theme and panel)
  - ePapirus (for elementary OS and Pantheon Desktop)
 
 ## Installation
