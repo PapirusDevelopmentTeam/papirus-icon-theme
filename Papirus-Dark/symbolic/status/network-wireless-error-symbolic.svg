@@ -1,7 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-305.00344,614.99841)">
-  <path d="m 313.00344,-613.9931 c -2.89543,0 -5.79086,1.10272 -8,3.31055 l 8,9.6875 3,-3.63281 0,-5.36719 4.43164,0 0.56836,-0.6875 c -2.20914,-2.20783 -5.10457,-3.31055 -8,-3.31055 z" style="opacity:0.35;fill:#d3dae3;fill-opacity:1;"/>
-  <path class="warning" d="m 317.00344,-608.99505 -1e-5,4 0.25,2 1.5,0 0.25,-2 1e-5,-4 z m 0,7 0,2 2,0 0,-2 z" style="fill:#5294e2;fill-opacity:1;"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="opacity:0.3;fill:#d3dae3" d="M 8 2 C 4.9494 2 2.0806 3.0732 0 5 L 8 14 L 11 10.625 L 11 5 L 15 5 L 15 6.125 L 16 5 C 13.919 3.0731 11.051 2 8 2 z"/>
+ <path style="fill:#5294e2" class="warning" d="M 12,6 V 10 L 12.25,12 H 13.75 L 14,10 V 6 Z M 12,13 V 15 H 14 V 13 Z"/>
 </svg>
