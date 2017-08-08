@@ -9,8 +9,6 @@
  </g>
  <path style="opacity:.2;fill:#ffffff" d="m32 4a28 28 0 0 0 -28 28 28 28 0 0 0 0.0214844 0.40625 28 28 0 0 1 27.978516 -27.40625 28 28 0 0 1 27.978516 27.578125 28 28 0 0 0 0.021484 -0.578125 28 28 0 0 0 -28 -28z"/>
  <circle style="opacity:.2" cx="48" r="16" cy="48"/>
- <circle style="fill:#4f4f4f" cx="48" r="16" cy="47"/>
- <path style="fill:#ffffff" d="m43.5 40a7.4999998 7.4999998 0 0 0 -7.5 7.5 7.4999998 7.4999998 0 0 0 7.5 7.5 7.4999998 7.4999998 0 0 0 7.5 -7.5 7.4999998 7.4999998 0 0 0 -7.5 -7.5zm0 3a4.4999998 4.4999998 0 0 1 4.5 4.5 4.4999998 4.4999998 0 0 1 -4.5 4.5 4.4999998 4.4999998 0 0 1 -4.5 -4.5 4.4999998 4.4999998 0 0 1 4.5 -4.5z"/>
- <rect style="fill:#ffffff" height="3" width="12" y="46" x="48"/>
- <rect style="fill:#ffffff" transform="rotate(90)" height="3" width="3" y="-58" x="49"/>
+ <circle style="fill:#ffc94d" cx="48" r="16" cy="47"/>
+ <path style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:4;fill:none" d="m42 55v-14h12v8h-12"/>
 </svg>
