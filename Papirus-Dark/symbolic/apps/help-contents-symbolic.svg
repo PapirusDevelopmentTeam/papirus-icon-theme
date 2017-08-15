@@ -1,9 +1,3 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16.01" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
-  Paper Symbolic Icon Theme
- </title>
- <g transform="translate(-444.00027,-507.98993)">
-  <path d="M 446.84375,509 C 446.5625,509.04688 446,509.25 446,510 l 0,13 c 0,1 1,1 1,1 l 10,0 c 1,0 1,-1 1,-1 0.0188,-0.0461 0.005,-7.4529 0,-10 l -4,-4 -7,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z M 452,514 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 l 0,1 -1,0 0,-2 1,0 c 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 -0.55228,0 -1,0.44772 -1,1 l -1,0 c 0,-1.10457 0.89543,-2 2,-2 z m -1,6 1,0 0,1 -1,0 z" style="fill:#d3dae3;fill-opacity:1;enable-background:new"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#d3dae3" d="M 3,1 C 2.446,1 2,1.446 2,2 V 15 C 2,15.554 2.446,16 3,16 H 13 C 13.554,16 14,15.554 14,15 V 5 L 10,1 Z M 8,6 C 9.1,6 10,6.9 10,8 10,9.1 9.1,10 8,10 V 11 H 7 V 9 H 8 C 8.55,9 9,8.55 9,8 9,7.45 8.55,7 8,7 7.45,7 7,7.45 7,8 H 6 C 6,6.9 6.9,6 8,6 Z M 7,12 H 8 V 13 H 7 Z"/>
 </svg>

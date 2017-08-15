@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
+ <path style="fill:#c72566" d="M 24,4 H 6 C 4.892,4 4,4.892 4,6 V 24 H 24 Z"/>
+ <path style="fill:#6655e4" d="M 24,4 H 42 C 43.108,4 44,4.892 44,6 V 24 H 24 Z"/>
+ <path style="fill:#ff8c2a" d="M 24,44 H 6 C 4.892,44 4,43.108 4,42 V 24 H 24 Z"/>
+ <path style="fill:#c72566" d="M 24,44 H 42 C 43.108,44 44,43.108 44,42 V 24 H 24 Z"/>
+ <rect style="fill:#3f3f3f" width="28" height="28" x="10" y="10"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" d="M 16,33 H 24"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 16,32 H 24"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" d="M 24,25 C 24,25 28.044,25.35 28,21 27.956,16.65 24,17 24,17 M 24,25 23.986,16.993"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" d="M 24,24 C 24,24 28.044,24.35 28,20 27.956,15.65 24,16 24,16 M 24,24 V 16"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" d="M 20,25 18,22 M 16,21 C 16,21 20,21.464 20,19 20,16.535 16,17 16,17 M 16,25 V 17"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 20,24 18,21 M 16,20 C 16,20 20,20.464 20,18 20,15.536 16,16 16,16 M 16,24 V 16"/>
+ <path style="opacity:0.2;paint-order:markers stroke fill;fill:#ffffff" d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 7 C 4 5.892 4.892 5 6 5 L 42 5 C 43.108 5 44 5.892 44 7 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z"/>
+</svg>

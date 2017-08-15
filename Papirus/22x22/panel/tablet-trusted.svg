@@ -1,9 +1,8 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <style type="text/css" id="current-color-scheme">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <path opacity=".3" style="fill:currentColor" d="m3.25 5s-1.25-0.0008-1.25 1.1992v9.6016c0 1.2 1.25 1.1992 1.25 1.1992h15.5s1.25 0.0008 1.25-1.1992v-9.6016c0-1.2-1.25-1.1992-1.25-1.1992zm6.75 0.5h2v0.5h-2zm-5 1.5h12v8h-11.996z" class="ColorScheme-ButtonBackground"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-ButtonBackground" d="M 4,5 C 2.892,5 2,5.892 2,7 V 15 C 2,16.108 2.892,17 4,17 H 18 C 19.108,17 20,16.108 20,15 V 7 C 20,5.892 19.108,5 18,5 Z M 10,5.5 H 12 V 6 H 10 Z M 5,7 H 17 V 15 H 5 Z"/>
 </svg>

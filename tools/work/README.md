@@ -36,7 +36,7 @@ Keeping this in mind, **please do not use** very bright and toxic colors for Pap
 For compabillity with mostly GTK Themes we use this palette:
 
 - white `#cccccc`
-- black `#6d6d6d`
+- black `#4f4f4f`
 
 For devices used material colors:
 

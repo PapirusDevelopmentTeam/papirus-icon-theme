@@ -36,11 +36,13 @@ tests:
 	# <<< TEST 1: Searching for icons with renderer issues
 	-@LC_ALL=C egrep -rl --include='*.svg' \
 		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
-		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"'
+		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
+		|| true
 	# >>> TEST 1: END
 	# <<< TEST 2: Searching for icons with bitmap images
 	-@LC_ALL=C egrep -rl --include='*.svg' \
-		-e '<image[ ]'
+		-e '<image[ ]' \
+		|| true
 	# >>> TEST 2: END
 	# <<< TEST 3: Searching for broken symlinks
 	-@find . -xtype l -not -path './tools/*' -print

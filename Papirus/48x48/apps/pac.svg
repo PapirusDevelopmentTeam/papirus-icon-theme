@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
- <path d="m7 7s-3 0-3 3v24s0 3 3 3h5l4 4h16l4-4h5s3 0 3-3v-24c0-3-3-3-3-3z" fill="#2c80c2"/>
- <path d="m10 13h28v18h-4.4844l-4 4h-11.031l-4-4h-4.485z" fill="#464646"/>
- <path opacity=".2" d="m7 7s-3 0-3 3v1c0-3 3-3 3-3h34s3 0 3 3v-1c0-3-3-3-3-3h-34z" fill="#fff"/>
- <path opacity=".2" d="m4 34v1s0 3 3 3h5l4 4h16l4-4h5s3 0 3-3v-1c0 3-3 3-3 3h-5l-4 4h-16l-4-4h-5c-3 0-3-3-3-3z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="M 16,42 12,38 H 7 C 5.338,38 4,36.662 4,35 V 11 C 4,9.338 5.338,8 7,8 H 41 C 42.662,8 44,9.338 44,11 V 35 C 44,36.662 42.662,38 41,38 H 36 L 32,42 Z"/>
+ <path style="fill:#2c80c2" d="M 16,41 12,37 H 7 C 5.338,37 4,35.662 4,34 V 10 C 4,8.338 5.338,7 7,7 H 41 C 42.662,7 44,8.338 44,10 V 34 C 44,35.662 42.662,37 41,37 H 36 L 32,41 Z"/>
+ <path style="opacity:0.5" d="M 20,35 15.5,31 H 10 V 13 H 38 V 31 H 32 L 28,35 Z"/>
+ <g style="fill:#f8c44e" transform="scale(1,-1)">
+  <rect width="2" height="3" x="15" y="-16"/>
+  <rect width="2" height="3" x="19" y="-16"/>
+  <rect width="2" height="3" x="23" y="-16"/>
+  <rect width="2" height="3" x="27" y="-16"/>
+  <rect width="2" height="3" x="31" y="-16"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.2" d="M 7 7 C 5.338 7 4 8.338 4 10 L 4 11 C 4 9.338 5.338 8 7 8 L 41 8 C 42.662 8 44 9.338 44 11 L 44 10 C 44 8.338 42.662 7 41 7 L 7 7 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 10,31 V 32 H 15.5 L 20,36 H 28 L 32,32 H 38 V 31 H 32 L 28,35 H 20 L 15.5,31 Z"/>
 </svg>
