@@ -53,11 +53,17 @@ Use the scripts to install the latest version directly from this repo (independe
 
 **NOTE:** Use the same script to update icon themes.
 
-#### ROOT directory (recommended)
+#### Linux ROOT directory (recommended)
 
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-root.sh | sh
 ```
+####*BSD ROOT directory (recommended)
+
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-bsd-root.sh | sh
+```
+
 #### HOME directory for GTK
 
 ```
@@ -82,14 +88,14 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
 
-| **Distro** | **Maintainer**    | **Package** |
-|:-----------|:------------------|:------------|
+| **Distro** | **Maintainer**    | **Package**                              |
+| :--------- | :---------------- | :--------------------------------------- |
 | Arch Linux | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
 | Arch Linux | Josip Ponjavic    | [papirus-icon-theme-git](https://software.opensuse.org/download.html?project=home:metakcahura&package=papirus-icon-theme-git) <sup>OBS [[link](https://build.opensuse.org/package/show/home:metakcahura/papirus-icon-theme-git)]</sub> |
 | Fedora     | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | Manjaro    | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE   | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
-| Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
+| Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme`  |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
@@ -136,7 +142,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 - actions, devices, places and panel
   - class: **ColorScheme-Text** color: `#5c616c`
   - class: **ColorScheme-Highlight** color: `#5294e2`
-</details>
+    </details>
 
 ## Folder's color
 
