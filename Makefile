@@ -1,25 +1,23 @@
+PREFIX ?= /usr
+
 all:
 
 install:
-	mkdir -p $(DESTDIR)/usr/share/icons
-	cp --no-preserve=mode,ownership -r \
-		ePapirus \
-		Papirus \
-		Papirus-Light \
-		Papirus-Dark \
-		$(DESTDIR)/usr/share/icons
+	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
+	cp -r ePapirus Papirus Papirus-Light Papirus-Dark \
+		$(DESTDIR)$(PREFIX)/share/icons
 
 post-install:
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/ePapirus
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Dark
-	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Papirus-Light
+	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/ePapirus
+	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus
+	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Dark
+	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Light
 
 uninstall:
-	-rm -rf $(DESTDIR)/usr/share/icons/ePapirus
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Dark
-	-rm -rf $(DESTDIR)/usr/share/icons/Papirus-Light
+	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/ePapirus
+	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus
+	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Light
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
