@@ -4,7 +4,7 @@ all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
-	cp -r ePapirus Papirus Papirus-Light Papirus-Dark \
+	cp -R ePapirus Papirus Papirus-Light Papirus-Dark \
 		$(DESTDIR)$(PREFIX)/share/icons
 
 post-install:
