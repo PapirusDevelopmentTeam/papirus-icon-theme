@@ -53,17 +53,11 @@ Use the scripts to install the latest version directly from this repo (independe
 
 **NOTE:** Use the same script to update icon themes.
 
-#### Linux ROOT directory (recommended)
+#### ROOT directory (recommended)
 
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-root.sh | sh
 ```
-####*BSD ROOT directory (recommended)
-
-```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-bsd-root.sh | sh
-```
-
 #### HOME directory for GTK
 
 ```
