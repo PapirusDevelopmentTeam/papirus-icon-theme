@@ -93,9 +93,17 @@ Packages in this section are not part of the official repositories. If you have 
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
-## Hardcoded tray icons
+## Hardcoded icons
 
-Papirus icon theme now supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
+Some software uses an absolute path instead of the icon name in a .desktop file or in a source code which makes them unthemable.
+
+### Hardcoded application icons
+
+To deal with hardcoded applications icons we recommend use [harcode-fixer](https://github.com/Foggalong/hardcode-fixer). Papirus supports most of the applications in the [list](https://github.com/Foggalong/hardcode-fixer/blob/master/tofix.csv). If [harcode-fixer](https://github.com/Foggalong/hardcode-fixer) doesn't support your favorite app yet, please open an issue [here](https://github.com/Foggalong/hardcode-fixer/issues) or edit your .desktop file manually.
+
+### Hardcoded tray icons
+
+To fix hardcoded tray icons Papirus supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script. A list of supported applications is available [here](https://github.com/bil-elmoussaoui/Hardcode-Tray/tree/master/data/database).
 
 **NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool Inkscape`:
 
@@ -136,7 +144,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 - actions, devices, places and panel
   - class: **ColorScheme-Text** color: `#5c616c`
   - class: **ColorScheme-Highlight** color: `#5294e2`
-    </details>
+</details>
 
 ## Folder's color
 
