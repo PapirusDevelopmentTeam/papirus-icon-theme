@@ -67,6 +67,7 @@ For Debian/Ubuntu/Linux Mint users:
 ```
 sudo apt update
 sudo apt install inkscape python-scour
+sudo pip install --upgrade scour
 ```
 
 ## Step-by-Step Guide

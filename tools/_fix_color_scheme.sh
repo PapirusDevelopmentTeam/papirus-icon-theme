@@ -95,7 +95,7 @@ for file in "$@"; do
 		fi
 	else
 		case "$file" in
-			*-symbolic.svg|*-symbolic@symbolic.svg)
+			*-symbolic.svg|*-symbolic-rtl.svg|*-symbolic@symbolic.svg)
 				# it's symbolic icon
 				add_class_symbolic "$file"
 				;;
