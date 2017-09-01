@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <path style="opacity:0.2" d="m 2,21 0,0.5 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 L 22,21 c 0,0.554 -0.446,1 -1,1 L 3,22 C 2.446,22 2,21.554 2,21 Z"/>
+ <path style="fill:#ffc129" d="M 3,2 C 2.446,2 2,2.446 2,3 L 2,9 14,9 14,2 3,2 Z"/>
+ <path style="fill:#5fb319" d="m 14,2 0,7 8,0 0,-6 C 22,2.446 21.554,2 21,2 l -7,0 z"/>
+ <path style="fill:#e74b4b" d="m 10,9.5 0,12.5 11,0 c 0.554,0 1,-0.446 1,-1 l 0,-11.5 -12,0 z"/>
+ <path style="fill:#35abe4" d="M 2,9.5 2,21 c 0,0.554 0.446,1 1,1 l 6.5,0 0,-12.5 -7.5,0 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2,3.5 2,3 C 2,2.446 2.446,2 3,2 l 18,0 c 0.554,0 1,0.446 1,1 l 0,0.5 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 c -0.554,0 -1,0.446 -1,1 z"/>
+ <rect style="fill:#ffffff" width="14" height="2" x="8" y="-11" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="20" height="2" x="2" y="8.5"/>
+ <rect style="fill:#ffffff" width="20" height="2" x="2" y="8"/>
+ <rect style="fill:#ffffff" width="8" height="2" x="2" y="-15" transform="matrix(0,1,-1,0,0,0)"/>
+</svg>
