@@ -2,9 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
  <defs>
   <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <path style="fill:currentColor" d="M 8,4 A 4,4 0 0 0 4,8 4,4 0 0 0 5.1152,10.7695 7,7 0 0 0 5,12 7,7 0 0 0 12,19 7,7 0 0 0 13.238,18.887 4,4 0 0 0 16,20 4,4 0 0 0 20,16 4,4 0 0 0 18.885,13.23 7,7 0 0 0 19,12 7,7 0 0 0 12,5 7,7 0 0 0 10.7617,5.1133 4,4 0 0 0 8,4 Z m 0,7.09 h 8 v 2 H 8 Z" class="ColorScheme-ButtonBackground"/>
+ <path style="fill:currentColor" d="M 8,4 A 4,4 0 0 0 4,8 4,4 0 0 0 5.1152,10.7695 7,7 0 0 0 5,12 7,7 0 0 0 12,19 7,7 0 0 0 13.238,18.887 4,4 0 0 0 16,20 4,4 0 0 0 20,16 4,4 0 0 0 18.885,13.23 7,7 0 0 0 19,12 7,7 0 0 0 12,5 7,7 0 0 0 10.7617,5.1133 4,4 0 0 0 8,4 Z m 0,7.09 h 8 v 2 H 8 Z" class="ColorScheme-Text"/>
  <circle class="ColorScheme-Highlight" style="fill:currentColor" r="2" cx="20" cy="5"/>
 </svg>

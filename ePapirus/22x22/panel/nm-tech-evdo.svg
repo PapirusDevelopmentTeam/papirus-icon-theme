@@ -2,9 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
  <defs>
   <style type="text/css">
-   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-ButtonBackground" d="m16 19.5-2.5 0v-4l2.5-0m-2.5 2h2.5"/>
- <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-ButtonBackground" d="m17.5 15v3l1 1.5 1-1.5-0-3"/>
+ <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m16 19.5-2.5 0v-4l2.5-0m-2.5 2h2.5"/>
+ <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m17.5 15v3l1 1.5 1-1.5-0-3"/>
 </svg>

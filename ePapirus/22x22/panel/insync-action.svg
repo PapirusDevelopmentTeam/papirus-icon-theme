@@ -2,11 +2,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
  <defs>
   <style type="text/css">
-   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
  <rect style="fill:currentColor" height="4" width="3" y="15" x="14" class="ColorScheme-Highlight"/>
  <circle style="fill:currentColor" class="ColorScheme-Highlight" cy="12.5" cx="15.5" r="1.5"/>
- <path style="stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-ButtonBackground" d="m7 14a10 10 0 0 1 10 -10"/>
- <path style="stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-ButtonBackground" d="m11 14a6 6 0 0 1 6 -6"/>
+ <path style="stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text" d="m7 14a10 10 0 0 1 10 -10"/>
+ <path style="stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text" d="m11 14a6 6 0 0 1 6 -6"/>
 </svg>
