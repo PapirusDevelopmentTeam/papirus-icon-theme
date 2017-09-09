@@ -38,7 +38,7 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read theme_dir; do
 				esac
 			done
 
-			# convert color scheme
+			# convert color scheme from Papirus to ePapirus
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
 				-e 's/#5c616c/#6e6e6e/gI' \
 				-e 's/#d3dae3/#ffffff/gI' '{}' \;
@@ -63,13 +63,6 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read theme_dir; do
 							-name '*@symbolic.svg' -print0 | xargs -0 -i \
 								cp -auv '{}' "$theme_dir/$sub_dir"
 						;;
-					panel)
-						find "$SOURCE_DIR/$sub_dir" \
-							-name '*@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -print0 -o \
-							-name '*@symbolic.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
-						;;
 					apps|categories|emblems|emotes|mimetypes|status)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@symbolic.svg' -print0 | xargs -0 -i \
@@ -78,10 +71,8 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read theme_dir; do
 				esac
 			done
 
-			# convert color scheme
+			# convert color scheme from Papirus to Papirus-Dark
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/class="ColorScheme-ButtonBackground"/class="ColorScheme-Text"/I' \
-				-e 's/\s*\.ColorScheme-ButtonBackground.\+\}//I' \
 				-e 's/#5c616c/#d3dae3/gI' '{}' \;
 			;;
 		Papirus-Light)
@@ -99,10 +90,8 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read theme_dir; do
 				esac
 			done
 
-			# convert color scheme
+			# convert color scheme from Papirus to Papirus-Light
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/class="ColorScheme-ButtonBackground"/class="ColorScheme-Text"/I' \
-				-e 's/\s*\.ColorScheme-ButtonBackground.\+\}//I' \
 				-e 's/#d3dae3/#5c616c/gI' '{}' \;
 			;;
 		*)
