@@ -1,0 +1,7 @@
+#!/bin/sh
+
+gtk-update-icon-cache -f /usr/share/icons/Papirus
+gtk-update-icon-cache -f /usr/share/icons/Papirus-Dark
+gtk-update-icon-cache -f /usr/share/icons/ePapirus
+
+exit 0
