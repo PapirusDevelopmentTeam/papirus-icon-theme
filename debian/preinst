@@ -12,6 +12,13 @@ case "$1" in
 		find /usr/share/icons/Papirus       -type l -delete > /dev/null 2>&1 || true
 		find /usr/share/icons/Papirus-Dark  -type l -delete > /dev/null 2>&1 || true
 		find /usr/share/icons/Papirus-Light -type l -delete > /dev/null 2>&1 || true
+
+		# Another stupid way to fix that issue
+		# https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/730
+		rm -rf /usr/share/icons/Papirus-Dark/22x22/panel
+		rm -rf /usr/share/icons/Papirus-Dark/22x22/animations
+		rm -rf /usr/share/icons/Papirus-Dark/24x24/panel
+		rm -rf /usr/share/icons/Papirus-Dark/24x24/animations
 		;;
 
 	abort-upgrade)
