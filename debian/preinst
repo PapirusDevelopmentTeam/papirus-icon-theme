@@ -20,9 +20,9 @@ case "$1" in
 		test -L /usr/share/icons/Papirus-Dark/22x22/animations \
 			|| rm -rf /usr/share/icons/Papirus-Dark/22x22/animations
 		test -L /usr/share/icons/Papirus-Dark/24x24/panel \
-			rm -rf /usr/share/icons/Papirus-Dark/24x24/panel
+			|| rm -rf /usr/share/icons/Papirus-Dark/24x24/panel
 		test -L /usr/share/icons/Papirus-Dark/24x24/animations \
-			rm -rf /usr/share/icons/Papirus-Dark/24x24/animations
+			|| rm -rf /usr/share/icons/Papirus-Dark/24x24/animations
 		;;
 
 	abort-upgrade)
