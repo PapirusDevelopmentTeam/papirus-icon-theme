@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+ <rect style="opacity:0.2" x="-45" y="-44" width="40" height="40" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" style="fill:#48aeff"/>
+ <path d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" style="fill:#ffffff;opacity:0.2"/>
+ <rect y="9" x="8" height="14" width="14" style="opacity:0.2"/>
+ <rect style="fill:#ffffff" width="14" height="14" x="8" y="8"/>
+ <rect style="opacity:0.2" width="14" height="14" x="26" y="9"/>
+ <rect y="8" x="26" height="14" width="14" style="fill:#ffffff"/>
+ <rect y="27" x="26" height="14" width="14" style="opacity:0.2"/>
+ <rect style="fill:#ffffff" width="14" height="14" x="26" y="26"/>
+ <rect style="opacity:0.2" width="14" height="14" x="8" y="27"/>
+ <rect y="26" x="8" height="14" width="14" style="fill:#ffffff"/>
+</svg>
