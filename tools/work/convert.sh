@@ -43,6 +43,39 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read theme_dir; do
 				-e 's/#5c616c/#6e6e6e/gI' \
 				-e 's/#d3dae3/#ffffff/gI' '{}' \;
 			;;
+		Papirus-Adapta)
+			# copy files from Papirus to Papirus-Adapta
+			find "$theme_dir" -maxdepth 1 -type d | while read dir; do
+				sub_dir=$(basename "$dir")
+
+				case "$sub_dir" in
+					actions)
+						find "$SOURCE_DIR/$sub_dir" \
+							-name '*@16x16.svg' -print0 -o \
+							-name '*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -print0 | xargs -0 -i \
+								cp -auv '{}' "$theme_dir/$sub_dir"
+						;;
+					devices|places)
+						find "$SOURCE_DIR/$sub_dir" \
+							-name '*@16x16.svg' -print0 | xargs -0 -i \
+								cp -auv '{}' "$theme_dir/$sub_dir"
+						;;
+					panel)
+						find "$SOURCE_DIR/$sub_dir" \
+							-name '*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -print0 | xargs -0 -i \
+								cp -auv '{}' "$theme_dir/$sub_dir"
+						;;
+				esac
+			done
+
+			# convert color scheme from Papirus to Papirus-Adapta
+			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
+				-e 's/#5c616c/#7f898e/gI' \
+				-e 's/#d3dae3/#a3acb1/gI' \
+				-e 's/#5294e2/#00bcd4/gI' '{}' \;
+			;;
 		Papirus-Dark)
 			# copy files from Papirus to Papirus-Dark
 			find "$theme_dir" -maxdepth 1 -type d | while read dir; do
