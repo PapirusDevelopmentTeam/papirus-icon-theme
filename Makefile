@@ -4,13 +4,14 @@ all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
-	cp -R ePapirus Papirus Papirus-Adapta Papirus-Light Papirus-Dark \
+	cp -R ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Light Papirus-Dark \
 		$(DESTDIR)$(PREFIX)/share/icons
 
 post-install:
 	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/ePapirus
 	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus
 	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta
+	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta-Nokto
 	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Dark
 	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Light
 
@@ -18,6 +19,7 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/ePapirus
 	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus
 	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta
+	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta-Nokto
 	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Light
 
@@ -55,6 +57,7 @@ tests:
 update_authors:
 	editor Papirus/AUTHORS
 	cp -f Papirus/AUTHORS Papirus-Adapta/AUTHORS
+	cp -f Papirus/AUTHORS Papirus-Adapta-Nokto/AUTHORS
 	cp -f Papirus/AUTHORS ePapirus/AUTHORS
 	cp -f Papirus/AUTHORS Papirus-Dark/AUTHORS
 	cp -f Papirus/AUTHORS Papirus-Light/AUTHORS

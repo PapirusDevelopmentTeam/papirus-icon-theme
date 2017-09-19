@@ -45,6 +45,7 @@ echo "=> Deleting old $gh_desc ..."
 sudo rm -rf "$data_dir/share/icons/ePapirus"
 sudo rm -rf "$data_dir/share/icons/Papirus"
 sudo rm -rf "$data_dir/share/icons/Papirus-Adapta"
+sudo rm -rf "$data_dir/share/icons/Papirus-Adapta-Nokto"
 sudo rm -rf "$data_dir/share/icons/Papirus-Dark"
 sudo rm -rf "$data_dir/share/icons/Papirus-Light"
 
@@ -53,11 +54,13 @@ sudo cp -R \
   "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
   "$temp_dir/$gh_repo-master/Papirus-Adapta" \
+  "$temp_dir/$gh_repo-master/Papirus-Adapta-Nokto" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" \
   "$temp_dir/$gh_repo-master/Papirus-Light" $data_dir/share/icons/
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/ePapirus" || true
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus" || true
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus-Adapta" || true
+sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus-Adapta-Nokto" || true
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus-Dark" || true
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus-Light" || true
 

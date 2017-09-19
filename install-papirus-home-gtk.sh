@@ -37,6 +37,7 @@ echo "=> Deleting old $gh_desc ..."
 rm -rf ~/.icons/ePapirus
 rm -rf ~/.icons/Papirus
 rm -rf ~/.icons/Papirus-Adapta
+rm -rf ~/.icons/Papirus-Adapta-Nokto
 rm -rf ~/.icons/Papirus-Dark
 rm -rf ~/.icons/Papirus-Light
 
@@ -46,11 +47,13 @@ cp -R \
   "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
   "$temp_dir/$gh_repo-master/Papirus-Adapta" \
+  "$temp_dir/$gh_repo-master/Papirus-Adapta-Nokto" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" \
   "$temp_dir/$gh_repo-master/Papirus-Light" ~/.icons/
 gtk-update-icon-cache -q ~/.icons/ePapirus || true
 gtk-update-icon-cache -q ~/.icons/Papirus || true
 gtk-update-icon-cache -q ~/.icons/Papirus-Adapta || true
+gtk-update-icon-cache -q ~/.icons/Papirus-Adapta-Nokto || true
 gtk-update-icon-cache -q ~/.icons/Papirus-Dark || true
 gtk-update-icon-cache -q ~/.icons/Papirus-Light || true
 
