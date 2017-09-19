@@ -30,9 +30,9 @@ case "$1" in
 		;;
 esac
 
-# Try to restore color of folders from a config
+# Try to restore the color of folders from a config
 if which papirus-folders > /dev/null 2>&1; then
-	papirus-folders -Rv || true
+	papirus-folders -R || true
 fi
 
 # dh_installdeb will replace this with shell code automatically

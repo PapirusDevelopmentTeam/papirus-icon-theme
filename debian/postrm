@@ -21,7 +21,7 @@ case "$1" in
 		exit 0
 		;;
 	remove|purge)
-		exit 0
+		true
 		;;
 	failed-upgrade|abort-install|abort-upgrade)
 		exit 0
