@@ -171,6 +171,7 @@ Currently, there is no easy way to change the global color of folders in KDE. Yo
 - [Papirus themes for FileZilla](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes)
 - [Papirus theme for SMPlayer](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme)
 - [Papirus themes for Claws Mail](https://github.com/PapirusDevelopmentTeam/papirus-claws-mail-theme)
+- [Papirus theme for aMule](https://github.com/PapirusDevelopmentTeam/papirus-amule-theme)
 
 ## Recommendations
 
