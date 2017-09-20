@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
+#
 # This script copies icons from the main theme to the directory
 
 set -eo pipefail
 
-SCRIPT_DIR=$(dirname "$0")
+SCRIPT_DIR="$(dirname "$0")"
 TARGET_DIR="$SCRIPT_DIR/../.."
 
 case "$1" in
@@ -45,7 +46,7 @@ case "$1" in
 esac
 
 find "$TARGET_DIR/Papirus" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
-	grep -i "${2:?PATTERN not set!}" | while read file; do
+	grep -i "${2:?PATTERN not set!}" | while read -r file; do
 
 	src_dir=$(dirname "$file")
 	top_dir=$(dirname "$src_dir")

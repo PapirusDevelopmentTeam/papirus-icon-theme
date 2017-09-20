@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#
 # This script deletes *.svg files from the directory
 
 set -eo pipefail
@@ -8,13 +9,14 @@ SOURCE_DIRS=(
 	"$SCRIPT_DIR/ePapirus"
 	"$SCRIPT_DIR/Papirus"
 	"$SCRIPT_DIR/Papirus-Adapta"
+	"$SCRIPT_DIR/Papirus-Adapta-Nokto"
 	"$SCRIPT_DIR/Papirus-Dark"
 	"$SCRIPT_DIR/Papirus-Light"
 )
 
 find "${SOURCE_DIRS[@]}" -name '*.svg' -print
 
-echo -n "Do you want to delete these files? [y/N]: "; read REPLY
+echo -n "Do you want to delete these files? [y/N]: "; read -r REPLY
 
 case "$REPLY" in
 	[Yy]*)

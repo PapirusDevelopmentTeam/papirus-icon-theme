@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
+#
 # This script creates new SVG files from templates
 
 set -eo pipefail
 
-SCRIPT_DIR=$(dirname "$0")
+SCRIPT_DIR="$(dirname "$0")"
 TARGET_DIR="$SCRIPT_DIR/Papirus"
 
 if [ -n "$2" ]; then
