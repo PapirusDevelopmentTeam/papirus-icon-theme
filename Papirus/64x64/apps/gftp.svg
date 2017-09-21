@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
  <rect style="fill:#84b126" width="56" height="56" x="-60" y="-60" rx="2.8" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.2" width="8" height="8" x="28" y="41"/>
- <rect style="opacity:0.2" width="40" height="8" x="12" y="47"/>
+ <rect style="opacity:0.2" width="40" height="6" x="12" y="48"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 6.8007812,4 C 5.2496034,4 4,5.2495827 4,6.8002055 L 4,7.8 C 4,6.2493772 5.2496034,4.9997945 6.8007812,4.9997945 l 50.3984378,0 C 58.749197,4.9997945 60,6.2493772 60,7.8 L 60,6.8002055 C 60,5.2495828 58.749197,4 57.199219,4 L 6.8007812,4 Z"/>
  <path style="opacity:0.2" d="m 4,57.199219 0,1 C 4,59.749197 5.2496034,61 6.8007812,61 L 57.199219,61 C 58.749197,61 60,59.749197 60,58.199219 l 0,-1 C 60,58.749197 58.749197,60 57.199219,60 L 6.8007812,60 C 5.2496034,60 4,58.749197 4,57.199219 Z"/>
- <rect style="fill:#3f3f3f" width="8" height="8" x="28" y="40"/>
- <rect style="fill:#3f3f3f" width="40" height="8" x="12" y="46"/>
+ <rect style="fill:#3f3f3f" width="6" height="8" x="29" y="40"/>
+ <rect style="fill:#3f3f3f" width="40" height="6" x="12" y="47"/>
  <circle style="opacity:0.2" cx="14" cy="51" r="6"/>
  <circle style="fill:#ffffff" cx="14" cy="50" r="6"/>
  <circle style="opacity:0.2" cx="32" cy="51" r="6"/>

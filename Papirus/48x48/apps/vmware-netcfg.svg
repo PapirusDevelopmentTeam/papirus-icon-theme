@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#4e91d9"/>
- <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#4e91d9" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <path opacity=".2" d="m15.295 9c-1.272 0-2.295 1.023-2.295 2.295v17.41c0 1.272 1.023 2.295 2.295 2.295h17.41c1.272 0 2.295-1.023 2.295-2.295v-17.41c0-1.272-1.023-2.295-2.295-2.295h-17.41zm2.705 5h12v12h-12v-12z"/>
- <path d="m15.295 8c-1.272 0-2.295 1.0231-2.295 2.295v17.41c0 1.272 1.023 2.295 2.295 2.295h17.41c1.272 0 2.295-1.023 2.295-2.295v-17.41c0-1.2719-1.023-2.295-2.295-2.295h-17.41zm2.705 5h12v12h-12v-12z" fill="#a3caf6"/>
  <g opacity=".2">
-  <path opacity="1" d="m22 31v4h-11v4h26v-4h-11v-4h-4z"/>
+  <path d="m22 31v4h-11v4h26v-4h-11v-4h-4z"/>
  </g>
  <g fill="#fae695">
-  <rect y="30" width="4" x="22" height="6"/>
-  <rect y="34" width="26" x="11" height="4"/>
+  <rect width="4" height="6" x="22" y="30"/>
+  <rect width="26" height="4" x="11" y="34"/>
  </g>
  <g opacity=".2" transform="translate(0,1)">
-  <circle opacity="1" cy="36" cx="10" r="4"/>
-  <circle opacity="1" cy="36" cx="24" r="4"/>
-  <circle opacity="1" cy="36" cx="38" r="4"/>
+  <circle cx="10" cy="36" r="4"/>
+  <circle cx="24" cy="36" r="4"/>
+  <circle cx="38" cy="36" r="4"/>
  </g>
- <circle cy="36" cx="10" r="4" fill="#ffad53"/>
- <circle cy="36" cx="24" r="4" fill="#ffad53"/>
- <circle cy="36" cx="38" r="4" fill="#ffad53"/>
+ <circle fill="#ffad53" cx="10" cy="36" r="4"/>
+ <circle fill="#ffad53" cx="24" cy="36" r="4"/>
+ <circle fill="#ffad53" cx="38" cy="36" r="4"/>
+ <path opacity=".2" d="m15.295 9c-1.272 0-2.295 1.023-2.295 2.295v17.41c0 1.272 1.023 2.295 2.295 2.295h17.41c1.272 0 2.295-1.023 2.295-2.295v-17.41c0-1.272-1.023-2.295-2.295-2.295h-17.41zm2.705 5h12v12h-12v-12z"/>
+ <path fill="#a3caf6" d="m15.295 8c-1.272 0-2.295 1.0231-2.295 2.295v17.41c0 1.272 1.023 2.295 2.295 2.295h17.41c1.272 0 2.295-1.023 2.295-2.295v-17.41c0-1.2719-1.023-2.295-2.295-2.295h-17.41zm2.705 5h12v12h-12v-12z"/>
 </svg>
