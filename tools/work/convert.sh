@@ -73,7 +73,7 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 
 			# convert color scheme from Papirus to Papirus-Adapta
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#5a6368/gI' \
+				-e 's/#5c616c/#414c52/gI' \
 				-e 's/#d3dae3/#cfd8dc/gI' \
 				-e 's/#5294e2/#00bcd4/gI' '{}' \;
 			;;
