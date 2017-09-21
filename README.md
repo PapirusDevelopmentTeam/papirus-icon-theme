@@ -105,10 +105,10 @@ To deal with hardcoded applications icons we recommend use [harcode-fixer](https
 
 To fix hardcoded tray icons Papirus supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script. A list of supported applications is available [here](https://github.com/bil-elmoussaoui/Hardcode-Tray/tree/master/data/database).
 
-**NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool Inkscape`:
+**NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool RSVGConvert`:
 
 ```
-hardcode-tray --conversion-tool Inkscape
+hardcode-tray --conversion-tool RSVGConvert
 ```
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
