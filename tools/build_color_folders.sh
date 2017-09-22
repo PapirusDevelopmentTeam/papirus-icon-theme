@@ -48,15 +48,15 @@ COLORS=(
 	# | name  | [0]   | [1]   | [2]   | [3]   |
 	# |-------|-------|-------|-------|-------|
 	[blue]="   #5294e2 #4877b1 #1d344f #dcdcdc"
-	[black]="  #4f4f4f #505050 #1c1c1c #dcdcdc"
+	[black]="  #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
 	[brown]="  #ae8e6c #957552 #3d3226 #dcdcdc"
-	[cyan]="   #3cbdb8 #289ea1 #154240 #dcdcdc"
-	[grey]="   #9a9a9a #7d7d7d #363636 #dcdcdc"
-	[green]="  #83d85e #69ad4c #2e4b21 #dcdcdc"
+	[cyan]="   #00bcd4 #0096aa #00424A #dcdcdc"
+	[grey]="   #8e8e8e #727272 #323232 #dcdcdc"
+	[green]="  #87b158 #60924b #2f3e1f #dcdcdc"
 	[magenta]="#ca71df #b259b8 #47274e #dcdcdc"
-	[orange]=" #f49940 #dc8948 #553516 #dcdcdc"
+	[orange]=" #e49e59 #cc7d42 #50371f #dcdcdc"
 	[red]="    #e25252 #bf4b4b #4f1d1d #dcdcdc"
-	[yellow]=" #f5ce46 #e5b732 #564818 #dcdcdc"
+	[yellow]=" #e2b322 #b58f1b #4f3e0c #dcdcdc"
 )
 
 recolor() {
