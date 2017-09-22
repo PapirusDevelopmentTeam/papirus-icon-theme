@@ -148,22 +148,23 @@ Support for monochrome icons for KDE colorscheme is now available:
 
 ## Folder's color
 
-Papirus has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
+Papirus has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a color of a folder.
 
 Available colors:
 
-![Folder Color Preview](http://i.imgur.com/JSIa5WD.png)
+![Folder Color Preview](http://i.imgur.com/8LnbRaV.png)
+
+**NOTE:** Currently, there is no easy way to change the global color of folders. You may edit the themes by yourself if you wish.
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color)
+
 <details>
 <summary>Caveats for using dolphin-folder-color</summary>
 
 - The flags of the `kdialog` command used by the scripts varies by version. Some newer versions lack the `--caption` and `--geometry` flags. You may need to edit the script files manually so that they can be successfully run.
 - Papirus icon theme does not have the same color set as the default Breeze theme, so one or two of the colors may not work.
-
 </details>
 
-Currently, there is no easy way to change the global color of folders in KDE. You may edit the themes by yourself if you wish.
 
 ## Extras
 
