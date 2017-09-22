@@ -148,7 +148,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 
 ## Folder's color
 
-Papirus has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a color of a folder.
+Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support that allows you to change a color of a folder.
 
 Available colors:
 
@@ -156,7 +156,7 @@ Available colors:
 
 **NOTE:** Currently, there is no easy way to change the global color of folders. You may edit the themes by yourself if you wish.
 
-For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color)
+For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
 <details>
 <summary>Caveats for using dolphin-folder-color</summary>
