@@ -49,7 +49,7 @@ sudo apt-get install papirus-icon-theme
 
 ### Papirus Installer
 
-Use the scripts to install the latest version directly from this repo (independently on your distro):
+Use the scripts to install the latest version directly from this repo (independently of your distro):
 
 **NOTE:** Use the same script to update icon themes.
 
@@ -80,7 +80,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 ### Unofficial packages
 
-Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
+Packages in this section are not part of the official repositories. If you have a problem or a question, please contact the package maintainer.
 
 | **Distro** | **Maintainer**    | **Package**                              |
 | :--------- | :---------------- | :--------------------------------------- |
@@ -91,15 +91,15 @@ Packages in this section are not part of the official repositories. If you have 
 | openSUSE   | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
 | Solus      | Joshua Strobl     | `sudo eopkg install papirus-icon-theme`  |
 
-**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
+**NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
 
 ## Hardcoded icons
 
-Some software uses an absolute path instead of the icon name in a .desktop file or in a source code which makes them unthemable.
+Some software uses an absolute path instead of the icon name in a .desktop file or in the source code which makes them unthemable.
 
 ### Hardcoded application icons
 
-To deal with hardcoded applications icons we recommend use [harcode-fixer](https://github.com/Foggalong/hardcode-fixer). Papirus supports most of the applications in the [list](https://github.com/Foggalong/hardcode-fixer/blob/master/tofix.csv). If [harcode-fixer](https://github.com/Foggalong/hardcode-fixer) doesn't support your favorite app yet, please open an issue [here](https://github.com/Foggalong/hardcode-fixer/issues) or edit your .desktop file manually.
+To deal with hardcoded application icons we recommend using [harcode-fixer](https://github.com/Foggalong/hardcode-fixer). Papirus supports most of the applications in the [list](https://github.com/Foggalong/hardcode-fixer/blob/master/tofix.csv). If [harcode-fixer](https://github.com/Foggalong/hardcode-fixer) doesn't support your favorite app yet, please open an issue [here](https://github.com/Foggalong/hardcode-fixer/issues) or edit your .desktop file manually.
 
 ### Hardcoded tray icons
 
@@ -122,7 +122,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 
 ![kde-color-scheme](http://i.imgur.com/oM1qhQH.png)
 
-**NOTE:** Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color by manually.
+**NOTE:** Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color manually.
 
 <details>
 <summary>What colors are used for monochrome icons on KDE?</summary>
@@ -183,21 +183,21 @@ Currently, there is no easy way to change the global color of folders in KDE. Yo
 <details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend the following combinations:
+For Cinnamon users who want to use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend the following combinations:
 
-**light theme**
+**Light theme**
 
-- Window borders `Arc` or `Arc-Darker`
-- Icons `ePapirus`
-- Controls `Arc` or `Arc-Darker`
-- Desktop `Arc` or `Arc-Dark`
+- Window borders: `Arc` or `Arc-Darker`
+- Icons: `ePapirus`
+- Controls: `Arc` or `Arc-Darker`
+- Desktop: `Arc` or `Arc-Dark`
 
-**dark theme**
+**Dark theme**
 
-- Window borders `Arc-Dark`
-- Icons `Papirus-Dark`
-- Controls `Arc-Dark`
-- Desktop `Arc-Dark` with an another color for tray icons:
+- Window borders: `Arc-Dark`
+- Icons: `Papirus-Dark`
+- Controls: `Arc-Dark`
+- Desktop: `Arc-Dark` with an another color for tray icons:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
@@ -212,7 +212,7 @@ Also, increase panel size with `Allow Cinnamon to scale panel text and icons acc
 <summary>For GNOME 3 users</summary>
 
 For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend
-use [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
+using [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
 
 And change icons color for panel:
 ```
@@ -232,7 +232,7 @@ sed -i.orig '/indicator, icon_size/a icon_size += 8;' ~/.local/share/gnome-shell
 <details>
 <summary>For Unity users</summary>
 
-For Unity users, we recommend installing patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik) and change an icon size to 33px.
+For Unity users, we recommend installing patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik) and changing the icon size to 33px.
 
 *~/.notify-osd* file:
 
@@ -271,7 +271,7 @@ Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopment
 <details>
 <summary>For Xfce users</summary>
 
-Here is a few recommendation for Xfce users.
+Here are a few recommendations for Xfce users.
 
 #### Thunar File Manager
 
@@ -297,7 +297,7 @@ Go to `Settings Manager` → `Panel` → `Items` tab. Select `Notification Area`
 
 ## Contribute
 
-We welcome user contributions. If you don't know where to start, we've compiled a list of things they would like to see in your pull request:
+We welcome user contributions. If you don't know where to start, we've compiled a list of things we would like to see in your pull request:
 
 - new icons for missing applications
 - symbolic links to an existing icon
@@ -305,12 +305,12 @@ We welcome user contributions. If you don't know where to start, we've compiled 
 - spelling, grammar, phrasing
 - improvements to our scripts
 
-Inside [tools/work](tools/work) you find a step-by-step guide, an environment, and tools that help you:
+Inside [tools/work](tools/work) you will find a step-by-step guide, an environment, and tools that will help you:
 
 - [create a new icon](tools/work#create-a-new-icon) from template
 - [make a symlink to an existing icon](tools/work#make-symlinks-to-an-existing-icon)
 - [edit an existing icon](tools/work#edit-an-existing-icon)
-- convert your icon to all variants the theme
+- convert your icon to all variants of the theme
 
 We are waiting for your pull requests and would love to see this icon theme become as complete as possible.
 
