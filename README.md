@@ -152,7 +152,7 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](http://i.imgur.com/8LnbRaV.png)
+![Folder Color Preview](https://i.imgur.com/g8y4luC.png)
 
 **NOTE:** Currently, there is no easy way to change the global color of folders. You may edit the themes by yourself if you wish.
 
