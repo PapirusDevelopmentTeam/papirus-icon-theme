@@ -11,11 +11,13 @@
 
 Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) with a lot of new icons and a few extras, like [Hardcode-Tray support](#hardcoded-tray-icons), [KDE colorscheme support](#kde-colorscheme), [Folder Color support](#folders-color), and [others](#extras).
 
-Papirus icon theme is available in four variants:
+Papirus icon theme is available in six variants:
 
- - Papirus (for light theme and dark panel)
- - Papirus Dark (for dark theme and panel)
+ - Papirus (for Arc Darker)
+ - Papirus Dark (for Arc Dark)
  - Papirus Light (for light theme and panel)
+ - Papirus Adapta (for Adapta)
+ - Papirus Adapta Nokto (for Adapta Nokto)
  - ePapirus (for elementary OS and Pantheon Desktop)
 
 ## Installation
@@ -124,28 +126,6 @@ Support for monochrome icons for KDE colorscheme is now available:
 
 **NOTE:** Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color manually.
 
-<details>
-<summary>What colors are used for monochrome icons on KDE?</summary>
-
-**Papirus**:
-- actions, devices, places
-  - class: **ColorScheme-Text** color: `#5c616c`
-  - class: **ColorScheme-Highlight** color: `#5294e2`
-- panel
-  - class: **ColorScheme-ButtonBackground** color: `#d3dae3`
-  - class: **ColorScheme-Highlight** color: `#5294e2`
-
-**Papirus-Dark**:
-- actions, devices, places and panel
-  - class: **ColorScheme-Text** color: `#d3dae3`
-  - class: **ColorScheme-Highlight** color: `#5294e2`
-
-**Papirus-Light**:
-- actions, devices, places and panel
-  - class: **ColorScheme-Text** color: `#5c616c`
-  - class: **ColorScheme-Highlight** color: `#5294e2`
-</details>
-
 ## Folder's color
 
 Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support that allows you to change a color of a folder.
@@ -176,29 +156,17 @@ For KDE, colors of individual folders can be changed using [dolphin-folder-color
 
 ## Recommendations
 
-- For GTK, better use icons alongside GTK theme [Arc Theme](https://github.com/horst3180/arc-theme)
-- For KDE, better use alongside [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
+- For GTK, better use icons alongside GTK theme [Arc Themes](https://github.com/horst3180/arc-theme) or [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme)
+- For KDE, better use alongside [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) or [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
 
 ## Manual fixes
 
 <details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want to use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend the following combinations:
+For Cinnamon users who want to use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme)
 
-**Light theme**
-
-- Window borders: `Arc` or `Arc-Darker`
-- Icons: `ePapirus`
-- Controls: `Arc` or `Arc-Darker`
-- Desktop: `Arc` or `Arc-Dark`
-
-**Dark theme**
-
-- Window borders: `Arc-Dark`
-- Icons: `Papirus-Dark`
-- Controls: `Arc-Dark`
-- Desktop: `Arc-Dark` with an another color for tray icons:
+With fix color on panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
@@ -212,10 +180,7 @@ Also, increase panel size with `Allow Cinnamon to scale panel text and icons acc
 <details>
 <summary>For GNOME 3 users</summary>
 
-For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend
-using [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) extension with icon size **22px** or **24px**
-
-And change icons color for panel:
+For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend change icons color for panel:
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
 ```
