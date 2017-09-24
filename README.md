@@ -171,9 +171,7 @@ For KDE, colors of individual folders can be changed using [dolphin-folder-color
 <details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want to use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme)
-
-With fix color on panel:
+For Cinnamon users who want to use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme) we recommend fix color icons on panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
