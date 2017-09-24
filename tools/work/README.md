@@ -132,9 +132,9 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
     Great, it's true, now you have the filename of the icon, it's `ardour.svg`, and the symlink name from the issue [#354](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/354), it's `ardour5`. Create symlinks with the command:
 
     ```sh
-    # Usage: ./new-symlink.sh context <symlink name> <icon filename>
+    # Usage: ./new-symlink.sh context <icon filename> <symlink name>...
 
-    ./new-symlink.sh apps ardour5 ardour.svg
+    ./new-symlink.sh apps ardour.svg ardour5
     ```
 
     **NOTE:** Symlinks will look like broken but is ok.
