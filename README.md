@@ -110,8 +110,15 @@ To fix hardcoded tray icons Papirus supports [Hardcode-Tray](https://github.com/
 **NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool RSVGConvert`:
 
 ```
-hardcode-tray --conversion-tool RSVGConvert
+sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 ```
+**Size recommendations:**
+- Unity 22px
+- KDE 22px
+- Gnome 22px (see https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes for more info)
+- XFCE 24px (see https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes for more info)
+- Pantheon 24px
+
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
 
