@@ -115,8 +115,8 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 **Size recommendations:**
 - Unity 22px
 - KDE 22px
-- Gnome 22px (see https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes for more info)
-- XFCE 24px (see https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes for more info)
+- Gnome 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
+- XFCE 24px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - Pantheon 24px
 
 
