@@ -1,37 +1,37 @@
 PREFIX ?= /usr
+IGNORE ?=
+THEMES ?= ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Dark Papirus-Light
+
+# excludes IGNORE from THEMES list
+THEMES := $(filter-out $(IGNORE), $(THEMES))
 
 all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
-	cp -R ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Light Papirus-Dark \
-		$(DESTDIR)$(PREFIX)/share/icons
+	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share/icons
 
-post-install:
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/ePapirus
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta-Nokto
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Dark
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/Papirus-Light
+# skip building an icon cache when packaging
+ifndef DESTDIR
+	$(MAKE) $(THEMES)
+endif
+
+$(THEMES):
+	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/$@
 
 uninstall:
-	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/ePapirus
-	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus
-	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta
-	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Adapta-Nokto
-	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Dark
-	-rm -rf $(DESTDIR)$(PREFIX)/share/icons/Papirus-Light
+	-rm -rf $(foreach theme,$(THEMES),$(DESTDIR)$(PREFIX)/share/icons/$(theme))
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
 
-push:
-	git push origin
+dist: _get_version
+	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
-release: _get_version push
+release: _get_version
 	git tag -f $(VERSION)
+	git push origin
 	git push origin --tags
 
 undo_release: _get_version
@@ -56,11 +56,7 @@ tests:
 
 update_authors:
 	editor Papirus/AUTHORS
-	cp -f Papirus/AUTHORS Papirus-Adapta/AUTHORS
-	cp -f Papirus/AUTHORS Papirus-Adapta-Nokto/AUTHORS
-	cp -f Papirus/AUTHORS ePapirus/AUTHORS
-	cp -f Papirus/AUTHORS Papirus-Dark/AUTHORS
-	cp -f Papirus/AUTHORS Papirus-Light/AUTHORS
+	@echo $(THEMES) | xargs -n 1 cp -vu Papirus/AUTHORS || true
 
 
-.PHONY: all install uninstall _get_version push release undo_release tests update_authors
+.PHONY: $(THEMES) all install uninstall _get_version dist release undo_release tests update_authors
