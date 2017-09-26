@@ -23,18 +23,18 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 							-name '*@16x16.svg' -print0 -o \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					devices|places)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@16x16.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					panel)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 				esac
 			done
@@ -55,18 +55,18 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 							-name '*@16x16.svg' -print0 -o \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					devices|places)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@16x16.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					panel)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 				esac
 			done
@@ -88,12 +88,12 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 							-name '*@16x16.svg' -print0 -o \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					devices|places)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@16x16.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 				esac
 			done
@@ -115,18 +115,18 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 -o \
 							-name '*@symbolic.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					devices|places)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@16x16.svg' -print0 -o \
 							-name '*@symbolic.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 					apps|categories|emblems|emotes|mimetypes|status)
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@symbolic.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 				esac
 			done
@@ -145,7 +145,7 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 						find "$SOURCE_DIR/$sub_dir" \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -auv '{}' "$theme_dir/$sub_dir"
+								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
 				esac
 			done
