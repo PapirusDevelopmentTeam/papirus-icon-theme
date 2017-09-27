@@ -1,10 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bomi-panel.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="23.48"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3957" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,-1e-4 A 8,8 0 0 0 7,0.0722 V 10.002 C 7,10.556 6.554,11.002 6,11.002 5.446,11.002 5,10.556 5,10.002 V 0.5903 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,3e-4 Z M 8.279,4.9999 A 0.30006,0.27276 0 0 1 8.303,4.9999 0.30006,0.27276 0 0 1 8.445,5.0351 L 13.846,7.762 A 0.30006,0.27276 0 0 1 13.846,8.238 L 8.445,10.967 A 0.30006,0.27276 0 0 1 7.995,10.717 V 5.2617 A 0.30006,0.27276 0 0 1 8.275,4.9917 Z"/>
- </g>
+  </defs>
+  <g
+     id="g7">
+    <path
+       style="fill:#d3dae3;fill-opacity:1"
+       d="m 8,1 c -0.3347727,0.0021 -0.6689637,0.028204 -1,0.078125 l 0,7.9238515 c 0,0.554 -0.446,1.0000005 -1,1.0000005 -0.554,0 -1,-0.4460005 -1,-1.0000005 L 5,1.6835938 C 2.5597787,2.8410901 1.0031451,5.2991728 1,8 c 0,3.865993 3.1340068,7 7,7 3.865993,0 7,-3.134007 7,-7 C 15,4.1340068 11.865993,1 8,1 Z m 0.1875,4.0000235 0.00195,0.00586 c 0.00521,-2.312e-4 0.010419,-2.312e-4 0.015625,0 0.033562,4.873e-4 0.066476,0.010563 0.095703,0.029297 l 3.5957028,2.2675782 c 0.136928,0.086461 0.136928,0.3100239 0,0.3964844 L 8.3007812,9.9687735 C 8.1636671,10.060175 7.9919967,9.9420122 8,9.7617425 L 8,5.2246329 c 8.358e-4,-0.1191485 0.082734,-0.217256 0.1875,-0.2246094 z"
+       id="path3954"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssccssccccccccccc" />
+  </g>
 </svg>

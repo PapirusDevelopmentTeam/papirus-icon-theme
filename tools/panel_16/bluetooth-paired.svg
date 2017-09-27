@@ -1,10 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bluetooth-paired.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="47.92"
+     inkscape:cx="8"
+     inkscape:cy="7.1394048"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3959" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8.5,0.02 C 5.453,0.02 3,2.7 3,6.02 V 10.02 C 3,13.34 5.453,16.02 8.5,16.02 8.669,16.02 8.835,16.01 9,15.99 V 13.68 L 8.969,13.71 C 8.944,13.77 8.889,13.82 8.844,13.86 8.753,13.95 8.638,14.02 8.5,14.02 H 8 V 9.08 L 5.844,10.86 C 5.753,10.95 5.638,11.02 5.5,11.02 H 5 V 10.52 C 5,10.37 5.079,10.24 5.188,10.14 L 7.75,8.02 5.313,5.99 C 5.266,5.97 5.226,5.93 5.188,5.9 5.079,5.82 5,5.69 5,5.53 V 5.03 H 5.5 C 5.622,5.03 5.725,5.08 5.812,5.15 5.823,5.16 5.833,5.17 5.843,5.18 L 8,6.96 V 2.03 H 8.5 C 8.707,2.03 8.893,2.16 8.968,2.34 L 11.843,5.18 12.25,5.56 11.812,5.9 9.25,8.03 10.662,9.2 C 11.207,8.49 12.045,8.02 13,8.02 13.352,8.02 13.686,8.1 14,8.21 V 6.03 C 14,2.7 11.546,0.03 8.5,0.03 Z M 9,3.71 V 6.96 L 10.781,5.49 Z M 13,9.02 C 11.892,9.02 11,9.93 11,11.05 V 12.02 H 10 V 16.02 H 16 V 12.02 H 15 V 11.05 C 15,9.93 14.108,9.02 13,9.02 Z M 9,9.08 V 11.02 H 10.014 C 10.018,10.69 10.088,10.37 10.191,10.07 L 8.999,9.09 Z M 13,10.02 C 13.554,10.02 14,10.46 14,11.02 V 12.02 H 12 V 11.02 C 12,10.46 12.446,10.02 13,10.02 Z"/>
- </g>
+  </defs>
+  <path
+     style="color:#d3dae3;fill:currentColor"
+     d="M 8 1 C 5.23 1 3 3.345 3 6.25 L 3 9.75 C 3 12.655 5.23 15 8 15 L 8 12.734375 L 7.8203125 12.884766 A 0.50005 0.50005 0 0 1 7 12.5 L 7 9.0605469 L 5.7871094 9.9101562 A 0.50065948 0.50065948 0 0 1 5.2128906 9.0898438 L 6.7695312 8 L 5.2128906 6.9101562 A 0.50065948 0.50065948 0 0 1 5.7871094 6.0898438 L 7 6.9394531 L 7 3.5 A 0.50005 0.50005 0 0 1 7.4980469 3 A 0.50005 0.50005 0 0 1 7.8203125 3.1152344 L 10.820312 5.6152344 A 0.50005 0.50005 0 0 1 10.787109 6.4101562 L 8.515625 8 L 9.3847656 8.6074219 C 9.889026 7.6618976 10.861504 7 12 7 C 12.352911 7 12.686419 7.0744726 13 7.1894531 L 13 6.25 C 13 3.345 10.77 1 8 1 z M 8 4.5683594 L 8 7.1386719 L 9.6757812 5.9648438 L 8 4.5683594 z M 12 8 C 10.892 8 10 8.911251 10 10.03125 L 10 11 L 9 11 L 9 15 L 15 15 L 15 11 L 14 11 L 14 10.03125 C 14 8.911251 13.108 8.0000001 12 8 z M 8 8.8613281 L 8 11 C 8.0000552 10.447738 8.4477381 10.000055 9 10 L 9.0136719 10 C 9.0153093 9.8637481 9.039421 9.7334361 9.0585938 9.6015625 L 8 8.8613281 z M 12 9 C 12.554 9 13 9.440001 13 10 L 13 11 L 11 11 L 11 10 C 11 9.440001 11.446 9 12 9 z "
+     id="path3955" />
+  <g
+     id="g4049"
+     transform="translate(-1,-1)" />
 </svg>
