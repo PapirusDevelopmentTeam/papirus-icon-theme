@@ -97,9 +97,9 @@ _get_context() {
 	declare -p CONTEXT SIZES
 }
 
-readonly RAW_CONTEXT="$1"; shift
-readonly TARGET_ICON="$1"; shift
-declare -a ARGS=("$@")
+readonly RAW_CONTEXT="$1"
+readonly TARGET_ICON="$2"
+declare -a ARGS=("${@:3}")
 
 [ -n "$1" ] || usage
 
