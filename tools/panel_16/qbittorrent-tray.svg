@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle cx="286" cy="26" r="10"/>
+  </clipPath>
+ </defs>
+ <g>
+  <circle style="opacity:0" cx="286" cy="26" r="10" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-387.4,-33.4)"/>
+  <circle style="opacity:0" cx="286" cy="26" r="10" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-387.4,-33.4)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,0 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,0 Z M 9,2 H 10 V 6.5039 A 2.5,2.5 0 0 1 11.5,6 2.5,2.5 0 0 1 14,8.5 2.5,2.5 0 0 1 11.5,11 2.5,2.5 0 0 1 10,10.498 V 11 H 9 V 8.5 Z M 4.5,6 A 2.5,2.5 0 0 1 6,6.502 V 6 H 7 V 8.5 15 H 6 V 10.496 A 2.5,2.5 0 0 1 4.5,11 2.5,2.5 0 0 1 2,8.5 2.5,2.5 0 0 1 4.5,6.0001 Z M 4.5,7 A 1.5,1.5 0 0 0 3,8.5 1.5,1.5 0 0 0 4.5,10 1.5,1.5 0 0 0 6,8.5 1.5,1.5 0 0 0 4.5,7 Z M 11.5,7 A 1.5,1.5 0 0 0 10,8.5 1.5,1.5 0 0 0 11.5,10 1.5,1.5 0 0 0 13,8.5 1.5,1.5 0 0 0 11.5,7 Z"/>
+ </g>
+</svg>
