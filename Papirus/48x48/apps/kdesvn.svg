@@ -7,12 +7,12 @@
  <path style="stroke-linejoin:round;stroke:#5b5b5b;stroke-width:2;fill:none" d="m21 24 5-10"/>
  <path style="stroke-linejoin:round;stroke:#5b5b5b;stroke-width:2;fill:none" d="m21 24 5 10h10"/>
  <g style="opacity:.2;fill:#000000">
-  <circle r="3" style="fill:#060606" cx="11" cy="25"/>
-  <circle cx="21" cy="25" r="3" style="fill:#060606"/>
-  <circle r="3" style="fill:#060606" cx="31" cy="25"/>
-  <circle r="3" style="fill:#060606" cx="26" cy="35"/>
-  <circle cx="36" cy="35" r="3" style="fill:#060606"/>
-  <circle cx="26" cy="15" r="3" style="fill:#060606"/>
+  <circle r="3" style="fill:#000000" cx="11" cy="25"/>
+  <circle cx="21" cy="25" r="3" style="fill:#000000"/>
+  <circle r="3" style="fill:#000000" cx="31" cy="25"/>
+  <circle r="3" style="fill:#000000" cx="26" cy="35"/>
+  <circle cx="36" cy="35" r="3" style="fill:#000000"/>
+  <circle cx="26" cy="15" r="3" style="fill:#000000"/>
  </g>
  <g style="fill:#f5f5f5" transform="translate(0,-1)">
   <circle cx="11" cy="25" r="3" style="fill:#ffffff"/>
