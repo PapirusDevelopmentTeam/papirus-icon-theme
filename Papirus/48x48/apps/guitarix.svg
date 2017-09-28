@@ -6,7 +6,7 @@
   <circle cx="24" cy="31" r="4"/>
  </g>
  <g transform="translate(-9)">
-  <circle style="fill:#cccccf;fill-opacity:1" cx="24" cy="31" r="9"/>
+  <circle style="fill:#cccccf" cx="24" cy="31" r="9"/>
   <circle style="fill:#5b5b5b" cx="24" cy="31" r="4"/>
  </g>
  <g style="opacity:0.2" transform="translate(9,1)">
@@ -14,7 +14,7 @@
   <circle cx="24" cy="31" r="4"/>
  </g>
  <g transform="translate(9)">
-  <circle style="fill:#cccccf;fill-opacity:1" cx="24" cy="31" r="9"/>
+  <circle style="fill:#cccccf" cx="24" cy="31" r="9"/>
   <circle style="fill:#5b5b5b" cx="24" cy="31" r="4"/>
  </g>
  <rect style="opacity:0.2" width="40" height="14" x="4" y="5" rx="2" ry="2"/>

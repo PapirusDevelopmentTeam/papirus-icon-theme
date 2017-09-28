@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="8" ry="8" height="16" width="16" y="-16" x="-16" fill="#cc9a6a"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#cc9a6a" width="16" height="16" x="-16" y="-16" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
  <path fill="#4d4d4d" d="m8 1.7-1.5892 4.3335-4.4108 0.2497 3.429 2.9288-1.137 4.488 3.708-2.524 3.708 2.524-1.137-4.488 3.429-2.9288-4.4108-0.2497z"/>
 </svg>

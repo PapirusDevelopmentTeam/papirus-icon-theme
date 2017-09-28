@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
  <defs>
   <clipPath id="clipPath-910713076">
    <g transform="translate(0,-1004.4)">
-    <path transform="matrix(15.333,0,0,11.5,415,878.86)" fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z"/>
+    <path fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333,0,0,11.5,415,878.86)"/>
    </g>
   </clipPath>
  </defs>

@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
  <path fill="#768c5a" d="m44 42v-36c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
- <path opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <rect opacity=".2" height="4" width="18" y="39" x="15"/>
- <circle opacity=".2" cy="32" cx="27" r="3"/>
- <rect opacity=".2" height="6" width="6" y="10" x="21"/>
- <rect opacity=".2" height="6" width="6" y="10" x="28"/>
- <rect opacity=".2" height="6" width="6" y="10" x="35"/>
- <rect opacity=".2" height="6" width="6" y="17" x="7"/>
- <rect opacity=".2" height="6" width="6" y="17" x="21"/>
- <rect opacity=".2" height="6" width="6" y="17" x="28"/>
- <rect height="4" width="18" y="38" x="15" fill="#ffff80"/>
- <circle cy="31" cx="27" r="3" fill="#ffff80"/>
- <rect height="6" width="6" y="9" x="21" fill="#ffff80"/>
- <rect height="6" width="6" y="9" x="28" fill="#ffff80"/>
- <rect height="6" width="6" y="9" x="35" fill="#ffff80"/>
- <rect height="6" width="6" y="16" x="7" fill="#ffff80"/>
- <rect height="6" width="6" y="16" x="21" fill="#ffff80"/>
- <rect height="6" width="6" y="16" x="28" fill="#ffff80"/>
+ <rect opacity=".2" width="18" height="4" x="15" y="39"/>
+ <circle opacity=".2" cx="27" cy="32" r="3"/>
+ <rect opacity=".2" width="6" height="6" x="21" y="10"/>
+ <rect opacity=".2" width="6" height="6" x="28" y="10"/>
+ <rect opacity=".2" width="6" height="6" x="35" y="10"/>
+ <rect opacity=".2" width="6" height="6" x="7" y="17"/>
+ <rect opacity=".2" width="6" height="6" x="21" y="17"/>
+ <rect opacity=".2" width="6" height="6" x="28" y="17"/>
+ <rect fill="#ffff80" width="18" height="4" x="15" y="38"/>
+ <circle fill="#ffff80" cx="27" cy="31" r="3"/>
+ <rect fill="#ffff80" width="6" height="6" x="21" y="9"/>
+ <rect fill="#ffff80" width="6" height="6" x="28" y="9"/>
+ <rect fill="#ffff80" width="6" height="6" x="35" y="9"/>
+ <rect fill="#ffff80" width="6" height="6" x="7" y="16"/>
+ <rect fill="#ffff80" width="6" height="6" x="21" y="16"/>
+ <rect fill="#ffff80" width="6" height="6" x="28" y="16"/>
 </svg>

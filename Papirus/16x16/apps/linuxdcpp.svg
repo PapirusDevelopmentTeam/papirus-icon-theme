@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="8" ry="8" height="16" width="16" y="-16" x="-16" fill="#ccc"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#ccc" width="16" height="16" x="-16" y="-16" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
  <g transform="translate(1)">
-  <circle transform="scale(1,-1)" cy="-10.5" cx="6.5" r="2.5" fill="#ee9736"/>
-  <circle transform="scale(1,-1)" cy="-6.5" cx="5.5" r="2.5" fill="#ffb271"/>
-  <circle transform="scale(1,-1)" cy="-8.5" cx="9.5" r="2.5" fill="#535353"/>
+  <circle fill="#ee9736" cx="6.5" cy="-10.5" r="2.5" transform="scale(1,-1)"/>
+  <circle fill="#ffb271" cx="5.5" cy="-6.5" r="2.5" transform="scale(1,-1)"/>
+  <circle fill="#535353" cx="9.5" cy="-8.5" r="2.5" transform="scale(1,-1)"/>
  </g>
 </svg>

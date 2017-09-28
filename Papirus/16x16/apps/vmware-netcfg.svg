@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx=".8" ry=".8" height="16" width="16" y="-16" x="-16" fill="#4e91d9"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#4e91d9" width="16" height="16" x="-16" y="-16" rx=".8" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
  <path fill="#a3caf6" d="m4.835 2c-0.4625 0-0.835 0.3725-0.835 0.835v6.33c0 0.4625 0.3725 0.835 0.835 0.835h6.3301c0.463 0 0.835-0.3725 0.835-0.835v-6.33c0-0.4625-0.372-0.835-0.835-0.835h-6.33zm1.165 2h4v4h-4v-4z"/>
- <rect height="2" width="2" y="10" x="7" fill="#fae695"/>
- <rect height="2" width="10" y="12" x="3" fill="#fae695"/>
- <circle cy="13" cx="3" r="2" fill="#ffad53"/>
- <circle cy="13" cx="8" r="2" fill="#ffad53"/>
- <circle cy="13" cx="13" r="2" fill="#ffad53"/>
+ <rect fill="#fae695" width="2" height="2" x="7" y="10"/>
+ <rect fill="#fae695" width="10" height="2" x="3" y="12"/>
+ <circle fill="#ffad53" cx="3" cy="13" r="2"/>
+ <circle fill="#ffad53" cx="8" cy="13" r="2"/>
+ <circle fill="#ffad53" cx="13" cy="13" r="2"/>
 </svg>

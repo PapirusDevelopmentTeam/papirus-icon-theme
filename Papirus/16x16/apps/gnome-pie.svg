@@ -1,44 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="ButtonShadow" x1="45.448" gradientUnits="userSpaceOnUse" x2="45.448" gradientTransform="scale(1.0059 .99417)" y1="92.54" y2="7.016">
-   <stop offset="0"/>
-   <stop stop-opacity=".588" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient3737">
-   <stop stop-color="#fff" offset="0"/>
-   <stop stop-opacity="0" stop-color="#fff" offset="1"/>
-  </linearGradient>
-  <filter id="filter3174" style="color-interpolation-filters:sRGB">
-   <feGaussianBlur stdDeviation="1.71"/>
-  </filter>
-  <linearGradient id="linearGradient3188" y2="63.893" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="36.357" y1="6" x1="36.357"/>
-  <filter id="filter3794" style="color-interpolation-filters:sRGB" height="1.384" width="1.384" y="-.19" x="-.19">
-   <feGaussianBlur stdDeviation="5.28"/>
-  </filter>
-  <linearGradient id="linearGradient3613" y2="138.66" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="48" y1="20.221" x1="48"/>
-  <radialGradient id="radialGradient3619" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" cy="90.172" cx="48" gradientTransform="matrix(1.1573 0 0 .99591 -7.551 .19713)" r="42"/>
-  <clipPath id="clipPath3613">
-   <rect rx="6" ry="6" height="84" width="84" y="6" x="6" fill="#fff"/>
-  </clipPath>
-  <linearGradient id="linearGradient2843" x1="48" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="translate(0,100)" y1="90" y2="5.988">
-   <stop stop-color="#2276c5" offset="0"/>
-   <stop stop-color="#68baf4" offset="1"/>
-  </linearGradient>
-  <clipPath id="clipPath3625">
-   <path fill="#fff" d="m0 0v96h96v-96h-96zm12 6h72c3.324 0 6 2.676 6 6v72c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6v-72c0-3.324 2.676-6 6-6z"/>
-  </clipPath>
-  <linearGradient id="linearGradient3643" y2="90.015" gradientUnits="userSpaceOnUse" x2="44.512" y1="6" x1="44.512">
-   <stop stop-color="#f0f0f0" offset="0"/>
-   <stop stop-color="#aaa" offset="1"/>
-  </linearGradient>
-  <clipPath id="clipPath3649">
-   <rect rx="4" ry="4" height="76" width="76" y="10" x="10" fill="#fff"/>
-  </clipPath>
-  <filter id="filter3657" style="color-interpolation-filters:sRGB">
-   <feGaussianBlur stdDeviation="1.14"/>
-  </filter>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
  <path fill="#ffcf3f" d="m5.2444 13.198c0.71906 0.41105 0.96869 1.3272 0.55767 2.0462-0.4111 0.719-1.3272 0.969-2.0462 0.558-0.7193-0.411-0.969-1.327-0.5579-2.046 0.411-0.719 1.3269-0.969 2.0464-0.558z"/>
  <path fill="#7cc327" d="m2.9923 8.2641c0.9588 0.5481 1.2917 1.7699 0.7436 2.7289-0.5481 0.958-1.7696 1.291-2.7284 0.743-0.95878-0.548-1.2917-1.7697-0.74358-2.7286 0.54811-0.9588 1.7697-1.2914 2.7284-0.7434z"/>
  <path fill="#27adc3" d="m4.7407 2.33c1.1982 0.6851 1.6144 2.2119 0.9294 3.4107-0.685 1.1982-2.2121 1.6144-3.4106 0.9294s-1.6146-2.2121-0.9295-3.4106 2.2121-1.6146 3.4107-0.9295z"/>

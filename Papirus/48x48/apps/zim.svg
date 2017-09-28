@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#4253bb"/>
- <path opacity=".2" stroke-linejoin="round" d="m16.014 15h14l-14 20h16" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
- <path stroke-linejoin="round" d="m16.014 14h14l-14 20h16" stroke="#ff8a8a" stroke-linecap="round" stroke-width="2" fill="none"/>
- <path opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#4253bb" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".2" d="m16.014 15h14l-14 20h16"/>
+ <path fill="none" stroke="#ff8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16.014 14h14l-14 20h16"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
 </svg>

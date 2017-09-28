@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
  <g transform="translate(-14,-15)">
-  <circle style="enable-background:new" cx="22" cy="23" r="8" fill="#ff4d4d"/>
-  <path d="m22 18a5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5zm0 3a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z" fill="#fff"/>
+  <circle fill="#ff4d4d" cx="22" cy="23" r="8"/>
+  <path fill="#fff" d="m22 18a5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5zm0 3a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z"/>
  </g>
 </svg>

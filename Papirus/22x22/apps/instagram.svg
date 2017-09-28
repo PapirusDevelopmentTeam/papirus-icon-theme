@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="1" ry="1" height="20" width="20" y="-21" x="-21" fill="#765a4d"/>
- <rect height="3" width="2" y="1" x="2" fill="#e15a5a"/>
- <rect height="3" width="2" y="1" x="4" fill="#f1a24a"/>
- <rect height="3" width="2" y="1" x="6" fill="#50b449"/>
- <rect height="3" width="2" y="1" x="8" fill="#498fb4"/>
- <path opacity=".2" fill="#fff" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect fill="#765a4d" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect fill="#e15a5a" width="2" height="3" x="2" y="1"/>
+ <rect fill="#f1a24a" width="2" height="3" x="4" y="1"/>
+ <rect fill="#50b449" width="2" height="3" x="6" y="1"/>
+ <rect fill="#498fb4" width="2" height="3" x="8" y="1"/>
+ <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
  <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
- <path d="m17.5 3a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z" fill="#383838"/>
+ <path fill="#383838" d="m17.5 3a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1 -1.5 1.5 1.5 1.5 0 0 1 -1.5 -1.5 1.5 1.5 0 0 1 1.5 -1.5z"/>
  <path opacity=".2" d="m11 5.5a6 6 0 0 1 6 6 6 6 0 0 1 -6 6 6 6 0 0 1 -6 -6 6 6 0 0 1 6 -6z"/>
- <path d="m11 5a6 6 0 0 1 6 6 6 6 0 0 1 -6 6 6 6 0 0 1 -6 -6 6 6 0 0 1 6 -6z" fill="#9b9b9b"/>
+ <path fill="#9b9b9b" d="m11 5a6 6 0 0 1 6 6 6 6 0 0 1 -6 6 6 6 0 0 1 -6 -6 6 6 0 0 1 6 -6z"/>
  <path opacity=".2" d="m11 7.5a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4z"/>
- <path d="m11 7a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4z" fill="#c4c4c4"/>
+ <path fill="#c4c4c4" d="m11 7a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4 -4 4 4 0 0 0 -4 -4z"/>
 </svg>

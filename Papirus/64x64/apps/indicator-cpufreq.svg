@@ -1,30 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1">
- <defs>
-  <clipPath id="clipPath3823">
-   <path style="fill:#ffffff" d="m 108.81,58 c -1.56,0 -2.81,1.254 -2.81,2.812 l 0,24.375 c 0,1.559 1.25,2.813 2.81,2.813 l 24.375,0 c 1.57,0 2.82,-1.254 2.82,-2.812 l 0,-24.375 c 0,-1.559 -1.25,-2.813 -2.81,-2.813 l -24.375,0 z m 7.1875,4.5 10,0 0,8.75 5,0 -10,13.75 -10,-13.75 5,0 0,-8.75 z"/>
-  </clipPath>
-  <linearGradient id="linearGradient3812" x1="65.263" x2="65.263" y1="64.205" y2="50.069" gradientTransform="matrix(0.625,0,0,0.625,78.5,32.25)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop offset="1" stop-opacity="0"/>
-  </linearGradient>
-  <filter id="filter3806" style="color-interpolation-filters:sRGB">
-   <feGaussianBlur stdDeviation="1.2"/>
-  </filter>
-  <linearGradient id="linearGradient3788" x1="70" x2="70" y1="54" y2="75.095" gradientTransform="translate(0,4)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3737"/>
-  <linearGradient id="linearGradient3773" x1="56" x2="88" y1="72" y2="72" gradientTransform="matrix(0.9375,0,0,0.9375,-140.5,3.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#499119"/>
-   <stop offset="1" stop-color="#8fd625"/>
-  </linearGradient>
-  <linearGradient id="linearGradient3832" x1="65.263" x2="65.263" y1="64.205" y2="50.069" gradientTransform="matrix(0.625,0,0,0.625,28.5,31.25)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3737"/>
-  <linearGradient id="linearGradient3737">
-   <stop offset="0" stop-color="#fff"/>
-   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="ButtonShadow" x1="45.448" x2="45.448" y1="92.54" y2="7.016" gradientTransform="scale(1.0059,0.99417)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop offset="1" stop-opacity=".588"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
  <g style="fill:#8e8e8e" transform="scale(2,2)">
   <rect width="1" height="26" x="20" y="-29" transform="matrix(0,1,-1,0,0,0)"/>
   <rect width="1" height="26" x="23" y="-29" transform="matrix(0,1,-1,0,0,0)"/>

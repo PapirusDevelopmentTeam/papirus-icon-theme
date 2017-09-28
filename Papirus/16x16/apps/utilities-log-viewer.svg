@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
  <g transform="translate(-15 -11.999)">
-  <circle style="enable-background:new" fill-rule="evenodd" cx="23" cy="19.999" r="8" fill="#cc5e55"/>
-  <rect height="6" width="2" y="16" x="22" fill="#fff"/>
-  <rect height="2" width="2" y="23" x="22" fill="#fff"/>
+  <circle fill="#cc5e55" fill-rule="evenodd" cx="23" cy="19.999" r="8"/>
+  <rect fill="#fff" width="2" height="6" x="22" y="16"/>
+  <rect fill="#fff" width="2" height="2" x="22" y="23"/>
  </g>
 </svg>
