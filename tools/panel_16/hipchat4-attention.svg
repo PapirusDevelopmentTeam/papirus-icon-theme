@@ -1,11 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hipchat4-attention.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview13"
+     showgrid="true"
+     inkscape:zoom="41.72"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3951" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,-0.0566 C 3.6322,-0.0566 0,3.2715 0,7.443 0,11.615 3.6322,14.943 8,14.943 A 1.0001,1.0001 0 0 0 8.002,14.943 C 8.614,14.942 9.215,14.825 9.811,14.693 11.039,15.502 12.475,16.232 14.178,15.926 A 1.0001,1.0001 0 0 0 14.727,14.256 C 14.144,13.64 13.836,13.256 13.818,12.436 15.149,11.068 15.998,9.326 16,7.443 16,3.2715 12.368,-0.0566 8,-0.0566 Z M 8,1.9434 C 11.363,1.9434 13.999,4.4345 14,7.441 13.998,8.941 13.333,10.38 12.127,11.428 A 1.0001,1.0001 0 0 0 11.785,12.131 C 11.753,12.76 11.947,13.238 12.129,13.717 11.629,13.513 11.123,13.223 10.576,12.844 A 1.0001,1.0001 0 0 0 9.736,12.703 C 9.174,12.861 8.589,12.942 8,12.943 4.6358,12.943 2,10.451 2,7.443 2,4.4355 4.6358,1.9434 8,1.9434 Z M 11.016,8.785 A 0.75008,0.75008 0 0 0 10.549,8.943 C 9.644,9.625 8.809,9.928 7.998,9.93 7.187,9.931 6.3582,9.633 5.4551,8.945 A 0.75068,0.75068 0 1 0 4.5449,10.139 C 5.6418,10.974 6.8126,11.432 8.002,11.43 9.191,11.427 10.356,10.966 11.451,10.141 A 0.75008,0.75008 0 0 0 11.016,8.785 Z"/>
-  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="8" cy="6" r="2"/>
- </g>
+  </defs>
+  <path
+     style="color:#d3dae3;fill:currentColor"
+     d="M 7.5 0.94726562 C 3.4051875 0.94726562 0 4.0677344 0 7.9785156 C 0 11.889766 3.4051875 15.009766 7.5 15.009766 A 0.93759375 0.93759375 0 0 0 7.5019531 15.009766 C 8.0757031 15.008828 8.6385156 14.899141 9.1972656 14.775391 C 10.348516 15.533828 11.694453 16.216563 13.291016 15.929688 A 0.93759375 0.93759375 0 0 0 13.806641 14.365234 C 13.260081 13.787734 12.971953 13.426953 12.955078 12.658203 C 14.202891 11.375703 14.998125 9.7438281 15 7.9785156 C 15 4.0677344 11.595 0.94726562 7.5 0.94726562 z M 7.5 2.9453125 C 10.578405 2.9453125 12.998913 5.2275022 13 7.9765625 C 12.9988 9.1420178 12.473953 10.286679 11.521484 11.265625 L 10.9375 11.865234 L 10.955078 12.701172 C 10.961978 13.018036 11.115323 13.290459 11.203125 13.587891 C 10.911627 13.444641 10.62978 13.324786 10.296875 13.105469 L 9.5917969 12.638672 L 8.765625 12.820312 C 8.2411543 12.936473 7.8208158 13.009045 7.5 13.009766 C 4.421107 13.009766 2 10.728947 2 7.9785156 C 2 5.2286916 4.4211375 2.9453125 7.5 2.9453125 z M 4.4785156 8.4941406 A 0.50005 0.50005 0 0 0 4.0253906 9.1582031 C 4.0253906 9.1582031 4.2095038 9.6773428 4.7363281 10.128906 C 5.2631524 10.58047 6.15 11 7.5 11 C 8.85 11 9.7368475 10.58047 10.263672 10.128906 C 10.790496 9.6773428 10.974609 9.1582031 10.974609 9.1582031 A 0.50028184 0.50028184 0 0 0 10.025391 8.8417969 C 10.025391 8.8417969 9.959504 9.0726574 9.6113281 9.3710938 C 9.2631524 9.66953 8.65 10 7.5 10 C 6.35 10 5.7368476 9.66953 5.3886719 9.3710938 C 5.0404962 9.0726574 4.9746094 8.8417969 4.9746094 8.8417969 A 0.50005 0.50005 0 0 0 4.4785156 8.4941406 z "
+     id="path3957" />
+  <circle
+     id="circle11"
+     r="1.5"
+     cy="6.5"
+     cx="7.5"
+     class="ColorScheme-Highlight"
+     style="color:#5294e2;fill:currentColor" />
 </svg>
