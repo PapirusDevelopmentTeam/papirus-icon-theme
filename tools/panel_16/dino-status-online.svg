@@ -1,10 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dino-status-online.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="47.92"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3958" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,0 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,0 Z M 9.984,1.9355 A 1.0001,1.0001 0 0 1 11,2.9492 V 6.8594 A 1.0001,1.0001 0 0 1 11,7.186 V 10.982 A 1.0001,1.0001 0 0 1 11,11 V 11.986 A 1.0001,1.0001 0 1 1 9,12 H 6 L 5,11 V 7.018 L 6,6.0176 H 9 V 2.9492 A 1.0001,1.0001 0 0 1 9.984,1.9355 Z M 7,8.018 V 10 H 9 V 8.018 Z"/>
- </g>
+  </defs>
+  <path
+     style="fill:#d3dae3;fill-opacity:1"
+     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 9.984375 2.9355469 C 10.548287 2.9265269 11.007742 3.3852882 11 3.9492188 L 11 6.859375 C 11.0179 6.9675062 11.0179 7.0774157 11 7.1855469 L 11 10.982422 L 11 11 L 11 11.986328 L 9 12 L 6 12 L 5 11 L 5 7.0175781 L 6 6.0175781 L 9 6.0175781 L 9 3.9492188 C 8.9924304 3.3978201 9.432995 2.9443724 9.984375 2.9355469 z M 7 8.0175781 L 7 10 L 9 10 L 9 8.0175781 L 7 8.0175781 z "
+     id="path3953" />
 </svg>

@@ -1,10 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dropboxstatus-busy2.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="-0.35616822"
+     inkscape:cy="7.5035653"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3949" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4,0 -1,3 3,5.9844 -1.0098,8.992 4,12 8,9 3,6 8,3 13,6.0156 8,9 9.777,10.334 C 10.692,8.883 12.285,8.002 14,8 15.074,8.003 16.12,8.351 16.98,8.994 L 17.01,8.977 13.001,6.0001 17.001,3.0001 12.001,1e-4 8.001,2.9845 4.0005,1e-4 Z M 14,9 C 11.791,9 10,10.791 10,13 10,15.209 11.791,17 14,17 16.209,17 18,15.209 18,13 18,10.791 16.209,9 14,9 Z M 8,10 4,13 3,12.4 V 13 L 8,16 9.477,15.115 C 9.165,14.454 9.002,13.731 9,13 9,12.329 9.135,11.665 9.397,11.047 L 7.997,9.997 Z M 14,10 V 11 A 2,2 0 0 0 12,13 H 11 A 3,3 0 0 1 14,10 Z M 16,13 H 17 A 3,3 0 0 1 14,16 V 15 A 2,2 0 0 0 16,13 Z"/>
- </g>
+  </defs>
+  <path
+     style="color:#d3dae3;fill:currentColor"
+     d="M 4.4472656 1 L 4.4492188 1.0039062 L 0.0078125 3.5078125 L 4 5.9863281 L 0 9.0039062 L 4.4492188 11.5 L 8 9.0097656 L 4 6 L 8 3.5078125 L 12 6.0136719 L 10.263672 7.3144531 C 10.819229 7.1075274 11.407159 7.001052 12 7 C 12.613322 7.00171 13.221095 7.1162466 13.792969 7.3378906 L 12 5.9960938 L 15.990234 3.5058594 L 11.550781 1 L 8 3.4921875 L 4.4472656 1 z M 12 8 C 9.791 8 8 9.7909999 8 12 C 8 14.209 9.791 16 12 16 C 14.209 16 16 14.209 16 12 C 16 9.7909999 14.209 8 12 8 z M 12 9 L 12 10 A 2 2 0 0 0 10 12 L 9 12 A 3 3 0 0 1 12 9 z M 7.2128906 10.5625 L 4.4492188 12.501953 L 3.5605469 12.003906 L 3.5605469 12.375 L 8 15 L 8.0058594 14.998047 C 7.3550571 14.133881 7.0021123 13.081851 7 12 C 7.0005819 11.513023 7.072303 11.028743 7.2128906 10.5625 z M 14 12 L 15 12 A 3 3 0 0 1 12 15 L 12 14 A 2 2 0 0 0 14 12 z "
+     id="path3953" />
 </svg>
