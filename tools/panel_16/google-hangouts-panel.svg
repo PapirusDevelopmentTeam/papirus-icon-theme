@@ -1,10 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="google-hangouts-panel.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="55.05"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3958" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,0 C 4.13,0 1,3.1 1,6.93 1,10.76 4.13,13.87 8,13.87 V 16 C 9.74,14.77 14.27,13.03 14.97,7.65 15,7.42 15,7.18 15,6.93 15,6.71 14.99,6.5 14.97,6.28 14.64,2.76 11.65,0 8,0 Z M 4.47,4.8 H 6.62 C 6.92,4.8 7.16,5.04 7.16,5.33 V 6.88 C 7.16,6.9 7.16,6.92 7.16,6.93 V 7.47 8 C 7.16,9.42 5.78,10.07 5.78,10.07 5.52,10.23 5.13,10.13 5,9.86 4.87,9.59 5.02,9.21 5.31,9.12 5.31,9.12 6.08,8.71 6.08,8 H 4.47 C 4.17,8 3.93,7.76 3.93,7.47 V 5.33 C 3.93,5.04 4.17,4.8 4.47,4.8 Z M 9.33,4.8 H 11.48 C 11.78,4.8 12.02,5.04 12.02,5.33 V 6.88 C 12.02,6.9 12.02,6.92 12.02,6.93 V 7.47 8 C 12.02,9.42 10.64,10.07 10.64,10.07 10.39,10.23 10,10.13 9.86,9.86 9.73,9.59 9.88,9.21 10.17,9.12 10.17,9.12 11.66,8 10.94,8 H 9.33 C 9.03,8 8.79,7.76 8.79,7.47 V 5.33 C 8.79,5.04 9.03,4.8 9.33,4.8 Z"/>
- </g>
+  </defs>
+  <path
+     style="fill:#d3dae3;fill-opacity:1"
+     d="M 8 1 A 6 6 0 0 0 2 7 A 6 6 0 0 0 2.0019531 7.046875 C 2.001883 7.0587363 2 7.0701536 2 7.0820312 C 2 7.1524142 2.0092726 7.2212202 2.0117188 7.2910156 A 6 6 0 0 0 2.0195312 7.4511719 C 2.2121788 10.561937 4.8084565 13.03125 8 13.03125 L 8 15 C 9.4914286 13.945714 13.374609 12.310648 13.974609 7.6992188 C 14.000323 7.502076 14 7.2963169 14 7.0820312 C 14 7.067475 13.998149 7.0535245 13.998047 7.0390625 A 6 6 0 0 0 14 7 A 6 6 0 0 0 8 1 z M 4.5 5.0371094 L 6.5 5.0371094 C 6.776938 5.0371094 7 5.2569488 7 5.53125 L 7 6.9707031 C 7.0005107 6.9861151 7.0005107 7.0020731 7 7.0175781 L 7 7.5117188 L 7 8.0078125 C 7 9.3281609 5.71875 9.9257812 5.71875 9.9257812 C 5.4826081 10.079366 5.1206452 9.9815865 4.9960938 9.7304688 C 4.8715421 9.4793231 5.0142371 9.1361792 5.28125 9.0449219 C 5.28125 9.0449219 6 8.6680146 6 8.0078125 L 4.5 8.0078125 C 4.2230713 8.0078032 4 7.78602 4 7.5117188 L 4 5.53125 C 4 5.2569488 4.2230713 5.0371094 4.5 5.0371094 z M 9.5 5.0371094 L 11.5 5.0371094 C 11.776938 5.0371094 12 5.2569488 12 5.53125 L 12 6.9707031 C 12.000511 6.9861151 12.000511 7.0020731 12 7.0175781 L 12 7.5117188 L 12 8.0078125 C 12 9.3281609 10.71875 9.9257812 10.71875 9.9257812 C 10.482608 10.079366 10.120645 9.9815868 9.9960938 9.7304688 C 9.871542 9.4793231 10.014235 9.1361792 10.28125 9.0449219 C 10.28125 9.0449219 11 8.6680146 11 8.0078125 L 9.5 8.0078125 C 9.2230713 8.0078032 9 7.78602 9 7.5117188 L 9 5.53125 C 9 5.2569488 9.2230713 5.0371094 9.5 5.0371094 z "
+     id="path3953" />
 </svg>
