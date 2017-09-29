@@ -5,9 +5,9 @@
   </style>
  </defs>
  <g>
-  <rect style="fill:currentColor" width="6" height="6" x="2" y="2" class="ColorScheme-Text" rx="1" ry="1"/>
-  <rect style="fill:currentColor" width="6" height="6" x="9" y="2" class="ColorScheme-Text" rx="1" ry="1"/>
-  <rect style="fill:currentColor" width="6" height="6" x="9" y="9" class="ColorScheme-Text" rx="1" ry="1"/>
-  <rect style="fill:currentColor" width="6" height="6" x="2" y="9" class="ColorScheme-Text" rx="1" ry="1"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="6" height="6" x="2" y="2" rx="1" ry="1"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="6" height="6" x="9" y="2" rx="1" ry="1"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="6" height="6" x="9" y="9" rx="1" ry="1"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="6" height="6" x="2" y="9" rx="1" ry="1"/>
  </g>
 </svg>
