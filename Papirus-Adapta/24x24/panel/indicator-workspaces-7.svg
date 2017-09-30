@@ -4,11 +4,5 @@
    .ColorScheme-Text { color:#cfd8dc; } .ColorScheme-Highlight { color:#00bcd4; }
   </style>
  </defs>
- <g transform="translate(0 -1028.9)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m10 1045.9-2 2c-1 1-1 1 0 1h8c1 0 1 0 0-1l-2-2v-1h-4z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m6 1032.9c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2h-12zm0 2h12v9h-12v-9z"/>
-  <g transform="translate(.053406)">
-   <path style="fill:currentColor" class="ColorScheme-Text" d="m9.543 1036.2h4.807v0.927l-2.487 5.452h-1.602l2.354-5.17h-3.072v-1.209z"/>
-  </g>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 6,4 C 4.892,4 4,4.892 4,6 l 0,9 c 0,1.108 0.892,2 2,2 l 4,0 -2.2890625,2 c -1.0374129,0.9062 -0.9473684,1 0,1 l 7.5781245,0 c 0.947369,0 0.947368,0 0,-1 L 13,17 l 4,0 c 1.108,0 2,-0.892 2,-2 L 19,6 C 19,4.892 18.108,4 17,4 L 6,4 Z m 0,2 11,0 0,9 -11,0 0,-9 z m 3,1 0,1 4,0 0,2 -2,0 -1,0 0,1 0,3 1,0 0,-3 3,0 0,-1 0,-3 -5,0 z"/>
 </svg>
