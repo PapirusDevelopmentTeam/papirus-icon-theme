@@ -1,10 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="radiotray_connecting.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="22.36"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 0.1426,1 C -0.4906,1 -1,1.5344 -1,2.1992 V 13.801 C -1,14.466 -0.4906,15 0.1426,15 H 15.857 C 16.491,15 17,14.466 17,13.801 V 2.1992 C 17,1.5346 16.491,1.0002 15.857,1.0002 H 0.1426 Z M 5,4 C 7.209,4 9,5.7909 9,8 9,10.209 7.209,12 5,12 2.7909,12 1,10.209 1,8 1,5.7909 2.7909,4 5,4 Z M 10,4 H 15 V 5 H 10 Z M 5,5 C 3.3431,5 2,6.3432 2,8 2,9.657 3.3431,11 5,11 6.6568,11 8,9.657 8,8 8,6.3432 6.6568,5 5,5 Z M 10,7 H 15 V 8 H 10 Z M 10,10 H 15 V 11 H 10 Z"/>
- </g>
+  </defs>
+  <path
+     style="opacity:1;fill:#d3dae3;fill-opacity:1"
+     d="M 1.015625 2 C 0.4527806 2 -1.4802974e-16 2.4575152 0 3.0273438 L 0 12.972656 C 0 13.542656 0.4527806 14 1.015625 14 L 14.984375 14 C 15.547931 14 16 13.542656 16 12.972656 L 16 3.0273438 C 16 2.4576866 15.547931 2 14.984375 2 L 1.015625 2 z M 5 4 C 7.209 4 9 5.7909 9 8 C 9 10.209 7.209 12 5 12 C 2.7909 12 1 10.209 1 8 C 1 5.7909 2.7909 4 5 4 z M 10 4 L 15 4 L 15 5 L 10 5 L 10 4 z M 10 7 L 15 7 L 15 8 L 10 8 L 10 7 z M 10 10 L 15 10 L 15 11 L 10 11 L 10 10 z "
+     id="path3959" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3953"
+     d="M 5,5 C 3.3431,5 2,6.3432 2,8 2,9.657 3.3431,11 5,11 6.6568,11 8,9.657 8,8 8,6.3432 6.6568,5 5,5 Z"
+     style="fill:#d3dae3;opacity:1;fill-opacity:1" />
 </svg>
