@@ -14,13 +14,14 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="keyboard-battery-full.svg">
   <metadata
-     id="metadata15">
+     id="metadata17">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,10 +36,10 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
-     id="namedview13"
+     id="namedview15"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:zoom="20.86"
+     inkscape:cx="3.1409396"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -56,16 +57,18 @@
      id="g7"
      transform="translate(2,0)">
     <path
+       style="color:#5294e2;opacity:1;fill:#d3dae3;fill-opacity:1"
+       class="ColorScheme-Highlight"
+       d="m 0.5,0.99965 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -2,-0.002 0,-3e-4 L -2,14.5 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 C 4.777,15 5,14.777 5,14.5 l 0,-12.50165 -0.5,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z"
+       id="path9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccsssscccscc" />
+    <path
        style="color:#d3dae3;fill:currentColor"
        class="ColorScheme-Text"
-       d="M 0.5,0 C 0.223,0 0,0.22 0,0.5 l 0,0.5 -2,0 0,0 0,14.5 c 0,0.28 0.223,0.5 0.5,0.5 l 6,0 C 4.777,16 5,15.78 5,15.5 L 5,1 4.5,1 3,1 3,0.5 C 3,0.23 2.777,0 2.5,0 Z"
-       id="path9"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor;fill-rule:evenodd"
-       class="ColorScheme-Text"
-       d="M 8,1 C 7.446,1 7,1.45 7,2 l 0,13 c 0,0.55 0.446,1 1,1 l 5,0 c 0.554,0 1,-0.45 1,-1 L 14,2 C 14,1.45 13.554,1 13,1 Z M 8,4 9,4 9,5 8,5 Z m 2,0 1,0 0,1 -1,0 z m 2,1 1,0 0,7 -1,0 z M 8,6 9,6 9,7 8,7 Z m 2,0 1,0 0,1 -1,0 z M 8,8 9,8 9,9 8,9 Z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z"
-       id="path11"
-       inkscape:connector-curvature="0" />
+       d="M 8,2 C 7.446,2 7,2.446 7,3 l 0,11 c 0,0.554 0.446,1 1,1 l 5,0 c 0.554,0 1,-0.446 1,-1 L 14,3 C 14,2.446 13.554,2 13,2 Z M 8,4 9,4 9,5 8,5 Z m 2,0 1,0 0,1 -1,0 z m 2,1 1,0 0,7 -1,0 z M 8,6 9,6 9,7 8,7 Z m 2,0 1,0 0,1 -1,0 z M 8,8 9,8 9,9 8,9 Z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z"
+       id="path13"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>

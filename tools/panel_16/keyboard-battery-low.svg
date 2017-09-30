@@ -36,14 +36,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      id="namedview15"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
+     showgrid="true"
+     inkscape:zoom="23.96"
+     inkscape:cx="-14.947129"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3945" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <style
@@ -58,20 +62,23 @@
     <path
        style="color:#d3dae3;opacity:0.3;fill:currentColor"
        class="ColorScheme-Text"
-       d="M 0.5,0 C 0.22,0 0,0.22 0,0.5 l 0,0.5 -2,0 0,0 0,14.5 c 0,0.28 0.22,0.5 0.5,0.5 l 6,0 C 4.78,16 5,15.78 5,15.5 L 5,1 4.5,1 3,1 3,0.5 C 3,0.22 2.78,0 2.5,0 Z"
+       d="M 0.5,1 C 0.22,1 0,1.22 0,1.5 l 0,0.5 -2,0 0,0 0,12.5 c 0,0.28 0.22,0.5 0.5,0.5 l 6,0 C 4.78,15 5,14.78 5,14.5 L 5,2 4.5,2 3,2 3,1.5 C 3,1.22 2.78,1 2.5,1 Z"
        id="path9"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccsssscccsss" />
     <path
        style="color:#d3dae3;fill:currentColor"
        class="ColorScheme-Text"
-       d="m -2,10 0,5.5 c 0,0.28 0.22,0.5 0.5,0.5 l 6,0 C 4.78,16 5,15.78 5,15.5 L 5,10 Z"
+       d="m -2,11 0,3.5 c 0,0.28 0.22,0.5 0.5,0.5 l 6,0 C 4.78,15 5,14.78 5,14.5 L 5,11 Z"
        id="path11"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscc" />
     <path
        style="color:#d3dae3;fill:currentColor;fill-rule:evenodd"
        class="ColorScheme-Text"
-       d="M 8,1 C 7.45,1 7,1.45 7,2 l 0,13 c 0,0.55 0.45,1 1,1 l 5,0 c 0.55,0 1,-0.45 1,-1 L 14,2 C 14,1.45 13.55,1 13,1 Z M 8,4 9,4 9,5 8,5 Z m 2,0 1,0 0,1 -1,0 z m 2,1 1,0 0,7 -1,0 z M 8,6 9,6 9,7 8,7 Z m 2,0 1,0 0,1 -1,0 z M 8,8 9,8 9,9 8,9 Z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z"
+       d="M 8,2 C 7.45,2 7,2.45 7,3 l 0,11 c 0,0.55 0.45,1 1,1 l 5,0 c 0.55,0 1,-0.45 1,-1 L 14,3 C 14,2.45 13.55,2 13,2 Z M 8,4 9,4 9,5 8,5 Z m 2,0 1,0 0,1 -1,0 z m 2,1 1,0 0,7 -1,0 z M 8,6 9,6 9,7 8,7 Z m 2,0 1,0 0,1 -1,0 z M 8,8 9,8 9,9 8,9 Z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z m -2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z"
        id="path13"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
