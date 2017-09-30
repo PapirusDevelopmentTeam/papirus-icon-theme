@@ -184,13 +184,9 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
     ./clean.sh
     ```
 
-5. Go to repository root and run tests:
+5. Run tests:
 
     ```sh
-    # go to repository root
-    cd $(git rev-parse --show-cdup)
-
-    # run tests
     make tests
     ```
 
