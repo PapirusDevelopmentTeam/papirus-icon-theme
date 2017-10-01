@@ -1,10 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="youtube-indicator-light-disabled.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="36.32"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 7.998,1 C 7.998,1 4.2195,1 1.7011,1.2 1.3493,1.2 0.5829,1.2 -0.1016,2 -0.6412,2.5 -0.8164,3.8 -0.8164,3.8 -0.8164,3.8 -0.9935,5.3 -0.9961,6.9 L -1,9.1 C -1.0026,10.7 -0.8203,12.2 -0.8203,12.2 -0.8203,12.2 -0.6451,13.4 -0.1055,14 0.5791,14.8 1.4784,14.7 1.8789,14.8 3.3186,15 7.998,15 7.998,15 7.998,15 11.779,15 14.297,14.8 14.649,14.8 15.417,14.8 16.102,14 16.641,13.4 16.816,12.2 16.816,12.2 16.816,12.2 16.993,10.7 16.996,9.1 L 17,6.9 C 17.003,5.3 16.82,3.8 16.82,3.8 16.82,3.8 16.645,2.5 16.105,2 15.421,1.2 14.653,1.2 14.301,1.2 11.782,1 8.006,1 8.006,1 Z M 5,4 11,8 5,12 Z"/>
- </g>
+  </defs>
+  <path
+     style="fill:#d3dae3;fill-opacity:1;opacity:0.3"
+     d="M 8.1074219 2 C 6.2376219 2.0004 3.4791438 2.1237438 2.6523438 2.1523438 C 1.7535437 2.2383437 1.4219406 2.286375 0.93164062 2.734375 C 0.17682062 3.444975 -1.4802974e-16 4.8425688 0 6.9804688 L 0 9.0136719 C 5.33e-08 11.451072 0.30353375 12.690578 0.80859375 13.142578 C 1.3856738 13.671578 1.7664175 13.712391 2.1484375 13.775391 C 2.2973375 13.798391 3.3557625 14 8.0390625 14 C 10.958662 14 13.467563 13.851359 13.726562 13.818359 C 14.145563 13.761359 14.738266 13.679578 15.197266 13.142578 C 15.868266 12.330578 16 10.98109 16 9.0253906 L 16 6.6582031 C 16 5.3929031 15.935266 3.6073219 15.197266 2.8574219 C 14.637266 2.3521219 14.433344 2.2110375 13.277344 2.1484375 C 12.951344 2.1330375 10.100122 1.99966 8.1074219 2 z M 7 5 L 11 8 L 7 11 L 7 5 z "
+     id="path4" />
 </svg>
