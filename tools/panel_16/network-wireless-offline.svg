@@ -1,11 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="network-wireless-offline.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,12 V 13 C 11,13.276 11.1,13.538 11.281,13.719 L 12.063,14.5 11.281,15.281 C 11.1,15.462 11,15.724 11,16 V 17 H 12 C 12.276,17 12.538,16.9 12.719,16.719 L 13.5,15.937 14.281,16.719 C 14.462,16.9 14.724,17 15,17 H 16 V 16 C 16,15.724 15.9,15.462 15.719,15.281 L 14.937,14.5 15.719,13.719 C 15.9,13.538 16,13.276 16,13 V 12 H 15 C 14.724,12 14.462,12.1 14.281,12.281 L 13.5,13.062 12.719,12.281 C 12.538,12.1 12.276,12 12,12 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 8.031,2 C 4.9969,2 2.2654,3.2718 0,5.0163 L 8.031,14 16,4.9837 C 13.743,3.2585 11.042,2 8.031,2 Z"/>
- </g>
+  </defs>
+  <g
+     id="g7">
+    <path
+       style="color:#d3dae3;fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 11,11 0,1 c 0,0.276 0.1,0.538 0.281,0.719 l 0.782,0.781 -0.782,0.781 C 11.1,14.462 11,14.724 11,15 l 0,1 1,0 c 0.276,0 0.538,-0.1 0.719,-0.281 l 0.781,-0.782 0.781,0.782 C 14.462,15.9 14.724,16 15,16 l 1,0 0,-1 c 0,-0.276 -0.1,-0.538 -0.281,-0.719 L 14.937,13.5 15.719,12.719 C 15.9,12.538 16,12.276 16,12 l 0,-1 -1,0 c -0.276,0 -0.538,0.1 -0.719,0.281 L 13.5,12.062 12.719,11.281 C 12.538,11.1 12.276,11 12,11 Z"
+       id="path9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       d="M 8.031,2 C 4.9969,2 2.2654,3.2718 0,5.0163 L 8.031,14 16,4.9837 C 13.743,3.2585 11.042,2 8.031,2 Z"
+       id="path11" />
+  </g>
 </svg>
