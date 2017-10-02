@@ -77,7 +77,7 @@ _get_context() {
 			;;
 		panel|pa*)
 			CONTEXT="panel"
-			SIZES=( '22x22' '24x24' )
+			SIZES=( '16x16' '22x22' '24x24' )
 			;;
 		places|pl*)
 			CONTEXT="places"

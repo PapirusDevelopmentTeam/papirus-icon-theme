@@ -45,7 +45,7 @@ case "$1" in
 		done
 		;;
 	panel|pa*)
-		for size in '22x22' '24x24'; do
+		for size in '16x16' '22x22' '24x24'; do
 			cp -v "$TARGET_DIR/panel/_TEMPLATE@${size}.SVG" \
 				"$TARGET_DIR/panel/${ICON_NAME}@${size}.svg"
 		done
