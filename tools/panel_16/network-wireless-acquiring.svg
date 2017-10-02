@@ -4,8 +4,8 @@
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g>
-  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8.031,2 C 4.9967,2 2.2652,3.1251 -1e-4,4.8696 L 0.2323,5 H 15.742 L 16,4.837 C 13.744,3.1118 11.042,2 8.031,2 Z M 5,11 8.031,14 11,11 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,6 C 1.892,6 1,6.892 1,8 1,9.108 1.892,10 3,10 4.108,10 5,9.108 5,8 5,6.892 4.108,6 3,6 Z M 8,6 C 6.892,6 6,6.892 6,8 6,9.108 6.892,10 8,10 9.108,10 10,9.108 10,8 10,6.892 9.108,6 8,6 Z M 13,6 C 11.892,6 11,6.892 11,8 11,9.108 11.892,10 13,10 14.108,10 15,9.108 15,8 15,6.892 14.108,6 13,6 Z"/>
- </g>
+ <circle style="fill:currentColor" class="ColorScheme-Text" cx="3" cy="8" r="2"/>
+ <circle style="fill:currentColor" class="ColorScheme-Text" cx="8" cy="8" r="2"/>
+ <circle style="fill:currentColor" class="ColorScheme-Text" cx="13" cy="8" r="2"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,2 C 4.9494,2 2.0806,3.0732 0,5 H 16 C 13.919,3.0731 11.051,2 8,2 Z M 5.334,11 8,14 10.666,11 Z"/>
 </svg>
