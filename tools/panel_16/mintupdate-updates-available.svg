@@ -4,8 +4,6 @@
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g transform="matrix(0.85714286,0,0,0.875,1.1428571,1)">
-  <path style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Text" d="M 8 1 C 6.1587713 2.7235748 3.0582287 3.9917875 2 4.25 C 2 8.9163746 4.2499998 14.222125 8 15 C 11.75 14.222125 14 8.9163746 14 4.25 C 12.941429 3.9917875 9.8411426 2.7235748 8 1 z M 7 4 L 9 4 L 9 6 L 7 6 L 7 4 z M 7 7 L 9 7 L 9 12 L 7 12 L 7 7 z" transform="matrix(1.1666667,0,0,1.1428571,-1.3333333,-1.1428571)"/>
- </g>
+ <path style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Text" d="M 8,0.99996 C 6.1588,2.7236 3.0582,3.9918 2,4.25 2,8.9164 4.25,14.222 8,15 11.75,14.222 14,8.9164 14,4.25 12.941,3.9918 9.8411,2.7236 8,0.99996 Z M 7,4 H 9 V 6 H 7 Z M 7,7 H 9 V 12 H 7 Z"/>
  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="14.5" cy="13.5" r="1.5"/>
 </svg>

@@ -4,7 +4,5 @@
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g transform="matrix(0.8,0,0,0.8,1.6,1.2)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m -2,1 0,2.5 11.25,0 0,-2.5 z m 0,6.25 0,2.5 11.25,0 0,-2.5 z m 13.75,0 L 14.875,11 18,7.25 Z M -2,13.5 l 0,2.5 11.25,0 0,-2.5 z"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 0,2 V 4 H 9 V 2 Z M 0,7 V 9 H 9 V 7 Z M 11,7 13.5,10 16,7 Z M 0,12 V 14 H 9 V 12 Z"/>
 </svg>

@@ -4,7 +4,5 @@
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g>
-  <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 4,1 C 3,1 3,2 3,2 l 0,12 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 L 13,2 c 0,0 0,-1 -1,-1 z m 7,3 0,7 -6,0 0,-6.998 6,-0.0019 z m -3,8 c 0.5522847,0 1,0.447715 1,1 0,0.552285 -0.4477153,1 -1,1 -0.5522847,0 -1,-0.447715 -1,-1 0,-0.552285 0.4477153,-1 1,-1 z"/>
- </g>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 4,1 C 3,1 3,2 3,2 V 14 C 3,14 3,15 4,15 H 12 C 13,15 13,14 13,14 V 2 C 13,2 13,1 12,1 Z M 11,4 V 11 H 5 V 4.002 L 11,4.0001 Z M 8,12 C 8.5523,12 9,12.448 9,13 9,13.552 8.5523,14 8,14 7.4477,14 7,13.552 7,13 7,12.448 7.4477,12 8,12 Z"/>
 </svg>

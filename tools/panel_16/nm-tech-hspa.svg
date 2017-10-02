@@ -4,7 +4,5 @@
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g transform="translate(0,-1)">
-  <path style="fill:none;stroke:currentColor;stroke-linejoin:round" class="ColorScheme-Text" d="m 13,14.5 2,0 m 0.5,-2.5 0,5 m -3,-5 0,5"/>
- </g>
+ <path style="fill:none;stroke:currentColor;stroke-linejoin:round" class="ColorScheme-Text" d="M 13,13.5 H 15 M 15.5,11 V 16 M 12.5,11 V 16"/>
 </svg>
