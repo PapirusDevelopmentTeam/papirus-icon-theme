@@ -1,77 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="rambox-notification.svg">
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview11"
-     showgrid="true"
-     inkscape:zoom="41.72"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3949" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
-  </defs>
-  <g
-     id="g7"
-     transform="matrix(0.85716057,0,0,0.87498883,1.1430216,1.0000875)">
-    <path
-       style="color:#d3dae3;fill:currentColor;fill-rule:evenodd"
-       class="ColorScheme-Text"
-       d="m 8.928,4.5709369 c 1.864,0.0271 2.341723,1.6947631 2.886723,1.7305631 0.676,0.0435 1.058,0.8875 0.786,1.4575 -0.273,0.571 -1.087153,0.281 -1.101153,0.958 -0.008,0.395 0.918632,0.687 1.066632,0.692 0.419,-0.32 0.86,-0.326 1.081,-0.118 0.22,0.208 0.221,0.63 0.218,1.163 0.996,1.141 0.661798,1.23 0.924798,1.765 0.203,0.415 0.403,1.156 -0.145,1.394 -0.393,1.564 -1.508,2.102 -2.62,1.965 C 11.654,15.54 10.694,16.296 8.703,15.869 7.164,15.54 0.2554,13.852 1.0656,10.745 1.7834,8.005 3.7669151,1.8735 4.4997151,1.1621 c 0,0 0.3369849,1.4935 0.9837849,2.1024 C 5.7694,0.8534 7.59,0.0782 8.229,-10e-5 7.603,0.7442 7.286,1.5987 7.469,2.3382 8.889,0.5779 11.267,1.0997786 12.368,1.6787786 7.621,2.5197786 8.93,4.5718369 8.93,4.5718369 Z"
-       id="path9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccc" />
-  </g>
-  <circle
-     style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path3951"
-     cx="13.5"
-     cy="4.5"
-     r="1.5" />
+ </defs>
+ <g transform="matrix(0.85716057,0,0,0.87498883,1.1430216,1.0000875)">
+  <path style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Text" d="m 8.928,4.5709369 c 1.864,0.0271 2.341723,1.6947631 2.886723,1.7305631 0.676,0.0435 1.058,0.8875 0.786,1.4575 -0.273,0.571 -1.087153,0.281 -1.101153,0.958 -0.008,0.395 0.918632,0.687 1.066632,0.692 0.419,-0.32 0.86,-0.326 1.081,-0.118 0.22,0.208 0.221,0.63 0.218,1.163 0.996,1.141 0.661798,1.23 0.924798,1.765 0.203,0.415 0.403,1.156 -0.145,1.394 -0.393,1.564 -1.508,2.102 -2.62,1.965 C 11.654,15.54 10.694,16.296 8.703,15.869 7.164,15.54 0.2554,13.852 1.0656,10.745 1.7834,8.005 3.7669151,1.8735 4.4997151,1.1621 c 0,0 0.3369849,1.4935 0.9837849,2.1024 C 5.7694,0.8534 7.59,0.0782 8.229,-10e-5 7.603,0.7442 7.286,1.5987 7.469,2.3382 8.889,0.5779 11.267,1.0997786 12.368,1.6787786 7.621,2.5197786 8.93,4.5718369 8.93,4.5718369 Z"/>
+ </g>
+ <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="13.5" cy="4.5" r="1.5"/>
 </svg>

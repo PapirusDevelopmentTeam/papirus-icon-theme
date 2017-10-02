@@ -1,65 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="livewallpaper-indicator.svg">
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="22.36"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
-  </defs>
-  <g
-     id="g7">
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 0.8008,1 C 0.3576,1 0,1.3624 0,1.8125 L 0,12.187 C 0,12.638 0.39735071,12.816547 0.8008,13 L 3,13 3,14.187 C 3,14.638 3.3723,15 3.834,15 l 8.332,0 C 12.628,15 13,14.638 13,14.187 L 13,13 15.199,13 C 15.642,13 16,12.638 16,12.187 L 16,1.8125 C 16,1.3624 15.642,1 15.199,1 Z M 1,2 15,2 15,12 1,12 Z M 7,3 C 6.4477153,3 6,3.4477153 6,4 6,4.5522847 6.4477153,5 7,5 7.5522847,5 8,4.5522847 8,4 8,3.4477153 7.5522847,3 7,3 Z m 5,0 c -1.104569,0 -2,0.8954305 -2,2 0,1.1045695 0.895431,2 2,2 1.104569,0 2,-0.8954305 2,-2 C 14,3.8954305 13.104569,3 12,3 Z M 3.5,6 C 2.6715729,6 2,6.6715729 2,7.5 2,8.3284271 2.6715729,9 3.5,9 4.3284271,9 5,8.3284271 5,7.5 5,6.6715729 4.3284271,6 3.5,6 Z m 8.965,2.4 C 12.202612,8.4184115 11.999355,8.6369679 12,8.9 c 0,0.2761424 0.223858,0.5 0.5,0.5 0.276142,0 0.5,-0.2238576 0.5,-0.5 0,-0.2761424 -0.223858,-0.5 -0.5,-0.5 -0.01166,-4.085e-4 -0.02334,-4.085e-4 -0.035,0 z M 9,9 c -0.5522847,0 -1,0.4477153 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 C 10,9.4477153 9.5522847,9 9,9 Z"
-       id="path9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssscsssscssssscccccsssssssssssssssccssccsssss" />
-  </g>
+ </defs>
+ <g>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 0.8008,1 C 0.3576,1 0,1.3624 0,1.8125 L 0,12.187 C 0,12.638 0.39735071,12.816547 0.8008,13 L 3,13 3,14.187 C 3,14.638 3.3723,15 3.834,15 l 8.332,0 C 12.628,15 13,14.638 13,14.187 L 13,13 15.199,13 C 15.642,13 16,12.638 16,12.187 L 16,1.8125 C 16,1.3624 15.642,1 15.199,1 Z M 1,2 15,2 15,12 1,12 Z M 7,3 C 6.4477153,3 6,3.4477153 6,4 6,4.5522847 6.4477153,5 7,5 7.5522847,5 8,4.5522847 8,4 8,3.4477153 7.5522847,3 7,3 Z m 5,0 c -1.104569,0 -2,0.8954305 -2,2 0,1.1045695 0.895431,2 2,2 1.104569,0 2,-0.8954305 2,-2 C 14,3.8954305 13.104569,3 12,3 Z M 3.5,6 C 2.6715729,6 2,6.6715729 2,7.5 2,8.3284271 2.6715729,9 3.5,9 4.3284271,9 5,8.3284271 5,7.5 5,6.6715729 4.3284271,6 3.5,6 Z m 8.965,2.4 C 12.202612,8.4184115 11.999355,8.6369679 12,8.9 c 0,0.2761424 0.223858,0.5 0.5,0.5 0.276142,0 0.5,-0.2238576 0.5,-0.5 0,-0.2761424 -0.223858,-0.5 -0.5,-0.5 -0.01166,-4.085e-4 -0.02334,-4.085e-4 -0.035,0 z M 9,9 c -0.5522847,0 -1,0.4477153 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 C 10,9.4477153 9.5522847,9 9,9 Z"/>
+ </g>
 </svg>

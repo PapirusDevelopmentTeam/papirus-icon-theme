@@ -1,59 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="bitcoin-indicator.svg">
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview11"
-     showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
-  </defs>
-  <path
-     style="fill:#d3dae3;fill-opacity:1"
-     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 6 3 L 7 3 L 7 4 C 7.303 3.989 7.701 4 8 4 L 8 3 L 9 3 L 9 4 L 10 4 C 10.567 4 11 5 11 5.75 C 11 7 10.567406 7.443 9.8164062 7.5 C 10.999406 7.501 12 8 12 9.5 C 12 11.634 10.892375 11.862 8.984375 12 L 9.015625 13 L 8.015625 13 L 7.984375 12 L 7 12 L 7 12.982422 L 6 13 L 6 12 C 5.7342 12 5.4020531 11.99 5.1269531 12 L 4 12 L 4 11 C 4 11 4.6905813 11.013 4.6757812 11 C 4.9972813 10.99 4.9824 10.641 5 10.5 L 5 5.5488281 C 4.9524 5.3261281 4.8058031 4.993 4.3457031 5 C 4.3594031 4.985 4 5 4 5 L 4 4 L 5.0664062 4 C 5.3019064 4 5.7542 4.01 6 4 L 6 3 z M 7 5 L 7 7 C 8.269 7 9 7 9 6 C 9 5 8.41 5 7 5 z M 7 8 L 7 11 C 9 11 10 11 10 9.5 C 10 8 9 8 7 8 z "
-     id="path3955" />
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 6 3 L 7 3 L 7 4 C 7.303 3.989 7.701 4 8 4 L 8 3 L 9 3 L 9 4 L 10 4 C 10.567 4 11 5 11 5.75 C 11 7 10.567406 7.443 9.8164062 7.5 C 10.999406 7.501 12 8 12 9.5 C 12 11.634 10.892375 11.862 8.984375 12 L 9.015625 13 L 8.015625 13 L 7.984375 12 L 7 12 L 7 12.982422 L 6 13 L 6 12 C 5.7342 12 5.4020531 11.99 5.1269531 12 L 4 12 L 4 11 C 4 11 4.6905813 11.013 4.6757812 11 C 4.9972813 10.99 4.9824 10.641 5 10.5 L 5 5.5488281 C 4.9524 5.3261281 4.8058031 4.993 4.3457031 5 C 4.3594031 4.985 4 5 4 5 L 4 4 L 5.0664062 4 C 5.3019064 4 5.7542 4.01 6 4 L 6 3 z M 7 5 L 7 7 C 8.269 7 9 7 9 6 C 9 5 8.41 5 7 5 z M 7 8 L 7 11 C 9 11 10 11 10 9.5 C 10 8 9 8 7 8 z"/>
 </svg>

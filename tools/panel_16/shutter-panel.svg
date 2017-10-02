@@ -1,108 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="shutter-panel.svg">
-  <metadata
-     id="metadata25">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview23"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
-  </defs>
-  <g
-     id="g7"
-     transform="matrix(0.85469711,0,0,0.89034419,1.1627334,0.8751508)">
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 11.422,3.611 C 9.687,3.7201 6.6357,6.6643 7.065,6.6643 10.613,6.5007 12.83,6.7188 15.599,7.591 16.009,7.7 15.156,3.8836 11.422,3.611 Z"
-       xml:space="default"
-       id="path9"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 6.1438,1.212 C 5.1571,2.6296 5.0332,8.191 5.2876,7.864 7.388,5.0286 12.419,1.5392 15.42,0.1216 19.13,-1.5687 8.34,-1.4051 6.1438,1.212 Z"
-       xml:space="default"
-       id="path11"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 1.6753,7.21 C 2.2442,8.845 5.8828,11.026 5.7577,10.59 4.7231,7.21 4.349,5.0832 4.4653,2.1934 4.4828,1.7572 0.9906,3.5565 1.6753,7.21 Z"
-       xml:space="default"
-       id="path13"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 2.1503,12.553 C 3.7621,13.207 7.805,11.899 7.414,11.735 4.1776,10.317 2.2808,9.172 0.1787,7.155 -0.1325,6.8824 -1.0699,10.644 2.1503,12.553 Z"
-       xml:space="default"
-       id="path15"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 6.8131,15.606 C 8.354,14.788 9.97,10.917 9.583,11.081 c -3.2028,1.526 -5.3164,2.235 -8.1982,2.562 -0.4264,0.055 1.8908,3.163 5.4283,1.963 z"
-       xml:space="default"
-       id="path17"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="m 12.247,13.97 c 0.377,-1.69 -1.579,-5.397 -1.688,-5.016 -0.896,3.435 -1.726,5.453 -3.341,7.852 -0.2394,0.327 3.685,0.599 5.029,-2.836 z"
-       xml:space="default"
-       id="path19"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#d3dae3;fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 14.387,8.682 C 13.339,7.319 9.205,6.3372 9.45,6.7188 c 2.029,2.8902 3.06,4.7982 3.84,7.5792 0.116,0.436 2.88,-2.345 1.097,-5.616 z"
-       xml:space="default"
-       id="path21"
-       inkscape:connector-curvature="0" />
-  </g>
+ </defs>
+ <g transform="matrix(0.85469711,0,0,0.89034419,1.1627334,0.8751508)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 11.422,3.611 C 9.687,3.7201 6.6357,6.6643 7.065,6.6643 10.613,6.5007 12.83,6.7188 15.599,7.591 16.009,7.7 15.156,3.8836 11.422,3.611 Z" xml:space="default"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.1438,1.212 C 5.1571,2.6296 5.0332,8.191 5.2876,7.864 7.388,5.0286 12.419,1.5392 15.42,0.1216 19.13,-1.5687 8.34,-1.4051 6.1438,1.212 Z" xml:space="default"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 1.6753,7.21 C 2.2442,8.845 5.8828,11.026 5.7577,10.59 4.7231,7.21 4.349,5.0832 4.4653,2.1934 4.4828,1.7572 0.9906,3.5565 1.6753,7.21 Z" xml:space="default"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 2.1503,12.553 C 3.7621,13.207 7.805,11.899 7.414,11.735 4.1776,10.317 2.2808,9.172 0.1787,7.155 -0.1325,6.8824 -1.0699,10.644 2.1503,12.553 Z" xml:space="default"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.8131,15.606 C 8.354,14.788 9.97,10.917 9.583,11.081 c -3.2028,1.526 -5.3164,2.235 -8.1982,2.562 -0.4264,0.055 1.8908,3.163 5.4283,1.963 z" xml:space="default"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 12.247,13.97 c 0.377,-1.69 -1.579,-5.397 -1.688,-5.016 -0.896,3.435 -1.726,5.453 -3.341,7.852 -0.2394,0.327 3.685,0.599 5.029,-2.836 z" xml:space="default"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 14.387,8.682 C 13.339,7.319 9.205,6.3372 9.45,6.7188 c 2.029,2.8902 3.06,4.7982 3.84,7.5792 0.116,0.436 2.88,-2.345 1.097,-5.616 z" xml:space="default"/>
+ </g>
 </svg>

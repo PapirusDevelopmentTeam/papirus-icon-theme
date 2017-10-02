@@ -1,63 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="autokey-status.svg">
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview11"
-     showgrid="true"
-     inkscape:zoom="33.89"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3956" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
-  </defs>
-  <path
-     style="color:#d3dae3;fill:currentColor"
-     d="M 3.625 1 A 1.7500384 1.6924769 0 0 0 1.8847656 2.5058594 L 1.0097656 10.121094 A 1.7500384 1.6924769 0 0 0 2.75 12 L 13.25 12 A 1.7500384 1.6924769 0 0 0 14.990234 10.121094 L 14.115234 2.5058594 A 1.7500384 1.6924769 0 0 0 12.375 1 L 3.625 1 z M 7.9882812 3 C 8.1554472 2.99412 8.306581 3.089536 8.3574219 3.2324219 L 9.0058594 5.0058594 L 11.125 5.0058594 C 11.487013 5.0049272 11.637856 5.4572528 11.34375 5.6464844 L 9.6230469 6.7578125 L 10.277344 8.5664062 C 10.384684 8.8722997 9.9954551 9.1247516 9.7050781 8.9375 L 7.9941406 7.8144531 L 6.2773438 8.9316406 C 5.9843826 9.1241687 5.5910213 8.8652334 5.7070312 8.5566406 L 6.3691406 6.7519531 L 4.6542969 5.6347656 C 4.3629523 5.444595 4.5126594 4.993774 4.8730469 4.9941406 L 6.9960938 5.0039062 L 7.6503906 3.2304688 C 7.6983012 3.097693 7.8327586 3.0057972 7.9882812 3 z M 1 12.300781 L 1 12.779297 C 1 13.839797 1.9084203 15 2.96875 15 L 13.03125 15 C 14.091667 15 15 13.839797 15 12.779297 L 15 12.300781 C 14.534537 12.725155 13.928072 12.998047 13.25 12.998047 L 2.75 12.998047 C 2.0722779 12.998047 1.4651137 12.725155 1 12.300781 z "
-     id="path3964" />
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.625 1 A 1.7500384 1.6924769 0 0 0 1.8847656 2.5058594 L 1.0097656 10.121094 A 1.7500384 1.6924769 0 0 0 2.75 12 L 13.25 12 A 1.7500384 1.6924769 0 0 0 14.990234 10.121094 L 14.115234 2.5058594 A 1.7500384 1.6924769 0 0 0 12.375 1 L 3.625 1 z M 7.9882812 3 C 8.1554472 2.99412 8.306581 3.089536 8.3574219 3.2324219 L 9.0058594 5.0058594 L 11.125 5.0058594 C 11.487013 5.0049272 11.637856 5.4572528 11.34375 5.6464844 L 9.6230469 6.7578125 L 10.277344 8.5664062 C 10.384684 8.8722997 9.9954551 9.1247516 9.7050781 8.9375 L 7.9941406 7.8144531 L 6.2773438 8.9316406 C 5.9843826 9.1241687 5.5910213 8.8652334 5.7070312 8.5566406 L 6.3691406 6.7519531 L 4.6542969 5.6347656 C 4.3629523 5.444595 4.5126594 4.993774 4.8730469 4.9941406 L 6.9960938 5.0039062 L 7.6503906 3.2304688 C 7.6983012 3.097693 7.8327586 3.0057972 7.9882812 3 z M 1 12.300781 L 1 12.779297 C 1 13.839797 1.9084203 15 2.96875 15 L 13.03125 15 C 14.091667 15 15 13.839797 15 12.779297 L 15 12.300781 C 14.534537 12.725155 13.928072 12.998047 13.25 12.998047 L 2.75 12.998047 C 2.0722779 12.998047 1.4651137 12.725155 1 12.300781 z"/>
 </svg>
