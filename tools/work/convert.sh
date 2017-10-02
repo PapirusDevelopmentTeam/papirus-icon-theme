@@ -32,8 +32,6 @@ find "$SCRIPT_DIR" -maxdepth 1 -type d | while read -r theme_dir; do
 						;;
 					panel)
 						find "$SOURCE_DIR/$sub_dir" \
-							-name '*@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
 								cp -afv '{}' "$theme_dir/$sub_dir"
 						;;
