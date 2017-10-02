@@ -112,10 +112,11 @@ To fix hardcoded tray icons Papirus supports [Hardcode-Tray](https://github.com/
 ```
 sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 ```
+
 **Size recommendations:**
 - Unity 22px
 - KDE 22px
-- Gnome 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
+- GNOME 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - XFCE 24px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - Pantheon 24px
 
@@ -179,17 +180,17 @@ sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamo
 
 ![Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
 
-Also, increase panel size with `Allow Cinnamon to scale panel text and icons according to the panel height` option because Papirus contains only 22px and 24px panel's icons.
+To deal with blurred panel icons, increase the panel size up to 30px in `Systems Settings` → `Panel` (see [screenshot](https://i.imgur.com/oToRBYv.png)).
 </details>
 
 <details>
 <summary>For GNOME 3 users</summary>
 
-For Gnome users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend change icons color for panel:
+For GNOME users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend change icons color for panel:
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
 ```
-![Gnome Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
+![GNOME Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
 
 Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
 
