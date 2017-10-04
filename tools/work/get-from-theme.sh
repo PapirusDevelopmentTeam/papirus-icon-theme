@@ -4,8 +4,8 @@
 
 set -eo pipefail
 
-SCRIPT_DIR="$(dirname "$0")"
-TARGET_DIR="$SCRIPT_DIR/../.."
+readonly SCRIPT_DIR="$(dirname "$0")"
+readonly ROOT_DIR="$SCRIPT_DIR/../.."
 
 case "$1" in
 	all)          CONTEXT_DIR="/"           ;;
@@ -45,7 +45,7 @@ case "$1" in
 		;;
 esac
 
-find "$TARGET_DIR/Papirus" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
+find "$ROOT_DIR/Papirus" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
 	grep -i "${2:?PATTERN not set!}" | while read -r file; do
 
 	src_dir=$(dirname "$file")

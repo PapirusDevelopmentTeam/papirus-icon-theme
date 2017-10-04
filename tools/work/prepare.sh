@@ -4,14 +4,9 @@
 
 set -eo pipefail
 
-SCRIPT_DIR="$(dirname "$0")"
-SOURCE_DIRS=(
-	"$SCRIPT_DIR/ePapirus"
-	"$SCRIPT_DIR/Papirus"
-	"$SCRIPT_DIR/Papirus-Adapta"
-	"$SCRIPT_DIR/Papirus-Adapta-Nokto"
-	"$SCRIPT_DIR/Papirus-Dark"
-	"$SCRIPT_DIR/Papirus-Light"
+readonly SCRIPT_DIR="$(dirname "$0")"
+declare -a SOURCE_FILES=(
+	$(find "$SCRIPT_DIR" -mindepth 2 -type f -name '*.svg')
 )
 
-"$SCRIPT_DIR/../ffsvg.sh" "${SOURCE_DIRS[@]}"
+"$SCRIPT_DIR/../ffsvg.sh" "${SOURCE_FILES[@]}"

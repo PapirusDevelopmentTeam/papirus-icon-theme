@@ -4,8 +4,8 @@
 
 set -eo pipefail
 
-SCRIPT_DIR="$(dirname "$0")"
-TARGET_DIR="$SCRIPT_DIR/Papirus"
+readonly SCRIPT_DIR="$(dirname "$0")"
+readonly TARGET_DIR="$SCRIPT_DIR/Papirus"
 
 usage() {
 	cat <<-EOF
@@ -101,7 +101,7 @@ readonly RAW_CONTEXT="$1"
 readonly TARGET_ICON="$2"
 declare -a ARGS=("${@:3}")
 
-[ -n "$1" ] || usage
+[ "${#ARGS[@]}" -gt 0 ] || usage
 
 eval "$(_get_context "$RAW_CONTEXT")" || usage
 
