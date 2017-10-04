@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=ePapirus
-Comment=A simple and modern icon theme.
-Inherits=elementary,ubuntu-mono-dark,breeze,Mint-X,gnome,hicolor
+Comment=Papirus icon theme for elementary OS
+Inherits=elementary,ubuntu-mono-dark,hicolor
 
 DesktopDefault=48
 ToolbarDefault=16
