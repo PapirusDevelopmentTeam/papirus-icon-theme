@@ -15,7 +15,7 @@ Papirus icon theme is available in six variants:
 
  - Papirus (for Arc Darker)
  - Papirus Dark (for Arc Dark)
- - Papirus Light (for light theme and panel)
+ - Papirus Light (light theme with Breeze colors)
  - Papirus Adapta (for Adapta)
  - Papirus Adapta Nokto (for Adapta Nokto)
  - ePapirus (for elementary OS and Pantheon Desktop)
