@@ -70,7 +70,7 @@ for theme in "${THEMES[@]##*/}"; do
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
 								cp -afv '{}' "$theme_dir/$context_dir"
 						;;
-					devices|places)
+					devices)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
 							-name '*@16x16.svg' -print0 | xargs -0 -i \
@@ -82,6 +82,17 @@ for theme in "${THEMES[@]##*/}"; do
 							-name '*@16x16.svg' -print0 -o \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
+								cp -afv '{}' "$theme_dir/$context_dir"
+						;;
+					places)
+						mkdir -p "$theme_dir/$context_dir"
+						find "$SOURCE_DIR/$context_dir" \
+							-name '*@16x16.svg' -print0 -o \
+							-name '*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -print0 -o \
+							-name '*@32x32.svg' -print0 -o \
+							-name '*@48x48.svg' -print0 -o \
+							-name '*@64x64.svg' -print0 | xargs -0 -i \
 								cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 				esac
