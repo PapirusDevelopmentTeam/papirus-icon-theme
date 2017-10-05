@@ -140,19 +140,11 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](https://i.imgur.com/g8y4luC.png)
-
-**NOTE:** Currently, there is no easy way to change the global color of folders. You may edit the themes by yourself if you wish.
+![Folder Color Preview](https://i.imgur.com/LjTNLon.png)
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
-<details>
-<summary>Caveats for using dolphin-folder-color</summary>
-
-- The flags of the `kdialog` command used by the scripts varies by version. Some newer versions lack the `--caption` and `--geometry` flags. You may need to edit the script files manually so that they can be successfully run.
-- Papirus icon theme does not have the same color set as the default Breeze theme, so one or two of the colors may not work.
-</details>
-
+**NOTE:** Currently, there is no easy way to change the global color of folders. You may edit the themes by yourself if you wish.
 
 ## Extras
 
