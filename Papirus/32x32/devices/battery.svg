@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path opacity=".2" d="m6 28.666v1c0 0.739 0.5575 1.334 1.25 1.334h17.5c0.692 0 1.25-0.595 1.25-1.334v-1c0 0.739-0.558 1.334-1.25 1.334h-17.5c-0.6925 0-1.25-0.595-1.25-1.334z"/>
- <path fill="#5b5b5b" d="m26 28.667v-21.334c0-0.7384-0.558-1.333-1.25-1.333h-17.5c-0.6925 0-1.25 0.59467-1.25 1.3333v21.333c0 0.73867 0.5575 1.3333 1.25 1.3333l17.5 0.001c0.692 0 1.25-0.595 1.25-1.333z"/>
- <rect fill="#8e8e8e" width="14" height="3" x="9" y="3"/>
- <rect fill="#c0f957" width="16" height="5" x="8" y="23"/>
- <rect opacity=".3" width="16" height="5" x="8" y="9"/>
- <rect opacity=".3" width="16" height="5" x="8" y="16"/>
- <path fill="#fff" opacity=".2" d="m9 3v1h14v-1h-14z"/>
+ <rect style="opacity:0.2" width="20" height="24" x="6" y="7" rx="1.25" ry="1.25"/>
+ <rect style="fill:#5b5b5b" width="20" height="24" x="6" y="6" rx="1.25" ry="1.25"/>
+ <rect style="fill:#8e8e8e" width="14" height="3" x="9" y="3"/>
+ <rect style="fill:#c0f957" width="16" height="5" x="8" y="9"/>
+ <rect style="fill:#c0f957" width="16" height="5" x="8" y="16"/>
+ <rect style="fill:#c0f957" width="16" height="5" x="8" y="23"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m9 3v1h14v-1h-14z"/>
 </svg>
