@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=ePapirus
-Comment=Papirus icon theme for elementary OS
-Inherits=elementary,ubuntu-mono-dark,gnome,hicolor
+Name=ePop
+Comment=System76 Pop icon theme for Linux.
+Inherits=elementary,ubuntu-mono-dark,breeze,Mint-X,gnome,hicolor
 
 DesktopDefault=48
 ToolbarDefault=16

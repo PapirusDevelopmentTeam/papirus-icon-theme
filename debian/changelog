@@ -1,0 +1,120 @@
+pop-icon-theme (1.1.13) artful; urgency=medium
+
+  * Add some Granite-specific icons.
+  * Pull in latest icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Thu, 31 Aug 2017 11:05:13 -0600
+
+pop-icon-theme (1.1.12) zesty; urgency=medium
+
+  * Pull in the latest icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Tue, 15 Aug 2017 10:05:07 -0600
+
+pop-icon-theme (1.1.11) zesty; urgency=medium
+
+  * BSU: Big Sabbatical Update.
+  * Pulled in the latest changes from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Wed, 02 Aug 2017 16:04:49 -0600
+
+pop-icon-theme (1.1.10) zesty; urgency=medium
+
+  * Pull latest icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 23 Jun 2017 11:19:16 -0600
+
+pop-icon-theme (1.1.9) zesty; urgency=medium
+
+  * Inherit the invisible pop-os-branding theme for dist logo 
+
+ -- Ian Santopietro <ian@system76.com>  Tue, 20 Jun 2017 12:35:28 -0600
+
+pop-icon-theme (1.1.8) zesty; urgency=medium
+
+  * Update conflicts
+
+ -- Jeremy Soller <jeremy@system76.com>  Tue, 20 Jun 2017 09:31:53 -0600
+
+pop-icon-theme (1.1.7) zesty; urgency=medium
+
+  * Merge in icons from upstream Papirus.
+
+ -- Ian Santopietro <ian@ubuntu>  Mon, 19 Jun 2017 12:19:51 -0600
+
+pop-icon-theme (1.1.6) zesty; urgency=medium
+
+  * Rename to pop-icon-theme
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 19 Jun 2017 11:32:50 -0600
+
+pop-icon-theme (1.1.5) zesty; urgency=medium
+
+  * Tweaks to icons.
+  * Use moon icon for suspend
+  * Sync icons from upstream
+
+ -- Ian Santopietro <ian@system76.com>  Tue, 13 Jun 2017 14:45:57 -0600
+
+pop-icon-theme (1.1.4) zesty; urgency=medium
+
+  * Merge Icons from upstream.
+  * Tweak coloring for "black" icons.
+  * Tweaks to packaging to fix lintian warnings
+
+ -- Ian Santopietro <ian@system76.com>  Mon, 05 Jun 2017 11:42:20 -0600
+
+pop-icon-theme (1.1.3) zesty; urgency=medium
+
+  * Merge latest icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Tue, 30 May 2017 09:33:33 -0600
+
+pop-icon-theme (1.1.2) zesty; urgency=medium
+
+  * Merge latest upstream Icons.
+  * Fix theme naming in selectors.
+
+ -- Ian Santopietro <ian@system76.com>  Wed, 17 May 2017 17:23:28 -0600
+
+pop-icon-theme (1.1.1) zesty; urgency=medium
+
+  * Merge latest icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Thu, 04 May 2017 17:29:21 -0600
+
+pop-icon-theme (1.0.5) zesty; urgency=medium
+
+  * Merge from master.
+
+ -- Ian Santopietro <ian@system76.com>  Wed, 03 May 2017 17:24:09 -0600
+
+pop-icon-theme (1.0.4) zesty; urgency=medium
+
+  * Really fix Icon, and learn git please
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 21 Apr 2017 23:32:58 -0600
+
+pop-icon-theme (1.0.3) zesty; urgency=medium
+
+  * Fix ugly green bluetooth indicator in Unity
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 21 Apr 2017 23:12:16 -0600
+
+pop-icon-theme (1.0.2) zesty; urgency=medium
+
+  * Update to add cursors
+
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 21 Apr 2017 14:39:27 -0600
+
+pop-icon-theme (1.0.1) zesty; urgency=medium
+
+  * Fix build
+
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 21 Apr 2017 13:49:25 -0600
+
+pop-icon-theme (1.0.0) zesty; urgency=medium
+
+  * First release
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 21 Apr 2017 13:20:00 -0600
