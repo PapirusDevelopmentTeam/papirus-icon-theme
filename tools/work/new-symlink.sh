@@ -1,17 +1,18 @@
 #!/usr/bin/env bash
+#
 # This script creates new symlinks to existing icons
 
 set -eo pipefail
 
-SCRIPT_DIR=$(dirname "$0")
-TARGET_DIR="$SCRIPT_DIR/Papirus"
+readonly SCRIPT_DIR="$(dirname "$0")"
+readonly TARGET_DIR="$SCRIPT_DIR/Papirus"
 
 usage() {
 	cat <<-EOF
 	This script creates new symlinks to existing icons.
 
 	Usage:
-	  $0 context <symlink name> <icon name>
+	  $0 context <icon name> <symlink name>...
 
 	  available contexts:
 	    [ac]tions
@@ -24,70 +25,93 @@ usage() {
 	    [s]tatus
 
 	Examples:
-	  $0 apps radiotray-ng-on.svg radiotray.svg
-	  $0 panel radiotray-ng-off-panel.svg radiotray_off.svg
-	  $0 panel radiotray-ng-on-panel.svg radiotray_on.svg
+	  $0 apps radiotray.svg radiotray-ng-on.svg
+	  $0 panel radiotray_off.svg radiotray-ng-off-panel.svg
+	  $0 panel radiotray_on.svg radiotray-ng-on-panel.svg
 	EOF
 
 	exit 2
 }
 
-[ -n "$3" ] || usage
+_get_icon_name() {
+	local icon_name="$1"
 
-CONTEXT="$1"
-SYMLINK_NAME="${2%*.svg}"
-TARGET_ICON="$3"
+	case "$icon_name" in
+		*.svg|*.png|*.xpm)
+			echo "${icon_name%.*}"
+			return 0
+			;;
+		*)
+			echo "${icon_name}"
+			return 0
+			;;
+	esac
 
-case "$CONTEXT" in
-	actions|ac*)
-		for size in '16x16' '22x22' '24x24'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/actions/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	apps|ap*)
-		for size in '16x16' '22x22' '24x24' '32x32' '48x48' '64x64'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/apps/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	devices|d*)
-		for size in '16x16' '22x22' '24x24' '32x32' '48x48' '64x64'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/devices/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	emblems|e*)
-		for size in '16x16' '22x22' '24x24' '32x32' '48x48'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/emblems/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	mimetypes|m*)
-		for size in '16x16' '22x22' '24x24' '32x32' '48x48' '64x64'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/mimetypes/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	panel|pa*)
-		for size in '22x22' '24x24'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/panel/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	places|pl*)
-		for size in '16x16' '22x22' '24x24' '32x32' '48x48' '64x64'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/places/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	status|s*)
-		for size in '22x22' '24x24' '32x32' '48x48'; do
-			ln -sfv "$TARGET_ICON" \
-				"$TARGET_DIR/status/${SYMLINK_NAME}@${size}.svg"
-		done
-		;;
-	*)
-		usage
-		;;
-esac
+	return 1
+}
+
+_get_context() {
+	local CONTEXT
+	local -a SIZES
+
+	case "$1" in
+		actions|ac*)
+			CONTEXT="actions"
+			SIZES=( '16x16' '22x22' '24x24' )
+			;;
+		apps|ap*)
+			CONTEXT="apps"
+			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			;;
+		devices|d*)
+			CONTEXT="devices"
+			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			;;
+		emblems|e*)
+			CONTEXT="emblems"
+			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
+			;;
+		mimetypes|m*)
+			CONTEXT="mimetypes"
+			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			;;
+		panel|pa*)
+			CONTEXT="panel"
+			SIZES=( '16x16' '22x22' '24x24' )
+			;;
+		places|pl*)
+			CONTEXT="places"
+			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			;;
+		status|s*)
+			CONTEXT="status"
+			SIZES=( '22x22' '24x24' '32x32' '48x48' )
+			;;
+		*)
+			printf "illegal context -- '%s'\n" "$1" >&2
+			printf false
+			return 1
+			;;
+	esac
+
+	declare -p CONTEXT SIZES
+}
+
+readonly RAW_CONTEXT="$1"
+readonly TARGET_ICON="$2"
+declare -a ARGS=("${@:3}")
+
+[ "${#ARGS[@]}" -gt 0 ] || usage
+
+eval "$(_get_context "$RAW_CONTEXT")" || usage
+
+for i in "${ARGS[@]}"; do
+	symlink_name="$(_get_icon_name "$i")"
+
+	for size in "${SIZES[@]}"; do
+		ln -sfv "$TARGET_ICON" \
+			"${TARGET_DIR}/${CONTEXT}/${symlink_name}@${size}.svg"
+	done
+done
+
+exit 0

@@ -62,7 +62,7 @@ for i in "$@"; do
 		sleep 1
 
 		# process all SVG files w/o symlinks
-		find "$i" -type f -name '*.svg' | while read file; do
+		find "$i" -type f -name '*.svg' | while read -r file; do
 			_run_helpers "$file"
 		done
 	elif [ -f "$i" ] && [ ! -L "$i" ]; then

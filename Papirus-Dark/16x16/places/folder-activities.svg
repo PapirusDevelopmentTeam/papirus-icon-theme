@@ -5,8 +5,8 @@
   </style>
  </defs>
  <g>
-  <circle style="fill:currentColor" cx="3" cy="8" r="2" class="ColorScheme-Text"/>
-  <circle style="fill:currentColor" cx="8" cy="8" r="2" class="ColorScheme-Text"/>
-  <circle style="fill:currentColor" cx="13" cy="8" r="2" class="ColorScheme-Text"/>
+  <circle style="fill:currentColor" class="ColorScheme-Text" cx="3" cy="8" r="2"/>
+  <circle style="fill:currentColor" class="ColorScheme-Text" cx="8" cy="8" r="2"/>
+  <circle style="fill:currentColor" class="ColorScheme-Text" cx="13" cy="8" r="2"/>
  </g>
 </svg>

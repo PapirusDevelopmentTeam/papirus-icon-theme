@@ -1,0 +1,3 @@
+# exclude the following dirs/files from archives:
+.*          export-ignore
+tools       export-ignore

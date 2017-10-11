@@ -1,11 +1,8 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24" version="1.1" y="0" x="0" height="24" id="svg2">
- <defs id="defs10">
-  <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" x="0" y="0" version="1.1" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g transform="matrix(.83643 0 0 .83643 1.9628 2.2765)" id="g4">
-  <path style="fill:currentColor" d="m20.635 3.0254l-5.617 6.8184 1.982 1.1562 4-7.6484-0.365-0.3262zm-14.635 4.4746l-4 3.5 4.375-0.625 0.9492 5.625h3.3868l-3.211-8-1.5-0.5zm7 2.529l-3 0.971 1 3 4-3-2-0.971zm3 1.571l-5.145 4.4h8.344l-1.199-3-2-1.4zm4.934 8.734c-0.017 0.046-0.038 0.086-0.061 0.129l0.127 0.037-0.066-0.166z" transform="matrix(1.1956 0 0 1.1956 -2.3467 -2.7217)" id="path6" class="ColorScheme-ButtonBackground"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 20.634766 3.0253906 L 15.017578 9.84375 L 17 11 L 21 3.3515625 L 20.634766 3.0253906 z M 6 7.5 L 2 11 L 6.375 10.375 L 7.3242188 16 L 10.710938 16 L 7.5 8 L 6 7.5 z M 13 10.029297 L 10 11 L 11 14 L 15 11 L 13 10.029297 z M 16 11.599609 L 10.855469 16 L 19.199219 16 L 18 13 L 16 11.599609 z M 4.8359375 17 C 4.3726375 17 4 17.372938 4 17.835938 L 4 19.164062 C 4 19.627063 4.3726375 20 4.8359375 20 L 18 20 L 19.164062 20 C 19.627063 20 20 19.625109 20 19.162109 L 20 17.835938 C 20 17.372937 19.627062 17 19.164062 17 L 18 17 L 4.8359375 17 z"/>
 </svg>

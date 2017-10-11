@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-44" fill="#d92929"/>
- <path opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#d92929" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <g opacity=".2" stroke-linejoin="round" transform="translate(0 .97864)" stroke="#000" stroke-linecap="round" stroke-width="3" fill="none">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity=".2" transform="translate(0 .97864)">
   <path d="m10 18.5h11l-10 13h11"/>
   <path d="m26.5 31.5v-17l6 10 6-10v17"/>
  </g>
- <g stroke-linejoin="round" stroke="#ff895e" stroke-linecap="round" stroke-width="3" fill="none">
+ <g fill="none" stroke="#ff895e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
   <path d="m10 18.5h11l-10 13h11"/>
   <path d="m26.5 31.5v-17l6 10 6-10v17"/>
  </g>

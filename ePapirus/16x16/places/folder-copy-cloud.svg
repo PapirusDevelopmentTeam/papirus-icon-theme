@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#ffffff; }
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <path style="fill:currentColor" d="M 14.289062 2 L 10.576172 7.1425781 L 12.576172 8 L 14.289062 2 z M 2.8613281 4.8574219 L 0.00390625 7.1425781 L 3.71875 6.5722656 L 6.0039062 14 L 7.4316406 13.142578 L 16.003906 14 L 13.146484 8.5722656 L 11.71875 8.2851562 L 6.8613281 11.142578 L 4.5761719 5.4277344 L 2.8613281 4.8574219 z M 8.5761719 7.1425781 L 6.2890625 8.5722656 L 7.1464844 10.572266 L 11.146484 8.2851562 L 9.71875 7.1425781 L 8.5761719 7.1425781 z" class="ColorScheme-Text"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 14.285,2 10.572,7.1426 12.572,8 Z M 2.8574,4.8574 0,7.1426 3.7148,6.5723 6,14 7.4277,13.143 16,14 13.143,8.5723 11.715,8.2852 6.8574,11.143 4.5723,5.4277 Z M 8.5723,7.1426 6.2852,8.5723 7.1426,10.572 11.143,8.2852 9.7148,7.1426 Z"/>
 </svg>

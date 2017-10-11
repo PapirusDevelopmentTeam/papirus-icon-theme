@@ -1,34 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
  <defs>
   <clipPath id="clipPath4327" clipPathUnits="userSpaceOnUse">
    <path fill="#828b8f" d="m143 255 0.13393 5.9448c0.13393 0.94481 0.9155 2.6551 2.1024 4.0044 1.65 1.88 4.07 3.06 6.77 3.06h16l6 8c3 4 6.3813 0.70711 6-2l-1-19z"/>
   </clipPath>
-  <filter id="filter4310" style="color-interpolation-filters:sRGB" height="1.266" width="1.219" y="-.13" x="-.11">
+  <filter id="filter4310" style="color-interpolation-filters:sRGB" width="1.219" height="1.266" x="-.11" y="-.13">
    <feGaussianBlur stdDeviation="1.78"/>
   </filter>
  </defs>
  <g transform="translate(1 1)">
   <path fill="#5f7c8a" d="m2.4981 7.516 0.066816 2.9863c0.066816 0.47461 0.45674 1.3337 1.0489 2.0116 0.82164 0.94048 2.0268 1.5325 3.3744 1.5325h7.9823l2.9934 4.0187c1.4967 2.0093 3.1836 0.3552 2.9934-1.0047l-0.499-9.5442z"/>
-  <path opacity=".2" d="m150 246h20c4.986 0 9 4.014 9 9 0 2.285-0.84305 4.3659-2.2364 5.9498-1.64 1.87-4.06 3.05-6.76 3.05h-16l-8 12c-3.0279 4.061-6.631 1.7152-6-2l1-19c0.26206-4.9791 4.014-9 9-9z" clip-path="url(#clipPath4327)" transform="matrix(.49930 0 0 .49930 -68.891 -119.84)" filter="url(#filter4310)"/>
+  <path opacity=".2" d="m150 246h20c4.986 0 9 4.014 9 9 0 2.285-0.84305 4.3659-2.2364 5.9498-1.64 1.87-4.06 3.05-6.76 3.05h-16l-8 12c-3.0279 4.061-6.631 1.7152-6-2l1-19c0.26206-4.9791 4.014-9 9-9z" clip-path="url(#clipPath4327)" filter="url(#filter4310)" transform="matrix(.49930 0 0 .49930 -68.891 -119.84)"/>
   <path fill="#7f96a1" d="m6.0201 3.0223h9.9675c2.4845 0 4.4852 1.9962 4.4852 4.4752 0 1.1363-0.42015 2.1709-1.1145 2.9586-0.8208 0.93099-2.0247 1.5167-3.3708 1.5167h-7.9738l-3.9869 5.9671c-1.5093 2.0197-3.305 0.8528-2.9905-0.9946l0.4981-9.4474c0.1306-2.476 2.0004-4.4752 4.4853-4.4752z"/>
   <g opacity=".2" transform="matrix(.49930 0 0 .49930 -68.891 -119.8)">
-   <circle opacity="1" style="enable-background:new" cx="166.5" cy="256.5" r="1.5"/>
-   <circle opacity="1" style="enable-background:new" cx="172.5" cy="256.5" r="1.5"/>
-   <circle opacity="1" style="enable-background:new" transform="rotate(90)" cy="-169.5" cx="253.5" r="1.5"/>
-   <circle opacity="1" style="enable-background:new" transform="rotate(90)" cy="-169.5" cx="259.5" r="1.5"/>
-   <rect opacity="1" ry="0" height="9" width="3" y="252" x="149"/>
-   <rect opacity="1" transform="rotate(90)" ry="0" height="9" width="3" y="-155" x="255"/>
+   <circle cx="166.5" cy="256.5" r="1.5"/>
+   <circle cx="172.5" cy="256.5" r="1.5"/>
+   <circle cx="253.5" cy="-169.5" r="1.5" transform="rotate(90)"/>
+   <circle cx="259.5" cy="-169.5" r="1.5" transform="rotate(90)"/>
+   <rect width="3" height="9" x="149" y="252" ry="0"/>
+   <rect width="3" height="9" x="255" y="-155" ry="0" transform="rotate(90)"/>
   </g>
   <g fill="#dfe5e8" transform="matrix(.49930 0 0 .49930 -68.891 -119.84)">
-   <rect ry="0" height="9" width="3" y="251" x="149"/>
-   <rect ry="0" transform="rotate(90)" height="9" width="3" y="-155" x="254"/>
-   <circle cy="255.5" cx="166.5" r="1.5"/>
-   <circle cy="255.5" cx="172.5" r="1.5"/>
-   <circle cy="-169.5" cx="252.5" r="1.5" transform="rotate(90)"/>
-   <circle cy="-169.5" cx="258.5" r="1.5" transform="rotate(90)"/>
+   <rect width="3" height="9" x="149" y="251" ry="0"/>
+   <rect width="3" height="9" x="254" y="-155" ry="0" transform="rotate(90)"/>
+   <circle cx="166.5" cy="255.5" r="1.5"/>
+   <circle cx="172.5" cy="255.5" r="1.5"/>
+   <circle cx="252.5" cy="-169.5" r="1.5" transform="rotate(90)"/>
+   <circle cx="258.5" cy="-169.5" r="1.5" transform="rotate(90)"/>
   </g>
-  <path opacity=".2" fill="#fff" d="m6.0191 3.0223c-2.4851 0-4.3551 2.0509-4.4857 4.5905l-0.4985 9.6912c-0.040892 0.24665-0.043738 0.48032-0.018474 0.69752 0.00589-0.06241 0.00789-0.12333 0.018474-0.18724l0.4984-9.6914c0.1306-2.5394 2.0006-4.5903 4.4858-4.5903h9.968c2.4051 0 4.3509 1.9195 4.474 4.3484 0.005-0.088975 0.01166-0.17768 0.01166-0.26798 0-2.5431-2.0006-4.5905-4.4857-4.5905h-9.968z"/>
+  <path fill="#fff" opacity=".2" d="m6.0191 3.0223c-2.4851 0-4.3551 2.0509-4.4857 4.5905l-0.4985 9.6912c-0.040892 0.24665-0.043738 0.48032-0.018474 0.69752 0.00589-0.06241 0.00789-0.12333 0.018474-0.18724l0.4984-9.6914c0.1306-2.5394 2.0006-4.5903 4.4858-4.5903h9.968c2.4051 0 4.3509 1.9195 4.474 4.3484 0.005-0.088975 0.01166-0.17768 0.01166-0.26798 0-2.5431-2.0006-4.5905-4.4857-4.5905h-9.968z"/>
   <path opacity=".2" d="m6.6922 13.946-2.6681 3.995c-1.3114 1.756-2.8371 1.102-3.0066-0.313-0.16901 1.738 1.5494 2.764 3.0066 0.813l2.6681-3.9954c0.1063 0.0075 0.21161 0.01755 0.31986 0.01755h7.9693l2.988 3.9778c1.4941 1.989 3.1779 0.35142 2.988-0.9947l-0.0039-0.07411c-0.15911 1.2224-1.6454 2.3516-2.9841 0.5695l-2.988-3.9778h-7.9693c-0.10826 0-0.21357-0.01009-0.31986-0.01756z"/>
  </g>
 </svg>

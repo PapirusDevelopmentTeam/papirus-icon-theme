@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect transform="matrix(0,-1,-1,0,0,0)" rx=".857" ry=".857" height="16" width="16" y="-16" x="-16" fill="#c2352a"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#c2352a" width="16" height="16" x="-16" y="-16" rx=".857" ry=".857" transform="matrix(0,-1,-1,0,0,0)"/>
  <g fill="#fff" transform="matrix(1 0 0 .78945 -545 281.68)">
-  <path style="enable-background:new" d="m552-353v8.8669h2v-8.8669zm0 10.134v2.5334h2v-2.5334z"/>
+  <path d="m552-353v8.8669h2v-8.8669zm0 10.134v2.5334h2v-2.5334z"/>
  </g>
 </svg>

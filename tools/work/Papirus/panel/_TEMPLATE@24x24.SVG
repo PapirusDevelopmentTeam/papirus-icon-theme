@@ -1,14 +1,11 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g transform="translate(-269.78 -485.05)" id="g4">
-  <g transform="translate(1,-1)" id="g6">
-   <path style="fill:currentColor" d="m270.78 490.05v16h16v-7.5l-2 2v3.5h-12v-12h12v3l2-2v-3h-16z" id="path8" class="ColorScheme-ButtonBackground"/>
-   <path style="fill:currentColor" d="m289.13 492.12-7.0254 7.1348-4.9414-5-1.3848 1.4043 4.9434 5.002 1.3711 1.3906 1.3828-1.4062 7.0273-7.1348-1.373-1.3906z" id="path10" class="ColorScheme-Highlight"/>
-  </g>
+ <g transform="translate(1,1)">
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="20" cy="18" r="2"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,3 C 6.5817,3 3,6.5817 3,11 3,15.418 6.5817,19 11,19 15.418,19 19,15.418 19,11 19,6.5817 15.418,3 11,3 Z M 10,6 H 12 V 11 H 15 L 11,16 7,11 H 10 Z"/>
  </g>
 </svg>

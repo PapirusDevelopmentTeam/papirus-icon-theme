@@ -1,3 +1,8 @@
+# GNU make is required to run this file. To install on *BSD, run:
+#   gmake PREFIX=/usr/local install
+
+PREFIX ?= /usr
+
 all:
 	#"There is no need to run 'make'. Just run 'sudo make install'"
 
@@ -26,6 +31,7 @@ push:
 
 release: _get_version push
 	git tag -f $(VERSION)
+	git push origin
 	git push origin --tags
 
 undo_release: _get_version

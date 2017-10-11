@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1">
- <rect ry=".75" rx=".818" transform="matrix(0,-1,-1,0,0,0)" height="14" width="12" y="-15" x="-14" fill="#4ab3e4"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" rx=".25" ry=".267" height="8" width="6" y="-16" x="-7" fill="#ebebeb"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#4ab3e4" width="12" height="14" x="-14" y="-15" rx=".818" ry=".75" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect fill="#ebebeb" width="6" height="8" x="-7" y="-16" rx=".25" ry=".267" transform="matrix(0,-1,-1,0,0,0)"/>
 </svg>

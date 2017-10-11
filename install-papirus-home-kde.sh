@@ -36,6 +36,8 @@ tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
 rm -rf ~/.local/share/icons/ePapirus
 rm -rf ~/.local/share/icons/Papirus
+rm -rf ~/.local/share/icons/Papirus-Adapta
+rm -rf ~/.local/share/icons/Papirus-Adapta-Nokto
 rm -rf ~/.local/share/icons/Papirus-Dark
 rm -rf ~/.local/share/icons/Papirus-Light
 
@@ -44,6 +46,8 @@ mkdir -p ~/.local/share/icons
 cp -R \
   "$temp_dir/$gh_repo-master/ePapirus" \
   "$temp_dir/$gh_repo-master/Papirus" \
+  "$temp_dir/$gh_repo-master/Papirus-Adapta" \
+  "$temp_dir/$gh_repo-master/Papirus-Adapta-Nokto" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" \
   "$temp_dir/$gh_repo-master/Papirus-Light" ~/.local/share/icons/
 
