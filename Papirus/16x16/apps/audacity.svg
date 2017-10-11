@@ -21,11 +21,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<<<<<<< HEAD
+=======
         <dc:title></dc:title>
+>>>>>>> master
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
+<<<<<<< HEAD
+     id="defs10" />
+=======
      id="defs10">
     <filter
        style="color-interpolation-filters:sRGB;"
@@ -44,6 +50,7 @@
          id="feColorMatrix3434" />
     </filter>
   </defs>
+>>>>>>> master
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -53,16 +60,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+=======
      inkscape:window-width="640"
      inkscape:window-height="480"
+>>>>>>> master
      id="namedview8"
      showgrid="false"
      inkscape:zoom="14.75"
      inkscape:cx="8"
      inkscape:cy="8"
+<<<<<<< HEAD
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+=======
      inkscape:window-x="367"
      inkscape:window-y="192"
      inkscape:window-maximized="0"
+>>>>>>> master
      inkscape:current-layer="svg2" />
   <path
      fill="none"
@@ -71,11 +89,19 @@
      stroke-linejoin="round"
      stroke-width=".5"
      d="m4.1 11.749 0.9-5 0.5 7.5 0.5-7 0.5 6.5 0.5-5.5 0.5 3.5 1-4.5v6l1-6.5 1 7.5 0.5-5.5 0.85 2.5"
+<<<<<<< HEAD
+     id="path4" />
+=======
      id="path4"
      style="filter:url(#filter3428)" />
+>>>>>>> master
   <path
      fill="#608ab5"
      d="m8 1e-7c-3.866 0-7 3.134-7 7v1.3613a4 4 0 0 0 -1 2.6387 4 4 0 0 0 4 4h1v-8h-1a4 4 0 0 0 -1 0.13281v-0.1328c0-2.77 2.23-5 5-5s5 2.23 5 5v0.13086a4 4 0 0 0 -1 -0.1309h-1v8h1a4 4 0 0 0 4 -4 4 4 0 0 0 -1 -2.6387v-1.3613c0-3.866-3.134-7-7-7z"
      id="path6"
+<<<<<<< HEAD
+     style="fill:#319dd5;fill-opacity:1" />
+=======
      style="filter:url(#filter3432)" />
+>>>>>>> master
 </svg>
