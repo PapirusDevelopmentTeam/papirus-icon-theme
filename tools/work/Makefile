@@ -1,4 +1,5 @@
 ROOT := ../..
+THEMES := $(patsubst %/index.theme,%,$(wildcard $(ROOT)/*/index.theme))
 
 all:
 
@@ -31,8 +32,8 @@ tests:
 update_authors:
 	editor "$(ROOT)/Papirus/AUTHORS"
 	@for i in $(THEMES); do \
-		[ $$i != "Papirus" ] || continue; \
-		cp -vf "$(ROOT)/Papirus/AUTHORS" "$(ROOT)/$$i"; \
+		[ $$i != "$(ROOT)/Papirus" ] || continue; \
+		cp -vf "$(ROOT)/Papirus/AUTHORS" "$$i/"; \
 	done
 
 .PHONY: all clean convert prepare put tests update_authors
