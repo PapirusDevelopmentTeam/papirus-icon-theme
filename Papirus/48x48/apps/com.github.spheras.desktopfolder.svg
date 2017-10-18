@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="fill:#8e8e8e" width="32" height="24" x="-42" y="-36" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#3f3f3f" width="32" height="40" x="-38" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="26" height="34" x="-36" y="-41" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#2584d4" width="26" height="34" x="-35" y="-41" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,6 C 4.892,6 4,6.892 4,8 L 4,9 C 4,7.892 4.892,7 6,7 l 36,0 c 1.108,0 2,0.892 2,2 L 44,8 C 44,6.892 43.108,6 42,6 L 6,6 Z"/>
+ <path style="opacity:0.2" d="m 12,40 0,1 c 0,1.108 0.892,2 2,2 l 20,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 l -20,0 c -1.108,0 -2,-0.892 -2,-2 z"/>
+ <path style="opacity:0.2" d="m 4,36 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,38 C 4.892,38 4,37.108 4,36 Z"/>
+ <rect style="opacity:0.2" width="12" height="20" x="10" y="13" rx="2" ry="2"/>
+ <rect style="fill:#5ebae6" width="12" height="20" x="10" y="12" rx="2" ry="2"/>
+ <rect style="opacity:0.2" width="12" height="8" x="26" y="13" rx="2" ry="2"/>
+ <rect style="fill:#5ebae6" width="12" height="8" x="26" y="12" rx="2" ry="2"/>
+ <rect style="opacity:0.2" width="12" height="8" x="26" y="25" rx="2" ry="2"/>
+ <rect style="fill:#5ebae6" width="12" height="8" x="26" y="24" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 12,12 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 8,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 l -8,0 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 28,12 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 8,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 l -8,0 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 28,24 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 8,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 l -8,0 z"/>
+</svg>

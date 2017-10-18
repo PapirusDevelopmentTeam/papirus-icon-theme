@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="fill:#8e8e8e" width="16" height="12" x="-21" y="-18" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#3f3f3f" width="16" height="20" x="-19" y="-22" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="12" height="16" x="-17.5" y="-20" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 22,4 C 22,3.446 21.554,3 21,3 Z"/>
+ <path style="opacity:0.2" d="m 6,20 0,0.5 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 L 18,20 c 0,0.554 -0.446,1 -1,1 L 7,21 C 6.446,21 6,20.554 6,20 Z"/>
+ <path style="opacity:0.2" d="m 2,18 0,0.5 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 L 22,18 c 0,0.554 -0.446,1 -1,1 L 3,19 C 2.446,19 2,18.554 2,18 Z"/>
+ <rect style="fill:#2584d4" width="12" height="16" x="-17" y="-20" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="6" height="10" x="5" y="6.5" rx="1" ry="1"/>
+ <rect style="fill:#5ebae6" width="6" height="10" x="5" y="6" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="6" height="4" x="13" y="6.5" rx="1" ry="1"/>
+ <rect style="fill:#5ebae6" width="6" height="4" x="13" y="6" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="6" height="4" x="13" y="12.5" rx="1" ry="1"/>
+ <rect style="fill:#5ebae6" width="6" height="4" x="13" y="12" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,6 C 5.446,6 5,6.446 5,7 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 4,0 c 0.554,0 1,0.446 1,1 L 11,7 C 11,6.446 10.554,6 10,6 L 6,6 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 14,6 c -0.554,0 -1,0.446 -1,1 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 4,0 c 0.554,0 1,0.446 1,1 L 19,7 C 19,6.446 18.554,6 18,6 l -4,0 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 14,12 c -0.554,0 -1,0.446 -1,1 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 4,0 c 0.554,0 1,0.446 1,1 L 19,13 c 0,-0.554 -0.446,-1 -1,-1 l -4,0 z"/>
+</svg>
