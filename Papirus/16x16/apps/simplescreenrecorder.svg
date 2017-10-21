@@ -1,5 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect fill="#5f7c8a" width="12" height="16" x="-14" y="-16" rx=".818" ry=".857" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect fill="#7f96a1" width="10" height="14" x="-13" y="-15" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
- <path fill="#c2352a" opacity=".8" d="m3.6367 5c-0.3525 0-0.6367 0.2672-0.6367 0.5996v4.8004c0 0.333 0.2842 0.6 0.6367 0.6h5.7266c0.3525 0 0.6367-0.267 0.6367-0.6v-4.8004c0-0.3324-0.2842-0.5996-0.6367-0.5996h-5.7266zm6.3633 3l3 2v-4l-3 2z"/>
+ <rect style="fill:#c2352a" width="12" height="12" x="0" y="2" rx="1.125" ry="1.286"/>
+ <path style="fill:#c2352a" d="m 15.056652,4.0004137 a 0.91615412,0.93969811 0 0 0 -0.430746,0.12525 L 12.042323,5.6557318 9.4578465,7.1862587 a 0.91615412,0.93969811 0 0 0 0,1.6273317 l 2.5844765,1.5305276 2.583583,1.530068 A 0.91615412,0.93969811 0 0 0 16,11.060291 L 16,7.9996955 16,4.9391001 A 0.91615412,0.93969811 0 0 0 15.056652,4.0004137 Z"/>
+ <rect style="fill:#ffffff" width=".5" height="4" x="5" y="6"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="9.5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="7.5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="5.5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="4" x="8" y="6"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="9.5" y="-10" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="5.5" y="-10" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="4" x="2" y="6"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="7.5" y="-4" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="5.5" y="-4" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#ffffff" width=".5" height="2" x="-4" y="-7.5" transform="scale(-1,-1)"/>
+ <path style="fill:#ffffff" d="m -1.9689108,7.7556417 0.5,0.3273696 0,0 0,0 0,2.3272427 -0.5,0 z" transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"/>
 </svg>
