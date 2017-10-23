@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#c2352a" width="12" height="12" x="0" y="2" rx="1.125" ry="1.286"/>
- <path style="fill:#c2352a" d="m 15.056652,4.0004137 a 0.91615412,0.93969811 0 0 0 -0.430746,0.12525 L 12.042323,5.6557318 9.4578465,7.1862587 a 0.91615412,0.93969811 0 0 0 0,1.6273317 l 2.5844765,1.5305276 2.583583,1.530068 A 0.91615412,0.93969811 0 0 0 16,11.060291 L 16,7.9996955 16,4.9391001 A 0.91615412,0.93969811 0 0 0 15.056652,4.0004137 Z"/>
- <rect style="fill:#ffffff" width=".5" height="4" x="5" y="6"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="9.5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="7.5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="5.5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="4" x="8" y="6"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="9.5" y="-10" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="5.5" y="-10" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="4" x="2" y="6"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="7.5" y="-4" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="5.5" y="-4" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#ffffff" width=".5" height="2" x="-4" y="-7.5" transform="scale(-1,-1)"/>
- <path style="fill:#ffffff" d="m -1.9689108,7.7556417 0.5,0.3273696 0,0 0,0 0,2.3272427 -0.5,0 z" transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"/>
+ <rect fill="#8e8e8e" width="12" height="10" x="-15" y="-13" rx=".75" ry=".833" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="12" height="16" x="-13" y="-16" rx=".75" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#dc4f47" width="8" height="12" x="-11" y="-14" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff" d="m 5.3361,5.000305 4.3539,0 c 0.33621,0 0.31,0.35589 0.31,0.35589 l 0,3.2878 c 0,0.356 -0.31,0.356 -0.31,0.356 l -4.3539001,0 c 0,0 -0.3362,0 -0.3362,-0.356 l 0,-3.2881 c 0,0 0,-0.3559 0.3362,-0.3559 z M 12,5.5 l 0,3 -2,-1.49969 z"/>
 </svg>
