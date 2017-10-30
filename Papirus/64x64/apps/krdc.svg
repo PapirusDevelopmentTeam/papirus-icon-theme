@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
  <path style="opacity:0.2" d="m 4,50.002 0,2 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 l -50,0 c -1.662,0 -3,-1.338 -3,-3 z"/>
- <rect style="fill:#5f7c8a" width="44" height="56" x="-54" y="-60" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#7f96a1" width="36" height="48" x="-50" y="-56" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#325f78" width="44" height="56" x="-54" y="-60" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="36" height="48" x="-50" y="-56" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 7 10.001953 C 5.338 10.001953 4 11.339953 4 13.001953 L 4 14 C 4 12.338 5.338 11 7 11 L 57 11 C 58.662 11 60 12.338 60 14 L 60 13.001953 C 60 11.339953 58.662 10.001953 57 10.001953 L 7 10.001953 z"/>
  <path style="opacity:0.2" d="M 63.958,45.852 A 16,16 0 0 1 48,61.004 16,16 0 0 1 32.042,46.156 16,16 0 0 0 32,47 16,16 0 0 0 48,63 16,16 0 0 0 64,47 16,16 0 0 0 63.95704,45.85156 Z"/>
  <circle style="fill:#48cd42;fill-rule:evenodd" cx="48" cy="46.002" r="16"/>
