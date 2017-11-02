@@ -123,6 +123,10 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
 
+**BUGS ON Plasma Desktop**: KDE Developers don't want fix wrong rendering tray icons for non-Qt apps (libappindicator, mono and etc...). After applying hardcode-tray - icons will be blurred!
+
+See more info [here](https://bugs.kde.org/show_bug.cgi?id=366062) and please vote for this bug.
+
 ## KDE colorscheme
 
 Support for monochrome icons for KDE colorscheme is now available:
