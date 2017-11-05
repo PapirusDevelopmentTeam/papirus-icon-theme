@@ -18,7 +18,7 @@
 
 set -e
 
-SCRIPT_DIR=$(dirname "$0")
+SCRIPT_DIR="$(dirname "$0")"
 
 _run_helpers() {
 	echo "=> Working on '$1' ..." >&2

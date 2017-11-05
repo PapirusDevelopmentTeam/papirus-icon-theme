@@ -32,6 +32,15 @@ add_class() {
 		"$@"
 }
 
+# Papirus-Light
+add_class_light() {
+	# add the class if a value matches:
+	sed -i -r \
+		-e '/([^-]color|fill|stop-color|stroke):#31363b/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#3daee9/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
+		"$@"
+}
+
 # ePapirus
 add_class_e() {
 	# add the class if a value matches:
@@ -85,8 +94,11 @@ for file in "$@"; do
 		elif  grep -q -i 'color:\(#414c52\|#cfd8dc\)' "$file"; then
 			# it's Papirus-Adapta or Papirus-Adapta-Nokto
 			add_class_adapta "$file"
+		elif  grep -q -i 'color:\(#31363b\|#3daee9\)' "$file"; then
+			# it's Papirus-Light
+			add_class_light "$file"
 		elif  grep -q -i 'color:\(#5c616c\|#d3dae3\)' "$file"; then
-			# it's Papirus, Papirus-Dark or Papirus-Light
+			# it's Papirus or Papirus-Dark
 			add_class "$file"
 		else
 			echo "'$file' has an unknown CSS stylesheet!" >&2
