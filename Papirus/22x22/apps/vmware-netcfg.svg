@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect fill="#4e91d9" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect fill="#407ec2" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
  <g opacity=".2" transform="translate(-1 -.5)">
   <path d="m11 15v2h-5v2h12v-2h-5v-2h-2z"/>
  </g>
  <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
  <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
- <g fill="#fae695" transform="translate(-1,-1)">
+ <g fill="#ffe270" transform="translate(-1,-1)">
   <rect width="2" height="3" x="11" y="15"/>
   <rect width="12" height="2" x="6" y="17"/>
  </g>
@@ -14,9 +14,9 @@
   <circle cx="12" cy="18" r="2"/>
   <circle cx="19" cy="18" r="2"/>
  </g>
- <circle fill="#ffad53" cx="4" cy="17" r="2"/>
- <circle fill="#ffad53" cx="11" cy="17" r="2"/>
- <circle fill="#ffad53" cx="18" cy="17" r="2"/>
+ <circle fill="#f7870d" cx="4" cy="17" r="2"/>
+ <circle fill="#f7870d" cx="11" cy="17" r="2"/>
+ <circle fill="#f7870d" cx="18" cy="17" r="2"/>
  <path opacity=".2" d="m7.043 4.5c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.9141zm0.957 2h6v6h-6v-6z"/>
- <path fill="#a3caf6" d="m7.043 4c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.914zm0.957 2h6v6h-6v-6z"/>
+ <path fill="#ffffff" d="m7.043 4c-0.5781 0-1.043 0.4649-1.043 1.043v7.914c0 0.578 0.4649 1.043 1.043 1.043h7.9141c0.578 0 1.043-0.465 1.043-1.043v-7.914c0-0.5781-0.465-1.043-1.043-1.043h-7.914zm0.957 2h6v6h-6v-6z"/>
 </svg>
