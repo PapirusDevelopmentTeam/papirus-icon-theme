@@ -57,6 +57,12 @@ sudo cp -R \
   "$temp_dir/$gh_repo-master/Papirus-Adapta-Nokto" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" \
   "$temp_dir/$gh_repo-master/Papirus-Light" $data_dir/share/icons/
+
+# Try to restore the color of folders from a config
+if which papirus-folders > /dev/null 2>&1; then
+  sudo papirus-folders -R || true
+fi
+
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/ePapirus" || true
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus" || true
 sudo gtk-update-icon-cache -q "$data_dir/share/icons/Papirus-Adapta" || true

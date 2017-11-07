@@ -51,6 +51,11 @@ cp -R \
   "$temp_dir/$gh_repo-master/Papirus-Dark" \
   "$temp_dir/$gh_repo-master/Papirus-Light" ~/.local/share/icons/
 
+# Try to restore the color of folders from a config
+if which papirus-folders > /dev/null 2>&1; then
+  papirus-folders -R || true
+fi
+
 echo "=> Clearing cache ..."
 rm -f ~/.cache/icon-cache.kcache
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"

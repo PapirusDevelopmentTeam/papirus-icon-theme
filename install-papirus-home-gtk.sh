@@ -50,6 +50,12 @@ cp -R \
   "$temp_dir/$gh_repo-master/Papirus-Adapta-Nokto" \
   "$temp_dir/$gh_repo-master/Papirus-Dark" \
   "$temp_dir/$gh_repo-master/Papirus-Light" ~/.icons/
+
+# Try to restore the color of folders from a config
+if which papirus-folders > /dev/null 2>&1; then
+  papirus-folders -R || true
+fi
+
 gtk-update-icon-cache -q ~/.icons/ePapirus || true
 gtk-update-icon-cache -q ~/.icons/Papirus || true
 gtk-update-icon-cache -q ~/.icons/Papirus-Adapta || true
