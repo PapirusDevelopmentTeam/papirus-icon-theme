@@ -148,7 +148,7 @@ Available colors:
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
-**NOTE:** Currently, there is no easy way to change the global color of folders. You may edit the themes by yourself if you wish.
+Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) script to apply the color of folders system-wide.
 
 ## Extras
 
