@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 16 16">
- <g transform="translate(0 -1036.4)">
-  <circle fill="#4caf99" cx="8" cy="1044.4" r="7"/>
-  <rect fill="#fff" width="2" height="10" x="1043.4" y="-13" transform="rotate(90)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <g transform="scale(2)">
+  <circle style="fill:#4caf99" cx="8" cy="8" r="7"/>
+  <rect style="fill:#ffffff" width="2" height="10" x="7" y="-13" transform="rotate(90)"/>
  </g>
 </svg>

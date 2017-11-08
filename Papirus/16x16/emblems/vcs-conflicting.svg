@@ -1,9 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <g transform="translate(0 -1036.4)">
-  <circle fill="#f44336" cx="8" cy="1044.4" r="7"/>
-  <g fill="#fff" transform="matrix(.70711 .70711 -.70711 .70711 740.82 300.23)">
-   <rect width="2" height="10" x="1043.4" y="-13" transform="rotate(90)"/>
-   <rect width="2" height="10" x="-9" y="-1049.4" transform="scale(-1)"/>
-  </g>
- </g>
+ <circle style="fill:#f44336" cx="8" cy="8" r="7"/>
+ <rect style="fill:#ffffff" width="2" height="10" x="-.98" y="-16.29" transform="rotate(135)"/>
+ <rect style="fill:#ffffff" width="2" height="10" x="-12.29" y="-5.01" transform="rotate(-135)"/>
 </svg>
