@@ -257,6 +257,14 @@ Go to `Settings Manager` → `Panel` → `Items` tab. Select `Notification Area`
 ![xfce4-notification-area](http://i.imgur.com/MopCZBZ.png)
 </details>
 
+<details>
+<summary>For elementary/Pantheon users</summary>
+- With light wallpaper we recommend use non-transparency wingpanel:
+```
+gsettings set org.pantheon.desktop.wingpanel use-transparency false
+```
+</details>
+
 ## Icon request
 
 - Application name
