@@ -11,7 +11,7 @@
    height="64"
    version="1.1"
    id="svg14"
-   sodipodi:docname="folder-cd@64x64.svg"
+   sodipodi:docname="folder-cd.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata20">
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,13 +55,20 @@
      inkscape:window-height="1048"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="13.296875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="1"
+     inkscape:cx="28.180797"
+     inkscape:cy="24.340963"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid829"
+       empspacing="4" />
+  </sodipodi:namedview>
   <rect
      style="opacity:0.2"
      width="50"
@@ -105,10 +113,19 @@
      style="opacity:0.1;fill:#ffffff"
      d="M 9.5,10 C 8.115,10 7,11.115 7,12.5 V 13.5 C 7,12.115 8.115,11 9.5,11 H 26.5 C 27.885,11 29,12.115 29,13.5 V 12.5 C 29,11.115 27.885,10 26.5,10 Z M 29,15 V 16 H 54.5 C 55.89,16 57,17.115 57,18.5 V 17.5 C 57,16.115 55.89,15 54.5,15 Z"
      id="path12" />
-  <circle
-     style="fill:none;fill-rule:evenodd;stroke:#1d344f;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path827"
-     cx="31.5"
-     cy="38.5"
-     r="7.5" />
+  <g
+     id="g840">
+    <circle
+       r="13"
+       cy="39"
+       cx="32"
+       id="path828"
+       style="fill:#1d344f;stroke-width:1.18181801" />
+    <circle
+       cy="39"
+       cx="32"
+       id="path836"
+       style="fill:#5294e2;stroke-width:1"
+       r="4" />
+  </g>
 </svg>

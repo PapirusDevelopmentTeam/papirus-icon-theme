@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg14"
-   sodipodi:docname="folder-cd@32x32.svg"
+   sodipodi:docname="folder-cd.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata20">
@@ -36,16 +36,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:window-height="1080"
      id="namedview16"
-     showgrid="false"
-     inkscape:zoom="26.59375"
+     showgrid="true"
+     inkscape:zoom="27.59375"
      inkscape:cx="16"
      inkscape:cy="16"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid818" />
+  </sodipodi:namedview>
   <rect
      style="opacity:0.2"
      width="25"
@@ -90,10 +95,20 @@
      style="opacity:0.1;fill:#ffffff"
      d="M 4.25 5 C 3.5575 5 3 5.5575 3 6.25 L 3 7.25 C 3 6.5575 3.5575 6 4.25 6 L 12.75 6 C 13.443 6 14 6.5575 14 7.25 L 14 8 L 26.75 8 C 27.442 8 28 8.5575 28 9.25 L 28 8.25 C 28 7.5575 27.442 7 26.75 7 L 14 7 L 14 6.25 C 14 5.5575 13.443 5 12.75 5 L 4.25 5 z"
      id="path12" />
-  <circle
-     style="fill:none;fill-rule:evenodd;stroke:#1d344f;stroke-width:4.32000017;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path827"
-     cx="15"
-     cy="19"
-     r="3.8399999" />
+  <g
+     id="g822">
+    <circle
+       class=""
+       r="6"
+       cy="19"
+       cx="15"
+       id="path822"
+       style="fill:#1d344f" />
+    <circle
+       r="2"
+       cy="19"
+       cx="15"
+       id="path824"
+       style="fill:#5294e2;stroke-width:2" />
+  </g>
 </svg>
