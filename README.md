@@ -13,7 +13,7 @@ Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon
 
 Papirus icon theme is available in six variants:
 
- - Papirus (for Arc Darker)
+ - Papirus (for Arc / Arc Darker)
  - Papirus Dark (for Arc Dark)
  - Papirus Light (light theme with Breeze colors)
  - Papirus Adapta (for Adapta)
@@ -116,9 +116,10 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 **Size recommendations:**
 - Unity 22px
 - KDE 22px
-- GNOME 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
-- XFCE 24px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
+- GNOME 16px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
+- XFCE 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - Pantheon 24px
+- Cinnamon 16px
 
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
@@ -190,11 +191,6 @@ sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnom
 
 Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
 
-To fix tiny icons size of the extension use the following command (details [rgcjonas/gnome-shell-extension-appindicator#68](https://github.com/rgcjonas/gnome-shell-extension-appindicator/issues/68)):
-
-```
-sed -i.orig '/indicator, icon_size/a icon_size += 8;' ~/.local/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js
-```
 </details>
 
 <details>
