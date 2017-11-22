@@ -101,7 +101,7 @@ for theme in "${THEMES[@]##*/}"; do
 			# convert color scheme
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
 				-e 's/#5c616c/#414c52/gI' \
-				-e 's/#d3dae3/#eeefef/gI' \
+				-e 's/#d3dae3/#cfd8dc/gI' \
 				-e 's/#5294e2/#00bcd4/gI' '{}' \;
 			;;
 		Papirus-Adapta-Nokto)
@@ -129,7 +129,7 @@ for theme in "${THEMES[@]##*/}"; do
 
 			# convert color scheme
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#eeefef/gI' \
+				-e 's/#5c616c/#cfd8dc/gI' \
 				-e 's/#5294e2/#00bcd4/gI' '{}' \;
 			;;
 		Papirus-Dark)
