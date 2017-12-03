@@ -124,7 +124,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 
 ![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
 
-**BUG on KDEwith libappindicator**: Some applications have wrong rendering by default on KDE. For solve this run application with Unity environment option.
+**BUG on KDE with libappindicator**: Some applications have wrong rendering by default on KDE. For solve this run application with Unity environment option.
 
 For example:
 ```
