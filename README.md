@@ -273,8 +273,9 @@ gsettings set org.pantheon.desktop.wingpanel use-transparency false
 - Application name
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
 - Original icon image
+- Small description and/or a link to the official webpage
 
-**NOTE**: We NOT support Windows/Wine/Crossover and other NOT native Linux-apps. Also this applies for discontinued projects too!!!
+**NOTE**: We do NOT support Windows/Wine/Crossover or other NOT native Linux-apps. This also applies to discontinued projects!!
 
 ## Contribute
 
