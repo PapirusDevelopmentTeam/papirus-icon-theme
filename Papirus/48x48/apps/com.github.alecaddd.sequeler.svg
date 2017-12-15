@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1" viewBox="0 0 48 48">
+ <rect width="13" height="40" x="-45" y="4" rx="2" ry="2" transform="matrix(0,-1,1,0,0,0)" style="opacity:0.2"/>
+ <rect width="13" height="40" x="-44" y="4" rx="2" ry="2" transform="matrix(0,-1,1,0,0,0)" style="fill:#8e8e8e"/>
+ <path d="m 29,35 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 33,35 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 37,35 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 25,35 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <circle cx="-18" cy="36" r="2" transform="scale(-1,1)" style="opacity:0.2"/>
+ <circle cx="-13" cy="36" r="2" transform="scale(-1,1)" style="opacity:0.2"/>
+ <circle cx="-8" cy="36" r="2" transform="scale(-1,1)" style="opacity:0.2"/>
+ <circle cx="-18" cy="35" r="2" transform="scale(-1,1)" style="fill:#76ff03"/>
+ <circle cx="-13" cy="35" r="2" transform="scale(-1,1)" style="fill:#ffff00"/>
+ <circle cx="-8" cy="35" r="2" transform="scale(-1,1)" style="fill:#ffcd40"/>
+ <rect width="13" height="40" x="-32" y="4" rx="2" ry="2" transform="matrix(0,-1,1,0,0,0)" style="opacity:0.2"/>
+ <rect width="13" height="40" x="-31" y="4" rx="2" ry="2" transform="matrix(0,-1,1,0,0,0)" style="fill:#8e8e8e"/>
+ <path d="m 29,22 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 33,22 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 37,22 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 25,22 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <circle cx="-13" cy="23" r="2" transform="scale(-1,1)" style="opacity:0.2"/>
+ <circle cx="-8" cy="23" r="2" transform="scale(-1,1)" style="opacity:0.2"/>
+ <circle cx="-13" cy="22" r="2" transform="scale(-1,1)" style="fill:#ffff00"/>
+ <circle cx="-8" cy="22" r="2" transform="scale(-1,1)" style="fill:#ffcd40"/>
+ <rect width="13" height="40" x="-19" y="4" rx="2" ry="2" transform="matrix(0,-1,1,0,0,0)" style="opacity:0.2"/>
+ <rect width="13" height="40" x="-18" y="4" rx="2" ry="2" transform="matrix(0,-1,1,0,0,0)" style="fill:#8e8e8e"/>
+ <path d="m 29,9 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 33,9 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 37,9 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <path d="m 25,9 3,5" style="opacity:0.5;stroke:#000000;stroke-width:2;stroke-linecap:round"/>
+ <circle cx="-8" cy="10" r="2" transform="scale(-1,1)" style="opacity:0.2"/>
+ <circle cx="-8" cy="9" r="2" transform="scale(-1,1)" style="fill:#ffcd40"/>
+ <path d="m 42,5 c 1.108,0 2,0.892 2,2 l 0,1 C 44,6.892 43.108,6 42,6 L 6,6 C 4.892,6 4,6.892 4,8 L 4,7 C 4,5.892 4.892,5 6,5 Z" style="opacity:0.2;fill:#ffffff"/>
+</svg>
