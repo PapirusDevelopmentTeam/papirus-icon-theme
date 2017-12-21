@@ -1,28 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" x="0" y="0" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
- <style id="style3436" type="text/css">
-  .st0{fill:#77B3D4;} .st1{opacity:0.2;} .st2{fill:#231F20;} .st3{fill:#E0995E;} .st4{fill:#FFFFFF;} .st5{fill:#E0E0D1;} .st6{fill:#4F5D73;}
- </style>
- <g id="Layer_1" transform="matrix(0.25,0,0,0.25,0.3732493,-0.1250007)">
-  <g transform="matrix(1.2,0,0,1.4,-7.8929972,-12.299997)">
-   <path class="st3" d="m 48,12 -32,0 c -2.2,0 -4,1.8 -4,4 l 0,5.5 0,26.5 c 0,2.2 1.8,4 4,4 l 32,0 c 2.2,0 4,-1.8 4,-4 L 52,21.5 52,16 c 0,-2.2 -1.8,-4 -4,-4 z" style="fill:#e0995e"/>
-  </g>
-  <g transform="matrix(1.1605539,0,0,1.243103,-6.8399346,-7.2723956)">
-   <rect class="st4" width="27.573" height="32.178" x="18.39" y="15.91" style="fill:#ffffff"/>
-  </g>
-  <g transform="matrix(1,0,0,1.5,-1.4929972,-14.499996)">
-   <path class="st6" d="m 37,10 -10,0 -3,0 0,3 0,1 0,1 c 0,1.7 1.3,3 3,3 l 10,0 c 1.7,0 3,-1.3 3,-3 l 0,-1 0,-1 0,-3 -3,0 z" style="fill:#4f5d73"/>
-  </g>
-  <g transform="matrix(1.2,0,0,2,-7.8929972,-27.499997)">
-   <rect class="st5" width="20" height="2" x="22" y="24" style="fill:#e0e0d1"/>
-  </g>
-  <g transform="matrix(1.2,0,0,2,-7.8929972,-19.499997)">
-   <rect style="fill:#e0e0d1" class="st5" width="20" height="2" x="22" y="24"/>
-  </g>
-  <g transform="matrix(1.2,0,0,2,-7.8929972,-11.499997)">
-   <rect class="st5" width="20" height="2" x="22" y="24" style="fill:#e0e0d1"/>
-  </g>
-  <g transform="matrix(1.2,0,0,2,-7.8929972,-3.4999972)">
-   <rect class="st5" width="20" height="2" x="22" y="24" style="fill:#e0e0d1"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#e0995e" width="12" height="14" x="2" y="1" rx="1" ry="1"/>
+ <rect width="8" height="10" x="4" y="3" style="fill:#ffffff"/>
+ <g>
+  <rect style="fill:#e0e0d1" width="6" height="1" x="5" y="5"/>
+  <rect style="fill:#e0e0d1" width="6" height="1" x="5" y="7"/>
+  <rect style="fill:#e0e0d1" width="6" height="1" x="5" y="9"/>
+  <rect style="fill:#e0e0d1" width="6" height="1" x="5" y="11"/>
  </g>
+ <path style="fill:#4f5d73" d="M 6 0 L 6 2 C 6 2.554 6.446 3 7 3 L 9 3 C 9.554 3 10 2.554 10 2 L 10 0 L 6 0 z"/>
 </svg>
