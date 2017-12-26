@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" viewBox="0 0 32 32">
+ <g style="opacity:.2" transform="translate(0 .5)">
+  <g transform="scale(.5)">
+   <rect rx="4" ry="4" height="40" width="40" y="4" x="4"/>
+  </g>
+  <g transform="matrix(.5 0 0 .5 4 4)">
+   <rect rx="4" ry="4" height="40" width="40" y="4" x="4"/>
+  </g>
+  <path d="m12 10h16c1.108 0 2 0.892 2 2v16c0 1.108-0.892 2-2 2h-16c-1.108 0-2-0.892-2-2v-16c0-1.108 0.892-2 2-2z"/>
+ </g>
+ <path style="opacity:.2;fill:#ffffff" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.01075 0.293 14 14 0 0 1 13.98925 -13.793 14 14 0 0 1 13.9895 13.707 14 14 0 0 0 0.0105 -0.207 14 14 0 0 0 -14 -14z"/>
+ <g style="fill:#fecd38" transform="scale(.5)">
+  <rect style="fill:#fecd38" rx="4" ry="4" height="40" width="40" y="4" x="4"/>
+ </g>
+ <path d="m2 8.5v10h7.5c-2.590571-7.292861-5.181077-9.859282-7.5-10z" style="opacity:.2;fill-rule:evenodd"/>
+ <path style="fill-rule:evenodd;fill:#9d9d9d" d="m2 8v10h7.5c-2.590571-7.292861-5.181077-9.859282-7.5-10z"/>
+ <path style="opacity:.1;fill-rule:evenodd;fill:#ffffff" d="m2 8v0.5c2.318923 0.133682 4.909429 2.571782 7.5 9.5-2.590571-7.292861-5.181077-9.859282-7.5-10z"/>
+ <g style="fill:#e97e10" transform="matrix(.5 0 0 .5 4 4)">
+  <rect style="fill:#e97e10" rx="4" ry="4" height="40" width="40" y="4" x="4"/>
+ </g>
+ <path style="opacity:.2;fill-rule:evenodd" d="m6 12v10h7.5c-2.590571-7.292861-5.181077-9.859282-7.5-10z"/>
+ <path d="m6 11.5v10h7.5c-2.590571-7.292861-5.181077-9.859282-7.5-10z" style="fill-rule:evenodd;fill:#7d7d7d"/>
+ <path d="m6 11.5v0.5c2.318923 0.133682 4.909429 2.571782 7.5 9.5-2.590571-7.292861-5.181077-9.859282-7.5-10z" style="opacity:.1;fill-rule:evenodd;fill:#ffffff"/>
+ <path d="m12 10h16c1.108 0 2 0.892 2 2v16c0 1.108-0.892 2-2 2h-16c-1.108 0-2-0.892-2-2v-16c0-1.108 0.892-2 2-2z" style="fill:#df574d"/>
+ <circle r="3" style="fill:#fecd38" cx="16" cy="20.5"/>
+ <g style="opacity:.2" transform="matrix(.5 0 0 .5 0 .5)">
+  <path style="fill-rule:evenodd" d="m20 31v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+  <path style="fill-rule:evenodd" d="m28 51h32c-16-45-32 0-32 0z"/>
+ </g>
+ <path style="opacity:.1;fill:#ffffff" d="m16 17.5c-1.656854 0-3 1.343146-3 3 0-1.380712 1.343146-2.5 3-2.5s3 1.119288 3 2.5c0-1.656854-1.343146-3-3-3zm3 3h-6z"/>
+ <g transform="scale(.5)">
+  <path d="m20 31v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z" style="fill-rule:evenodd;fill:#5d5d5d"/>
+  <path style="opacity:.1;fill-rule:evenodd;fill:#ffffff" d="m20 31v1c4.637846 0.267364 9.818858 5.143564 15 19-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+ </g>
+ <path style="fill-rule:evenodd;fill:#cccccc" d="m14 25.5h16c-8-22.5-16 0-16 0z"/>
+ <path style="opacity:.1;fill-rule:evenodd;fill:#ffffff" d="m22.407226 15.501953c-4.796295-0.158701-8.407226 9.998047-8.407226 9.998047s8-21.375 16 0c-2.625-7.382813-5.250397-9.920542-7.592774-9.998047z"/>
+ <path style="opacity:.1;fill:#ffffff" d="m12 10c-1.108 0-2 0.892-2 2v0.40039c0-1.0526 0.892-1.90039 2-1.90039h16c1.108 0 2 0.84779 2 1.90039v-0.40039c0-1.108-0.892-2-2-2z"/>
+ <path d="m8 6c-1.108 0-2 0.892-2 2v0.400391c0-1.0526 0.892-1.900391 2-1.900391h16c1.108 0 2 0.847791 2 1.900391v-0.400391c0-1.108-0.892-2-2-2z" style="opacity:.1;fill:#ffffff"/>
+ <path style="opacity:.1;fill:#ffffff" d="m4 2c-1.108 0-2 0.892-2 2v0.400391c0-1.0526005 0.892-1.900391 2-1.900391h16c1.108 0 2 0.8477905 2 1.900391v-0.400391c0-1.108-0.892-2-2-2z"/>
+</svg>
