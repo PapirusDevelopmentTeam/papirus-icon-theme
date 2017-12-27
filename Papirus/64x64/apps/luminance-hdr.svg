@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      id="namedview64"
      showgrid="false"
      inkscape:zoom="14.265625"
-     inkscape:cx="32"
+     inkscape:cx="19.627601"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -100,10 +100,6 @@
      style="fill-rule:evenodd;fill:#9d9d9d"
      d="m4 16v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"
      id="path24" />
-  <path
-     style="opacity:.1;fill-rule:evenodd;fill:#ffffff"
-     d="m4 16v1c4.637846 0.267364 9.818858 5.143564 15 19-5.181142-14.585722-10.362154-19.718564-15-20z"
-     id="path26" />
   <g
      style="fill:#e97e10"
      transform="translate(8,8)"
@@ -126,10 +122,6 @@
      d="m12 23v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"
      style="fill-rule:evenodd;fill:#7d7d7d"
      id="path34" />
-  <path
-     d="m12 23v1c4.637846 0.267364 9.818858 5.143564 15 19-5.181142-14.585722-10.362154-19.718564-15-20z"
-     style="opacity:.1;fill-rule:evenodd;fill:#ffffff"
-     id="path36" />
   <path
      d="m24 20h32c2.216 0 4 1.784 4 4v32c0 2.216-1.784 4-4 4h-32c-2.216 0-4-1.784-4-4v-32c0-2.216 1.784-4 4-4z"
      style="fill:#df574d"
@@ -154,7 +146,7 @@
        id="path46" />
   </g>
   <path
-     style="opacity:.1;fill:#ffffff"
+     style="opacity:0.2;fill:#ffffff"
      d="m32 35c-3.313708 0-6 2.686292-6 6 0-2.761424 2.686292-5 6-5s6 2.238576 6 5c0-3.313708-2.686292-6-6-6zm6 6h-12z"
      id="path48" />
   <path
@@ -162,27 +154,15 @@
      style="fill-rule:evenodd;fill:#5d5d5d"
      id="path50" />
   <path
-     d="m20 31v1c4.637846 0.267364 9.818858 5.143564 15 19-5.181142-14.585722-10.362154-19.718564-15-20z"
-     style="opacity:.1;fill-rule:evenodd;fill:#ffffff"
-     id="path52" />
-  <path
      style="fill-rule:evenodd;fill:#cccccc"
      d="m28 51h32c-16-45-32 0-32 0z"
      id="path54" />
   <path
-     style="opacity:.1;fill-rule:evenodd;fill:#ffffff"
+     style="opacity:0.2;fill-rule:evenodd;fill:#ffffff"
      d="m44.814453 31.003906c-9.59259-0.317402-16.814453 19.996094-16.814453 19.996094s16-42.75 32 0c-5.25-14.765625-10.500793-19.841084-15.185547-19.996094z"
      id="path56" />
   <path
-     style="opacity:.1;fill:#ffffff"
-     d="m24 20c-2.216 0-4 1.784-4 4v0.800781c0-2.1052 1.784-3.800781 4-3.800781h32c2.216 0 4 1.695581 4 3.800781v-0.800781c0-2.216-1.784-4-4-4z"
-     id="path58" />
-  <path
-     d="m16 12c-2.216 0-4 1.784-4 4v0.800781c0-2.1052 1.784-3.800781 4-3.800781h32c2.216 0 4 1.695581 4 3.800781v-0.800781c0-2.216-1.784-4-4-4z"
-     style="opacity:.1;fill:#ffffff"
-     id="path60" />
-  <path
-     style="opacity:.1;fill:#ffffff"
+     style="opacity:0.2;fill:#ffffff"
      d="m8 4c-2.216 0-4 1.784-4 4v0.800781c0-2.1052 1.784-3.800781 4-3.800781h32c2.216 0 4 1.695581 4 3.800781v-0.800781c0-2.216-1.784-4-4-4z"
      id="path62" />
 </svg>
