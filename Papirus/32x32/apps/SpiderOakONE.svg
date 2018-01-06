@@ -1,1 +1,20 @@
-spideroak.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" x="0" y="0" version="1.1" viewBox="0 0 32 32" xml:space="preserve">
+ <g transform="matrix(0.4375,0,0,0.4375,2,3)" style="opacity:0.2">
+  <g>
+   <path d="M 32,0 C 49.7,0 64,14.3 64,32 64,49.7 49.7,64 32,64 14.3,64 0,49.7 0,32 0,14.3 14.3,0 32,0 Z"/>
+  </g>
+ </g>
+ <g style="fill:#cccccc" transform="matrix(0.4375,0,0,0.4375,2,2)">
+  <g style="fill:#cccccc">
+   <path style="fill:#cccccc" d="M 32,0 C 49.7,0 64,14.3 64,32 64,49.7 49.7,64 32,64 14.3,64 0,49.7 0,32 0,14.3 14.3,0 32,0 Z"/>
+  </g>
+ </g>
+ <path style="fill:#2e6dac;fill-rule:evenodd" d="M 22,9 22,21.041667 16,26 10,21.041667 10,9 Z"/>
+ <rect width="7.778" height="7.778" x="-4.24" y="19.09" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" style="opacity:0.2;fill-rule:evenodd"/>
+ <rect style="fill:#ffffff;fill-rule:evenodd" width="7.778" height="7.778" x="-3.54" y="18.39" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
+ <g transform="matrix(0.4375,0,0,0.4375,2,2)" style="fill:#ffffff">
+  <g style="fill:#ffffff">
+   <path style="fill:#ffffff;opacity:0.2" d="M 16 2 C 8.25625 2 2 8.25625 2 16 C 2 16.168804 2.0194943 16.332659 2.0253906 16.5 C 2.2899854 8.9907086 8.4250543 3 16 3 C 23.574946 3 29.710015 8.9907086 29.974609 16.5 C 29.980506 16.332659 30 16.168804 30 16 C 30 8.25625 23.74375 2 16 2 z" transform="matrix(2.2857143,0,0,2.2857143,-4.5714286,-4.5714286)"/>
+  </g>
+ </g>
+</svg>

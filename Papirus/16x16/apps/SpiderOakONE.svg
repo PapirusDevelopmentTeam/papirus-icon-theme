@@ -1,1 +1,9 @@
-spideroak.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" x="0" y="0" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
+ <g style="fill:#cccccc" transform="scale(0.25,0.25)">
+  <g style="fill:#cccccc">
+   <path style="fill:#cccccc" d="M 32,0 C 49.7,0 64,14.3 64,32 64,49.7 49.7,64 32,64 14.3,64 0,49.7 0,32 0,14.3 14.3,0 32,0 Z"/>
+  </g>
+ </g>
+ <path style="fill:#2e6dac;fill-rule:evenodd" d="m 12,4 0,7.2755 -4,2.625 L 4,11.2755 4,4 Z"/>
+ <rect style="fill:#ffffff;fill-rule:evenodd" width="4.95" height="4.95" x="-2.48" y="8.84" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
+</svg>
