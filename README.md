@@ -304,4 +304,4 @@ BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
 
 ## License
 
-GNU LGPL v3.0
+Papirus icon theme is licensed under GNU GPL v3.0
