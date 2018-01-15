@@ -298,9 +298,14 @@ We are waiting for your pull requests and would love to see this icon theme beco
 
 ## Donate
 
-<span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+You can support opensource project by voluntary payment:
 
-BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
+by @varlesh (Alexey Varfolomeev)
+- Patreon: https://www.patreon.com/varlesh
+- PayPal: https://www.paypal.me/varlesh
+
+by @SmartFinn (Sergei Eremenko)
+- BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
 
 ## License
 
