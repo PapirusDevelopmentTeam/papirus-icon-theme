@@ -1,6 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path fill="#e4e4e4" d="m8 4e-8c-4.432 0-8 3.568-8 8 4e-8 4.432 3.568 8 8 8s8-3.568 8-8-3.568-8-8-8z"/>
- <path fill="#fa5e5e" d="m7 7h2v7h-2z"/>
- <path fill="#fa5e5e" d="m2.6 3.4503 1.4142-1.4143 4.9498 4.9498-1.4143 1.4142z"/>
- <path fill="#fa5e5e" d="m13.464 3.4503-1.414-1.4143-4.95 4.9498 1.4142 1.4142z"/>
+ <rect style="fill:#e4e4e4" width="15" height="15" x="-15" y="-15" rx="7.5" ry="7.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:none;stroke:#e34241;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 7.5,14.456581 7.5,8 M 1.52,3.5 7.5,8 l 6,-4.5"/>
 </svg>
