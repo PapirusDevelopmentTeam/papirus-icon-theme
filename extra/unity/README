@@ -4,7 +4,7 @@ Unity launcher icon
 INSTALL
 -------
 
-sudo cp -b -S.orig /usr/share/icons/Papirus/extra/unity/launcher_bfb.png /usr/share/unity/icons/launcher_bfb.png
+sudo cp -b -S.orig launcher_bfb.png /usr/share/unity/icons/launcher_bfb.png
 
 RESTORE
 -------

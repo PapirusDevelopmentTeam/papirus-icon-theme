@@ -4,7 +4,7 @@ Additional icons for Unity Tweak Tool
 INSTALL
 -------
 
-sudo cp -R /usr/share/icons/Papirus/extra/unity-tweak-tool/48 /usr/share/unity-tweak-tool/media
+sudo cp -R 48 /usr/share/unity-tweak-tool/media
 
 RESTORE
 -------
