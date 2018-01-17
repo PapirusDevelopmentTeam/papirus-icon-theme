@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="42" height="32" x="-56" y="-48" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="42" height="32" x="-55" y="-48" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="40" height="52" x="-50" y="-58" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="40" height="52" x="-49" y="-58" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.4" d="M -43.559671,-52.45679 -13,-54 l 0,44 -32,0 z" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8.5,9 C 7.115,9 6,10.115 6,11.5 V 12.5 C 6,11.115 7.115,10 8.5,10 H 55.5 C 56.885,10 58,11.115 58,12.5 V 11.5 C 58,10.115 56.885,9 55.5,9 Z"/>
+ <path d="M 54,14 10,46 51.742188,46 C 51.742188,46 54,46 54,44 l 0,-30 z m -9,16 0,8 -10,0 10,-8 z" style="opacity:0.2"/>
+ <path style="fill:#cd3840" d="M 54 13 L 10 45 L 51.742188 45 C 51.742188 45 54 45 54 43 L 54 13 z M 45 29 L 45 37 L 35 37 L 45 29 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 54 13 L 10 45 L 11.375 45 L 54 14 L 54 13 z M 36.25 37 L 35 38 L 45 38 L 45 37 L 36.25 37 z"/>
+</svg>
