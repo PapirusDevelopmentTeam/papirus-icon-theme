@@ -9,13 +9,12 @@ Bugs: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues
 
 Package: papirus-icon-theme
 Architecture: all
-Multi-Arch: foreign
 Depends: ${misc:Depends}, hicolor-icon-theme
-Recommends: libreoffice-style-papirus
-Suggests: filezilla-theme-papirus
+Suggests: filezilla-theme-papirus, libreoffice-style-papirus
 Replaces: papirus-gtk-icon-theme, papirus-kde-icon-theme
 Description: Papirus Icon Theme
- Papirus is a SVG-based icon theme, drawing inspiration from Material Design and flat design.
+ Papirus is a SVG-based icon theme, drawing inspiration from Material Design
+ and flat design.
  .
  This package contains the following icon themes:
   - ePapirus
