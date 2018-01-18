@@ -70,6 +70,11 @@ _install() {
         _sudo cp -R "$temp_dir/$gh_repo-$BRANCH/$theme" "$DESTDIR"
         _sudo gtk-update-icon-cache -q "$DESTDIR/$theme" || true
     done
+
+    # Try to restore the color of folders from a config
+    if which papirus-folders > /dev/null 2>&1; then
+        sudo papirus-folders -R || true
+    fi
 }
 
 _cleanup() {
