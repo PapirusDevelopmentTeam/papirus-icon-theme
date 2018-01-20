@@ -75,7 +75,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 **NOTE:** Qt4 apps require `libqt4-svg` to work correctly.
 
-#### Remove
+#### Uninstall
 
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/uninstall.sh | sh
@@ -238,7 +238,7 @@ bubble-as-desktop-bg = 0
 
 ![notify-fix](http://i.imgur.com/hjTpvca.png)
 
-Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
+Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
 </details>
 
 <details>
@@ -302,14 +302,10 @@ We are waiting for your pull requests and would love to see this icon theme beco
 
 ## Donate
 
-You can support opensource project by voluntary payment:
+You can support this open source project by making a voluntary payment:
 
-by @varlesh (Alexey Varfolomeev)
 - Patreon: https://www.patreon.com/varlesh
 - PayPal: https://www.paypal.me/varlesh
-
-by @SmartFinn (Sergei Eremenko)
-- BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
 
 ## License
 
