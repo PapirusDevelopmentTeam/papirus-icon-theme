@@ -115,6 +115,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 ```
 
 **Size recommendations:**
+
 - Unity 22px
 - KDE 22px
 - GNOME 16px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
@@ -128,10 +129,12 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 **BUG on KDE with libappindicator**: Some applications have wrong rendering by default on KDE. For solve this run application with Unity environment option.
 
 For example:
+
 ```
 XDG_CURRENT_DESKTOP=Unity wire-desktop
 
 ```
+
 See more info [here](https://bugs.kde.org/show_bug.cgi?id=366062) and please vote for this bug.
 
 ## KDE colorscheme
@@ -151,7 +154,7 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](https://i.imgur.com/erG808D.png)
+![Folder Color Preview](https://i.imgur.com/ln9C9sR.png)
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
