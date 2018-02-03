@@ -73,6 +73,12 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | DESTDIR="$HOME/.local/share/icons" sh
 ```
 
+#### \*BSD systems
+
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | DESTDIR="/usr/local/share/icons" sh
+```
+
 **NOTE:** Qt4 apps require `libqt4-svg` to work correctly.
 
 #### Uninstall
