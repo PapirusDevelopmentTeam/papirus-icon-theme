@@ -193,13 +193,15 @@ To deal with blurred panel icons, increase the panel size up to 30px in `Systems
 <summary>For GNOME 3 users</summary>
 
 For GNOME users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend change icons color for panel:
+
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
 ```
 
 Translucent panel on Adapta Nokto Gnome Shell Theme:
+
 ```
-sudo sed -i.orig s/panel\.lock-screen\ \{\ background-color\:\ rgba\(19\,\ 25\,\ 28\,\ 0\.01\)/panel\.lock-screen\ \{\ background-color\:\ rgba\(19\,\ 25\,\ 28\,\ 0\.7\)/ /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
+sudo sed -i.orig '/panel:overview/ s/rgba(19, 25, 28, 0.01)/rgba(19, 25, 28, 0.7)/g' /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
 ```
 
 Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
