@@ -196,9 +196,18 @@ For GNOME users who want use Papirus icon theme with [arc-theme](https://github.
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
 ```
-![GNOME Arc-Dark theme fix](http://i.imgur.com/5Mb2HRs.png)
+
+Translucent panel on Adapta Nokto Gnome Shell Theme:
+```
+sed -i.orig s/19\,\ 25\,\ 28\,\ 0\.01/19\,\ 25\,\ 28\,\ 0\.7/g /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
+```
 
 Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
+
+And:
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [AppMenu Regular Icons](https://extensions.gnome.org/extension/970/appmenu-regular-icons/)
+- [Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
 
 </details>
 
