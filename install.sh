@@ -68,6 +68,10 @@ _install() {
     for theme in "$@"; do
         _msg "Installing '$theme' ..."
         _sudo cp -R "$temp_dir/$gh_repo-$BRANCH/$theme" "$DESTDIR"
+        _sudo cp -f \
+            "$temp_dir/$gh_repo-$BRANCH/AUTHORS" \
+            "$temp_dir/$gh_repo-$BRANCH/LICENSE" \
+            "$DESTDIR/$theme" || true
         _sudo gtk-update-icon-cache -q "$DESTDIR/$theme" || true
     done
 
