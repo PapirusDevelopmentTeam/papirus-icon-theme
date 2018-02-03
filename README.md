@@ -199,7 +199,7 @@ sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnom
 
 Translucent panel on Adapta Nokto Gnome Shell Theme:
 ```
-sed -i.orig s/19\,\ 25\,\ 28\,\ 0\.01/19\,\ 25\,\ 28\,\ 0\.7/g /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
+sudo sed -i.orig s/panel\.lock-screen\ \{\ background-color\:\ rgba\(19\,\ 25\,\ 28\,\ 0\.01\)/panel\.lock-screen\ \{\ background-color\:\ rgba\(19\,\ 25\,\ 28\,\ 0\.7\)/ /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
 ```
 
 Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
