@@ -214,7 +214,7 @@ Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://exte
 
 And:
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
-- [AppMenu Regular Icons](https://extensions.gnome.org/extension/970/appmenu-regular-icons/)
+- [No Symbolic Icons](https://extensions.gnome.org/extension/1304/no-symbolic-icons/)
 - [Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
 
 </details>
