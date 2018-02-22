@@ -3,7 +3,10 @@
 
 PREFIX ?= /usr
 IGNORE ?=
-THEMES ?= ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Dark Papirus-Light
+
+ifeq ($(strip $(THEMES)),)
+	THEMES ?= ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Dark Papirus-Light
+endif
 
 # excludes IGNORE from THEMES list
 THEMES := $(filter-out $(IGNORE), $(THEMES))
