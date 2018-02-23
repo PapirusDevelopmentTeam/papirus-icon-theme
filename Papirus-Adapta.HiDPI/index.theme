@@ -1,0 +1,44 @@
+[Icon Theme]
+Name=Papirus-Adapta.HiDPI
+Comment=Papirus icon theme for Adapta (HiDPI workaround)
+Inherits=Papirus-Adapta,Papirus,breeze,ubuntu-mono-dark,gnome,hicolor
+
+PanelDefault=22
+PanelSizes=16,22,32,48,64,128,256
+FollowsColorScheme=true
+
+# Directory list
+Directories=../Papirus-Adapta/16x16/panel,../Papirus-Adapta/16x16@2x/panel,../Papirus-Adapta/22x22/panel,../Papirus-Adapta/22x22@2x/panel,../Papirus-Adapta/24x24/panel,../Papirus-Adapta/24x24@2x/panel
+
+[../Papirus-Adapta/16x16/panel]
+Context=Status
+Size=16
+Type=Fixed
+
+[../Papirus-Adapta/16x16@2x/panel]
+Context=Status
+Size=16
+Scale=2
+Type=Fixed
+
+[../Papirus-Adapta/22x22/panel]
+Context=Status
+Size=22
+Type=Fixed
+
+[../Papirus-Adapta/22x22@2x/panel]
+Context=Status
+Size=22
+Scale=2
+Type=Fixed
+
+[../Papirus-Adapta/24x24/panel]
+Context=Status
+Size=24
+Type=Fixed
+
+[../Papirus-Adapta/24x24@2x/panel]
+Context=Status
+Size=24
+Scale=2
+Type=Fixed
