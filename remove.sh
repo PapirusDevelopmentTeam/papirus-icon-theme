@@ -29,12 +29,28 @@ sudo rm -rf /usr/share/icons/ePapirus.HiDPI
 sudo rm -rf /usr/share/icons/Papirus.HiDPI
 sudo rm -rf /usr/share/icons/Papirus-Dark.HiDPI
 sudo rm -rf /usr/share/icons/Papirus-Light.HiDPI
+sudo rm -rf /usr/share/icons/Papirus-Adapta.HiDPI
+sudo rm -rf /usr/share/icons/Papirus-Adapta-Nokto.HiDPI
+
+sudo rm -rf /usr/local/share/icons/ePapirus.HiDPI
+sudo rm -rf /usr/local/share/icons/Papirus.HiDPI
+sudo rm -rf /usr/local/share/icons/Papirus-Dark.HiDPI
+sudo rm -rf /usr/local/share/icons/Papirus-Light.HiDPI
+sudo rm -rf /usr/local/share/icons/Papirus-Adapta.HiDPI
+sudo rm -rf /usr/local/share/icons/Papirus-Adapta-Nokto.HiDPI
+
 rm -rf ~/.icons/ePapirus.HiDPI
 rm -rf ~/.icons/Papirus.HiDPI
 rm -rf ~/.icons/Papirus-Dark.HiDPI
 rm -rf ~/.icons/Papirus-Light.HiDPI
+rm -rf ~/.icons/Papirus-Adapta.HiDPI
+rm -rf ~/.icons/Papirus-Adapta-Nokto.HiDPI
+
 rm -rf ~/.local/share/icons/ePapirus.HiDPI
 rm -rf ~/.local/share/icons/Papirus.HiDPI
 rm -rf ~/.local/share/icons/Papirus-Dark.HiDPI
 rm -rf ~/.local/share/icons/Papirus-Light.HiDPI
+rm -rf ~/.local/share/icons/Papirus-Adapta.HiDPI
+rm -rf ~/.local/share/icons/Papirus-Adapta-Nokto.HiDPI
+
 echo "=> Done!"
