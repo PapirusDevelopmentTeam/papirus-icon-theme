@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <circle fill="#3593cd" cx="8" cy="8" r="8"/>
- <path style="fill:#ffffff" d="m8 4.75c-0.9693 0.0095-1.945 0.2309-2.7893 0.7094-0.3365 0.2192-0.7405 0.5023-1.0449 0.7875-0.479 0.469-0.889 1.016-1.166 1.629 0.75934 1.6751 2.4287 2.9028 4.2651 3.0842 1.2046 0.13636 2.4653-0.07179 3.5242-0.66786 0.3365-0.21919 0.74047-0.50229 1.0449-0.78752 0.479-0.47 0.889-1.017 1.166-1.629-0.759-1.675-2.429-2.903-4.265-3.084-0.244-0.029-0.49-0.042-0.735-0.042zm0 1.2503c1.0044-0.0223 1.8939 0.8763 1.875 1.8754 0.0322 1.1042-1.0681 2.0572-2.1558 1.851-1.0985-0.129-1.8701-1.3614-1.5088-2.4053 0.231-0.768 0.985-1.33 1.79-1.321zm0 1.2503a0.625 0.62514 0 0 0 -0.625 0.626 0.625 0.62514 0 0 0 0.625 0.625 0.625 0.62514 0 0 0 0.625 -0.625 0.625 0.62514 0 0 0 -0.625 -0.625z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <rect width="2" height="2.907" x="6" y="12.09" style="fill:#ffff00"/>
+ <path style="fill:#38732b" d="M 4 12.09375 L 4 14.273438 C 4 15.000239 4.7265625 15 4.7265625 15 L 5 15 L 6 15 L 6 12.09375 L 5 12.09375 L 4 12.09375 z"/>
+ <rect style="fill:#38732b" width="2" height="2.907" x="8" y="12.09"/>
+ <rect style="fill:#ffff00" width="2" height="2.907" x="10" y="12.09"/>
+ <path d="m 14,12.092792 v 2.179688 c 0,0.726801 -0.726562,0.726562 -0.726562,0.726562 H 13 12 v -2.90625 h 1 z" style="fill:#38732b"/>
+ <rect style="fill:#5bbd41" width="11" height="14" x="-13" y="-16" rx=".688" ry=".7" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 5,5 H 9 L 5,10 H 9"/>
+ <path d="M 11.507121,4.5 H 13.5 L 11.507121,7.49995 H 13.5" style="fill:none;stroke:#3f3f3f;stroke-linecap:round;stroke-linejoin:round"/>
+ <path style="fill:none;stroke:#e4e4e4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 1.014,2 H 2 v 12 0 0"/>
 </svg>
