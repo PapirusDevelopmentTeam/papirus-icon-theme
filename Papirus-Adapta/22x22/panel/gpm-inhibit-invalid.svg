@@ -5,6 +5,5 @@
   </style>
  </defs>
  <path style="fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;opacity:0.3" class="ColorScheme-Text" d="m 2.5,4.5 h 10 l -10,13 h 10"/>
- <path style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.3" class="ColorScheme-Text" d="m 16,4 h 5 l -5,6 h 5"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 17 12 L 17 16 L 19 16 L 19 12 L 17 12 z M 17 17 L 17 19 L 19 19 L 19 17 L 17 17 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 17,3 v 4 h 2 V 3 Z m 0,5 v 2 h 2 V 8 Z"/>
 </svg>
