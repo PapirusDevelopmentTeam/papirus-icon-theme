@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <g transform="translate(1,1)">
-  <rect fill="#7767c0" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
-  <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
-  <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
-  <path opacity=".2" d="m4 6.5v14h2v-8.793l3.207-3.207h2.293v3.5665a2 2 0 0 0 -1.5 1.934 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -1.5 -1.9345v-3.5655h1.5v-2h-10zm2 2h1.793l-1.793 1.793v-1.793zm6 4.5a1 1 0 0 1 1 1 1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1z"/>
-  <path fill="#7fffff" d="m4 6v14h2v-8.793l3.207-3.207h2.293v3.5665a2 2 0 0 0 -1.5 1.934 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -1.5 -1.9345v-3.566h1.5v-2h-10zm2 2h1.793l-1.793 1.793v-1.793zm6 4.5a1 1 0 0 1 1 1 1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1z"/>
- </g>
+ <circle cx="12" cy="12.5" r="10" style="opacity:0.2"/>
+ <circle style="fill:#7160bd" cx="12" cy="12" r="10"/>
+ <path d="M 12,2.5 V 10 c -5,2.5 -5.4952538,9.5 0,9.5 5.495254,0 5,-7 0,-9.5" style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2"/>
+ <path style="fill:none;stroke:#e4e4e4;stroke-width:2" d="M 12,2 V 9.5 C 7,12 6.5047462,19 12,19 c 5.495254,0 5,-7 0,-9.5"/>
+ <rect width="4" height="2" x="10" y="7.5" rx="1" ry="1" style="opacity:0.2"/>
+ <rect style="fill:#ffffff" width="4" height="2" x="10" y="7" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="4" height="2" x="10" y="5.5" rx="1" ry="1"/>
+ <rect width="4" height="2" x="10" y="5" rx="1" ry="1" style="fill:#ffffff"/>
+ <rect width="4" height="2" x="10" y="3.5" rx="1" ry="1" style="opacity:0.2"/>
+ <rect style="fill:#ffffff" width="4" height="2" x="10" y="3" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0107422,12.291016 10,10 0 0 1 12,2.5 10,10 0 0 1 21.989258,12.208985 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z"/>
 </svg>

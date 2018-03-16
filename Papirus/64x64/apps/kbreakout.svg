@@ -11,15 +11,13 @@
   <rect width="4" height="4" x="14" y="11"/>
   <rect width="4" height="4" x="19" y="11"/>
  </g>
- <g style="fill:#ffff80" transform="matrix(1.9999846,0,0,1.9999846,4.4639846e-4,4.62e-4)">
-  <rect width="12" height="3" x="10" y="25"/>
-  <circle cx="18" cy="21" r="2"/>
-  <rect width="4" height="4" x="14" y="6"/>
-  <rect width="4" height="4" x="19" y="6"/>
-  <rect width="4" height="4" x="24" y="6"/>
-  <rect width="4" height="4" x="4" y="11"/>
-  <rect width="4" height="4" x="14" y="11"/>
-  <rect width="4" height="4" x="19" y="11"/>
- </g>
- <path style="opacity:0.2;fill:#ffffff" d="M 8.6015625 6 C 7.1611736 6 6 7.1611736 6 8.6015625 L 6 9.6015625 C 6 8.1611736 7.1611736 7 8.6015625 7 L 55.398438 7 C 56.838426 7 58 8.1611736 58 9.6015625 L 58 8.6015625 C 58 7.1611736 56.838426 6 55.398438 6 L 8.6015625 6 z"/>
+ <rect style="fill:#3f3f3f" width="24" height="6" x="20" y="50"/>
+ <circle style="fill:#ffffff" cx="36" cy="42" r="4"/>
+ <rect style="fill:#fcd800" width="8" height="8" x="28" y="12"/>
+ <rect style="fill:#fcd800" width="8" height="8" x="38" y="12"/>
+ <rect style="fill:#fcd800" width="8" height="8" x="48" y="12"/>
+ <rect style="fill:#fcd800" width="8" height="8" x="8" y="22"/>
+ <rect style="fill:#fcd800" width="8" height="8" x="28" y="22"/>
+ <rect style="fill:#fcd800" width="8" height="8" x="38" y="22"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8.6015625 6 C 7.1611736 6 6 7.1611736 6 8.6015625 L 6 9.6015625 C 6 8.1611736 7.1611736 7 8.6015625 7 L 55.398438 7 C 56.838426 7 58 8.1611736 58 9.6015625 L 58 8.6015625 C 58 7.1611736 56.838426 6 55.398438 6 L 8.6015625 6 z"/>
 </svg>
