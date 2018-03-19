@@ -176,7 +176,7 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 
 ## Recommendations
 
-- For GTK, better use icons alongside GTK theme [Arc Themes](https://github.com/horst3180/arc-theme) or [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme)
+- For GTK, better use icons alongside GTK theme [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme)  or [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme)
 - For KDE, better use alongside [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) or [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
 
 ## Manual fixes
@@ -184,7 +184,7 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 <details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want to use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme) we recommend fix color icons on panel:
+For Cinnamon users who want to use Papirus icon theme with [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme) we recommend fix color icons on panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
@@ -198,7 +198,7 @@ To deal with blurred panel icons, increase the panel size up to 30px in `Systems
 <details>
 <summary>For GNOME 3 users</summary>
 
-For GNOME users who want use Papirus icon theme with [arc-theme](https://github.com/horst3180/arc-theme), we recommend change icons color for panel:
+For GNOME users who want use Papirus icon theme with [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme), we recommend change icons color for panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
