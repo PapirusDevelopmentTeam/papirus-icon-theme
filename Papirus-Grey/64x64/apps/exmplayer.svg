@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="opacity:0.2" d="m 4,52 0,2 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 L 7,55 C 5.338,55 4,53.662 4,52 Z"/>
+ <rect style="fill:#4f4f4f" width="48" height="56" x="-56" y="-60" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="M 4,20 4,11 C 4,9.338 5.338,8 7,8 l 50,0 c 1.662,0 3,1.338 3,3 l 0,9 z"/>
+ <path style="opacity:0.2" d="M 4,14 4,11 C 4,9.338 5.338,8 7,8 l 50,0 c 1.662,0 3,1.338 3,3 l 0,3 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7 8 C 5.338 8 4 9.338 4 11 L 4 12 C 4 10.338 5.338 9 7 9 L 57 9 C 58.662 9 60 10.338 60 12 L 60 11 C 60 9.338 58.662 8 57 8 L 7 8 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7,8 C 5.338,8 4,9.338 4,11 l 0,9 12,0 0,-6 -6,-6 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="m 24,14 -6,-6 8,0 6,6 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="m 24,14 -6,6 8,0 6,-6 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="m 38,14 -6,-6 8,0 6,6 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="m 38,14 -6,6 8,0 6,-6 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="m 52,14 -6,-6 8,0 6,6 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="m 52,14 -6,6 8,0 6,-6 z"/>
+ <path style="opacity:0.2" d="M 56.069122,24.949154 36.593551,36.193381 17.11798,47.437606 l -1e-6,-22.488453 1e-6,-22.4884516 19.475572,11.2442256 z" transform="matrix(0.46211737,0,0,0.44467266,17.089485,25.905793)"/>
+ <path style="fill:#bababa" d="M 56.069122,24.949154 36.593551,36.193381 17.11798,47.437606 l -1e-6,-22.488453 1e-6,-22.4884516 19.475572,11.2442256 z" transform="matrix(0.46211737,0,0,0.44467266,17.089485,24.905793)"/>
+</svg>

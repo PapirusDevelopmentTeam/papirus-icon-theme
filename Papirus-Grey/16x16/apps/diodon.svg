@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#e4e4e4" width="16" height="16" x="-16" y="-16" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <g transform="matrix(.5 0 0 1 1.5 0)">
+  <path opacity=".5" d="m3 4v-1h10v1z"/>
+  <path opacity=".5" d="m3 7v-1h10v1z"/>
+ </g>
+ <g transform="matrix(.5 0 0 1 6.5 6)">
+  <path opacity=".5" d="m3 4v-1h10v1z"/>
+  <path opacity=".5" d="m3 7v-1h10v1z"/>
+ </g>
+</svg>
