@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <g transform="translate(1,1)">
+  <rect fill="#818181" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+  <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+  <g opacity=".2" transform="translate(-1 -.5)">
+   <path d="m3 8v2h1v6h2v-6h1v-2z"/>
+   <path d="m18 8h-2l0.9999 3.9638-1.0001 4.036h2l0.5001-2 0.5 2h2l-1-4.036 1-3.964h-2l-0.5 2z"/>
+   <path d="m9 9v10h5v-2h-3v-2h3v-2h-3v-2h3v-2z"/>
+  </g>
+  <g fill="#fff" transform="translate(-1,-1)">
+   <path d="m3 8v2h1v6h2v-6h1v-2z"/>
+   <path d="m18 8h-2l0.9999 3.9638-1.0001 4.036h2l0.5001-2 0.5 2h2l-1-4.036 1-3.964h-2l-0.5 2z"/>
+   <path d="m9 9v10h5v-2h-3v-2h3v-2h-3v-2h3v-2z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="fill:#4f4f4f" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,7 C 4,5.892 4.892,5 6,5 l 36,0 c 1.108,0 2,0.892 2,2 L 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"/>
+ <path style="opacity:0.2" d="M 6,45 C 4.892,45 4,44.108 4,43 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,45 Z"/>
+ <rect style="opacity:0.2" width="28" height="28" x="-39" y="-38" rx="1.4" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#6c6c6c" width="28" height="28" x="-38" y="-38" rx="1.4" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 11.400391,10 C 10.624791,10 10,10.624791 10,11.400391 l 0,1 C 10,11.624791 10.624791,11 11.400391,11 l 25.199218,0 C 37.375209,11 38,11.624791 38,12.400391 l 0,-1 C 38,10.624791 37.375209,10 36.599609,10 l -25.199218,0 z"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:4;stroke-linecap:round" d="M 31,31 24,24 M 17,31 24,24 M 24,15 V 24"/>
+ <circle style="opacity:0.2" cx="24" cy="25" r="4"/>
+ <circle style="fill:#ffffff" cx="24" cy="24" r="4"/>
+</svg>

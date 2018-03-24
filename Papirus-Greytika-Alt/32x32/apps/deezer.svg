@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="26" height="28" x="-30" y="-30" rx="1.3" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="26" height="28" x="-29" y="-30" rx="1.3" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <g style="opacity:0.2" transform="translate(0,1)">
+  <path d="m 4,24 4,0 0,2 -4,0 z"/>
+  <path d="m 4,21 4,0 0,2 -4,0 z"/>
+  <path d="m 4,18 4,0 0,2 -4,0 z"/>
+  <path d="m 4,15 4,0 0,2 -4,0 z"/>
+  <path d="m 4,12 4,0 0,2 -4,0 z"/>
+  <path d="m 9,24 4,0 0,2 -4,0 z"/>
+  <path d="m 9,21 4,0 0,2 -4,0 z"/>
+  <path d="m 9,18 4,0 0,2 -4,0 z"/>
+  <path d="m 14,24 4,0 0,2 -4,0 z"/>
+  <path d="m 14,21 4,0 0,2 -4,0 z"/>
+  <path d="m 14,18 4,0 0,2 -4,0 z"/>
+  <path d="m 14,15 4,0 0,2 -4,0 z"/>
+  <path d="m 14,12 4,0 0,2 -4,0 z"/>
+  <path d="m 14,9 4,0 0,2 -4,0 z"/>
+  <path d="m 19,24 4,0 0,2 -4,0 z"/>
+  <path d="m 19,21 4,0 0,2 -4,0 z"/>
+  <path d="m 19,18 4,0 0,2 -4,0 z"/>
+  <path d="m 19,15 4,0 0,2 -4,0 z"/>
+  <path d="m 19,12 4,0 0,2 -4,0 z"/>
+  <path d="m 24,24 4,0 0,2 -4,0 z"/>
+  <path d="m 24,21 4,0 0,2 -4,0 z"/>
+  <path d="m 24,18 4,0 0,2 -4,0 z"/>
+  <path d="m 24,15 4,0 0,2 -4,0 z"/>
+  <path d="m 24,12 4,0 0,2 -4,0 z"/>
+  <path d="m 24,9.133333 4,0 L 28,11 24,11 Z"/>
+  <path d="m 24,6 4,0 0,2 -4,0 z"/>
+ </g>
+ <g>
+  <path style="fill:#717171" d="m 4,24 4,0 0,2 -4,0 z"/>
+  <path style="fill:#717171" d="m 4,21 4,0 0,2 -4,0 z"/>
+  <path style="fill:#717171" d="m 4,18 4,0 0,2 -4,0 z"/>
+  <path style="fill:#cfcfcf" d="m 4,15 4,0 0,2 -4,0 z"/>
+  <path style="fill:#cfcfcf" d="m 4,12 4,0 0,2 -4,0 z"/>
+  <path style="fill:#bfbfbf" d="m 9,24 4,0 0,2 -4,0 z"/>
+  <path style="fill:#bfbfbf" d="m 9,21 4,0 0,2 -4,0 z"/>
+  <path style="fill:#bfbfbf" d="m 9,18 4,0 0,2 -4,0 z"/>
+  <path style="fill:#606060" d="m 14,24 4,0 0,2 -4,0 z"/>
+  <path style="fill:#606060" d="m 14,21 4,0 0,2 -4,0 z"/>
+  <path style="fill:#606060" d="m 14,18 4,0 0,2 -4,0 z"/>
+  <path style="fill:#c8c8c8" d="m 14,15 4,0 0,2 -4,0 z"/>
+  <path style="fill:#c8c8c8" d="m 14,12 4,0 0,2 -4,0 z"/>
+  <path style="fill:#c8c8c8" d="m 14,9 4,0 0,2 -4,0 z"/>
+  <path style="fill:#575757" d="m 19,24 4,0 0,2 -4,0 z"/>
+  <path style="fill:#575757" d="m 19,21 4,0 0,2 -4,0 z"/>
+  <path style="fill:#575757" d="m 19,18 4,0 0,2 -4,0 z"/>
+  <path style="fill:#a3a3a3" d="m 19,15 4,0 0,2 -4,0 z"/>
+  <path style="fill:#a3a3a3" d="m 19,12 4,0 0,2 -4,0 z"/>
+  <path style="fill:#2d2d2d" d="m 24,24 4,0 0,2 -4,0 z"/>
+  <path style="fill:#2d2d2d" d="m 24,21 4,0 0,2 -4,0 z"/>
+  <path style="fill:#2d2d2d" d="m 24,18 4,0 0,2 -4,0 z"/>
+  <path style="fill:#7d7d7d" d="m 24,15 4,0 0,2 -4,0 z"/>
+  <path style="fill:#7d7d7d" d="m 24,12 4,0 0,2 -4,0 z"/>
+  <path style="fill:#7d7d7d" d="m 24,9.133333 4,0 L 28,11 24,11 Z"/>
+  <path style="fill:#7d7d7d" d="m 24,6 4,0 0,2 -4,0 z"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3.4003906 3 C 2.6247907 3 2 3.5805812 2 4.3007812 L 2 5.3007812 C 2 4.5805812 2.6247907 4 3.4003906 4 L 28.599609 4 C 29.375209 4 30 4.5805812 30 5.3007812 L 30 4.3007812 C 30 3.5805812 29.375209 3 28.599609 3 L 3.4003906 3 z"/>
+</svg>

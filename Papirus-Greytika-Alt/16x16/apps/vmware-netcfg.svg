@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#616161" width="16" height="16" x="-16" y="-16" rx=".8" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path d="m4.835 2c-0.4625 0-0.835 0.3725-0.835 0.835v6.33c0 0.4625 0.3725 0.835 0.835 0.835h6.3301c0.463 0 0.835-0.3725 0.835-0.835v-6.33c0-0.4625-0.372-0.835-0.835-0.835h-6.33zm1.165 2h4v4h-4v-4z" style="fill:#e3e3e3"/>
+ <rect width="2" height="2" x="7" y="10" style="fill:#3f3f3f"/>
+ <rect width="10" height="2" x="3" y="12" style="fill:#3f3f3f"/>
+ <circle fill="#bcbcbc" cx="3" cy="13" r="2"/>
+ <circle fill="#bcbcbc" cx="8" cy="13" r="2"/>
+ <circle fill="#bcbcbc" cx="13" cy="13" r="2"/>
+</svg>

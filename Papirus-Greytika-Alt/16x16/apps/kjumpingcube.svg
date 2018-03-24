@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#e4e4e4" width="16" height="16" x="-16" y="-16" rx=".857" ry=".857" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle fill="#4d4d4d" cx="8" cy="8" r="2"/>
+ <circle fill="#4d4d4d" cx="13" cy="13" r="2"/>
+ <circle fill="#4d4d4d" cx="3" cy="3" r="2"/>
+ <circle fill="#4d4d4d" cx="13" cy="-3" r="2" transform="scale(1,-1)"/>
+ <circle fill="#4d4d4d" cx="3" cy="-13" r="2" transform="scale(1,-1)"/>
+</svg>

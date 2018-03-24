@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <defs>
+  <linearGradient id="linearGradient4561" x1="24" x2="44" y1="24" y2="24" gradientTransform="scale(.5)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path style="opacity:0.2" d="m 22,20.5 v -16 c 0,-0.554 -0.446,-1 -1,-1 H 3 c -0.554,0 -1,0.446 -1,1 v 16 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 z"/>
+ <path fill="#d3d3d3" d="m22 20v-16c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1z"/>
+ <path fill="url(#linearGradient4561)" opacity=".1" d="m22 20v-16c0-0.554-0.446-1-1-1h-9v18h9c0.554 0 1-0.446 1-1z"/>
+ <rect opacity=".5" width="7" height="1" x="3" y="5"/>
+ <rect opacity=".5" width="8" height="1" x="3" y="8"/>
+ <rect opacity=".5" width="8" height="1" x="3" y="11"/>
+ <rect opacity=".5" width="7" height="1" x="3" y="14"/>
+ <rect opacity=".5" width="8" height="1" x="3" y="17"/>
+ <rect opacity=".5" width="8" height="1" x="13" y="-12" transform="scale(1,-1)"/>
+ <rect opacity=".5" width="5" height="1" x="13" y="-9" transform="scale(1,-1)"/>
+ <rect opacity=".5" width="6" height="1" x="13" y="-6" transform="scale(1,-1)"/>
+ <path fill="#c5c5c5" d="m8 3h3v8l-1.5-2-1.5 2z"/>
+ <path fill="#fff" opacity=".2" d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+</svg>

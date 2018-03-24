@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <defs>
+  <radialGradient id="radialGradient3035" cx="198.31" cy="109.06" r="63.508" fx="143.62" fy="122.04" gradientTransform="matrix(.061585 -.0051280 .0063540 .079720 -.79044 -1.9062)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#161616" stop-opacity=".667"/>
+   <stop offset=".527" stop-color="#3f3f3f" stop-opacity=".302"/>
+   <stop offset="1" stop-color="#303030" stop-opacity="0"/>
+  </radialGradient>
+ </defs>
+ <path fill="#b9b9b9" d="m8.5998 4.0002 0.4002 3.6844s-2.6471-0.31458-3.6 0.36842c-0.8988 0.644-1.2 2.947-1.2 2.947h-1.2s0.075-2.6247 0.8-3.6842c1.0663-1.5585 4.8-3.3158 4.8-3.3158z"/>
+ <ellipse fill="#c6c6c6" cx="10.032" cy="8.895" rx="3.91" ry="5.071" transform="matrix(.96610 -.25816 .25948 .96575 0 0)"/>
+ <path fill="url(#radialGradient3035)" fill-rule="evenodd" stroke-width="1pt" d="m8.8245 1.6723c-1.0383 0.9998-1.18 3.8089 0.0611 6.7322 1.2324 2.8805 4.9704 2.6015 5.9004 1.5809 0.939-0.9773 2.262-3.4259-0.169-6.9317-2.415-3.4198-4.7208-2.3891-5.7924-1.3818z"/>
+ <rect width="6" height="1" x="2" y="9" rx=".721" ry="1"/>
+ <path fill="#b9b9b9" d="m0.76941 10h8.4612c0.42647 0 0.76941 0.33467 0.76941 0.75v4.5c0 0.41533-0.34294 0.75-0.76941 0.75h-8.4612c-0.42635 0-0.76941-0.33467-0.76941-0.75v-4.5c0.0000099494-0.415 0.34307-0.75 0.76925-0.75z"/>
+ <rect fill="#b4b4b4" width="6" height="4" x="2" y="11" rx=".462" ry=".5"/>
+</svg>

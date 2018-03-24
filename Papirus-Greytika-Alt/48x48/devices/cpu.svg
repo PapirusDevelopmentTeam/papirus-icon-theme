@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g style="fill:#8e8e8e">
+  <rect width="2" height="40" x="27" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="23" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="19" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="15" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="31" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="35" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="39" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="11" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="7" y="-44" transform="rotate(90)"/>
+  <rect width="2" height="40" x="23" y="4"/>
+  <rect width="2" height="40" x="19" y="4"/>
+  <rect width="2" height="40" x="15" y="4"/>
+  <rect width="2" height="40" x="11" y="4"/>
+  <rect width="2" height="40" x="27" y="4"/>
+  <rect width="2" height="40" x="31" y="4"/>
+  <rect width="2" height="40" x="35" y="4"/>
+  <rect width="2" height="40" x="7" y="4"/>
+  <rect width="2" height="40" x="39" y="4"/>
+ </g>
+ <rect style="opacity:0.2" width="36" height="36" x="-43" y="-42" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#b7b7b7" width="36" height="36" x="-42" y="-42" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 8 6 C 6.892 6 6 6.892 6 8 L 6 9 C 6 7.892 6.892 7 8 7 L 40 7 C 41.108 7 42 7.892 42 9 L 42 8 C 42 6.892 41.108 6 40 6 L 8 6 z"/>
+ <rect style="opacity:0.5" width="9" height="2" x="11" y="17"/>
+ <rect style="opacity:0.5" width="4" height="2" x="22" y="17"/>
+ <rect style="opacity:0.5" width="9" height="2" x="28" y="17"/>
+ <rect style="opacity:0.5" width="11" height="2" x="11" y="23"/>
+ <rect style="opacity:0.5" width="11" height="2" x="24" y="23"/>
+ <rect style="opacity:0.5" width="4" height="2" x="11" y="29"/>
+ <rect style="opacity:0.5" width="4" height="2" x="17" y="29"/>
+ <rect style="opacity:0.5" width="8" height="2" x="23" y="29"/>
+</svg>
