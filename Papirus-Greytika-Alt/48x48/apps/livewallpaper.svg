@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="32" height="24" x="-43" y="-36" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="32" height="24" x="-42" y="-36" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="32" height="40" x="-39" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="32" height="40" x="-38" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 H 42 C 43.108,7 44,7.892 44,9 V 8 C 44,6.892 43.108,6 42,6 Z"/>
+ <rect style="opacity:0.1;fill:#ffffff" width="34" height="1" x="7" y="35"/>
+ <rect style="fill:#484848" width="26" height="34" x="-35" y="-41" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="m 33,11 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m -11,4 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -8,4 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 22,6 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -9,2 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+ <circle style="fill:#f4f4f4" cx="33" cy="15" r="5"/>
+ <circle style="fill:#d3d3d3" cx="14" cy="22" r="4"/>
+ <circle style="fill:#bcbcbc" cx="27" cy="29" r="3"/>
+ <circle style="fill:#d3d3d3" cx="22" cy="16" r="2"/>
+ <circle style="fill:#dedede" cx="36" cy="26" r="2"/>
+</svg>

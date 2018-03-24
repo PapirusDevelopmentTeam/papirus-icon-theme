@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="16" height="12" x="-21.5" y="-18" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="16" height="12" x="-21" y="-18" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="16" height="20" x="-19.5" y="-22" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="16" height="20" x="-19" y="-22" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.4" width="12" height="16" x="-17" y="-20" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 V 4.5 C 2,3.946 2.446,3.5 3,3.5 H 21 C 21.554,3.5 22,3.946 22,4.5 V 4 C 22,3.446 21.554,3 21,3 Z"/>
+ <rect style="opacity:0.1;fill:#ffffff" width="16" height=".5" x="4" y="17"/>
+ <path style="opacity:0.2" d="m 12,8.4998 c -1.108,0 -2,0.9108 -2,2.0312 V 11.5 H 9.5 C 9.223,11.5 9,11.723 9,12 v 3 c 0,0.277 0.223,0.5 0.5,0.5 h 5 c 0.277,0 0.5,-0.223 0.5,-0.5 v -3 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 H 14 v -0.96875 c 0,-1.12 -0.892,-2.031 -2,-2.031 z m 0,1 c 0.554,0 1,0.446 1,1 v 1 h -2 v -1 c 0,-0.554 0.446,-1 1,-1 z"/>
+ <path style="fill:#bcbcbc" d="m 12,8 c -1.108,0 -2,0.9108 -2,2.0312 v 0.969 H 9.5 c -0.277,0 -0.5,0.223 -0.5,0.5 v 3 c 0,0.277 0.223,0.5 0.5,0.5 h 5 c 0.277,0 0.5,-0.223 0.5,-0.5 v -3 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 H 14 v -0.96875 c 0,-1.12 -0.892,-2.031 -2,-2.031 z m 0,1 c 0.554,0 1,0.446 1,1 v 1 h -2 v -1 c 0,-0.554 0.446,-1 1,-1 z"/>
+</svg>

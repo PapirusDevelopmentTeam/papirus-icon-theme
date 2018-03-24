@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g transform="translate(-1,-1)">
+  <path style="opacity:0.2" d="m 22,20.5 v -16 c 0,-0.554 -0.446,-1 -1,-1 H 3 c -0.554,0 -1,0.446 -1,1 v 16 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 z"/>
+  <path style="fill:#868686" d="M 22,20 V 4 C 22,3.446 21.554,3 21,3 H 3 C 2.446,3 2,3.446 2,4 v 16 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 4 C 22,3.446 21.554,3 21,3 Z"/>
+  <g style="opacity:0.2" transform="translate(4,5.5)">
+   <path d="M 3,5 V 4 h 10 v 1 z"/>
+   <path d="M 3,8 V 7 h 10 v 1 z"/>
+   <path d="m 3,11 v -1 h 6 v 1 z"/>
+  </g>
+  <g style="fill:#ffffff" transform="translate(4,5)">
+   <path d="M 3,5 V 4 h 10 v 1 z"/>
+   <path d="M 3,8 V 7 h 10 v 1 z"/>
+   <path d="m 3,11 v -1 h 6 v 1 z"/>
+  </g>
+ </g>
+</svg>

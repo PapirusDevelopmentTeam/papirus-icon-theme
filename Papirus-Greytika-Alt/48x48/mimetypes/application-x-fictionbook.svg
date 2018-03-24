@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <defs>
+  <linearGradient id="linearGradient4561" x1="24" x2="44" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path style="opacity:0.2" d="M 44,41 V 9 C 44,7.892 43.108,7 42,7 H 6 C 4.892,7 4,7.892 4,9 v 32 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 z"/>
+ <path fill="#d3d3d3" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
+ <g>
+  <rect opacity=".5" width="16" height="1" x="6" y="9"/>
+  <rect opacity=".5" width="14" height="1" x="6" y="12"/>
+  <rect opacity=".5" width="12" height="1" x="6" y="15"/>
+  <rect opacity=".5" width="16" height="1" x="6" y="18"/>
+  <rect opacity=".5" width="10" height="1" x="6" y="21"/>
+  <rect opacity=".5" width="16" height="1" x="6" y="24"/>
+  <rect opacity=".5" width="16" height="1" x="6" y="27"/>
+  <rect opacity=".5" width="14" height="1" x="6" y="30"/>
+  <rect opacity=".5" width="10" height="1" x="6" y="33"/>
+  <rect opacity=".5" width="16" height="1" x="6" y="36"/>
+  <rect opacity=".5" width="12" height="1" x="6" y="39"/>
+  <rect opacity=".5" width="16" height="1" x="26" y="-25" transform="scale(1,-1)"/>
+  <rect opacity=".5" width="16" height="1" x="26" y="-22" transform="scale(1,-1)"/>
+  <rect opacity=".5" width="14" height="1" x="26" y="-19" transform="scale(1,-1)"/>
+  <rect opacity=".5" width="10" height="1" x="26" y="-16" transform="scale(1,-1)"/>
+  <rect opacity=".5" width="16" height="1" x="26" y="-13" transform="scale(1,-1)"/>
+  <rect opacity=".5" width="12" height="1" x="26" y="-10" transform="scale(1,-1)"/>
+ </g>
+ <path fill="#c5c5c5" d="m16 6h6v16l-3-4-3 4z"/>
+ <path fill="#fff" opacity=".2" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+ <path fill="url(#linearGradient4561)" opacity=".1" d="m44 40v-32c0-1.108-0.892-2-2-2h-18v36h18c1.108 0 2-0.892 2-2z"/>
+</svg>

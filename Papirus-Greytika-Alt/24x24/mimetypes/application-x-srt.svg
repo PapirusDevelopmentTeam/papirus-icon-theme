@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <path style="opacity:0.2" d="m 22,20.5 v -16 c 0,-0.554 -0.446,-1 -1,-1 H 3 c -0.554,0 -1,0.446 -1,1 v 16 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 z"/>
+ <path fill="#868686" d="m22 20v-16c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1z"/>
+ <path fill="#fff" opacity=".2" d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+ <g style="opacity:0.2" transform="translate(4,5.5)">
+  <path d="M 3,5 V 4 h 10 v 1 z"/>
+  <path d="M 3,8 V 7 h 10 v 1 z"/>
+  <path d="m 3,11 v -1 h 6 v 1 z"/>
+ </g>
+ <g fill="#fff" transform="translate(4,5)">
+  <path d="m3 5v-1h10v1z"/>
+  <path d="m3 8v-1h10v1z"/>
+  <path d="m3 11v-1h6v1z"/>
+ </g>
+</svg>

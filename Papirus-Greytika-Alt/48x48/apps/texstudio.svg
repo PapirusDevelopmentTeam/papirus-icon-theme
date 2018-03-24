@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#909090" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <g>
+   <path d="m5 15v4h4v12h4v-12h4v-4h-12z"/>
+   <path d="m35 15h-4l3.5816 7.9277-3.582 8.072h4l2-4 2 4h4l-3.582-8.072 3.582-7.928h-4l-2 4z"/>
+  </g>
+  <path d="m18 20v16h12v-4h-8v-3h8v-2h-8v-3h8v-4h-12z"/>
+ </g>
+ <g fill="#fff">
+  <g transform="translate(0,1)">
+   <path d="m5 15v4h4v12h4v-12h4v-4h-12z"/>
+   <path d="m35 15h-4l3.5816 7.9277-3.582 8.072h4l2-4 2 4h4l-3.582-8.072 3.582-7.928h-4l-2 4z"/>
+  </g>
+  <path d="m18 20v16h12v-4h-8v-3h8v-2h-8v-3h8v-4h-12z"/>
+ </g>
+</svg>

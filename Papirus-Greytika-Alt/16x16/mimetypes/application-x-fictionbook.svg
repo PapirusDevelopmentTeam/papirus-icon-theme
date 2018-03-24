@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <linearGradient id="linear0" x1="24" x2="44" y1="24" y2="24" gradientTransform="matrix(.325 0 0 .33333 -.3 1.5e-7)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-opacity=".102"/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path fill="#d2d2d2" d="m14 13.332v-10.664c0-0.3711-0.289-0.668-0.648-0.668h-11.704c-0.3589 0-0.648 0.2969-0.648 0.668v10.664c0 0.371 0.2891 0.668 0.6484 0.668h11.703c0.36 0 0.649-0.297 0.649-0.668z"/>
+ <path fill="url(#linear0)" d="m14 13.332v-10.664c0-0.3711-0.289-0.668-0.648-0.668h-5.852v12h5.852c0.359 0 0.648-0.297 0.648-0.668z"/>
+ <path opacity=".5" d="m8 8.5h5v-0.5h-5z"/>
+ <path opacity=".5" d="m8 7.5h5v-0.5h-5z"/>
+ <path opacity=".5" d="m8 6.5h4.5v-0.5h-4.5z"/>
+ <path opacity=".5" d="m8 5.5h3.5v-0.5h-3.5z"/>
+ <path opacity=".5" d="m8 4.5h5v-0.5h-5z"/>
+ <path opacity=".5" d="m8 3.5h4v-0.5h-4z"/>
+ <path opacity=".5" d="m2 3h5v0.5h-5z"/>
+ <path opacity=".5" d="m2 4h4.5v0.5h-4.5z"/>
+ <path opacity=".5" d="m2 5h4v0.5h-4z"/>
+ <path opacity=".5" d="m2 6h3.5v0.5h-3.5z"/>
+ <path opacity=".5" d="m2 7h3v0.5h-3z"/>
+ <path opacity=".5" d="m2 8h5v0.5h-5z"/>
+ <path opacity=".5" d="m2 9h5v0.5h-5z"/>
+ <path opacity=".5" d="m2 10h4.5v0.5h-4.5z"/>
+ <path opacity=".5" d="m2 11h3.5v0.5h-3.5z"/>
+ <path opacity=".5" d="m2 12h5v0.5h-5z"/>
+ <path opacity=".5" d="m2 13h4v0.5h-4z"/>
+ <path fill="#c4c4c4" d="m5 2h2v6l-1-2-1 2z"/>
+</svg>

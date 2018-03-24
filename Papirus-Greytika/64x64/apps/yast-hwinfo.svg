@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <g style="fill:#8e8e8e">
+  <rect width="2" height="52" x="40" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="46" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="52" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="22" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="28" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="34" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="16" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="10" y="-58" transform="rotate(90)"/>
+  <rect width="2" height="52" x="-24" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-18" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-12" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-42" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-36" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-30" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-48" y="-58" transform="scale(-1)"/>
+  <rect width="2" height="52" x="-54" y="-58" transform="scale(-1)"/>
+ </g>
+ <rect style="opacity:0.2" width="48" height="48" x="-57" y="-56" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#b7b7b7" width="48" height="48" x="-56" y="-56" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 10.5 8 C 9.115 8 8 9.115 8 10.5 L 8 11.5 C 8 10.115 9.115 9 10.5 9 L 53.5 9 C 54.885 9 56 10.115 56 11.5 L 56 10.5 C 56 9.115 54.885 8 53.5 8 L 10.5 8 z"/>
+ <g transform="matrix(2,0,0,2,0,1)">
+  <rect style="opacity:0.5" width="6" height="1" x="7" y="11"/>
+  <rect style="opacity:0.5" width="3" height="1" x="14" y="11"/>
+  <rect style="opacity:0.5" width="7" height="1" x="18" y="11"/>
+  <rect style="opacity:0.5" width="8" height="1" x="7" y="15"/>
+  <rect style="opacity:0.5" width="8" height="1" x="16" y="15"/>
+  <rect style="opacity:0.5" width="3" height="1" x="7" y="19"/>
+  <rect style="opacity:0.5" width="3" height="1" x="11" y="19"/>
+  <rect style="opacity:0.5" width="6" height="1" x="15" y="19"/>
+ </g>
+</svg>

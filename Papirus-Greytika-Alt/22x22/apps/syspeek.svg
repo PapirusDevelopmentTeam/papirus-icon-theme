@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect fill="#4f4f4f" width="16" height="20" x="-19" y="1" rx="1" ry="1" transform="scale(-1,1)"/>
+ <path opacity=".2" d="m3 20v0.5c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1z"/>
+ <path fill="#fff" opacity=".1" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-14z"/>
+ <path opacity=".2" d="m5 4.5v14h12v-14h-12zm2 8h8v4h-8v-4z"/>
+ <path fill="#fff" d="m5 4v14h12v-14h-12zm2 8h8v4h-8v-4z"/>
+</svg>

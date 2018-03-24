@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="56" height="56" x="-61" y="-60" rx="2.8" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="56" height="56" x="-60" y="-60" rx="2.8" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="40" height="40" x="-53" y="-52" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#6c6c6c" width="40" height="40" x="-52" y="-52" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:6;stroke-linecap:round" d="m 32,20 0,12"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:6;stroke-linecap:round" d="m 23,41 9,-9"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:6;stroke-linecap:round" d="M 41,41 32,32"/>
+ <circle style="opacity:0.2" cx="32" cy="33" r="5"/>
+ <circle style="fill:#ffffff" cx="32" cy="32" r="5"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6.8007812 4 C 5.2495813 4 4 5.2495813 4 6.8007812 L 4 7.8007812 C 4 6.2495813 5.2495813 5 6.8007812 5 L 57.199219 5 C 58.750419 5 60 6.2495813 60 7.8007812 L 60 6.8007812 C 60 5.2495813 58.750419 4 57.199219 4 L 6.8007812 4 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 14 12 C 12.892 12 12 12.892 12 14 L 12 15 C 12 13.892 12.892 13 14 13 L 50 13 C 51.108 13 52 13.892 52 15 L 52 14 C 52 12.892 51.108 12 50 12 L 14 12 z"/>
+</svg>
