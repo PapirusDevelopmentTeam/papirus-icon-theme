@@ -4,9 +4,12 @@
 # color
 greyscale() {
     old="$1"
-    red="$( echo "$(( 16#${old:1:2} ))*0.8500" | bc )"
-    green="$( echo "$(( 16#${old:3:2} ))*0.1400" | bc)"
-    blue="$( echo "$(( 16#${old:5:2} ))*0.0139" | bc )"
+    red="$( echo "$(( 16#${old:1:2} ))*0.6500" | bc )"
+    green="$( echo "$(( 16#${old:3:2} ))*0.1900" | bc)"
+    blue="$( echo "$(( 16#${old:5:2} ))*0.1639" | bc )"
+    #red="$( echo "$(( 16#${old:1:2} ))*0.8500" | bc )"
+    #green="$( echo "$(( 16#${old:3:2} ))*0.1400" | bc)"
+    #blue="$( echo "$(( 16#${old:5:2} ))*0.0139" | bc )"
     result="$( echo "$red + $green + $blue" | bc )"
     #big_result="$( echo "$(( 16#${old:1:2} ))*0.299 + $(( 16#${old:3:2} ))*0.587 + $(( 16#${old:5:2} ))*0.114" | bc )"
     hex="$(printf '%02x\n' "${result%.*}" )"
