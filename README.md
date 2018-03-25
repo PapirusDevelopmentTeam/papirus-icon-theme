@@ -24,6 +24,7 @@ Papirus icon theme is available in six variants:
  - Papirus Adapta (for Adapta)
  - Papirus Adapta Nokto (for Adapta Nokto)
  - ePapirus (for elementary OS and Pantheon Desktop)
+ - Papirus Grey (greyscale, minimalist theme)
 
 ## Installation
 
