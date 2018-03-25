@@ -1,8 +1,3 @@
-Adding 3 Grey Icons Theme
-
-To install just copy theme directory to /usr/share/icons/
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
