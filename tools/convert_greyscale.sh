@@ -1,17 +1,24 @@
 #!/bin/bash
 
 # Usage:
-# convert_greyscale.sh SOURCE TARGET RED GREEN BLUE
-# convert_greyscale.sh Papirus Papirus-Grey 0.299 0.587 0.114
+# convert_greyscale.sh SOURCE NAME DESC RED GREEN BLUE
+# convert_greyscale.sh Papirus Papirus-Grey "A minimalist, greyscale icon theme" 0.299 0.587 0.114
 
 SCRIPT_DIR="$(dirname "$0")"
 SOURCE_NAME="${1:-Papirus}"
 THEME_NAME="${2:-Papirus-Grey}"
-TARGET_DIR="$SCRIPT_DIR/../${THEME_NAME}/"
+TARGET_DIR="$SCRIPT_DIR/../${THEME_NAME}"
+THEME_DESC="${3:-A minimalist, greyscale icon theme }"
 
-RED_LUMINOSITY="${3:-0.299}"
-GREEN_LUMINOSITY="${4:-0.587}"
-BLUE_LUMINOSITY="${5:-0.114}"
+RED_LUMINOSITY="${4:-0.299}"
+GREEN_LUMINOSITY="${5:-0.587}"
+BLUE_LUMINOSITY="${6:-0.114}"
+
+# Temporary files for storing caches of filenames and hexes.
+# Append the theme name in case we want to run multiple theme builders in
+# parallel.
+CONVERT_LIST=".convert_list_${THEME_NAME}"
+EMBEDDED_COLORS=".embedded_colors_${THEME_NAME}"
 
 # Computes greyscale using luminosity.
 # greyscale(color)
@@ -34,30 +41,38 @@ replace_color() {
     sed -i "s/${2}/${3}/" "${1}"
 }
 
-echo "> Duplicating ${SOURCE_NAME} into ${TARGET_NAME} ..."
-#rm -rf Papirus-Grey/
-mkdir -p "${TARGET_DIR}"
-cp -R "$SCRIPT_DIR/../${SOURCE_NAME}/*" "${TARGET_DIR}"
+echo "> Duplicating ${SOURCE_NAME} into ${THEME_NAME} ..."
+rm -rf "${TARGET_DIR}"
+#mkdir -p "${TARGET_DIR}"
+cp -R "$SCRIPT_DIR/../${SOURCE_NAME}" "${TARGET_DIR}"
+
+echo "> Updating metadata ..."
+sed -i "s/Name=.*/Name=${THEME_NAME}/" "${TARGET_DIR}/index.theme"
+sed -i "s/Comment=.*/Comment=${THEME_DESC}/" "${TARGET_DIR}/index.theme"
 
 echo "> Locating SVG's ..."
-find "${TARGET_DIR}" -name "*.svg" -type f > ".convert_list"
+# Only get the _actual_ SVG files. Skip symlinks (-type f).
+find "${TARGET_DIR}" -name "*.svg" -type f > "${CONVERT_LIST}"
 
 i=1
-max="$(cat convert_list | wc -l)"
+max="$(cat "${CONVERT_LIST}" | wc -l)"
 echo "> Converting to greyscale ..."
 while read -r line; do
     echo "Converting $line ... ($i of $max)"
-    grep -Eio "#[0-9a-f]{6}" "$line" > ".embedded_colors"
 
+    # Grab all of the existing hex codes.
+    grep -Eio "#[0-9a-f]{6}" "$line" > "${EMBEDDED_COLORS}"
+
+    # Replace them one by one.
     while read -r color; do
         replace_color "$line" "$color" "$(greyscale "$color")"
-    done < ".embedded_colors"
+    done < "${EMBEDDED_COLORS}"
 
     i="$(( i + 1 ))"
 
     # The excruciatingly slow, GUI method ...
     #inkscape -f "$line" -z --verb EditSelectAll --verb org.inkscape.color.desaturate.noprefs --verb FileSave --verb FileQuit
-done < ".convert_list"
+done < "${CONVERT_LIST}"
 
 echo "> Conversion complete, deleting SVG file cache ..."
-rm ".convert_list" ".embedded_colors"
+rm "${CONVERT_LIST}" "${EMBEDDED_COLORS}"
