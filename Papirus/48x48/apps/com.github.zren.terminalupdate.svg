@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="m 4,40 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 C 4.892,42 4,41.108 4,40 Z"/>
+ <rect style="fill:#4f4f4f" width="40" height="36" x="4" y="6" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 h 36 c 1.108,0 2,0.892 2,2 V 8 C 44,6.892 43.108,6 42,6 Z"/>
+ <circle cx="36" cy="36" r="11" style="opacity:0.2"/>
+ <circle cx="36" cy="35" r="11" style="fill:#ff9022"/>
+ <path d="m 30,35 c 0,3.3137 2.6863,6 6,6 3.2801,0 5.9403,-2.6332 5.9941,-5.9004 a 1,1 0 0 0 0.006,-0.09961 1,1 0 0 0 -1,-1 1,1 0 0 0 -1,1 c 0,2.2091 -1.7909,4 -4,4 -2.2091,0 -4,-1.7909 -4,-4 0,-2.2091 1.7909,-4 4,-4 v 2 l 4,-3 -4,-3 v 2 c -3.3137,0 -6,2.6863 -6,6 z" style="fill:#ffffff"/>
+ <path style="opacity:0.2" d="m 9.0000001,11 v 1 H 7.5 v 1 h 1.5000001 v 3 H 7.5 v 1 h 1.5000001 v 1 H 10 v -1 h 2 v 1 h 1 v -1 h 1.5 V 16 H 13 v -3 h 1.5 V 12 H 13 v -1 h -1 v 1 H 10 V 11 Z M 10,13 h 2 v 3 h -2 z m 6,4 v 1 h 6 v -1 z"/>
+ <path style="fill:#ffffff" d="m 9.0000001,10 v 1 H 7.5 v 1 h 1.5000001 v 3 H 7.5 v 1 h 1.5000001 v 1 H 10 v -1 h 2 v 1 h 1 v -1 h 1.5 V 15 H 13 v -3 h 1.5 V 11 H 13 v -1 h -1 v 1 H 10 V 10 Z M 10,12 h 2 v 3 h -2 z m 6,4 v 1 h 6 v -1 z"/>
+</svg>
