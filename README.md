@@ -97,7 +97,7 @@ Packages in this section are not part of the official repositories. If you have 
 | Fedora       | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | Manjaro      | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE     | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
-| openSUSE     | Matthias Eliasson | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>Tumbleweed & Leap 15+</sup> |
+| openSUSE     | Matthias Eliasson | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official release</sup> |
 | Solus        | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
 | Ubuntu 18.04 | Yangfl            | `sudo apt install papirus-icon-theme` |
 
