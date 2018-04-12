@@ -85,19 +85,19 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/uninstall.sh | sh
 ```
 
-### Unofficial packages
+### Third-party packages
 
 Packages in this section are not part of the official repositories. If you have a problem or a question, please contact the package maintainer.
 
 | **Distro**   | **Maintainer**    | **Package**                              |
 | :----------- | :---------------- | :--------------------------------------- |
 | Arch Linux   | Felix Yan         | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
-| Arch Linux   | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
+| Arch Linux   | Edgard Castro     | `yaourt -S papirus-icon-theme-git` <sup>AUR [[link](https://aur.archlinux.org/packages/papirus-icon-theme-git/)]</sup> |
 | Debian 10    | Yangfl            | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
 | Fedora       | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | Manjaro      | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE     | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
-| openSUSE     | Matthias Eliasson | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official release</sup> |
+| openSUSE     | Matthias Eliasson | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
 | Solus        | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
 | Ubuntu 18.04 | Yangfl            | `sudo apt install papirus-icon-theme` |
 
