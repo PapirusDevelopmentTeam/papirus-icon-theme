@@ -92,7 +92,7 @@ Packages in this section are not part of the official repositories. If you have 
 | **Distro**   | **Maintainer**    | **Package**                              |
 | :----------- | :---------------- | :--------------------------------------- |
 | Arch Linux   | Felix Yan         | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
-| Arch Linux   | Edgard Castro     | `yaourt -S papirus-icon-theme-git` <sup>AUR [[link](https://aur.archlinux.org/packages/papirus-icon-theme-git/)]</sup> |
+| Arch Linux   | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
 | Debian 10    | Yangfl            | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
 | Fedora       | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | Manjaro      | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
