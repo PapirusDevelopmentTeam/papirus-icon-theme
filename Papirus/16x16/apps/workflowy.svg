@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect width="15" height="15" x="-15" y="-15" rx=".75" ry=".75" transform="matrix(0,-1,-1,0,0,0)" style="fill:#3c7fb0"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="8" height="1" x="4" y="4" rx=".5" ry=".5"/>
+ <circle style="fill:#ffffff" cx="4.5" cy="4.5" r="1.5"/>
+ <circle cx="4.5" cy="10.5" r="1.5" style="fill:#ffffff"/>
+ <circle style="fill:#ffffff" cx="6.5" cy="7.5" r="1.5"/>
+ <rect width="6" height="1" x="6" y="7" rx=".5" ry=".5" style="opacity:0.4;fill:#ffffff"/>
+ <rect width="8" height="1" x="4" y="10" rx=".5" ry=".5" style="opacity:0.4;fill:#ffffff"/>
+</svg>
