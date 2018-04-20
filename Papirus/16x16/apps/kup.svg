@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#e4e4e4" width="16" height="16" x="0" y="0" rx=".8" ry=".8"/>
+ <path style="fill:#4f4f4f" d="M 8 3 A 5 5 0 0 0 3 8 A 5 5 0 0 0 8 13 A 5 5 0 0 0 13 8 A 5 5 0 0 0 8 3 z M 8 5 A 3.0000001 3.0000001 0 0 1 11 8 A 3.0000001 3.0000001 0 0 1 8 11 A 3.0000001 3.0000001 0 0 1 5 8 A 3.0000001 3.0000001 0 0 1 8 5 z"/>
+ <path style="fill:none;stroke:#4f4f4f;stroke-width:2;stroke-linecap:round" d="m 3,3 10,10 v 0"/>
+ <path style="fill:none;stroke:#4f4f4f;stroke-width:2;stroke-linecap:round" d="M 13,3 3,13"/>
+</svg>
