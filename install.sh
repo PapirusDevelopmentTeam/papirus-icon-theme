@@ -77,7 +77,7 @@ _install() {
 
     # Try to restore the color of folders from a config
     if which papirus-folders > /dev/null 2>&1; then
-        sudo papirus-folders -R || true
+        papirus-folders -R || true
     fi
 }
 
