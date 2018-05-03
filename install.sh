@@ -57,6 +57,7 @@ _download() {
 
 _uninstall() {
     for theme in "$@"; do
+        test -d "$DESTDIR/$theme" || continue
         _msg "Deleting '$theme' ..."
         _rm "$DESTDIR/$theme"
     done
