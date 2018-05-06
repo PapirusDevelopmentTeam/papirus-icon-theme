@@ -1,1 +1,14 @@
-python.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect width="15" height="14" x="0" y="1" rx=".75" ry=".778" style="fill:#8e8e8e"/>
+ <rect style="fill:#35454e" width="15" height="10" x="0" y="3"/>
+ <rect style="fill:#267edb" width=".8" height="8" x="3" y="4"/>
+ <rect style="fill:#267edb" width="2" height=".8" x="3" y="4"/>
+ <rect width="2" height=".8" x="3" y="11.2" style="fill:#267edb"/>
+ <rect width=".8" height="8" x="-11" y="4" transform="scale(-1,1)" style="fill:#267edb"/>
+ <rect width="2" height=".8" x="-11" y="4" transform="scale(-1,1)" style="fill:#267edb"/>
+ <rect style="fill:#267edb" width="2" height=".8" x="-11" y="11.2" transform="scale(-1,1)"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:0.80000001" d="M 5.4,6.0000001 7.4,10"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:0.80000001" d="M 9,6.0000001 C 9,6.0000001 7.4,11.6 6.2,11.6 H 5.8"/>
+ <path style="fill:#267edb" d="m 12,6.4626044 a 0.4,0.4 0 0 1 -0.4,0.4 0.4,0.4 0 0 1 -0.4,-0.4 0.4,0.4 0 0 1 0.4,-0.4 0.4,0.4 0 0 1 0.4,0.4 z"/>
+ <path d="m 12,10.608681 a 0.4,0.4 0 0 1 -0.4,0.4 0.4,0.4 0 0 1 -0.4,-0.4 0.4,0.4 0 0 1 0.4,-0.4 0.4,0.4 0 0 1 0.4,0.4 z" style="fill:#267edb"/>
+</svg>
