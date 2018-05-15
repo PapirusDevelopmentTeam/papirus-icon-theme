@@ -104,7 +104,7 @@ done
 msg "PHASE 2: Create missing symlinks ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
-	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}.*" \
+	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	target="$(basename "$file")"
@@ -120,7 +120,7 @@ done
 msg "PHASE 3: Generate color folders ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
-	-regex ".*/${SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}.*" \
+	-regex ".*/${SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	for color in "${!COLORS[@]}"; do
@@ -200,7 +200,7 @@ msg "PHASE 7: Remap symlinks for Papirus-Adapta ..."
 ADAPTA_COLOR="cyan"
 
 find "$TARGET_DIR/../Papirus-Adapta" -type f -regextype posix-extended \
-	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${ADAPTA_COLOR}.*" \
+	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${ADAPTA_COLOR}[-\.].*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	target="$(basename "$file")"
