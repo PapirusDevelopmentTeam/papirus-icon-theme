@@ -50,6 +50,7 @@ COLORS=(
 	# |--------|-------|-------|-------|-------|
 	[blue]="    #5294e2 #4877b1 #1d344f #e4e4e4"
 	[black]="   #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
+	[bluegrey]="#607d8b #4d646f #222c31 #e4e4e4"
 	[brown]="   #ae8e6c #957552 #3d3226 #e4e4e4"
 	[cyan]="    #00bcd4 #0096aa #00424A #e4e4e4"
 	[green]="   #87b158 #60924b #2f3e1f #e4e4e4"
