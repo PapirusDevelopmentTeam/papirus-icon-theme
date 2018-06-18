@@ -177,8 +177,8 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 
 ## Recommendations
 
-- For GTK, better use icons alongside GTK theme [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme)  or [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme)
-- For KDE, better use alongside [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) or [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
+- For GTK, better use icons alongside GTK theme [Materia](https://github.com/nana-4/materia-theme) and [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme) or [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme)
+- For KDE, better use alongside [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) and [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) or [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
 
 ## Manual fixes
 
