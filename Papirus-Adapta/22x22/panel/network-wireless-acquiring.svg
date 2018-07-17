@@ -4,6 +4,8 @@
    .ColorScheme-Text { color:#cfd8dc; } .ColorScheme-Highlight { color:#00bcd4; }
   </style>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 11.03109,5.00005 c -3.03441,0 -5.7659,1.12508 -8.03121,2.86955 L 3.2323,8 18.7423,8 19.00011,7.837 C 16.74351,6.11182 14.04241,5 11.03131,5 Z M 8,14 11.03109,17 14,14 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 6,9 C 4.892,9 4,9.892 4,11 4,12.108 4.892,13 6,13 7.108,13 8,12.108 8,11 8,9.892 7.108,9 6,9 Z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,11 A 2,2 0 0 1 6,13 2,2 0 0 1 4,11 2,2 0 0 1 6,9 2,2 0 0 1 8,11 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 13,11 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 18,11 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 11,4 C 7.9494,4 5.0806,5.0732 3,7 L 3.7265625,8 H 18.273438 L 19,7 C 16.919,5.0731 14.051,4 11,4 Z M 8.0917969,14 11,18 13.908203,14 Z"/>
 </svg>
