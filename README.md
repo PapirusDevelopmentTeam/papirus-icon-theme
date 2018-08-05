@@ -45,6 +45,14 @@ sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
+**NOTE:** If you get a error like this when running the 2nd comand: 
+```
+gpg: failed to start the dirmngr '/usr/bin/dirmngr': No such file or directory
+gpg: connecting dirmngr at '/tmp/apt-key-gpghome.n6DTgEC7J8/S.dirmngr' failed: No such file or directory
+gpg: keyserver receive failed: No dirmngr
+
+```
+You need to run ``` sudo apt-get install dirmngr ``` and try running the 2nd command again.
 
 
 ### Papirus Installer
