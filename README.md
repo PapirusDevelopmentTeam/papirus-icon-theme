@@ -39,21 +39,13 @@ or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ub
 Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
 
 ```
-sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu xenial main' > /etc/apt/sources.list.d/papirus-ppa.list"
+sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu bionic main' > /etc/apt/sources.list.d/papirus-ppa.list"
 
+sudo apt-get install dirmngr
 sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
-**NOTE:** If you get a error like this when running the 2nd command: 
-```
-gpg: failed to start the dirmngr '/usr/bin/dirmngr': No such file or directory
-gpg: connecting dirmngr at '/tmp/apt-key-gpghome.n6DTgEC7J8/S.dirmngr' failed: No such file or directory
-gpg: keyserver receive failed: No dirmngr
-
-```
-You need to run ``` sudo apt-get install dirmngr ``` and try running the 2nd command again.
-
 
 ### Papirus Installer
 
