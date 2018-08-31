@@ -20,6 +20,26 @@ Papirus icon theme is available in six variants:
  - Papirus Adapta Nokto (for Adapta Nokto)
  - ePapirus (for elementary OS and Pantheon Desktop)
 
+## Contents
+
+ - [Installation](#installation)
+    - [Ubuntu and derivatives](#ubuntu-and-derivatives)
+    - [Debian and derivatives](#debian-and-derivatives)
+    - [Papirus Installer](#papirus-installer)
+    - [Third-party packages](#third-party-packages)
+ - [Hardcoded icons](#hardcoded-icons)
+    - [Hardcoded application icons](#hardcoded-application-icons)
+    - [Hardcoded tray icons](#hardcoded-tray-icons)
+ - [KDE colorscheme](#kde-colorscheme)
+ - [Folder's color](#folders-color)
+ - [Extras](#extras)
+ - [Recommendations](#recommendations)
+ - [Manual fixes](#manual-fixes)
+ - [Icon request](#icon-request)
+ - [Contributing](#contributing)
+ - [Donate](#donate)
+ - [License](#license)
+
 ## Installation
 
 ### Ubuntu and derivatives
@@ -89,18 +109,18 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 Packages in this section are not part of the official repositories. If you have a problem or a question, please contact the package maintainer.
 
-| **Distro**   | **Maintainer**    | **Package**                              |
-| :----------- | :---------------- | :--------------------------------------- |
-| ALT Linux    | Andrey Cherepanov | `apt-get install papirus-icon-theme` <sup>[[link](https://packages.altlinux.org/en/Sisyphus/srpms/papirus-icon-theme)]</sup> |
-| Arch Linux   | Felix Yan         | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
-| Arch Linux   | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
-| Debian 10    | Yangfl            | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
-| Fedora       | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
-| Manjaro      | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
-| openSUSE     | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
-| openSUSE     | Matthias Eliasson | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
-| Solus        | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
-| Ubuntu 18.04 | Yangfl            | `sudo apt install papirus-icon-theme` |
+| **Distro**    | **Maintainer**    | **Package**                              |
+| :------------ | :---------------- | :--------------------------------------- |
+| ALT Linux     | Andrey Cherepanov | `apt-get install papirus-icon-theme` <sup>[[link](https://packages.altlinux.org/en/Sisyphus/srpms/papirus-icon-theme)]</sup> |
+| Arch Linux    | Felix Yan         | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
+| Arch Linux    | Edgard Castro     | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
+| Debian 10+    | Yangfl            | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
+| Fedora        | Dirk Davidis      | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
+| Manjaro       | Nikola Yanev      | [papirus-icon-theme](http://download.tuxfamily.org/gericom/README.html) |
+| openSUSE      | Konstantin Voinov | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
+| openSUSE      | Matthias Eliasson | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
+| Solus         | Joshua Strobl     | `sudo eopkg install papirus-icon-theme` |
+| Ubuntu 18.04+ | Yangfl            | `sudo apt install papirus-icon-theme` |
 
 **NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
 
@@ -132,7 +152,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 - Cinnamon 16px
 
 
-![hardcode-tray](http://i.imgur.com/6hFm6aj.png)
+![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
 
 **BUG on KDE with libappindicator**: Some applications have wrong rendering by default on KDE. For solve this run application with Unity environment option.
 
@@ -140,7 +160,6 @@ For example:
 
 ```
 XDG_CURRENT_DESKTOP=Unity wire-desktop
-
 ```
 
 See more info [here](https://bugs.kde.org/show_bug.cgi?id=366062) and please vote for this bug.
@@ -152,7 +171,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 - Papirus Dark - for dark plasma theme & color scheme
 - Papirus Light - for light plasma theme & color scheme
 
-![kde-color-scheme](http://i.imgur.com/oM1qhQH.png)
+![kde-color-scheme](https://i.imgur.com/oM1qhQH.png)
 
 **NOTE:** Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color manually.
 
@@ -178,47 +197,54 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 
 ## Recommendations
 
-- For GTK, better use icons alongside GTK theme [Materia](https://github.com/nana-4/materia-theme) and [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme) or [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme)
-- For KDE, better use alongside [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) and [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) or [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
+- Recommended use Papirus icons alongside one of the following GTK themes:
+  - [Adapta theme](https://github.com/adapta-project/adapta-gtk-theme)
+  - [Arc theme](https://github.com/NicoHood/arc-theme)
+  - [Materia theme](https://github.com/nana-4/materia-theme)
+- For KDE, our recommendation is:
+  - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
+  - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
+  - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde)
 
 ## Manual fixes
 
 <details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want to use Papirus icon theme with [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme) we recommend fix color icons on panel:
+For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/NicoHood/arc-theme) we recommend fix color icons on panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
 ```
 
-![Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
+![Cinnamon Arc-Dark theme fix](https://i.imgur.com/XXejgtD.png)
 
 To deal with blurred panel icons, increase the panel size up to 30px in `Systems Settings` → `Panel` (see [screenshot](https://i.imgur.com/oToRBYv.png)).
 </details>
 
 <details>
-<summary>For GNOME 3 users</summary>
+<summary>For GNOME Shell users</summary>
 
-For GNOME users who want use Papirus icon theme with [Arc Themes](https://github.com/horst3180/arc-theme) / [ new upstream Arc Themes](https://github.com/NicoHood/arc-theme), we recommend change icons color for panel:
+For GNOME users who want use Papirus icon theme with [Arc theme](https://github.com/NicoHood/arc-theme), we recommend change icons color for panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
 ```
 
-Translucent panel on Adapta Nokto Gnome Shell Theme:
+Translucent panel on Adapta Nokto Gnome Shell theme:
 
 ```
 sudo sed -i.orig '/panel:overview/ s/rgba(19, 25, 28, 0.01)/rgba(19, 25, 28, 0.7)/g' /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
 ```
 
-Also, we recommend using [AppIndicator/KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension for appindicator-apps, because patched version of sni-qt for hardcode-tray doesn't work without that on gnome-shell.
+Also, we recommend install the following extensions:
 
-And:
-- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [(K)StatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) **¹** — This extension integrates AppIndicators. The patched version of [sni-qt](https://github.com/bilelmoussaoui/sni-qt) for [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) doesn't work without it.
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) **¹**
 - [No Symbolic Icons](https://extensions.gnome.org/extension/1304/no-symbolic-icons/)
 - [Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
 
+**¹** On Ubuntu 18.04+ it is pre-installed.
 </details>
 
 <details>
@@ -255,7 +281,7 @@ bubble-close-on-click = 1
 bubble-as-desktop-bg = 0
 ```
 
-![notify-fix](http://i.imgur.com/hjTpvca.png)
+![notify-fix](https://i.imgur.com/hjTpvca.png)
 
 Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
 </details>
@@ -269,7 +295,7 @@ Here are a few recommendations for Xfce users.
 
 Go to `Edit` → `Preferences...`. Click on `Side Pane` tab. Under `Side Pane`, look for `Icon Size` and set to `Very Small`.
 
-![thunar-prefecences](http://i.imgur.com/Iu1TIEa.png)
+![thunar-prefecences](https://i.imgur.com/Iu1TIEa.png)
 
 #### Notification Area
 
@@ -278,12 +304,13 @@ Go to `Settings Manager` → `Panel` → `Items` tab. Select `Notification Area`
 - Set `Maximum icon size (px)` to `24`
 - Uncheck `Show frame`
 
-![xfce4-notification-area](http://i.imgur.com/MopCZBZ.png)
+![xfce4-notification-area](https://i.imgur.com/MopCZBZ.png)
 </details>
 
 <details>
 <summary>For elementary/Pantheon users</summary>
-- With light wallpaper we recommend use non-transparency wingpanel:
+
+With light wallpaper, we recommend disable `use-transparency` option on wingpanel:
 
 ```
 gsettings set org.pantheon.desktop.wingpanel use-transparency false
@@ -300,7 +327,7 @@ gsettings set org.pantheon.desktop.wingpanel use-transparency false
 
 **NOTE**: We do NOT support Windows/Wine/Crossover or other NOT native Linux-apps. This also applies to discontinued projects!!
 
-## Contribute
+## Contributing
 
 We welcome user contributions. If you don't know where to start, we've compiled a list of things we would like to see in your pull request:
 
@@ -328,4 +355,4 @@ You can support this open source project by making a voluntary payment:
 
 ## License
 
-Papirus icon theme is licensed under GNU GPL v3.0
+Papirus icon theme distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
