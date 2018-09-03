@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect width="15" height="15" x="-15" y="-15" rx=".75" ry=".75" transform="matrix(0,-1,-1,0,0,0)" style="fill:#84c22e"/>
- <rect style="opacity:0.4;fill:#ffffff" width="1" height="15" x="7" y="0"/>
- <rect width="1" height="15" x="7" y="-15" transform="rotate(90)" style="opacity:0.4;fill:#ffffff"/>
- <rect style="fill:#ffffff" width="9" height="7" x="3" y="4" rx=".75" ry=".778"/>
- <rect width="4" height="3" x="3" y="3" rx=".8" ry=".857" style="fill:#ffffff"/>
+ <path style="fill:#84c22e" d="M 0.80078125 0 C 0.35758125 0 1.4802974e-16 0.35758125 0 0.80078125 L 0 7 L 7 7 L 7 0 L 0.80078125 0 z M 9 0 L 9 7 L 16 7 L 16 0.80078125 C 16 0.35758125 15.642419 1.4802974e-16 15.199219 0 L 9 0 z M 0 9 L 0 15.199219 C 0 15.642419 0.35758125 16 0.80078125 16 L 7 16 L 7 9 L 0 9 z M 9 9 L 9 16 L 15.199219 16 C 15.642419 16 16 15.642419 16 15.199219 L 16 9 L 9 9 z"/>
+ <rect style="fill:#ffffff" width="10" height="8" x="3" y="4" rx=".833" ry=".889"/>
+ <rect width="4" height="4" x="3" y="2" rx=".96" ry="1" style="fill:#ffffff"/>
 </svg>
