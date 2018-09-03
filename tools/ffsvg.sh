@@ -33,8 +33,9 @@ _run_helpers() {
 	else
 		cat <<-'EOF'
 
-		You should have installed svgo or scour to use this script.
+		You have to install svgo or scour to use this script:
 
+		sudo npm install -g svgo
 		sudo apt-get install python-scour
 
 		EOF

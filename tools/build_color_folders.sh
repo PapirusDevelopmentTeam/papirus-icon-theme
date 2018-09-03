@@ -30,10 +30,11 @@
 
 set -eo pipefail
 
-SCRIPT_DIR="$(dirname "$0")"
+SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 TARGET_DIR="$SCRIPT_DIR/../Papirus"
 
 DEFAULT_COLOR="blue"
+DEFAULT_ADAPTA_COLOR="cyan"
 SIZES_REGEX="(16x16|22x22|24x24|32x32|48x48|64x64)"
 COLOR_SIZES_REGEX="(22x22|24x24|32x32|48x48|64x64)"
 FILES_REGEX="(folder|user)-"
@@ -65,19 +66,18 @@ COLORS=(
 )
 
 
-msg() {
+headline() {
 	printf "%b => %b%s\n" "\e[1;32m" "\e[0m" "$*" >&2
-	# printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 }
 
-warn() {
+msg() {
 	printf "%b [+] %b%s\n" "\e[1;33m" "\e[0m" "$*" >&2
 }
 
 recolor() {
 	# args: <old colors> <new colors> <path to file>
-	declare -a old_colors=( $1 )
-	declare -a new_colors=( $2 )
+	IFS=" " read -ra old_colors <<< "$1"
+	IFS=" " read -ra new_colors <<< "$2"
 	local filepath="$3"
 
 	[ -f "$filepath" ] || exit 1
@@ -87,8 +87,7 @@ recolor() {
 	done
 }
 
-
-msg "PHASE 1: Delete color suffix from monochrome icons ..."
+headline "PHASE 1: Delete color suffix from monochrome icons ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -regextype posix-extended \
 	-regex ".*/16x16/places/${FILES_REGEX}${DEFAULT_COLOR}-.*" \
@@ -96,12 +95,12 @@ find "$TARGET_DIR" -regextype posix-extended \
 
 	new_file="${file/-$DEFAULT_COLOR-/-}"
 
-	warn "'$file' is renamed to '$new_file'"
+	msg "'$file' is renamed to '$new_file'"
 	mv -f "$file" "$new_file"
 done
 
 
-msg "PHASE 2: Create missing symlinks ..."
+headline "PHASE 2: Create missing symlinks ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
 	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
@@ -112,12 +111,12 @@ find "$TARGET_DIR" -type f -regextype posix-extended \
 
 	[ -e "$symlink" ] && continue
 
-	warn "Creating missing symlink '$symlink' ..."
+	msg "Creating missing symlink '$symlink' ..."
 	ln -sf "$target" "$symlink"
 done
 
 
-msg "PHASE 3: Generate color folders ..."
+headline "PHASE 3: Generate color folders ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
 	-regex ".*/${SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
@@ -134,7 +133,7 @@ find "$TARGET_DIR" -type f -regextype posix-extended \
 done
 
 
-msg "PHASE 4: Create symlinks for Folder Color v0.0.80 and newer ..."
+headline "PHASE 4: Create symlinks for Folder Color v0.0.80 and newer ..."
 # -----------------------------------------------------------------------------
 # Icons mapping
 FOLDER_COLOR_MAP=(
@@ -148,7 +147,7 @@ FOLDER_COLOR_MAP=(
 
 for mask in "${FOLDER_COLOR_MAP[@]}"; do
 	for color in "${!COLORS[@]}"; do
-		icon_mask=( $mask )
+		IFS=" " read -ra icon_mask <<< "$mask"
 		folder_color_icon="${icon_mask[0]/COLOR/$color}"
 		icon="${icon_mask[1]/COLOR/$color}"
 
@@ -165,7 +164,7 @@ for mask in "${FOLDER_COLOR_MAP[@]}"; do
 done
 
 
-msg "PHASE 5: Copy color folder icons to derivative themes ..."
+headline "PHASE 5: Copy color folder icons to derivative themes ..."
 # -----------------------------------------------------------------------------
 COLOR_NAMES="${!COLORS[*]}"  # get a string of colors
 COLOR_REGEX="(${COLOR_NAMES// /|})"  # convert the list of colors to regex
@@ -187,7 +186,7 @@ find "$TARGET_DIR" -regextype posix-extended \
 done
 
 
-msg "PHASE 6: Copy places icons to Pairus-Adapta ..."
+headline "PHASE 6: Copy places icons to Pairus-Adapta ..."
 # -----------------------------------------------------------------------------
 for size in 22x22 24x24 32x32 48x48 64x64; do
 	rsync -a --delete "$TARGET_DIR/$size/places" \
@@ -195,17 +194,14 @@ for size in 22x22 24x24 32x32 48x48 64x64; do
 done
 
 
-msg "PHASE 7: Remap symlinks for Papirus-Adapta ..."
+headline "PHASE 7: Remap symlinks for Papirus-Adapta ..."
 # -----------------------------------------------------------------------------
-ADAPTA_COLOR="cyan"
-
 find "$TARGET_DIR/../Papirus-Adapta" -type f -regextype posix-extended \
-	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${ADAPTA_COLOR}[-\.].*" \
+	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_ADAPTA_COLOR}[-\.].*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	target="$(basename "$file")"
-	symlink="${file/-$ADAPTA_COLOR/}"
+	symlink="${file/-$DEFAULT_ADAPTA_COLOR/}"
 
-	# warn "Creating missing symlink '$symlink' ..."
 	ln -sf "$target" "$symlink"
 done

@@ -5,11 +5,12 @@
 
 set -eo pipefail
 
-readonly SCRIPT_DIR="$(dirname "$0")"
+readonly SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 readonly SOURCE_DIR="$SCRIPT_DIR/Papirus"
-readonly ROOT_DIR="$SCRIPT_DIR/../.."
-declare -a THEMES=(
-	$(find "$ROOT_DIR" -type f -name 'index.theme' -exec dirname '{}' \;)
+readonly THEMES_DIR="$SCRIPT_DIR/../.."
+
+mapfile -t THEMES < <(
+	find "$THEMES_DIR" -type f -name 'index.theme' -exec dirname '{}' +
 )
 
 for theme in "${THEMES[@]##*/}"; do

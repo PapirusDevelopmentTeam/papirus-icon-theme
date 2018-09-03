@@ -4,7 +4,7 @@
 
 set -eo pipefail
 
-SCRIPT_DIR="$(dirname "$0")"
+readonly SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 
 find "$SCRIPT_DIR" -mindepth 2 -name '*.svg' -print
 
