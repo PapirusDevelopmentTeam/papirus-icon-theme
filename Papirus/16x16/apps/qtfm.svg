@@ -1,1 +1,7 @@
-system-file-manager.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect width="15" height="15" x="-15" y="-15" rx=".75" ry=".75" transform="matrix(0,-1,-1,0,0,0)" style="fill:#84c22e"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="1" height="15" x="7" y="0"/>
+ <rect width="1" height="15" x="7" y="-15" transform="rotate(90)" style="opacity:0.4;fill:#ffffff"/>
+ <rect style="fill:#ffffff" width="9" height="7" x="3" y="4" rx=".75" ry=".778"/>
+ <rect width="4" height="3" x="3" y="3" rx=".8" ry=".857" style="fill:#ffffff"/>
+</svg>
