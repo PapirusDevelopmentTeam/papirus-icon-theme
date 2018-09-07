@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="M 16,42 12,38 H 7 C 5.338,38 4,36.662 4,35 V 11 C 4,9.338 5.338,8 7,8 H 41 C 42.662,8 44,9.338 44,11 V 35 C 44,36.662 42.662,38 41,38 H 36 L 32,42 Z"/>
+ <path style="fill:#afafb1" d="M 16,41 12,37 H 7 C 5.338,37 4,35.662 4,34 V 10 C 4,8.338 5.338,7 7,7 H 41 C 42.662,7 44,8.338 44,10 V 34 C 44,35.662 42.662,37 41,37 H 36 L 32,41 Z"/>
+ <path style="opacity:0.6" d="M 20,35 15.5,31 H 10 V 13 H 38 V 31 H 32 L 28,35 Z"/>
+ <g style="fill:#f8c44e" transform="scale(1,-1)">
+  <rect width="2" height="3" x="15" y="-16"/>
+  <rect width="2" height="3" x="19" y="-16"/>
+  <rect width="2" height="3" x="23" y="-16"/>
+  <rect width="2" height="3" x="27" y="-16"/>
+  <rect width="2" height="3" x="31" y="-16"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.2" d="M 7 7 C 5.338 7 4 8.338 4 10 L 4 11 C 4 9.338 5.338 8 7 8 L 41 8 C 42.662 8 44 9.338 44 11 L 44 10 C 44 8.338 42.662 7 41 7 L 7 7 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 10,31 V 32 H 15.5 L 20,36 H 28 L 32,32 H 38 V 31 H 32 L 28,35 H 20 L 15.5,31 Z"/>
+ <circle cx="37" cy="35" r="10" style="fill:#db3c30"/>
+ <path d="M 46.979,35.414 A 10,10 0 0 1 37,45 10,10 0 0 1 27.021,35.586 10,10 0 0 0 27,36 10,10 0 0 0 37,46 10,10 0 0 0 47,36 10,10 0 0 0 46.979,35.414 Z" style="opacity:0.2"/>
+ <g transform="matrix(0.70711,-0.70711,0.70711,0.70711,-12.497,33.846)" style="fill:#ffffff">
+  <rect width="12" height="2" x="28" y="35"/>
+  <rect width="12" height="2" x="-42" y="33" transform="rotate(-90)"/>
+ </g>
+</svg>

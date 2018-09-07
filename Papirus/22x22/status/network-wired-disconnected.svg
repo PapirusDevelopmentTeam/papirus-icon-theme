@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <path style="opacity:0.2" d="m 6,19.5 -2,-2 H 1.5 C 0.669,17.5 0,16.831 0,16 V 4 C 0,3.169 0.669,2.5 1.5,2.5 h 17 C 19.331,2.5 20,3.169 20,4 v 12 c 0,0.831 -0.669,1.5 -1.5,1.5 H 16 l -2,2 z"/>
+ <path style="fill:#afafb1" d="M 6,19 4,17 H 1.5 C 0.669,17 0,16.331 0,15.5 V 3.5 C 0,2.669 0.669,2 1.5,2 h 17 C 19.331,2 20,2.669 20,3.5 v 12 C 20,16.331 19.331,17 18.5,17 H 16 l -2,2 z"/>
+ <path style="opacity:0.6" d="M 8,16 5.75,14 H 3 V 5 h 14 v 9 h -3 l -2,2 z"/>
+ <g style="fill:#f8c44e" transform="matrix(1,0,0,-1,-2,-2)">
+  <rect width="1" height="2" x="8" y="-9"/>
+  <rect width="1" height="2" x="10" y="-9"/>
+  <rect width="1" height="2" x="12" y="-9"/>
+  <rect width="1" height="2" x="14" y="-9"/>
+  <rect width="1" height="2" x="16" y="-9"/>
+ </g>
+ <path style="opacity:0.2;fill:#ffffff" d="M 1.5,2 C 0.669,2 0,2.669 0,3.5 V 4 C 0,3.169 0.669,2.5 1.5,2.5 h 17 C 19.331,2.5 20,3.169 20,4 V 3.5 C 20,2.669 19.331,2 18.5,2 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 3,14 v 0.5 h 2.75 l 2.25,2 h 4 l 2,-2 h 3 V 14 h -3 l -2,2 H 8 L 5.75,14 Z"/>
+ <circle cx="17" cy="16" r="5" style="fill:#db3c30"/>
+ <path d="M 21.9895,16.207 A 5,5 0 0 1 17,21 5,5 0 0 1 12.0105,16.293 5,5 0 0 0 12,16.5 a 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -0.0105,-0.293 z" style="opacity:0.2"/>
+ <g transform="matrix(0.353555,-0.353555,0.353555,0.353555,-7.7485,15.423)" style="fill:#ffffff">
+  <rect width="12" height="2" x="28" y="35"/>
+  <rect width="12" height="2" x="-42" y="33" transform="rotate(-90)"/>
+ </g>
+</svg>
