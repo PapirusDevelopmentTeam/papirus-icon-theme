@@ -15,21 +15,23 @@ prepare:
 put:
 	@bash ./put-into-theme.sh
 
-tests:
-	# >>> TEST 1: Searching for icons with renderer issues
+test:
+	# >>> Searching for icons with renderer issues
 	-@LC_ALL=C egrep -rl --include='*.svg' \
 		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
 		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
 		$(THEMES) || true
-	# >>> TEST 2: Searching for icons with bitmap images
+	# >>> Searching for icons with bitmap images
 	-@LC_ALL=C egrep -rl --include='*.svg' \
 		-e '<image[ ]' \
 		$(THEMES) || true
-	# >>> TEST 3: Searching for broken symlinks
+	# >>> Searching for broken symlinks
 	-@find $(THEMES) -xtype l -print
-	# --- TESTS COMPLETED ---
+	# >>> Searching for invalid filenames
+	-@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print
+	# --- TEST COMPLETED ---
 
-.PHONY: all clean convert prepare put tests
+.PHONY: all clean convert prepare put test
 
 # allows to run goals from the main Makefile
 .PHONY: install uninstall dist release undo_release
