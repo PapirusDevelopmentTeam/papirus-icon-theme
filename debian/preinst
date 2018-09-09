@@ -33,6 +33,12 @@ rm_dir() {
 	rm -rf "$1"
 }
 
+rm_file() {
+	test -f "$1" || return 0  # is a file
+	echo "Removing file '$1'..." >&2
+	rm -f "$1"
+}
+
 rm_symlink() {
 	test -L "$1" || return 0  # is a symlink
 	echo "Removing symlink '$1'..." >&2
@@ -73,6 +79,21 @@ if dpkg --compare-versions "$PREV_VERSION" lt "20171004"; then
 	rm_symlink /usr/share/icons/Papirus-Light/16x16/places
 	rm_symlink /usr/share/icons/Papirus-Light/22x22/actions
 	rm_symlink /usr/share/icons/Papirus-Light/24x24/actions
+fi
+
+# Broken commit: PapirusDevelopmentTeam/papirus-icon-theme@05bdd26f6
+# https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/1462
+if dpkg --compare-versions "$PREV_VERSION" lt "20180909"; then
+	rm_file "/usr/share/icons/Papirus-Adapta/16x16/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus-Adapta/22x22/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus-Adapta/24x24/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus-Light/16x16/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus-Light/22x22/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus-Light/24x24/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus/16x16/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus/22x22/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/Papirus/24x24/panel/network-cellular-connected .svg"
+	rm_file "/usr/share/icons/ePapirus/24x24/panel/network-cellular-connected .svg"
 fi
 
 # dh_installdeb will replace this with shell code automatically
