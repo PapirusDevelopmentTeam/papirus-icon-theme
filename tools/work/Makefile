@@ -31,7 +31,13 @@ test:
 	-@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print
 	# --- TEST COMPLETED ---
 
-.PHONY: all clean convert prepare put test
+validate:
+	# >>> Validate SVG files (the process takes a long time)
+	-@find $(THEMES) -type f -name '*.svg' \
+		-exec xmlstarlet validate --list-bad '{}' \;
+	# --- VALIDATE COMPLETED ---
+
+.PHONY: all clean convert prepare put test validate
 
 # allows to run goals from the main Makefile
 .PHONY: install uninstall dist release undo_release
