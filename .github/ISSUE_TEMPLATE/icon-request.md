@@ -5,9 +5,10 @@ about: Request an icon to add
 ---
 
 <!--
-Before creating a new issue make sure that:
+Before creating a new issue ensure that:
 
 - The icon request is not a duplicate
+- The app is not installed by snap. The snap packages have hardcoded paths to icons.
 - The app is not a Windows application running under Wine/Crossover
 - The title contains application or icon name (Ex: [Icon request] Boostnote)
 
