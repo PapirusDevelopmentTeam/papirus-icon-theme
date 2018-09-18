@@ -28,6 +28,7 @@ test:
 	# >>> Searching for broken symlinks
 	-@find $(THEMES) -xtype l -print
 	# >>> Searching for invalid filenames
+	# https://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html#guidelines
 	-@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print
 	# --- TEST COMPLETED ---
 
