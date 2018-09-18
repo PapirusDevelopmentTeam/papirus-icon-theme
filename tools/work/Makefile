@@ -16,7 +16,7 @@ put:
 	@bash ./put-into-theme.sh
 
 test:
-	# >>> Searching for icons with renderer issues
+	# >>> Searching for icons with render issues
 	-@LC_ALL=C egrep -rl --include='*.svg' \
 		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
 		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
@@ -28,7 +28,6 @@ test:
 	# >>> Searching for broken symlinks
 	-@find $(THEMES) -xtype l -print
 	# >>> Searching for invalid filenames
-	# https://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html#guidelines
 	-@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print
 	# --- TEST COMPLETED ---
 
