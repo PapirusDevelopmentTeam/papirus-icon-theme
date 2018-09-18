@@ -19,6 +19,7 @@ usage() {
 	    [ap]ps
 	    [d]evices
 	    [e]mblems
+	    [em]otes
 	    [m]imetypes
 	    [pa]nel
 	    [pl]aces
@@ -69,6 +70,10 @@ _get_context() {
 			;;
 		emblems|e*)
 			CONTEXT="emblems"
+			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
+			;;
+		emotes|em*)
+			CONTEXT="emotes"
 			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
 			;;
 		mimetypes|m*)

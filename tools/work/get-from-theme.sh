@@ -13,6 +13,7 @@ case "$1" in
 	apps|ap*)     CONTEXT_DIR="/apps/"      ;;
 	devices|d*)   CONTEXT_DIR="/devices/"   ;;
 	emblems|e*)   CONTEXT_DIR="/emblems/"   ;;
+    emotes|em*)   CONTEXT_DIR="/emotes/"    ;;
 	mimetypes|m*) CONTEXT_DIR="/mimetypes/" ;;
 	panel|pa*)    CONTEXT_DIR="/panel/"     ;;
 	places|pl*)   CONTEXT_DIR="/places/"    ;;
@@ -30,6 +31,7 @@ case "$1" in
 		    [ap]ps
 		    [d]evices
 		    [e]mblems
+		    [em]otes
 		    [m]imetypes
 		    [pa]nel
 		    [pl]aces
