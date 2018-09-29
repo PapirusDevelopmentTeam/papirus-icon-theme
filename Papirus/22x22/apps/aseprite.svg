@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect width="2" height="1" x="19" y="5" style="opacity:0.2"/>
+ <rect width="2" height="1" x="17" y="3" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="2" height="1" x="3" y="3"/>
+ <rect style="fill:#ffffff" width="16" height="16" x="3" y="3"/>
+ <path style="opacity:0.2" d="m 1,17.5 v 2 h 2 v 2 h 2 12 2 v -2 h 2 v -2 z m 18,0 h -2 v 2 H 5 v -2 H 3 Z"/>
+ <path style="fill:#5c3e52" d="M 5,1 V 3 H 17 V 1 Z m 12,2 v 2 h 2 V 3 Z m 2,2 v 12 h 2 V 5 Z m 0,12 h -2 v 2 h 2 z m -2,2 H 5 v 2 H 17 Z M 5,19 V 17 H 3 v 2 z M 3,17 V 5 H 1 V 17 Z M 3,5 H 5 V 3 H 3 Z m 3,2 v 6 H 8 V 7 Z m 8,0 v 6 h 2 V 7 Z"/>
+ <path style="fill:#6d8292" d="m 3,15 v 2 h 2 v 2 h 12 v -2 h 2 v -2 h -2 v 1 H 5 v -1 z"/>
+ <path style="fill:#735d6c" d="M 3,1 V 3 H 5 V 1 Z M 3,3 H 1 V 5 H 3 Z M 17,1 v 2 h 2 V 1 Z m 2,2 v 2 h 2 V 3 Z M 1,17 v 2 h 2 v -2 z m 2,2 v 2 h 2 v -2 z m 16,-2 v 2 h 2 v -2 z m 0,2 h -2 v 2 h 2 z"/>
+ <rect style="opacity:0.2" width="2" height=".5" x="1" y="5"/>
+ <rect width="2" height=".5" x="3" y="3" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="2" height=".5" x="17" y="3"/>
+ <rect width="2" height=".5" x="19" y="5" style="opacity:0.2"/>
+ <rect width="2" height=".5" x="3" y="17" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="2" height=".5" x="17" y="17"/>
+ <rect width="12" height=".5" x="5" y="19" style="opacity:0.2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 1,17 v 0.5 H 3 V 17 Z m 18,0 v 0.5 h 2 V 17 Z M 3,19 v 0.5 H 5 V 19 Z m 14,0 v 0.5 h 2 V 19 Z"/>
+ <path style="opacity:0.1" d="m 6,13 h 2 v 0.5 H 6 Z"/>
+ <path style="opacity:0.1" d="m 14,13 h 2 v 0.5 h -2 z"/>
+ <rect style="opacity:0.1;fill:#ffffff" width="12" height=".5" x="5" y="1"/>
+ <rect style="opacity:0.2" width="2" height=".5" x="3" y="15"/>
+ <rect width="2" height=".5" x="17" y="15" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="12" height=".5" x="5" y="16"/>
+</svg>
