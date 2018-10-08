@@ -13,11 +13,9 @@ Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon
 
 Papirus icon theme is available in six variants:
 
- - Papirus (for Arc / Arc Darker)
- - Papirus Dark (for Arc Dark)
- - Papirus Light (light theme with Breeze colors)
- - Papirus Adapta (for Adapta)
- - Papirus Adapta Nokto (for Adapta Nokto)
+ - Papirus
+ - Papirus Dark
+ - Papirus Light
  - ePapirus (for elementary OS and Pantheon Desktop)
 
 ## Contents
