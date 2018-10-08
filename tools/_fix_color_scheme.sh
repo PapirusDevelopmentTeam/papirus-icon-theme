@@ -50,15 +50,6 @@ add_class_e() {
 		"$@"
 }
 
-# Papirus-Adapta and Papirus-Adapta-Nokto
-add_class_adapta() {
-	# add the class if a value matches:
-	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):(#414c52|#cfd8dc)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#00bcd4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
-		"$@"
-}
-
 # Symbolic
 add_class_symbolic() {
 	# add the class if a value matches and class="warning" not exists:
@@ -91,9 +82,6 @@ for file in "$@"; do
 		if grep -q -i 'color:\(#6e6e6e\|#ffffff\)' "$file"; then
 			# it's ePapirus
 			add_class_e "$file"
-		elif  grep -q -i 'color:\(#414c52\|#cfd8dc\)' "$file"; then
-			# it's Papirus-Adapta or Papirus-Adapta-Nokto
-			add_class_adapta "$file"
 		elif  grep -q -i 'color:\(#31363b\|#3daee9\)' "$file"; then
 			# it's Papirus-Light
 			add_class_light "$file"
