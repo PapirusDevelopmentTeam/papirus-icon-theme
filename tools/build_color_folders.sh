@@ -170,7 +170,6 @@ COLOR_REGEX="(${COLOR_NAMES// /|})"  # convert the list of colors to regex
 DERIVATIVES=(
 	ePapirus
 	Papirus-Dark
-	Papirus-Light
 )  # array of derivative icon themes with 16x16 places
 
 find "$TARGET_DIR" -regextype posix-extended \
