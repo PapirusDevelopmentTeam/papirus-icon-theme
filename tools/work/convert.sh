@@ -54,84 +54,8 @@ for theme in "${THEMES[@]##*/}"; do
 
 			# convert color scheme
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#6e6e6e/gI' \
-				-e 's/#d3dae3/#ffffff/gI' '{}' \;
-			;;
-		Papirus-Adapta)
-			# copy files and symlinks
-			find "$SOURCE_DIR" -maxdepth 1 -type d | while read -r dir; do
-				context_dir=$(basename "$dir")
-
-				case "$context_dir" in
-					actions)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-					devices)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-					panel)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-					places)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -print0 -o \
-							-name '*@32x32.svg' -print0 -o \
-							-name '*@48x48.svg' -print0 -o \
-							-name '*@64x64.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-				esac
-			done
-
-			# convert color scheme
-			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#414c52/gI' \
-				-e 's/#d3dae3/#cfd8dc/gI' \
-				-e 's/#5294e2/#00bcd4/gI' '{}' \;
-			;;
-		Papirus-Adapta-Nokto)
-			# copy files and symlinks
-			find "$SOURCE_DIR" -maxdepth 1 -type d | while read -r dir; do
-				context_dir=$(basename "$dir")
-
-				case "$context_dir" in
-					actions)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-					devices|places)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-				esac
-			done
-
-			# convert color scheme
-			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#cfd8dc/gI' \
-				-e 's/#5294e2/#00bcd4/gI' '{}' \;
+				-e 's/#444444/#6e6e6e/gI' \
+				-e 's/#dfdfdf/#ffffff/gI' '{}' \;
 			;;
 		Papirus-Dark)
 			# copy files and symlinks
@@ -173,7 +97,7 @@ for theme in "${THEMES[@]##*/}"; do
 
 			# convert color scheme
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#d3dae3/gI' '{}' \;
+				-e 's/#444444/#dfdfdf/gI' '{}' \;
 			;;
 		Papirus-Light)
 			# copy files and symlinks
@@ -181,25 +105,11 @@ for theme in "${THEMES[@]##*/}"; do
 				context_dir=$(basename "$dir")
 
 				case "$context_dir" in
-					actions)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
 					animations)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
-								cp -afv '{}' "$theme_dir/$context_dir"
-						;;
-					devices|places)
-						mkdir -p "$theme_dir/$context_dir"
-						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -print0 | xargs -0 -i \
 								cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 					panel)
@@ -215,9 +125,7 @@ for theme in "${THEMES[@]##*/}"; do
 
 			# convert color scheme
 			find "$theme_dir" -type f -name '*.svg' -exec sed -i \
-				-e 's/#5c616c/#31363b/gI' \
-				-e 's/#5294e2/#3daee9/gI' \
-				-e 's/#d3dae3/#31363b/gI' '{}' \;
+				-e 's/#dfdfdf/#444444/gI' '{}' \;
 			;;
 		*)
 			continue

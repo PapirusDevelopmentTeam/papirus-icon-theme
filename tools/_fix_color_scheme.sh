@@ -27,17 +27,8 @@ set -e
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):(#5c616c|#d3dae3)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
-		"$@"
-}
-
-# Papirus-Light
-add_class_light() {
-	# add the class if a value matches:
-	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):#31363b/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#3daee9/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -47,15 +38,6 @@ add_class_e() {
 	sed -i -r \
 		-e '/([^-]color|fill|stop-color|stroke):(#6e6e6e|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
-		"$@"
-}
-
-# Papirus-Adapta and Papirus-Adapta-Nokto
-add_class_adapta() {
-	# add the class if a value matches:
-	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):(#414c52|#cfd8dc)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#00bcd4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -91,14 +73,8 @@ for file in "$@"; do
 		if grep -q -i 'color:\(#6e6e6e\|#ffffff\)' "$file"; then
 			# it's ePapirus
 			add_class_e "$file"
-		elif  grep -q -i 'color:\(#414c52\|#cfd8dc\)' "$file"; then
-			# it's Papirus-Adapta or Papirus-Adapta-Nokto
-			add_class_adapta "$file"
-		elif  grep -q -i 'color:\(#31363b\|#3daee9\)' "$file"; then
-			# it's Papirus-Light
-			add_class_light "$file"
-		elif  grep -q -i 'color:\(#5c616c\|#d3dae3\)' "$file"; then
-			# it's Papirus or Papirus-Dark
+		elif  grep -q -i 'color:\(#444444\|#dfdfdf\)' "$file"; then
+			# it's Papirus, Papirus-Dark or Papirus-Light
 			add_class "$file"
 		else
 			echo "'$file' has an unknown CSS stylesheet!" >&2

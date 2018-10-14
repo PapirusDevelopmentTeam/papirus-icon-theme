@@ -5,7 +5,7 @@ PREFIX ?= /usr
 IGNORE ?=
 
 ifeq ($(strip $(THEMES)),)
-	THEMES ?= ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Dark Papirus-Light
+	THEMES ?= ePapirus Papirus Papirus-Dark Papirus-Light
 endif
 
 # excludes IGNORE from THEMES list

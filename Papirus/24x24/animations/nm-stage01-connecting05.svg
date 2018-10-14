@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
   <linearGradient id="linearGradient3605" x1="7" x2="19" y1="12" y2="5" gradientTransform="matrix(.72739 .68622 .68622 -.72739 -4.9634 12.494)" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#d3dae3" stop-opacity=".5"/>
-   <stop offset="1" stop-color="#d3dae3" stop-opacity="0"/>
+   <stop offset="0" stop-color="#dfdfdf" stop-opacity=".5"/>
+   <stop offset="1" stop-color="#dfdfdf" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="linearGradient3611" x1="7" x2="17" y1="12" y2="12" gradientTransform="matrix(-.72739 -.68622 -.68622 .72739 28.963 11.506)" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#d3dae3"/>
-   <stop offset="1" stop-color="#d3dae3" stop-opacity=".5"/>
+   <stop offset="0" stop-color="#dfdfdf"/>
+   <stop offset="1" stop-color="#dfdfdf" stop-opacity=".5"/>
   </linearGradient>
  </defs>
  <path fill="url(#linearGradient3611)" d="m17.092 16.804c2.653-2.813 2.524-7.2428-0.288-9.8957-2.813-2.653-7.2428-2.524-9.8957 0.2881l1.4548 1.3725c1.8949-2.0086 5.0599-2.1008 7.0679-0.2058 2.0086 1.8949 2.1008 5.0595 0.20582 7.0681-0.89209 0.94561 0.56269 2.3181 1.4548 1.3724z"/>
