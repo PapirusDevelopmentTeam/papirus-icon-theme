@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <rect width="20" height="20" x="-21.5" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="fill:#e4e4e4" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path d="M 7,10.000001 13.75,17.5 H 7 Z" style="opacity:0.1"/>
+ <path style="fill:#a11d21" d="M 7,9.500001 13.75,17 H 7 Z"/>
+ <path d="M 7,10.000001 13.5,2.5000005 7,17.5 Z" style="opacity:0.1"/>
+ <path style="fill:#e02a32" d="M 7,9.500001 13.5,2.0000005 7,17 Z"/>
+ <circle cx="13" cy="11.5" r="2" style="opacity:0.1"/>
+ <circle style="fill:#e02a32" cx="13" cy="11" r="2"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
+</svg>
