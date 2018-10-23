@@ -24,10 +24,10 @@ cat <<- EOF
 
 EOF
 
-DESTDIR="${DESTDIR:-/usr/share/icons}"
-THEMES="${THEMES:-Papirus ePapirus Papirus-Dark Papirus-Light}"
-BRANCH="${BRANCH:-master}"
-uninstall="${uninstall:-false}"
+: "${DESTDIR:=/usr/share/icons}"
+: "${TAG:=master}"
+: "${THEMES:=Papirus ePapirus Papirus-Dark Papirus-Light}"
+: "${uninstall:=false}"
 
 _msg() {
     echo "=>" "$@" >&2
@@ -50,7 +50,7 @@ _sudo() {
 _download() {
     _msg "Getting the latest version from GitHub ..."
     wget -O "$temp_file" \
-        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$BRANCH.tar.gz"
+        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$TAG.tar.gz"
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }
@@ -67,11 +67,12 @@ _install() {
     _sudo mkdir -p "$DESTDIR"
 
     for theme in "$@"; do
+        test -d "$temp_dir/$gh_repo-$TAG/$theme" || continue
         _msg "Installing '$theme' ..."
-        _sudo cp -R "$temp_dir/$gh_repo-$BRANCH/$theme" "$DESTDIR"
+        _sudo cp -R "$temp_dir/$gh_repo-$TAG/$theme" "$DESTDIR"
         _sudo cp -f \
-            "$temp_dir/$gh_repo-$BRANCH/AUTHORS" \
-            "$temp_dir/$gh_repo-$BRANCH/LICENSE" \
+            "$temp_dir/$gh_repo-$TAG/AUTHORS" \
+            "$temp_dir/$gh_repo-$TAG/LICENSE" \
             "$DESTDIR/$theme" || true
         _sudo gtk-update-icon-cache -q "$DESTDIR/$theme" || true
     done
