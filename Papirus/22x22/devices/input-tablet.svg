@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect fill="#333" opacity=".2" width="16" height="20" x="-19.5" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect fill="#4f4f4f" width="16" height="20" x="-19" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path fill="#fff" opacity=".1" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
- <circle fill="#1ea362" cx="16.5" cy="16.5" r="5.5"/>
- <path fill="#fff" d="m14 17.582v1.4182h1.4182l3.582-3.582-1.418-1.418z"/>
- <path fill="#fff" opacity=".1" d="m4 3h-2c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h2z"/>
+ <g transform="translate(-1,-1)">
+  <rect style="opacity:0.2" width="20" height="16" x="2" y="4.5" rx="1" ry="1"/>
+  <rect width="20" height="16" x="2" y="4" rx="1" ry="1" style="fill:#4f4f4f"/>
+  <circle cx="17.5" cy="17.5" r="5.5" style="fill:#1ea362"/>
+  <path d="M 15,18.582 V 20 H 16.418 L 20,16.418 18.582,15 Z" style="fill:#ffffff"/>
+  <path d="M 3,4 C 2.446,4 2,4.446 2,5 V 19 C 2,19.554 2.446,20 3,20 H 5 V 4 Z" style="opacity:0.1;fill:#ffffff"/>
+  <path d="M 3,4 C 2.446,4 2,4.446 2,5 V 5.5 C 2,4.946 2.446,4.5 3,4.5 H 21 C 21.554,4.5 22,4.946 22,5.5 V 5 C 22,4.446 21.554,4 21,4 Z" style="opacity:0.1;fill:#ffffff"/>
+ </g>
 </svg>
