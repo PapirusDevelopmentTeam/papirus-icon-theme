@@ -26,7 +26,7 @@ test:
 		-e '<image[ ]' \
 		$(THEMES) || true
 	# >>> Searching for broken symlinks
-	-@find $(THEMES) -xtype l -print
+	-@find $(THEMES) -xtype l -printf '%p -> %l\n'
 	# >>> Searching for invalid filenames
 	-@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print
 	# --- TEST COMPLETED ---
