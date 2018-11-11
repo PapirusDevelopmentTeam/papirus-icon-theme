@@ -15,27 +15,34 @@ prepare:
 put:
 	@bash ./put-into-theme.sh
 
-test:
+test-render-issues:
 	# >>> Searching for icons with render issues
-	-@LC_ALL=C egrep -rl --include='*.svg' \
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
 		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
-		$(THEMES) || true
+		$(THEMES)
+
+test-bitmap-images:
 	# >>> Searching for icons with bitmap images
-	-@LC_ALL=C egrep -rl --include='*.svg' \
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e '<image[ ]' \
-		$(THEMES) || true
+		$(THEMES)
+
+test-broken-symlinks:
 	# >>> Searching for broken symlinks
-	-@find $(THEMES) -xtype l -printf '%p -> %l\n'
+	@find $(THEMES) -xtype l -printf '%p -> %l\n' -exec false '{}' +
+
+test-invalid-filenames:
 	# >>> Searching for invalid filenames
-	-@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print
-	# --- TEST COMPLETED ---
+	@find $(THEMES) -not -iregex '.*/[-_\.+@a-z0-9]*' -print \
+		-exec false '{}' +
+
+test: test-render-issues test-bitmap-images test-broken-symlinks test-invalid-filenames
 
 validate:
 	# >>> Validate SVG files (the process takes a long time)
-	-@find $(THEMES) -type f -name '*.svg' \
-		-exec xmlstarlet validate --list-bad '{}' \;
-	# --- VALIDATE COMPLETED ---
+	@find $(THEMES) -type f -name '*.svg' \
+		-exec xmlstarlet validate --list-bad '{}' +
 
 .PHONY: all clean convert prepare put test validate
 

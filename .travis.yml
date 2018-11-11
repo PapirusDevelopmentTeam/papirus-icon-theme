@@ -1,0 +1,15 @@
+dist: bionic
+sudo: required
+language: generic
+
+branches:
+    - master
+
+before_install:
+    - sudo apt-get update -y
+
+install:
+    - sudo apt install -y xmlstarlet
+
+script:
+    - make -k -C ./tools/work test validate
