@@ -5,11 +5,10 @@ language: generic
 branches:
     - master
 
-before_install:
-    - sudo apt-get update -y
-
-install:
-    - sudo apt-get install -y xmlstarlet
+addons:
+  apt:
+    packages:
+      - xmlstarlet
 
 script:
     - make -k -C ./tools/work test validate
