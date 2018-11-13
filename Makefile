@@ -42,6 +42,52 @@ undo_release: _get_version
 
 .PHONY: $(ICON_THEMES) all install uninstall _get_version dist release undo_release
 
+# TESTS
+.PHONY: test
+test: test_short
+
+.PHONY: test-all
+test-all: test_short test_long
+
+.PHONY: test_short
+test_short: test_renderer test_svg_elems test_symlinks test_filenames
+
+.PHONY: test_long
+test_long: test_xml_struct
+
+.PHONY: test_renderer
+test_renderer:
+	# >>> Searching for icons with renderer bugs
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
+		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
+		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
+		$(ICON_THEMES)
+
+.PHONY: test_svg_elems
+test_svg_elems:
+	# >>> Searching for icons with embedded objects
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
+		-e '<image[ ]' \
+		-e '<object[ ]' \
+		$(ICON_THEMES)
+
+.PHONY: test_symlinks
+test_symlinks:
+	# >>> Searching for broken symlinks
+	@find $(ICON_THEMES) -xtype l -printf '%p -> %l\n' -exec false '{}' +
+
+.PHONY: test_filenames
+test_filenames:
+	# >>> Searching for invalid filenames
+	@find $(ICON_THEMES) -not -iregex '[-_/\.+@a-z0-9]+' -print \
+		-exec false '{}' +
+
+.PHONY: test_xml_struct
+test_xml_struct:
+	# >>> Searching for broken SVG icons
+	@find $(ICON_THEMES) -type f -name '*.svg' \
+		-exec xmlstarlet validate --list-bad '{}' +
+
 # .BEGIN is ignored by GNU make so we can use it as a guard
 .BEGIN:
 	@head -3 Makefile
