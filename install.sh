@@ -24,82 +24,50 @@ cat <<- EOF
 
 EOF
 
-temp_dir=$(mktemp -d)
+_cleanup() {
+  echo "=> Clearing cache ..."
+  rm -rf "$temp_file" "$temp_dir"
+
+  echo "=> Done!"
+}
+
+trap _cleanup EXIT HUP INT TERM
+
+temp_file="$(mktemp -u)"
+temp_dir="$(mktemp -d)"
 
 echo "=> Getting the latest version from GitHub ..."
-wget -O "/tmp/$gh_repo.tar.gz" \
-  https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/HiDPI.tar.gz
+wget -O "$temp_file" \
+  "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/HiDPI.tar.gz"
+
 echo "=> Unpacking archive ..."
-tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
+tar -xzf "$temp_file" -C "$temp_dir"
 
-if [ -d /usr/share/icons/Papirus ]; then
+for icons_dir in \
+  "/usr/share/icons" \
+  "/usr/local/share/icons" \
+  "$HOME/.icons" \
+  "$HOME/.local/share/icons"
+do
+  [ -d "$icons_dir/Papirus" ] || continue
+
   echo "=> Deleting old $gh_desc ..."
-  sudo rm -rf "/usr/share/icons/ePapirus.HiDPI"
-  sudo rm -rf "/usr/share/icons/Papirus.HiDPI"
-  sudo rm -rf "/usr/share/icons/Papirus-Dark.HiDPI"
-  sudo rm -rf "/usr/share/icons/Papirus-Light.HiDPI"
-  sudo rm -rf "/usr/share/icons/Papirus-Adapta.HiDPI"
-  sudo rm -rf "/usr/share/icons/Papirus-Adapta-Nokto.HiDPI"
+  sudo rm -rf \
+    "$icons_dir/Papirus.HiDPI" \
+    "$icons_dir/Papirus-Dark.HiDPI" \
+    "$icons_dir/Papirus-Light.HiDPI" \
+    "$icons_dir/ePapirus.HiDPI" \
+    "$icons_dir/Papirus-Adapta.HiDPI" \
+    "$icons_dir/Papirus-Adapta-Nokto.HiDPI"
+
   echo "=> Installing ..."
   sudo cp -R \
     "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
     "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta-Nokto.HiDPI" \
-    /usr/share/icons/
-elif [ -d /usr/local/share/icons/Papirus ]; then
-  echo "=> Deleting old $gh_desc ..."
-  sudo rm -rf "/usr/local/share/icons/ePapirus.HiDPI"
-  sudo rm -rf "/usr/local/share/icons/Papirus.HiDPI"
-  sudo rm -rf "/usr/local/share/icons/Papirus-Dark.HiDPI"
-  sudo rm -rf "/usr/local/share/icons/Papirus-Light.HiDPI"
-  sudo rm -rf "/usr/local/share/icons/Papirus-Adapta.HiDPI"
-  sudo rm -rf "/usr/local/share/icons/Papirus-Adapta-Nokto.HiDPI"
-  echo "=> Installing ..."
-  sudo cp -R \
-    "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta-Nokto.HiDPI" \
-    /usr/local/share/icons/
-elif [ -d ~/.icons/Papirus ]; then
-  echo "=> Deleting old $gh_desc ..."
-  rm -rf "$HOME/.icons/ePapirus.HiDPI"
-  rm -rf "$HOME/.icons/Papirus.HiDPI"
-  rm -rf "$HOME/.icons/Papirus-Dark.HiDPI"
-  rm -rf "$HOME/.icons/Papirus-Light.HiDPI"
-  rm -rf "$HOME/.icons/Papirus-Adapta.HiDPI"
-  rm -rf "$HOME/.icons/Papirus-Adapta-Nokto.HiDPI"
-  echo "=> Installing ..."
-  cp -R \
-    "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta-Nokto.HiDPI" \
-    ~/.icons/
-elif [ -d ~/.local/share/icons/Papirus ]; then
-  echo "=> Deleting old $gh_desc ..."
-  rm -rf "$HOME/.local/share/icons/ePapirus.HiDPI"
-  rm -rf "$HOME/.local/share/icons/Papirus.HiDPI"
-  rm -rf "$HOME/.local/share/icons/Papirus-Dark.HiDPI"
-  rm -rf "$HOME/.local/share/icons/Papirus-Light.HiDPI"
-  rm -rf "$HOME/.local/share/icons/Papirus-Adapta.HiDPI"
-  rm -rf "$HOME/.local/share/icons/Papirus-Adapta-Nokto.HiDPI"
-  echo "=> Installing ..."
-  cp -R \
-    "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta.HiDPI" \
-    "$temp_dir/$gh_repo-HiDPI/Papirus-Adapta-Nokto.HiDPI" \
-    ~/.local/share/icons/
-else
-  echo "!! Papirus icon theme cannot be found."
-fi
+    "$icons_dir"
 
-echo "=> Clearing cache ..."
-rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
-echo "=> Done!"
+  exit 0
+done
+
+echo "Error: Papirus icon theme cannot be found."
+exit 1

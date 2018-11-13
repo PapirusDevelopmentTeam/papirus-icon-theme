@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Papirus.HiDPI
 Comment=A simple and modern icon theme (HiDPI workaround)
-Inherits=Papirus,breeze,ubuntu-mono-dark,gnome,hicolor
+Inherits=Papirus,breeze,gnome,hicolor
 
 PanelDefault=22
 PanelSizes=16,22,32,48,64,128,256
