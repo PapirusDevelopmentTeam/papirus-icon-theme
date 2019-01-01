@@ -58,6 +58,7 @@ COLORS=(
 	[magenta]=" #ca71df #b259b8 #47274e #e4e4e4"
 	[orange]="  #ee923a #dd772f #533314 #e4e4e4"
 	[pink]="    #f06292 #ec407a #542233 #e4e4e4"
+	[purple]="  #7f39fb #632cc2 #2c1458 #e4e4e4"
 	[red]="     #e25252 #bf4b4b #4f1d1d #e4e4e4"
 	[teal]="    #16a085 #12806a #08382e #e4e4e4"
 	[violet]="  #a674de #8b58c5 #3a284d #e4e4e4"
