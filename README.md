@@ -113,7 +113,7 @@ Packages in this section are not part of the official repositories. If you have 
 | :------------ | :----------------- | :--------------------------------------- |
 | ALT Linux     | Andrey Cherepanov  | `apt-get install papirus-icon-theme` <sup>[[link](https://packages.altlinux.org/en/Sisyphus/srpms/papirus-icon-theme)]</sup> |
 | Arch Linux    | Felix Yan          | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
-| Arch Linux    | Edgard Castro      | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
+| Arch Linux    | Mohammadreza Abdollahzadeh      | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
 | Debian 10+    | Yangfl             | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
 | Fedora        | Dirk Davidis       | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | NetBSD        | nia                | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
