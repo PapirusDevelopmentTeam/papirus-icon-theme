@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect fill="#c2352a" width="20" height="18" x="-21" y="-20" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path fill="#fff" opacity=".1" d="m3 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h16c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
- <rect fill="#ebebeb" width="14" height="16" x="4" y="3" rx="0" ry=".516"/>
- <path fill="#3f3f3f" fill-rule="evenodd" d="m11 16-3-3h2v-4h-2l3-3 3 3h-2v4h2z"/>
- <path opacity=".2" d="m2 20v0.5c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1z"/>
- <path fill="#fff" opacity=".2" d="m4 4v-0.5c0-0.277 0.223-0.5 0.5-0.5h13c0.277 0 0.5 0.223 0.5 0.5v0.5c0-0.277-0.223-0.5-0.5-0.5h-13c-0.277 0-0.5 0.223-0.5 0.5z"/>
+ <rect style="opacity:0.2" width="14" height="14" x="-21.5" y="-18" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect width="14" height="14" x="-21" y="-18" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)" style="fill:#cecece"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 5.5,7 C 4.669,7 4,7.669 4,8.5 V 9 C 4,8.169 4.669,7.5 5.5,7.5 h 11 C 17.331,7.5 18,8.169 18,9 V 8.5 C 18,7.669 17.331,7 16.5,7 Z"/>
+ <path style="fill:#4f4f4f" d="m 11,9 -4,3 h 2 v 4 H 7 l 4,3 4,-3 h -2 v -4 h 2 z"/>
+ <rect width="4" height="12" x="9" y="-14" transform="scale(1,-1)" style="fill:#7e7e7e"/>
+ <rect width="4" height="12" x="-5.5" y="-17" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="fill:#db4539" width="4" height="12" x="-5" y="-17" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.1" width="4" height=".5" x="9" y="14"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7,1 C 5.892,1 5,1.892 5,3 5,3.0856309 5.01407,3.1672614 5.024415,3.25 5.147908,2.262163 5.977631,1.5 7,1.5 h 8 c 1.022369,0 1.852092,0.762163 1.975586,1.75 C 16.985929,3.1672614 17,3.0856309 17,3 17,1.892 16.108,1 15,1 Z"/>
+ <path style="opacity:0.1" d="M 7.666992,11.5 7,12 H 9 V 11.5 Z M 13,11.5 V 12 h 2 l -0.666992,-0.5 z m -6,4.5 4,3 4,-3 H 14.333008 L 11,18.5 7.666992,16 Z"/>
 </svg>
