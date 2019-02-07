@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="23" height="30" x="4" y="2" rx="1.5" ry="1.5"/>
- <rect style="fill:#8e8e8e" width="23" height="30" x="4" y="1" rx="1.5" ry="1.5"/>
- <rect style="opacity:0.6" width="19" height="22" x="6" y="4" rx="1.5" ry="1.5"/>
- <rect style="opacity:0.5" width="7" height="1" x="12" y="2" rx=".5" ry=".5"/>
- <circle style="opacity:0.5" cx="15.5" cy="28.5" r="1.5"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 5.5 1 C 4.669 1 4 1.669 4 2.5 L 4 3.5 C 4 2.669 4.669 2 5.5 2 L 25.5 2 C 26.331 2 27 2.669 27 3.5 L 27 2.5 C 27 1.669 26.331 1 25.5 1 L 5.5 1 z"/>
+ <rect style="opacity:0.2" width="20" height="30" x="6" y="2" rx="1.5" ry="1.5"/>
+ <rect style="fill:#8e8e8e" width="20" height="30" x="6" y="1" rx="1.5" ry="1.5"/>
+ <rect style="fill:#333333" width="18" height="22" x="7" y="4"/>
+ <rect style="fill:#333333" width="4" height="1" x="14" y="2" rx=".5" ry=".492"/>
+ <rect style="fill:#4d4d4d" width="4" height="3" x="14" y="27" rx="1" ry="1"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 7.5 1 C 6.669 1 6 1.669 6 2.5 L 6 3.5 C 6 2.669 6.669 2 7.5 2 L 24.5 2 C 25.331 2 26 2.669 26 3.5 L 26 2.5 C 26 1.669 25.331 1 24.5 1 L 7.5 1 z"/>
+ <rect style="fill:#4d4d4d" width="3" height="1" x="20" y="28" rx=".5" ry=".5"/>
+ <rect width="3" height="1" x="9" y="28" rx=".5" ry=".5" style="fill:#4d4d4d"/>
+ <circle style="fill:#333333" cx="19.5" cy="2.5" r=".5"/>
 </svg>
