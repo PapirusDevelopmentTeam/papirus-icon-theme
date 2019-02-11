@@ -27,16 +27,18 @@
 s/[ ]aria-label="[^"]*"//gI
 
 # delete default ids
-s/[ ]id="circle[0-9][^ ]*"//gI
-s/[ ]id="defs[0-9][^ ]*"//gI
-s/[ ]id="g[0-9][^ ]*"//gI
-s/[ ]id="path[0-9][^ ]*"//gI
-s/[ ]id="rect[0-9][^ ]*"//gI
-s/[ ]id="svg[0-9][^ ]*"//gI
+s/[ ]id="circle[0-9-]*"//gI
+s/[ ]id="defs[0-9-]*"//gI
+s/[ ]id="g[0-9-]*"//gI
+s/[ ]id="path[0-9-]*"//gI
+s/[ ]id="rect[0-9-]*"//gI
+s/[ ]id="svg[0-9-]*"//gI
 
 # properties in a style attribute has higher priority
 /style=/ {
 	/fill:[^;"]/ s/[ ]fill="[^"]+"//gI
+	/fill-opacity:[^;"]/ s/[ ]fill-opcacity="[^"]+"//gI
+	/fill-rule:[^;"]/ s/[ ]fill-rule="[^"]+"//gI
 	/[^-]opacity:[^;"]/ s/[ ]opacity="[^"]+"//gI
 }
 
@@ -133,3 +135,25 @@ s/[ ]flood-color="(#000|#000000|black)"//gI
 s/[ ]flood-opacity="[1-9][0-9.]*"//gI
 s/[ ]opacity="[1-9][0-9.]*"//gI
 s/[ ]stroke-opacity="[1-9][0-9.]*"//gI
+
+# delete 'stroke- *' properties if an object doesn't have a stroke
+/stroke[:=]/! {
+	s/[ ]stroke-width="[^"]+"//gI
+	s/[ ]stroke-linecap="[^"]+"//gI
+	s/[ ]stroke-linejoin="[^"]+"//gI
+	s/[ ]stroke-miterlimit="[^"]+"//gI
+	s/[ ]stroke-dasharray="[^"]+"//gI
+	s/[ ]stroke-dashoffset="[^"]+"//gI
+	s/[ ]stroke-opacity="[^"]+"//gI
+}
+
+# delete unused properties from non-container elements
+/<(a|defs|glyph|g|marker|mask|missing-glyph|pattern|svg|switch|symbol|use)/! {
+	s/[ ]enable-background="[^"]+"//gI
+}
+
+# delete useless properties from elements
+# https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/fill-rule
+/<(altGlyph|path|polygon|polyline|text|textPath|tref|tspan)/! {
+	s/[ ]fill-rule="[^"]+"//gI
+}

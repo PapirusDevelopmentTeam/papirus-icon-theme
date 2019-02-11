@@ -166,6 +166,12 @@
 		s/enable-background:[^;"]+;//gI
 	}
 
+	# delete useless properties from elements
+	# https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/fill-rule
+	/<(altGlyph|path|polygon|polyline|text|textPath|tref|tspan)/! {
+		s/fill-rule:[^;"]+;//gI
+	}
+
 	# delete unused properties from non-text content elements
 	/<(altGlyph|textPath|text|tref|tspan|flowRoot|flowPara|flowSpan|a|defs|glyph|g|marker|mask|missing-glyph|pattern|svg|switch|symbol|use)/! {
 		s/alignment-baseline:[^;"]+;//gI
