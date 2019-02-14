@@ -28,7 +28,7 @@ add_class() {
 	# add the class if a value matches:
 	sed -i -r \
 		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -37,7 +37,7 @@ add_class_e() {
 	# add the class if a value matches:
 	sed -i -r \
 		-e '/([^-]color|fill|stop-color|stroke):(#6e6e6e|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		"$@"
 }
 
@@ -45,7 +45,7 @@ add_class_e() {
 add_class_symbolic() {
 	# add the class if a value matches and class="warning" not exists:
 	sed -i -r \
-		-e '/class="warning"/! { /([^-]color|fill|stop-color|stroke):#5294e2/I s/(style="[^"]+")/\1 class="warning"/ }' \
+		-e '/class="warning"/! { /([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="warning"/ }' \
 		"$@"
 }
 

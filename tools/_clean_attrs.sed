@@ -33,6 +33,7 @@ s/[ ]id="g[0-9-]*"//gI
 s/[ ]id="path[0-9-]*"//gI
 s/[ ]id="rect[0-9-]*"//gI
 s/[ ]id="svg[0-9-]*"//gI
+s/[ ]id="layer[0-9-]*"//gI
 
 # properties in a style attribute has higher priority
 /style=/ {
