@@ -34,6 +34,18 @@ s/[ ]id="path[0-9-]*"//gI
 s/[ ]id="rect[0-9-]*"//gI
 s/[ ]id="svg[0-9-]*"//gI
 s/[ ]id="layer[0-9-]*"//gI
+s/[ ]id="stop[0-9-]*"//gI
+s/[ ]id="image[0-9-]*"//gI
+s/[ ]id="desc[0-9-]*"//gI
+s/[ ]id="grid[0-9-]*"//gI
+s/[ ]id="guide[0-9-]*"//gI
+s/[ ]id="title[0-9-]*"//gI
+s/[ ]id="text[0-9-]*"//gI
+s/[ ]id="use[0-9-]*"//gI
+s/[ ]id="metadata[0-9-]*"//gI
+s/[ ]id="flowRoot[0-9-]*"//gI
+s/[ ]id="flowRegion[0-9-]*"//gI
+s/[ ]id="flowPara[0-9-]*"//gI
 
 # properties in a style attribute has higher priority
 /style=/ {
