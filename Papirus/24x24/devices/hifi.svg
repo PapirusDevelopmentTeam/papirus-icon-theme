@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="2" height="8" x="20.5" y="-16" rx="1" ry="1" transform="rotate(90)"/>
+ <rect style="fill:#959595" width="2" height="6" x="11" y="15"/>
+ <rect style="opacity:0.2" width="12" height="15" x="-18" y="2.5" rx=".75" ry=".75" transform="scale(-1,1)"/>
+ <rect style="fill:#83562d" width="12" height="15" x="-18" y="2" rx=".75" ry=".75" transform="scale(-1,1)"/>
+ <circle style="fill:#3f3f3f" cx="12" cy="8" r="4"/>
+ <circle style="opacity:0.2" cx="12" cy="8.5" r="3"/>
+ <circle style="fill:#636363" cx="12" cy="8" r="3"/>
+ <circle style="fill:#3f3f3f" cx="12" cy="8" r="1"/>
+ <rect style="fill:#4f4f4f" width="2" height="8" x="20" y="-16" rx="1" ry="1" transform="rotate(90)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.75,2 C 6.3345,2 6,2.3345 6,2.75 v 0.5 C 6,2.8345 6.3345,2.5 6.75,2.5 h 10.5 C 17.6655,2.5 18,2.8345 18,3.25 V 2.75 C 18,2.3345 17.6655,2 17.25,2 Z"/>
+ <circle style="opacity:0.4" cx="7.5" cy="3.5" r=".5"/>
+ <circle style="opacity:0.4" cx="16.5" cy="3.5" r=".5"/>
+ <circle style="opacity:0.4" cx="7.5" cy="15.5" r=".5"/>
+ <circle style="opacity:0.4" cx="16.5" cy="15.5" r=".5"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 12 5 A 3 3 0 0 0 9 8 A 3 3 0 0 0 9.0136719 8.2558594 A 3 3 0 0 1 12 5.5 A 3 3 0 0 1 14.986328 8.2441406 A 3 3 0 0 0 15 8 A 3 3 0 0 0 12 5 z"/>
+</svg>
