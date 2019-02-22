@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="7" height="2" x="3" y="17" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" width="7" height="2" x="3" y="15" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="7" height="2" x="3" y="13" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" width="7" height="2" x="3" y="11" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="7" height="2" x="3" y="9" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" width="7" height="2" x="3" y="7" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="7" height="2" x="3" y="5" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" width="7" height="2" x="3" y="3" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" width="7" height="2" x="12" y="17" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="7" height="2" x="12" y="15" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" width="7" height="2" x="12" y="13" rx=".538" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="7" height="2" x="12" y="11" rx=".538" ry=".5"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 17.805711,3 c -0.09101,0 -0.182726,0.03479 -0.253395,0.105469 l -0.697201,0.703125 1.335814,1.335937 0.703061,-0.697265 c 0.141347,-0.141352 0.141347,-0.364012 0,-0.505372 L 18.057642,3.105469 C 17.986972,3.034789 17.896725,3 17.805711,3 Z M 16.32489,4.338867 13,7.664063 V 9 h 1.335814 l 3.324891,-3.325195 z"/>
+</svg>
