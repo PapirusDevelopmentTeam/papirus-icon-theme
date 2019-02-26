@@ -121,7 +121,8 @@ Packages in this section are not part of the official repositories. If you have 
 | openSUSE      | Matthias Eliasson  | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
 | ROSA Linux    | Vladimir Penchikov | `sudo urpmi papirus-icon-theme` |
 | Solus         | Joshua Strobl      | `sudo eopkg install papirus-icon-theme` |
-| Ubuntu 18.04+ | Yangfl             | `sudo apt install papirus-icon-theme` |
+| Ubuntu 18.04+ | Yangfl             | `sudo apt install papirus-icon-theme` |  
+| Void Linux | Giuseppe Fierro             | `sudo xbps-install papirus-icon-theme` |
 
 **NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
 
