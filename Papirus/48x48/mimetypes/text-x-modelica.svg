@@ -1,12 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <defs>
-  <clipPath id="clipPath4266-4" clipPathUnits="userSpaceOnUse">
-   <path fill="#fff" d="m146 240c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-12-12h-18z"/>
-  </clipPath>
-  <filter id="filter4987" width="1.26" height="1.223" x="-.13" y="-.11">
-   <feGaussianBlur id="feGaussianBlur5" stdDeviation=".65"/>
-  </filter>
- </defs>
  <path style="opacity:0.2" d="M 10,5 C 8.892,5 8,5.892 8,7 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 17 L 29,16 28,5 Z"/>
  <path style="fill:#455a64" d="M 10,4 C 8.892,4 8,4.892 8,6 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 16 L 29,15 28,4 Z"/>
  <path style="opacity:0.2" d="m 15,24 v 2 h 18 v -2 z m 0,4 v 2 h 18 v -2 z m 0,4 v 2 h 18 v -2 z m 0,4 v 2 h 11 v -2 z"/>
