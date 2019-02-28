@@ -4,5 +4,5 @@
  <path style="opacity:0.2" d="m 18,5 v 6.6667 c 0,0.736 0.597,1.333 1.333,1.333 H 26 l -8,-8 z"/>
  <path fill="#fafafa" d="m18 4v6.6667c0 0.736 0.597 1.333 1.333 1.333h6.667l-8-8z"/>
  <path fill="#fff" opacity=".2" d="m7.25 4c-0.6925 0-1.25 0.5575-1.25 1.25v1c0-0.6925 0.5575-1.25 1.25-1.25h10.75v-1z"/>
- <path opacity=".5" d="m10 16v1h11v-1zm0 3v1h11v-1zm0 3v1h11v-1zm0 3v1h8v-1z"/>
+ <path style="opacity:0.5" d="m 10,16 v 1 h 12 v -1 z m 0,3 v 1 h 12 v -1 z m 0,3 v 1 h 12 v -1 z m 0,3 v 1 h 8 v -1 z"/>
 </svg>
