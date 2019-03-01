@@ -161,6 +161,11 @@
 		s/stroke-opacity:[^;"]+;//gI
 	}
 
+	# delete 'clip-rule' properties if an object doesn't have a clip-path
+	/clip-path[:=]/! {
+		s/clip-rule:[^;"]+;//gI
+	}
+
 	# delete unused properties from non-container elements
 	/<(a|defs|glyph|g|marker|mask|missing-glyph|pattern|svg|switch|symbol|use)/! {
 		s/enable-background:[^;"]+;//gI

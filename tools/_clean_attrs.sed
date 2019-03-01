@@ -170,3 +170,8 @@ s/[ ]stroke-opacity="[1-9][0-9.]*"//gI
 /<(altGlyph|path|polygon|polyline|text|textPath|tref|tspan)/! {
 	s/[ ]fill-rule="[^"]+"//gI
 }
+
+# delete 'clip-rule' properties if an object doesn't have a clip-path
+/clip-path[:=]/! {
+	s/[ ]clip-rule="[^"]+"//gI
+}
