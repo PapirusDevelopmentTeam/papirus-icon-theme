@@ -4,7 +4,7 @@
  <circle style="fill:#ffcc42" cx="10" cy="6" r="3"/>
  <circle style="opacity:0.2" cx="7.619" cy="10.81" r="3.048"/>
  <circle style="fill:#ffffff" cx="3.5" cy="12.5" r="2.5"/>
- <circle cx="7.5" cy="10.5" r="3.5" style="fill:#ffffff"/>
- <circle cx="11.5" cy="12.5" r="2.5" style="fill:#ffffff"/>
+ <circle style="fill:#ffffff" cx="7.5" cy="10.5" r="3.5"/>
+ <circle style="fill:#ffffff" cx="11.5" cy="12.5" r="2.5"/>
  <rect style="fill:#ffffff" width="7.619" height="3.048" x="3.81" y="11.95"/>
 </svg>

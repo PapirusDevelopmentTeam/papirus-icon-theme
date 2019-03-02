@@ -28,7 +28,7 @@
  <rect style="opacity:0.4;fill:#ffffff" width="4" height="2" x="11" y="-19" transform="rotate(90)"/>
  <rect style="opacity:0.4;fill:#ffffff" width="4" height="2" x="17" y="-19" transform="rotate(90)"/>
  <rect style="opacity:0.4;fill:#ffffff" width="8" height="2" x="23" y="-19" transform="rotate(90)"/>
- <circle cx="36" cy="37" r="11" style="opacity:0.2"/>
+ <circle style="opacity:0.2" cx="36" cy="37" r="11"/>
  <circle style="fill:#aa52ce" cx="36" cy="36" r="11"/>
  <path style="fill:#ffffff" d="m 30,36 c 0,3.3137 2.6863,6 6,6 3.2801,0 5.9403,-2.6332 5.9941,-5.9004 a 1,1 0 0 0 0.006,-0.09961 1,1 0 0 0 -1,-1 1,1 0 0 0 -1,1 c 0,2.2091 -1.7909,4 -4,4 -2.2091,0 -4,-1.7909 -4,-4 0,-2.2091 1.7909,-4 4,-4 v 2 l 4,-3 -4,-3 v 2 c -3.3137,0 -6,2.6863 -6,6 z"/>
 </svg>

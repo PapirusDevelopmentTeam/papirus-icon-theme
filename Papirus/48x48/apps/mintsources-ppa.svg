@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <circle cx="24" cy="25" r="20" style="opacity:0.2"/>
+ <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
  <circle style="fill:#e4e4e4" cx="24" cy="24" r="20"/>
- <g transform="translate(0,1)" style="opacity:0.1">
+ <g style="opacity:0.1" transform="translate(0,1)">
   <path d="m18 27.5 0.000002-7l6-3.5 6 3.5-0.000002 7-6 3.5-6-3.5z"/>
   <path d="m25 10v5.743l6 3.257 5-3z"/>
   <path d="m23 10v5.743l-6 3.257-5-3z"/>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
  <rect style="opacity:0.2" width="14" height="14" x="-22.5" y="-19" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect width="14" height="14" x="-22" y="-19" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)" style="fill:#cecece"/>
+ <rect style="fill:#cecece" width="14" height="14" x="-22" y="-19" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 6.5,8 C 5.669,8 5,8.669 5,9.5 V 10 C 5,9.169 5.669,8.5 6.5,8.5 h 11 C 18.331,8.5 19,9.169 19,10 V 9.5 C 19,8.669 18.331,8 17.5,8 Z"/>
  <path style="fill:#4f4f4f" d="m 12,10 -4,3 h 2 v 4 H 8 l 4,3 4,-3 h -2 v -4 h 2 z"/>
- <rect width="4" height="12" x="10" y="-15" transform="scale(1,-1)" style="fill:#7e7e7e"/>
- <rect width="4" height="12" x="-6.5" y="-18" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="fill:#7e7e7e" width="4" height="12" x="10" y="-15" transform="scale(1,-1)"/>
+ <rect style="opacity:0.2" width="4" height="12" x="-6.5" y="-18" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
  <rect style="fill:#db4539" width="4" height="12" x="-6" y="-18" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
  <rect style="opacity:0.1" width="4" height=".5" x="10" y="15"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 8,2 C 6.892,2 6,2.892 6,4 6,4.0856309 6.01407,4.1672614 6.024415,4.25 6.147908,3.262163 6.977631,2.5 8,2.5 h 8 c 1.022369,0 1.852092,0.762163 1.975586,1.75 C 17.985929,4.1672614 18,4.0856309 18,4 18,2.892 17.108,2 16,2 Z"/>

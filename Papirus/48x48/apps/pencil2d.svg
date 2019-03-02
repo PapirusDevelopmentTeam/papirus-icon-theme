@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <circle cx="24" cy="25" r="17" style="opacity:0.2"/>
+ <circle style="opacity:0.2" cx="24" cy="25" r="17"/>
  <circle style="fill:#005cc0" cx="24" cy="24" r="17"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 24,7 A 17,17 0 0 0 7,24 17,17 0 0 0 7.0214844,24.580078 17,17 0 0 1 24,8 17,17 0 0 1 40.978516,24.419922 17,17 0 0 0 41,24 17,17 0 0 0 24,7 Z"/>
  <circle style="opacity:0.2" cx="24" cy="25" r="14"/>
- <circle cx="24" cy="24" r="14" style="fill:#0179ff"/>
+ <circle style="fill:#0179ff" cx="24" cy="24" r="14"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 24,10 A 14,14 0 0 0 10,24 14,14 0 0 0 10.021484,24.585938 14,14 0 0 1 24,11 14,14 0 0 1 37.978516,24.414062 14,14 0 0 0 38,24 14,14 0 0 0 24,10 Z"/>
  <circle style="fill:#419cff" cx="24" cy="24" r="11"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 24,13 A 11,11 0 0 0 13,24 11,11 0 0 0 13.021484,24.585938 11,11 0 0 1 24,14 11,11 0 0 1 34.978516,24.414062 11,11 0 0 0 35,24 11,11 0 0 0 24,13 Z"/>

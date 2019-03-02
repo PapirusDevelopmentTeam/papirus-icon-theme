@@ -2,7 +2,7 @@
  <rect fill="#d2d2d2" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
  <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <g transform="translate(0,1)" style="opacity:0.1">
+ <g style="opacity:0.1" transform="translate(0,1)">
   <path d="m18 27.5 0.000002-7l6-3.5 6 3.5-0.000002 7-6 3.5-6-3.5z"/>
   <path d="m25 10v5.743l6 3.257 5-3z"/>
   <path d="m23 10v5.743l-6 3.257-5-3z"/>

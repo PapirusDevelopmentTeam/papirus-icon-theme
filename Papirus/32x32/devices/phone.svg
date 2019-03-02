@@ -6,6 +6,6 @@
  <rect style="fill:#4d4d4d" width="4" height="3" x="14" y="27" rx="1" ry="1"/>
  <path style="fill:#ffffff;opacity:0.2" d="M 7.5 1 C 6.669 1 6 1.669 6 2.5 L 6 3.5 C 6 2.669 6.669 2 7.5 2 L 24.5 2 C 25.331 2 26 2.669 26 3.5 L 26 2.5 C 26 1.669 25.331 1 24.5 1 L 7.5 1 z"/>
  <rect style="fill:#4d4d4d" width="3" height="1" x="20" y="28" rx=".5" ry=".5"/>
- <rect width="3" height="1" x="9" y="28" rx=".5" ry=".5" style="fill:#4d4d4d"/>
+ <rect style="fill:#4d4d4d" width="3" height="1" x="9" y="28" rx=".5" ry=".5"/>
  <circle style="fill:#333333" cx="19.5" cy="2.5" r=".5"/>
 </svg>

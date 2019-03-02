@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
- <circle cx="16.5" cy="16.5" r="11.5" style="opacity:0.2"/>
+ <circle style="opacity:0.2" cx="16.5" cy="16.5" r="11.5"/>
  <circle style="fill:#005cc0" cx="16.5" cy="15.5" r="11.5"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 16.5 4 A 11.5 11.5 0 0 0 5 15.5 A 11.5 11.5 0 0 0 5.0214844 16.078125 A 11.5 11.5 0 0 1 16.5 5 A 11.5 11.5 0 0 1 27.978516 15.921875 A 11.5 11.5 0 0 0 28 15.5 A 11.5 11.5 0 0 0 16.5 4 z"/>
  <circle style="opacity:0.2" cx="16.5" cy="16.5" r="9.5"/>
- <circle cx="16.5" cy="15.5" r="9.5" style="fill:#0179ff"/>
+ <circle style="fill:#0179ff" cx="16.5" cy="15.5" r="9.5"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 16.5 6 A 9.5 9.5 0 0 0 7 15.5 A 9.5 9.5 0 0 0 7.0195312 16.085938 A 9.5 9.5 0 0 1 16.5 7 A 9.5 9.5 0 0 1 25.980469 15.914062 A 9.5 9.5 0 0 0 26 15.5 A 9.5 9.5 0 0 0 16.5 6 z"/>
  <circle style="fill:#419cff" cx="16.5" cy="15.5" r="7.5"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 16.5 8 A 7.5 7.5 0 0 0 9 15.5 A 7.5 7.5 0 0 0 9.0214844 16.052734 A 7.5 7.5 0 0 1 16.5 9 A 7.5 7.5 0 0 1 23.978516 15.947266 A 7.5 7.5 0 0 0 24 15.5 A 7.5 7.5 0 0 0 16.5 8 z"/>

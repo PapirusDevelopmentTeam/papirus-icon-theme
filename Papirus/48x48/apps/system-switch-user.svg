@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
  <circle fill="#36bb94" cx="24" cy="24" r="20"/>
- <g fill-rule="evenodd" opacity=".2" transform="translate(-5,1)">
+ <g opacity=".2" transform="translate(-5,1)">
   <path d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
   <path d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
  </g>
- <g fill="#fff" fill-rule="evenodd" transform="translate(-5)">
+ <g fill="#fff" transform="translate(-5)">
   <path d="m24.5 12c-0.831 0-1.5 0.573-1.5 1.285v15.715h-3.5l5 6 5-6h-3.5v-15.715c0-0.712-0.669-1.285-1.5-1.285z"/>
   <path d="m34.5 35c-0.831 0-1.5-0.573-1.5-1.285v-15.715h-3.5l5-6 5 6h-3.5v15.715c0 0.712-0.669 1.285-1.5 1.285z"/>
  </g>

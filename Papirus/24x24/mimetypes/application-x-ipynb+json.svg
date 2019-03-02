@@ -6,12 +6,12 @@
  <path fill="#fafafa" d="m14 2v5c0 0.5523 0.44772 1 1 1h5l-6-6z"/>
  <rect style="fill:#267edb" width="1" height="9.5" x="7" y="10.5"/>
  <rect style="fill:#267edb" width="2" height="1" x="7" y="10"/>
- <rect width="2" height="1" x="7" y="19" style="fill:#267edb"/>
- <rect width="1" height="9.5" x="-17" y="10.5" transform="scale(-1,1)" style="fill:#267edb"/>
- <rect width="2" height="1" x="-17" y="10" transform="scale(-1,1)" style="fill:#267edb"/>
+ <rect style="fill:#267edb" width="2" height="1" x="7" y="19"/>
+ <rect style="fill:#267edb" width="1" height="9.5" x="-17" y="10.5" transform="scale(-1,1)"/>
+ <rect style="fill:#267edb" width="2" height="1" x="-17" y="10" transform="scale(-1,1)"/>
  <rect style="fill:#267edb" width="2" height="1" x="-17" y="19" transform="scale(-1,1)"/>
  <path style="fill:none;stroke:#3f3f3f" d="m 10,12.5 2.5,5"/>
  <path style="fill:none;stroke:#3f3f3f" d="m 14.5,12.5 c 0,0 -2,7 -3.5,7 h -0.5"/>
  <path style="fill:#267edb" d="m 19,12.561956 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z"/>
- <path d="m 19,17.561956 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z" style="fill:#267edb"/>
+ <path style="fill:#267edb" d="m 19,17.561956 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z"/>
 </svg>

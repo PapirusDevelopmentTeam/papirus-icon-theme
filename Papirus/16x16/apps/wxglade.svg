@@ -4,7 +4,7 @@
  <path style="fill:#e4e4e4" d="M 2.2711033,1.295972 C 1.9164744,1.5618 1.2427266,1.7152973 1.0157618,2.095972 L 0,3.7996496 V 15.2 C 0,15.6432 0.3568,16 0.8,16 H 4 V 0 Z"/>
  <path style="fill:#e4e4e4" d="m 14,4 v 12 h 1.2 C 15.6432,16 16,15.6432 16,15.2 V 4 Z"/>
  <path style="fill:#d32626" d="M 0.8,0 C 0.3568,0 0,0.3568 0,0.8 V 4 H 4 V 0 Z"/>
- <rect width="7" height="3" x="4" y="13" style="fill:#ffd000"/>
+ <rect style="fill:#ffd000" width="7" height="3" x="4" y="13"/>
  <rect style="fill:#0fa925" width="3" height="3" x="11" y="13"/>
- <rect width="2" height="2" x="14" y="4" style="fill:#1268c9"/>
+ <rect style="fill:#1268c9" width="2" height="2" x="14" y="4"/>
 </svg>

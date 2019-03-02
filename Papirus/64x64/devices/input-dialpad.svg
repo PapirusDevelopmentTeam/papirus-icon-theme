@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
  <rect style="opacity:0.2" width="42" height="55" x="11" y="5" rx="3" ry="3"/>
- <rect width="42" height="55" x="11" y="4" rx="3" ry="3" style="fill:#4f4f4f"/>
- <g transform="translate(0,1)" style="opacity:0.2">
+ <rect style="fill:#4f4f4f" width="42" height="55" x="11" y="4" rx="3" ry="3"/>
+ <g style="opacity:0.2" transform="translate(0,1)">
   <rect width="8" height="8" x="28" y="22" rx="1" ry="1"/>
   <rect width="8" height="8" x="39" y="44" rx="1" ry="1"/>
   <rect width="8" height="8" x="17" y="44" rx="1" ry="1"/>
@@ -15,8 +15,8 @@
   <rect width="8" height="8" x="17" y="11" rx="1" ry="1"/>
   <rect width="8" height="8" x="28" y="44" rx="1" ry="1"/>
  </g>
- <rect width="8" height="8" x="39" y="44" rx="1" ry="1" style="fill:#ff5a5a"/>
- <rect width="8" height="8" x="17" y="44" rx="1" ry="1" style="fill:#64c90e"/>
+ <rect style="fill:#ff5a5a" width="8" height="8" x="39" y="44" rx="1" ry="1"/>
+ <rect style="fill:#64c90e" width="8" height="8" x="17" y="44" rx="1" ry="1"/>
  <g style="fill:#e4e4e4">
   <rect width="8" height="8" x="28" y="22" rx="1" ry="1"/>
   <rect width="8" height="8" x="39" y="22" rx="1" ry="1"/>

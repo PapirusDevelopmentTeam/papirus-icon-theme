@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect width="12" height="28" x="-23" y="-30" rx="1.412" ry="1.4" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
- <path d="M 5,19 5,29.588235 C 5,30.370353 5.61325,31 6.375,31 l 19.25,0 C 26.38675,31 27,30.370353 27,29.588235 L 27,19 5,19 Z" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="12" height="28" x="-23" y="-30" rx="1.412" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="M 5,19 5,29.588235 C 5,30.370353 5.61325,31 6.375,31 l 19.25,0 C 26.38675,31 27,30.370353 27,29.588235 L 27,19 5,19 Z"/>
  <path style="fill:#e4e4e4" d="M 6.375,2 C 5.61325,2 5,2.6371429 5,3.4285714 L 5,12 27,12 27,3.4285714 C 27,2.6371429 26.38675,2 25.625,2 L 6.375,2 Z"/>
  <rect style="fill:#4f4f4f" width="12" height="28" x="-22" y="-30" rx="1.412" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect width="24" height="2" x="4" y="17" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="24" height="2" x="4" y="17"/>
  <rect style="opacity:0.2" width="3" height="3" x="4" y="13" rx="1.125" ry="1.125"/>
- <rect width="3" height="3" x="4" y="12" rx="1.125" ry="1.125" style="fill:#76ff03"/>
+ <rect style="fill:#76ff03" width="3" height="3" x="4" y="12" rx="1.125" ry="1.125"/>
  <path style="fill:#e4e4e4" d="M 5,18 5,28.588235 C 5,29.370353 5.61325,30 6.375,30 l 19.25,0 C 26.38675,30 27,29.370353 27,28.588235 L 27,18 5,18 Z"/>
  <path style="opacity:0.5;fill-rule:evenodd" d="m 8,26 14,0 0,2 -14,0 z"/>
  <path style="opacity:0.5;fill-rule:evenodd" d="m 8,23 11,0 0,2 -11,0 z"/>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <circle cx="33" cy="33" r="23" style="opacity:0.2"/>
+ <circle style="opacity:0.2" cx="33" cy="33" r="23"/>
  <circle style="fill:#005cc0" cx="33" cy="32" r="23"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 33 9 A 23 23 0 0 0 10 32 A 23 23 0 0 0 10.017578 32.484375 A 23 23 0 0 1 33 10 A 23 23 0 0 1 55.974609 32.496094 A 23 23 0 0 0 56 32 A 23 23 0 0 0 33 9 z"/>
  <circle style="opacity:0.2" cx="33" cy="33" r="19"/>
- <circle cx="33" cy="32" r="19" style="fill:#0179ff"/>
+ <circle style="fill:#0179ff" cx="33" cy="32" r="19"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 33 13 A 19 19 0 0 0 14 32 A 19 19 0 0 0 14.017578 32.511719 A 19 19 0 0 1 33 14 A 19 19 0 0 1 51.976562 32.517578 A 19 19 0 0 0 52 32 A 19 19 0 0 0 33 13 z"/>
  <circle style="fill:#419cff" cx="33" cy="32" r="15"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 33 17 A 15 15 0 0 0 18 32 A 15 15 0 0 0 18.017578 32.474609 A 15 15 0 0 1 33 18 A 15 15 0 0 1 47.976562 32.507812 A 15 15 0 0 0 48 32 A 15 15 0 0 0 33 17 z"/>

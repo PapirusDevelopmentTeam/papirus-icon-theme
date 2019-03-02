@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect width="14" height="20" x="5" y="2.5" rx="1" ry="1" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="14" height="20" x="5" y="2.5" rx="1" ry="1"/>
  <rect style="fill:#8e8e8e" width="14" height="20" x="5" y="2" rx="1" ry="1"/>
  <rect style="fill:#333333" width="12" height="14" x="6" y="4"/>
  <path style="fill:#ffffff;opacity:0.2" d="M 6 2 C 5.446 2 5 2.446 5 3 L 5 3.5 C 5 2.946 5.446 2.5 6 2.5 L 18 2.5 C 18.554 2.5 19 2.946 19 3.5 L 19 3 C 19 2.446 18.554 2 18 2 L 6 2 z"/>
- <rect width="2" height="2" x="11" y="19" rx=".5" ry=".5" style="fill:#4d4d4d"/>
+ <rect style="fill:#4d4d4d" width="2" height="2" x="11" y="19" rx=".5" ry=".5"/>
  <rect style="fill:#4d4d4d" width="2" height="1" x="15" y="19" rx=".5" ry=".5"/>
- <rect width="2" height="1" x="7" y="19" rx=".5" ry=".5" style="fill:#4d4d4d"/>
+ <rect style="fill:#4d4d4d" width="2" height="1" x="7" y="19" rx=".5" ry=".5"/>
 </svg>

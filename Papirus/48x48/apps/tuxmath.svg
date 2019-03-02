@@ -5,12 +5,12 @@
  <circle fill="#fff" cx="17" cy="13" r="3"/>
  <circle fill="#fff" cx="31" cy="13" r="3"/>
  <ellipse fill="#fff" cx="24" cy="29" rx="10" ry="11"/>
- <path d="M 28,34 V 26 L 26,28" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.2"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 28,34 V 26 L 26,28"/>
  <path opacity=".2" d="m21 16h6c-0.481 4.109-3 8-3 8s-3-4.6183-3-8z"/>
  <circle fill="#303030" cx="18.5" cy="14.5" r="1.5"/>
  <circle fill="#303030" cx="32.5" cy="14.5" r="1.5"/>
  <path fill="#cd5252" d="m21 15h6c-0.481 4.109-3 8-3 8s-3-4.6183-3-8z"/>
  <path style="fill:none;stroke:#f34235;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 28,33 V 25 L 26,27"/>
- <rect width="6" height="2" x="18" y="29" rx="1" ry="1" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="6" height="2" x="18" y="29" rx="1" ry="1"/>
  <rect style="fill:#f44336" width="6" height="2" x="18" y="28" rx="1" ry="1"/>
 </svg>

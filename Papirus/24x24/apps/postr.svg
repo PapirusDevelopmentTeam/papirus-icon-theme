@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect width="20" height="20" x="2" y="2.5" rx="6" ry="6" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="6" ry="6"/>
  <rect style="fill:#e4e4e4" width="20" height="20" x="2" y="2" rx="6" ry="6"/>
- <circle cx="7.5" cy="12.5" r="4" style="opacity:0.1"/>
+ <circle style="opacity:0.1" cx="7.5" cy="12.5" r="4"/>
  <circle style="fill:#296ec6" cx="7.5" cy="12" r="4"/>
- <circle cx="16.5" cy="12.5" r="4" style="opacity:0.1"/>
+ <circle style="opacity:0.1" cx="16.5" cy="12.5" r="4"/>
  <circle style="fill:#e03c90" cx="16.5" cy="12" r="4"/>
  <circle style="opacity:0.2" cx="18" cy="19" r="5"/>
  <circle style="fill:#9a3cdb" cx="18" cy="18.5" r="5"/>

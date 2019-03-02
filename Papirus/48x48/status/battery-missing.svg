@@ -5,9 +5,9 @@
  <path style="opacity:0.35" d="m 11,12 v 8 h 26 v -8 z"/>
  <path style="opacity:0.35" d="m 11,22 v 8 h 26 v -8 z"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 14,4 V 5 H 34 V 4 Z"/>
- <path d="m 11,32 v 8 h 26 v -8 z" style="opacity:0.35"/>
- <circle cx="36" cy="36" r="10" style="fill:#db3c30"/>
- <path d="M 45.979,36.414 A 10,10 0 0 1 36,46 10,10 0 0 1 26.021,36.586 10,10 0 0 0 26,37 10,10 0 0 0 36,47 10,10 0 0 0 46,37 10,10 0 0 0 45.979,36.414 Z" style="opacity:0.2"/>
- <rect width="12" height="2" x="-6.18" y="50.1" transform="rotate(-45)" style="fill:#ffffff"/>
- <rect width="12" height="2" x="-57.1" y="-1.18" transform="rotate(-135)" style="fill:#ffffff"/>
+ <path style="opacity:0.35" d="m 11,32 v 8 h 26 v -8 z"/>
+ <circle style="fill:#db3c30" cx="36" cy="36" r="10"/>
+ <path style="opacity:0.2" d="M 45.979,36.414 A 10,10 0 0 1 36,46 10,10 0 0 1 26.021,36.586 10,10 0 0 0 26,37 10,10 0 0 0 36,47 10,10 0 0 0 46,37 10,10 0 0 0 45.979,36.414 Z"/>
+ <rect style="fill:#ffffff" width="12" height="2" x="-6.18" y="50.1" transform="rotate(-45)"/>
+ <rect style="fill:#ffffff" width="12" height="2" x="-57.1" y="-1.18" transform="rotate(-135)"/>
 </svg>

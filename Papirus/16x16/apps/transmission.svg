@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect width="11" height="11" x="-16" y="-13" rx="1.179" ry="1.179" transform="matrix(0,-1,-1,0,0,0)" style="fill:#cecece"/>
+ <rect style="fill:#cecece" width="11" height="11" x="-16" y="-13" rx="1.179" ry="1.179" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="fill:#4f4f4f" d="M 7.5,6.5 4.5,9 H 6 v 3 H 4.5 l 3,2.5 3,-2.5 H 9 V 9 h 1.5 z"/>
- <rect width="3" height="9" x="6" y="-10" transform="scale(1,-1)" style="fill:#7e7e7e"/>
+ <rect style="fill:#7e7e7e" width="3" height="9" x="6" y="-10" transform="scale(1,-1)"/>
  <rect style="fill:#db4539" width="3" height="9" x="-3" y="-12" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
 </svg>

@@ -5,7 +5,7 @@
  <path style="fill:#ffffff" d="M 8.5 2 A 5.5 5.5 0 0 0 3 7.5 A 5.5 5.5 0 0 0 8.5 13 A 5.5 5.5 0 0 0 12.085938 11.666016 L 10.667969 10.248047 A 3.5 3.5 0 0 1 8.5 11 A 3.5 3.5 0 0 1 5 7.5 A 3.5 3.5 0 0 1 8.5 4 A 3.5 3.5 0 0 1 10.662109 4.7519531 L 12.080078 3.3339844 A 5.5 5.5 0 0 0 8.5 2 z"/>
  <circle style="fill:#ffffff" cx="8.5" cy="7.5" r="1.5"/>
  <rect style="fill:#4c3a91" width="3" height="1" x="10" y="7"/>
- <rect width="3" height="1" x="6" y="-12" transform="rotate(90)" style="fill:#4c3a91"/>
- <rect width="3" height="1" x="13" y="7" style="fill:#4c3a91"/>
+ <rect style="fill:#4c3a91" width="3" height="1" x="6" y="-12" transform="rotate(90)"/>
+ <rect style="fill:#4c3a91" width="3" height="1" x="13" y="7"/>
  <rect style="fill:#4c3a91" width="3" height="1" x="6" y="-15" transform="rotate(90)"/>
 </svg>

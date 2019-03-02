@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect width="29" height="29" x="-31" y="-30" rx="1.45" ry="1.45" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="29" height="29" x="-31" y="-30" rx="1.45" ry="1.45" transform="matrix(0,-1,-1,0,0,0)"/>
  <rect style="fill:#d64141" width="29" height="29" x="-30" y="-30" rx="1.45" ry="1.45" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect width="23" height="23" x="-27" y="-27" rx="1.15" ry="1.15" transform="matrix(0,-1,-1,0,0,0)" style="fill:#3f3f3f"/>
- <rect width="17" height="17" x="-25" y="-24" rx=".85" ry=".85" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="fill:#3f3f3f" width="23" height="23" x="-27" y="-27" rx="1.15" ry="1.15" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="17" height="17" x="-25" y="-24" rx=".85" ry=".85" transform="matrix(0,-1,-1,0,0,0)"/>
  <rect style="fill:#dfa46d" width="17" height="17" x="-24" y="-24" rx=".85" ry=".85" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="opacity:0.3" d="m 14,7 v 7 H 7 v 3 h 7 v 6.999999 h 3 V 17 h 6.999999 V 14 H 17 V 7 Z"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 4 25.849609 L 4 26.849609 C 4 27.486709 4.5132906 28 5.1503906 28 L 25.849609 28 C 26.486709 28 27 27.486709 27 26.849609 L 27 25.849609 C 27 26.486709 26.486709 27 25.849609 27 L 5.1503906 27 C 4.5132906 27 4 26.486709 4 25.849609 z"/>

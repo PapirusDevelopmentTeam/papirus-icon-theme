@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect width="56" height="56" x="-60" y="-60" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)" style="fill:#713a9d"/>
- <path d="m7 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-50z" style="fill:#ffffff;opacity:0.1"/>
- <path d="m4 57v1c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-1c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3z" style="opacity:0.2"/>
+ <rect style="fill:#713a9d" width="56" height="56" x="-60" y="-60" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.1" d="m7 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-50z"/>
+ <path style="opacity:0.2" d="m4 57v1c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-1c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3z"/>
  <path style="opacity:0.5;fill:#ffffff" d="m 30,29 v 6 h 17 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 6,16 v 6 h 11 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z"/>
  <path style="fill:#f44336" d="M 43,13 H 17 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 h 26 z"/>
  <path style="fill:#03a9f4" d="M 37,45 H 17 C 15.338,45 14,46.338 14,48 14,49.662 15.338,51 17,51 H 37 Z"/>

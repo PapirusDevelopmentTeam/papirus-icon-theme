@@ -15,11 +15,11 @@
   <circle style="fill:#ffff00" cx="47.5" cy="46.5" r="2.5"/>
   <circle style="fill:#ffcd40" cx="54.5" cy="46.5" r="2.5"/>
  </g>
- <rect width="24" height="56" x="-41" y="-60" rx="2.824" ry="2.8" transform="matrix(0,-1,-1,0,0,0)" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="24" height="56" x="-41" y="-60" rx="2.824" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
  <rect style="fill:#4f4f4f" width="24" height="56" x="-40" y="-60" rx="2.824" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect width="50" height="6" x="7" y="29" style="opacity:0.2"/>
+ <rect style="opacity:0.2" width="50" height="6" x="7" y="29"/>
  <rect style="opacity:0.2" width="5" height="5" x="7" y="20" rx="1.875" ry="1.875"/>
- <rect width="5" height="5" x="7" y="19" rx="1.875" ry="1.875" style="fill:#76ff03"/>
+ <rect style="fill:#76ff03" width="5" height="5" x="7" y="19" rx="1.875" ry="1.875"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 6.8007812,15.999991 C 5.2495813,15.999991 4,17.259974 4,18.82421 v 1 C 4,18.259974 5.2495813,16.999991 6.8007812,16.999991 H 57.199219 c 1.5512,0 2.800781,1.259983 2.800781,2.824219 v -1 c 0,-1.564236 -1.249581,-2.824219 -2.800781,-2.824219 z"/>
  <path style="opacity:0.2;fill:#ffffff" d="m 8.875,18.999991 c -1.03875,0 -1.875,0.83625 -1.875,1.875 v 1 c 0,-1.03875 0.83625,-1.875 1.875,-1.875 h 1.25 c 1.03875,0 1.875,0.83625 1.875,1.875 v -1 c 0,-1.03875 -0.83625,-1.875 -1.875,-1.875 z"/>
 </svg>
