@@ -9,17 +9,10 @@
  <rect style="opacity:.2" width="2" height=".5" x="4" y="18"/>
  <rect style="opacity:.2" width="2" height=".5" x="18" y="18"/>
  <rect style="opacity:.2" width="12" height=".5" x="6" y="20"/>
- <g transform="translate(1,1.0000003)">
+ <g transform="translate(1,1)">
   <rect style="opacity:.2" width="2" height=".5" x="3" y="15"/>
   <rect style="opacity:.2" width="2" height=".5" x="17" y="15"/>
   <rect style="opacity:.2" width="12" height=".5" x="5" y="17"/>
- </g>
- <g style="display:none">
-  <circle style="opacity:.2" cx="12" cy="12.5" r="10"/>
-  <circle style="fill:#248afd" cx="12" cy="12" r="10"/>
-  <circle style="opacity:.2" cx="12" cy="12.5" r="7"/>
-  <circle style="fill:#79de7d" cx="12" cy="12" r="7"/>
-  <path style="fill:#ffffff;opacity:.2" d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0098,12.293 10,10 0 0 1 12,2.5 10,10 0 0 1 21.99,12.207 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z"/>
  </g>
  <path style="opacity:0.2" d="m 2,20 v 0.5 H 4 V 20 Z m 18,0 v 0.5 h 2 V 20 Z M 4,22 v 0.5 H 20 V 22 Z"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 2 18 L 2 18.5 L 4 18.5 L 4 18 L 2 18 z M 20 18 L 20 18.5 L 22 18.5 L 22 18 L 20 18 z M 4 20 L 4 20.5 L 6 20.5 L 6 20 L 4 20 z M 18 20 L 18 20.5 L 20 20.5 L 20 20 L 18 20 z"/>
