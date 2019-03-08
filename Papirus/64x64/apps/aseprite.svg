@@ -1,23 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <path style="opacity:0.2" d="m 4,55 v 2 h 4 v -2 z m 52,0 v 2 h 4 V 55 Z M 8,59 v 2 h 48 v -2 z"/>
- <rect style="fill:#ffffff" width="48" height="48" x="8" y="8"/>
- <path style="fill:#5c3e52" d="M 12,4 V 8 H 52 V 4 Z m 40,4 v 4 h 4 V 8 Z m 4,4 v 40 h 4 V 12 Z m 0,40 h -4 v 4 h 4 z m -4,4 H 12 v 4 H 52 Z M 12,56 V 52 H 8 v 4 z M 8,52 V 12 H 4 V 52 Z M 8,12 h 4 V 8 H 8 Z m 12,8 v 14 h 4 V 20 Z m 20,0 v 14 h 4 V 20 Z"/>
- <path style="fill:#6d8292" d="m 8,46 v 6 h 4 v 4 h 40 v -4 h 4 v -6 h -4 v 2 H 12 v -2 z"/>
- <path style="fill:#735d6c" d="m 8,4 v 4 h 4 V 4 Z M 8,8 H 4 v 4 H 8 Z M 52,4 v 4 h 4 V 4 Z m 4,4 v 4 h 4 V 8 Z M 4,52 v 4 h 4 v -4 z m 4,4 v 4 h 4 v -4 z m 48,-4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z"/>
- <rect style="opacity:0.2" width="4" height="1" x="4" y="12"/>
- <rect style="opacity:0.2" width="4" height="1" x="8" y="8"/>
- <rect style="opacity:0.2" width="4" height="1" x="52" y="8"/>
- <rect style="opacity:0.2" width="4" height="1" x="56" y="12"/>
- <rect style="opacity:0.2" width="4" height="1" x="8" y="46"/>
- <rect style="opacity:0.2" width="4" height="1" x="8" y="52"/>
- <rect style="opacity:0.2" width="4" height="1" x="52" y="46"/>
- <rect style="opacity:0.2" width="4" height="1" x="52" y="52"/>
- <rect style="opacity:0.2" width="40" height="1" x="12" y="48"/>
- <rect style="opacity:0.2" width="40" height="1" x="12" y="56"/>
- <path style="opacity:0.1" d="m 20,34 v 1 h 4 v -1 z m 20,0 v 1 h 4 v -1 z"/>
- <rect style="opacity:0.1;fill:#ffffff" width="40" height="1" x="12" y="4"/>
- <rect style="opacity:0.1;fill:#ffffff" width="4" height="1" x="4" y="52"/>
- <rect style="opacity:0.1;fill:#ffffff" width="4" height="1" x="8" y="56"/>
- <rect style="opacity:0.1;fill:#ffffff" width="5" height="1" x="56" y="52"/>
- <rect style="opacity:0.1;fill:#ffffff" width="4" height="1" x="52" y="56"/>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="8" y="8" width="48" height="48" style="fill:#ffffff"/>
+ <path d="m12 4.0000001v4h40v-4zm40 4v3.9999999h4v-3.9999999zm4 3.9999999v40h4v-40zm0 40h-4v4h4zm-4 4h-40v4h40zm-40 0v-4h-4v4zm-4-4v-40h-4v40zm0-40h4v-3.9999999h-4zm12 8v16h4v-16zm20 0v16h4v-16z" style="fill:#5c3e52"/>
+ <path d="m8 44v8h4v4h40v-4h4v-8h-4v4h-40v-4z" style="fill:#6d8292"/>
+ <rect x="4" y="12" width="4" height="1" style="opacity:.2"/>
+ <rect x="8" y="8" width="4" height="1" style="opacity:.2"/>
+ <rect x="52" y="8" width="4" height="1" style="opacity:.2"/>
+ <rect x="56" y="12" width="4" height="1" style="opacity:.2"/>
+ <rect x="8" y="43.986542" width="4" height="1" style="opacity:.2"/>
+ <rect x="8" y="52" width="4" height="1" style="opacity:.2"/>
+ <rect x="52" y="43.986542" width="4" height="1" style="opacity:.2"/>
+ <rect x="52" y="52" width="4" height="1" style="opacity:.2"/>
+ <rect x="12" y="48" width="40" height="1" style="opacity:.2"/>
+ <rect x="12" y="56" width="40" height="1" style="opacity:.2"/>
+ <path d="m20 36.000745v1h4v-1zm20 0v1h4v-1z" style="opacity:.2"/>
+ <rect x="12" y="4" width="40" height="1" style="opacity:.2"/>
+ <path d="m8 4v4h4v-4zm0 4h-4v4h4zm44-4v4h3.998v-4zm3.998 4v4h4.002v-4zm-51.998 44v4h4v-4zm4 4v4h4v-4zm47.998-4v4h4.002v-4zm0 4h-3.998v4h3.998z" style="fill-opacity:.80000001;fill:#5c3e52"/>
 </svg>
