@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <path style="opacity:0.2" d="m 3,42 v 1 h 3 v -1 z m 38.998047,0 v 1 H 42 45 V 42 H 42 Z M 6,45 v 1 h 3 30 2.998047 V 45 H 39 9 Z"/>
+ <path style="opacity:0.2" d="m 3,42 v 1 h 3 v -1 z m 39,0 v 1 H 42 45 V 42 H 42 Z M 6,45 v 1 h 3 30 3 V 45 H 39 9 Z"/>
  <rect style="fill:#ffffff" width="36" height="36" x="6" y="6"/>
- <path style="fill:#5c3e52" d="m9.0000061 2.9999981v3.000005h29.999924v-3.000005zm29.999924 3.000005v2.9999988h2.99999v-2.9999988zm2.99999 2.9999988v29.999977h3v-29.999977zm0 29.999977h-2.99999v3.000003h2.99999zm-2.99999 3.000003h-29.999924v3.000018h29.999924zm-29.999924 0v-3.000003h-3.000018v3.000003zm-3.000018-3.000003v-29.999977h-2.999988v29.999977zm0-29.999977h3.000018v-2.9999988h-3.000018zm8.9999779 5.9999911v12.000007h2.999999v-12.000007zm14.999995 0v12.000007h2.999996v-12.000007z"/>
- <path style="fill:#6d8292" d="m5.9999881 33.000034v5.999945h3.000018v3.000003h29.999924v-3.000003h2.99999v-5.999945h-2.99999v2.999976h-29.999924v-2.999976z"/>
+ <path style="fill:#5c3e52" d="m9 3v3h30v-3zm30 3v3h3v-3zm3 3v30h3v-30zm0 30h-3v3h3zm-3 3h-30v3h30zm-30 0v-3h-3v3zm-3-3v-30h-3v30zm0-30h3v-3h-3zm9 6v12h3v-12zm15 0v12h3v-12z"/>
+ <path style="fill:#6d8292" d="m6 33v6h3v3h30v-3h3v-6h-3v3h-30v-3z"/>
  <rect style="opacity:.2" width="3" height="1" x="3" y="9"/>
  <rect style="opacity:.2" width="3" height="1" x="6" y="6"/>
  <rect style="opacity:.2" width="3" height="1" x="39" y="6"/>
@@ -13,8 +13,8 @@
  <rect style="opacity:.2" width="3" height="1" x="39" y="39"/>
  <rect style="opacity:.2" width="30" height="1" x="9" y="36"/>
  <rect style="opacity:.2" width="30" height="1" x="9" y="42"/>
- <path style="opacity:0.1" d="m14.999966 28v-1h2.999999v1zm14.999995 0v-1h2.999996v1z"/>
- <path style="fill:#825873" d="m5.9999881 2.9999981v3.000005h3.000018v-3.000005zm0 3.000005h-2.999988v2.9999988h2.999988zm32.999942-3.000005v3.000005h2.99849v-3.000005zm2.99849 3.000005v2.9999988h3.0015v-2.9999988zm-38.99842 32.999976v3.000003h2.999988v-3.000003zm2.999988 3.000003v3.000018h3.000018v-3.000018zm35.998432-3.000003v3.000003h3.0015v-3.000003zm0 3.000003h-2.99849v3.000018h2.99849z"/>
- <path style="opacity:0.1;fill:#ffffff" d="m 6,3 v 1 h 3 30 2.998047 V 3 H 39 9 Z M 3,6 V 7 H 6 V 6 Z M 41.998047,6 V 7 H 42 45 V 6 h -3 z"/>
+ <path style="opacity:0.1" d="m15 28v-1h3v1zm15 0v-1h3v1z"/>
+ <path style="fill:#825873" d="m6 3v3h3v-3zm0 3h-3v3h3zm33-3v3h3v-3zm3 3v3h3v-3zm-39 33v3h3v-3zm3 3v3h3v-3zm36-3v3h3v-3zm0 3h-3v3h3z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 6,3 v 1 h 3 30 3 V 3 H 39 9 Z M 3,6 V 7 H 6 V 6 Z M 42,6 V 7 H 42 45 V 6 h -3 z"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 3 39 L 3 40 L 6 40 L 6 39 L 3 39 z M 42 39 L 42 40 L 45 40 L 45 39 L 42 39 z M 6 42 L 6 43 L 9 43 L 9 42 L 6 42 z M 39 42 L 39 43 L 42 43 L 42 42 L 39 42 z"/>
 </svg>
