@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="opacity:0.2;paint-order:stroke fill markers" width="56" height="56" x="4" y="4" rx="3" ry="3"/>
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="4" rx="3" ry="3"/>
  <path style="fill:#ffba08" d="M 60,31 V 56 C 60,57.662 58.662,59 57,59 H 30 V 31 Z"/>
  <path style="fill:#459ee9" d="M 4,29 V 56 C 4,57.662 5.338,59 7,59 H 32 V 29 Z"/>
  <path style="fill:#eb572a" d="M 7,3 C 5.338,3 4,4.338 4,6 V 31 H 34 V 3 Z"/>

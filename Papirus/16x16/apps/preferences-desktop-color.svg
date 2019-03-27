@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect fill="#f88e86" width="5" height="5" x="5" y="1"/>
- <path fill="#fec166" d="m1 1h4v5h-5v-4s0-1 1-1z"/>
- <path fill="#c37dcf" d="m10 1h4s1 0 1 1v4h-5z"/>
- <rect fill="#f5685d" width="5" height="5" x="5" y="6"/>
- <rect fill="#feac33" width="5" height="5" x="0" y="6"/>
- <rect fill="#af51bf" width="5" height="5" x="10" y="6"/>
- <rect fill="#f34235" width="5" height="5" x="5" y="11"/>
- <path fill="#fe9700" d="m0 11h5v5h-4c-1 0-1-1-1-1z"/>
- <path fill="#9b26af" d="m10 11h5v4c0 1-1 1-1 1h-4z"/>
+ <rect style="fill:#f88e86" width="5" height="5" x="6" y="1"/>
+ <path style="fill:#fec166" d="M 2,1 H 6 V 6 H 1 V 2 C 1,2 1,1 2,1 Z"/>
+ <path style="fill:#c37dcf" d="M 11,1 H 15 C 15,1 16,1 16,2 V 6 H 11 Z"/>
+ <rect style="fill:#f5685d" width="5" height="5" x="6" y="6"/>
+ <rect style="fill:#feac33" width="5" height="5" x="1" y="6"/>
+ <rect style="fill:#af51bf" width="5" height="5" x="11" y="6"/>
+ <rect style="fill:#f34235" width="5" height="5" x="6" y="11"/>
+ <path style="fill:#fe9700" d="M 1,11 H 6 V 16 H 2 C 1,16 1,15 1,15 Z"/>
+ <path style="fill:#9b26af" d="M 11,11 H 16 V 15 C 16,16 15,16 15,16 H 11 Z"/>
 </svg>
