@@ -31,7 +31,6 @@ for i in "$@"; do
 			--quiet \
 			--disable-simplify-colors \
 			--disable-style-to-xml \
-			--enable-id-stripping \
 			--remove-metadata \
 			--renderer-workaround \
 			--strip-xml-prolog \
