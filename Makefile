@@ -79,7 +79,7 @@ test_symlinks:
 .PHONY: test_filenames
 test_filenames:
 	# >>> Searching for invalid filenames
-	@find $(ICON_THEMES) -not -iregex '[-_/\.+@a-z0-9]+' -print \
+	@LC_ALL=C find $(ICON_THEMES) -not -iregex '[-_/\.+@a-z0-9]+' -print \
 		-exec false '{}' +
 
 .PHONY: test_xml_struct
