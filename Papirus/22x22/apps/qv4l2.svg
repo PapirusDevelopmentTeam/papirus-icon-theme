@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect opacity=".2" width="20" height="20" x="-21.5" y="-21" rx="10" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect fill="#c4c4c4" width="20" height="20" x="-21" y="-21" rx="10" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect opacity=".2" width="20" height="20" x="1" y="1.5" rx="10" ry="10"/>
+ <rect fill="#c4c4c4" width="20" height="20" x="1" y="1" rx="10" ry="10"/>
  <circle opacity=".5" cx="11" cy="11.5" r="5.5"/>
  <circle fill="#3f3f3f" cx="11" cy="11" r="6"/>
  <circle opacity=".2" cx="11" cy="-11.5" r="5" transform="scale(1,-1)"/>
