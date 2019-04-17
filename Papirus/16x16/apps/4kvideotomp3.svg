@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <circle style="fill:#b7b7b7" cx="8.5" cy="8.5" r="7.5"/>
+ <g transform="translate(-15.5,-15)">
+  <circle style="fill:#3f3f3f" cx="24" cy="20" r="2"/>
+  <circle style="fill:#3f3f3f" cx="24" cy="27" r="2"/>
+ </g>
+ <circle style="fill:#3f3f3f" cx="8.5" cy="-12" r="2" transform="rotate(90)"/>
+ <circle style="fill:#3f3f3f" cx="8.5" cy="-5" r="2" transform="rotate(90)"/>
+</svg>
