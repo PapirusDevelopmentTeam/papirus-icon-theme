@@ -113,7 +113,7 @@ Packages in this section are not part of the official repositories. If you have 
 | :------------ | :----------------- | :--------------------------------------- |
 | ALT Linux     | Andrey Cherepanov  | `apt-get install papirus-icon-theme` <sup>[[link](https://packages.altlinux.org/en/Sisyphus/srpms/papirus-icon-theme)]</sup> |
 | Arch Linux    | Felix Yan          | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
-| Arch Linux    | Mohammadreza Abdollahzadeh      | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
+| Arch Linux    | Mohammadreza Abdollahzadeh | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
 | Debian 10+    | Yangfl             | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
 | Fedora        | Dirk Davidis       | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | NetBSD        | nia                | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
@@ -121,8 +121,8 @@ Packages in this section are not part of the official repositories. If you have 
 | openSUSE      | Matthias Eliasson  | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
 | ROSA Linux    | Vladimir Penchikov | `sudo urpmi papirus-icon-theme` |
 | Solus         | Joshua Strobl      | `sudo eopkg it papirus-icon-theme` |
-| Ubuntu 18.04+ | Yangfl             | `sudo apt install papirus-icon-theme` |  
-| Void Linux | Giuseppe Fierro             | `sudo xbps-install papirus-icon-theme` |
+| Ubuntu 18.04+ | Yangfl             | `sudo apt install papirus-icon-theme` |
+| Void Linux    | Giuseppe Fierro    | `sudo xbps-install papirus-icon-theme` |
 
 **NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
 
@@ -183,7 +183,7 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](https://i.imgur.com/izz7yhZ.png)
+![Folder Color Preview](https://i.imgur.com/jP3mRci.png)
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
