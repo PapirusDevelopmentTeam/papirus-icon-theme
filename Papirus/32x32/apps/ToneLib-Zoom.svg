@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="21" height="29" x="6" y="2" rx="1.5" ry="1.45"/>
+ <rect style="fill:#5d6c7b" width="21" height="29" x="6" y="1" rx="1.5" ry="1.45"/>
+ <rect style="fill:#b0ee80" width="15" height="9" x="9" y="3"/>
+ <circle style="opacity:0.2" cx="11.5" cy="27.5" r="1.5"/>
+ <circle style="fill:#ef5c51" cx="11.5" cy="26.5" r="1.5"/>
+ <circle style="opacity:0.2" cx="16.5" cy="27.5" r="1.5"/>
+ <circle style="fill:#c5e7fb" cx="16.5" cy="26.5" r="1.5"/>
+ <circle style="opacity:0.2" cx="21.5" cy="27.5" r="1.5"/>
+ <circle style="fill:#c5e7fb" cx="21.5" cy="26.5" r="1.5"/>
+ <circle style="opacity:0.2" cx="25.456" cy="2.121" r="5.5" transform="rotate(45)"/>
+ <circle style="fill:#ffffff" cx="24.749" cy="1.414" r="5.5" transform="rotate(45)"/>
+ <path style="fill:#129eee" d="M 20.389088,14.610914 A 5.4999998,5.4999998 0 0 0 19.86782,14.159912 l -2.395547,2.395545 a 0.68756873,0.68756873 0 1 0 0.972272,0.972272 l 2.396498,-2.396498 a 5.4999998,5.4999998 0 0 0 -0.451955,-0.520317 z"/>
+ <g transform="matrix(0.9195403,0,0,0.96551724,0.62068879,0.23448267)">
+  <rect style="fill:#44525e" width="1.45" height="7.25" x="15.28" y="3.9"/>
+  <rect style="fill:#44525e" width="1.45" height="4.35" x="12.38" y="3.9"/>
+  <rect style="fill:#44525e" width="1.45" height="3.625" x="6.8" y="-16" transform="rotate(90)"/>
+ </g>
+ <g transform="matrix(0.9195399,0,0,0.96551724,1.287363,0.23448268)">
+  <rect style="fill:#44525e" width="1.45" height="4.35" x="21.07" y="3.9"/>
+  <rect style="fill:#44525e" width="1.45" height="4.35" x="18.18" y="6.8"/>
+  <rect style="fill:#44525e" width="1.45" height="3.625" x="6.8" y="-21.8" transform="rotate(90)"/>
+  <rect style="fill:#44525e" width="1.45" height="3.625" x="3.9" y="-21.8" transform="rotate(90)"/>
+  <rect style="fill:#44525e" width="1.45" height="3.625" x="9.7" y="-22.52" transform="rotate(90)"/>
+ </g>
+ <path style="opacity:0.1;fill:#ffffff" d="M 7.5 1 C 6.6689999 1 6 1.6459187 6 2.4492188 L 6 3.4492188 C 6 2.6459187 6.6689999 2 7.5 2 L 25.5 2 C 26.331 2 27 2.6459187 27 3.4492188 L 27 2.4492188 C 27 1.6459187 26.331 1 25.5 1 L 7.5 1 z"/>
+ <rect style="opacity:0.2" width="15" height="1" x="9" y="3"/>
+ <rect style="opacity:0.1;fill:#ffffff" width="15" height="1" x="9" y="12"/>
+</svg>
