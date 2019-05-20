@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#807975" width="16" height="12" x="0" y="4" rx="1.2" ry="1.2"/>
+ <rect style="fill:#fca526" width="12" height="8" x="2" y="6"/>
+ <rect style="opacity:0.6;fill:#ffffff" width="5" height="5" x="6" y="7" rx=".526" ry=".5"/>
+ <rect style="opacity:0.6;fill:#ffffff" width="5" height="4" x="3" y="9" rx=".5" ry=".5"/>
+ <rect style="fill:#e4e4e4" width="7" height="16" x="9" y="0" rx="1.167" ry="1.2"/>
+ <circle style="fill:#a9a8a4" cx="12.5" cy="3.5" r="2.5"/>
+ <circle style="fill:#f9f8f7" cx="-3.5" cy="-12.5" r="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#f66151" cx="11.25" cy="8.75" r=".75"/>
+ <circle style="fill:#a9a8a4" cx="13.75" cy="8.75" r=".75"/>
+ <circle style="fill:#a9a8a4" cx="11.25" cy="11.25" r=".75"/>
+ <circle style="fill:#a9a8a4" cx="13.75" cy="11.25" r=".75"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 10,1.6e-7 c -0.6647998,0 -1.1999998,0.53519999 -1.1999998,1.19999994 v 0.4 c 0,-0.66479996 0.5352,-1.19999995 1.1999998,-1.19999995 h 4.8 c 0.6648,0 1.2,0.53519999 1.2,1.19999995 v -0.4 C 16,0.53520015 15.4648,1.6e-7 14.8,1.6e-7 Z"/>
+ <circle style="fill:#a9a8a4" cx="11.25" cy="13.75" r=".75"/>
+ <circle style="fill:#a9a8a4" cx="13.75" cy="13.75" r=".75"/>
+</svg>

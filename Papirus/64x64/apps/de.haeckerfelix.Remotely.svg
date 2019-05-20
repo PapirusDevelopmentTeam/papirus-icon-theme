@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="56" height="42" x="4" y="19" rx="4.2" ry="4.2"/>
+ <rect style="fill:#807975" width="56" height="42" x="4" y="18" rx="4.2" ry="4.2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8.1992188 18 C 5.8724189 18 4 19.872419 4 22.199219 L 4 23.199219 C 4 20.872419 5.8724189 19 8.1992188 19 L 55.800781 19 C 58.127581 19 60 20.872419 60 23.199219 L 60 22.199219 C 60 19.872419 58.127581 18 55.800781 18 L 8.1992188 18 z"/>
+ <rect style="fill:#fca526" width="48" height="34" x="8" y="22"/>
+ <rect style="opacity:0.1" width="30" height="1" x="8" y="22"/>
+ <rect style="opacity:0.6;fill:#ffffff" width="21" height="21" x="25" y="26" rx="2.211" ry="2.1"/>
+ <rect style="opacity:0.6;fill:#ffffff" width="20" height="17" x="12" y="35" rx="2" ry="2.125"/>
+ <rect style="fill:#e4e4e4" width="25" height="56" x="35" y="4" rx="4.167" ry="4.2"/>
+ <path style="opacity:0.1" d="m 43,32 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 9,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -9,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 9,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -9,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 9,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+ <circle style="fill:#a9a8a4" cx="47.5" cy="17.5" r="8.5"/>
+ <circle style="opacity:0.2" cx="-18.5" cy="-47.5" r="4.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#f9f8f7" cx="-17.5" cy="-47.5" r="4.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#f66151" cx="43" cy="34" r="3"/>
+ <circle style="fill:#a9a8a4" cx="52" cy="34" r="3"/>
+ <circle style="fill:#a9a8a4" cx="43" cy="43" r="3"/>
+ <circle style="fill:#a9a8a4" cx="52" cy="43" r="3"/>
+ <circle style="fill:#a9a8a4" cx="43" cy="52" r="3"/>
+ <circle style="fill:#a9a8a4" cx="52" cy="52" r="3"/>
+ <path style="opacity:0.1" d="M 47.5 9 A 8.5 8.5 0 0 0 39 17.5 A 8.5 8.5 0 0 0 39.021484 18.085938 A 8.5 8.5 0 0 1 47.5 10 A 8.5 8.5 0 0 1 55.978516 17.914062 A 8.5 8.5 0 0 0 56 17.5 A 8.5 8.5 0 0 0 47.5 9 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 39.166016 4 C 36.857682 4 35 5.8724189 35 8.1992188 L 35 9.1992188 C 35 6.8724189 36.857682 5 39.166016 5 L 55.833984 5 C 58.142318 5 60 6.8724189 60 9.1992188 L 60 8.1992188 C 60 5.8724189 58.142318 4 55.833984 4 L 39.166016 4 z"/>
+</svg>

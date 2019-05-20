@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="30" x="4" y="15" rx="3" ry="3"/>
+ <rect style="fill:#807975" width="40" height="30" x="4" y="14" rx="3" ry="3"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.9082031 14 C 5.2965668 14 4 15.274565 4 16.857422 L 4 17.857422 C 4 16.274565 5.2965668 15 6.9082031 15 L 41.091797 15 C 42.703433 15 44 16.274565 44 17.857422 L 44 16.857422 C 44 15.274565 42.703433 14 41.091797 14 L 6.9082031 14 z"/>
+ <rect style="fill:#fca526" width="34" height="24" x="7" y="17"/>
+ <rect style="opacity:0.1" width="22" height="1" x="7" y="17"/>
+ <rect style="opacity:0.6;fill:#ffffff" width="15" height="15" x="19" y="20" rx="1.579" ry="1.5"/>
+ <rect style="opacity:0.6;fill:#ffffff" width="14" height="12" x="10" y="26" rx="1.4" ry="1.5"/>
+ <rect style="fill:#e4e4e4" width="18" height="40" x="26" y="4" rx="3" ry="3"/>
+ <path style="opacity:0.1" d="m 32,25 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 6,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -6,6 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 6,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -6,6 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 6,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"/>
+ <circle style="fill:#a9a8a4" cx="35" cy="14" r="6"/>
+ <circle style="opacity:0.2" cx="-15" cy="-35" r="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#f9f8f7" cx="-14" cy="-35" r="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#f66151" cx="32" cy="26" r="2"/>
+ <circle style="fill:#a9a8a4" cx="38" cy="26" r="2"/>
+ <circle style="fill:#a9a8a4" cx="32" cy="32" r="2"/>
+ <circle style="fill:#a9a8a4" cx="38" cy="32" r="2"/>
+ <circle style="fill:#a9a8a4" cx="32" cy="38" r="2"/>
+ <circle style="fill:#a9a8a4" cx="38" cy="38" r="2"/>
+ <path style="opacity:0.1" d="M 35 8 A 6 6 0 0 0 29 14 A 6 6 0 0 0 29.025391 14.498047 A 6 6 0 0 1 35 9 A 6 6 0 0 1 40.974609 14.501953 A 6 6 0 0 0 41 14 A 6 6 0 0 0 35 8 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 29 4 C 27.338 4 26 5.338 26 7 L 26 8 C 26 6.338 27.338 5 29 5 L 41 5 C 42.662 5 44 6.338 44 8 L 44 7 C 44 5.338 42.662 4 41 4 L 29 4 z"/>
+</svg>
