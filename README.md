@@ -196,6 +196,7 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 - [Papirus themes for FileZilla](https://github.com/PapirusDevelopmentTeam/papirus-filezilla-themes)
 - [Papirus theme for SMPlayer](https://github.com/PapirusDevelopmentTeam/papirus-smplayer-theme)
 - [Papirus themes for Claws Mail](https://github.com/PapirusDevelopmentTeam/papirus-claws-mail-theme)
+- [Papirus themes for Thunderbird](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus)
 - [Papirus theme for aMule](https://github.com/PapirusDevelopmentTeam/papirus-amule-theme)
 
 ## Recommendations
