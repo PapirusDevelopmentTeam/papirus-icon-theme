@@ -107,17 +107,21 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 
 ### Third-party packages
 
-Packages in this section are not part of the official repositories. If you have a problem or a question, please contact the package maintainer.
+Packages listed in this section are third-party packages. If you have a problem or a question, please contact the package maintainer.
+
+Please note that some packages in the list may be outdated, open [Repology](https://repology.org/project/papirus-icon-theme/versions) to find out package versions.
 
 | **Distro**    | **Maintainer**       | **Package**                              |
 | :------------ | :------------------- | :--------------------------------------- |
 | ALT Linux     | Andrey Cherepanov    | `apt-get install papirus-icon-theme` <sup>[[link](https://packages.altlinux.org/en/Sisyphus/srpms/papirus-icon-theme)]</sup> |
-| Arch Linux    | Felix Yan            | `sudo pacman -S papirus-icon-theme` <sup>[[link](https://www.archlinux.org/packages/community/any/papirus-icon-theme/)]</sup> |
+| Arch Linux    | Felix Yan            | `sudo pacman -S papirus-icon-theme` <sup>community</sup> |
 | Arch Linux    | Mohammadreza Abdollahzadeh | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
-| Debian 10+    | Yangfl               | `sudo apt install papirus-icon-theme` <sup>[[sid](https://packages.debian.org/sid/papirus-icon-theme)]</sup> |
-| Fedora        | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
+| Debian 9+     | Yangfl               | `sudo apt install papirus-icon-theme` |
+| Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
 | Fedora        | Dirk Davidis         | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
-| NetBSD        | nia                  | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
+| FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
+| NetBSD        | Nia Alarie           | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
+| NixOS         | Nixpkgs Contributors | `nix-env -iA nixos.papirus-icon-theme` |
 | openSUSE      | Konstantin Voinov    | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
 | openSUSE      | Matthias Eliasson    | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
 | ROSA Linux    | Vladimir Penchikov   | `sudo urpmi papirus-icon-theme` |
