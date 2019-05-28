@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="12" width="60" height="4" style="fill:#ff7964"/>
+ <rect x="2" y="24" width="60" height="4" style="fill:#ff7964"/>
+ <rect x="2" y="36" width="60" height="4" style="fill:#ff7964"/>
+ <rect x="2" y="48" width="60" height="4" style="fill:#ff7964"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-61" y="-60" width="56" height="56" rx="2" ry="2" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-60" width="56" height="56" rx="2" ry="2" style="fill:#414141"/>
+ <path d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h52c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
+ <g transform="translate(-1.1196136e-6 -.50000038)">
+  <text transform="scale(-1,1)" x="-51.001465" y="51" style="font-family:'Latin Modern Math';font-size:52.708637px;letter-spacing:0px;line-height:1.25;opacity:.2;word-spacing:0px" xml:space="preserve"><tspan id="tspan909" x="-51.001465" y="51">Σ</tspan></text>
+  <text transform="scale(-1,1)" x="-51.001465" y="50" style="fill:#b4b4b4;font-family:'Latin Modern Math';font-size:52.708637px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan1685" x="-51.001465" y="50" style="fill:#b4b4b4">Σ</tspan></text>
+ </g>
+</svg>
