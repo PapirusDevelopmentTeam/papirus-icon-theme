@@ -127,7 +127,7 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | ROSA Linux    | Vladimir Penchikov   | `sudo urpmi papirus-icon-theme` |
 | Solus         | Joshua Strobl        | `sudo eopkg it papirus-icon-theme` |
 | Ubuntu 18.04+ | Yangfl               | `sudo apt install papirus-icon-theme` |
-| Void Linux    | Giuseppe Fierro      | `sudo xbps-install papirus-icon-theme` |
+| Void Linux    | Giuseppe Fierro      | `sudo xbps-install -S papirus-icon-theme` |
 
 **NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
 
