@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="fill:#4f4f4f" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
+ <path style="opacity:0.2" d="m 2,21.5 c -0.554,0 -1,-0.446 -1,-1 V 20 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 v 0.5 c 0,0.554 -0.446,1 -1,1 z"/>
+ <rect style="opacity:0.2" width="16" height="7" x="3" y="3.5" rx="1" ry="1"/>
+ <rect style="fill:#48aeff" width="16" height="7" x="3" y="3" rx="1" ry="1"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="16" height="7" x="3" y="12" rx="1" ry="1"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 4,3 C 3.446,3 3,3.446 3,4 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 14 c 0.554,0 1,0.446 1,1 V 4 C 19,3.446 18.554,3 18,3 Z"/>
+</svg>
