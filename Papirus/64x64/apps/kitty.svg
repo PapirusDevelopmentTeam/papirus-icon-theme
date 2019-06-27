@@ -1,1 +1,9 @@
-utilities-x-terminal.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="2.8" ry="2.8"/>
+ <rect style="fill:#4f4f4f" width="56" height="56" x="4" y="4" rx="2.8" ry="2.8"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.8007812 4 C 5.2495812 4 4 5.2495812 4 6.8007812 L 4 7.8007812 C 4 6.2495813 5.2495812 5 6.8007812 5 L 57.199219 5 C 58.750419 5 60 6.2495812 60 7.8007812 L 60 6.8007812 C 60 5.2495813 58.750419 4 57.199219 4 L 6.8007812 4 z"/>
+ <path style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 15,21 27,33 15,45"/>
+ <path style="fill:none;stroke:#f2f2f2;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 15,20 27,32 15,44"/>
+ <path style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 49,45 H 33"/>
+ <path style="fill:none;stroke:#f2f2f2;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 49,44 H 33"/>
+</svg>
