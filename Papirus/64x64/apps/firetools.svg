@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="53" height="53" x="5" y="7" rx="2.65" ry="2.65"/>
+ <rect style="fill:#ef4e4e" width="53" height="53" x="5" y="6" rx="2.65" ry="2.65"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 7.6503906 6 C 6.1822907 6 5 7.1822907 5 8.6503906 L 5 9.6503906 C 5 8.1822907 6.1822907 7 7.6503906 7 L 55.349609 7 C 56.817709 7 58 8.1822907 58 9.6503906 L 58 8.6503906 C 58 7.1822907 56.817709 6 55.349609 6 L 7.6503906 6 z"/>
+ <path style="fill:none;stroke:#656565;stroke-width:5;stroke-linecap:round" d="m 31.50025,6.5 v 52"/>
+ <path style="fill:none;stroke:#656565;stroke-width:5;stroke-linecap:round" d="m 17.50025,6.5 v 52"/>
+ <path style="fill:none;stroke:#656565;stroke-width:5;stroke-linecap:round" d="m 45.50025,6.5 v 52"/>
+ <path style="opacity:0.2" d="m 5.5,16.99975 a 2.50025,2.50025 0 1 0 0,5 h 52 a 2.50025,2.50025 0 1 0 0,-5 z m 0,14 a 2.50025,2.50025 0 1 0 0,5 h 52 a 2.50025,2.50025 0 1 0 0,-5 z m 0,14 a 2.50025,2.50025 0 1 0 0,5 h 52 a 2.50025,2.50025 0 1 0 0,-5 z"/>
+ <path style="fill:none;stroke:#656565;stroke-width:5;stroke-linecap:round" d="M 57.5,32.49975 H 5.5"/>
+ <path style="fill:none;stroke:#656565;stroke-width:5;stroke-linecap:round" d="M 57.5,18.49975 H 5.5"/>
+ <path style="fill:none;stroke:#656565;stroke-width:5;stroke-linecap:round" d="M 57.5,46.49975 H 5.5"/>
+ <path style="fill:none;stroke:#ffa02e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round" d="M 40.5,43.999999 V 36.5 c 0,-2.387339 1.971331,-4 5.166665,-4 3.0555,0 4.833335,1.729901 4.833335,4 v 7.499999"/>
+ <circle style="opacity:0.2" cx="45.5" cy="49.5" r="10.5"/>
+ <circle style="fill:#ffce23" cx="45.5" cy="48.5" r="10.5"/>
+ <circle style="fill:#7f4a04" cx="45.5" cy="47.5" r="2.5"/>
+ <path style="fill:#7f4a04" d="m 44,46.000001 v 4.499998 A 1.4999994,1.4999994 0 0 0 45.499999,52 1.4999994,1.4999994 0 0 0 47,50.499999 v -4.499998 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 45.5,38 A 10.5,10.5 0 0 0 35,48.5 10.5,10.5 0 0 0 35.019531,49.095703 10.5,10.5 0 0 1 45.5,39 10.5,10.5 0 0 1 55.980469,48.904297 10.5,10.5 0 0 0 56,48.5 10.5,10.5 0 0 0 45.5,38 Z"/>
+</svg>
