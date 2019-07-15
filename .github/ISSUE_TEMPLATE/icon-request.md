@@ -1,6 +1,8 @@
 ---
 name: Icon Request
 about: Request an icon to add
+title: '[Icon request] '
+labels: "icon request"
 
 ---
 
