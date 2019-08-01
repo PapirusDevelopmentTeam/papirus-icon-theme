@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="19.999" ry="19.999"/>
+ <rect style="fill:#9d9d9d" width="40" height="40" x="4" y="4" rx="19.999" ry="19.999"/>
+ <circle style="fill:#707070" cx="-24" cy="-24" r="16" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#3f3f3f" cx="-24" cy="-24" r="12" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.1" cx="-25" cy="-24" r="6" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#4f4f4f" cx="-24" cy="-24" r="6" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m 24,18 a 6,6 0 0 0 -6,6 6,6 0 0 0 0.02539,0.501953 A 6,6 0 0 1 24,19 6,6 0 0 1 29.974609,24.498047 6,6 0 0 0 30,24 6,6 0 0 0 24,18 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 24,4 C 12.920395,4 4,12.920395 4,24 4,24.167551 4.00766,24.33346 4.011719,24.5 4.2758915,13.653807 13.087946,5 24,5 34.912054,5 43.724109,13.653807 43.988281,24.5 43.992338,24.33346 44,24.167551 44,24 44,12.920395 35.079605,4 24,4 Z"/>
+ <circle style="opacity:0.2" cx="33" cy="36" r="11"/>
+ <circle style="fill:#31b58e" cx="33" cy="35" r="11"/>
+ <path style="fill:#ffffff" d="M 30 28.683594 A 7 7 0 0 0 26 35 A 7 7 0 0 0 30 41.316406 L 30 45.572266 A 11 11 0 0 0 33 46 A 11 11 0 0 0 36 45.580078 L 36 41.314453 A 7 7 0 0 0 40 35 A 7 7 0 0 0 36 28.685547 L 36 36 L 30 36 L 30 28.683594 z"/>
+</svg>
