@@ -17,6 +17,6 @@ put:
 .PHONY: all clean convert prepare put
 
 # allows to run goals from the main Makefile
-.PHONY: install uninstall dist release undo_release test test-all
-install uninstall dist release undo_release test test-all:
+.PHONY: install uninstall dist release undo_release test test-all clean_themes
+install uninstall dist release undo_release test test-all clean_themes:
 	$(MAKE) -C "$(THEMES_DIR)" $@

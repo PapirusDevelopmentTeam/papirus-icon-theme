@@ -39,8 +39,11 @@ undo_release: _get_version
 	-git tag -d $(VERSION)
 	-git push --delete origin $(VERSION)
 
+clean_themes:
+	-git clean -i $(ICON_THEMES)
 
-.PHONY: $(ICON_THEMES) all install uninstall _get_version dist release undo_release
+
+.PHONY: $(ICON_THEMES) all install uninstall _get_version dist release undo_release clean_themes
 
 # TESTS
 .PHONY: test
