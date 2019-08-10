@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="opacity:0.2" width="20" height="20" x="1" y="1.5" rx="1.5" ry="1.5"/>
+ <rect style="fill:#16a1db" width="20" height="20" x="1" y="1" rx="1.5" ry="1.5"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2.5,1 C 1.669,1 1,1.669 1,2.5 V 3 C 1,2.169 1.669,1.5 2.5,1.5 h 17 C 20.331,1.5 21,2.169 21,3 V 2.5 C 21,1.669 20.331,1 19.5,1 Z"/>
+ <path style="opacity:0.2" d="m 7.5,4.5 -2.5,3 -2.5,3 H 5 v 7 h 5 v -7 h 2.5 L 10,7.5 Z M 14,6.5996094 V 11.5 h -2 l 1.75,2 1.75,2 1.75,-2 1.75,-2 H 17 V 6.5996094 Z"/>
+ <rect style="fill:#ffffff" width="5" height="8" x="5" y="9"/>
+ <path style="fill:#ffffff" transform="matrix(0.68604215,0,0,0.47530394,-2.4770405,-1.0288303)" d="m 14.542897,10.580241 3.644091,6.311751 3.644091,6.311751 -7.288182,0 -7.2881818,-1e-6 3.6440908,-6.31175 z"/>
+ <rect style="fill:#a2cced" width="3" height="5.5" x="14" y="-11.6" transform="scale(1,-1)"/>
+ <path style="fill:#a2cced" transform="matrix(0.48022951,0,0,-0.3168693,8.5160717,18.352554)" d="m 14.542897,10.580241 3.644091,6.311751 3.644091,6.311751 -7.288182,0 -7.2881818,-1e-6 3.6440908,-6.31175 z"/>
+</svg>
