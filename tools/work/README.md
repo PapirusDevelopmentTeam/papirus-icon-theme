@@ -187,7 +187,7 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
 5. Run tests:
 
     ```sh
-    make tests
+    make test
     ```
 
 6. Everything is ready now! You can commit the changes to GitHub.
