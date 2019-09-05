@@ -456,6 +456,11 @@ Size=32
 Scale=2
 Type=Fixed
 
+[48x48/actions]
+Context=Actions
+Size=48
+Type=Fixed
+
 [48x48/apps]
 Context=Applications
 Size=48
@@ -497,6 +502,12 @@ Size=48
 MinSize=48
 MaxSize=512
 Type=Scalable
+
+[48x48@2x/actions]
+Context=Actions
+Size=48
+Scale=2
+Type=Fixed
 
 [48x48@2x/apps]
 Context=Applications
