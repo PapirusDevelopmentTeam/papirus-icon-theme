@@ -1,11 +1,11 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m16 8-1 2h-12c-0.554 0-1 1.446-1 2v14c0 0.554 0.446 1 1 1h26c0.554 0 1-0.446 1-1v-15c0-0.554-0.446-1-1-1h-3l-1-2z" style="opacity:.2"/>
- <path d="m16 7-1 2h-12c-0.554 0-1 0.446-1 1v15c0 0.554 0.446 1 1 1h26c0.554 0 1-0.446 1-1v-15c0-0.554-0.446-1-1-1h-3l-1-2z" style="fill:#ff6c3a"/>
- <path d="m16 7-1 2h-12c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h12l1-2h9l1 2h3c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-3l-1-2h-9z" style="fill:#ffffff;opacity:.2"/>
- <rect x="17" y="9" width="7" height="2" style="opacity:.2"/>
- <rect x="17" y="8" width="7" height="2" style="fill:#ffffff"/>
- <circle cx="11" cy="19" r="7" style="opacity:.2"/>
- <circle cx="11" cy="18" r="7" style="fill:#ffffff"/>
- <ellipse cx="10.993272" cy="18.982758" rx="4.9932718" ry="5.0172415" style="opacity:.2"/>
- <ellipse cx="10.993272" cy="17.982758" rx="4.9932718" ry="5.0172415" style="fill:#4f4f4f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <path style="opacity:0.2" d="M 16,7 15,9 H 3 C 2.446,9 2,9.446 2,10 V 26 C 2,26.554 2.446,27 3,27 H 29 C 29.554,27 30,26.554 30,26 V 10 C 30,9.446 29.526,9.1752 29,9 H 26 L 25,7 Z"/>
+ <path style="fill:#ff6c3a" d="M 15,6 14,8 H 3 C 2.446,8 2,8.446 2,9 V 25 C 2,25.554 2.446,26 3,26 H 29 C 29.554,26 30,25.554 30,25 V 9 C 30,8.446 29.526,8.1752 29,8 H 26 L 25,6 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 15,6 14,8 H 3 C 2.446,8 2,8.446 2,9 V 10 C 2,9.446 2.446,9 3,9 H 14 L 15,7 H 25 L 26,9 H 29 C 29.554,9 30,9.446 30,10 V 9 C 30,8.446 29.554,8 29,8 H 26 L 25,6 Z"/>
+ <rect style="opacity:0.2" width="8" height="2" x="16" y="9"/>
+ <rect style="fill:#ffffff" width="8" height="2" x="16" y="8"/>
+ <circle style="opacity:0.2" cx="11" cy="18" r="7"/>
+ <circle style="fill:#ffffff" cx="11" cy="17" r="7"/>
+ <circle id="ellipse16" style="opacity:0.2" cx="11" cy="18" r="5"/>
+ <circle id="ellipse18" style="fill:#4f4f4f" cx="11" cy="17" r="5"/>
 </svg>
