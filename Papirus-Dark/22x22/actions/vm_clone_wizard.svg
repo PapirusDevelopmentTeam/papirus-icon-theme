@@ -4,6 +4,9 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,3 C 6.5817,3 3,4.567 3,6.5 V 9.5 C 3,11.433 6.5817,13 11,13 15.418,13 19,11.433 19,9.5 V 6.5 C 19,4.567 15.418,3 11,3 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,12 V 15.5 C 3,17.433 6.5817,19 11,19 15.418,19 19,17.433 19,15.5 V 12 C 18.359,13.7 15.029,15 11,15 6.9709,15 3.65,13.7 3,12 Z"/>
+ <g transform="matrix(1,0,0,1,3,3)">
+  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 1,4 H 12 V 12 H 1 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 1,3 C 1,3 0,3 0,4 V 12 C 0,13 1,13 1,13 H 3 V 14 C 3,15 4,15 4,15 H 9 C 9,15 10,15 10,14 V 13 H 12 C 12,13 13,13 13,12 V 4 C 13,3 12,3 12,3 Z M 2,5 H 11 V 11 H 2 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4,0 C 4,0 3,0 3,1 V 2 H 14 V 10 H 15 C 15,10 16,10 16,9 V 1 C 16,0 15,0 15,0 Z"/>
+ </g>
 </svg>
