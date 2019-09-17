@@ -28,6 +28,7 @@ s/[ ]aria-label="[^"]*"//gI
 
 # delete default ids
 s/[ ]id="circle[0-9-]*"//gI
+s/[ ]id="ellipse[0-9-]*"//gI
 s/[ ]id="defs[0-9-]*"//gI
 s/[ ]id="g[0-9-]*"//gI
 s/[ ]id="path[0-9-]*"//gI

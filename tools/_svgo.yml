@@ -92,6 +92,9 @@ plugins:
       shorthex: false
       shortname: false
 
+  # convert non-eccentric <ellipse> to <circle>
+  - convertEllipseToCircle
+
   # removes unknown elements content and attributes
   # don't touch attrs with default values
   # - removeUnknownsAndDefaults:
