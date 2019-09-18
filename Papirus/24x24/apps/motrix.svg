@@ -1,0 +1,15 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(1,1)">
+  <circle cx="11" cy="11.5" r="10" style="opacity:.2"/>
+  <circle cx="11" cy="11" r="10" style="fill:#a776d6"/>
+  <rect x="5" y="5.5" width="12" height="12" rx="1" ry="1" style="opacity:.2"/>
+  <path d="M 11,1 A 10,10 0 0 0 1,11 10,10 0 0 0 1.0098,11.293 10,10 0 0 1 11,1.5 10,10 0 0 1 20.99,11.207 10,10 0 0 0 21,11 10,10 0 0 0 11,1 Z" style="fill:#ffffff;opacity:.2"/>
+  <rect x="5" y="5" width="12" height="12" rx="1" ry="1" style="fill:#e5e9f0"/>
+  <path d="m7 5v2.5c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-2.5z" style="fill:#4f4f4f"/>
+  <path d="m8 6.5v1h2v-1zm4 0v1h2v-1z" style="opacity:.2"/>
+  <path d="m8 6v1h2v-1zm4 0v1h2v-1z" style="fill:#fbe604"/>
+  <path d="m7 5v0.5h8v-0.5z" style="opacity:.2"/>
+  <path d="m6 5c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h1v-0.5zm9 0v0.5h1c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#ffffff;opacity:.2"/>
+  <path d="m11.5 15c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5zm3 0c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" style="fill:#9aa0aa"/>
+ </g>
+</svg>
