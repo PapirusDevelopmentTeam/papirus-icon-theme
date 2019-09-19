@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-4500%2B-5294e2.svg?style=flat-square"/>
-  <img alt="actions" src="https://img.shields.io/badge/actions_icons-1900%2B-5294e2.svg?style=flat-square"/>
-  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1850%2B-5294e2.svg?style=flat-square"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-1100%2B-5294e2.svg?style=flat-square"/>
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5000%2B-5294e2.svg?style=flat-square"/>
+  <img alt="actions" src="https://img.shields.io/badge/actions_icons-2000%2B-5294e2.svg?style=flat-square"/>
+  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-5294e2.svg?style=flat-square"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-1250%2B-5294e2.svg?style=flat-square"/>
 </p>
 
 Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) with a lot of new icons and a few extras, like [Hardcode-Tray support](#hardcoded-tray-icons), [KDE colorscheme support](#kde-colorscheme), [Folder Color support](#folders-color), and [others](#extras).
