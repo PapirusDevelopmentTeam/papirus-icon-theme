@@ -1,17 +1,7 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="linearGradient4500">
-   <stop style="stop-color:#171721" offset="0"/>
-   <stop style="stop-color:#0e0f14" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4531" x1="67.942001" x2="67.847382" y1="1012.3553" y2="963.06952" gradientTransform="matrix(.81195464 0 0 .81195466 -17.991118 198.54341)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4500"/>
-  <linearGradient id="linearGradient616" x1="67.942001" x2="67.847382" y1="1012.3553" y2="963.06952" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4500"/>
- </defs>
- <g transform="matrix(.1706113 0 0 .18514047 -18.443009 -177.98518)">
-  <path d="m108.09958 988.35862 17.58382 54.01308 76.1966-21.6053-17.58383-54.01299z" style="fill:#969696"/>
-  <path d="m108.09958 982.95732 11.72255 54.01308 82.05787-16.204-11.72256-54.01299z" style="fill:#a8a8a8"/>
-  <rect x="108.09958" y="966.75342" width="93.780418" height="64.815651" rx="5.8612676" ry="5.4013038" style="fill:#9a62d9"/>
-  <ellipse cx="181.36552" cy="1018.0658" rx="20.514467" ry="18.904566" style="fill:#ffffff"/>
-  <ellipse cx="181.36552" cy="1018.0658" rx="14.653192" ry="13.503262" style="fill:#945e8d"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#969696" d="M 0,6 3,16 16,12 13,2 Z"/>
+ <path style="fill:#a8a8a8" d="M 0,5 2,15 16,12 14,2 Z"/>
+ <rect style="fill:#9a62d9" width="16" height="12" x="0" y="2" rx=".8" ry=".8"/>
+ <circle style="fill:#ffffff" cx="12.5" cy="11.5" r="3.5"/>
+ <circle style="fill:#945e8d" cx="12.5" cy="11.5" r="2.5"/>
 </svg>
