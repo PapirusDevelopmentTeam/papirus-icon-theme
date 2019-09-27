@@ -1,0 +1,11 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(1,1)">
+  <g transform="translate(-1,-1)">
+   <circle cx="12" cy="12.5" r="10" style="opacity:.2"/>
+   <circle cx="12" cy="12" r="10" style="fill:#282722"/>
+   <path d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0098,12.293 10,10 0 0 1 12,2.5 10,10 0 0 1 21.99,12.207 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z" style="fill:#ffffff;opacity:.1"/>
+  </g>
+  <path d="m12 3.5s-5 1-5 8c0 2.821232 0.974038 4.68953 2 6-0.6785832-2.562949-1-5 2-7 0 0 1 2 1 3 0 4-1 6-1 6s4-2 4-6c0-5-3-8-3-8z" style="opacity:.2"/>
+  <path d="m12 3s-5 1-5 8c0 2.821232 0.974038 4.68953 2 6-0.6785832-2.562949-1-5 2-7 0 0 1 2 1 3 0 4-1 6-1 6s4-2 4-6c0-5-3-8-3-8z" style="fill:#fbb620"/>
+ </g>
+</svg>

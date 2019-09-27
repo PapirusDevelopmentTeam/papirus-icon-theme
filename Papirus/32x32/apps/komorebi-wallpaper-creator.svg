@@ -7,15 +7,17 @@
   <linearGradient id="linearGradient4531" x1="67.942001" x2="67.847382" y1="1012.3553" y2="963.06952" gradientTransform="matrix(.13852864 0 0 .15032567 -75.232837 -131.51913)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4500"/>
   <linearGradient id="linearGradient616" x1="67.942001" x2="67.847382" y1="1012.3553" y2="963.06952" gradientTransform="matrix(.1706113 0 0 .18514047 -72.163349 -168.27755)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4500"/>
  </defs>
- <path d="m2 9 4 21 24-7-4-19z" style="opacity:.2"/>
- <path d="m2 8 4 21 24-7-4-19z" style="fill:#969696"/>
- <path d="m2 7 2 21 26-4-3-20z" style="opacity:.2"/>
- <path d="m2 6 2 21 26-4-3-20z" style="fill:#a8a8a8"/>
- <rect x="2" y="4" width="28" height="22" rx="2" ry="2" style="opacity:.2"/>
- <rect x="2" y="3" width="28" height="22" rx="2" ry="2" style="fill:#9a62d9"/>
- <path d="m4 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h24c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-24z" style="fill:#ffffff;opacity:.2"/>
- <circle cx="24" cy="21" r="6" style="opacity:.2"/>
- <circle cx="24" cy="20" r="6" style="fill:#ffffff"/>
- <circle cx="24" cy="21" r="4" style="opacity:.2"/>
- <circle cx="24" cy="20" r="4" style="fill:#945e8d"/>
+ <g transform="translate(0,1)">
+  <path d="m2 9 4 21 24-7-4-19z" style="opacity:.2"/>
+  <path d="m2 8 4 21 24-7-4-19z" style="fill:#969696"/>
+  <path d="m2 7 2 21 26-4-3-20z" style="opacity:.2"/>
+  <path d="m2 6 2 21 26-4-3-20z" style="fill:#a8a8a8"/>
+  <rect x="2" y="4" width="28" height="22" rx="2" ry="2" style="opacity:.2"/>
+  <rect x="2" y="3" width="28" height="22" rx="2" ry="2" style="fill:#3aa5cc"/>
+  <path d="m4 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h24c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
+  <circle cx="24" cy="21" r="6" style="opacity:.2"/>
+  <circle cx="24" cy="20" r="6" style="fill:#ffffff"/>
+  <circle cx="24" cy="21" r="4" style="opacity:.2"/>
+  <circle cx="24" cy="20" r="4" style="fill:#4a94d8"/>
+ </g>
 </svg>
