@@ -1,0 +1,15 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4500">
+   <stop style="stop-color:#171721" offset="0"/>
+   <stop style="stop-color:#0e0f14" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4531" x1="67.942001" x2="67.847382" y1="1012.3553" y2="963.06952" gradientTransform="matrix(.13852864 0 0 .15032567 -21.512497 -142.22676)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4500"/>
+  <linearGradient id="linearGradient616" x1="67.942001" x2="67.847382" y1="1012.3553" y2="963.06952" gradientTransform="matrix(.1706113 0 0 .18514047 -18.443009 -178.98518)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4500"/>
+ </defs>
+ <path d="M 6.1898715e-7,5.0000002 3.0000005,15 16,11 13.000001,1.0000001 Z" style="fill:#969696"/>
+ <path d="M 6.1898715e-7,4 2.0000007,14 16,11 14,1.0000001 Z" style="fill:#a8a8a8"/>
+ <rect x="1.2342722e-6" y="1.0000001" width="16" height="12" rx=".99999851" ry=".99999994" style="fill:#3aa5cc"/>
+ <circle cx="12.499999" cy="10.499999" r="3.5" style="fill:#ffffff"/>
+ <circle cx="12.499999" cy="10.499999" r="2.5000002" style="fill:#4a94d8"/>
+</svg>
