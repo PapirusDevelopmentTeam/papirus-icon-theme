@@ -5,7 +5,7 @@
   </style>
  </defs>
  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.5 3 C 5.669 3 5 3.669 5 4.5 L 5 5 L 17 5 L 17 4.5 C 17 3.669 16.331 3 15.5 3 L 6.5 3 z M 5 7 L 5 9 L 17 9 L 17 7 L 5 7 z M 5 11 L 5 13 L 17 13 L 17 11 L 5 11 z M 5 15 L 5 17 L 14.25 17 L 16.248047 15 L 5 15 z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 5 5 L 5 7 L 17 7 L 17 5 L 5 5 z M 5 9 L 5 11 L 17 11 L 17 9 L 5 9 z M 5 13 L 5 15 L 16.248047 15 L 16.617188 14.630859 L 17 14.248047 L 17 13 L 5 13 z M 5 17 L 5 17.5 C 5 18.331 5.669 19 6.5 19 L 13 19 L 13 18.25 L 14.25 17 L 5 17 z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 15 3 L 15 16.248047 L 16.617188 14.630859 L 17 14.248047 L 17 13 L 17 11 L 17 9 L 17 7 L 17 5 L 17 4.5 C 17 3.669 16.331 3 15.5 3 L 15 3 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 18.805711,14 c -0.09101,0 -0.182726,0.03479 -0.253395,0.105469 l -0.697201,0.703125 1.335814,1.335937 0.703061,-0.697265 c 0.141347,-0.141352 0.141347,-0.364012 0,-0.505372 L 19.057642,14.105469 C 18.986972,14.034789 18.896725,14 18.805711,14 Z M 17.32489,15.338867 14,18.664063 V 20 h 1.335814 l 3.324891,-3.325195 z"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 5,5 V 7 H 17 V 5 Z M 5,9 V 11 H 17 V 9 Z M 5,13 V 15 H 16.248 L 17,14.248 V 13 Z M 5,17 V 17.5 C 5,18.331 5.669,19 6.5,19 H 13 V 18.25 L 14.25,17 Z"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 15,3 V 16.248 L 17,14.248 V 13 11 9 7 5 4.5 C 17,3.669 16.331,3 15.5,3 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 18.806,14 C 18.715,14 18.623,14.035 18.552,14.105 L 17.855,14.809 19.191,16.145 19.894,15.447 C 20.035,15.306 20.035,15.083 19.894,14.942 L 19.058,14.105 C 18.987,14.035 18.897,14 18.806,14 Z M 17.325,15.339 14,18.664 V 20 H 15.336 L 18.661,16.675 Z"/>
 </svg>
