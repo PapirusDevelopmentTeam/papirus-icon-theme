@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0,1)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-56" y="-48" width="42" height="32" rx="2.5" ry="2.5" style="opacity:.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-55" y="-48" width="42" height="32" rx="2.5" ry="2.5" style="fill:#8e8e8e"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-50" y="-58" width="40" height="52" rx="2.5" ry="2.5" style="opacity:.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-49" y="-58" width="40" height="52" rx="2.5" ry="2.5" style="fill:#4f4f4f"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-54" width="32" height="44" rx="0" ry="0" style="fill:#0072c0"/>
+  <path d="m8.5 9c-1.385 0-2.5 1.115-2.5 2.5v1c0-1.385 1.115-2.5 2.5-2.5h47c1.385 0 2.5 1.115 2.5 2.5v-1c0-1.385-1.115-2.5-2.5-2.5z" style="fill:#ffffff;opacity:.1"/>
+  <rect x="10" y="45" width="44" height="1" style="fill:#ffffff;opacity:.1"/>
+ </g>
+ <path d="m10 46 44-32h-44z" style="fill:#00ade5"/>
+ <rect x="10" y="14" width="44" height="1" style="opacity:.2"/>
+ <path d="m32 17a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14zm0 2a12 12 0 0 1 12 12 12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12zm0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm-3 7v13h6v-13z" style="opacity:.2"/>
+ <path d="m32 16a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14zm0 2a12 12 0 0 1 12 12 12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12zm0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm-3 7v13h6v-13h-6z" style="fill:#ffffff"/>
+</svg>

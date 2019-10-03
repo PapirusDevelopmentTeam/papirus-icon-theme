@@ -1,1 +1,6 @@
-conky.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect width="16" height="16" rx="2" ry="2" style="fill:#292d96"/>
+ <path d="M 2,0 C 0.892,0 0,0.892 0,2 v 12 c 0,0.554 0.22248438,1.054516 0.58398438,1.416016 L 15.416016,0.58398438 C 15.054516,0.22248438 14.554,0 14,0 Z" style="fill:#0072c0"/>
+ <path d="m1 15h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2z" style="fill:#ffffff"/>
+ <path d="m11 1v1h4v-1h-4zm0 2v1h3v-1h-3zm0 2v1h4v-1h-4zm0 2v1h2v-1h-2zm0 2v1h3v-1h-3zm0 2v1h4v-1h-4z" style="fill:#ffbb1f"/>
+</svg>

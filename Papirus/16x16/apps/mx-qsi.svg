@@ -1,0 +1,10 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-13" width="12" height="10" rx=".75" ry=".75" style="fill:#8e8e8e"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-13" y="-16" width="12" height="16" rx=".75" ry=".75" style="fill:#4f4f4f"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-11" y="-14" width="8" height="12" rx="0" ry="0" style="fill:#0072c0"/>
+ </g>
+ <path d="m2 11 12-8h-12z" style="fill:#00ade5"/>
+ <rect x="7" y="6" width="2" height="4" style="fill:#ffffff"/>
+ <circle cx="8" cy="5" r="1" style="fill:#ffffff"/>
+</svg>

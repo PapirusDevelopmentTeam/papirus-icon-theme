@@ -1,1 +1,10 @@
-conky.svg
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1.5" width="20" height="20" rx="2" ry="2" style="opacity:.2"/>
+ <rect x="1" y="1" width="20" height="20" rx="2" ry="2" style="fill:#292d96"/>
+ <path d="M 3,1 C 1.892,1 1,1.892 1,3 v 16 c 0,0.554 0.2224844,1.054516 0.5839844,1.416016 L 20.416016,1.5839844 C 20.054516,1.2224844 19.554,1 19,1 Z" style="fill:#0072c0"/>
+ <path d="m3 17.5h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2z" style="opacity:.2"/>
+ <path d="m3 17h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2z" style="fill:#ffffff"/>
+ <path d="m3 1c-1.108 0-2 0.892-2 2v0.5c0-1.108 0.892-2 2-2h16c1.108 0 2 0.892 2 2v-0.5c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m14 3.5v1h5v-1zm0 2v1h3v-1zm0 2v1h4v-1zm0 2v1h2v-1zm0 2v1h5v-1zm0 2v1h4v-1z" style="opacity:.2"/>
+ <path d="m14 3v1h5v-1zm0 2v1h3v-1zm0 2v1h4v-1zm0 2v1h2v-1zm0 2v1h5v-1zm0 2v1h4v-1z" style="fill:#ffbb1f"/>
+</svg>

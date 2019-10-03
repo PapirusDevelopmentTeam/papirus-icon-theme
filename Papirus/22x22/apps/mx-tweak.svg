@@ -1,1 +1,13 @@
-yast.svg
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1.5" width="20" height="20" rx="2" ry="2" style="opacity:.2"/>
+ <rect x="1" y="1" width="20" height="20" rx="2" ry="2" style="fill:#0072c0"/>
+ <path d="m3 1c-1.108 0-2 0.892-2 2v16c0 0.554 0.2224844 1.054516 0.5839844 1.416016l18.832032-18.832032c-0.3615-0.3615-0.862016-0.5839844-1.416016-0.5839844h-16z" style="fill:#00ade5"/>
+ <path d="m6 7.5s4-3 7-3c4 0 4 5 2 8l2 1-5 3-1-6 2 1c1-2 1-4 0-5-3-1-7 1-7 1z" style="opacity:.2"/>
+ <path d="m6 7s4-3 7-3c4 0 4 5 2 8l2 1-5 3-1-6 2 1c1-2 1-4 0-5-3-1-7 1-7 1z" style="fill:#ffffff"/>
+ <path d="m3 17.5v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2z" style="opacity:.2"/>
+ <path d="m3 17v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h2v-2h-2z" style="fill:#ffffff"/>
+ <path d="m3 5.5v2h2v-2zm0 3v2h2v-2zm0 3v2h2v-2zm0 3v2h2v-2z" style="opacity:.2"/>
+ <path d="M 3,1 C 1.892,1 1,1.892 1,3 v 16 c 0,0.554 0.222484,1.054516 0.583984,1.416016 L 20.416016,1.5839844 C 20.054516,1.2224844 19.554,1 19,1 Z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m3 5v2h2v-2h-2zm0 3v2h2v-2h-2zm0 3v2h2v-2h-2zm0 3v2h2v-2h-2zm0 3v2l2-2h-2z" style="fill:#4f4f4f"/>
+ <path d="m3 1c-1.108 0-2 0.892-2 2v0.5c0-1.108 0.892-2 2-2h16c1.108 0 2 0.892 2 2v-0.5c0-1.108-0.892-2-2-2h-16z" style="fill:#ffffff;opacity:.2"/>
+</svg>
