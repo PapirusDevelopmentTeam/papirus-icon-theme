@@ -1,1 +1,9 @@
-usb-creator.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m2 0h12v6h-12z" style="fill:#b7b7b7"/>
+ <rect y="6" width="16" height="10" rx=".80000001" ry=".833" style="fill:#4f4f4f"/>
+ <path d="m8 7a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" style="fill:#0ad313"/>
+ <rect x="6" y="10" width="4" height="2" style="fill:#0ad313"/>
+ <rect x="7" y="9" width="2" height="4" style="fill:#0ad313"/>
+ <rect x="3" y="2" width="3" height="2" style="opacity:.5"/>
+ <rect x="10" y="2" width="3" height="2" style="opacity:.5"/>
+</svg>

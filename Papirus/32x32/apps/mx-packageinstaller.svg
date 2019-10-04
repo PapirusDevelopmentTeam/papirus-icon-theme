@@ -1,1 +1,12 @@
-muon.svg
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="2" y="2" width="28" height="28" rx="1.5" ry="1.5" style="fill:#fabd7f"/>
+  <path d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z" style="fill:#ffffff;opacity:.1"/>
+  <path d="m14.572 6c-0.39572 0-0.71484 0.34338-0.71484 0.76953v12.307h-2.8574l5 6.924 5-6.9238h-2.8574v-12.307c0-0.4256-0.32-0.769-0.715-0.769z" style="fill:#3f3f3f"/>
+  <path d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z" style="opacity:.2"/>
+ </g>
+ <circle cx="23.5" cy="23.554688" r="8.5" style="opacity:.2"/>
+ <circle cx="23.5" cy="22.554688" r="8.5" style="fill:#6c9832"/>
+ <rect x="22" y="17.054688" width="3" height="11" rx="1.5" ry="1.5" style="fill:#ffffff"/>
+ <rect transform="rotate(90)" x="21.054688" y="-29" width="3" height="11" rx="1.5" ry="1.5" style="fill:#ffffff"/>
+</svg>

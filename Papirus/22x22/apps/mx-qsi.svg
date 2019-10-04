@@ -1,0 +1,13 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-20.5" y="-17" width="16" height="12" rx="1" ry="1" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-20" y="-17" width="16" height="12" rx="1" ry="1" style="fill:#8e8e8e"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-18.5" y="-21" width="16" height="20" rx="1" ry="1" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-18" y="-21" width="16" height="20" rx="1" ry="1" style="fill:#4f4f4f"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-19" width="12" height="16" rx="0" ry="0" style="fill:#0072c0"/>
+ <path d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#ffffff;opacity:.1"/>
+ <rect x="3" y="16" width="16" height=".5" style="fill:#ffffff;opacity:.1"/>
+ <path d="m3 16 16-12h-16z" style="fill:#00ade5"/>
+ <path d="m11 5.5a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5zm0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4zm0 1a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm0 2h-1v4h2v-4z" style="opacity:.2"/>
+ <path d="m11 5a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5zm0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4zm0 1a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm0 2h-1v4h2v-4h-1z" style="fill:#ffffff"/>
+ <rect x="3" y="4" width="16" height=".5" style="opacity:.2"/>
+</svg>
