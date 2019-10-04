@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m1 1v14h14v-14h-14zm2 2h10v10h-10v-10zm1.0215 1c-0.0116 0-0.0215 0.0099-0.0215 0.0215v0.957c0 0.0116 0.0099 0.0215 0.0215 0.0215h7.9575c0.011 0 0.021-0.0099 0.021-0.0215v-0.957c0-0.0116-0.01-0.0215-0.021-0.0215h-7.9575zm0 3c-0.0116 0-0.0215 0.0099-0.0215 0.0215v0.957c0 0.0116 0.0099 0.0215 0.0215 0.0215h7.9575c0.011 0 0.021-0.0099 0.021-0.0215v-0.957c0-0.0116-0.01-0.0215-0.021-0.0215h-7.9575zm0 2.8008c-0.0116 0-0.0215 0.008-0.0215 0.0195v0.9587c0 0.012 0.0099 0.022 0.0215 0.022h7.9575c0.011 0 0.021-0.01 0.021-0.022v-0.9587c0-0.0115-0.01-0.0195-0.021-0.0195h-7.9575z" transform="translate(4 4)"/>
+ <g transform="translate(4,4)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 z M 3 3 L 13 3 L 13 13 L 3 13 L 3 3 z M 4 4 L 4 5 L 12 5 L 12 4 L 4 4 z M 4 7 L 4 8 L 12 8 L 12 7 L 4 7 z M 4 10 L 4 11 L 12 11 L 12 10 L 4 10 z"/>
+ </g>
 </svg>

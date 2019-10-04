@@ -4,6 +4,6 @@
    .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 5 2 L 5 4 L 2.9316406 4 C 1.8618406 4 1 4.9391187 1 6.1054688 L 1 11.894531 C 1 13.060831 1.8618906 14 2.9316406 14 L 13.068359 14 C 14.138159 14 15 13.060881 15 11.894531 L 15 9 L 13 9 L 13 11.894531 C 13 11.973631 12.996047 11.99113 12.998047 12 L 3.0039062 12 C 3.0049064 11.991 3 11.973701 3 11.894531 L 3 6.1054688 C 3 6.0262687 3.0049062 6.00887 3.0039062 6 L 5 6 L 5 8 L 9 5 L 5 2 z"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 10 2 L 10 3.4140625 L 11.585938 5 L 10 6.5859375 L 10 8 L 11.414062 8 L 13 6.4140625 L 14.585938 8 L 16 8 L 16 6.5859375 L 14.414062 5 L 16 3.4140625 L 16 2 L 14.585938 2 L 13 3.5859375 L 11.414062 2 L 10 2 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 10,2 V 3.4141 L 11.586,5 10,6.5859 V 8 H 11.414 L 13,6.4141 14.586,8 H 16 V 6.5859 L 14.414,5 16,3.4141 V 2 H 14.586 L 13,3.5859 11.414,2 Z"/>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 5 2 L 5 4 L 3 4 C 1 4 1 6 1 6 L 1 12 C 1 12 1 14 3 14 L 13 14 C 15 14 15 12 15 12 L 15 10 L 13 10 L 13 12 L 3 12 L 3 6 L 5 6 L 5 8 L 9 5 L 5 2 z"/>
 </svg>
