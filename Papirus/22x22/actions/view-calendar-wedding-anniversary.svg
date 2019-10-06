@@ -1,8 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.0039062 2 A 6 6 0 0 0 0.00390625 8 A 6 6 0 0 0 6.0039062 14 A 6 6 0 0 0 8.0019531 13.648438 A 6 6 0 0 0 10.003906 14 A 6 6 0 0 0 16.003906 8 A 6 6 0 0 0 10.003906 2 A 6 6 0 0 0 8.0039062 2.3496094 A 6 6 0 0 0 6.0039062 2 z M 5.5097656 4.0351562 A 6 6 0 0 0 4.0039062 8 A 6 6 0 0 0 5.5078125 11.964844 A 4 4 0 0 1 2.0039062 8 A 4 4 0 0 1 5.5097656 4.0351562 z M 10.498047 4.0351562 A 4 4 0 0 1 14.003906 8 A 4 4 0 0 1 10.496094 11.964844 A 6 6 0 0 0 12.003906 8 A 6 6 0 0 0 10.498047 4.0351562 z M 8.0058594 4.5410156 A 4 4 0 0 1 10.003906 8 A 4 4 0 0 1 8.0019531 11.458984 A 4 4 0 0 1 6.0039062 8 A 4 4 0 0 1 8.0058594 4.5410156 z" transform="translate(3 3)"/>
+ <g transform="translate(3,3)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6 2 A 6 6 0 0 0 0 8 A 6 6 0 0 0 6 14 A 6 6 0 0 0 12 8 A 6 6 0 0 0 6 2 z M 6 4 A 4 4 0 0 1 10 8 A 4 4 0 0 1 6 12 A 4 4 0 0 1 2 8 A 4 4 0 0 1 6 4 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 10,2 A 6,6 0 0 0 4,8 6,6 0 0 0 10,14 6,6 0 0 0 16,8 6,6 0 0 0 10,2 Z M 10,4 A 4,4 0 0 1 14,8 4,4 0 0 1 10,12 4,4 0 0 1 6,8 4,4 0 0 1 10,4 Z"/>
+ </g>
 </svg>

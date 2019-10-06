@@ -4,13 +4,5 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="16" height="4" x="3" y="9"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="5" x="5" y="4"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="6" x="9" y="3"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="6" x="13" y="6"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="6" x="17" y="5"/>
- <path style="fill:currentColor" class="ColorScheme-Text" transform="matrix(0.89442716,0,0,1.2909944,2.527864,-4.0739218)" d="m 5,14 1e-7,1.936492 10e-8,1.936492 -1.6770511,-0.968246 -1.677051,-0.968246 1.677051,-0.968246 z"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="3" y="14"/>
- <path style="fill:currentColor" class="ColorScheme-Text" transform="matrix(-0.89442716,0,0,1.2909944,19.472136,-4.0739221)" d="m 5,14 1e-7,1.936492 10e-8,1.936492 -1.6770511,-0.968246 -1.677051,-0.968246 1.677051,-0.968246 z"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="-19" y="14" transform="scale(-1,1)"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 9,3 V 9 H 7 V 4 H 5 V 9 H 3 V 13 H 19 V 5 H 17 V 9 H 15 V 6 H 13 V 9 H 11 V 3 Z M 3,14 V 19 H 4 V 16.5 14 Z M 4,16.5 7,19 V 14 Z M 15,14 V 19 L 18,16.5 Z M 18,16.5 V 19 H 19 V 14 H 18 Z"/>
 </svg>
