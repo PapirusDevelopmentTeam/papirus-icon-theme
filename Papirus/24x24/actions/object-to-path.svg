@@ -4,7 +4,8 @@
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <g transform="matrix(1,0,0,1,4,4)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 5,0 C 3,0 2.4171,0.24971 1.6103,0.88672 0.79469,1.5308 0.30529,2.464 0.10059,3.457 -0.0463,4.1699 -0.02782,4.9301 0.12824,5.663 0.28431,6.3959 0.59652,7.1015 1,7.7051 V 11 H 5 V 10 H 7 C 7,12 7.0068,13.275 7.4844,14.23 8.3795,16.021 10.601,16.215 12,15.84 V 16 H 16 V 12 C 16,10 15,9 13,9 H 8 V 4 H 9 V 0 Z M 4,1 5,1.0116 V 4 H 7.0215 L 7,9 H 5 V 7 H 1.7373 C 1.1683,6.0434 0.85149,4.7628 1.0791,3.6582 1.2451,2.8523 1.6295,2.1456 2.2294,1.6719 2.6794,1.3166 3,1 4,1 Z M 13,10 C 14.5,10 15,10.5 15,12 H 12 V 14.802 C 11,15.184 9.0832,15.192 8.3789,13.783 8.0503,13.126 8,12 8,10 Z"/>
+ <g transform="translate(4,4)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,4 H 3 V 12 H 2 Z M 4,13 H 12 V 14 H 4 Z M 13,4 H 14 V 12 H 13 Z M 4,2 H 12 V 3 H 4 Z M 1,12 H 4 V 15 H 1 Z M 12,12 H 15 V 15 H 12 Z M 1,1 H 4 V 4 H 1 Z M 12,1 H 15 V 4 H 12 Z"/>
+  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 5,5 H 11 V 11 H 5 Z"/>
  </g>
 </svg>

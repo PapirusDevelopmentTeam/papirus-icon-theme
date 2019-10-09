@@ -4,8 +4,6 @@
    .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 13.5,0.5 15.5,5.5 C 15.5,5.5 10,6 8,8 6,10 5.5,15.5 5.5,15.5 L 0.5,13.5 C 0.5,13.5 1,7 4,4 7,1 13.5,0.5 13.5,0.5 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 5 0 L 5 4 L 9 4 L 9 0 L 5 0 z M 9 4 L 9 8 L 13 8 L 13 4 L 9 4 z M 0 5 L 0 9 L 4 9 L 4 5 L 0 5 z M 4 9 L 4 13 L 8 13 L 8 9 L 4 9 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 13.5,0 C 13.5,0 7.293,0 3.6465,3.6465 0,7.293 0,13.5 0,13.5 0,13.5 0,14 0.5,14 1,14 1,13.5 1,13.5 1,13.5 1,7.707 4.3535,4.3535 7.707,1 13.5,1 13.5,1 13.5,1 14,1 14,0.5 14,0 13.5,0 13.5,0 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 15.5,5 C 15.5,5 10.293,5 7.6465,7.6463 5.0003,10.293 5,15.5 5,15.5 5,15.5 5,16 5.5,16 6,16 6,15.5 6,15.5 6,15.5 6.0002,10.707 8.3535,8.3533 10.707,6 15.5,6 15.5,6 15.5,6 16,6 16,5.5 16,5 15.5,5 15.5,5 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,6 C 6,6 6,11 6,11 V 16 H 7 V 11 C 7,11 7,7 11,7 H 16 V 6 Z M 10,2 C 2,2 2,10 2,10 V 16 H 3 V 10 C 3,10 3,3 10,3 H 16 V 2 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 1,11 H 4 V 14 H 1 Z M 5,11 H 8 V 14 H 5 Z M 11,5 H 14 V 8 H 11 Z M 11,1 H 14 V 4 H 11 Z"/>
 </svg>

@@ -27,6 +27,7 @@ for theme in "${THEMES[@]##*/}"; do
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
 							-name '*@16x16.svg' -print0 -o \
+							-name '*@18x18.svg' -print0 -o \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 | xargs -0 -i \
 								cp -afv '{}' "$theme_dir/$context_dir"
@@ -67,6 +68,7 @@ for theme in "${THEMES[@]##*/}"; do
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
 							-name '*@16x16.svg' -print0 -o \
+							-name '*@18x18.svg' -print0 -o \
 							-name '*@22x22.svg' -print0 -o \
 							-name '*@24x24.svg' -print0 -o \
 							-name '*@symbolic.svg' -print0 | xargs -0 -i \
