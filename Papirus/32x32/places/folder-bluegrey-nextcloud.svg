@@ -1,0 +1,14 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }</style>
+ </defs>
+ <rect x="3" y="12" width="25" height="16" rx="1.25" ry="1.25" style="opacity:.2"/>
+ <path d="m3 21.75c0 0.692 0.5575 1.25 1.25 1.25h22.5c0.692 0 1.25-0.558 1.25-1.25v-13.5c0-0.6925-0.558-1.25-1.25-1.25h-12.75v-0.75c0-0.6925-0.557-1.25-1.25-1.25h-8.5c-0.6925 0-1.25 0.5575-1.25 1.25" style="fill:#4d646f"/>
+ <rect x="3" y="10" width="25" height="16" rx="1.25" ry="1.25" style="opacity:.2"/>
+ <rect x="5" y="9" width="21" height="10" rx="1.25" ry="1.25" style="fill:#e4e4e4"/>
+ <rect x="3" y="11" width="25" height="16" rx="1.25" ry="1.25" style="fill:#607d8b"/>
+ <path d="m4.25 5c-0.6925 0-1.25 0.5575-1.25 1.25v1c0-0.6925 0.5575-1.25 1.25-1.25h8.5c0.693 0 1.25 0.5575 1.25 1.25v0.75h12.75c0.692 0 1.25 0.5575 1.25 1.25v-1c0-0.6925-0.558-1.25-1.25-1.25h-12.75v-0.75c0-0.6925-0.557-1.25-1.25-1.25h-8.5z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m15 15a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 2a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" style="fill:#222c31"/>
+ <path d="m8 16a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 2a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" style="fill:#222c31"/>
+ <path d="m22 16a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 2a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" style="fill:#222c31"/>
+</svg>
