@@ -1,16 +1,9 @@
-<svg width="22" height="22" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <rect x="1" y="8.5" width="20" height="12" rx="1" ry="1" style="opacity:.2"/>
- <path d="m1 16c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1h-10v-1c0-0.554-0.446-1-1-1h-7c-0.554 0-1 0.446-1 1" style="fill:#4d646f"/>
- <rect x="1" y="7.5" width="20" height="12" rx="1" ry="1" style="opacity:.2"/>
- <rect x="3" y="6" width="16" height="8" rx="1" ry="1" style="fill:#e4e4e4"/>
- <rect x="1" y="8" width="20" height="12" rx="1" ry="1" style="fill:#607d8b"/>
- <path d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h7c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1zm8 2v0.5h10c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#ffffff;opacity:.1"/>
- <g transform="translate(0,3)" style="fill:#222c31">
-  <path d="m11 8a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" style="fill:#222c31"/>
-  <path d="m6 9a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm0 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" style="fill:#222c31"/>
-  <path d="m16 9a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm0 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" style="fill:#222c31"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="opacity:0.2" width="20" height="12" x="1" y="8.5" rx="1" ry="1"/>
+ <path style="fill:#4d646f" d="m1 16c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1h-10v-1c0-0.554-0.446-1-1-1h-7c-0.554 0-1 0.446-1 1"/>
+ <rect style="opacity:0.2" width="20" height="12" x="1" y="7.5" rx="1" ry="1"/>
+ <rect style="fill:#e4e4e4" width="16" height="8" x="3" y="6" rx="1" ry="1"/>
+ <rect style="fill:#607d8b" width="20" height="12" x="1" y="8" rx="1" ry="1"/>
+ <path style="fill:#ffffff;opacity:0.1" d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h7c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1zm8 2v0.5h10c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+ <path style="fill:#222c31" d="M 16,12 A 2,2 0 0 0 14,14 2,2 0 0 0 16,16 2,2 0 0 0 18,14 2,2 0 0 0 16,12 Z M 16,13 A 1,1 0 0 1 17,14 1,1 0 0 1 16,15 1,1 0 0 1 15,14 1,1 0 0 1 16,13 Z M 6,12 A 2,2 0 0 0 4,14 2,2 0 0 0 6,16 2,2 0 0 0 8,14 2,2 0 0 0 6,12 Z M 6,13 A 1,1 0 0 1 7,14 1,1 0 0 1 6,15 1,1 0 0 1 5,14 1,1 0 0 1 6,13 Z M 11,11 A 3,3 0 0 0 8,14 3,3 0 0 0 11,17 3,3 0 0 0 14,14 3,3 0 0 0 11,11 Z M 11,12 A 2,2 0 0 1 13,14 2,2 0 0 1 11,16 2,2 0 0 1 9,14 2,2 0 0 1 11,12 Z"/>
 </svg>
