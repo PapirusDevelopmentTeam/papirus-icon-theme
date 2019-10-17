@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#d7d7d7" width="15" height="15" x="1" y="1" rx="4.5" ry="4.5"/>
+ <rect style="fill:#555555" width="9" height="9" x="4" y="4" rx=".346" ry=".346"/>
+ <circle style="fill:#ffffff" cx="8.5" cy="7.5" r="1.5"/>
+ <path style="fill:#ffffff" transform="matrix(0.27279048,0,0,0.47248695,1.6011223,-3.2765153)" d="m 25.290024,20.691609 5.498725,9.524073 -10.997451,-1e-6 z"/>
+ <circle style="fill:#555555" cx="2.5" cy="5.5" r=".5"/>
+ <circle style="fill:#555555" cx="2.5" cy="11.5" r=".5"/>
+ <circle style="fill:#555555" cx="2.5" cy="-11.5" r=".5" transform="rotate(90)"/>
+ <circle style="fill:#555555" cx="2.5" cy="-5.5" r=".5" transform="rotate(90)"/>
+ <circle style="fill:#555555" cx="-14.5" cy="-11.5" r=".5" transform="scale(-1)"/>
+ <circle style="fill:#555555" cx="-14.5" cy="-5.5" r=".5" transform="scale(-1)"/>
+ <circle style="fill:#555555" cx="-14.5" cy="5.5" r=".5" transform="rotate(-90)"/>
+ <circle style="fill:#555555" cx="-14.5" cy="11.5" r=".5" transform="rotate(-90)"/>
+</svg>
