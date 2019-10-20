@@ -51,7 +51,7 @@ s/[ ]id="flowPara[0-9-]*"//gI
 # properties in a style attribute has higher priority
 /style=/ {
 	/fill:[^;"]/ s/[ ]fill="[^"]+"//gI
-	/fill-opacity:[^;"]/ s/[ ]fill-opcacity="[^"]+"//gI
+	/fill-opacity:[^;"]/ s/[ ]fill-opacity="[^"]+"//gI
 	/fill-rule:[^;"]/ s/[ ]fill-rule="[^"]+"//gI
 	/[^-]opacity:[^;"]/ s/[ ]opacity="[^"]+"//gI
 }
