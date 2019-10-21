@@ -1,10 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(0,-1106.5197)">
-  <circle style="fill:#88ba53" cx="8" cy="1114.52" r="8"/>
-  <path style="fill:#e4e4e4" d="m 9.8820508,1113.3595 -1.7320508,1 4,6.9282 1.866025,1.232 -0.133974,-2.232 z"/>
-  <path style="fill:#ffffff" transform="translate(0,1106.5197)" d="m 12,8 c 0,2.209139 -1.790861,4 -4,4 C 6.8508819,11.9982 5.758036,11.502302 5,10.638672 L 4,12.5 5,13.1875 c 0.9112763,0.529635 1.9459931,0.80987 3,0.8125 3.313708,0 6,-2.686292 6,-6 z"/>
-  <path style="fill:#ffffff" d="m 6.1339746,1113.3595 1.7320508,1 -4,6.9282 L 2,1122.5197 l 0.1339746,-2.232 z"/>
-  <path style="fill:#4f4f4f" d="m 7,1107.5197 v 2 H 5.9999995 C 5,1109.5197 5,1110.5337 5,1110.5337 v 3.9499 l 2,2 c 0.66432,0.5368 1.383725,0.6246 2,0 l 2,-2 v -3.9499 c 0,-1 -0.999999,-1.014 -0.999999,-1.014 H 9 v -2 z"/>
-  <circle style="fill:#ffffff" cx="8" cy="1112.52" r="1"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="androidstudio.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="855"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g14" />
+  <g
+     transform="translate(0,-1106.5197)"
+     id="g14">
+    <circle
+       style="fill:#3dda84;fill-opacity:1"
+       cx="8"
+       cy="1114.52"
+       r="8"
+       id="circle2" />
+    <path
+       style="fill:#e4e4e4"
+       d="m 9.8820508,1113.3595 -1.7320508,1 4,6.9282 1.866025,1.232 -0.133974,-2.232 z"
+       id="path4" />
+    <path
+       style="fill:#ffffff"
+       transform="translate(0,1106.5197)"
+       d="m 12,8 c 0,2.209139 -1.790861,4 -4,4 C 6.8508819,11.9982 5.758036,11.502302 5,10.638672 L 4,12.5 5,13.1875 c 0.9112763,0.529635 1.9459931,0.80987 3,0.8125 3.313708,0 6,-2.686292 6,-6 z"
+       id="path6" />
+    <path
+       style="fill:#ffffff"
+       d="m 6.1339746,1113.3595 1.7320508,1 -4,6.9282 L 2,1122.5197 l 0.1339746,-2.232 z"
+       id="path8" />
+    <path
+       style="fill:#4f4f4f"
+       d="m 7,1107.5197 v 2 H 5.9999995 C 5,1109.5197 5,1110.5337 5,1110.5337 v 3.9499 l 2,2 c 0.66432,0.5368 1.383725,0.6246 2,0 l 2,-2 v -3.9499 c 0,-1 -0.999999,-1.014 -0.999999,-1.014 H 9 v -2 z"
+       id="path10" />
+    <circle
+       style="fill:#ffffff"
+       cx="8"
+       cy="1112.52"
+       r="1"
+       id="circle12" />
+  </g>
 </svg>
