@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="25" height="16" x="3" y="12" rx="1.25" ry="1.25"/>
+ <path style="fill:#6c9b9a" d="M 3,21.75 C 3,22.442 3.5575,23 4.25,23 H 26.75 C 27.442,23 28,22.442 28,21.75 V 8.25 C 28,7.5575 27.442,7 26.75,7 H 14 V 6.25 C 14,5.5575 13.443,5 12.75,5 H 4.25 C 3.5575,5 3,5.5575 3,6.25"/>
+ <rect style="opacity:0.2" width="25" height="16" x="3" y="10" rx="1.25" ry="1.25"/>
+ <rect style="fill:#e4e4e4" width="21" height="10" x="5" y="9" rx="1.25" ry="1.25"/>
+ <rect style="fill:#82abaa" width="25" height="16" x="3" y="11" rx="1.25" ry="1.25"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 4.25 5 C 3.5575 5 3 5.5575 3 6.25 L 3 7.25 C 3 6.5575 3.5575 6 4.25 6 L 12.75 6 C 13.443 6 14 6.5575 14 7.25 L 14 8 L 26.75 8 C 27.442 8 28 8.5575 28 9.25 L 28 8.25 C 28 7.5575 27.442 7 26.75 7 L 14 7 L 14 6.25 C 14 5.5575 13.443 5 12.75 5 L 4.25 5 z"/>
+ <g>
+  <rect style="fill:#4e6766" width="4" height="4" x="11" y="14" rx=".625" ry=".625"/>
+  <rect style="fill:#4e6766" width="4" height="4" x="16" y="14" rx=".625" ry=".625"/>
+  <rect style="fill:#4e6766" width="4" height="4" x="16" y="19" rx=".625" ry=".625"/>
+  <rect style="fill:#4e6766" width="4" height="4" x="11" y="19" rx=".625" ry=".625"/>
+ </g>
+</svg>
