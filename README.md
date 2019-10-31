@@ -76,25 +76,25 @@ Use the scripts to install the latest version directly from this repo (independe
 #### ROOT directory (recommended)
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | sh
+wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 
 #### HOME directory for GTK
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | DESTDIR="$HOME/.icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh
 ```
 
 #### HOME directory for KDE
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | DESTDIR="$HOME/.local/share/icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.local/share/icons" sh
 ```
 
 #### \*BSD systems
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | env DESTDIR="/usr/local/share/icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="/usr/local/share/icons" sh
 ```
 
 **NOTE:** Qt4 apps require `libqt4-svg` to work correctly.
@@ -102,7 +102,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-
 #### Uninstall
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/uninstall.sh | sh
+wget -qO- https://git.io/papirus-icon-theme-uninstall | sh
 ```
 
 ### Third-party packages
