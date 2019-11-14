@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1">
+<svg width="48" xmlns="http://www.w3.org/2000/svg" version="1.1" height="48">
  <g transform="matrix(2,0,0,2,2,2)">
-  <circle r="9" style="opacity:.2" cx="11" cy="11.5"/>
-  <circle r="9" style="fill:#3fafff" cx="11" cy="11"/>
+  <circle style="opacity:.2" cx="11" r="9" cy="11.5"/>
+  <circle style="fill:#3fafff" cx="11" r="9" cy="11"/>
   <path style="opacity:.1;fill:#ffffff" d="m11 2a9 9 0 0 0 -9 9 9 9 0 0 0 0.00977 0.287109 9 9 0 0 1 8.99023 -8.787109 9 9 0 0 1 8.990234 8.712891 9 9 0 0 0 0.009766 -0.212891 9 9 0 0 0 -9 -9z"/>
   <path style="fill:#f0f0f0" d="m8 10h6l-1-5s0-1-2-1-2 1-2 1v3z"/>
   <circle style="opacity:.1" cx="10.5" cy="6"/>
@@ -18,4 +18,6 @@
   <path style="fill:#4f4f4f" d="m11 10-1 4 1 1 1-1z"/>
   <path style="opacity:.2;fill:#ffffff" d="m9 5-3 1 0.2148438 0.4277344 2.7851562-0.9277344 0.8007812 2.4003906 0.1992188 0.0996094z"/>
  </g>
+ <circle cx="23" style="opacity:.1" r="1" cy="14"/>
+ <circle cx="23" style="fill:#4f4f4f" r="1" cy="13"/>
 </svg>
