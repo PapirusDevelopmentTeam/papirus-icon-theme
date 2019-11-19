@@ -56,7 +56,7 @@ find "$SOURCE_DIR/Papirus" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
 	base_dir=$(basename "$(dirname "$top_dir")")
 	size=$(basename "$top_dir")
 	context=$(basename "$src_dir")
-	filename=$(basename --suffix=".svg" "$file")
+	filename=$(basename "$file" .svg)
 
 	mkdir -p "$SCRIPT_DIR/$base_dir/$context/"
 	cp -v "$file" "$SCRIPT_DIR/$base_dir/$context/$filename@$size.svg"

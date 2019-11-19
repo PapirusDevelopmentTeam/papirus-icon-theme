@@ -30,7 +30,7 @@ EOF
 : "${uninstall:=false}"
 
 _msg() {
-    echo "=>" "$@" >&2
+    echo "=>" "$@"
 }
 
 _rm() {
@@ -78,7 +78,7 @@ _install() {
     done
 
     # Try to restore the color of folders from a config
-    if which papirus-folders > /dev/null 2>&1; then
+    if command -v papirus-folders >/dev/null; then
         papirus-folders -R || true
     fi
 }

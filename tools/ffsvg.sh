@@ -21,7 +21,7 @@ set -e
 SCRIPT_DIR="$(dirname "$0")"
 
 _run_helpers() {
-	echo "=> Working on '$1' ..." >&2
+	echo "=> Working on '$1' ..."
 
 	# optimize a SVG
 	if command -v svgo > /dev/null 2>&1; then
@@ -31,7 +31,7 @@ _run_helpers() {
 		# use scour
 		"$SCRIPT_DIR/_scour.sh" "$1"
 	else
-		cat <<-'EOF'
+		cat >&2 <<-'EOF'
 
 		You have to install svgo or scour to use this script:
 
@@ -55,10 +55,10 @@ _run_helpers() {
 
 for i in "$@"; do
 	if [ -d "$i" ]; then
-		# is a directory
+		# it's a directory
 
-		echo "=> Directory '$i' will be processed." >&2
-		echo "   Press <CTRL-C> to abort (wait 1 seconds) ..." >&2
+		echo "=> Directory '$i' will be processed."
+		echo "   Press <CTRL-C> to abort (wait 1 seconds) ..."
 
 		sleep 1
 
@@ -67,7 +67,7 @@ for i in "$@"; do
 			_run_helpers "$file"
 		done
 	elif [ -f "$i" ] && [ ! -L "$i" ]; then
-		# is a file and is not a symlink
+		# it's a file and not a symlink
 
 		# continue if an extension is svg
 		[ "${i##*.}" = "svg" ] || continue

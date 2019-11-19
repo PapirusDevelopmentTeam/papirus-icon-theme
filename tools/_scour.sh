@@ -22,7 +22,7 @@ set -e
 
 for i in "$@"; do
 	if [ -f "$i" ] && [ ! -L "$i" ]; then
-		# is a file and is not a symlink
+		# it's a file and not a symlink
 
 		# continue if an extension is svg
 		[ "${i##*.}" = "svg" ] || continue

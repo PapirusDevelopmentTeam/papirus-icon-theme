@@ -15,7 +15,7 @@ find "${THEMES[@]/$TARGET_DIR/$SCRIPT_DIR}" -name '*.svg' | \
 	while read -r file; do
 	src_dir=$(dirname "$file")
 	top_dir=$(dirname "$src_dir")
-	base_name=$(basename --suffix=".svg" "$file")
+	base_name=$(basename "$file" .svg)
 
 	base_dir=$(basename "$top_dir")
 	context=$(basename "$src_dir")
