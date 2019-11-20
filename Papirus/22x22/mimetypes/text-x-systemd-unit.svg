@@ -1,13 +1,12 @@
-<svg width="22" xmlns="http://www.w3.org/2000/svg" version="1.1" height="22">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <g transform="translate(-1,-1)">
-  <path style="opacity:.2" d="m5 2.5c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-6-6z"/>
-  <path style="fill:#e4e4e4" d="m5 2c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-5-1-1-5z"/>
-  <path style="opacity:.2" d="m20 8.5-6-6v5c0 0.554 0.446 1 1 1z"/>
-  <path style="fill:#fafafa" d="m20 8-6-6v5c0 0.554 0.446 1 1 1z"/>
-  <path style="opacity:.2;fill:#ffffff" d="m5 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h9v-0.5z"/>
+  <path style="opacity:0.2" d="M 5,2.5 C 4.446,2.5 4,2.946 4,3.5 V 21.5 C 4,22.054 4.446,22.5 5,22.5 H 19 C 19.554,22.5 20,22.054 20,21.5 V 8.5 L 14,2.5 Z"/>
+  <path style="fill:#e4e4e4" d="M 5,2 C 4.446,2 4,2.446 4,3 V 21 C 4,21.554 4.446,22 5,22 H 19 C 19.554,22 20,21.554 20,21 V 8 L 15,7 14,2 Z"/>
+  <path style="opacity:0.2" d="M 20,8.5 14,2.5 V 7.5 C 14,8.054 14.446,8.5 15,8.5 Z"/>
+  <path style="fill:#fafafa" d="M 20,8 14,2 V 7 C 14,7.554 14.446,8 15,8 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 V 3.5 C 4,2.946 4.446,2.5 5,2.5 H 14 V 2 Z"/>
+  <path style="fill:#4f4f4f" d="M 17,19 H 19 V 11 H 17 V 12 H 18 V 18 H 17 Z M 7,11 H 5 V 19 H 7 V 18 H 6 V 12 H 7 Z"/>
+  <circle style="fill:#05a087" cx="9" cy="15" r="2"/>
+  <path style="fill:#05a087" d="M 16,12.5 V 17.5 L 12,15 Z"/>
  </g>
- <path style="fill:#3f3f3f" d="m6 10h-2v7h2v-1h-1v-5h1z"/>
- <path style="fill:#3f3f3f" d="m16 17h2v-7h-2v1h1v5h-1z"/>
- <circle style="fill:#05a087" cx="8.5" r="1.5" cy="13.5"/>
- <path style="fill:#05a087" d="m15 12v3l-3-1.5z"/>
 </svg>
