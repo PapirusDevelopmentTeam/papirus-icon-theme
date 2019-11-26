@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1">
+ <g transform="translate(0,-1)">
+  <rect style="opacity:.2" rx="1" ry=".9375" height="17" width="20" y="3.5" x="1"/>
+  <rect style="fill:#5bc621" rx="1" ry=".9375" height="17" width="20" y="3" x="1"/>
+  <path style="opacity:.2;fill:#ffffff" d="m2 3c-0.554 0-1 0.418125-1 0.9375v0.5c0-0.519375 0.446-0.9375 1-0.9375h18c0.554 0 1 0.418125 1 0.9375v-0.5c0-0.519375-0.446-0.9375-1-0.9375z"/>
+  <path d="m5 3.5v4h-4v1h4v3h-4v1h4v3h-4v1h4v4h1v-4h4v4h1v-4h5v4h1v-4h4v-0.923077l-4-0.076923v-3h4v-1h-4v-3h4v-1h-4v-4h-1v4h-5v-4h-1v4h-4v-4zm1 5h10v7h-10z" style="opacity:.2"/>
+  <path d="m5 3v4h-4v1h4v3h-4v1h4v3h-4v1h4v4h1v-4h4v4h1v-4h5v4h1v-4h4v-0.923077l-4-0.076923v-3h4v-1h-4v-3h4v-1h-4v-4h-1v4h-5v-4h-1v4h-4v-4zm1 5h10v7h-10z" style="fill:#ffffff"/>
+ </g>
+ <circle style="fill:#ff9d04" cx="16" r="6" cy="16"/>
+ <path style="fill:#ffffff" d="m13 17.2984v1.7016h1.7016l4.2984-4.2984-1.7016-1.7016z"/>
+</svg>
