@@ -1,0 +1,26 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="M 2,10.9 V 27.599609 C 2,28.375209 2.624791,29 3.400391,29 H 28.599609 C 29.375209,29 30,28.375209 30,27.599609 V 10.9 Z" style="opacity:.2"/>
+ <path d="M 2,9.9 V 26.599609 C 2,27.375209 2.624791,28 3.400391,28 H 28.599609 C 29.375209,28 30,27.375209 30,26.599609 V 9.9 Z" style="fill:#3040c0"/>
+ <rect x="17" y="17" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <path d="m30 11v-5.6c0-0.7756-0.6244-1.4-1.4-1.4h-25.2c-0.7756 0-1.4 0.6244-1.4 1.4v5.6z" style="opacity:.2"/>
+ <path d="m30 10v-5.6c0-0.7756-0.6244-1.4-1.4-1.4h-25.2c-0.7756 0-1.4 0.6244-1.4 1.4v5.6z" style="fill:#c03040"/>
+ <rect x="17" y="11" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="23" y="11" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="11" y="11" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="5" y="11" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <circle cx="7.5" cy="7.5" r="1.5" style="opacity:.2"/>
+ <circle cx="7.5" cy="6.5" r="1.5" style="fill:#ffffff"/>
+ <circle cx="24.5" cy="7.5" r="1.5" style="opacity:.2"/>
+ <circle cx="24.5" cy="6.5" r="1.5" style="fill:#ffffff"/>
+ <rect x="23" y="17" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="11" y="17" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="5" y="17" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="17" y="23" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="23" y="23" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="11" y="23" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <rect x="5" y="23" width="4" height="4" style="fill:#ffffff;opacity:.2"/>
+ <path d="M 3.400391,3 C 2.624791,3 2,3.6247906 2,4.4003906 v 1 C 2,4.6247906 2.624791,4 3.400391,4 H 28.599609 C 29.375209,4 30,4.6247906 30,5.4003906 v -1 C 30,3.6247906 29.375209,3 28.599609,3 Z" style="fill:#ffffff;opacity:.2"/>
+ <circle cx="24" cy="24" r="8" style="opacity:.2"/>
+ <circle cx="24" cy="23" r="8" style="fill:#218543"/>
+ <path d="m24 18c-2.761 0-5 2.239-5 5s2.239 5 5 5 5-2.239 5-5-2.239-5-5-5zm0 1c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4zm-1 1v4h4v-1h-3v-3z" style="fill:#ffffff"/>
+</svg>
