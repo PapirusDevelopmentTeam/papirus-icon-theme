@@ -159,7 +159,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 
 ![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
 
-**NOTE**: Some Electon-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
+**NOTE**: Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
 
 ## KDE colorscheme
 
