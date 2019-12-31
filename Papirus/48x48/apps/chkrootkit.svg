@@ -1,0 +1,9 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2,0,0,2,2,2)">
+  <circle cx="11" cy="11.5" r="10" style="opacity:.2"/>
+  <circle cx="11" cy="11" r="10" style="fill:#5c8ba2"/>
+  <path d="M 11,1 A 10,10 0 0 0 1,11 10,10 0 0 0 1.0098,11.293 10,10 0 0 1 11,1.5 10,10 0 0 1 20.99,11.207 10,10 0 0 0 21,11 10,10 0 0 0 11,1 Z" style="fill:#ffffff;opacity:.2"/>
+  <path d="m12 9.485757a1.0001 1.0001 0 0 0-1 1v4.832032a1.0001 1.0001 0 0 0 0 0.326172v2.841797a1.0001 1.0001 0 1 0 2 0v-2h5a1.0001 1.0001 0 0 0 1-1v-5.000001a1.0001 1.0001 0 0 0-1-1zm1 2.000001h4v3h-4z" style="opacity:.2"/>
+  <path d="m12 18v-8h6v5h-6" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#ffffff"/>
+ </g>
+</svg>
