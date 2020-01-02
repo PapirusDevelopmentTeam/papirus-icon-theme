@@ -129,6 +129,14 @@
 	s/stroke-opacity:[1-9][0-9.]*;//gI
 	s/text-decoration-color:(#000|#000000|black|currentColor);//gI
 
+	# delete unsupported properties
+	s/paint-order:fill stroke markers;//gI
+	s/paint-order:stroke fill markers;//gI
+	s/paint-order:fill markers stroke;//gI
+	s/paint-order:markers fill stroke;//gI
+	s/paint-order:stroke markers fill;//gI
+	s/paint-order:markers stroke fill;//gI
+
 	# delete Inkscape properties
 	/-inkscape-/ {
 		s/-inkscape-[^;"]+;//gI
