@@ -1,0 +1,27 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(1,1)">
+  <g transform="translate(-1,-1)" style="fill:#8e8e8e">
+   <rect transform="rotate(90)" x="15" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="13" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="11" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="9" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="17" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="19" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="7" y="-21" width="1" height="19"/>
+   <rect transform="rotate(90)" x="5" y="-21" width="1" height="19"/>
+   <rect x="12" y="3" width="1" height="19"/>
+   <rect x="10" y="3" width="1" height="19"/>
+   <rect x="8" y="3" width="1" height="19"/>
+   <rect x="6" y="3" width="1" height="19"/>
+   <rect x="14" y="3" width="1" height="19"/>
+   <rect x="16" y="3" width="1" height="19"/>
+   <rect x="18" y="3" width="1" height="19"/>
+   <rect x="4" y="3" width="1" height="19"/>
+  </g>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-20.5" y="-19" width="17" height="17" rx=".94400001" ry=".94400001" style="opacity:.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-20" y="-19" width="17" height="17" rx=".94400001" ry=".94400001" style="fill:#b7b7b7"/>
+  <path d="M 2.9453,3 C 2.4221,3 2,3.4221 2,3.9453 v 0.5 C 2,3.9221 2.4221,3.5 2.9453,3.5 H 18.055 C 18.578,3.5 19,3.9221 19,4.4453 v -0.5 C 19,3.4221 18.578,3 18.055,3 Z" style="fill:#ffffff;opacity:.2"/>
+  <path d="m14 9.5v-1s0-1-1-1h-5c-1 0-1 1-1 1v4s0 1 1 1h4v1h-5v1s0 1 1 1h5c1 0 1-1 1-1v-4s0-1-1-1h-4v-1z" style="opacity:.1"/>
+  <path d="m14 9v-1s0-1-1-1h-5c-1 0-1 1-1 1v4s0 1 1 1h4v1h-5v1s0 1 1 1h5c1 0 1-1 1-1v-4s0-1-1-1h-4v-1z" style="fill:#008282"/>
+ </g>
+</svg>
