@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5350%2B-5294e2.svg?style=flat-square"/>
-  <img alt="actions" src="https://img.shields.io/badge/actions_icons-2050%2B-5294e2.svg?style=flat-square"/>
-  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1930%2B-5294e2.svg?style=flat-square"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-1450%2B-5294e2.svg?style=flat-square"/>
+  <img alt="apps" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/48x48/apps?label=apps%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="actions" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/22x22/actions?label=actions%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="panel" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/22x22/panel?label=panel%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="places" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/48x48/places?label=places%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="mimetypes" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/48x48/mimetypes?label=mimetypes%20icons&style=flat-square&colorB=5294e2"/>
 </p>
 
 Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) with a lot of new icons and a few extras, like [Hardcode-Tray support](#hardcoded-tray-icons), [KDE colorscheme support](#kde-colorscheme), [Folder Color support](#folders-color), and [others](#extras).
