@@ -1,0 +1,22 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath906">
+   <circle cx="11" cy="11" r="10" style="fill:#ff6600"/>
+  </clipPath>
+  <clipPath id="clipPath910">
+   <circle cx="11" cy="11" r="10" style="fill:#ff6600"/>
+  </clipPath>
+  <clipPath id="clipPath914">
+   <circle cx="32" cy="30.592999" r="28.023338" style="fill:#ff6600"/>
+  </clipPath>
+  <clipPath id="clipPath833">
+   <path d="m0 0v15h6v-6l5 5 5-4.9999999v5.9999999h6v-15z" style="fill:#ff6600"/>
+  </clipPath>
+ </defs>
+ <circle cx="11" cy="11.5" r="10" style="opacity:.2"/>
+ <path transform="matrix(.35684542 0 0 .35684542 -.41905344 .08302862)" d="m3.9766615 41.802334h14.01167v-16.814003l14.011669 14.011669 14.011669-14.011669v16.814003h14.01167v19.616337h-56.046678z" clip-path="url(#clipPath914)" style="fill:#4d4d4d"/>
+ <circle cx="11" cy="11" r="10" clip-path="url(#clipPath833)" style="fill:#ff6600"/>
+ <path d="m1 14.510855h4v-8.0000003l6 6.0000003 6-6.0000003v8.0000003h4v2h-6v-5l-4 4-4-4v5h-6z" clip-path="url(#clipPath910)" style="opacity:.2"/>
+ <path d="M 11,1 A 10,10 0 0 0 1,11 10,10 0 0 0 1.0098,11.293 10,10 0 0 1 11,1.5 10,10 0 0 1 20.99,11.207 10,10 0 0 0 21,11 10,10 0 0 0 11,1 Z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m1 14h4v-8l6 6 6-6v8h4v2h-6v-5l-4 4-4-4v5h-6z" clip-path="url(#clipPath906)" style="fill:#ececec"/>
+</svg>

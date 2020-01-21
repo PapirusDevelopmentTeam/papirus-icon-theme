@@ -1,0 +1,16 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath902">
+   <circle cx="8" cy="8" r="8" style="fill:#ff6600"/>
+  </clipPath>
+  <clipPath id="clipPath906">
+   <circle cx="8" cy="8" r="8" style="fill:#ff6600"/>
+  </clipPath>
+  <clipPath id="clipPath912">
+   <path d="m0 0h16v11h-4v-5l-4 4-4-4v5h-4z" style="fill:#ff6600"/>
+  </clipPath>
+ </defs>
+ <circle cx="8" cy="8" r="8" clip-path="url(#clipPath912)" style="fill:#ff6600"/>
+ <path d="m0 11h4v-5l4 4 4-4v5h4v5h-16z" clip-path="url(#clipPath906)" style="fill:#4d4d4d"/>
+ <path d="m0 10h3v-6l5 5 5-5v6h3v2h-5v-3.484651l-3 2.984651-3-2.9906434v3.4906434h-5z" clip-path="url(#clipPath902)" style="fill:#ececec"/>
+</svg>
