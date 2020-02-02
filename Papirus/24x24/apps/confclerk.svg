@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <path style="fill:#e4e4e4" d="M 21,20 V 4.5 c 0,-0.554 -0.446,-1 -1,-1 H 3 c -0.554,0 -1,0.446 -1,1 V 20 c 0,0.554 0.446,1 1,1 h 17 c 0.554,0 1,-0.446 1,-1 z"/>
+ <path style="opacity:0.1" d="m 21,8.5 v -4 c 0,-0.554 -0.446,-1 -1,-1 H 3 c -0.554,0 -1,0.446 -1,1 v 4 z"/>
+ <path style="fill:#31b7cf" d="M 21,8 V 4 C 21,3.446 20.554,3 20,3 H 3 C 2.446,3 2,3.446 2,4 v 4 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 17 c 0.554,0 1,0.446 1,1 V 4 C 21,3.446 20.554,3 20,3 Z"/>
+ <path style="opacity:0.2" d="m 2,20 v 0.5 c 0,0.554 0.446,1 1,1 h 17 c 0.554,0 1,-0.446 1,-1 V 20 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,21 2,20.554 2,20 Z"/>
+ <rect style="opacity:0.2" width="3" height="3" x="16" y="13"/>
+ <rect style="opacity:0.2" width="3" height="3" x="8" y="13"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="13"/>
+ <rect style="opacity:0.2" width="3" height="3" x="12" y="17"/>
+ <rect style="opacity:0.2" width="3" height="3" x="16" y="17"/>
+ <rect style="opacity:0.2" width="3" height="3" x="8" y="17"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="17"/>
+ <rect style="opacity:0.2" width="3" height="3" x="12" y="9"/>
+ <rect style="opacity:0.2" width="3" height="3" x="16" y="9"/>
+ <rect style="opacity:0.2" width="3" height="3" x="8" y="9"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="9"/>
+ <rect style="opacity:0.2" width="3" height="3" x="12" y="13"/>
+ <circle style="opacity:0.2" cx="6" cy="5.5" r="1"/>
+ <circle style="fill:#ffffff" cx="6" cy="5" r="1"/>
+ <circle style="opacity:0.2" cx="17" cy="5.5" r="1"/>
+ <circle style="fill:#ffffff" cx="17" cy="5" r="1"/>
+</svg>

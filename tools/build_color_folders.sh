@@ -71,11 +71,11 @@ COLORS=(
 
 
 headline() {
-	printf "%b => %b%s\n" "\e[1;32m" "\e[0m" "$*" >&2
+	printf "%b => %b%s\n" "\e[1;32m" "\e[0m" "$*"
 }
 
 msg() {
-	printf "%b [+] %b%s\n" "\e[1;33m" "\e[0m" "$*" >&2
+	printf "%b [+] %b%s\n" "\e[1;33m" "\e[0m" "$*"
 }
 
 recolor() {

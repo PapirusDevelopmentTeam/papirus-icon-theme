@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5000%2B-5294e2.svg?style=flat-square"/>
-  <img alt="actions" src="https://img.shields.io/badge/actions_icons-2000%2B-5294e2.svg?style=flat-square"/>
-  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-5294e2.svg?style=flat-square"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-1250%2B-5294e2.svg?style=flat-square"/>
+  <img alt="apps" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/48x48/apps?label=apps%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="actions" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/22x22/actions?label=actions%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="panel" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/22x22/panel?label=panel%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="places" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/48x48/places?label=places%20icons&style=flat-square&colorB=5294e2"/>
+  <img alt="mimetypes" src="https://img.shields.io/github/search/PapirusDevelopmentTeam/papirus-icon-theme/extension:svg%20path:Papirus/48x48/mimetypes?label=mimetypes%20icons&style=flat-square&colorB=5294e2"/>
 </p>
 
 Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) with a lot of new icons and a few extras, like [Hardcode-Tray support](#hardcoded-tray-icons), [KDE colorscheme support](#kde-colorscheme), [Folder Color support](#folders-color), and [others](#extras).
@@ -76,33 +77,31 @@ Use the scripts to install the latest version directly from this repo (independe
 #### ROOT directory (recommended)
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | sh
+wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 
 #### HOME directory for GTK
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | DESTDIR="$HOME/.icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh
 ```
 
 #### HOME directory for KDE
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | DESTDIR="$HOME/.local/share/icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.local/share/icons" sh
 ```
 
 #### \*BSD systems
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | env DESTDIR="/usr/local/share/icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="/usr/local/share/icons" sh
 ```
-
-**NOTE:** Qt4 apps require `libqt4-svg` to work correctly.
 
 #### Uninstall
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/uninstall.sh | sh
+wget -qO- https://git.io/papirus-icon-theme-uninstall | sh
 ```
 
 ### Third-party packages
@@ -161,15 +160,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 
 ![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
 
-**BUG on KDE with libappindicator**: Some applications have wrong rendering by default on KDE. For solve this run application with Unity environment option.
-
-For example:
-
-```
-XDG_CURRENT_DESKTOP=Unity wire-desktop
-```
-
-See more info [here](https://bugs.kde.org/show_bug.cgi?id=366062) and please vote for this bug.
+**NOTE**: Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
 
 ## KDE colorscheme
 
@@ -233,19 +224,7 @@ To deal with blurred panel icons, increase the panel size up to 30px in `Systems
 <details>
 <summary>For GNOME Shell users</summary>
 
-For GNOME users who want use Papirus icon theme with [Arc theme](https://github.com/NicoHood/arc-theme), we recommend change icons color for panel:
-
-```
-sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/gnome-shell/gnome-shell.css
-```
-
-Translucent panel on Adapta Nokto Gnome Shell theme:
-
-```
-sudo sed -i.orig '/panel:overview/ s/rgba(19, 25, 28, 0.01)/rgba(19, 25, 28, 0.7)/g' /usr/share/themes/Adapta-Nokto/gnome-shell/gnome-shell.css
-```
-
-Also, we recommend install the following extensions:
+For GNOME users we recommend install the following extensions:
 
 - [(K)StatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) **¹** — This extension integrates AppIndicators. The patched version of [sni-qt](https://github.com/bilelmoussaoui/sni-qt) for [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) doesn't work without it.
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) **¹**
@@ -253,45 +232,6 @@ Also, we recommend install the following extensions:
 - [Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
 
 **¹** On Ubuntu 18.04+ it is pre-installed.
-</details>
-
-<details>
-<summary>For Unity users</summary>
-
-For Unity users, we recommend installing patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik) and changing the icon size to 33px.
-
-*~/.notify-osd* file:
-
-```
-slot-allocation = dynamic
-bubble-expire-timeout = 10sec
-bubble-vertical-gap = 10px
-bubble-horizontal-gap = 10px
-bubble-corner-radius = 24px
-bubble-icon-size = 33px
-bubble-gauge-size = 6px
-bubble-width = 240px
-bubble-background-color = 2f343f
-bubble-background-opacity = 95%
-text-margin-size = 10px
-text-title-size = 100%
-text-title-weight = bold
-text-title-color = adb7bf
-text-title-opacity = 100%
-text-body-size = 90%
-text-body-weight = normal
-text-body-color = eaeaea
-text-body-opacity = 100%
-text-shadow-opacity = 50%
-location = 1
-bubble-prevent-fade = 1
-bubble-close-on-click = 1
-bubble-as-desktop-bg = 0
-```
-
-![notify-fix](https://i.imgur.com/hjTpvca.png)
-
-Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
 </details>
 
 <details>
