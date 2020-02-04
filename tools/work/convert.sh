@@ -10,7 +10,7 @@ readonly SOURCE_DIR="$SCRIPT_DIR/Papirus"
 readonly THEMES_DIR="$SCRIPT_DIR/../.."
 
 mapfile -t THEMES < <(
-	find "$THEMES_DIR" -type f -name 'index.theme' -exec dirname '{}' +
+	find "$THEMES_DIR" -type f -name 'index.theme' -printf '%h\n'
 )
 
 for theme in "${THEMES[@]##*/}"; do

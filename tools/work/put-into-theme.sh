@@ -8,7 +8,7 @@ readonly SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 readonly TARGET_DIR="$SCRIPT_DIR/../.."
 
 mapfile -t THEMES < <(
-	find "$TARGET_DIR" -type f -name 'index.theme' -exec dirname '{}' +
+	find "$TARGET_DIR" -type f -name 'index.theme' -printf '%h\n'
 )
 
 find "${THEMES[@]/$TARGET_DIR/$SCRIPT_DIR}" -name '*.svg' | \
