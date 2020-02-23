@@ -1,1 +1,21 @@
-juk.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <g style="opacity:0.2" transform="translate(0,0.5)">
+  <rect width="18" height="18" x="3" y="3" rx="1" ry="1"/>
+  <circle cx="12" cy="12" r="10"/>
+ </g>
+ <g style="fill:#646464">
+  <rect width="18" height="18" x="3" y="3" rx="1" ry="1"/>
+  <circle cx="12" cy="12" r="10"/>
+ </g>
+ <g style="fill:#3f3f3f">
+  <circle cx="12" cy="12" r="8"/>
+  <circle cx="5" cy="5" r="1"/>
+  <circle cx="19" cy="5" r="1"/>
+  <circle cx="19" cy="19" r="1"/>
+  <circle cx="5" cy="19" r="1"/>
+ </g>
+ <circle style="opacity:0.2" cx="12" cy="12.5" r="7"/>
+ <circle style="fill:#fec006" cx="12" cy="12" r="7"/>
+ <circle style="fill:#4f4f4f" cx="12" cy="12" r="3"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 12 2 A 10 10 0 0 0 7.6621 3 L 4 3 C 3.446 3 3 3.446 3 4 L 3 4.5 C 3 3.946 3.446 3.5 4 3.5 L 7.6621 3.5 A 10 10 0 0 1 12 2.5 A 10 10 0 0 1 16.33 3.5 L 20 3.5 C 20.554 3.5 21 3.946 21 4.5 L 21 4 C 21 3.446 20.554 3 20 3 L 16.33 3 A 10 10 0 0 0 12 2 z M 21 7.6621 L 21 8.1621 A 10 10 0 0 1 21.99 12.324 A 10 10 0 0 0 22 12 A 10 10 0 0 0 21 7.6621 z M 3 7.6699 A 10 10 0 0 0 2 12 A 10 10 0 0 0 2.0098 12.176 A 10 10 0 0 1 3 8.1699 L 3 7.6699 z"/>
+</svg>

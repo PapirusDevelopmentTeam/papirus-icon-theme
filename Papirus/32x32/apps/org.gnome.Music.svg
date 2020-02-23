@@ -1,1 +1,22 @@
-juk.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <g style="opacity:0.2" transform="translate(0,1)">
+  <rect width="24" height="24" x="4" y="4" rx="1" ry="1"/>
+  <circle cx="16" cy="16" r="14"/>
+ </g>
+ <g style="fill:#646464">
+  <rect width="24" height="24" x="4" y="4" rx="1" ry="1"/>
+  <circle cx="16" cy="16" r="14"/>
+ </g>
+ <g style="fill:#3f3f3f">
+  <circle cx="16" cy="16" r="12"/>
+  <circle cx="6" cy="6" r="1"/>
+  <circle cx="26" cy="6" r="1"/>
+  <circle cx="26" cy="26" r="1"/>
+  <circle cx="6" cy="26" r="1"/>
+ </g>
+ <circle style="opacity:0.2" cx="16" cy="17" r="10"/>
+ <circle style="fill:#fec006" cx="16" cy="16" r="10"/>
+ <circle style="fill:#4f4f4f" cx="16" cy="16" r="4"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 16 2 A 14 14 0 0 0 8.8184 4 L 5 4 C 4.446 4 4 4.446 4 5 L 4 6 C 4 5.446 4.446 5 5 5 L 8.8184 5 A 14 14 0 0 1 16 3 A 14 14 0 0 1 23.18 5 L 27 5 C 27.554 5 28 5.446 28 6 L 28 5 C 28 4.446 27.554 4 27 4 L 23.18 4 A 14 14 0 0 0 16 2 z M 28 8.8184 L 28 9.8184 A 14 14 0 0 1 29.98 16.627 A 14 14 0 0 0 30 16 A 14 14 0 0 0 28 8.8184 z M 4 8.8203 A 14 14 0 0 0 2 16 A 14 14 0 0 0 2.0195 16.373 A 14 14 0 0 1 4 9.8203 L 4 8.8203 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 16 6 A 10 10 0 0 0 6 16 A 10 10 0 0 0 6.0215 16.586 A 10 10 0 0 1 16 7 A 10 10 0 0 1 25.979 16.414 A 10 10 0 0 0 26 16 A 10 10 0 0 0 16 6 z"/>
+</svg>

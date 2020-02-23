@@ -1,1 +1,22 @@
-juk.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g style="opacity:0.2">
+  <rect width="36" height="36" x="6" y="7" rx="2" ry="2"/>
+  <circle cx="24" cy="25" r="20"/>
+ </g>
+ <g style="fill:#646464">
+  <rect width="36" height="36" x="6" y="6" rx="2" ry="2"/>
+  <circle cx="24" cy="24" r="20"/>
+ </g>
+ <g style="fill:#3f3f3f">
+  <circle cx="24" cy="24" r="18"/>
+  <circle cx="9.5" cy="9.5" r="1.5"/>
+  <circle cx="38.5" cy="9.5" r="1.5"/>
+  <circle cx="38.5" cy="38.5" r="1.5"/>
+  <circle cx="9.5" cy="38.5" r="1.5"/>
+ </g>
+ <circle style="opacity:0.2" cx="24" cy="25" r="16"/>
+ <circle style="fill:#fec006" cx="24" cy="24" r="16"/>
+ <circle style="fill:#4f4f4f" cx="24" cy="24" r="6"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 24 8 A 16 16 0 0 0 8 24 A 16 16 0 0 0 8.0215 24.58 A 16 16 0 0 1 24 9 A 16 16 0 0 1 39.979 24.42 A 16 16 0 0 0 40 24 A 16 16 0 0 0 24 8 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 24 4 A 20 20 0 0 0 15.32 6 L 8 6 C 6.892 6 6 6.892 6 8 L 6 9 C 6 7.892 6.892 7 8 7 L 15.32 7 A 20 20 0 0 1 24 5 A 20 20 0 0 1 32.66 7 L 40 7 C 41.108 7 42 7.892 42 9 L 42 8 C 42 6.892 41.108 6 40 6 L 32.66 6 A 20 20 0 0 0 24 4 z M 42 15.32 L 42 16.32 A 20 20 0 0 1 43.982 24.662 A 20 20 0 0 0 44 24 A 20 20 0 0 0 42 15.32 z M 6 15.34 A 20 20 0 0 0 4 24 A 20 20 0 0 0 4.0176 24.338 A 20 20 0 0 1 6 16.34 L 6 15.34 z"/>
+</svg>
