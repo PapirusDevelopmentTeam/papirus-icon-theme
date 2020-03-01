@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
+ <circle style="fill:#846847" cx="24" cy="24" r="20"/>
+ <circle style="opacity:0.2" cx="24" cy="25" r="16"/>
+ <circle style="fill:#a4946c" cx="24" cy="24" r="16"/>
+ <path style="opacity:0.1" d="M 24,9 20.714844,18.857422 15,16 17.857422,21.714844 8,25 17.857422,28.285156 15,34 20.714844,31.142578 24,41 27.285156,31.142578 33,34 30.142578,28.285156 40,25 30.142578,21.714844 33,16 27.285156,18.857422 Z"/>
+ <path style="fill:#d8cbb8" d="m 15,15 9,9 h -4.5 z"/>
+ <path style="fill:#5d472e" d="m 15,15 9,9 v -4.5 z"/>
+ <path style="fill:#d8cbb8" d="m 33,33 -9,-9 h 4.5 z"/>
+ <path style="fill:#5d472e" d="m 33,33 -9,-9 v 4.5 z"/>
+ <path style="fill:#d8cbb8" d="m 33,15 -9,9 v -4.5 z"/>
+ <path style="fill:#5d472e" d="m 33,15 -9,9 h 4.5 z"/>
+ <path style="fill:#d8cbb8" d="m 15,33 9,-9 v 4.5 z"/>
+ <path style="fill:#5d472e" d="m 15,33 9,-9 h -4.5 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0196,24.586 20,20 0 0 1 24,5 20,20 0 0 1 43.98,24.414 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z"/>
+ <path style="fill:#d8cbb8" d="M 24,8 V 24 L 20,20 Z"/>
+ <path style="fill:#5d472e" d="m 24,8 v 16 l 4,-4 z"/>
+ <path style="fill:#d8cbb8" d="M 24,40 V 24 l 4,4 z"/>
+ <path style="fill:#5d472e" d="M 24,40 V 24 l -4,4 z"/>
+ <path style="fill:#d8cbb8" d="M 40,24 H 24 l 4,-4 z"/>
+ <path style="fill:#5d472e" d="M 40,24 H 24 l 4,4 z"/>
+ <path style="fill:#d8cbb8" d="m 8,24 h 16 l -4,4 z"/>
+ <path style="fill:#5d472e" d="M 8,24 H 24 L 20,20 Z"/>
+</svg>
