@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#74b2ed" width="16" height="14" x="0" y="1" rx=".8" ry=".8"/>
- <path style="fill:#ffffff" d="m4 4v1h-0.5c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h0.5v1h-1.9082c0.206 0.582 0.754 1 1.4082 1h0.5v1h1v-1h0.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-0.5v-1h1.9082c-0.206-0.582-0.754-1-1.408-1h-0.5v-1h-1zm-0.5 2h0.5v1h-0.5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm1.5 2h0.5c0.277 0 0.5 0.223 0.5 0.5s-0.2233 0.5129-0.5 0.5h-0.5zm4 2v1h6v-1z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#4f4f4f" width="12" height="12.364" x="2" y="2.64" rx=".6" ry=".618"/>
+ <rect style="fill:#a5b1b3" width="16" height="2" x="0" y="2" rx="1" ry="1"/>
+ <path style="fill:none;stroke:#236ac6" d="M 8.7171897,6.2828101 6.5353715,8.4646283"/>
+ <path style="fill:none;stroke:#3498db" d="M 4.3535534,6.2828101 6.5353715,8.4646283 4.3535534,10.646447"/>
+ <path style="fill:none;stroke:#3498db" d="m 8,11.5 h 4"/>
 </svg>
