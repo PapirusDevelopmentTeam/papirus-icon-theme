@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <path style="opacity:0.2" d="m 5,2.5 c -0.554,0 -1,0.446 -1,1 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -13 l -6,-6 z"/>
+ <path style="fill:#4f4f4f" d="M 5,2 C 4.446,2 4,2.446 4,3 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8 L 15,7 14,2 Z"/>
+ <path style="opacity:0.2" d="m 20,8.5 -6,-6 v 5 c 0,0.554 0.446,1 1,1 z"/>
+ <path style="fill:#696969" d="M 20,8 14,2 v 5 c 0,0.554 0.446,1 1,1 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 9 V 2 Z"/>
+ <path style="opacity:0.1" transform="matrix(0.16666666,0,0,0.16666666,7,10.5)" d="M 30.1,29.9 60,60 H 0 Z"/>
+ <path style="fill:#6069e5" transform="matrix(0.16666666,0,0,0.16666666,7,10)" d="M 60,60 H 0 L 30.1,29.9 Z"/>
+ <path style="opacity:0.1" transform="matrix(0.16666666,0,0,0.16666666,7,10.5)" d="M 60,0 H 30.1 L 0,31.7 V 60 L 30.1,29.9 Z"/>
+ <path style="fill:#ec7537" transform="matrix(0.16666666,0,0,0.16666666,7,10)" d="M 60,0 H 30.1 L 0,31.7 V 60 L 30.1,29.9 Z"/>
+ <path style="opacity:0.1" transform="matrix(0.16666666,0,0,0.16666666,7,10.5)" d="M 30.1,0 0,32.5 V 0 Z"/>
+ <path style="fill:#00a1e6" transform="matrix(0.16666666,0,0,0.16666666,7,10)" d="M 0,32.5 V 0 h 30.1 z"/>
+</svg>
