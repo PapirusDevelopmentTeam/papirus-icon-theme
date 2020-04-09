@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <path opacity=".05" d="m6 5c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2h-36z"/>
- <rect fill="#fabd7f" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path fill="#3f3f3f" d="m22 12c-0.554 0-1 0.446-1 1v16h-4l7 9 7-9h-4v-16c0-0.554-0.446-1-1-1h-4z"/>
- <path fill="#fff" opacity=".2" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z"/>
- <path opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
+ <rect style="fill:#546e7a" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="m 21,14 v 8 h -4 l 7,8 7,-8 H 27 V 14 Z M 11,28 v 8 h 4 18 4 v -8 h -4 v 4 H 15 v -4 z"/>
+ <path style="fill:#ffffff" d="m 21,13 v 8 h -4 l 7,8 7,-8 H 27 V 13 Z M 11,27 v 8 h 4 18 4 v -8 h -4 v 4 H 15 v -4 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 7 C 4 5.892 4.892 5 6 5 L 42 5 C 43.108 5 44 5.892 44 7 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z"/>
 </svg>
