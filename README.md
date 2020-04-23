@@ -92,7 +92,14 @@ wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh
 wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.local/share/icons" sh
 ```
 
-#### \*BSD systems
+#### FreeBSD
+
+```
+pkg install papirus-icon-theme
+```
+
+
+#### Other \*BSD systems
 
 ```
 wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="/usr/local/share/icons" sh
