@@ -29,6 +29,7 @@ IGNORED_APPS=(
 	org.mosh.mosh
 	org.mozilla.Firefox.BaseApp
 	org.sugarlabs.BaseApp
+	org.freedesktop.LinuxAudio.BaseExtension
 	# apps with icons that do not match with App ID:
 	com.github.utsushi.Utsushi
 	com.wps.Office
