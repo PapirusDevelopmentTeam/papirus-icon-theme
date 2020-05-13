@@ -156,6 +156,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 - XFCE 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - Pantheon 24px
 - Cinnamon 16px
+- LXQt 16px
 
 
 ![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
@@ -274,6 +275,25 @@ With light wallpaper, we recommend disable `use-transparency` option on wingpane
 ```
 gsettings set org.pantheon.desktop.wingpanel use-transparency false
 ```
+
+</details>
+
+<details>
+<summary>For LXQt users</summary>
+
+Here are a few recommendations for LXQt users.
+
+#### PCManFM-Qt File Manager
+
+Go to `Edit` → `Preferences`. Click on `Display` section. On `Icons` category change size to `16x16` for `Size of side pane icons`.
+
+![pcmanfmqt](https://i.imgur.com/2x3U6xD.png)
+
+#### Monochrome Panel Plugins
+
+`Configure Panel` and set `16px` for `Icon size`.
+
+![lxqt-panel](https://i.imgur.com/iwuhBiG.png)
 
 </details>
 
