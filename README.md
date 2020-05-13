@@ -198,11 +198,9 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 ## Recommendations
 
 - Recommended use Papirus icons alongside one of the following GTK themes:
-  - [Adapta theme](https://github.com/adapta-project/adapta-gtk-theme)
-  - [Arc theme](https://github.com/NicoHood/arc-theme)
+  - [Arc theme](https://github.com/jnsh/arc-theme)
   - [Materia theme](https://github.com/nana-4/materia-theme)
 - For KDE, our recommendation is:
-  - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
   - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
   - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde)
 
@@ -222,7 +220,7 @@ Restart system.
 <details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/NicoHood/arc-theme) we recommend fix color icons on panel:
+For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/jnsh/arc-theme) we recommend fix color icons on panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
