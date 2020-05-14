@@ -64,6 +64,7 @@ COLORS=(
 	[teal]="      #16a085 #12806a #08382e #e4e4e4"
 	[violet]="    #7e57c2 #5d399b #2c1e44 #e4e4e4"
 	[white]="     #e4e4e4 #cccccc #4f4f4f #ffffff"
+	[yaru]="      #676767 #973552 #e4e4e4 #ff7446"
 	[yellow]="    #e2b322 #b58f1b #4f3e0c #e4e4e4"
 	[nordic]="    #82abaa #6c9b9a #4e6766 #e4e4e4"
 	[custom]="    #value_light #value_dark #323232 #e4e4e4"
