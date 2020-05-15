@@ -236,7 +236,7 @@ To deal with blurred panel icons, increase the panel size up to 30px in `Systems
 
 For GNOME users we recommend install the following extensions:
 
-- [(K)StatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) **¹** — This extension integrates AppIndicators. The patched version of [sni-qt](https://github.com/bilelmoussaoui/sni-qt) for [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) doesn't work without it.
+- [(K)StatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) **¹** — This extension integrates AppIndicators.
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) **¹**
 - [No Symbolic Icons](https://extensions.gnome.org/extension/1304/no-symbolic-icons/)
 - [Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
@@ -300,6 +300,7 @@ Go to `Edit` → `Preferences`. Click on `Display` section. On `Icons` category 
 - Application name
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
 - Original icon image
+- Use tray? Tray icon name. Hardcoded?
 - Small description and/or a link to the official webpage
 
 **NOTE**: We do NOT support Windows/Wine/Crossover or other NOT native Linux-apps. This also applies to discontinued projects!!
