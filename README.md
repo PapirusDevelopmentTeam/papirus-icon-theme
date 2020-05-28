@@ -274,6 +274,12 @@ With light wallpaper, we recommend disable `use-transparency` option on wingpane
 gsettings set org.pantheon.desktop.wingpanel use-transparency false
 ```
 
+For better representation we recommend use only light eGTK Theme:
+
+```
+echo "export GTK_THEME=elementary" >> ~/.profile
+```
+Restart System.
 </details>
 
 <details>
