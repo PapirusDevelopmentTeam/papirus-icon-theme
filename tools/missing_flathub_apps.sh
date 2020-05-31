@@ -30,6 +30,7 @@ IGNORED_APPS=(
 	org.mozilla.Firefox.BaseApp
 	org.sugarlabs.BaseApp
 	org.freedesktop.LinuxAudio.BaseExtension
+	org.nuspell.Nuspell
 	# apps with icons that do not match with App ID:
 	com.github.utsushi.Utsushi
 	com.wps.Office
