@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect fill="#4ab3e4" width="12" height="14" x="-14" y="-15" rx=".818" ry=".75" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect fill="#ebebeb" width="6" height="8" x="-15" y="-8" rx=".25" ry=".267" transform="matrix(0,-1,-1,0,0,0)"/>
+ <g transform="matrix(0.90625,0,0,0.98863638,0.49999973,0.3636364)">
+  <rect style="fill:#0245c5" width="12.138" height="15.448" x="-13.79" y="-16" rx=".828" ry=".828" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 16,12.965517 V 2.4827586 C 16,2.0242758 15.630897,1.6551724 15.172414,1.6551724 H 8.2758621 V 13.793103 H 15.172414 C 15.630897,13.793103 16,13.424 16,12.965517 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 16,7.7241379 V 2.4827586 C 16,2.0242758 15.630897,1.6551724 15.172414,1.6551724 H 1.3793103 c -0.45848274,0 -0.82758619,0.3691034 -0.82758619,0.8275862 v 5.2413793 z"/>
+ </g>
+ <rect style="fill:#ebebeb" width="7" height="8" x="-15" y="-8" rx=".292" ry=".267" transform="matrix(0,-1,-1,0,0,0)"/>
 </svg>
