@@ -31,6 +31,7 @@ IGNORED_APPS=(
 	org.sugarlabs.BaseApp
 	org.freedesktop.LinuxAudio.BaseExtension
 	org.nuspell.Nuspell
+	net.sourceforge.fspclient
 	# apps with icons that do not match with App ID:
 	com.github.utsushi.Utsushi
 	com.wps.Office
