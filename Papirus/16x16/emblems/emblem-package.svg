@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="scale(0.5,0.5)">
-  <circle style="fill:#252a35" cx="16" cy="16" r="14"/>
-  <path style="fill:#ffffff" d="M 11.181818,8 8,12 l 7,0 0,-4 z"/>
-  <path style="fill:#ffffff" d="m 17,8 0,4 7,0 -3.181818,-4 z"/>
-  <path style="fill:#ffffff" d="m 8,14 0,10 16,0 0,-10 z"/>
- </g>
+ <circle style="fill:#455a64" cx="8" cy="8" r="7"/>
+ <path style="fill:#ffffff" d="M 5.590909,4 4,6 H 7.5 V 4 Z"/>
+ <path style="fill:#ffffff" d="M 8.5,4 V 6 H 12 L 10.409091,4 Z"/>
+ <path style="fill:#ffffff" d="m 4,7 v 4 h 8 V 7 Z"/>
 </svg>

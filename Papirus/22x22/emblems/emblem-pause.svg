@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <g transform="matrix(0.5,0,0,0.5,-1,-1)">
-  <circle style="fill:#252a35" cx="24" cy="24" r="20"/>
-  <rect style="fill:#ffffff" width="6" height="28" x="16" y="10"/>
-  <rect style="fill:#ffffff" width="6" height="28" x="26" y="10"/>
- </g>
+ <circle style="fill:#455a64" cx="11" cy="11" r="10"/>
+ <rect style="fill:#ffffff" width="3" height="10" x="7" y="6"/>
+ <rect style="fill:#ffffff" width="3" height="10" x="12" y="6"/>
 </svg>
