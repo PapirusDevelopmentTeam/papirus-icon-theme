@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#ff668e" d="M 2.2749694,5.4878342e-4 A 1.2383596,1.2554153 0 0 0 1,1.255244 v 13.488965 a 1.2383596,1.2554153 0 0 0 1.8578542,1.087413 L 8.6188059,12.459181 14.380458,9.0875398 a 1.2383596,1.2554153 0 0 0 0,-2.1748671 L 8.6188059,3.5410321 2.8578542,0.16803079 A 1.2383596,1.2554153 0 0 0 2.2750394,7.4878466e-4 Z"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 4.0001,10 V 6"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 7,6 4.0315054,8.0000859"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 7,10 4.0315054,8.0000859"/>
+ <path style="fill:#df3d6b" d="m 11,0 c 0,0 2,2.0815 2,3.7065 H 9 C 9,2.0815 11,0 11,0 Z"/>
+ <path style="opacity:0.3" d="m 11,1.67525 c 0,0 1.2,1.21875 1.2,2.19375 H 9.8 C 9.8,2.894 11,1.67525 11,1.67525 Z"/>
+ <path style="fill:#df3d6b" d="M 6,0 C 6,0 8.0000004,2.0815 8,3.7064998 H 4 C 4,2.0815 6,0 6,0 Z"/>
+ <path style="opacity:0.3" d="m 6.0000001,1.67525 c 0,0 1.2000005,1.21875 1.2000001,2.19375 H 4.8000001 c 0,-0.975 1.2,-2.19375 1.2,-2.19375 z"/>
+ <rect style="fill:#f45884" width="13" height="13" x="2" y="3" rx="1.112" ry="1.112"/>
+ <polygon id="polygon842" style="isolation:isolate;fill:#464646" transform="matrix(0.08166765,0,0,0.08840795,1.1862433,0.63144489)" points="71.19 72.04 120.17 100.31 71.19 128.59"/>
+ <rect style="fill:none;stroke:#464646;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round" width="8.625" height="8.625" x="4.19" y="5.19" rx=".738" ry=".738"/>
 </svg>
