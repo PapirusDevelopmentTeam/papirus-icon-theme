@@ -29,6 +29,7 @@ Papirus icon theme is available in four variants:
  - [Hardcoded icons](#hardcoded-icons)
     - [Hardcoded application icons](#hardcoded-application-icons)
     - [Hardcoded tray icons](#hardcoded-tray-icons)
+    - [Steam runtime icons](#steam-runtime-icons)
  - [KDE colorscheme](#kde-colorscheme)
  - [Folder's color](#folders-color)
  - [Extras](#extras)
@@ -119,6 +120,7 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
 | Fedora        | Dirk Davidis         | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
+| Gentoo        | Mikle Kolyada        | `sudo emerge -a papirus-icon-theme` |
 | NetBSD        | Nia Alarie           | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
 | NixOS         | Nixpkgs Contributors | `nix-env -iA nixos.papirus-icon-theme` |
 | openSUSE      | Konstantin Voinov    | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
@@ -162,6 +164,9 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 ![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
 
 **NOTE**: Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
+
+### Steam runtime icons
+To fix icons of running Steam games, you can use [Steam Icons Fixer](https://github.com/BlueManCZ/SIF) script, that will connect all icons available from our icon theme with your installed games.
 
 ## KDE colorscheme
 
