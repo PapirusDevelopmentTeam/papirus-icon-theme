@@ -1,28 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#4f4f4f" width="14" height="16" x="-15" y="-16" rx=".7" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="fill:#933333" d="m 1,13 2,0 0,1 -2,0 z"/>
- <path style="fill:#933333" d="m 1,11 2,0 0,1 -2,0 z"/>
- <path style="fill:#933333" d="m 1,9 2,0 0,1 -2,0 z"/>
- <path style="fill:#f88383" d="M 1,7 3,7 3,8 1,8 Z"/>
- <path style="fill:#f88383" d="M 1,5 3,5 3,6 1,6 Z"/>
- <path style="fill:#e8aa34" d="m 4,13 2,0 0,1 -2,0 z"/>
- <path style="fill:#e8aa34" d="m 4,11 2,0 0,1 -2,0 z"/>
- <path style="fill:#e8aa34" d="m 4,9 2,0 0,1 -2,0 z"/>
- <path style="fill:#76185e" d="m 7,13 2,0 0,1 -2,0 z"/>
- <path style="fill:#76185e" d="m 7,11 2,0 0,1 -2,0 z"/>
- <path style="fill:#76185e" d="m 7,9 2,0 0,1 -2,0 z"/>
- <path style="fill:#e272c5" d="M 7,7 9,7 9,8 7,8 Z"/>
- <path style="fill:#e272c5" d="M 7,5 9,5 9,6 7,6 Z"/>
- <path style="fill:#e272c5" d="M 7,3 9,3 9,4 7,4 Z"/>
- <path style="fill:#4ab225" d="m 10,13 2,0 0,1 -2,0 z"/>
- <path style="fill:#4ab225" d="m 10,11 2,0 0,1 -2,0 z"/>
- <path style="fill:#4ab225" d="m 10,9 2,0 0,1 -2,0 z"/>
- <path style="fill:#98e97b" d="m 10,7 2,0 0,1 -2,0 z"/>
- <path style="fill:#98e97b" d="m 10,5 2,0 0,1 -2,0 z"/>
- <path style="fill:#0f3b95" d="m 13,13 2,0 0,1 -2,0 z"/>
- <path style="fill:#0f3b95" d="m 13,11 2,0 0,1 -2,0 z"/>
- <path style="fill:#0f3b95" d="m 13,9 2,0 0,1 -2,0 z"/>
- <path style="fill:#4fc2e1" d="m 13,7 2,0 0,1 -2,0 z"/>
- <path style="fill:#4fc2e1" d="m 13,5 2,0 0,1 -2,0 z"/>
- <path style="fill:#4fc2e1" d="m 13,3.0666665 2,0 L 15,4 13,4 Z"/>
+ <rect style="fill:#3f3f3f" width="14" height="15" x="-15" y="-16" rx=".7" ry=".75" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#16be71" d="m 14,5 h -2 v 1 h 2 z"/>
+ <path style="fill:#05ac9c" d="m 14,7 h -2 v 1 h 2 z"/>
+ <path style="fill:#026ed2" d="m 14,9 h -2 v 1 h 2 z"/>
+ <path style="fill:#f6a500" d="M 5,11 H 3 v 1 h 2 z"/>
+ <path style="fill:#e74b32" d="M 8,11 H 6 v 1 h 2 z"/>
+ <path style="fill:#3446d9" d="m 14,11 h -2 v 1 h 2 z"/>
+ <path style="fill:#9e2bbb" d="M 11,10 H 9 V 9 h 2 z"/>
+ <path style="fill:#b72b68" d="M 11,12 H 9 v -1 h 2 z"/>
+ <path style="fill:#f57524" d="M 8,9 H 6 v 1 h 2 z"/>
+ <path style="fill:#fabc45" d="M 8,7 H 6 v 1 h 2 z"/>
 </svg>

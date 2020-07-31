@@ -1,59 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
  <rect style="opacity:0.2" width="20" height="21" x="-22.5" y="-23" rx="1" ry="1.05" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#4f4f4f" width="20" height="21" x="-22" y="-23" rx="1" ry="1.05" transform="matrix(0,-1,-1,0,0,0)"/>
- <g style="opacity:0.2" transform="translate(1,0.5)">
-  <path d="m 2,19 3,0 0,2 -3,0 z"/>
-  <path d="m 2,16 3,0 0,2 -3,0 z"/>
-  <path d="m 2,13 3,0 0,2 -3,0 z"/>
-  <path d="m 2,10 3,0 0,2 -3,0 z"/>
-  <path d="M 2,7 5,7 5,9 2,9 Z"/>
-  <path d="m 6,19 3,0 0,2 -3,0 z"/>
-  <path d="m 6,16 3,0 0,2 -3,0 z"/>
-  <path d="m 6,13 3,0 0,2 -3,0 z"/>
-  <path d="m 10,19 3,0 0,2 -3,0 z"/>
-  <path d="m 10,16 3,0 0,2 -3,0 z"/>
-  <path d="m 10,13 3,0 0,2 -3,0 z"/>
-  <path d="m 10,10 3,0 0,2 -3,0 z"/>
-  <path d="m 10,7 3,0 0,2 -3,0 z"/>
-  <path d="m 10,4 3,0 0,2 -3,0 z"/>
-  <path d="m 14,19 3,0 0,2 -3,0 z"/>
-  <path d="m 14,16 3,0 0,2 -3,0 z"/>
-  <path d="m 14,13 3,0 0,2 -3,0 z"/>
-  <path d="m 14,10 3,0 0,2 -3,0 z"/>
-  <path d="m 14,7 3,0 0,2 -3,0 z"/>
-  <path d="m 18,19 3,0 0,2 -3,0 z"/>
-  <path d="m 18,16 3,0 0,2 -3,0 z"/>
-  <path d="m 18,13 3,0 0,2 -3,0 z"/>
-  <path d="m 18,10 3,0 0,2 -3,0 z"/>
-  <path d="m 18,7 3,0 0,2 -3,0 z"/>
-  <path d="m 18,4 3,0 0,2 -3,0 z"/>
- </g>
- <g transform="translate(1,0)">
-  <path style="fill:#933333" d="m 2,19 3,0 0,2 -3,0 z"/>
-  <path style="fill:#933333" d="m 2,16 3,0 0,2 -3,0 z"/>
-  <path style="fill:#933333" d="m 2,13 3,0 0,2 -3,0 z"/>
-  <path style="fill:#f88383" d="m 2,10 3,0 0,2 -3,0 z"/>
-  <path style="fill:#f88383" d="M 2,7 5,7 5,9 2,9 Z"/>
-  <path style="fill:#e8aa34" d="m 6,19 3,0 0,2 -3,0 z"/>
-  <path style="fill:#e8aa34" d="m 6,16 3,0 0,2 -3,0 z"/>
-  <path style="fill:#e8aa34" d="m 6,13 3,0 0,2 -3,0 z"/>
-  <path style="fill:#76185e" d="m 10,19 3,0 0,2 -3,0 z"/>
-  <path style="fill:#76185e" d="m 10,16 3,0 0,2 -3,0 z"/>
-  <path style="fill:#76185e" d="m 10,13 3,0 0,2 -3,0 z"/>
-  <path style="fill:#e272c5" d="m 10,10 3,0 0,2 -3,0 z"/>
-  <path style="fill:#e272c5" d="m 10,7 3,0 0,2 -3,0 z"/>
-  <path style="fill:#e272c5" d="m 10,4 3,0 0,2 -3,0 z"/>
-  <path style="fill:#4ab225" d="m 14,19 3,0 0,2 -3,0 z"/>
-  <path style="fill:#4ab225" d="m 14,16 3,0 0,2 -3,0 z"/>
-  <path style="fill:#4ab225" d="m 14,13 3,0 0,2 -3,0 z"/>
-  <path style="fill:#98e97b" d="m 14,10 3,0 0,2 -3,0 z"/>
-  <path style="fill:#98e97b" d="m 14,7 3,0 0,2 -3,0 z"/>
-  <path style="fill:#0f3b95" d="m 18,19 3,0 0,2 -3,0 z"/>
-  <path style="fill:#0f3b95" d="m 18,16 3,0 0,2 -3,0 z"/>
-  <path style="fill:#0f3b95" d="m 18,13 3,0 0,2 -3,0 z"/>
-  <path style="fill:#4fc2e1" d="m 18,10 3,0 0,2 -3,0 z"/>
-  <path style="fill:#4fc2e1" d="m 18,7 3,0 0,2 -3,0 z"/>
-  <path style="fill:#4fc2e1" d="m 18,4 3,0 0,2 -3,0 z"/>
- </g>
- <path style="opacity:0.1;fill:#ffffff" d="M 3.0498047,2 C 2.4681047,2 2,2.446 2,3 l 0,0.5 c 0,-0.554 0.4681047,-1 1.0498047,-1 l 18.9003903,0 C 22.531895,2.5 23,2.946 23,3.5 L 23,3 C 23,2.446 22.531895,2 21.950195,2 L 3.0498047,2 Z"/>
+ <rect style="fill:#3f3f3f" width="20" height="21" x="-22" y="-23" rx="1" ry="1.05" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#16be71" d="m 20,6 h -3 v 2 h 3 z"/>
+ <path style="fill:#05ac9c" d="m 20,9 h -3 v 2 h 3 z"/>
+ <path style="fill:#026ed2" d="m 20,12 h -3 v 2 h 3 z"/>
+ <path style="fill:#f6a500" d="M 8,15 H 5 v 2 h 3 z"/>
+ <path style="fill:#e74b32" d="M 12,15 H 8.9999999 v 2 H 12 Z"/>
+ <path style="fill:#3446d9" d="m 20,15 h -3 v 2 h 3 z"/>
+ <path style="fill:#9e2bbb" d="m 16,14 h -3 v -2 h 3 z"/>
+ <path style="fill:#b72b68" d="m 16,17 h -3 v -2 h 3 z"/>
+ <path style="fill:#f57524" d="M 12,12 H 8.9999999 v 2 H 12 Z"/>
+ <path style="fill:#fabc45" d="M 12,9 H 8.9999999 v 2 H 12 Z"/>
+ <path style="opacity:0.2" d="M 17 8 L 17 8.5 L 20 8.5 L 20 8 L 17 8 z M 9 11 L 9 11.5 L 12 11.5 L 12 11 L 9 11 z M 17 11 L 17 11.5 L 20 11.5 L 20 11 L 17 11 z M 9 14 L 9 14.5 L 12 14.5 L 12 14 L 9 14 z M 13 14 L 13 14.5 L 16 14.5 L 16 14 L 13 14 z M 17 14 L 17 14.5 L 20 14.5 L 20 14 L 17 14 z M 5 17 L 5 17.5 L 8 17.5 L 8 17 L 5 17 z M 9 17 L 9 17.5 L 12 17.5 L 12 17 L 9 17 z M 13 17 L 13 17.5 L 16 17.5 L 16 17 L 13 17 z M 17 17 L 17 17.5 L 20 17.5 L 20 17 L 17 17 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3.0507812 2 C 2.4690813 2 2 2.446 2 3 L 2 3.5 C 2 2.946 2.4690813 2.5 3.0507812 2.5 L 21.949219 2.5 C 22.530919 2.5 23 2.946 23 3.5 L 23 3 C 23 2.446 22.530919 2 21.949219 2 L 3.0507812 2 z"/>
 </svg>
