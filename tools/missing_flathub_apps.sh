@@ -41,6 +41,7 @@ IGNORED_APPS=(
 	org.homelinuxserver.vance.biblereader
 	org.libreoffice.LibreOffice
 	org.vranki.spectral
+	org.kde.okteta
 )
 
 flathub_apps_list="$(mktemp -u)"
