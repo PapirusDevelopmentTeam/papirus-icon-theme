@@ -52,6 +52,7 @@ COLORS=(
 	[blue]="      #5294e2 #4877b1 #1d344f #e4e4e4"
 	[black]="     #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
 	[bluegrey]="  #607d8b #4d646f #222c31 #e4e4e4"
+	[breeze]="    #57b8ec #147eb8 #106796 #e4e4e4"
 	[brown]="     #ae8e6c #957552 #3d3226 #e4e4e4"
 	[cyan]="      #00bcd4 #0096aa #00424a #e4e4e4"
 	[deeporange]="#eb6637 #e95420 #522413 #e4e4e4"
