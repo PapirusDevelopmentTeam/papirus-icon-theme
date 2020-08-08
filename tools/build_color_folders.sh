@@ -48,7 +48,6 @@ COLORS=(
 	#
 	# | name     | [0]   | [1]   | [2]   | [3]   |
 	# |----------|-------|-------|-------|-------|
-	[adwaita]="   #d1bfae #bea389 #a38d7b #e4e4e4"
 	[blue]="      #5294e2 #4877b1 #1d344f #e4e4e4"
 	[black]="     #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
 	[bluegrey]="  #607d8b #4d646f #222c31 #e4e4e4"
@@ -61,6 +60,7 @@ COLORS=(
 	[indigo]="    #5c6bc0 #3f51b5 #202543 #e4e4e4"
 	[magenta]="   #ca71df #b259b8 #47274e #e4e4e4"
 	[orange]="    #ee923a #dd772f #533314 #e4e4e4"
+	[palebrown]=" #d1bfae #bea389 #a38d7b #e4e4e4"
 	[pink]="      #f06292 #ec407a #542233 #e4e4e4"
 	[red]="       #e25252 #bf4b4b #4f1d1d #e4e4e4"
 	[teal]="      #16a085 #12806a #08382e #e4e4e4"
