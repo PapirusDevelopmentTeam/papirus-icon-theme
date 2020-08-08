@@ -48,6 +48,7 @@ COLORS=(
 	#
 	# | name     | [0]   | [1]   | [2]   | [3]   |
 	# |----------|-------|-------|-------|-------|
+	[adwaita]="   #d1bfae #bea389 #a38d7b #e4e4e4"
 	[blue]="      #5294e2 #4877b1 #1d344f #e4e4e4"
 	[black]="     #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
 	[bluegrey]="  #607d8b #4d646f #222c31 #e4e4e4"
