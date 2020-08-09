@@ -61,6 +61,7 @@ COLORS=(
 	[magenta]="   #ca71df #b259b8 #47274e #e4e4e4"
 	[orange]="    #ee923a #dd772f #533314 #e4e4e4"
 	[palebrown]=" #d1bfae #bea389 #a38d7b #e4e4e4"
+	[pastel]="    #f7cb86 #ce9e65 #9a7350 #e4e4e4"
 	[pink]="      #f06292 #ec407a #542233 #e4e4e4"
 	[red]="       #e25252 #bf4b4b #4f1d1d #e4e4e4"
 	[teal]="      #16a085 #12806a #08382e #e4e4e4"
