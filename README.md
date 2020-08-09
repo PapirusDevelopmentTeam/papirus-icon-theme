@@ -185,7 +185,7 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](https://i.imgur.com/Xx9JB8e.png)
+![Folder Color Preview](https://i.imgur.com/Z8d3aMO.png)
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
