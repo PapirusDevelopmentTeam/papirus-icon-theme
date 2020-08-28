@@ -34,6 +34,7 @@ IGNORED_APPS=(
 	net.sourceforge.fspclient
 	dev.paullee.scraterpreter.Scrapec
 	dev.paullee.scraterpreter.Scrape
+	io.github.erkin.ponysay
 	# apps with icons that do not match with App ID:
 	com.github.utsushi.Utsushi
 	com.wps.Office
