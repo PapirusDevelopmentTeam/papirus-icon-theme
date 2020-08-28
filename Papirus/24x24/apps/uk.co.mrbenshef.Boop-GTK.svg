@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="2" ry="2"/>
+ <rect style="fill:#3f3f3f" width="20" height="20" x="2" y="2" rx="2" ry="2"/>
+ <rect style="opacity:0.2" width="14" height="14" x="5" y="5.5" rx="1.4" ry="1.4"/>
+ <rect style="fill:#5c5c5c" width="14" height="14" x="5" y="5" rx="1.4" ry="1.4"/>
+ <path style="opacity:0.2" d="M 14,16.776289 16.065979,15.928866 14,14.970104 v -0.723712 l 3,1.496907 v 0.43299 L 14,17.5 Z"/>
+ <path style="fill:#ffffff" d="M 14,16.276289 16.065979,15.428866 14,14.470104 v -0.723712 l 3,1.496907 v 0.43299 L 14,17 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 4,2 C 2.892,2 2,2.892 2,4 v 0.5 c 0,-1.108 0.892,-2 2,-2 h 16 c 1.108,0 2,0.892 2,2 V 4 C 22,2.892 21.108,2 20,2 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.4003906 5 C 5.6247906 5 5 5.6247906 5 6.4003906 L 5 6.9003906 C 5 6.1247906 5.6247906 5.5 6.4003906 5.5 L 17.599609 5.5 C 18.375209 5.5 19 6.1247906 19 6.9003906 L 19 6.4003906 C 19 5.6247906 18.375209 5 17.599609 5 L 6.4003906 5 z"/>
+</svg>
