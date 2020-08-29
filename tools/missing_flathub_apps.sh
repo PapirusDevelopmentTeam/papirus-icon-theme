@@ -43,6 +43,7 @@ IGNORED_APPS=(
 	org.libreoffice.LibreOffice
 	org.vranki.spectral
 	org.kde.okteta
+	org.freeorion.FreeOrion
 )
 
 flathub_apps_list="$(mktemp -u)"
