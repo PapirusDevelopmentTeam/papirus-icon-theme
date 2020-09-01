@@ -35,6 +35,10 @@ IGNORED_APPS=(
 	dev.paullee.scraterpreter.Scrapec
 	dev.paullee.scraterpreter.Scrape
 	io.github.erkin.ponysay
+	org.freedesktop.Platform.ClInfo
+	org.freedesktop.Platform.GlxInfo
+	org.freedesktop.Platform.VaInfo
+	org.freedesktop.Platform.VulkanInfo
 	# apps with icons that do not match with App ID:
 	com.github.utsushi.Utsushi
 	com.wps.Office
