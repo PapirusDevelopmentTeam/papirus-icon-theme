@@ -314,7 +314,7 @@ Go to `Edit` → `Preferences`. Click on `Display` section. On `Icons` category 
 - Use tray? Tray icon name. Hardcoded?
 - Small description and/or a link to the official webpage
 
-**NOTE**: We do NOT support Windows/Wine/Crossover or other NOT native Linux-apps. This also applies to discontinued projects!!
+**NOTE**: We do NOT support Windows/Wine/Proton/Crossover or other NOT native Linux-apps & games. This also applies to discontinued projects!!
 
 ## Contributing
 
