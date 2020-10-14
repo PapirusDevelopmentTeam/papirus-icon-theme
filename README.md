@@ -29,6 +29,7 @@ Papirus icon theme is available in four variants:
  - [Hardcoded icons](#hardcoded-icons)
     - [Hardcoded application icons](#hardcoded-application-icons)
     - [Hardcoded tray icons](#hardcoded-tray-icons)
+    - [Steam runtime icons](#steam-runtime-icons)
  - [KDE colorscheme](#kde-colorscheme)
  - [Folder's color](#folders-color)
  - [Extras](#extras)
@@ -60,7 +61,7 @@ or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ub
 Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
 
 ```
-sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu bionic main' > /etc/apt/sources.list.d/papirus-ppa.list"
+sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu focal main' > /etc/apt/sources.list.d/papirus-ppa.list"
 
 sudo apt-get install dirmngr
 sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
@@ -119,6 +120,7 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
 | Fedora        | Dirk Davidis         | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
+| Gentoo        | Mikle Kolyada        | `sudo emerge -a papirus-icon-theme` |
 | NetBSD        | Nia Alarie           | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
 | NixOS         | Nixpkgs Contributors | `nix-env -iA nixos.papirus-icon-theme` |
 | openSUSE      | Konstantin Voinov    | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
@@ -156,11 +158,15 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 - XFCE 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - Pantheon 24px
 - Cinnamon 16px
+- LXQt 16px
 
 
 ![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
 
 **NOTE**: Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
+
+### Steam runtime icons
+To fix icons of running Steam games, you can use [Steam Icons Fixer](https://github.com/BlueManCZ/SIF) script, that will connect all icons available from our icon theme with your installed games.
 
 ## KDE colorscheme
 
@@ -179,7 +185,7 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](https://i.imgur.com/jP3mRci.png)
+![Folder Color Preview](https://i.imgur.com/Z8d3aMO.png)
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
@@ -197,20 +203,29 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 ## Recommendations
 
 - Recommended use Papirus icons alongside one of the following GTK themes:
-  - [Adapta theme](https://github.com/adapta-project/adapta-gtk-theme)
-  - [Arc theme](https://github.com/NicoHood/arc-theme)
+  - [Arc theme](https://github.com/jnsh/arc-theme)
   - [Materia theme](https://github.com/nana-4/materia-theme)
 - For KDE, our recommendation is:
-  - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
   - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
   - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde)
 
 ## Manual fixes
 
 <details>
+<summary>Telegram tray icon</summary>
+
+For themable tray icon you can use [environment variables](https://github.com/telegramdesktop/tdesktop/wiki/Environment-variables).
+```
+echo "export TDESKTOP_FORCE_PANEL_ICON=1" >> ~/.profile
+echo "export TDESKTOP_DISABLE_TRAY_COUNTER=1" >> ~/.profile
+```
+Restart system.
+</details>
+
+<details>
 <summary>For Cinnamon users</summary>
 
-For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/NicoHood/arc-theme) we recommend fix color icons on panel:
+For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/jnsh/arc-theme) we recommend fix color icons on panel:
 
 ```
 sudo sed -i.orig 's/white/#d3dae3/g' /usr/share/themes/Arc-Dark/cinnamon/cinnamon.css
@@ -226,7 +241,7 @@ To deal with blurred panel icons, increase the panel size up to 30px in `Systems
 
 For GNOME users we recommend install the following extensions:
 
-- [(K)StatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) **¹** — This extension integrates AppIndicators. The patched version of [sni-qt](https://github.com/bilelmoussaoui/sni-qt) for [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) doesn't work without it.
+- [(K)StatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) **¹** — This extension integrates AppIndicators.
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) **¹**
 - [No Symbolic Icons](https://extensions.gnome.org/extension/1304/no-symbolic-icons/)
 - [Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
@@ -264,6 +279,31 @@ With light wallpaper, we recommend disable `use-transparency` option on wingpane
 gsettings set org.pantheon.desktop.wingpanel use-transparency false
 ```
 
+For better representation we recommend use only light eGTK Theme:
+
+```
+echo "export GTK_THEME=elementary" >> ~/.profile
+```
+Restart System.
+</details>
+
+<details>
+<summary>For LXQt users</summary>
+
+Here are a few recommendations for LXQt users.
+
+#### PCManFM-Qt File Manager
+
+Go to `Edit` → `Preferences`. Click on `Display` section. On `Icons` category change size to `16x16` for `Size of side pane icons`.
+
+![pcmanfmqt](https://i.imgur.com/2x3U6xD.png)
+
+#### Monochrome Panel Plugins
+
+`Configure Panel` and set `16px` for `Icon size`.
+
+![lxqt-panel](https://i.imgur.com/iwuhBiG.png)
+
 </details>
 
 ## Icon request
@@ -271,9 +311,10 @@ gsettings set org.pantheon.desktop.wingpanel use-transparency false
 - Application name
 - Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
 - Original icon image
+- Use tray? Tray icon name. Hardcoded?
 - Small description and/or a link to the official webpage
 
-**NOTE**: We do NOT support Windows/Wine/Crossover or other NOT native Linux-apps. This also applies to discontinued projects!!
+**NOTE**: We do NOT support Windows/Wine/Proton/Crossover or other NOT native Linux-apps & games. This also applies to discontinued projects!!
 
 ## Contributing
 

@@ -1,0 +1,30 @@
+name: Tests
+
+on:
+  pull_request:
+    paths-ignore:
+      - '**.md'
+      - '**.sed'
+      - '**.sh'
+      - '**.yml'
+
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '**.md'
+      - '**.sed'
+      - '**.sh'
+      - '**.yml'
+
+jobs:
+  test-all:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Install xmlstarlet
+      run: sudo apt-get install xmlstarlet
+    - name: Run tests
+      run: make -k test-all
