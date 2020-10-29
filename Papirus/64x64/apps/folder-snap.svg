@@ -1,10 +1,93 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m36.659878 14.111189 21.014871-0.17416 6.325248 13.022441z" style="fill-opacity:.2;opacity:.3"/>
- <path d="m1.9938238 0.9262872 33.37984 13.17718c-0.0136 7.888535-0.16066 15.774813-0.294098 23.661613-11.11053-12.18986-22.077161-24.537457-33.085742-36.838793z" style="fill-opacity:.2;fill-rule:evenodd;opacity:.3"/>
- <path d="m36.178572 14.401789c4.650914 2.135218 9.224812 4.495924 13.824779 6.766453-4.470729 5.395476-9.291423 10.428396-13.988211 15.584628-0.06568-7.45171 0.05362-14.900878 0.16344-22.351081z" style="fill-opacity:.2;fill-rule:evenodd;opacity:.3"/>
- <path d="M 27.465572,30.488626 34.668984,38.25161 11.402973,64 Z" style="fill-opacity:.2;fill-rule:evenodd;opacity:.3"/>
- <path d="m34.666054 13.184903 21.014873-0.17416 6.325246 13.022441z" style="fill:#fa6441"/>
- <path d="M 0,0 33.37984,13.177179 C 33.36624,21.065714 33.21918,28.951996 33.085746,36.838792 21.975212,24.648932 11.008581,12.301335 0,0 Z" style="fill-rule:evenodd;fill:#82bea0"/>
- <path d="m34.184748 13.475503c4.650918 2.135218 9.224814 4.495922 13.824782 6.766453-4.470732 5.395472-9.291426 10.428394-13.988212 15.584628-0.06568-7.45171 0.05362-14.90088 0.16342-22.351081z" style="fill-rule:evenodd;fill:#82bea0"/>
- <path d="m25.471748 29.562338 7.203412 7.762986-23.266011 25.74839z" style="fill-rule:evenodd;fill:#82bea0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="folder-snap.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1841"
+     inkscape:window-height="1026"
+     id="namedview20"
+     showgrid="true"
+     inkscape:zoom="13.421875"
+     inkscape:cx="32.074505"
+     inkscape:cy="19.923329"
+     inkscape:window-x="79"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
+  <path
+     d="m 36,14.587302 h 21 l 6,11.13492 z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.977015"
+     id="path10-3"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 2,2 33,13.555556 c -0.01344,7.878868 0.131915,15.360963 0,23.238095 C 24.015896,26.618728 12.883311,14.286262 2,2 Z"
+     style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.993682"
+     id="path12-6"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 36,15.555556 50,21.365079 36,36.857143 Z"
+     style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.983999"
+     id="path14-7"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 27,32.015873 34,38.588264 11,63 Z"
+     style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.96342"
+     id="path16-5"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 34,13 h 21 l 6,11.5 z"
+     style="fill:#fa6441;stroke-width:0.992903"
+     id="path10"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 0,0 33,14 c -0.01344,8.137192 0.131915,15.864602 0,24 C 22.015896,25.425899 10.883311,12.68909 0,0 Z"
+     style="fill:#82bea0;fill-rule:evenodd;stroke-width:1.00984"
+     id="path12"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 34,14 48,20 34,36 Z"
+     style="fill:#82bea0;fill-rule:evenodd"
+     id="path14"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 25,31 32,37.787879 9,63 Z"
+     style="fill:#82bea0;fill-rule:evenodd;stroke-width:0.979086"
+     id="path16"
+     sodipodi:nodetypes="cccc" />
 </svg>

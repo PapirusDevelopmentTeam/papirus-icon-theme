@@ -1,10 +1,93 @@
-<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m27.494908 10.583392 15.761155-0.130618 4.743936 9.76683z" style="fill-opacity:.2;opacity:.3"/>
- <path d="m1.4953678 0.6947154 25.034879 9.8828846c-0.0102 5.916401-0.120495 11.83111-0.220573 17.74621-8.332896-9.142395-16.55787-18.403093-24.814306-27.629095z" style="fill-opacity:.2;fill-rule:evenodd;opacity:.3"/>
- <path d="m27.133928 10.801342c3.488186 1.601414 6.91861 3.371942 10.368586 5.07484-3.353048 4.046607-6.968568 7.821296-10.49116 11.68847-0.04926-5.588782 0.04021-11.175658 0.12258-16.76331z" style="fill-opacity:.2;fill-rule:evenodd;opacity:.3"/>
- <path d="M 20.59918,22.866469 26.001737,28.688707 8.5522297,48 Z" style="fill-opacity:.2;fill-rule:evenodd;opacity:.3"/>
- <path d="m25.99954 9.8886768 15.761156-0.1306185 4.743935 9.7668307z" style="fill:#fa6441"/>
- <path d="M 0,0 25.034879,9.8828843 C 25.024679,15.799286 24.914384,21.713997 24.814309,27.629094 16.48141,18.486699 8.2564361,9.2260013 0,0 Z" style="fill-rule:evenodd;fill:#82bea0"/>
- <path d="m25.63856 10.106627c3.488189 1.601413 6.918611 3.371942 10.368587 5.07484-3.353049 4.046604-6.968569 7.821296-10.491159 11.688471-0.04926-5.588782 0.04021-11.17566 0.122565-16.763311z" style="fill-rule:evenodd;fill:#82bea0"/>
- <path d="m19.103812 22.171753 5.402557 5.82224-17.449507 19.311293z" style="fill-rule:evenodd;fill:#82bea0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="folder-snap.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1841"
+     inkscape:window-height="1026"
+     id="namedview20"
+     showgrid="true"
+     inkscape:zoom="17.895833"
+     inkscape:cx="20.566435"
+     inkscape:cy="24.939823"
+     inkscape:window-x="79"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
+  <path
+     d="m 1,1 25,10 c -0.0102,5.916402 0.100075,12.084903 0,18 C 17.667101,19.857605 9.2564361,10.226001 1,1 Z"
+     style="fill:#000000;fill-rule:evenodd;opacity:0.2"
+     id="path12-3"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 37,15 27,28 V 11 c 3.774428,1.324544 6.383234,2.229797 10,4 z"
+     style="fill:#000000;fill-rule:evenodd;opacity:0.2"
+     id="path14-6"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 20,24 25,30 8,48 Z"
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.979796;opacity:0.2"
+     id="path16-7"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 27,11 h 16 l 3,8 z"
+     style="fill:#000000;opacity:0.2"
+     id="path10-5"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 0,0 25,10 c -0.0102,5.916402 0.100075,12.084903 0,18 C 16.667101,18.857605 8.2564361,9.2260013 0,0 Z"
+     style="fill:#82bea0;fill-rule:evenodd"
+     id="path12"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 36,14 26,27 V 10 c 3.774428,1.324544 6.383234,2.229797 10,4 z"
+     style="fill:#82bea0;fill-rule:evenodd"
+     id="path14"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 19,23 24,29 7,47 Z"
+     style="fill:#82bea0;fill-rule:evenodd;stroke-width:0.979796"
+     id="path16"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 26,10 h 16 l 3,8 z"
+     style="fill:#fa6441"
+     id="path10"
+     sodipodi:nodetypes="cccc" />
 </svg>
