@@ -11,6 +11,8 @@ IFS=$'\n\t'
 SCRIPT_DIR="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 GIT_ROOT="$SCRIPT_DIR/.."
 
+XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}"
+
 IGNORED_APPS=(
 	# apps without icons:
 	io.atom.electron.BaseApp
