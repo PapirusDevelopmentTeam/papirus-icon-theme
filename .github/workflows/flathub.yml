@@ -10,15 +10,12 @@ on:
 jobs:
   flathub_list_updater:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
     - uses: actions/checkout@v2
     - name: Install Flatpak and dependencies
-      run: |
-        sudo add-apt-repository ppa:alexlarsson/flatpak
-        sudo apt-get update
-        sudo apt-get install curl jq git-core flatpak
+      run: sudo apt-get install curl jq git flatpak
     - name: Add Flathub repo
       run: flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
     - name: Run Flathub list updater

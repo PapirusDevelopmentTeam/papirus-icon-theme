@@ -59,7 +59,7 @@ _cleanup() {
 
 trap _cleanup EXIT HUP INT TERM
 
-env XDG_DATA_DIRS="$HOME/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share" \
+env XDG_DATA_DIRS="$HOME/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:$XDG_DATA_DIRS" \
 	flatpak remote-ls --app --columns app flathub | sort -u > "$flathub_apps_list"
 git -C "$GIT_ROOT" ls-tree master:Papirus/64x64/apps --name-only |
 	sed 's/\.svg$//' | sort > "$papirus_icons_list"
