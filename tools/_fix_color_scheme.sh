@@ -23,29 +23,32 @@
 
 set -e
 
-# Papirus, Papirus-Dark and Papirus-Light
+# Papirus, Papirus-Dark, Papirus-Light, and ePapirus
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf|#6e6e6e|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
-		"$@"
-}
-
-# ePapirus
-add_class_e() {
-	# add the class if a value matches:
-	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):(#6e6e6e|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
-		-e '/([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#4caf50/I s/(style="[^"]+")/\1 class="ColorScheme-PositiveText"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#ff9800/I s/(style="[^"]+")/\1 class="ColorScheme-NeutralText"/' \
+		-e '/([^-]color|fill|stop-color|stroke):#f44336/I s/(style="[^"]+")/\1 class="ColorScheme-NegativeText"/' \
 		"$@"
 }
 
 # Symbolic
 add_class_symbolic() {
-	# add the class if a value matches and class="warning" not exists:
+	# add classes if a color matches and a class is missing:
 	sed -i -r \
-		-e '/class="warning"/! { /([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="warning"/ }' \
+		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#4caf50/I s/(style="[^"]+")/\1 class="success"/ }' \
+		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#ff9800/I s/(style="[^"]+")/\1 class="warning"/ }' \
+		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#f44336/I s/(style="[^"]+")/\1 class="error"/ }' \
+		"$@"
+}
+
+remove_class_without_current_color() {
+	# remove class="ColorScheme-*" that not used to avoid duplicates
+	sed -i -r \
+		-e '/class="ColorScheme-/ { /:currentColor/! s/[ ]class="ColorScheme-[^"]+"// }' \
 		"$@"
 }
 
@@ -68,22 +71,19 @@ for file in "$@"; do
 	if grep -q -i '\.ColorScheme-Text' "$file"; then
 		# the file has a color scheme
 
-		replace_hex_to_current_color "$file"
+		remove_class_without_current_color "$file"
 
-		if grep -q -i 'color:\(#6e6e6e\|#ffffff\)' "$file"; then
-			# it's ePapirus
-			add_class_e "$file"
-		elif  grep -q -i 'color:\(#444444\|#dfdfdf\)' "$file"; then
-			# it's Papirus, Papirus-Dark or Papirus-Light
+		if grep -q -i 'color:\(#444444\|#dfdfdf\|#6e6e6e\|#ffffff\)' "$file"; then
+			# it's Papirus, Papirus-Dark, Papirus-Light or ePapirus
 			add_class "$file"
 		else
-			echo "'$file' has an unknown CSS stylesheet!" >&2
+			echo "'$file' has unknown colors!" >&2
 		fi
 
 		replace_hex_to_current_color "$file"
 	else
 		case "$file" in
-			*-symbolic.svg|*-symbolic-rtl.svg|*-symbolic@symbolic.svg)
+			*-symbolic.svg|*-symbolic-rtl.svg|*-symbolic@symbolic.svg|*-symbolic-rtl@symbolic.svg)
 				# it's symbolic icon
 				add_class_symbolic "$file"
 				;;
