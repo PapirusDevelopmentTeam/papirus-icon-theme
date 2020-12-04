@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 11,3 C 6.5817,3 3,6.5817 3,11 3,13.607 4.2532,15.916 6.1836,17.377 6.219,17.357 6.2562,17.341 6.291,17.32 6.864,16.981 7.4135,16.582 7.9434,16.156 6.1832,15.11 5,13.196 5,11 5,7.6862 7.6863,5 11,5 11.726,5 12.418,5.1349 13.063,5.3711 13.065,4.8268 13.04,4.2831 12.945,3.748 12.999,3.5617 13.02,3.4675 13.061,3.2812 V 3.2773 C 12.402,3.1019 11.714,3 11,3 Z M 13.178,3.3066 C 13.336,4.0296 13.391,4.7626 13.391,5.498 15.514,6.422 17,8.5364 17,11 17,14.313 14.314,17 11,17 10.032,17 9.1204,16.765 8.3105,16.357 8.3018,16.365 8.2939,16.374 8.2852,16.381 7.7062,16.852 7.0814,17.238 6.4199,17.553 7.718,18.462 9.2949,19 11,19 15.418,19 19,15.418 19,11 19,7.3376 16.536,4.2559 13.178,3.3066 Z"/>
