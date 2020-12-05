@@ -1,13 +1,9 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
-  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
- </defs>
- <rect x="4" y="22" width="56" height="36" rx="2.8" ry="2.8" style="opacity:.2"/>
- <path d="m6.8 7c-1.55 0-2.8 1.25-2.8 2.8v36.4c0 1.55 1.25 2.8 2.8 2.8h50.4c1.55 0 2.8-1.25 2.8-2.8v-30.4c0-1.55-1.25-2.8-2.8-2.8h-27.2v-3.2c0-1.555-1.25-2.8-2.8-2.8z" style="fill:#b259b8"/>
- <rect x="4" y="20" width="56" height="36" rx="2.8" ry="2.8" style="opacity:.2"/>
- <rect x="8" y="16" width="48" height="22" rx="2.8" ry="2.8" style="fill:#e4e4e4"/>
- <rect x="4" y="21" width="56" height="36" rx="2.8" ry="2.8" style="fill:#ca71df"/>
- <path d="m6.8 7c-1.55 0-2.8 1.25-2.8 2.8v1c0-1.55 1.25-2.8 2.8-2.8h20.4c1.55 0 2.8 1.2458 2.8 2.8v-1c0-1.5542-1.25-2.8-2.8-2.8zm23.2 6v1h27.2c1.545 0 2.8 1.25 2.8 2.8v-1c0-1.55-1.25-2.8-2.8-2.8z" style="fill:currentColor;opacity:.1" class="ColorScheme-Text"/>
- <path d="m22 29 10 12v-8zm11 4 9 5-2-5zm0 1v7l5-4zm-5 4-3.5 11 7.5-6.5z" style="fill:#47274e"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:.2" width="56" height="36" x="4" y="22" rx="2.8" ry="2.8"/>
+ <path style="fill:#b259b8" d="m6.8 7c-1.55 0-2.8 1.25-2.8 2.8v36.4c0 1.55 1.25 2.8 2.8 2.8h50.4c1.55 0 2.8-1.25 2.8-2.8v-30.4c0-1.55-1.25-2.8-2.8-2.8h-27.2v-3.2c0-1.555-1.25-2.8-2.8-2.8z"/>
+ <rect style="opacity:.2" width="56" height="36" x="4" y="20" rx="2.8" ry="2.8"/>
+ <rect style="fill:#e4e4e4" width="48" height="22" x="8" y="16" rx="2.8" ry="2.8"/>
+ <rect style="fill:#ca71df" width="56" height="36" x="4" y="21" rx="2.8" ry="2.8"/>
+ <path style="fill:#ffffff;opacity:.1" d="m6.8 7c-1.55 0-2.8 1.25-2.8 2.8v1c0-1.55 1.25-2.8 2.8-2.8h20.4c1.55 0 2.8 1.2458 2.8 2.8v-1c0-1.5542-1.25-2.8-2.8-2.8zm23.2 6v1h27.2c1.545 0 2.8 1.25 2.8 2.8v-1c0-1.55-1.25-2.8-2.8-2.8z"/>
+ <path style="fill:#47274e" d="m22 29 10 12v-8zm11 4 9 5-2-5zm0 1v7l5-4zm-5 4-3.5 11 7.5-6.5z"/>
 </svg>
