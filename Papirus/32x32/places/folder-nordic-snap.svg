@@ -1,0 +1,13 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <rect x="2" y="11" width="28" height="18" rx="1.4" ry="1.4" style="opacity:.2"/>
+ <path d="m3.4 3c-0.775 0-1.4 0.625-1.4 1.4v18.2c0 0.775 0.625 1.4 1.4 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-15.2c0-0.775-0.625-1.4-1.4-1.4h-13.6v-1.6c0-0.775-0.625-1.4-1.4-1.4z" style="fill:#6c9b9a"/>
+ <rect x="2" y="9" width="28" height="18" rx="1.4" ry="1.4" style="opacity:.2"/>
+ <rect x="4" y="8" width="24" height="11" rx="1.4" ry="1.4" style="fill:#e4e4e4"/>
+ <rect x="2" y="10" width="28" height="18" rx="1.4" ry="1.4" style="fill:#82abaa"/>
+ <path d="m3.4 3c-0.775 0-1.4 0.625-1.4 1.4v1c0-0.775 0.625-1.4 1.4-1.4h10.2c0.775 0 1.4 0.625 1.4 1.4v-1c0-0.775-0.625-1.4-1.4-1.4zm11.6 3v1h13.6c0.775 0 1.4 0.625 1.4 1.4v-1c0-0.775-0.625-1.4-1.4-1.4z" style="fill:currentColor;opacity:.1" class="ColorScheme-Text"/>
+ <path d="m11 14 5 6v-4.125zm6 2 4 2-1-2zm0 1v3l2-2zm-3 2-1.75 5 3.75-3z" style="fill:#4e6766"/>
+</svg>
