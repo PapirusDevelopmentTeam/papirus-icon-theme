@@ -4,5 +4,7 @@
    .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 12,5 c -3.3137,0 -6,2.6863 -6,6 0,2.087 1.0708,3.9251 2.6875,5 L 8,16 c -2,0 -2,2 -2,2 l 0,1 12,0 0,-1 c 0,0 0,-2 -2,-2 l -0.6875,0 c 1.617,-1.075 2.688,-2.913 2.688,-5 0,-3.3137 -2.686,-6 -6,-6 z m 0,4.0039 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"/>
+ <g transform="matrix(1,0,0,1,4,4)">
+  <path class="ColorScheme-PositiveText" d="M 8,1 4,5 H 1 V 11 H 4 L 8,15 Z M 10,1 V 2.5 C 12.32,3.24 14,5.43 14,8 14,10.57 12.32,12.76 10,13.5 V 15 C 13.15,14.22 15.5,11.4 15.5,8 15.5,4.6 13.15,1.78 10,1 Z M 10,5 V 11 C 11.06,10.42 11.789,9.3 11.789,8 11.789,6.7 11.07,5.58 10,5 Z" style="fill:currentColor"/>
+ </g>
 </svg>
