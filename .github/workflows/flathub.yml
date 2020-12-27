@@ -5,7 +5,7 @@ env:
 
 on:
   schedule:
-  - cron: "30 */6 * * *"
+  - cron: "0 */24 * * *"
 
 jobs:
   flathub_list_updater:
@@ -15,7 +15,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install Flatpak and dependencies
-      run: sudo apt-get install curl jq git flatpak
+      run: |
+        sudo apt-get update
+        sudo apt-get install --no-install-recommends curl jq git flatpak
     - name: Add Flathub repo
       run: flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
     - name: Run Flathub list updater
