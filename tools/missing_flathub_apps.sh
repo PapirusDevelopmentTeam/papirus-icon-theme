@@ -50,6 +50,7 @@ IGNORED_APPS=(
 	org.vranki.spectral
 	org.kde.okteta
 	org.freeorion.FreeOrion
+	cat.xtec.clic.JClic
 )
 
 flathub_apps_list="$(mktemp -u)"
