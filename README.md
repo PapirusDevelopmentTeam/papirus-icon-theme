@@ -212,17 +212,6 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 ## Manual fixes
 
 <details>
-<summary>Telegram tray icon</summary>
-
-For themable tray icon you can use [environment variables](https://github.com/telegramdesktop/tdesktop/wiki/Environment-variables).
-```
-echo "export TDESKTOP_FORCE_PANEL_ICON=1" >> ~/.profile
-echo "export TDESKTOP_DISABLE_TRAY_COUNTER=1" >> ~/.profile
-```
-Restart system.
-</details>
-
-<details>
 <summary>For Cinnamon users</summary>
 
 For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/jnsh/arc-theme) we recommend fix color icons on panel:
