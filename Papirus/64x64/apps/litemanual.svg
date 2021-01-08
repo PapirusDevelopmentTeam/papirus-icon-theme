@@ -1,14 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="4" y="5" width="56" height="56" rx="2.8" ry="2.8" style="opacity:.2"/>
- <rect x="4" y="4" width="56" height="56" rx="2.8" ry="2.8" style="fill:#636e72"/>
- <path d="m22 14-10 7v32l10-7 10 7 10-7 10 7v-32l-10-7-10 5z" style="opacity:.2"/>
- <path d="m22 13-10 7v32l10-7 10 7 10-7 10 7v-32l-10-7-10 5-10-5z" style="fill:#e4e4e4"/>
- <path d="m32 52 10-7 10 7v-32l-10-7-10 5z" style="opacity:.1"/>
- <path d="M 6.8007812,4 C 5.2495812,4 4,5.2495812 4,6.8007812 v 1 C 4,6.2495812 5.2495812,5 6.8007812,5 H 57.199219 C 58.750419,5 60,6.2495813 60,7.8007812 v -1 C 60,5.2495813 58.750419,4 57.199219,4 Z" style="fill:#ffffff;opacity:.1"/>
- <path d="m32 22-7 7h7v7l7-7-7-7zm0 14-6 6 6 6 6-6-6-6z" style="opacity:.1"/>
- <path d="m32 47 6-6-6-6-1 6z" style="fill:#42a937"/>
- <path d="m32 35v-7h-7l7-7 1.4 5.6 5.6 1.4z" style="fill:#42a937"/>
- <path d="m32 21v7h7z" style="fill:#2e842b"/>
- <path d="m32 35v12l-6-6z" style="fill:#2e842b"/>
- <path d="m22 13-10 7v1l10-7 10 5 10-5 10 7v-1l-10-7-10 5-10-5z" style="fill:#ffffff;opacity:.2"/>
-</svg>
+system-help.svg
