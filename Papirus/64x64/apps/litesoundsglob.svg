@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="5" width="56" height="56" rx="2.8" ry="2.8" style="opacity:.2"/>
+ <rect x="4" y="4" width="56" height="56" rx="2.8" ry="2.8" style="fill:#636e72"/>
+ <path d="M 6.8007812 4 C 5.2495812 4 4 5.2495812 4 6.8007812 L 4 7.8007812 C 4 6.2495812 5.2495812 5 6.8007812 5 L 57.199219 5 C 58.750419 5 60 6.2495813 60 7.8007812 L 60 6.8007812 C 60 5.2495813 58.750419 4 57.199219 4 L 6.8007812 4 z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m28 13-11 12h-9v16h9l11 12h12v-40h-12zm18 0 7 12v16l-7 12 10-10v-20l-10-10zm-4 6 4 10v8l-4 10 7-8v-12l-7-8z" style="opacity:.2"/>
+ <path d="m25 32 3-20h12v40h-12z" style="fill:#be913e"/>
+ <path d="m28 52v-40l-11 12h-9v16h9z" style="fill:#fec006"/>
+ <rect x="28" y="26" width="5" height="14" style="opacity:.2"/>
+ <rect x="28" y="25" width="5" height="14" style="fill:#ffffff"/>
+ <path d="m42 46 4-10v-8l-4-10 7 8v12z" style="fill:#cccccc"/>
+ <path d="m46 52 7-12v-16l-7-12 10 10v20z" style="fill:#cccccc"/>
+ <path d="m28 12-11 12h-9v1h9l11-12v-1z" style="fill:#ffffff;opacity:.2"/>
+</svg>

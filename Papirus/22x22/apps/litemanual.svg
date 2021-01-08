@@ -1,0 +1,16 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1,-1)">
+  <rect x="2" y="2" width="20" height="20" rx="1" ry="1" style="fill:#636e72"/>
+  <path d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#ffffff;opacity:.1"/>
+  <path d="m3 22.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1z" style="opacity:.2"/>
+  <path d="M 8.4999999,5.5 5,8.5 v 11 L 8.4999999,17 12,19.5 15.5,17 19,19.5 v -11 l -3.5,-3 -3.5,3 z" style="opacity:.2"/>
+  <path d="M 8.4999999,5 5,8 V 19 L 8.4999999,16.5 12,19 15.5,16.5 19,19 V 8 L 15.5,5 12,7 Z" style="fill:#e4e4e4"/>
+  <path d="m12 9-2.5000001 2.5h2.5000001v2.5l2.5-2.5zm0 5-2.0000001 2 2.0000001 2 2-2z" style="opacity:.1"/>
+  <path d="m12 19 3.5-2.5 3.5 2.5v-11l-3.5-3-3.5 2z" style="opacity:.1"/>
+  <path d="M 8.4999999,5 5,8 V 8.5 L 8.4999999,5.5 12,7.5 l 3.5,-2 3.5,3 V 8 L 15.5,5 12,7 Z" style="fill:#ffffff;opacity:.2"/>
+  <path d="m12 17.5 2-2-2-2-0.5 2z" style="fill:#42a937"/>
+  <path d="m12 13.5v-2.5h-2.5000001l2.5000001-2.5 0.5 2 2 0.5z" style="fill:#42a937"/>
+  <path d="m12 8.5v2.5h2.5z" style="fill:#2e842b"/>
+  <path d="m12 13.5v4l-2.0000001-2z" style="fill:#2e842b"/>
+ </g>
+</svg>
