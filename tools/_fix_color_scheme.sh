@@ -37,8 +37,10 @@ add_class() {
 
 # Symbolic
 add_class_symbolic() {
-	# add classes if a color matches and a class is missing:
+	# 1. remove all success, warning, and error classes if exist
+	# 2. add classes if a color matches and a class is missing
 	sed -i -r \
+		-e '/class=/  { s/[ ]class="(success|warning|error)"//g }' \
 		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#4caf50/I s/(style="[^"]+")/\1 class="success"/ }' \
 		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#ff9800/I s/(style="[^"]+")/\1 class="warning"/ }' \
 		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#f44336/I s/(style="[^"]+")/\1 class="error"/ }' \
