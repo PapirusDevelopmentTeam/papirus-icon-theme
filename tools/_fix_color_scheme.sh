@@ -45,10 +45,13 @@ add_class_symbolic() {
 		"$@"
 }
 
-remove_class_without_current_color() {
-	# remove class="ColorScheme-*" that not used to avoid duplicates
+remove_colorscheme_class() {
+	# remove class to avoid duplicates
+	# 1. remove class="ColorScheme-*" if currentColor is missing
+	# 2. remove class="ColorScheme-*" if color property is set
 	sed -i -r \
 		-e '/class="ColorScheme-/ { /:currentColor/! s/[ ]class="ColorScheme-[^"]+"// }' \
+		-e '/class="ColorScheme-/ { /[^-]color:[^";]+/ s/[ ]class="ColorScheme-[^"]+"// }' \
 		"$@"
 }
 
@@ -71,7 +74,7 @@ for file in "$@"; do
 	if grep -q -i '\.ColorScheme-Text' "$file"; then
 		# the file has a color scheme
 
-		remove_class_without_current_color "$file"
+		remove_colorscheme_class "$file"
 
 		if grep -q -i 'color:\(#444444\|#dfdfdf\|#6e6e6e\|#ffffff\)' "$file"; then
 			# it's Papirus, Papirus-Dark, Papirus-Light or ePapirus
