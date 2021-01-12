@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#4f4f4f" width="16" height="14" x="0" y="1" rx=".8" ry=".8"/>
- <path style="opacity:.15;fill:#ffffff" d="m8 1v14h7.199c0.443 0 0.801-0.358 0.801-0.801v-12.398c0-0.4434-0.358-0.801-0.801-0.801h-7.199z"/>
- <path style="fill:#ffffff" d="m3 2v1h-0.5c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h0.5v1h-1.9082c0.206 0.582 0.754 1 1.4082 1h0.5v1h1v-1h0.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-0.5v-1h1.9082c-0.206-0.582-0.754-1-1.408-1h-0.5v-1zm-0.5 2h0.5v1h-0.5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm1.5 2h0.5c0.277 0 0.5 0.223 0.5 0.5s-0.2233 0.5129-0.5 0.5h-0.5z"/>
- <path style="fill:#ffffff" d="m10 2v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1zm1 2h2v3h-2z"/>
+ <path style="fill:#4f4f4f" d="M 8,0.99999994 V 15 H 1.2 C 0.5352,15 0,14.479667 0,13.833333 V 2.1666666 C 0,1.5203333 0.5352,0.99999994 1.2,0.99999994 Z"/>
+ <path style="fill:#3f3f3f" d="M 8,0.99999994 V 15 h 6.8 C 15.4648,15 16,14.479667 16,13.833333 V 2.1666666 C 16,1.5203333 15.4648,0.99999994 14.8,0.99999994 Z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="m 1.5,2.5 2,1.5 -2,1.5"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="m 4.5,5.5 h 2"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="m 9.499707,2.5 2,1.5 -2,1.5"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="m 12.499707,5.5 h 2"/>
 </svg>
