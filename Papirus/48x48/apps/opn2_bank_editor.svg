@@ -1,0 +1,36 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#8e8e8e">
+  <g>
+   <rect transform="rotate(90)" x="27" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="23" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="19" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="15" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="31" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="35" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="39" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="11" y="-44" width="2" height="40"/>
+   <rect transform="rotate(90)" x="7" y="-44" width="2" height="40"/>
+  </g>
+  <rect x="23" y="4" width="2" height="40"/>
+  <rect x="19" y="4" width="2" height="40"/>
+  <rect x="15" y="4" width="2" height="40"/>
+  <rect x="11" y="4" width="2" height="40"/>
+  <rect x="27" y="4" width="2" height="40"/>
+  <rect x="31" y="4" width="2" height="40"/>
+  <rect x="35" y="4" width="2" height="40"/>
+  <rect x="7" y="4" width="2" height="40"/>
+  <rect x="39" y="4" width="2" height="40"/>
+ </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-42" y="-42" width="36" height="36" rx="1.8" ry="2.25" style="fill:#4f4f4f"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-40" y="-39.0005" width="30" height="30" rx="15" ry="15" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-39" y="-39.0005" width="30" height="30" rx="15" ry="15" style="fill:#3b6ec5"/>
+ <path d="m8.25 6c-1.2465 0-2.25 0.8036-2.25 1.8008v1c0-0.9972 1.0035-1.8008 2.25-1.8008h31.5c1.246 0 2.25 0.8036 2.25 1.8008v-1c0-0.9972-1.004-1.8008-2.25-1.8008h-31.5z" fill="#fff" style="opacity:.1"/>
+ <path d="m6 40.199v1c0 0.997 1.0035 1.801 2.25 1.801h31.5c1.246 0 2.25-0.804 2.25-1.801v-1c0 0.997-1.004 1.801-2.25 1.801h-31.5c-1.2465 0-2.25-0.804-2.25-1.801z" opacity=".2"/>
+ <path d="m24.0005 9c-8.31 0-15 6.69-15 15 0 0.18089 0.0209 0.35639 0.0272 0.53571 0.28258-8.0578 6.8437-14.464 14.973-14.464 8.1291 0 14.69 6.4065 14.973 14.464 6e-3 -0.17932 0.0272-0.35482 0.0272-0.53571 0-8.31-6.69-15-15-15z" style="fill:#ffffff;opacity:.1"/>
+ <g transform="translate(-468.9995,-165)" style="enable-background:new;opacity:.2">
+  <path d="m489 183v8.1875c-0.32-0.12-0.64-0.19-1-0.19-1.6568 0-3 1.3432-3 3s1.3432 3 3 3 3-1.3432 3-3v-7h6v4.1875c-0.32-0.12-0.64-0.19-1-0.19-1.6568 0-3 1.3432-3 3s1.3432 3 3 3 3-1.3432 3-3v-11h-1z"/>
+ </g>
+ <g transform="translate(-468.9995,-166)" style="enable-background:new;fill:#ffffff">
+  <path d="m489 183v8.1875c-0.32-0.12-0.64-0.19-1-0.19-1.6568 0-3 1.3432-3 3s1.3432 3 3 3 3-1.3432 3-3v-7h6v4.1875c-0.32-0.12-0.64-0.19-1-0.19-1.6568 0-3 1.3432-3 3s1.3432 3 3 3 3-1.3432 3-3v-11h-1z" style="fill:#ffffff"/>
+ </g>
+</svg>
