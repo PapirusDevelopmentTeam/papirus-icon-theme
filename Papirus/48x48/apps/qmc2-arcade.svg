@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="fill:#a7abad" width="34" height="27" x="7" y="11" ry="0"/>
+ <rect style="fill:#e4e4e4" width="4" height="2" x="30" y="31" ry="1"/>
+ <path style="opacity:0.2" d="M 6 5 C 5.446 5 5 5.446 5 6 L 5 14 C 5 14.554 5.446 15 6 15 L 42 15 C 42.554 15 43 14.554 43 14 L 43 6 C 43 5.446 42.554 5 42 5 L 6 5 z M 6 33 C 5.446 33 5 33.446 5 34 L 5 44 C 5 44.554 5.446 45 6 45 L 42 45 C 42.554 45 43 44.554 43 44 L 43 34 C 43 33.446 42.554 33 42 33 L 6 33 z"/>
+ <rect style="fill:#e31c1c" width="38" height="10" x="5" y="4" ry="1"/>
+ <rect style="fill:#4f4f4f" width="20" height="14" x="14" y="16" ry="2"/>
+ <rect style="fill:#e4e4e4" width="4" height="2" x="36" y="31" ry="1"/>
+ <rect style="fill:#666666" width="2" height="5" x="11" y="27"/>
+ <rect style="fill:#808080" width="4" height="2" x="10" y="31" ry="1"/>
+ <rect style="fill:#e31c1c" width="38" height="12" x="5" y="32" ry="1"/>
+ <circle style="opacity:0.1" cx="12" cy="27" r="3"/>
+ <circle style="fill:#4f4f4f" cx="12" cy="26" r="3"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6 4 C 5.446 4 5 4.446 5 5 L 5 6 C 5 5.446 5.446 5 6 5 L 42 5 C 42.554 5 43 5.446 43 6 L 43 5 C 43 4.446 42.554 4 42 4 L 6 4 z M 6 32 C 5.446 32 5 32.446 5 33 L 5 34 C 5 33.446 5.446 33 6 33 L 42 33 C 42.554 33 43 33.446 43 34 L 43 33 C 43 32.446 42.554 32 42 32 L 6 32 z"/>
+ <path style="fill:#ffffff;fill-rule:evenodd" d="m 26,18 -9,10 h 4 l 4,-4 v 4 l 4,-4 v 4 l 2,-2 v -8 l -5,5 z"/>
+</svg>

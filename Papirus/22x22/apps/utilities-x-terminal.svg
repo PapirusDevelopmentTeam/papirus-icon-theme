@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
  <rect style="opacity:0.2" width="20" height="18" x="1" y="2.5" rx="1.5" ry="1.5"/>
  <rect style="fill:#4f4f4f" width="20" height="18" x="1" y="2" rx="1.5" ry="1.5"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 4,5.5 3,3 L 4,11.5"/>
- <path style="fill:none;stroke:#64dd17;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 4,5 7,8 4,11"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 9,11.5 h 5"/>
- <path style="fill:none;stroke:#64dd17;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 9,11 h 5"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 2.5,2 C 1.669,2 1,2.669 1,3.5 V 4 C 1,3.169 1.669,2.5 2.5,2.5 h 17 C 20.331,2.5 21,3.169 21,4 V 3.5 C 21,2.669 20.331,2 19.5,2 Z"/>
+ <rect style="opacity:0.2" width="6" height="2" x="9" y="10.5" rx=".5" ry=".5"/>
+ <rect style="fill:#33c839" width="6" height="2" x="9" y="10" rx=".5" ry=".5"/>
+ <rect style="opacity:0.2" width="6.122" height="2.041" x="-6.32" y="10.14" rx=".51" ry=".51" transform="matrix(0.72685813,-0.68678763,0.72685813,0.68678763,0,0)"/>
+ <rect style="fill:#24873b" width="6.122" height="2.041" x="-5.95" y="9.78" rx=".51" ry=".51" transform="matrix(0.72685813,-0.68678763,0.72685813,0.68678763,0,0)"/>
+ <rect style="opacity:0.2" width="6.122" height="2.041" x="6.06" y="-2.23" rx=".51" ry=".51" transform="matrix(0.72685813,0.68678763,0.72685813,-0.68678763,0,0)"/>
+ <rect style="fill:#33c839" width="6.122" height="2.041" x="5.7" y="-1.87" rx=".51" ry=".51" transform="matrix(0.72685813,0.68678763,0.72685813,-0.68678763,0,0)"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 9.5,10 C 9.223,10 9,10.223 9,10.5 V 11 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 5 c 0.277,0 0.5,0.223 0.5,0.5 V 10.5 C 15,10.223 14.777,10 14.5,10 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 4.2666015,4.0009765 c -0.134007,0 -0.2674339,0.048485 -0.3701171,0.145508 L 3.1542969,4.847656 C 2.9804137,5.0119535 2.9624383,5.2579225 3.0830078,5.448242 3.1048383,5.413782 3.1228138,5.377404 3.1542969,5.347656 L 3.8964844,4.6464845 c 0.2053666,-0.194045 0.5358446,-0.194045 0.7412111,0 l 3.708984,3.5048825 c 0.03143,0.029695 0.048505,0.066194 0.070312,0.100586 C 8.5381835,8.0615255 8.520823,7.8159105 8.3466795,7.651367 L 4.6376955,4.1464845 C 4.535012,4.049462 4.400609,4.0009765 4.2666015,4.0009765 Z"/>
 </svg>
