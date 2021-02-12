@@ -4,6 +4,7 @@ Provides the following icon themes:
 
  - Papirus.HiDPI
  - Papirus-Dark.HiDPI
+ - Papirus-Light.HiDPI
 
 #### Install
 

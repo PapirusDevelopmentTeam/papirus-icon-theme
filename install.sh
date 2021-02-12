@@ -64,6 +64,7 @@ do
   sudo cp -R \
     "$temp_dir/$gh_repo-HiDPI/Papirus.HiDPI" \
     "$temp_dir/$gh_repo-HiDPI/Papirus-Dark.HiDPI" \
+    "$temp_dir/$gh_repo-HiDPI/Papirus-Light.HiDPI" \
     "$icons_dir"
 
   exit 0
