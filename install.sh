@@ -69,5 +69,5 @@ do
   exit 0
 done
 
-echo "Error: Papirus icon theme cannot be found."
+echo "Error: unable to find Papirus icon theme, please install it first."
 exit 1
