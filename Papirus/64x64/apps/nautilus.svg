@@ -1,13 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <rect style="opacity:0.2" width="45" height="20" x="10" y="41" rx="4" ry="4"/>
- <path style="fill:#1565c0" d="M 14.21875,4 C 11.881563,4 10,5.8732 10,8.2 V 13.8 18 29 H 55 V 18 13.8 8.2 C 55,5.8732 53.118437,4 50.78125,4 Z"/>
- <path style="fill:#1e88e5" d="M 14.21875,21 C 11.881563,21 10,22.8732 10,25.2 V 30.6 34.8 46 H 55 V 34.8 30.6 25.2 C 55,22.8732 53.118437,21 50.78125,21 Z"/>
- <rect style="fill:#42a5f5" width="45" height="20" x="10" y="40" rx="4" ry="4"/>
- <path style="opacity:0.2" d="m 28.5,13 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 h 8 C 37.331,16 38,15.331 38,14.5 38,13.669 37.331,13 36.5,13 Z m 0,17 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 h 8 C 37.331,33 38,32.331 38,31.5 38,30.669 37.331,30 36.5,30 Z m 0,20 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 h 8 C 37.331,53 38,52.331 38,51.5 38,50.669 37.331,50 36.5,50 Z"/>
- <rect style="fill:#ffffff" width="11" height="3" x="27" y="12" rx="1.5" ry="1.5"/>
- <rect style="fill:#ffffff" width="11" height="3" x="27" y="29" rx="1.5" ry="1.5"/>
- <rect style="fill:#ffffff" width="11" height="3" x="27" y="49" rx="1.5" ry="1.5"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 14.21875 4 C 11.881563 4 10 5.8724187 10 8.1992188 L 10 9.1992188 C 10 6.8724187 11.881563 5 14.21875 5 L 50.78125 5 C 53.118437 5 55 6.8724188 55 9.1992188 L 55 8.1992188 C 55 5.8724188 53.118437 4 50.78125 4 L 14.21875 4 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 14.21875 21 C 11.881563 21 10 22.872419 10 25.199219 L 10 26.199219 C 10 23.872419 11.881563 22 14.21875 22 L 50.78125 22 C 53.118437 22 55 23.872419 55 26.199219 L 55 25.199219 C 55 22.872419 53.118437 21 50.78125 21 L 14.21875 21 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 14 40 C 11.784 40 10 41.784 10 44 L 10 45 C 10 42.784 11.784 41 14 41 L 51 41 C 53.216 41 55 42.784 55 45 L 55 44 C 55 41.784 53.216 40 51 40 L 14 40 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient1245">
+   <stop style="stop-color:#9a9996" offset="0"/>
+   <stop style="stop-color:#c0bfbc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1697">
+   <stop style="stop-color:#deddda" offset="0"/>
+   <stop style="stop-color:#eeeeec" offset=".045"/>
+   <stop style="stop-color:#deddda" offset=".091"/>
+   <stop style="stop-color:#deddda" offset=".909"/>
+   <stop style="stop-color:#eeeeec" offset=".955"/>
+   <stop style="stop-color:#c0bfbc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1049" x1="20" x2="108" y1="238" y2="238" gradientTransform="matrix(0.35714286,0,0,0.35714286,-70.354502,-52.73411)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1697"/>
+  <linearGradient id="linearGradient1185" x1="50" x2="74" y1="238" y2="238" gradientTransform="translate(2,-22)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1697"/>
+  <linearGradient id="linearGradient1348" x1="65" x2="65" y1="204" y2="200" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1245"/>
+ </defs>
+ <rect style="opacity:0.2" width="45" height="57" x="10" y="4" rx="2.8" ry="2.8"/>
+ <rect style="fill:#3584e4" width="45" height="57" x="10" y="3" rx="2.8" ry="2.8"/>
+ <path style="opacity:0.2" d="M 28.375,12 C 27.61325,12 27,12.669 27,13.5 c 0,0.831 0.61325,1.5 1.375,1.5 h 8.25 C 37.38675,15 38,14.331 38,13.5 38,12.669 37.38675,12 36.625,12 Z m 0,19 C 27.61325,31 27,31.669 27,32.5 c 0,0.831 0.61325,1.5 1.375,1.5 h 8.25 C 37.38675,34 38,33.331 38,32.5 38,31.669 37.38675,31 36.625,31 Z m 0,19 C 27.61325,50 27,50.669 27,51.5 c 0,0.831 0.61325,1.5 1.375,1.5 h 8.25 C 37.38675,53 38,52.331 38,51.5 38,50.669 37.38675,50 36.625,50 Z"/>
+ <rect style="opacity:0.15" width="45" height="2" x="10" y="21"/>
+ <rect style="opacity:0.15" width="45" height="2" x="10" y="40"/>
+ <rect style="fill:#ffffff" width="11" height="3" x="27" y="11" rx="1.375" ry="1.5"/>
+ <rect style="fill:#ffffff" width="11" height="3" x="27" y="30" rx="1.375" ry="1.5"/>
+ <rect style="fill:#ffffff" width="11" height="3" x="27" y="49" rx="1.375" ry="1.5"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 12.800781 3 C 11.249581 3 10 4.2495813 10 5.8007812 L 10 6.8007812 C 10 5.2495813 11.249581 4 12.800781 4 L 52.199219 4 C 53.750419 4 55 5.2495813 55 6.8007812 L 55 5.8007812 C 55 4.2495813 53.750419 3 52.199219 3 L 12.800781 3 z"/>
 </svg>
