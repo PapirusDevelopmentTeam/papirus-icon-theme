@@ -1,21 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient1245">
-   <stop style="stop-color:#9a9996" offset="0"/>
-   <stop style="stop-color:#c0bfbc" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient1697">
-   <stop style="stop-color:#deddda" offset="0"/>
-   <stop style="stop-color:#eeeeec" offset=".045"/>
-   <stop style="stop-color:#deddda" offset=".091"/>
-   <stop style="stop-color:#deddda" offset=".909"/>
-   <stop style="stop-color:#eeeeec" offset=".955"/>
-   <stop style="stop-color:#c0bfbc" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient1049" x1="20" x2="108" y1="238" y2="238" gradientTransform="matrix(0.35714286,0,0,0.35714286,-70.354502,-52.73411)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1697"/>
-  <linearGradient id="linearGradient1185" x1="50" x2="74" y1="238" y2="238" gradientTransform="translate(2,-22)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1697"/>
-  <linearGradient id="linearGradient1348" x1="65" x2="65" y1="204" y2="200" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1245"/>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <rect style="fill:#3584e4" width="13" height="16" x="2.04" y="0" rx=".8" ry=".8"/>
  <rect style="opacity:0.15" width="13" height="1" x="2" y="5"/>
  <rect style="opacity:0.15" width="13" height="1" x="2" y="10"/>
