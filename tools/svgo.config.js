@@ -11,6 +11,26 @@ module.exports = {
     'removeMetadata',
     // remove editors namespaces, elements and attributes
     'removeEditorsNSData',
+    {
+      // sort element attributes for epic readability
+      name: 'sortAttrs',
+      params: {
+        order: [
+          'id',
+          'fill', 'stroke', 'opacity',
+          'style', 'class',
+          'width', 'height',
+          'x', 'x1', 'x2',
+          'y', 'y1', 'y2',
+          'cx', 'cy',
+          'rx', 'ry', 'r',
+          'transform',
+          'marker',
+          'points',
+          'd',
+        ]
+      }
+    },
     // cleanup attributes values from newlines, trailing and repeating spaces
     'cleanupAttrs',
     /**
@@ -80,26 +100,6 @@ module.exports = {
     'removeEmptyContainers',
     // remove unused namespaces declaration
     'removeUnusedNS',
-    {
-      // sort element attributes for epic readability
-      name: 'sortAttrs',
-      params: {
-        order: [
-          'id',
-          'fill', 'stroke', 'opacity',
-          'style', 'class',
-          'width', 'height',
-          'x', 'x1', 'x2',
-          'y', 'y1', 'y2',
-          'cx', 'cy',
-          'rx', 'ry', 'r',
-          'transform',
-          'marker',
-          'points',
-          'd',
-        ]
-      }
-    },
     // remove <title>
     'removeTitle',
     // remove <desc>
