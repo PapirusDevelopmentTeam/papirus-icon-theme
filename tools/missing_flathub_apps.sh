@@ -42,6 +42,8 @@ IGNORED_APPS=(
 	org.freedesktop.Platform.VaInfo
 	org.freedesktop.Platform.VulkanInfo
 	org.mozilla.firefox.BaseApp
+	se.emijoh.mpw
+	org.flatpak.flat-manager-client
 	# apps with icons that do not match with App ID:
 	com.github.utsushi.Utsushi
 	com.wps.Office
