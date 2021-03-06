@@ -15,45 +15,45 @@ XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}"
 
 IGNORED_APPS=(
 	# apps without icons:
+	dev.paullee.scraterpreter.Scrape
+	dev.paullee.scraterpreter.Scrapec
 	io.atom.electron.BaseApp
 	io.elementary.BaseApp
 	io.elementary.Loki.BaseApp
+	io.github.erkin.ponysay
 	io.gitlab.sdl_jstest.sdl2_jstest
 	io.gitlab.sdl_jstest.sdl_jstest
+	io.liri.BaseApp
 	io.qt.qtwebengine.BaseApp
 	io.qt.qtwebkit.BaseApp
+	net.sourceforge.fspclient
 	org.electronjs.Electron2.BaseApp
 	org.flathub.flatpak-external-data-checker
 	org.flatpak.Builder
+	org.flatpak.flat-manager-client
 	org.freedesktop.appstream-glib
 	org.freedesktop.GlxInfo
-	org.godotengine.godot.BaseApp
-	org.mosh.mosh
-	org.mozilla.Firefox.BaseApp
-	org.sugarlabs.BaseApp
 	org.freedesktop.LinuxAudio.BaseExtension
-	org.nuspell.Nuspell
-	net.sourceforge.fspclient
-	dev.paullee.scraterpreter.Scrapec
-	dev.paullee.scraterpreter.Scrape
-	io.github.erkin.ponysay
 	org.freedesktop.Platform.ClInfo
 	org.freedesktop.Platform.GlxInfo
 	org.freedesktop.Platform.VaInfo
 	org.freedesktop.Platform.VulkanInfo
+	org.godotengine.godot.BaseApp
+	org.mosh.mosh
 	org.mozilla.firefox.BaseApp
+	org.nuspell.Nuspell
+	org.sugarlabs.BaseApp
 	se.emijoh.mpw
-	org.flatpak.flat-manager-client
 	# apps with icons that do not match with App ID:
+	cat.xtec.clic.JClic
 	com.github.utsushi.Utsushi
 	com.wps.Office
 	net.openra.OpenRA
+	org.freeorion.FreeOrion
 	org.homelinuxserver.vance.biblereader
+	org.kde.okteta
 	org.libreoffice.LibreOffice
 	org.vranki.spectral
-	org.kde.okteta
-	org.freeorion.FreeOrion
-	cat.xtec.clic.JClic
 )
 
 flathub_apps_list="$(mktemp -u)"
