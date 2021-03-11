@@ -38,6 +38,7 @@ IGNORED_APPS=(
 	org.freedesktop.Platform.GlxInfo
 	org.freedesktop.Platform.VaInfo
 	org.freedesktop.Platform.VulkanInfo
+	org.genivi.DLTViewer
 	org.godotengine.godot.BaseApp
 	org.mosh.mosh
 	org.mozilla.firefox.BaseApp
