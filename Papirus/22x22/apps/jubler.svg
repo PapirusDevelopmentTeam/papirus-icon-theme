@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-1.03125,-1)">
+  <path style="opacity:0.2" d="m 11,2.5 c -9,0 -9,9 -9,9 h 9 v 1 c -9,0 -9,10 -9,10 h 20 v -11 c 0,0 0,-9 -11,-9 z"/>
+  <path style="fill:#f5b32f" d="M 11,11 12,6 11,2 C 2,2 2,11 2,11 Z"/>
+  <path style="fill:#c73c78" d="m 11,22 1,-5 -1,-5 C 2,12 2,22 2,22 Z"/>
+  <path style="fill:#266fd5" d="m 11,2 v 20 h 2 l 9,-10 v -1 c 0,0 0,-9 -11,-9 z"/>
+  <path style="fill:#17ac98" d="M 22,22 V 12 c -9,0 -9,10 -9,10 z"/>
+  <circle style="opacity:0.1" cx="15.5" cy="7" r="1.5"/>
+  <circle style="fill:#4f4f4f" cx="15.5" cy="6.5" r="1.5"/>
+  <path style="fill:#ffffff" d="M 16,6.5 A 0.5,0.5 0 0 1 15.5,7 0.5,0.5 0 0 1 15,6.5 0.5,0.5 0 0 1 15.5,6 0.5,0.5 0 0 1 16,6.5 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 11,2 C 2,2 2,11 2,11 h 0.03125 c 0.1495,-1.8538 1.2188,-8.5 8.9688,-8.5 11,0 11,9 11,9 V 11 c 0,0 0,-9 -11,-9 z m 0,10 C 2,12 2,22 2,22 h 0.025391 c 0.13757,-1.997 1.1695,-9.5 8.9746,-9.5 V 12 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 22,12 c -9,0 -9,10 -9,10 h 0.02539 c 0.13757,-1.997 1.1695,-9.5 8.9746,-9.5 V 12 Z"/>
+ </g>
+</svg>
