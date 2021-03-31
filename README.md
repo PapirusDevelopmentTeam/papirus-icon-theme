@@ -334,4 +334,10 @@ You can support this open source project by making a voluntary payment:
 
 ## License
 
-Papirus icon theme distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
+Papirus icon theme is free and open source project distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
+
+Every logo in this icon theme is owned by the respective trademark holder. We have not received approval to create these logos from any of the trademark owners, and the existence of an icon in this repository is in no way supported by the trademark owner.
+
+Where possible, we stayed true to the branding and official guidelines.
+
+If you are a trademark holder or application owner for one of these applications and disapprove of the icons we've created for your application, please submit an issue to this repository.
