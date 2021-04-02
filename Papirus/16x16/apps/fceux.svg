@@ -1,1 +1,168 @@
-<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#787878;}.cls-2{fill:#d4d4d4;}.cls-3{fill:#525251;}.cls-4{fill:#706f6f;}.cls-5{fill:#b2b2b2;}.cls-6{fill:red;}.cls-7{fill:#dadada;}.cls-8{fill:#b3b3b3;}</style></defs><rect class="cls-1" x="1" y="5" width="14" height="8" rx="0.484"/><rect class="cls-2" x="1" y="5" width="14" height="7" rx="0.453"/><rect class="cls-3" x="2" y="6" width="12" height="5" rx="0.264"/><rect class="cls-4" x="3.502" y="6.5" width="2" height="3.994" rx="0.305"/><rect class="cls-4" x="3.503" y="6.503" width="2" height="3.994" rx="0.305" transform="translate(13.003 3.997) rotate(90)"/><rect x="4" y="7" width="1" height="3" rx="0.189"/><rect x="4" y="7" width="1" height="3" rx="0.189" transform="translate(-4 13) rotate(-90)"/><circle class="cls-5" cx="12.5" cy="9.5" r="0.625"/><circle class="cls-5" cx="10.67" cy="9.5" r="0.625"/><circle class="cls-6" cx="10.67" cy="9.5" r="0.5"/><circle class="cls-6" cx="12.5" cy="9.5" r="0.5"/><rect class="cls-7" x="6.059" y="8.5" width="3.741" height="1.5" rx="0.229"/><circle cx="6.613" cy="9.406" r="0.5"/><circle cx="8.5" cy="9.406" r="0.5"/><path class="cls-8" d="M6.059,6H9.8a0,0,0,0,1,0,0v.313a.187.187,0,0,1-.187.187H6.246a.187.187,0,0,1-.187-.187V6a0,0,0,0,1,0,0Z"/><path class="cls-8" d="M6.059,10.5H9.8a0,0,0,0,1,0,0v.313A.187.187,0,0,1,9.613,11H6.246a.187.187,0,0,1-.187-.187V10.5a0,0,0,0,1,0,0Z" transform="translate(15.859 21.5) rotate(-180)"/><rect class="cls-8" x="6.059" y="7" width="3.741" height="1" rx="0.187"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="fceux.svg"
+   version="1.1"
+   viewBox="0 0 16 16"
+   data-name="Camada 2"
+   id="Camada_2">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Camada_2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="8"
+     inkscape:cx="8"
+     inkscape:zoom="53.75"
+     showgrid="false"
+     id="namedview41"
+     inkscape:window-height="1027"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#787878;}.cls-2{fill:#d4d4d4;}.cls-3{fill:#525251;}.cls-4{fill:#706f6f;}.cls-5{fill:#b2b2b2;}.cls-6{fill:red;}.cls-7{fill:#dadada;}.cls-8{fill:#b3b3b3;}</style>
+  </defs>
+  <rect
+     id="rect6"
+     rx="0.484"
+     height="8"
+     width="14"
+     y="5"
+     x="1"
+     class="cls-1" />
+  <rect
+     id="rect8"
+     rx="0.453"
+     height="7"
+     width="14"
+     y="5"
+     x="1"
+     class="cls-2" />
+  <rect
+     id="rect10"
+     rx="0.264"
+     height="5"
+     width="12"
+     y="6"
+     x="2"
+     class="cls-3" />
+  <rect
+     id="rect12"
+     rx="0.305"
+     height="3.994"
+     width="2"
+     y="6.5"
+     x="3.502"
+     class="cls-4" />
+  <rect
+     id="rect14"
+     transform="translate(13.003 3.997) rotate(90)"
+     rx="0.305"
+     height="3.994"
+     width="2"
+     y="6.503"
+     x="3.503"
+     class="cls-4" />
+  <rect
+     id="rect16"
+     rx="0.189"
+     height="3"
+     width="1"
+     y="7"
+     x="4" />
+  <rect
+     id="rect18"
+     transform="translate(-4 13) rotate(-90)"
+     rx="0.189"
+     height="3"
+     width="1"
+     y="7"
+     x="4" />
+  <circle
+     id="circle20"
+     r="0.625"
+     cy="9.5"
+     cx="12.5"
+     class="cls-5" />
+  <circle
+     id="circle22"
+     r="0.625"
+     cy="9.5"
+     cx="10.67"
+     class="cls-5" />
+  <circle
+     id="circle24"
+     r="0.5"
+     cy="9.5"
+     cx="10.67"
+     class="cls-6" />
+  <circle
+     id="circle26"
+     r="0.5"
+     cy="9.5"
+     cx="12.5"
+     class="cls-6" />
+  <rect
+     id="rect28"
+     rx="0.229"
+     height="1.5"
+     width="3.741"
+     y="8.5"
+     x="6.059"
+     class="cls-7" />
+  <circle
+     id="circle30"
+     r="0.5"
+     cy="9.406"
+     cx="6.613" />
+  <circle
+     id="circle32"
+     r="0.5"
+     cy="9.406"
+     cx="8.5" />
+  <path
+     id="path34"
+     d="M6.059,6H9.8a0,0,0,0,1,0,0v.313a.187.187,0,0,1-.187.187H6.246a.187.187,0,0,1-.187-.187V6a0,0,0,0,1,0,0Z"
+     class="cls-8" />
+  <path
+     id="path36"
+     transform="translate(15.859 21.5) rotate(-180)"
+     d="M6.059,10.5H9.8a0,0,0,0,1,0,0v.313A.187.187,0,0,1,9.613,11H6.246a.187.187,0,0,1-.187-.187V10.5a0,0,0,0,1,0,0Z"
+     class="cls-8" />
+  <rect
+     id="rect38"
+     rx="0.187"
+     height="1"
+     width="3.741"
+     y="7"
+     x="6.059"
+     class="cls-8" />
+</svg>
