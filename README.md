@@ -120,7 +120,7 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
 | Fedora        | Dirk Davidis         | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
-| Gentoo        | Mikle Kolyada        | `sudo emerge -a papirus-icon-theme` |
+| Gentoo        | Marco Scardovi       | `sudo emerge -a papirus-icon-theme` |
 | NetBSD        | Nia Alarie           | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
 | NixOS         | Nixpkgs Contributors | `nix-env -iA nixos.papirus-icon-theme` |
 | openSUSE      | Konstantin Voinov    | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
