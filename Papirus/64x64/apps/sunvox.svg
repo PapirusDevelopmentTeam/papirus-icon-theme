@@ -1,8 +1,7 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect transform="rotate(-90)" x="-62" y="2" width="60" height="60" ry="5" style="opacity:.2"/>
- <rect transform="rotate(-90)" x="-61" y="2" width="60" height="60" ry="5" style="fill:#e4e4e4"/>
- <path d="m49.5 49h7v7h-7zm-7 0h7v7h-7zm-14 0h7v7h-7zm-21 0h7v7h-7zm7 0h7v7h-7zm7 0h7v7h-7zm14 0h7v7h-7zm-14-7h7v7h-7zm14 0h7v7h-7zm14-21h7v7h-7zm-42 0h7v7h-7zm14 14h7v7h-7zm-7 0h7v7h-7zm0-7h7v7h-7zm0-7h7v7h-7zm0-7h7v7h-7zm0-7h7v7h-7zm7 0h7v7h-7zm14 0h7v7h-7zm7 0h7v7h-7zm0 7h7v7h-7zm0 7h7v7h-7zm0 14h7v7h-7zm0-7h7v7h-7zm-7 7h7v7h-7zm-7-14h7v7h-7z" style="fill-rule:evenodd;opacity:.162"/>
- <path d="m49.5 48h7v7h-7zm-7 0h7v7h-7zm-14 0h7v7h-7zm-21 0h7v7h-7zm7 0h7v7h-7zm7 0h7v7h-7zm14 0h7v7h-7zm-14-7h7v7h-7zm14 0h7v7h-7zm14-21h7v7h-7zm-42 0h7v7h-7zm14 14h7v7h-7zm-7 0h7v7h-7zm0-7h7v7h-7zm0-7h7v7h-7zm0-7h7v7h-7zm0-7h7v7h-7zm7 0h7v7h-7zm14 0h7v7h-7zm7 0h7v7h-7zm0 7h7v7h-7zm0 7h7v7h-7zm0 14h7v7h-7zm0-7h7v7h-7zm-7 7h7v7h-7zm-7-14h7v7h-7z" style="fill-rule:evenodd;fill:#4f4f4f"/>
- <path d="m7 1c-2.77 0-5 2.23-5 5v1c0-2.77 2.23-5 5-5h50c2.77 0 5 2.23 5 5v-1c0-2.77-2.23-5-5-5z" style="fill:#ffffff;opacity:.2"/>
- <path d="m14.5 6v1h14v-1h-7zm21 0v1h14v-1h-7zm-28 14v1h7v-1zm21 0v1h7v-1zm21 0v1h7v-1zm-28 14v1h7v-1zm14 0v1h7v-1zm-28 14v1h14v-1h-7zm21 0v1h7v-1zm14 0v1h14v-1h-7z" style="fill-rule:evenodd;fill:#ffffff;opacity:.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="5" ry="5.6"/>
+ <rect style="fill:#e4e4e4" width="56" height="56" x="4" y="4" ry="5.6"/>
+ <path style="opacity:0.1" d="m 17,12 v 6 6 h -6 v 6 h 6 v 6 6 h 6 v 6 h -6 -6 v 6 h 6 6 6 6 6 6 6 v -6 h -6 -6 v -6 h 6 v -6 -6 h 6 v -6 h -6 v -6 -6 h -6 -6 v 6 h 6 v 6 6 6 h -6 v 6 6 h -6 v -6 -6 h -6 v -6 -6 -6 h 6 v -6 h -6 z m 12,12 v 6 h 6 v -6 z"/>
+ <path style="fill:#4f4f4f" d="m 17,11 v 6 6 h -6 v 6 h 6 v 6 6 h 6 v 6 h -6 -6 v 6 h 6 6 6 6 6 6 6 v -6 h -6 -6 v -6 h 6 v -6 -6 h 6 v -6 h -6 v -6 -6 h -6 -6 v 6 h 6 v 6 6 6 h -6 v 6 6 h -6 v -6 -6 h -6 v -6 -6 -6 h 6 v -6 h -6 z m 12,12 v 6 h 6 v -6 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 9.5996094 4 C 6.4972094 4 4 6.4972094 4 9.5996094 L 4 10.599609 C 4 7.4972094 6.4972094 5 9.5996094 5 L 54.400391 5 C 57.502791 5 60 7.4972094 60 10.599609 L 60 9.5996094 C 60 6.4972094 57.502791 4 54.400391 4 L 9.5996094 4 z"/>
 </svg>
