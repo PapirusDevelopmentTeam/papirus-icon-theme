@@ -58,6 +58,7 @@ COLORS=(
 	[green]="     #87b158 #60924b #2f3e1f #e4e4e4"
 	[grey]="      #8e8e8e #727272 #323232 #e4e4e4"
 	[indigo]="    #5c6bc0 #3f51b5 #202543 #e4e4e4"
+	[carmine]="   #a30002 #7a0002 #390001 #e4e4e4"
 	[magenta]="   #ca71df #b259b8 #47274e #e4e4e4"
 	[orange]="    #ee923a #dd772f #533314 #e4e4e4"
 	[palebrown]=" #d1bfae #bea389 #a38d7b #e4e4e4"
