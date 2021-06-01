@@ -15,6 +15,7 @@ XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}"
 
 IGNORED_APPS=(
 	# apps without icons:
+	com.github.nihui.waifu2x-ncnn-vulkan
 	dev.paullee.scraterpreter.Scrape
 	dev.paullee.scraterpreter.Scrapec
 	io.atom.electron.BaseApp
