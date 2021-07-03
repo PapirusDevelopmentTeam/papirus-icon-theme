@@ -45,6 +45,7 @@ IGNORED_APPS=(
 	org.mozilla.firefox.BaseApp
 	org.nuspell.Nuspell
 	org.sugarlabs.BaseApp
+	radio.k0swe.Kel_Agent
 	se.emijoh.mpw
 	# apps with icons that do not match with App ID:
 	cat.xtec.clic.JClic
