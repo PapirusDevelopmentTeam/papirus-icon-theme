@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <rect style="opacity:0.2" width="16" height="12" x="-21.5" y="-18" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#8e8e8e" width="16" height="12" x="-21" y="-18" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.2" width="16" height="20" x="-19.5" y="-22" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#4f4f4f" width="16" height="20" x="-19" y="-22" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="fill:#333333" transform="matrix(0,-1,-1,0,0,0)" d="M -16.614792,-19.49923 -5,-20 l 0,16 -12,0 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 22,4 C 22,3.446 21.554,3 21,3 L 3,3 Z"/>
- <path style="opacity:0.2" d="m 20,5.5 -16,12 15.179688,0 c 0,0 0.820312,0 0.820312,-0.75 L 20,5.5 Z m -3,6 0,3 -4,0 4,-3 z"/>
- <path style="fill:#cd3840" d="M 20 5 L 4 17 L 19.179688 17 C 19.179688 17 20 17 20 16.25 L 20 5 z M 17 11 L 17 14 L 13 14 L 17 11 z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 20 5 L 4 17 L 4.6660156 17 L 20 5.5 L 20 5 z M 13.666016 14 L 13 14.5 L 17 14.5 L 17 14 L 13.666016 14 z"/>
+ <rect style="opacity:0.2" width="12" height="16" x="6" y="5.5" rx="1" ry="1"/>
+ <rect style="fill:#8e8e8e" width="12" height="16" x="6" y="5" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="20" height="16" x="2" y="3.5" rx="1" ry="1"/>
+ <path style="fill:#3f3f3f" d="M 2 17 L 2 18 C 2 18.554 2.446 19 3 19 L 21 19 C 21.554 19 22 18.554 22 18 L 22 17 L 2 17 z"/>
+ <path style="fill:#e4e4e4" d="M 3 3 C 2.446 3 2 3.446 2 4 L 2 17 L 22 17 L 22 4 C 22 3.446 21.554 3 21 3 L 3 3 z"/>
+ <rect style="opacity:0.2" width="17" height=".5" x="5" y="17"/>
+ <path style="fill:#cd3840" d="M 22,4 4.9999998,17 H 18.5 21.127929 22 V 16.1875 14 Z m -3,7 v 3 h -4.2 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3 3 C 2.446 3 2 3.446 2 4 L 2 4.5 C 2 3.946 2.446 3.5 3 3.5 L 21 3.5 C 21.554 3.5 22 3.946 22 4.5 L 22 4 C 22 3.446 21.554 3 21 3 L 3 3 z"/>
 </svg>
