@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <circle style="fill:#bebebe;fill-rule:evenodd;stroke:#bebebe;stroke-linejoin:round" cx="5.5" cy="12.5" r="3"/>
- <circle style="fill:#bebebe;fill-rule:evenodd;stroke:#bebebe;stroke-linejoin:round" cx="17.5" cy="5.5" r="3"/>
- <circle style="fill:#bebebe;fill-rule:evenodd;stroke:#bebebe;stroke-linejoin:round" cx="17.5" cy="19.5" r="3"/>
- <path style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linejoin:round" d="m 17.5,5.5 -12,7 12,7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+ <g transform="translate(-353 175)">
+  <path fill="#ffffff" d="M370.5-173a3.508 3.508 0 0 0-3.5 3.5c0 .285.043.557.108.822l-6.225 3.631A3.478 3.478 0 0 0 358.5-166a3.508 3.508 0 0 0-3.5 3.5c0 1.927 1.573 3.5 3.5 3.5.922 0 1.757-.367 2.383-.953l6.225 3.63a3.45 3.45 0 0 0-.108.823c0 1.927 1.573 3.5 3.5 3.5s3.5-1.573 3.5-3.5-1.573-3.5-3.5-3.5c-.922 0-1.756.367-2.383.953l-6.226-3.633c.064-.264.11-.536.11-.82 0-.284-.046-.556-.11-.82l6.226-3.633a3.478 3.478 0 0 0 2.383.953c1.927 0 3.5-1.573 3.5-3.5s-1.573-3.5-3.5-3.5z"/>
+ </g>
 </svg>
