@@ -25,7 +25,7 @@ cat <<- EOF
 EOF
 
 : "${DESTDIR:=/usr/share/icons}"
-: "${ICON_THEMES:=Papirus ePapirus Papirus-Dark Papirus-Light}"
+: "${ICON_THEMES:=Papirus ePapirus ePapirus-Dark Papirus-Dark Papirus-Light}"
 : "${TAG:=master}"
 : "${uninstall:=false}"
 
