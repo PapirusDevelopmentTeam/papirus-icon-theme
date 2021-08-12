@@ -25,7 +25,7 @@ cat <<- EOF
 EOF
 
 echo "=> Removing $gh_desc ..."
-for i in ePapirus Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Dark Papirus-Light; do
+for i in ePapirus ePapirus-Dark Papirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Dark Papirus-Light; do
   rm -rf "$HOME/.icons/$i"
   rm -rf "$HOME/.local/share/icons/$i"
   sudo rm -rf "/usr/local/share/icons/$i"
