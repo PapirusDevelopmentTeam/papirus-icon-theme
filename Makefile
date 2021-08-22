@@ -21,7 +21,7 @@ $(ICON_THEMES):
 	-gtk-update-icon-cache -q "$(DESTDIR)$(PREFIX)/share/icons/$@"
 
 uninstall:
-	- rm -rf $(foreach icon_theme,$(ICON_THEMES),"$(DESTDIR)$(PREFIX)/share/icons/$(icon_theme)")
+	-rm -rf $(foreach icon_theme,$(ICON_THEMES),"$(DESTDIR)$(PREFIX)/share/icons/$(icon_theme)")
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
