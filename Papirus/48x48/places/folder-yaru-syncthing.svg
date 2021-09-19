@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="26" x="4" y="17" rx="2" ry="2"/>
+ <path style="fill:#973552" d="M 4,34 C 4,35.108 4.892,36 6,36 H 42 C 43.108,36 44,35.108 44,34 V 12 C 44,10.892 43.108,10 42,10 H 24 C 21,10 20,6 17,6 H 6 C 4.892,6 4,6.892 4,8"/>
+ <rect style="opacity:0.2" width="40" height="26" x="4" y="15" rx="2" ry="2"/>
+ <rect style="fill:#ff7446" width="36" height="16" x="6" y="13" rx="2" ry="2"/>
+ <rect style="fill:#676767" width="40" height="26" x="4" y="16" rx="2" ry="2"/>
+ <path style="fill:#e4e4e4" d="M 24 21 C 19.581722 21.000001 16 24.581722 16 29 C 16 33.418278 19.581722 36.999999 24 37 C 28.418278 37 32 33.418278 32 29 C 32 24.581722 28.418278 21 24 21 z M 24 22 C 27.865993 22 31 25.134006 31 29 C 31 32.865993 27.865993 36 24 36 C 20.134006 35.999999 17 32.865993 17 29 C 17 25.134006 20.134006 22.000001 24 22 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 H 17 C 20,7 21,11 24,11 H 42 C 43.108,11 44,11.892 44,13 V 12 C 44,10.892 43.108,10 42,10 H 24 C 21,10 20,6 17,6 Z"/>
+ <path fill="none" stroke-width="1.143" style="stroke:#e4e4e4" d="m 17,31 9,-2 5,-3"/>
+ <path fill="none" stroke-width="1.143" style="stroke:#e4e4e4" d="M 30,34 26,29"/>
+ <circle style="fill:#e4e4e4" cx="30" cy="34" r="2"/>
+ <circle style="fill:#e4e4e4" cx="31" cy="26" r="2"/>
+ <circle style="fill:#e4e4e4" cx="26" cy="29" r="2"/>
+ <circle style="fill:#e4e4e4" cx="17" cy="31" r="2"/>
+</svg>
