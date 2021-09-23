@@ -249,7 +249,7 @@ Here are a few recommendations for Xfce users.
 
 Go to `Edit` → `Preferences...`. Click on `Side Pane` tab. Under `Side Pane`, look for `Icon Size` and set to `Very Small`.
 
-![thunar-prefecences](https://i.imgur.com/Iu1TIEa.png)
+![thunar-preferences](https://i.imgur.com/Iu1TIEa.png)
 
 #### Notification Area
 
