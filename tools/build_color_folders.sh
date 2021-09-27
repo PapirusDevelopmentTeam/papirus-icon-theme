@@ -55,6 +55,7 @@ COLORS=(
 	[brown]="     #ae8e6c #957552 #3d3226 #e4e4e4"
 	[carmine]="   #a30002 #7a0002 #390001 #e4e4e4"
 	[cyan]="      #00bcd4 #0096aa #00424a #e4e4e4"
+	[darkcyan]="  #45abb7 #35818a #eaeaea #e4e4e4"
 	[deeporange]="#eb6637 #e95420 #522413 #e4e4e4"
 	[green]="     #87b158 #60924b #2f3e1f #e4e4e4"
 	[grey]="      #8e8e8e #727272 #323232 #e4e4e4"
