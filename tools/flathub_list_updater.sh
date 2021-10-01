@@ -26,8 +26,8 @@ env MARKDOWN=1 bash "$SCRIPT_DIR/missing_flathub_apps.sh" > "$missing_apps_list"
 
 if ! diff -w --brief "$unchecked_apps_list" "$missing_apps_list" >/dev/null; then
 	echo "Uptading issue #${API_ENDPOINT##*/} ..." >&2
-	jq --null-input --compact-output \
-		--arg body "$(cat "$missing_apps_list" "$completed_apps_list")" '{$body}' |
+	jq --compact-output --raw-input --slurp '. as $body | {$body}' \
+		"$missing_apps_list" "$completed_apps_list" |
 		curl \
 			--silent \
 			--output /dev/null \
