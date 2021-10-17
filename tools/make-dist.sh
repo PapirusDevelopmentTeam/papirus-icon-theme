@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
 
-export XZ_OPT="-3 -e -T0"
-
 set -euo pipefail
 
 PACKAGE_PREFIX="papirus-icon-theme"
 ARCHIVE_EXT="tar.gz"
+export XZ_OPT="-3 -e -T0"
 
 PROGNAME="$(basename "${BASH_SOURCE[0]}")"
 SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
