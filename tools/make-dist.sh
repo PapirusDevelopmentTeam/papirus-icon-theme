@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+export XZ_OPT="-3 -e -T0"
+
 set -euo pipefail
 
 PACKAGE_PREFIX="papirus-icon-theme"
