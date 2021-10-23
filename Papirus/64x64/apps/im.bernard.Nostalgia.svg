@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1.1">
+ <defs>
+  <linearGradient xlink:href="#linearGradient3379" id="linearGradient3019" x1="94" x2="106" y1="266" y2="266" gradientTransform="matrix(0.53645833,0,0,0.53645833,-98.433814,-90.098835)" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="linearGradient3379">
+   <stop style="stop-color:#c0bfbc" offset="0"/>
+   <stop style="stop-color:#77767b" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient3379" id="linearGradient3023" x1="82" x2="82" y1="264" y2="272" gradientTransform="matrix(0.53645833,0,0,0.40234375,-26.796748,-153.15256)" gradientUnits="userSpaceOnUse"/>
+  <linearGradient xlink:href="#linearGradient3379" id="linearGradient3021" x1="82" x2="82" y1="264" y2="272" gradientTransform="matrix(0.53645833,0,0,0.40234375,-32.161332,-153.15256)" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <rect style="opacity:0.2" width="45.231" height="34" x="-58" y="-49" rx="2.692" ry="2.656" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="45.231" height="34" x="-57" y="-49" rx="2.692" ry="2.656" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="44.998" height="52.024" x="-51.01" y="-58.01" rx="2.812" ry="2.501" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#e4e4e4" width="44.998" height="52.024" x="-49.99" y="-58.01" rx="2.812" ry="2.501" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8.4883164,4.99 C 7.1026772,4.99 5.988,6.2443279 5.988,7.8023944 V 8.825083 c 0,-1.5580662 1.1146772,-2.8123941 2.5003164,-2.8123941 H 55.511684 c 1.385639,0 2.500316,1.2543279 2.500316,2.8123941 V 7.8023944 C 58.012,6.2443279 56.897323,4.99 55.511684,4.99 Z"/>
+ <g transform="translate(1.0080009,0.2294998)">
+  <rect style="fill:#241f31" width="44.02" height="32.015" x="8.98" y="-40.78" rx="2.001" ry="2.001" transform="scale(1,-1)"/>
+  <circle style="fill:#c0bfbc" cx="-44.784" cy="49" r="3.001" transform="rotate(-90)"/>
+  <rect style="fill:#c0bfbc" width="2.501" height="3.001" x="9.98" y="-46.78" rx="1" ry="1" transform="scale(1,-1)"/>
+  <rect style="fill:#c0bfbc" width="2.501" height="3.001" x="14.98" y="-46.78" rx="1" ry="1" transform="scale(1,-1)"/>
+ </g>
+ <g transform="matrix(0,-0.62444042,0.74583333,0,8.0333333,45.095342)">
+  <path style="fill:#68c7ff" d="M 12.105263,8 C 11.49298,8 11,8.509714 11,9.142857 V 16 20 h 7.736842 8.842106 8.842105 8.842105 H 53 V 16 9.142857 C 53,8.509714 52.507019,8 51.894738,8 h -6.63158 -8.842105 -8.842105 -8.842106 z"/>
+  <path style="fill:#248afd" d="m 11,20 v 9 h 7.736842 8.842106 8.842105 8.842105 H 53 v -9 h -7.736842 -8.842105 -8.842105 -8.842106 z"/>
+  <path style="fill:#7767c0" d="m 11,29 v 9 h 7.736842 8.842106 8.842105 8.842105 H 53 v -9 h -7.736842 -8.842105 -8.842105 -8.842106 z"/>
+  <path style="fill:#248afd" d="M 11,38 V 45.714286 47 h 2.210525 5.526317 8.842106 8.842105 8.842105 5.526317 1.105263 H 53 V 45.714286 38 h -7.736842 -8.842105 -8.842105 -8.842106 z"/>
+  <path style="fill:#50beee" d="m 11,47 v 4.159663 3.630254 C 11,55.460303 11.49298,56 12.105262,56 H 51.894734 C 52.507018,56 53,55.460302 53,54.789917 V 51.15966 47 H 51.894734 12.105263 Z"/>
+ </g>
+</svg>
