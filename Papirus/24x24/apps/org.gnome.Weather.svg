@@ -1,1 +1,18 @@
-weather.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <g transform="matrix(1.6428571,0,0,1.6428571,-14.285714,-3.1964282)">
+  <path style="opacity:0.2" d="m 16,2.5 -2,2 h -3 v 3 l -2,2 2,2 v 3 h 3 l 2,2 2,-2 h 3 v -3 l 2,-2 -2,-2 v -3 h -3 z"/>
+  <path style="fill:#ff8a47" d="m 16,2 -2,2 h -3 v 3 l -2,2 2,2 v 3 h 3 l 2,2 2,-2 h 3 V 11 L 23,9 21,7 V 4 h -3 z"/>
+  <circle style="opacity:0.2" cx="16" cy="9.5" r="4"/>
+  <circle style="fill:#ffcc42" cx="16" cy="9" r="4"/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 16,2 -2,2 h -3 v 0.5 h 3 l 2,-2 2,2 h 3 V 4 H 18 Z M 11,7 9,9 9.25,9.25 11,7.5 Z M 21,7 V 7.5 L 22.75,9.25 23,9 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 16,5 A 4,4 0 0 0 12,9 4,4 0 0 0 12.01074,9.288086 4,4 0 0 1 16,5.5 4,4 0 0 1 19.989258,9.211914 4,4 0 0 0 20,9 4,4 0 0 0 16,5 Z"/>
+ </g>
+ <g transform="translate(3)">
+  <circle style="opacity:0.2" cx="11.5" cy="15.5" r="4"/>
+  <path style="opacity:0.2" d="M 11.5,10.5 A 4.5,4.5 0 0 0 7,15 4.5,4.5 0 0 0 7.0585938,15.697266 3,3 0 0 0 6,15.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 11 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 3,3 0 0 0 -1.060547,0.193359 A 4.5,4.5 0 0 0 16,15 4.5,4.5 0 0 0 11.5,10.5 Z"/>
+  <circle style="fill:#ffffff" cx="6" cy="18" r="3"/>
+  <circle style="fill:#ffffff" cx="11.5" cy="14.5" r="4.5"/>
+  <circle style="fill:#ffffff" cx="17" cy="18" r="3"/>
+  <rect style="fill:#ffffff" width="11" height="4" x="6" y="17"/>
+ </g>
+</svg>

@@ -1,1 +1,19 @@
-weather.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <g transform="matrix(1.45,0,0,1.45,-28.9,-3.525)">
+  <path style="opacity:0.2;fill:#ffffff" d="m 42,4 -6,6 h -8 v 2 h 8 l 6,-6 6,6 h 8 v -2 h -8 z m -14,14 -6,6 1,1 5,-5 z m 28,0 v 2 l 5,5 1,-1 z"/>
+  <path style="opacity:0.2;fill:#0d0d08" d="m 42,4.9999994 -6,5.9999996 h -8 v 8 L 22,25 l 6,6 v 8 h 8 l 6,6 6,-6 h 8 v -8 l 6,-6 -6,-6.000001 v -8 h -8 z"/>
+  <path style="fill:#ff8a47" d="m 42,4 -6,6 h -8 v 8 l -6,6 6,6 v 8 h 8 l 6,6 6,-6 h 8 v -8 l 6,-6 -6,-6 v -8 h -8 z"/>
+  <circle style="opacity:0.2;fill:#0d0d08" cx="42" cy="25" r="12"/>
+  <circle style="fill:#ffcc42" cx="42" cy="24" r="12"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 42,12 A 12,12 0 0 0 30,24 12,12 0 0 0 30.021484,24.404297 12,12 0 0 1 42,13 12,12 0 0 1 53.974609,24.5 12,12 0 0 0 54,24 12,12 0 0 0 42,12 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 42,4 -6,6 h -8 v 1 h 8 l 6,-6 6,6 h 8 V 10 H 48 Z M 28,18 22,24 22.5,24.5 28,19 Z m 28,0 v 1 L 61.5,24.5 62,24 Z"/>
+ </g>
+ <g transform="translate(8)">
+  <circle style="opacity:0.2" cx="30.571" cy="44.286" r="11.429"/>
+  <path style="opacity:0.2" d="M 30,31 A 12,12 0 0 0 18,43 12,12 0 0 0 18.017578,43.533203 9,9 0 0 0 15,43 9,9 0 0 0 6,52 9,9 0 0 0 15,61 H 45 A 9,9 0 0 0 54,52 9,9 0 0 0 45,43 9,9 0 0 0 41.972656,43.533203 12,12 0 0 0 42,43 12,12 0 0 0 30,31 Z"/>
+  <circle style="fill:#ffffff" cx="15" cy="51" r="9"/>
+  <circle style="fill:#ffffff" cx="30" cy="42" r="12"/>
+  <circle style="fill:#ffffff" cx="45" cy="51" r="9"/>
+  <rect style="fill:#ffffff" width="30" height="12" x="15" y="48"/>
+ </g>
+</svg>

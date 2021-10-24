@@ -1,1 +1,13 @@
-weather.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <g transform="matrix(1.3333333,0,0,1.3333333,-5.333333,2e-7)">
+  <path style="fill:#ff8a47" d="M 10,0 8,2 H 6 V 4 L 4,6 6,8 v 2 h 2 l 2,2 2,-2 h 2 V 8 L 16,6 14,4 V 2 h -2 z"/>
+  <circle style="fill:#ffcc42" cx="10" cy="6" r="3"/>
+ </g>
+ <g transform="matrix(0.76923077,0,0,0.76923077,4.2307692,2.6153846)">
+  <circle style="opacity:0.2" cx="7.619" cy="10.81" r="3.048"/>
+  <circle style="fill:#ffffff" cx="3.5" cy="12.5" r="2.5"/>
+  <circle style="fill:#ffffff" cx="7.5" cy="10.5" r="3.5"/>
+  <circle style="fill:#ffffff" cx="11.5" cy="12.5" r="2.5"/>
+  <rect style="fill:#ffffff" width="7.619" height="3.048" x="3.81" y="11.95"/>
+ </g>
+</svg>
