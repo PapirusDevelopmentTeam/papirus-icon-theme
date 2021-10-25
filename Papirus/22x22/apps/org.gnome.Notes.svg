@@ -1,1 +1,13 @@
-accessories-notes.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g transform="translate(-1,-1)">
+  <path style="opacity:0.2" d="m 3,2.5 c -0.554,0 -1,0.446 -1,1 v 18 c 0,0.554 0.446,1 1,1 h 11 l 8,-8 v -11 c 0,-0.554 -0.446,-1 -1,-1 z"/>
+  <path style="fill:#fecd38" d="M 3,2 C 2.446,2 2,2.446 2,3 v 18 c 0,0.554 0.446,1 1,1 h 11 l 8,-8 V 3 C 22,2.446 21.554,2 21,2 Z"/>
+  <path style="fill:#ffe69b" d="m 22,14 h -7 c -0.552,0 -1,0.448 -1,1 v 7 z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 3,2 C 2.446,2 2,2.446 2,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 3 C 22,2.446 21.554,2 21,2 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 15,14 c -0.552,0 -1,0.448 -1,1 v 0.5 c 0,-0.552 0.448,-1 1,-1 h 6.5 L 22,14 Z"/>
+  <g transform="matrix(1,0,0,0.73563218,-1.25,-0.58692529)">
+   <path style="opacity:0.15" d="m 9.625,11.833325 v 1.20835 H 6 V 7 h 14.5 v 4.833325 z"/>
+   <path style="opacity:0.15" d="M 15.666675,16.666675 V 17.875 H 6 V 14.25 h 14.5 v 2.416675 z"/>
+  </g>
+ </g>
+</svg>
