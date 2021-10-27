@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:.2" width="56" height="56" x="4" y="5" rx="4" ry="4"/>
+ <rect style="fill:#3f3f3f" width="56" height="56" x="4" y="4" rx="4" ry="4"/>
+ <path style="fill:#ffffff;opacity:.1" d="m8 4c-2.216 0-4 1.7839997-4 4v1c0-2.2160003 1.784-4 4-4h48c2.216 0 4 1.7839997 4 4v-1c0-2.2160003-1.784-4-4-4h-48z"/>
+ <g transform="translate(0,-4.4720006)">
+  <g>
+   <rect style="fill:#999999" width="16" height="4" x="40" y="48" ry="2"/>
+   <rect style="fill:#4bae4f" width="32" height="4" x="8" y="48" ry="2"/>
+   <ellipse style="opacity:0.2" cx="40" cy="50.949" rx="4" ry="3.995"/>
+   <circle style="fill:#fefdfe" cx="40" cy="50" r="4"/>
+  </g>
+  <g>
+   <rect style="fill:#999999" width="16" height="4" x="40" y="34" ry="2"/>
+   <rect style="fill:#ff90b8" width="32" height="4" x="8" y="34" ry="2"/>
+   <ellipse style="opacity:0.2" cx="40" cy="36.949" rx="4" ry="3.995"/>
+   <circle style="fill:#fefdfe" cx="40" cy="36" r="4"/>
+  </g>
+  <g>
+   <g transform="rotate(180,32,22)">
+    <rect style="fill:#999999" width="16" height="4" x="40" y="20" ry="2"/>
+    <rect style="fill:#df574d" width="32" height="4" x="8" y="20" ry="2"/>
+   </g>
+   <ellipse style="opacity:0.2" cx="24" cy="22.949" rx="4" ry="3.995"/>
+   <circle style="fill:#fefdfe" cx="24" cy="22" r="4"/>
+  </g>
+ </g>
+</svg>

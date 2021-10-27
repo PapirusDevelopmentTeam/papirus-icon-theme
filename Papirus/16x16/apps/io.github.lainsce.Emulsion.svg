@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#3f3f3f" width="16" height="16" rx="1" ry="1"/>
+ <g transform="translate(0,-0.125)">
+  <g>
+   <rect style="fill:#999999" width="4.5" height=".75" x="9.5" y="11.75" rx=".346" ry=".348"/>
+   <rect style="fill:#4bae4f" width="7.5" height=".75" x="2" y="11.75" rx=".357" ry=".375"/>
+   <circle style="fill:#ffffff" cx="9.875" cy="12.125" r="1.125"/>
+  </g>
+  <g>
+   <rect style="fill:#999999" width="4.5" height=".75" x="9.5" y="7.75" rx=".346" ry=".348"/>
+   <rect style="fill:#ff90b8" width="7.5" height=".75" x="2" y="7.75" rx=".357" ry=".375"/>
+   <circle style="fill:#ffffff" cx="9.875" cy="8.125" r="1.125"/>
+  </g>
+  <g>
+   <g transform="rotate(180,8,4.1249843)">
+    <rect style="fill:#999999" width="4.5" height=".75" x="9.5" y="3.75" rx=".346" ry=".348"/>
+    <rect style="fill:#df574d" width="7.5" height=".75" x="2" y="3.75" rx=".357" ry=".375"/>
+   </g>
+   <circle style="fill:#ffffff" cx="5.875" cy="4.125" r="1.125"/>
+  </g>
+ </g>
+</svg>

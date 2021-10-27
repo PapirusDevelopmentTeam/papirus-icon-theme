@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <rect style="opacity:.2" width="20" height="20" x="1" y="1.5" rx="1" ry="1"/>
+ <rect style="fill:#3f3f3f" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path style="fill:#ffffff;opacity:.1" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <g transform="translate(0,-0.75)">
+  <g>
+   <rect fill="#999999" width="6" height="1" x="13" y="17" rx=".462" ry=".464"/>
+   <rect fill="#4bae4f" width="10" height="1" x="3" y="17" rx=".476" ry=".5"/>
+   <circle opacity=".2" cx="13.5" cy="18" r="1.5"/>
+   <circle fill="#ffffff" cx="13.5" cy="17.5" r="1.5"/>
+  </g>
+  <g>
+   <rect fill="#999999" width="6" height="1" x="13" y="11" rx=".462" ry=".464"/>
+   <rect style="fill:#ff90b8" width="10" height="1" x="3" y="11" rx=".476" ry=".5"/>
+   <circle opacity=".2" cx="13.5" cy="12" r="1.5"/>
+   <circle fill="#ffffff" cx="13.5" cy="11.5" r="1.5"/>
+  </g>
+  <g>
+   <g transform="rotate(180,11,5.5)">
+    <rect fill="#999999" width="6" height="1" x="13" y="5" rx=".462" ry=".464"/>
+    <rect style="fill:#df574d" width="10" height="1" x="3" y="5" rx=".476" ry=".5"/>
+   </g>
+   <circle opacity=".2" cx="9.1" cy="6" r="1.5"/>
+   <circle fill="#ffffff" cx="9.1" cy="5.5" r="1.5"/>
+  </g>
+ </g>
+</svg>

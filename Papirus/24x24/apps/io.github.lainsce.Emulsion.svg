@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <g transform="translate(1,1)">
+  <rect style="opacity:0.2" width="20" height="20" x="1" y="1.5" rx="1" ry="1"/>
+  <rect style="fill:#3f3f3f" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
+  <g transform="translate(0,-0.75)">
+   <g>
+    <rect style="fill:#999999" width="6" height="1" x="13" y="17" rx=".462" ry=".464"/>
+    <rect style="fill:#4bae4f" width="10" height="1" x="3" y="17" rx=".476" ry=".5"/>
+    <circle style="opacity:0.2" cx="13.5" cy="18" r="1.5"/>
+    <circle style="fill:#ffffff" cx="13.5" cy="17.5" r="1.5"/>
+   </g>
+   <g>
+    <rect style="fill:#999999" width="6" height="1" x="13" y="11" rx=".462" ry=".464"/>
+    <rect style="fill:#ff90b8" width="10" height="1" x="3" y="11" rx=".476" ry=".5"/>
+    <circle style="opacity:0.2" cx="13.5" cy="12" r="1.5"/>
+    <circle style="fill:#ffffff" cx="13.5" cy="11.5" r="1.5"/>
+   </g>
+   <g>
+    <g transform="rotate(180,11,5.5)">
+     <rect style="fill:#999999" width="6" height="1" x="13" y="5" rx=".462" ry=".464"/>
+     <rect style="fill:#df574d" width="10" height="1" x="3" y="5" rx=".476" ry=".5"/>
+    </g>
+    <circle style="opacity:0.2" cx="9.4" cy="6" r="1.5"/>
+    <circle style="fill:#ffffff" cx="9.4" cy="5.5" r="1.5"/>
+   </g>
+  </g>
+ </g>
+</svg>

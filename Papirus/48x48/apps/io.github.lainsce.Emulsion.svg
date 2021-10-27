@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:.2" width="40" height="40" x="4" y="5" rx="3" ry="3"/>
+ <rect style="fill:#3f3f3f" width="40" height="40" x="4" y="4" rx="3" ry="3"/>
+ <path style="fill:#ffffff;opacity:.1" d="m7 4c-1.662 0-3 1.3379999-3 3v1c0-1.6620001 1.338-3 3-3h34c1.662 0 3 1.3379999 3 3v-1c0-1.6620001-1.338-3-3-3h-34z"/>
+ <g transform="translate(0,-2.7000008)">
+  <g>
+   <rect fill="#999999" width="13" height="2" x="28" y="37" rx="1" ry=".928"/>
+   <rect fill="#4bae4f" width="21" height="2" x="7" y="37" rx="1" ry="1"/>
+   <circle opacity=".2" cx="29" cy="38.9" r="3"/>
+   <circle style="fill:#ffffff" cx="29" cy="37.9" r="3"/>
+  </g>
+  <g transform="translate(0,-4)">
+   <rect fill="#999999" width="13" height="2" x="28" y="29" rx="1" ry=".928"/>
+   <rect style="fill:#ff90b8" width="21" height="2" x="7" y="29" rx="1" ry="1"/>
+   <circle opacity=".2" cx="29" cy="31" r="3"/>
+   <circle style="fill:#ffffff" cx="29" cy="30" r="3"/>
+  </g>
+  <g transform="translate(0,-4)">
+   <g transform="rotate(180,24,18)">
+    <rect fill="#999999" width="13" height="2" x="28" y="17" rx="1" ry=".928"/>
+    <rect style="fill:#df574d" width="21" height="2" x="7" y="17" rx="1" ry="1"/>
+   </g>
+   <circle opacity=".2" cx="19" cy="19" r="3"/>
+   <circle style="fill:#ffffff" cx="19" cy="18" r="3"/>
+  </g>
+ </g>
+</svg>
