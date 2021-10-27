@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.20019" width="28" height="28.293" x="2" y="2.71" rx="1.4" ry="1.415"/>
+ <rect style="fill:#e4e4e4" width="28" height="28.293" x="2" y="2" rx="1.4" ry="1.415"/>
+ <path fill="#ffffff" style="opacity:0.2" d="M 3.4,2 C 2.6244,2 2,2.6309269 2,3.4146342 V 4.1219511 C 2,3.338244 2.6244,2.7073171 3.4,2.7073171 h 25.2 c 0.7756,0 1.4,0.6309269 1.4,1.414634 V 3.4146342 C 30,2.6309269 29.3756,2 28.6,2 Z"/>
+ <g transform="matrix(0.2173913,0,0,0.2173913,2.0869568,-34.874998)">
+  <rect style="fill:#248afd" width="92" height="26" x="18" y="-278.05" rx="5.345" ry="5.345" transform="scale(1,-1)"/>
+  <rect fill="#ffffff" stroke="#deddda" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="stroke:#5d5d5d" width="90" height="24" x="19" y="-245" rx="5.345" ry="5.345" transform="scale(1,-1)"/>
+  <rect fill="#ffffff" stroke="#deddda" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="stroke:#5d5d5d" width="90" height="24" x="19" y="-215" rx="5.345" ry="5.345" transform="scale(1,-1)"/>
+  <path fill="#ffffff" stroke="#000000" stroke-linecap="square" stroke-linejoin="round" stroke-width="2" d="m 99,228.948 v 8.23 M 103.167,233 h -8.334 m -11.5,0 H 75"/>
+  <path fill="#ffffff" stroke="#deddda" stroke-linecap="square" stroke-linejoin="round" stroke-width="2" style="stroke:#5d5d5d" d="M 89,221.125 V 245 M 69,221.125 V 245"/>
+  <path fill="none" stroke="#000000" stroke-linecap="square" stroke-linejoin="round" stroke-width="2" d="m 95.106,201.846 3.8,3.8 3.934,-3.933"/>
+  <path style="fill:#e4e4e4" d="m 26.02,228 h 36.583 v 10 H 26.02 Z M 26,197.974 H 85.979 V 208 H 26 Z"/>
+  <path style="fill:#50beee" d="m 44,260 h 36 v 8 H 44 Z"/>
+ </g>
+</svg>
