@@ -4,10 +4,12 @@
  <path style="fill:#4f4f4f" d="M 2.5,1 H 11 V 21 H 2.5 C 1.669,21 1,20.331 1,19.5 V 2.5 C 1,1.669 1.669,1 2.5,1 Z"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 11,11 V 21 H 2.5 C 1.669,21 1,20.331 1,19.5 V 11 Z"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 2.5,1 C 1.669,1 1,1.669 1,2.5 V 3 C 1,2.169 1.669,1.5 2.5,1.5 h 17 C 20.331,1.5 21,2.169 21,3 V 2.5 C 21,1.669 20.331,1 19.5,1 Z"/>
- <path style="font-variation-settings:normal;opacity:0.2;stop-color:#000000" d="m 14,14.5 v 1 h 4 v -1 z m 0,2 v 1 h 4 v -1 z"/>
- <path style="fill:#ffffff" d="m 14,14 v 1 h 4 v -1 z m 0,2 v 1 h 4 v -1 z"/>
- <path style="opacity:0.2" d="M 5.5,14.5 V 16 H 4 v 1 h 1.5 v 1.5 h 1 V 17 H 8 V 16 H 6.5 v -1.5 z"/>
- <path style="fill:#ffffff" d="m 5.5,14 v 1.5 H 4 v 1 H 5.5 V 18 h 1 V 16.5 H 8 v -1 H 6.5 V 14 Z"/>
- <path style="opacity:0.2" d="M 8,6 H 4 v 1 h 4 z"/>
- <path style="fill:#ffffff" d="M 8,5.5 H 4 v 1 h 4 z"/>
+ <path style="opacity:0.1" d="m 14,16.5 v 1 h 5 v -1 z"/>
+ <path style="opacity:0.1" d="m 14,13.5 v 1 h 5 v -1 z"/>
+ <path style="opacity:0.1" d="m 6,13.5 v 2 H 4 v 1 h 2 v 2 h 1 v -2 h 2 v -1 H 7 v -2 z"/>
+ <path style="fill:#ffffff" d="m 14,16 v 1 h 5 v -1 z"/>
+ <path style="fill:#ffffff" d="m 14,13 v 1 h 5 v -1 z"/>
+ <path style="opacity:0.1" d="m 4,5.5 v 1 h 5 v -1 z"/>
+ <path style="fill:#ffffff" d="M 4,5 V 6 H 9 V 5 Z"/>
+ <path style="fill:#ffffff" d="m 6,13 v 2 H 4 v 1 h 2 v 2 H 7 V 16 H 9 V 15 H 7 v -2 z"/>
 </svg>
