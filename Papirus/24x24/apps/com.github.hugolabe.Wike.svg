@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <path style="fill:#e4e4e4" d="m 21,21 c 0.554,0 1,-0.446 1,-1 V 7 H 2 v 13 c 0,0.554 0.446,1 1,1 z"/>
- <path fill="#253951" d="m 21,3 c 0.554,0 1,0.446 1,1 V 7 H 2 V 4 C 2,3.446 2.446,3 3,3 Z"/>
+ <path style="fill:#3f3f3f" d="m 21,3 c 0.554,0 1,0.446 1,1 V 7 H 2 V 4 C 2,3.446 2.446,3 3,3 Z"/>
  <path fill="#fff" opacity=".1" d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
  <circle opacity=".2" cx="-19" cy="-5.5" r="1" transform="scale(-1)"/>
  <circle opacity=".72" style="fill:#e97e10" cx="-19" cy="-5" r="1" transform="scale(-1)"/>
