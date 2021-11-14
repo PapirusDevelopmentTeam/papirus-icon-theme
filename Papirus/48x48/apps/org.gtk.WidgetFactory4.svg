@@ -1,15 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
- <rect style="fill:#e4e4e4" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path fill="#ffffff" style="opacity:0.2" d="M 6,4 C 4.892,4 4,4.8920001 4,6 V 7 C 4,5.892 4.892,5 6,5 h 36 c 1.108,0 2,0.892 2,2 V 6 C 44,4.892 43.108,4 42,4 Z"/>
- <rect style="opacity:0.2;stop-color:#000000" width="28" height="8" x="10" y="-39" rx="1.627" ry="1.645" transform="scale(1,-1)"/>
- <rect style="fill:#248afd" width="28" height="8" x="10" y="-38" rx="1.627" ry="1.645" transform="scale(1,-1)"/>
- <path style="fill:#ffffff;font-variation-settings:normal;opacity:0.2;stop-color:#000000" d="M 11.626953 30 C 10.72574 30 10 30.733414 10 31.644531 L 10 32.644531 C 10 31.733414 10.72574 31 11.626953 31 L 36.373047 31 C 37.27426 31 38 31.733414 38 32.644531 L 38 31.644531 C 38 30.733414 37.27426 30 36.373047 30 L 11.626953 30 z"/>
- <path style="fill:#ffffff" d="M 11.662889,27 H 36.337111 C 37.258351,27 38,26.304705 38,25.441041 V 21.558958 C 38,20.695295 37.258351,20 36.337111,20 H 11.662889 C 10.741649,20 10,20.695295 10,21.558958 v 3.882083 C 10,26.304705 10.741649,27 11.662889,27 Z"/>
- <path style="opacity:0.2;stop-color:#000000" d="M 11.662109 20 C 10.740869 20 10 20.694931 10 21.558594 L 10 22.558594 C 10 21.694931 10.740869 21 11.662109 21 L 36.337891 21 C 37.259131 21 38 21.694931 38 22.558594 L 38 21.558594 C 38 20.694931 37.259131 20 36.337891 20 L 11.662109 20 z"/>
- <path style="fill:#ffffff" d="M 11.662889,17 H 36.337111 C 37.258352,17 38,16.304705 38,15.441042 V 11.558957 C 38,10.695295 37.258352,10 36.337111,10 H 11.662889 C 10.741649,10 10,10.695295 10,11.558957 v 3.882085 C 10,16.304705 10.741649,17 11.662889,17 Z"/>
- <path style="opacity:0.2;stop-color:#000000" d="M 11.662109,10 C 10.740869,10 10,10.694931 10,11.558594 v 1 C 10,11.694931 10.740869,11 11.662109,11 H 36.337891 C 37.259131,11 38,11.694931 38,12.558594 v -1 C 38,10.694931 37.259131,10 36.337891,10 Z"/>
- <path style="fill:#cccccc" d="M 12.00002,13 H 31 v 2.5 H 12 Z"/>
- <path style="fill:#cccccc" d="m 12,23 h 11 v 2.5 H 12 Z"/>
- <path style="fill:#50beee" d="m 18,33 h 12 v 2.5 H 18 Z"/>
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="3.2" ry="3.2"/>
+ <rect style="fill:#cbcbcb" width="40" height="40" x="4" y="4" rx="3.2" ry="3.2"/>
+ <path style="opacity:0.2" d="M 9,8 C 7.892,8 7,8.892 7,10 v 6 c 0,1.108 0.892,2 2,2 h 30 c 1.108,0 2,-0.892 2,-2 V 10 C 41,8.892 40.108,8 39,8 Z m 0,12 c -1.108,0 -2,0.892 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 30 c 1.108,0 2,-0.892 2,-2 v -6 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+ <rect fill="#ffffff" stroke="#deddda" stroke-linecap="round" stroke-linejoin="round" stroke-width=".793" width="34" height="10" x="7" y="-17" rx="2" ry="2" transform="scale(1,-1)"/>
+ <path style="opacity:0.2" d="m 10,10 h 21 v 4 H 10 Z"/>
+ <rect fill="#ffffff" stroke="#deddda" stroke-linecap="round" stroke-linejoin="round" stroke-width=".793" width="34" height="10" x="7" y="-29" rx="2" ry="2" transform="scale(1,-1)"/>
+ <path style="opacity:0.07" transform="scale(1,-1)" d="m 24,-29 h 15 c 1.108,0 2,0.892 2,2 v 5.999999 c 0,1.108 -0.892,2 -2,2 L 24,-19 Z"/>
+ <path style="opacity:0.2" d="m 10,22 h 13 v 4 H 10 Z"/>
+ <rect style="opacity:0.1" width="34" height="10" x="7" y="-42" rx="2" ry="2" transform="scale(1,-1)"/>
+ <rect fill="#3584e4" width="34" height="10" x="7" y="-41" rx="2" ry="2" transform="scale(1,-1)"/>
+ <path style="fill:#8ccbfd" d="m 17,34 h 14 v 4 H 17 Z"/>
+ <path style="fill:#5f5f5f" d="M 31,25 V 23 H 30.409692 25.590308 25 v 2 h 0.590308 4.819384 z"/>
+ <path style="fill:#5f5f5f" d="M 37,21 H 35 V 21.590308 26.409692 27 h 2 v -0.590308 -4.819384 z"/>
+ <path style="fill:#5f5f5f" d="M 39,25 V 23 H 38.409692 33.590308 33 v 2 h 0.590308 4.819384 z"/>
+ <path style="fill:#5f5f5f" transform="matrix(1,0,0,0.76980037,1.1224975,3.5264414)" d="m 37.877502,8.4093991 -1.5,2.5980759 -1.5,2.598076 -1.5,-2.598076 -1.5,-2.5980758 3,0 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 7.1992188 4 C 5.4264187 4 4 5.4264187 4 7.1992188 L 4 8.1992188 C 4 6.4264187 5.4264187 5 7.1992188 5 L 40.800781 5 C 42.573581 5 44 6.4264187 44 8.1992188 L 44 7.1992188 C 44 5.4264187 42.573581 4 40.800781 4 L 7.1992188 4 z"/>
 </svg>
