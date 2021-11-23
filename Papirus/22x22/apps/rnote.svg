@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect fill="#4f4f4f" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path fill="#fff" opacity="0.1" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <path opacity="0.2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+ <rect style="fill:#e4e4e4" width="16" height="16" x="3" y="3" rx=".857" ry=".857"/>
+ <path style="opacity:0.1" d="m 4.625,4.5 h 3.75 C 8.72125,4.5 9,4.8345 9,5.25 v 5.5 C 9,11.1655 8.72125,11.5 8.375,11.5 H 4.625 C 4.27875,11.5 4,11.1655 4,10.75 V 5.25 C 4,4.8345 4.27875,4.5 4.625,4.5 Z"/>
+ <path style="fill:#9e9e9e" d="m 13,4 v 1 h 5 V 4 Z"/>
+ <path style="fill:#9e9e9e" d="m 4,16 v 1 h 5 v -1 z"/>
+ <path style="fill:#9e9e9e" d="m 13,7 v 1 h 5 V 7 Z"/>
+ <path style="fill:#9e9e9e" d="m 4,13 v 1 h 5 v -1 z"/>
+ <path style="fill:#9e9e9e" d="m 13,10 v 1 h 5 v -1 z"/>
+ <path style="fill:#9e9e9e" d="m 4.625,4 h 3.75 C 8.72125,4 9,4.3345 9,4.75 v 5.5 C 9,10.6655 8.72125,11 8.375,11 H 4.625 C 4.27875,11 4,10.6655 4,10.25 V 4.75 C 4,4.3345 4.27875,4 4.625,4 Z"/>
+ <path style="fill:#4d4d4d" d="m 10,4 h 2 v 5 l -1,6 h -1 z"/>
+ <path style="fill:#4d4d4d" d="m 10,16 h 1 l 1,2 h -2 z"/>
+</svg>
