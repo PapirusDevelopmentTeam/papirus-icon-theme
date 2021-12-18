@@ -4,7 +4,5 @@
    .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <g transform="translate(4,4)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6,1 V 7 H 3.5 L 7,12.055 V 9 C 7,8 8,8 8,8 H 11.809 L 12.5,7 H 10 V 1 Z M 1,14 V 16 H 8 C 8,16 7,16 7,15 V 14 Z M 9,9 C 9,9 8,9 8,10 V 15 C 8,16 9,16 9,16 H 15 C 15,16 16,16 16,15 V 10 C 16,9 15,9 15,9 Z M 10,10 H 13 V 11 H 12 V 14 H 13 V 15 H 10 V 14 H 11 V 11 H 10 Z"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 6,5 C 6,5 5,5 5,6.0000001 V 15 18 c 0,1 1,1 1,1 H 9 V 17 H 7 V 7.0097657 h 4 V 5 Z m 6.714844,0 C 12.31913,5 12,5.3191294 12,5.7148439 V 9.285156 C 12,9.6808709 12.319129,10 12.714844,10 h 3.570312 C 16.68087,10 17,9.6808709 17,9.285156 V 5.7148439 C 17,5.3191296 16.68087,5 16.285156,5 Z M 13.5,5.9863282 h 2 V 6.7070313 H 15 v 1.5585935 h 0.5 v 0.7207031 h -2 V 8.2656248 H 14 V 6.7070313 H 13.5 Z M 10.642578,11 C 10.289007,11 10,11.289007 10,11.642578 v 7.714844 C 10,19.710994 10.289007,20 10.642578,20 h 7.714844 C 18.710993,20 19,19.710994 19,19.357422 V 12.285156 L 17.714844,11 H 17 v 3 H 12 V 11 Z M 15,11 v 2 h 1 v -2 z m -3,5 h 3 v 1 h -3 z m 0,2 h 4 v 1 h -4 z"/>
 </svg>
