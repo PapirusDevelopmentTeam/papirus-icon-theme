@@ -1,62 +1,6 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="filter6445-9" x="-.25" y="-.12499992" width="1.5" height="1.2499998" style="color-interpolation-filters:sRGB">
-   <feComposite id="feComposite6431-1" in2="SourceGraphic" k1="10" k2="10" operator="arithmetic" result="composite1"/>
-   <feColorMatrix id="feColorMatrix6433-2" in="composite1" result="colormatrix1" type="saturate" values="0"/>
-   <feFlood id="feFlood6435-7" flood-color="rgb(194,53,42)" result="flood1"/>
-   <feBlend id="feBlend6437-0" in="flood1" in2="colormatrix1" result="blend1"/>
-   <feBlend id="feBlend6439-9" in2="blend1" result="blend2"/>
-   <feColorMatrix id="feColorMatrix6441-3" in="blend2" result="colormatrix2" type="saturate" values="1"/>
-   <feComposite id="feComposite6443-6" in="colormatrix2" in2="SourceGraphic" operator="in" result="fbSourceGraphic"/>
-   <feColorMatrix id="feColorMatrix600" in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-   <feComposite id="feComposite602" in="fbSourceGraphic" in2="fbSourceGraphic" k1="10" k2="10" operator="arithmetic" result="composite1"/>
-   <feColorMatrix id="feColorMatrix604" in="composite1" result="colormatrix1" type="saturate" values="0"/>
-   <feFlood id="feFlood606" flood-color="rgb(194,53,42)" flood-opacity=".756863" result="flood1"/>
-   <feBlend id="feBlend608" in="flood1" in2="colormatrix1" result="blend1"/>
-   <feBlend id="feBlend610" in2="blend1" result="blend2"/>
-   <feColorMatrix id="feColorMatrix612" in="blend2" result="colormatrix2" type="saturate" values="1"/>
-   <feComposite id="feComposite614" in="colormatrix2" in2="fbSourceGraphic" operator="in" result="composite2"/>
-  </filter>
-  <filter id="filter6461-3" x="-.24961445" y="-.12519337" width="1.4992289" height="1.2503867" style="color-interpolation-filters:sRGB">
-   <feComposite id="feComposite6447-6" in2="SourceGraphic" k1="10" k2="10" operator="arithmetic" result="composite1"/>
-   <feColorMatrix id="feColorMatrix6449-7" in="composite1" result="colormatrix1" type="saturate" values="0"/>
-   <feFlood id="feFlood6451-5" flood-color="rgb(194,53,42)" result="flood1"/>
-   <feBlend id="feBlend6453-3" in="flood1" in2="colormatrix1" result="blend1"/>
-   <feBlend id="feBlend6455-5" in2="blend1" result="blend2"/>
-   <feColorMatrix id="feColorMatrix6457-6" in="blend2" result="colormatrix2" type="saturate" values="1"/>
-   <feComposite id="feComposite6459-2" in="colormatrix2" in2="SourceGraphic" operator="in" result="fbSourceGraphic"/>
-   <feColorMatrix id="feColorMatrix584" in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-   <feComposite id="feComposite586" in="fbSourceGraphic" in2="fbSourceGraphic" k1="10" k2="10" operator="arithmetic" result="composite1"/>
-   <feColorMatrix id="feColorMatrix588" in="composite1" result="colormatrix1" type="saturate" values="0"/>
-   <feFlood id="feFlood590" flood-color="rgb(194,53,42)" flood-opacity=".756863" result="flood1"/>
-   <feBlend id="feBlend592" in="flood1" in2="colormatrix1" result="blend1"/>
-   <feBlend id="feBlend594" in2="blend1" result="blend2"/>
-   <feColorMatrix id="feColorMatrix596" in="blend2" result="colormatrix2" type="saturate" values="1"/>
-   <feComposite id="feComposite598" in="colormatrix2" in2="fbSourceGraphic" operator="in" result="composite2"/>
-  </filter>
-  <filter id="filter6445-2" x="-.25" y="-.12499992" width="1.5" height="1.2499998" style="color-interpolation-filters:sRGB">
-   <feComposite id="feComposite6431-6" in2="SourceGraphic" k1="10" k2="10" operator="arithmetic" result="composite1"/>
-   <feColorMatrix id="feColorMatrix6433-1" in="composite1" result="colormatrix1" type="saturate" values="0"/>
-   <feFlood id="feFlood6435-8" flood-color="rgb(194,53,42)" result="flood1"/>
-   <feBlend id="feBlend6437-7" in="flood1" in2="colormatrix1" result="blend1"/>
-   <feBlend id="feBlend6439-92" in2="blend1" result="blend2"/>
-   <feColorMatrix id="feColorMatrix6441-0" in="blend2" result="colormatrix2" type="saturate" values="1"/>
-   <feComposite id="feComposite6443-2" in="colormatrix2" in2="SourceGraphic" operator="in" result="composite2"/>
-  </filter>
-  <filter id="filter6461-37" x="-.24961445" y="-.12519337" width="1.4992289" height="1.2503867" style="color-interpolation-filters:sRGB">
-   <feComposite id="feComposite6447-5" in2="SourceGraphic" k1="10" k2="10" operator="arithmetic" result="composite1"/>
-   <feColorMatrix id="feColorMatrix6449-9" in="composite1" result="colormatrix1" type="saturate" values="0"/>
-   <feFlood id="feFlood6451-2" flood-color="rgb(194,53,42)" result="flood1"/>
-   <feBlend id="feBlend6453-2" in="flood1" in2="colormatrix1" result="blend1"/>
-   <feBlend id="feBlend6455-8" in2="blend1" result="blend2"/>
-   <feColorMatrix id="feColorMatrix6457-9" in="blend2" result="colormatrix2" type="saturate" values="1"/>
-   <feComposite id="feComposite6459-7" in="colormatrix2" in2="SourceGraphic" operator="in" result="composite2"/>
-  </filter>
- </defs>
- <rect x=".0085943313" y="-.012665632" width="16.041388" height="16.035904" ry=".95942646" style="fill:#c2352a"/>
- <rect x="1.070855" y=".86365163" width="14.079325" height="14.343804" ry=".78003579" style="fill-opacity:.702347;fill:#28170b"/>
- <path transform="matrix(.98345218 0 0 .98345218 -5.7543996 -5.4411035)" d="m10.558117 13.853359h3.07342m-3.07342 3.073422v-6.146844h3.07342" style="fill:none;filter:url(#filter6445-9);stroke-linecap:round;stroke-linejoin:round;stroke-width:1.53671;stroke:#dfdfdf"/>
- <path transform="matrix(.98345218 0 0 .98345218 -5.7543996 -5.4411035)" d="m15.407117 10.867129v6.01178h3.01519" style="fill:none;filter:url(#filter6461-3);stroke-linecap:round;stroke-linejoin:round;stroke-width:1.50527;stroke:#dfdfdf"/>
- <path transform="matrix(.98345218 0 0 .98345218 -5.6122975 -5.6400464)" d="m10.558117 13.853359h3.07342m-3.07342 3.073422v-6.146844h3.07342" style="fill:none;filter:url(#filter6445-2);stroke-linecap:round;stroke-linejoin:round;stroke-width:1.53671;stroke:#dfdfdf"/>
- <path transform="matrix(.98345218 0 0 .98345218 -5.6122975 -5.6400464)" d="m15.407117 10.867129v6.01178h3.01519" style="fill:none;filter:url(#filter6461-37);stroke-linecap:round;stroke-linejoin:round;stroke-width:1.50527;stroke:#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#e53935" width="16" height="16" x="0" y="0" ry="1.2"/>
+ <rect style="fill:#4b222b" width="12" height="12" x="2" y="2"/>
+ <path style="fill:#e53935" d="M 5,5 H 9 V 6 H 6 V 8 H 8.5 V 9 H 6 v 3 H 5 V 5"/>
+ <path style="fill:#e53935" d="m 10,4.0000004 h 1 V 12 H 10 V 4.0000004"/>
 </svg>
