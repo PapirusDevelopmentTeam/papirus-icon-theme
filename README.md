@@ -67,7 +67,8 @@ Debian users also can install Papirus from our [PPA](https://launchpad.net/~papi
 sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu focal main' > /etc/apt/sources.list.d/papirus-ppa.list"
 
 sudo apt-get install dirmngr
-sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
+sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/papirus.gpg --keyserver keyserver.ubuntu.com --recv E58A9D36647CAE7F
+sudo chmod 644 /etc/apt/trusted.gpg.d/papirus.gpg
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
