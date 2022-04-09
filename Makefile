@@ -11,17 +11,17 @@ ICON_THEMES := $(filter-out $(IGNORE), $(ICON_THEMES))
 all:
 
 install:
-	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
-	cp -R $(ICON_THEMES) $(DESTDIR)$(PREFIX)/share/icons
+	mkdir -p "$(DESTDIR)$(PREFIX)/share/icons"
+	cp -R $(ICON_THEMES) "$(DESTDIR)$(PREFIX)/share/icons"
 
 # skip building icon caches when packaging
 	$(if $(DESTDIR),,$(MAKE) $(ICON_THEMES))
 
 $(ICON_THEMES):
-	-gtk-update-icon-cache -q $(DESTDIR)$(PREFIX)/share/icons/$@
+	-gtk-update-icon-cache -q "$(DESTDIR)$(PREFIX)/share/icons/$@"
 
 uninstall:
-	-rm -rf $(foreach icon_theme,$(ICON_THEMES),$(DESTDIR)$(PREFIX)/share/icons/$(icon_theme))
+	-rm -rf $(foreach icon_theme,$(ICON_THEMES),"$(DESTDIR)$(PREFIX)/share/icons/$(icon_theme)")
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
@@ -53,7 +53,7 @@ test: test_short
 test-all: test_short test_long
 
 .PHONY: test_short
-test_short: test_renderer test_svg_elems test_symlinks test_filenames
+test_short: test_renderer test_optimization test_svg_elems test_symlinks test_filenames
 
 .PHONY: test_long
 test_long: test_xml_struct
@@ -64,6 +64,13 @@ test_renderer:
 	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
 		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
+		$(ICON_THEMES)
+
+.PHONY: test_optimization
+test_optimization:
+	# >>> Searching for unoptimized icons
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
+		-e '^<\?xml' \
 		$(ICON_THEMES)
 
 .PHONY: test_svg_elems

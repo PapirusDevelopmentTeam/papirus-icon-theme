@@ -41,6 +41,7 @@ IGNORED_APPS=(
 	org.freedesktop.Platform.VulkanInfo
 	org.genivi.DLTViewer
 	org.godotengine.godot.BaseApp
+	org.gnome.NautilusPreviewer
 	org.mosh.mosh
 	org.mozilla.firefox.BaseApp
 	org.nuspell.Nuspell
@@ -77,8 +78,10 @@ while read -r app_id; do
 	[[ "${IGNORED_APPS[*]//$app_id/}" == "${IGNORED_APPS[*]}" ]] || continue
 	if [ -n "${MARKDOWN:-}" ]; then
 		# shellcheck disable=SC2016
-		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd>\n' "$app_id" \
-			"https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id"
+		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd> <kbd>[Google](%s)</kbd>\n' \
+			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id" \
+			"https://google.com/search?q=$app_id+source+code"
+
 	else
 		printf '%s\n' "$app_id"
 	fi

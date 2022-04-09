@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <circle style="opacity:0.2" cx="32" cy="33" r="28"/>
+ <circle style="fill:#248afd" cx="32" cy="32" r="28"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0215,32.586 28,28 0 0 1 32,5 28,28 0 0 1 59.979,32.414 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z"/>
+ <path style="opacity:0.2" d="M 32,27 V 40 L 43.846249,46.372091 31.923125,53 20,46.372091 V 33.116279 Z m 0,-14 12,7 V 33 L 32,27 Z"/>
+ <path fill="#ffffff" d="M 32,26 V 39 L 43.846249,45.372091 31.923125,52 20,45.372091 V 32.116279 Z m 0,-14 12,7 V 32 L 32,26 Z"/>
+</svg>

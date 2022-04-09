@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="fill:#e4e4e4" width="28" height="35" x="10" y="4" rx="2" ry="2"/>
+ <rect style="fill:#3dbe43" width="40" height="28" x="4" y="16" rx="2" ry="2"/>
+ <path fill="#ffffff" opacity=".1" d="m 6,16 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+ <path opacity=".2" d="m 4,42 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 C 4.892,44 4,43.108 4,42 Z"/>
+ <circle style="opacity:0.2" cx="9" cy="25" r="2"/>
+ <circle style="opacity:0.2" cx="15" cy="25" r="2"/>
+ <circle style="opacity:0.2" cx="21" cy="25" r="2"/>
+ <circle style="opacity:0.2" cx="27" cy="25" r="2"/>
+ <circle style="opacity:0.2" cx="33" cy="25" r="2"/>
+ <circle style="opacity:0.2" cx="39" cy="25" r="2"/>
+ <circle style="opacity:0.2" cx="12" cy="33" r="2"/>
+ <circle style="opacity:0.2" cx="18" cy="33" r="2"/>
+ <circle style="opacity:0.2" cx="24" cy="33" r="2"/>
+ <circle style="opacity:0.2" cx="30" cy="33" r="2"/>
+ <circle style="opacity:0.2" cx="36" cy="33" r="2"/>
+ <rect style="opacity:0.2" width="30" height="4" x="9" y="38" rx="1" ry="1"/>
+ <circle style="fill:#ffffff" cx="9" cy="24" r="2"/>
+ <circle style="fill:#ffffff" cx="15" cy="24" r="2"/>
+ <circle style="fill:#ffffff" cx="21" cy="24" r="2"/>
+ <circle style="fill:#ffffff" cx="27" cy="24" r="2"/>
+ <circle style="fill:#ffffff" cx="33" cy="24" r="2"/>
+ <circle style="fill:#ffffff" cx="39" cy="24" r="2"/>
+ <circle style="fill:#ffffff" cx="12" cy="32" r="2"/>
+ <circle style="fill:#ffffff" cx="18" cy="32" r="2"/>
+ <circle style="fill:#ffffff" cx="24" cy="32" r="2"/>
+ <circle style="fill:#ffffff" cx="30" cy="32" r="2"/>
+ <circle style="fill:#ffffff" cx="36" cy="32" r="2"/>
+ <rect style="fill:#ffffff" width="30" height="4" x="9" y="37" rx="1" ry="1"/>
+ <path style="opacity:0.3" d="M 12 6 L 12 8 L 16 8 L 16 6 L 12 6 z M 18 6 L 18 8 L 22 8 L 22 6 L 18 6 z M 24 6 L 24 8 L 32 8 L 32 6 L 24 6 z M 12 10 L 12 12 L 20 12 L 20 10 L 12 10 z M 22 10 L 22 12 L 27 12 L 27 10 L 22 10 z M 12 14 L 12 16 L 17 16 L 17 14 L 12 14 z M 19 14 L 19 16 L 24 16 L 24 14 L 19 14 z M 26 14 L 26 16 L 34 16 L 34 14 L 26 14 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 12 4 C 10.892 4 10 4.892 10 6 L 10 7 C 10 5.892 10.892 5 12 5 L 36 5 C 37.108 5 38 5.892 38 7 L 38 6 C 38 4.892 37.108 4 36 4 L 12 4 z"/>
+</svg>

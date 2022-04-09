@@ -48,6 +48,7 @@ COLORS=(
 	#
 	# | name     | [0]   | [1]   | [2]   | [3]   |
 	# |----------|-------|-------|-------|-------|
+	[adwaita]="   #93c0ea #3a87e5 #3a87e5 #e4e4e4"
 	[blue]="      #5294e2 #4877b1 #1d344f #e4e4e4"
 	[black]="     #4f4f4f #3f3f3f #c2c2c2 #dcdcdc"
 	[bluegrey]="  #607d8b #4d646f #222c31 #e4e4e4"
@@ -55,6 +56,7 @@ COLORS=(
 	[brown]="     #ae8e6c #957552 #3d3226 #e4e4e4"
 	[carmine]="   #a30002 #7a0002 #390001 #e4e4e4"
 	[cyan]="      #00bcd4 #0096aa #00424a #e4e4e4"
+	[darkcyan]="  #45abb7 #35818a #eaeaea #e4e4e4"
 	[deeporange]="#eb6637 #e95420 #522413 #e4e4e4"
 	[green]="     #87b158 #60924b #2f3e1f #e4e4e4"
 	[grey]="      #8e8e8e #727272 #323232 #e4e4e4"
@@ -69,7 +71,7 @@ COLORS=(
 	[violet]="    #7e57c2 #5d399b #2c1e44 #e4e4e4"
 	[white]="     #e4e4e4 #cccccc #4f4f4f #ffffff"
 	[yaru]="      #676767 #973552 #e4e4e4 #ff7446"
-	[yellow]="    #e2b322 #b58f1b #4f3e0c #e4e4e4"
+	[yellow]="    #f9bd30 #e19d00 #594411 #e4e4e4"
 	[nordic]="    #82abaa #6c9b9a #4e6766 #e4e4e4"
 	[custom]="    #value_light #value_dark #323232 #e4e4e4"
 )
