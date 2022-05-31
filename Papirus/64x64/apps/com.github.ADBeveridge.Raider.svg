@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="44" height="38" x="10" y="23" rx="3" ry="3"/>
+ <path style="fill:#5d5d5d" d="M 10 30 L 10 57 C 10 58.662 11.338 60 13 60 L 51 60 C 52.662 60 54 58.662 54 57 L 54 30 L 10 30 z"/>
+ <path style="fill:#b3b3b3" d="M 10 30 L 54 30 L 54 26 C 54 24.338 52.662 23 51 23 L 13 23 C 11.338 23 10 24.338 10 26 L 10 30 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 13 23 C 11.338 23 10 24.338 10 26 L 10 27 C 10 25.338 11.338 24 13 24 L 51 24 C 52.662 24 54 25.338 54 27 L 54 26 C 54 24.338 52.662 23 51 23 L 13 23 z"/>
+ <path style="fill:none;stroke:#3d3846;stroke-width:3;stroke-linecap:round" d="m 14.5,26.5 h 35"/>
+ <path style="fill:#e4e4e4" d="M 19.878906 4 C 17.729285 4 16 5.7417878 16 7.9082031 L 16 28 L 48 28 L 48 14 L 38 4 L 19.878906 4 z"/>
+ <path style="opacity:0.2" d="m 16,31 v 17 h 3 V 31 Z m 6,0 v 11 h 3 V 31 Z m 5,0 v 11 h 3 V 31 Z m 6,0 v 21 h 3 V 31 Z m 6,0 v 16 h 3 V 31 Z m 6,0 v 21 h 3 V 31 Z"/>
+ <path style="fill:#e4e4e4" d="M 16 30 L 16 47 L 19 47 L 19 30 L 16 30 z M 22 30 L 22 41 L 25 41 L 25 30 L 22 30 z M 27 30 L 27 41 L 30 41 L 30 30 L 27 30 z M 33 30 L 33 51 L 36 51 L 36 30 L 33 30 z M 39 30 L 39 46 L 42 46 L 42 30 L 39 30 z M 45 30 L 45 51 L 48 51 L 48 30 L 45 30 z"/>
+ <path style="opacity:0.2" d="m 38,5 v 6.001145 C 38,13.210073 39.790216,15 41.999415,15 H 48 Z"/>
+ <path style="fill:#fafafa" d="m 38,4 v 6.001145 C 38,12.210073 39.790216,14 41.999415,14 H 48 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 19.878906,4 C 17.729285,4 16,5.7417878 16,7.9082031 v 1 C 16,6.7417878 17.729285,5 19.878906,5 H 38 V 4 Z"/>
+</svg>
