@@ -6,10 +6,10 @@
  <circle style="opacity:0.1" cx="32" cy="33" r="6"/>
  <circle style="fill:#8e8e8e" cx="32" cy="32" r="6"/>
  <path style="opacity:0.2" d="m 20,19 a 2,2 0 0 0 -1.414062,0.585938 2,2 0 0 0 0,2.828124 L 29.171875,33 18.585938,43.585938 a 2,2 0 0 0 0,2.828124 2,2 0 0 0 2.828124,0 L 32,35.828125 42.585938,46.414062 a 2,2 0 0 0 2.828124,0 2,2 0 0 0 0,-2.828124 L 34.828125,33 45.414062,22.414062 a 2,2 0 0 0 0,-2.828124 2,2 0 0 0 -2.828124,0 L 32,30.171875 21.414062,19.585938 A 2,2 0 0 0 20,19 Z"/>
- <path stroke-width="2.126" style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 33,31 44,20"/>
- <path stroke-width="7.365" style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 33,33 44,44"/>
- <path stroke-width="2.123" style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 20,44 31,33"/>
- <path stroke-width="2.123" style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 20,20 31,31"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 33,31 44,20"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 33,33 44,44"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 20,44 31,33"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:4;stroke-linecap:round" d="M 20,20 31,31"/>
  <circle style="opacity:0.2" cx="32" cy="33" r="4"/>
  <circle style="fill:#d9d9d9" cx="32" cy="32" r="4"/>
  <path style="opacity:0.2;fill:#ffffff" d="m 32,28 a 4,4 0 0 0 -4,4 4,4 0 0 0 0.03516,0.5 A 4,4 0 0 1 32,29 4,4 0 0 1 35.964844,32.480469 4,4 0 0 0 36,32 4,4 0 0 0 32,28 Z"/>

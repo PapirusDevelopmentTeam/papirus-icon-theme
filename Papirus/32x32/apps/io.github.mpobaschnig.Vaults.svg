@@ -12,10 +12,10 @@
  <circle style="opacity:0.1" cx="15.5" cy="16.5" r="3.5"/>
  <circle style="fill:#8e8e8e" cx="15.5" cy="15.5" r="3.5"/>
  <path style="opacity:0.2" d="m 9,9 a 1,1 0 0 0 -0.7070312,0.2929688 1,1 0 0 0 0,1.4140622 L 14.085938,16.5 8.2929688,22.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 L 15.5,17.914062 l 5.792969,5.792969 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 16.914062,16.5 22.707031,10.707031 a 1,1 0 0 0 0,-1.4140622 1,1 0 0 0 -1.414062,0 L 15.5,15.085938 9.7070312,9.2929688 A 1,1 0 0 0 9,9 Z"/>
- <path stroke-width="2.126" style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="M 16,15 22,9"/>
- <path stroke-width="7.365" style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="m 16,16 6,6"/>
- <path stroke-width="2.123" style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="m 9,22 6,-6"/>
- <path stroke-width="2.123" style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="m 9,9 6,6"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="M 16,15 22,9"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="m 16,16 6,6"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="m 9,22 6,-6"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2;stroke-linecap:round" d="m 9,9 6,6"/>
  <circle style="opacity:0.2" cx="15.5" cy="16.5" r="2.5"/>
  <circle style="fill:#d9d9d9" cx="15.5" cy="15.5" r="2.5"/>
  <path style="opacity:0.2;fill:#ffffff" d="M 15.5,13 A 2.5,2.5 0 0 0 13,15.5 2.5,2.5 0 0 0 13.056641,16 2.5,2.5 0 0 1 15.5,14 2.5,2.5 0 0 1 17.945312,15.986328 2.5,2.5 0 0 0 18,15.5 2.5,2.5 0 0 0 15.5,13 Z"/>

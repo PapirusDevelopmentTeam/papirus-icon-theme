@@ -14,10 +14,10 @@
  <circle style="opacity:0.1" cx="24" cy="25" r="5"/>
  <circle style="fill:#8e8e8e" cx="24" cy="24" r="5"/>
  <path style="opacity:0.2" d="m 15.423724,15.000566 a 1.4243289,1.4243289 0 0 0 -1.007338,0.41582 1.4243289,1.4243289 0 0 0 0,2.012723 L 21.975324,24.99 14.416386,32.55089 a 1.4243289,1.4243289 0 0 0 0,2.012724 1.4243289,1.4243289 0 0 0 2.012723,0 L 23.99,27.004675 l 7.56089,7.558939 a 1.4243289,1.4243289 0 0 0 2.012724,0 1.4243289,1.4243289 0 0 0 0,-2.012724 L 26.004675,24.99 33.563614,17.429109 a 1.4243289,1.4243289 0 0 0 0,-2.012723 1.4243289,1.4243289 0 0 0 -2.012724,0 L 23.99,22.975324 16.429109,15.416386 a 1.4243289,1.4243289 0 0 0 -1.005385,-0.41582 z"/>
- <path stroke-width="2.886" style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="m 23.995,23.994999 8.570205,-8.570204"/>
- <path stroke-width="2.882" style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="m 23.995,23.994999 8.570205,8.570204"/>
- <path stroke-width="2.882" style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="M 15.424795,32.565203 23.995,23.994999"/>
- <path stroke-width="2.882" style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="M 15.424795,15.424795 23.995,23.994999"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="m 23.995,23.994999 8.570205,-8.570204"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="m 23.995,23.994999 8.570205,8.570204"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="M 15.424795,32.565203 23.995,23.994999"/>
+ <path style="fill:none;stroke:#bdbdbd;stroke-width:2.84959;stroke-linecap:round" d="M 15.424795,15.424795 23.995,23.994999"/>
  <circle style="opacity:0.2" cx="24" cy="25" r="3"/>
  <circle style="fill:#d9d9d9" cx="24" cy="24" r="3"/>
  <path style="opacity:0.2;fill:#ffffff" d="m 24,21 a 3,3 0 0 0 -3,3 3,3 0 0 0 0.04687,0.5 A 3,3 0 0 1 24,22 3,3 0 0 1 26.955078,24.492188 3,3 0 0 0 27,24 3,3 0 0 0 24,21 Z"/>
