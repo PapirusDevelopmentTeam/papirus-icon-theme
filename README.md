@@ -334,8 +334,6 @@ We are waiting for your pull requests and would love to see this icon theme beco
 
 You can support this open source project by making a voluntary payment:
 
-- Patreon: https://www.patreon.com/varlesh
-- PayPal: https://www.paypal.me/varlesh
 
 ## License
 
