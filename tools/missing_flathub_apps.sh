@@ -16,6 +16,7 @@ XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}"
 IGNORED_APPS=(
 	# apps without icons:
 	com.github.nihui.waifu2x-ncnn-vulkan
+	com.riverbankcomputing.PyQt.BaseApp
 	dev.paullee.scraterpreter.Scrape
 	dev.paullee.scraterpreter.Scrapec
 	io.atom.electron.BaseApp
@@ -28,10 +29,12 @@ IGNORED_APPS=(
 	io.qt.qtwebengine.BaseApp
 	io.qt.qtwebkit.BaseApp
 	net.sourceforge.fspclient
+	org.chromium.Chromium.BaseApp
 	org.electronjs.Electron2.BaseApp
 	org.flathub.flatpak-external-data-checker
 	org.flatpak.Builder
 	org.flatpak.flat-manager-client
+	org.freedesktop.appstream.cli
 	org.freedesktop.appstream-glib
 	org.freedesktop.GlxInfo
 	org.freedesktop.LinuxAudio.BaseExtension
@@ -55,7 +58,9 @@ IGNORED_APPS=(
 	net.openra.OpenRA
 	org.freeorion.FreeOrion
 	org.homelinuxserver.vance.biblereader
+	org.kde.kcolorchooser
 	org.kde.okteta
+	org.kde.kdiff3
 	org.libreoffice.LibreOffice
 	org.vranki.spectral
 )
@@ -81,7 +86,6 @@ while read -r app_id; do
 		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd> <kbd>[Google](%s)</kbd>\n' \
 			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id" \
 			"https://google.com/search?q=$app_id+source+code"
-
 	else
 		printf '%s\n' "$app_id"
 	fi
