@@ -5,12 +5,12 @@ env:
 
 on:
   schedule:
-  - cron: "0 */24 * * *"
+  - cron: "0 3 * * 6"
 
 jobs:
   flathub_list_updater:
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
