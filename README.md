@@ -28,6 +28,7 @@ Papirus icon theme is available in five variants:
     - [Ubuntu and derivatives](#ubuntu-and-derivatives)
     - [Debian and derivatives](#debian-and-derivatives)
     - [Papirus Installer](#papirus-installer)
+    - [Snap](#snap)
     - [Third-party packages](#third-party-packages)
  - [Hardcoded icons](#hardcoded-icons)
     - [Hardcoded application icons](#hardcoded-application-icons)
@@ -108,6 +109,12 @@ wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="/usr/local/sh
 ```
 wget -qO- https://git.io/papirus-icon-theme-uninstall | sh
 ```
+
+### Snap
+
+<a href="https://snapcraft.io/icon-theme-papirus">
+  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+</a>
 
 ### Third-party packages
 
