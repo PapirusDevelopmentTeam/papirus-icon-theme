@@ -1,10 +1,14 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="1" y="1.5" width="20" height="20" rx="2" ry="2" style="opacity:.2"/>
- <rect x="1" y="1" width="20" height="20" rx="2" ry="2" style="fill:#292d96"/>
- <path d="M 3,1 C 1.892,1 1,1.892 1,3 v 16 c 0,0.554 0.2224844,1.054516 0.5839844,1.416016 L 20.416016,1.5839844 C 20.054516,1.2224844 19.554,1 19,1 Z" style="fill:#0072c0"/>
- <path d="m3 17.5h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2z" style="opacity:.2"/>
- <path d="m3 17h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2zm0-3h2v-2h-2z" style="fill:#ffffff"/>
- <path d="m3 1c-1.108 0-2 0.892-2 2v0.5c0-1.108 0.892-2 2-2h16c1.108 0 2 0.892 2 2v-0.5c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
- <path d="m14 3.5v1h5v-1zm0 2v1h3v-1zm0 2v1h4v-1zm0 2v1h2v-1zm0 2v1h5v-1zm0 2v1h4v-1z" style="opacity:.2"/>
- <path d="m14 3v1h5v-1zm0 2v1h3v-1zm0 2v1h4v-1zm0 2v1h2v-1zm0 2v1h5v-1zm0 2v1h4v-1z" style="fill:#ffbb1f"/>
+ <g transform="matrix(.3569365 0 0 .35714286 -.427746 -.42857141)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-60.032375" width="56" height="56.032375" rx="2.8" ry="2.8016188" style="fill:#6b9fff"/>
+ </g>
+ <g transform="matrix(.35714286 0 0 .37698417 1.5714286 1.4920633)">
+  <path d="m0.64062492-1.3052626c-1.2409602 0-2.2406249 1.3139475-2.2406249 2.9469073v47.158804c0 1.632963 0.99966471 2.946914 2.2406249 2.946914h8.959375v-53.048481h-8.959375z" style="fill:#29353b;opacity:.2"/>
+  <rect x="1.1999999" y="19.915789" width="5.5999999" height="5.3052626" rx=".69999999" ry=".66315782" style="fill:#6b9fff"/>
+  <rect x="1.1999999" y="11.957894" width="5.5999999" height="5.3052626" rx=".69999999" ry=".66315782" style="fill:#6b9fff"/>
+  <rect x="1.1999999" y="4" width="5.5999999" height="5.3052626" rx=".69999999" ry=".66315782" style="fill:#6b9fff"/>
+  <rect x="26.4" y="27.873682" width="22.4" height="2.6526313" style="fill:#ffffff"/>
+  <rect x="34.799999" y="9.3052626" width="14" height="13.263157" style="fill:#ffffff"/>
+  <rect x="26.4" y="4" width="14" height="13.263157" style="fill:#0f56d9"/>
+ </g>
 </svg>

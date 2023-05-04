@@ -1,13 +1,21 @@
 <svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <path d="m6 5c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2z" style="opacity:.05"/>
-  <rect x="4" y="4" width="40" height="40" rx="2" ry="2" style="fill:#fabd7f"/>
-  <path d="m22 12c-0.554 0-1 0.446-1 1v16h-4l7 9 7-9h-4v-16c0-0.554-0.446-1-1-1z" style="fill:#3f3f3f"/>
-  <path d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z" style="fill:#ffffff;opacity:.2"/>
-  <path d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" style="opacity:.2"/>
+ <g transform="matrix(2.616596,0,0,2.616596,1.2307692,1.2307694)">
+  <g transform="matrix(.12536626 0 0 .12536626 .08345113 -.01256868)">
+   <rect x="7.7762728" y="11.590662" width="115.84205" height="109.7451" rx="10.726116" ry="10.552412" style="fill-opacity:.2"/>
+   <rect x="7.7762728" y="8.5421867" width="115.84205" height="109.7451" rx="10.726116" ry="10.552412" style="fill:#cd9c6d"/>
+  </g>
+  <circle cx="8.3196163" cy="7.9374995" r="3.8217592" style="fill-opacity:0;stroke-width:.764352;stroke:#1f170f"/>
+  <rect x="7.5553246" y="6.0266209" width="1.5287026" height="1.9108785" style="fill:#1f170f"/>
+  <path d="m6.4087963 7.9374999h3.8217597l-1.9108801 1.9108797z" style="fill:#1f170f"/>
+  <rect x="6.8290915" y="13.326082" width="2.981168" height="1.4524642" style="fill:#e3c4a9;stroke-width:.0762394;stroke:#e3c4a9"/>
+  <rect x="6.8290915" y="1.096453" width="2.981168" height="1.4524642" style="fill:#e3c4a9;stroke-width:.0762394;stroke:#e3c4a9"/>
  </g>
- <circle cx="36" cy="36" r="11" style="opacity:.2"/>
- <circle cx="36" cy="35" r="11" style="fill:#6c9832"/>
- <rect x="34" y="28" width="4" height="14" rx="2" ry="2" style="fill:#ffffff"/>
- <rect transform="rotate(90)" x="33" y="-43" width="4" height="14" rx="2" ry="2" style="fill:#ffffff"/>
+ <g transform="scale(3.7795277)">
+  <circle cx="9.5249996" cy="9.7895823" r="2.9104166" style="fill-opacity:.2"/>
+  <circle cx="9.5249996" cy="9.5249996" r="2.9104161" style="fill:#42b546"/>
+ </g>
+ <g transform="matrix(3.4359341,0,0,3.4359341,4.3636375,4.1818194)">
+  <path d="m8.6254164 7.5141664v1.4552084h-1.4552083v1.1641662h1.4552083v1.455209h1.1641667v-1.455209h1.4552079v-1.1641662h-1.4552079v-1.4552084z" style="opacity:.2"/>
+  <path d="m8.6254164 7.2231247v1.4552084h-1.4552083v1.1641667h1.4552083v1.4552082h1.1641667v-1.4552082h1.4552079v-1.1641667h-1.4552079v-1.4552084z" style="fill:#ffffff"/>
+ </g>
 </svg>
