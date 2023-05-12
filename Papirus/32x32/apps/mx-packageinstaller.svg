@@ -1,12 +1,21 @@
 <svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <rect x="2" y="2" width="28" height="28" rx="1.5" ry="1.5" style="fill:#fabd7f"/>
-  <path d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z" style="fill:#ffffff;opacity:.1"/>
-  <path d="m14.572 6c-0.39572 0-0.71484 0.34338-0.71484 0.76953v12.307h-2.8574l5 6.924 5-6.9238h-2.8574v-12.307c0-0.4256-0.32-0.769-0.715-0.769z" style="fill:#3f3f3f"/>
-  <path d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z" style="opacity:.2"/>
+ <g transform="scale(1.8897637)">
+  <g transform="matrix(.12536626 0 0 .12536626 .08345113 -.01256868)">
+   <rect x="7.7762728" y="12.763153" width="109.7451" height="109.7451" rx="10.161584" ry="10.552412" style="fill-opacity:.2"/>
+   <rect x="7.7762728" y="8.5421867" width="109.7451" height="109.7451" rx="10.161584" ry="10.552412" style="fill:#cd9c6d"/>
+  </g>
+  <circle cx="7.9374995" cy="7.9375482" r="3.4395835" style="fill-opacity:0;stroke-width:.529167;stroke:#1f170f"/>
+  <rect x="6.8791676" y="6.3500009" width="2.1166654" height="1.5874988" style="fill:#1f170f"/>
+  <path d="m5.8208336 7.9375003h4.2333334l-2.1166667 2.1166667z" style="fill:#1f170f"/>
+  <rect x="6.3895855" y="13.268752" width="3.0958283" height="1.5083282" style="fill:#e3c4a9;stroke-width:.0791717;stroke:#e3c4a9"/>
+  <rect x="6.3895855" y="1.0979191" width="3.0958283" height="1.5083282" style="fill:#e3c4a9;stroke-width:.0791717;stroke:#e3c4a9"/>
  </g>
- <circle cx="23.5" cy="23.554688" r="8.5" style="opacity:.2"/>
- <circle cx="23.5" cy="22.554688" r="8.5" style="fill:#6c9832"/>
- <rect x="22" y="17.054688" width="3" height="11" rx="1.5" ry="1.5" style="fill:#ffffff"/>
- <rect transform="rotate(90)" x="21.054688" y="-29" width="3" height="11" rx="1.5" ry="1.5" style="fill:#ffffff"/>
+ <g transform="scale(3.7795274)">
+  <circle cx="6.3499999" cy="6.0854163" r="2.1166666" style="fill-opacity:.2"/>
+  <ellipse cx="6.3499999" cy="5.8208332" rx="2.1166666" ry="2.1166663" style="fill:#42b546"/>
+ </g>
+ <g transform="matrix(3.4359339,0,0,3.4359339,4.3636372,4.1818194)">
+  <path d="m5.4239583 4.0216669v1.1641674h-1.1641664v0.5820826h1.1641664v1.1641657h0.5820828v-1.1641657h1.1641665v-0.5820826h-1.1641665v-1.1641674z" style="fill-opacity:.2"/>
+  <path d="m5.4239589 3.7306252v1.1641665h-1.164167v0.5820838h1.164167v1.1641654h0.582084v-1.1641654h1.1641647v-0.5820838h-1.1641647v-1.1641665z" style="fill:#ffffff"/>
+ </g>
 </svg>
