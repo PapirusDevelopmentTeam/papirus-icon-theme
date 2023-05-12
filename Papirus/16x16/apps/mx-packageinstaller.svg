@@ -1,9 +1,4 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(3.7795269,0,0,3.7795269,-15.999995,-13.999996)">
-  <ellipse cx="6.3499999" cy="5.8208332" rx="2.1166666" ry="2.1166663" style="fill:#42b546"/>
- </g>
- <g transform="matrix(3.4359334,0,0,3.4359334,-11.63636,-9.8181786)">
-  <path d="m5.4239583 4.0216669v1.1641674h-1.1641664v0.5820826h1.1641664v1.1641657h0.5820828v-1.1641657h1.1641665v-0.5820826h-1.1641665v-1.1641674z" style="fill-opacity:.2"/>
-  <path d="m5.4239589 3.7306252v1.1641665h-1.164167v0.5820838h1.164167v1.1641654h0.582084v-1.1641654h1.1641647v-0.5820838h-1.1641647v-1.1641665z" style="fill:#ffffff"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <circle style="fill:#42b546" cx="8" cy="8" r="8"/>
+ <path style="fill:#ffffff" d="M 7,3 V 7 H 3 V 9 H 7 V 13 H 9 V 9 H 13 V 7 H 9 V 3 Z"/>
 </svg>

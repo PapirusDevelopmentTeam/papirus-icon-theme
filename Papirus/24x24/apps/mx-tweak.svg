@@ -1,24 +1,23 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.3569365 0 0 .35714286 .572254 .57142856)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-60.032375" width="55" height="56.032375" rx="2.7499998" ry="2.8016188" style="opacity:.2"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-59" y="-60.032375" width="55" height="56.032375" rx="2.75" ry="2.8016188" style="fill:#6b9fff"/>
- </g>
- <path d="M 22,21.199776 C 22,21.642977 21.504662,22 20.889063,22 H 4.4000002 3.1109398 C 2.4953387,21.999999 2,21.642977 2,21.199776 V 18 h 19.998438 v 3.199776 z" style="fill:#1d2324;opacity:.5"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.5" y="-20" width="2" height="2" style="fill:#ffffff;opacity:.2"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21" y="-20" width="2" height="2" style="fill:#ffffff"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.5" y="-17" width="2" height="2" style="fill:#ffffff;opacity:.2"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21" y="-17" width="2" height="2" style="fill:#ffffff"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.5" y="-14" width="2" height="2" style="fill:#ffffff;opacity:.2"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-21" y="-14" width="2" height="2" style="fill:#ffffff"/>
- <path d="M 2.8002232,2 C 2.3570231,2 2,2.4864922 2,3.0910993 v 16.1946147 1.266042 c 0,0.604608 0.3570231,1.091102 0.8002232,1.091102 H 6 V 2.0015346 H 2.8002232 Z" style="fill:#29353b"/>
- <rect x="3" y="4" width="2" height="2.5" style="fill:#ffffff;opacity:.2"/>
- <rect x="3" y="4" width="2" height="2" style="fill:#ffffff"/>
- <rect x="3" y="7.0000005" width="2" height="2.5" style="fill:#ffffff;opacity:.2"/>
- <rect x="3" y="7" width="2" height="2" style="fill:#ffffff"/>
- <rect x="3" y="10" width="2" height="2.5" style="fill:#ffffff;opacity:.2"/>
- <rect x="3" y="10" width="2" height="2" style="fill:#ffffff"/>
- <rect x="3" y="19" width="2" height="2.5" style="fill:#ffffff;opacity:.2"/>
- <rect x="3" y="19" width="2" height="2" style="fill:#ffffff"/>
- <path d="m10.016057 5.4998723a1.0001 1.0001 0 1 0-0.0039 2c1.397784 0.0024 2.73055 0.5894066 3.675781 1.6191406 0.850536 0.9265721 1.310887 2.1335001 1.310547 3.3808601h-1.994141l3 4 3-4h-2.005865c-2.23e-4 -1.745347-0.648336-3.4384767-1.837891-4.7343757-1.32252-1.4407516-3.188818-2.262212-5.144531-2.265625z" style="opacity:.2"/>
- <path d="m10.016057 5a1.0001 1.0001 0 1 0-0.0039 2c1.397778 0.0024 2.730544 0.5894066 3.675775 1.6191406 0.850536 0.926572 1.310887 2.1334994 1.310547 3.3808594h-1.994141l3 4 3-4h-2.005859c-2.23e-4 -1.745347-0.648336-3.438476-1.837891-4.734375-1.32252-1.4407516-3.188818-2.262212-5.144531-2.265625z" style="fill:#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="1" ry="1"/>
+ <rect style="fill:#6b9fff" width="17" height="17" x="5" y="2" rx="1" ry="1"/>
+ <path style="fill:#446191" d="M 5,18 V 21 L 6,22 H 21 C 21.554,22 22,21.554 22,21 V 18 Z"/>
+ <path style="fill:#29353b" d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 21 C 2 21.554 2.446 22 3 22 L 6 22 L 6 2 L 3 2 z"/>
+ <rect style="opacity:0.2" width="2" height="2" x="3" y="4.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="3" y="4"/>
+ <rect style="opacity:0.2" width="2" height="2" x="3" y="7.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="3" y="7"/>
+ <rect style="opacity:0.2" width="2" height="2" x="3" y="10.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="3" y="10"/>
+ <rect style="opacity:0.2" width="2" height="2" x="3" y="19.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="3" y="19"/>
+ <path style="opacity:0.2" d="M 10.016,5.5001 A 1.0001,1.0001 0 1 0 10.012,7.5001 C 11.41,7.5025 12.743,8.0895 13.688,9.1192 14.538,10.046 14.999,11.253 14.998,12.5 H 13.004 L 16.004,16.5 19.004,12.5 H 16.998 C 16.998,10.755 16.35,9.0616 15.161,7.7657 13.838,6.325 11.972,5.5035 10.016,5.5001 Z"/>
+ <path style="fill:#ffffff" d="M 10.016,5 A 1.0001,1.0001 0 1 0 10.012,7 C 11.41,7.0024 12.743,7.5894 13.688,8.6191 14.538,9.5457 14.999,10.753 14.998,12 H 13.004 L 16.004,16 19.004,12 H 16.998 C 16.998,10.255 16.35,8.5615 15.161,7.2656 13.838,5.8249 11.972,5.0034 10.016,5 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 3.5 C 2 2.946 2.446 2.5 3 2.5 L 21 2.5 C 21.554 2.5 22 2.946 22 3.5 L 22 3 C 22 2.446 21.554 2 21 2 L 3 2 z"/>
+ <rect style="opacity:0.2" width="2" height="2" x="18" y="19.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="18" y="19"/>
+ <rect style="opacity:0.2" width="2" height="2" x="15" y="19.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="15" y="19"/>
+ <rect style="opacity:0.2" width="2" height="2" x="12" y="19.5"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="12" y="19"/>
 </svg>

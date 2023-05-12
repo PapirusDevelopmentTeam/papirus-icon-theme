@@ -1,20 +1,11 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.308298 0 0 1.308298 .61538469 .61538473)">
-  <g transform="matrix(.12536626 0 0 .12536626 .08345113 -.01256868)">
-   <rect x="7.7762728" y="14.639136" width="109.7451" height="109.7451" rx="10.161584" ry="10.552412" style="fill-opacity:.2"/>
-   <rect x="7.7762728" y="8.5421867" width="109.7451" height="109.7451" rx="10.161584" ry="10.552412" style="fill:#cd9c6d"/>
-  </g>
-  <circle cx="7.9374404" cy="7.9374995" r="4.2039351" style="fill-opacity:0;stroke-width:.764352;stroke:#1f170f"/>
-  <rect x="7.1731486" y="5.6444449" width="1.5287025" height="2.2930543" style="fill:#1f170f"/>
-  <path d="m5.6444444 7.9374999h4.5861116l-2.293056 2.2930551z" style="fill:#1f170f"/>
-  <rect x="6.4469156" y="13.326082" width="2.981168" height="1.4524642" style="fill:#e3c4a9;stroke-width:.0762394;stroke:#e3c4a9"/>
-  <rect x="6.4469156" y="1.096453" width="2.981168" height="1.4524642" style="fill:#e3c4a9;stroke-width:.0762394;stroke:#e3c4a9"/>
- </g>
- <g transform="scale(3.7795278)">
-  <ellipse cx="4.8947911" cy="4.8947906" rx="1.4552079" ry="1.4552078" style="fill:#42b546"/>
- </g>
- <g transform="matrix(3.4359343,0,0,3.4359343,4.3636377,4.1818197)">
-  <path d="m3.9687494 3.4395827v0.873125h-0.8731249v0.2910416h0.8731249v0.873125h0.2910417v-0.873125h0.8731249v-0.2910416h-0.8731249v-0.873125z" style="opacity:.2"/>
-  <path d="m3.9687494 3.1485411v0.8731249h-0.8731249v0.2910417h0.8731249v0.873125h0.2910417v-0.873125h0.8731249v-0.2910417h-0.8731249v-0.8731249z" style="fill:#ffffff"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="2" ry="2"/>
+ <rect style="fill:#cd9c6d" width="20" height="20" x="2" y="2" rx="2" ry="2"/>
+ <circle style="fill:none;stroke:#1f170f" cx="11.999" cy="11.999" r="5.5"/>
+ <path style="fill:#1f170f" d="M 11,9 V 12 H 9 L 12,15 15,12 H 13 V 9 Z"/>
+ <rect style="fill:#e3c4a9" width="4" height="2" x="10" y="20"/>
+ <rect style="fill:#e3c4a9" width="4" height="2" x="10" y="2"/>
+ <circle style="fill:#42b546" cx="17.5" cy="17.5" r="5.5"/>
+ <path style="fill:#ffffff" d="M 17,14 V 17 H 14 V 18 H 17 V 21 H 18 V 18 H 21 V 17 H 18 V 14 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 4 2 C 2.892 2 2 2.892 2 4 L 2 4.5 C 2 3.392 2.892 2.5 4 2.5 L 20 2.5 C 21.108 2.5 22 3.392 22 4.5 L 22 4 C 22 2.892 21.108 2 20 2 L 4 2 z"/>
 </svg>

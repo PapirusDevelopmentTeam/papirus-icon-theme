@@ -1,10 +1,6 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.2855492 0 0 .29090909 -1.1421968 -1.1636363)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-59" y="-60.032375" width="55" height="56.032375" rx="6.875" ry="7.0040469" style="fill:#6b9fff"/>
- </g>
- <g transform="matrix(.35714286 0 0 .37698417 .5714286 .49206335)">
-  <rect x="9.5999994" y="30.526312" width="22.4" height="2.6526313" style="fill:#ffffff"/>
-  <rect x="17.999996" y="11.957893" width="14" height="13.263157" style="fill:#ffffff"/>
-  <rect x="9.5999994" y="6.6526313" width="14" height="13.263157" style="fill:#0f56d9"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#6b9fff" width="16" height="16" x="0" y="0" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="8" height="1" x="4" y="12"/>
+ <rect style="fill:#ffffff" width="5" height="5" x="7" y="5"/>
+ <rect style="fill:#0f56d9" width="5" height="5" x="4" y="3"/>
 </svg>
