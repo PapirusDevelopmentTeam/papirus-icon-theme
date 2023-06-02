@@ -228,7 +228,7 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 <details>
 <summary>For Pop!_OS users</summary>
 
-For Pop!_OS users who want to use the [Pop!_Shop](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/pop-shop.svg) icon (instead of the default [Elementary Appcenter](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/io.elementary.appcenter.svg) icon):
+For Pop!_OS users who want to use the [Pop!_Shop](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/pop-shop.svg) icon (instead of the default [Elementary Appcentre](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/io.elementary.appcenter.svg) icon):
 
 ```
 mkdir -p ~/.local/share/applications/
