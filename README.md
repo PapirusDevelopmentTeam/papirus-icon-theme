@@ -226,6 +226,18 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 ## Manual fixes
 
 <details>
+<summary>For Pop!_OS users</summary>
+
+For Pop!_OS users who want to use the [Pop!_Shop](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/pop-shop.svg) icon (instead of the default [Elementary Appcentre](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/io.elementary.appcenter.svg) icon):
+
+```
+mkdir -p ~/.local/share/applications/
+cp /usr/share/applications/io.elementary.appcenter.desktop ~/.local/share/applications/
+desktop-file-edit --set-icon=pop-shop ~/.local/share/applications/io.elementary.appcenter.desktop
+```
+</details>
+
+<details>
 <summary>For Cinnamon users</summary>
 
 For Cinnamon users who want to use Papirus icon theme with [Arc theme](https://github.com/jnsh/arc-theme) we recommend fix color icons on panel:
