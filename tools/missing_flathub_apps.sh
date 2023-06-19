@@ -15,43 +15,55 @@ XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}"
 
 IGNORED_APPS=(
 	# apps without icons:
+	cc.nift.nsm
+	com.github.nihui.waifu2x-ncnn-vulkan
+	com.riverbankcomputing.PyQt.BaseApp
+	dev.paullee.scraterpreter.Scrape
+	dev.paullee.scraterpreter.Scrapec
 	io.atom.electron.BaseApp
 	io.elementary.BaseApp
 	io.elementary.Loki.BaseApp
+	io.github.erkin.ponysay
 	io.gitlab.sdl_jstest.sdl2_jstest
 	io.gitlab.sdl_jstest.sdl_jstest
+	io.liri.BaseApp
 	io.qt.qtwebengine.BaseApp
 	io.qt.qtwebkit.BaseApp
+	net.sourceforge.fspclient
+	org.chromium.Chromium.BaseApp
 	org.electronjs.Electron2.BaseApp
 	org.flathub.flatpak-external-data-checker
 	org.flatpak.Builder
+	org.flatpak.flat-manager-client
+	org.freedesktop.appstream.cli
 	org.freedesktop.appstream-glib
 	org.freedesktop.GlxInfo
-	org.godotengine.godot.BaseApp
-	org.mosh.mosh
-	org.mozilla.Firefox.BaseApp
-	org.sugarlabs.BaseApp
 	org.freedesktop.LinuxAudio.BaseExtension
-	org.nuspell.Nuspell
-	net.sourceforge.fspclient
-	dev.paullee.scraterpreter.Scrapec
-	dev.paullee.scraterpreter.Scrape
-	io.github.erkin.ponysay
 	org.freedesktop.Platform.ClInfo
 	org.freedesktop.Platform.GlxInfo
 	org.freedesktop.Platform.VaInfo
 	org.freedesktop.Platform.VulkanInfo
+	org.genivi.DLTViewer
+	org.godotengine.godot.BaseApp
+	org.gnome.NautilusPreviewer
+	org.mosh.mosh
 	org.mozilla.firefox.BaseApp
+	org.nuspell.Nuspell
+	org.sugarlabs.BaseApp
+	radio.k0swe.Kel_Agent
+	se.emijoh.mpw
 	# apps with icons that do not match with App ID:
+	cat.xtec.clic.JClic
 	com.github.utsushi.Utsushi
 	com.wps.Office
 	net.openra.OpenRA
+	org.freeorion.FreeOrion
 	org.homelinuxserver.vance.biblereader
+	org.kde.kcolorchooser
+	org.kde.okteta
+	org.kde.kdiff3
 	org.libreoffice.LibreOffice
 	org.vranki.spectral
-	org.kde.okteta
-	org.freeorion.FreeOrion
-	cat.xtec.clic.JClic
 )
 
 flathub_apps_list="$(mktemp -u)"
@@ -72,8 +84,9 @@ while read -r app_id; do
 	[[ "${IGNORED_APPS[*]//$app_id/}" == "${IGNORED_APPS[*]}" ]] || continue
 	if [ -n "${MARKDOWN:-}" ]; then
 		# shellcheck disable=SC2016
-		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd>\n' "$app_id" \
-			"https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id"
+		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd> <kbd>[Google](%s)</kbd>\n' \
+			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id" \
+			"https://google.com/search?q=$app_id+source+code"
 	else
 		printf '%s\n' "$app_id"
 	fi

@@ -28,6 +28,11 @@
 	# add a trailing semicolon for secure matching
 	s/style="([^"]+[^;])"/style="\1;"/gI
 
+	# delete Inkscape properties
+	/-inkscape-/ {
+		s/-inkscape-[^;"]+;//gI
+	}
+
 	# delete properties with default values
 	s/alignment-baseline:auto;//gI
 	s/backface-visibility:visible;//gI
@@ -136,11 +141,6 @@
 	s/paint-order:markers fill stroke;//gI
 	s/paint-order:stroke markers fill;//gI
 	s/paint-order:markers stroke fill;//gI
-
-	# delete Inkscape properties
-	/-inkscape-/ {
-		s/-inkscape-[^;"]+;//gI
-	}
 
 	# delete 'fill- *' properties if fill equal none
 	/fill[:=]"?none/ {

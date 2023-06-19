@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:.2" width="40" height="40" x="4" y="5" rx="3" ry="3"/>
+ <rect style="fill:#e53935" width="40" height="40" x="4" y="4" rx="3" ry="3"/>
+ <path style="fill:#ffffff;opacity:0.2" d="m7 4c-1.662 0-3 1.3379999-3 3v1c0-1.6620001 1.338-3 3-3h34c1.662 0 3 1.3379999 3 3v-1c0-1.6620001-1.338-3-3-3h-34z"/>
+ <path style="opacity:0.2" d="m 24,9 a 2,2 0 0 0 -2,2 V 28.171875 L 17.414062,23.585938 A 2,2 0 0 0 16,23 a 2,2 0 0 0 -1.414062,0.585938 2,2 0 0 0 0,2.828124 l 8,8 a 2,2 0 0 0 0.175781,0.140626 2,2 0 0 0 0.107422,0.08594 2,2 0 0 0 0.492187,0.251953 2,2 0 0 0 0.103516,0.02344 2,2 0 0 0 0.449218,0.07031 A 2,2 0 0 0 24,35 a 2,2 0 0 0 0.08594,-0.01367 2,2 0 0 0 0.138671,0 2,2 0 0 0 0.310547,-0.07031 2,2 0 0 0 0.103516,-0.02344 2,2 0 0 0 0.492187,-0.251953 2,2 0 0 0 0.107422,-0.08594 2,2 0 0 0 0.175781,-0.140626 l 8,-8 a 2,2 0 0 0 0,-2.828124 2,2 0 0 0 -2.828124,0 L 26,28.171875 V 11 A 2,2 0 0 0 24,9 Z M 13,37 v 4 h 22 v -4 z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round" d="M 24,10 V 32"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round" d="m 16,24 8,8"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round" d="m 32,24 -8,8"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:4" d="M 13,38 H 35"/>
+</svg>

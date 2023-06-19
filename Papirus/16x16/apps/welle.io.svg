@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:none;stroke:#bdb0b2;stroke-width:0.80000001;stroke-linecap:round" d="M 3,3 11.615625,0.4"/>
+ <circle style="fill:#9b8688" cx="3" cy="3" r="1"/>
+ <path style="fill:#654c4a" d="M 1.1425781 3 C 0.50943532 3 -1.4802974e-16 3.5455449 0 4.2226562 L 0 12.777344 C 0 13.454456 0.50943533 14 1.1425781 14 L 11 14 L 11.099609 14 L 14.857422 14 C 15.490565 14 16 13.454455 16 12.777344 L 16 4.2226562 C 16 3.5455454 15.490565 3 14.857422 3 L 11.099609 3 L 11 3 L 1.1425781 3 z"/>
+ <circle style="fill:#ffffff" cx="5.5" cy="8.5" r="3.5"/>
+ <circle style="fill:#9b8688" cx="5.5" cy="8.5" r="2.5"/>
+ <circle style="fill:#9b8688" cx="10.75" cy="8.75" r=".75"/>
+ <circle style="fill:#9b8688" cx="13.75" cy="8.75" r=".75"/>
+ <rect style="fill:#9b8688" width="4" height="1" x="10" y="11"/>
+ <rect style="fill:#ffffff" width="4" height="1" x="10" y="5"/>
+ <path style="fill:none;stroke:#df574d;stroke-linecap:round;stroke-linejoin:bevel" d="M 11.5,6 V 5"/>
+ <rect style="fill:#bdb0b2" width="2" height="1" x="11" y="11"/>
+ <path style="fill:none;stroke:#654c4a;stroke-width:0.5;stroke-linecap:round" d="M 5.5,10 V 7"/>
+ <path style="fill:none;stroke:#654c4a;stroke-width:0.5;stroke-linecap:round" d="M 6.5,9 V 8"/>
+ <path style="fill:none;stroke:#654c4a;stroke-width:0.5;stroke-linecap:round" d="M 4.5,9 V 8"/>
+</svg>

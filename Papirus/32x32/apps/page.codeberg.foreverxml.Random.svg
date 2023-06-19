@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <path style="opacity:0.2" d="M 15.5,2 C 7.467,2 1,8.467 1,16.5 1,24.533 7.467,31 15.5,31 23.533,31 30,24.533 30,16.5 30,8.467 23.533,2 15.5,2 Z"/>
+ <path style="fill:#4f4f4f" d="M 15.5,1 C 7.467,1 1,7.467 1,15.5 1,23.533 7.467,30 15.5,30 23.533,30 30,23.533 30,15.5 30,7.467 23.533,1 15.5,1 Z"/>
+ <circle style="opacity:0.1" cx="22.627" cy=".707" r="11.5" transform="rotate(45.000001)"/>
+ <circle style="fill:#5d5d5d" cx="21.92" cy="0" r="11.5" transform="rotate(45.000002)"/>
+ <circle style="opacity:0.2" cx="9.5" cy="10.5" r="1.5"/>
+ <circle style="fill:#fecd38" cx="9.5" cy="9.5" r="1.5"/>
+ <circle style="opacity:0.2" cx="21.5" cy="22.5" r="1.5"/>
+ <circle style="fill:#79de7d" cx="21.5" cy="21.5" r="1.5"/>
+ <circle style="opacity:0.2" cx="10.5" cy="-21.5" r="1.5" transform="rotate(90)"/>
+ <circle style="fill:#df574d" cx="9.5" cy="-21.5" r="1.5" transform="rotate(90)"/>
+ <circle style="opacity:0.2" cx="22.5" cy="-9.5" r="1.5" transform="rotate(90)"/>
+ <circle style="fill:#50beee" cx="21.5" cy="-9.5" r="1.5" transform="rotate(90)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 15.5,1 C 7.467,1 1,7.467 1,15.5 1,15.6689 1.019718,15.8325 1.025391,16 1.2895004,8.2025 7.6359011,2 15.5,2 c 7.864099,0 14.2105,6.2025 14.474609,14 0.0057,-0.1675 0.02539,-0.3311 0.02539,-0.5 C 29.999999,7.467 23.532999,1 15.5,1 Z"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;opacity:0.2" d="m 9,15 5,1"/>
+ <path style="fill:none;stroke:#afafb1;stroke-width:2;stroke-linecap:round" d="m 9,14 5,1"/>
+ <path style="opacity:0.2" d="M 15.500001,14 C 14.120587,14 13,15.120587 13,16.5 13,17.879412 14.120587,19 15.500001,19 16.879413,19 18,17.879412 18,16.5 18,15.120587 16.879413,14 15.500001,14 Z"/>
+ <path style="fill:#cccccc" d="M 15.500001,13 C 14.120587,13 13,14.120587 13,15.5 13,16.879412 14.120587,18 15.500001,18 16.879413,18 18,16.879412 18,15.5 18,14.120587 16.879413,13 15.500001,13 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 15.5 13 C 14.120586 13 13 14.120587 13 15.5 C 13 15.671099 13.017945 15.83851 13.050781 16 C 13.282676 14.859543 14.291685 14 15.5 14 C 16.708313 14 17.717325 14.859543 17.949219 16 C 17.982055 15.83851 18 15.671099 18 15.5 C 18 14.120587 16.879412 13 15.5 13 z"/>
+</svg>

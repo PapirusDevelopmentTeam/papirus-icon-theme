@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect fill="#e4e4e4" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
- <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
- <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
- <path fill="#f00" opacity=".5" d="m8 8c-1.1046 0-2 0.89545-2 2s0.89545 2 2 2 2-0.89545 2-2h-2z"/>
- <path opacity=".5" d="m12 8v1h5v-1z"/>
- <path opacity=".5" d="m12 11v1h5v-1z"/>
- <path opacity=".5" d="m6 14v1h8v-1z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <rect style="opacity:0.2" width="20" height="14" x="1" y="6.5" rx="2"/>
+ <rect style="fill:#e14951" width="12" height="9.5" x="5" y="2" rx="1.5"/>
+ <rect style="fill:#9439bb" width="14" height="11" x="4" y="3" rx="1.5"/>
+ <rect style="fill:#07a47a" width="16" height="11" x="3" y="4.5" rx="1.412"/>
+ <rect style="fill:#1fb6f9" width="20" height="14" x="1" y="6" rx="2"/>
+ <path style="fill:#1b90f4" d="M 21,8.863281 1.1582031,18.784179 C 1.4619698,19.500332 2.1705593,20 3,20 h 16 c 1.108,0 2,-0.892 2,-2 z"/>
+ <path style="opacity:0.2" d="m 9,11.09104 v 4.27246 l 4.272461,-2.135742 z"/>
+ <path style="fill:#ffffff" d="m 9,10.590821 v 4.27246 l 4.272461,-2.135742 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3,6 C 1.892,6 1,6.892 1,8 v 0.5 c 0,-1.108 0.892,-2 2,-2 h 16 c 1.108,0 2,0.892 2,2 V 8 C 21,6.892 20.108,6 19,6 Z"/>
 </svg>

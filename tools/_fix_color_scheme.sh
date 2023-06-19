@@ -25,8 +25,12 @@ set -e
 
 # Papirus, Papirus-Dark, Papirus-Light, and ePapirus
 add_class() {
-	# add the class if a value matches:
+	# 1. remove class="ColorScheme-*" if currentColor is missing
+	# 2. remove class="ColorScheme-*" if color property is set
+	# 3. add a class if color value matches
 	sed -i -r \
+		-e '/:currentColor/! s/[ ]class="ColorScheme-[^"]+"//g' \
+		-e '/[^-]color:[^;"]/ s/[ ]class="ColorScheme-[^"]+"//g' \
 		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf|#6e6e6e|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#4caf50/I s/(style="[^"]+")/\1 class="ColorScheme-PositiveText"/' \
@@ -37,18 +41,13 @@ add_class() {
 
 # Symbolic
 add_class_symbolic() {
-	# add classes if a color matches and a class is missing:
+	# 1. remove all success, warning, and error classes if exist
+	# 2. add classes if a color matches and a class is missing
 	sed -i -r \
+		-e '/class=/  { s/[ ]class="(success|warning|error)"//g }' \
 		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#4caf50/I s/(style="[^"]+")/\1 class="success"/ }' \
 		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#ff9800/I s/(style="[^"]+")/\1 class="warning"/ }' \
 		-e '/class=/! { /([^-]color|fill|stop-color|stroke):#f44336/I s/(style="[^"]+")/\1 class="error"/ }' \
-		"$@"
-}
-
-remove_class_without_current_color() {
-	# remove class="ColorScheme-*" that not used to avoid duplicates
-	sed -i -r \
-		-e '/class="ColorScheme-/ { /:currentColor/! s/[ ]class="ColorScheme-[^"]+"// }' \
 		"$@"
 }
 
@@ -70,8 +69,6 @@ for file in "$@"; do
 
 	if grep -q -i '\.ColorScheme-Text' "$file"; then
 		# the file has a color scheme
-
-		remove_class_without_current_color "$file"
 
 		if grep -q -i 'color:\(#444444\|#dfdfdf\|#6e6e6e\|#ffffff\)' "$file"; then
 			# it's Papirus, Papirus-Dark, Papirus-Light or ePapirus

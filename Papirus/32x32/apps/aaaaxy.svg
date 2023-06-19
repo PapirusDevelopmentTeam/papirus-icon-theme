@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="2" ry="2"/>
+ <rect style="fill:#3f3f3f" width="28" height="28" x="2" y="2" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="m 4,5 v 21 h 1 v 1 h 2 v 2 h 18 v -1 h 1 v -2 h 2 V 5 Z"/>
+ <path style="fill:#827717" d="m 4,4 v 21 h 1 v 1 h 2 v 2 h 18 v -1 h 1 v -2 h 2 V 4 Z"/>
+ <path style="opacity:0.2" d="M 11,6 V 8 H 9 v 2 H 7 v 2 H 5 v 10 h 2 v 2 h 2 v 2 h 2 v 2 h 10 v -2 h 2 v -2 h 2 v -2 h 2 V 12 H 25 V 10 H 23 V 8 H 21 V 6 Z"/>
+ <path style="fill:#26a69a" d="M 11,5 V 7 H 9 V 9 H 7 v 2 H 5 v 10 h 2 v 2 h 2 v 2 h 2 v 2 h 10 v -2 h 2 v -2 h 2 v -2 h 2 V 11 H 25 V 9 H 23 V 7 H 21 V 5 Z"/>
+ <path style="opacity:0.2" d="m 13,8 v 2 h -2 v 2 H 9 v 2 H 7 v 6 h 2 l 2e-7,2 H 11 v 2 h 2 v 2 h 6 v -2 h 2 v -2 h 2 v -2 h 2 V 14 H 23 V 12 H 21 V 10 H 19 V 8 Z"/>
+ <path style="fill:#3f51b5" d="m 13,7 v 2 h -2 v 2 H 9 v 2 H 7 v 6 h 2 l 2e-7,2 H 11 v 2 h 2 v 2 h 6 v -2 h 2 v -2 h 2 v -2 h 2 V 13 H 23 V 11 H 21 V 9 H 19 V 7 Z"/>
+ <path style="opacity:0.2" d="m 14,10 v 2 h -2 v 2 h -2 v 2 H 9 v 1 h 4 v -2 h 1 v 9 h 4 v -9 h 1 v 2 h 4 v -1 h -1 v -2 h -2 v -2 h -2 v -2 z"/>
+ <path style="fill:#cddc39" d="m 14,9 v 2 h -2 v 2 h -2 v 2 H 9 v 1 h 4 v -2 h 1 v 9 h 4 v -9 h 1 v 2 h 4 V 15 H 22 V 13 H 20 V 11 H 18 V 9 Z"/>
+ <path style="fill:#ffffff;opacity:.1" d="m4 2c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h24c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-24z"/>
+</svg>

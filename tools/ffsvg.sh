@@ -26,7 +26,7 @@ _run_helpers() {
 	# optimize a SVG
 	if command -v svgo > /dev/null 2>&1; then
 		# use SVGO
-		svgo --config="$SCRIPT_DIR/_svgo.yml" -i "$1" -o "$1".tmp
+		svgo --config="$SCRIPT_DIR/svgo.config.js" -i "$1" -o "$1".tmp
 		mv -f "$1".tmp "$1"
 	elif command -v scour > /dev/null 2>&1; then
 		# use scour

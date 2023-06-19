@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <path style="opacity:0.2" d="m 4,47 v 8.75 C 4,58.614257 6.3857424,61 9.25,61 H 18 v -6 h -8 v -8 z m 50,0 v 8 h -8 v 6 h 8.75 C 57.614257,61 60,58.614257 60,55.75 V 47 Z"/>
+ <path style="fill:#e4e4e4" d="M 10.531901,7 H 53.468098 C 55.419187,7 57,8.9266765 57,11.300944 V 52.699059 C 57,55.073322 55.419187,57 53.468098,57 H 10.531901 C 8.5808104,57 7,55.073322 7,52.699059 V 11.300944 C 7,8.9266765 8.5808104,7 10.531901,7 Z m 0,0"/>
+ <path style="opacity:0.1" d="M 9.25,5 C 6.3857424,5 4,7.3857424 4,10.25 V 19 h 6 v -8 h 8 V 5 Z M 46,5 v 6 h 8 v 8 h 6 V 10.25 C 60,7.3857424 57.614257,5 54.75,5 Z"/>
+ <path style="fill:#ed333b" d="m 54,46 v 8 h -8 v 6 h 8.75 C 57.614257,60 60,57.614257 60,54.75 V 46 Z"/>
+ <path style="fill:#ed333b" d="m 4,46 v 8.75 C 4,57.614257 6.3857424,60 9.25,60 H 18 v -6 h -8 v -8 z"/>
+ <path style="fill:#ed333b" d="m 46,4 v 6 h 8 v 8 h 6 V 9.25 C 60,6.3857424 57.614257,4 54.75,4 Z"/>
+ <path style="fill:#ed333b" d="M 9.25,4 C 6.3857424,4 4,6.3857424 4,9.25 V 18 h 6 v -8 h 8 V 4 Z"/>
+ <g fill="#3584e4" transform="matrix(0.57142858,0,0,0.60714287,-6.2857145,-6.2857141)">
+  <path transform="matrix(2.3333333,0,0,2.3333333,8.6666668,7.3333332)" d="m 10,14 v 2.117647 h 3 v 7.764706 H 10 V 26 h 12 v -2.117647 -4.941177 h -2.25 v 4.941177 h -4.5 v -7.764706 h 3 V 14 Z"/>
+ </g>
+ <path fill="#3584e4" d="m 31,18 h 3 v 3 h -3 z m 0,0"/>
+ <path fill="#3584e4" d="m 37,18 h 3 v 3 h -3 z m 0,0"/>
+ <path fill="#3584e4" d="m 43,18 h 3 v 3 h -3 z m 0,0"/>
+ <path fill="#3584e4" d="m 49,18 h 3 v 3 h -3 z m 0,0"/>
+ <path style="fill:#afafaf" d="m 31,25 h 21 v 3 H 31 Z m 0,0"/>
+ <path style="fill:#afafaf" d="m 31,32 h 21 v 3 H 31 Z m 0,0"/>
+ <path style="fill:#afafaf" d="m 12,39 h 40 v 3 H 12 Z m 0,0"/>
+ <path style="fill:#afafaf" d="m 12,46 h 22 v 3 H 12 Z m 0,0"/>
+ <path fill="#ed333b" d="m 37,46 h 3 v 3 h -3 z m 0,0"/>
+ <path fill="#ed333b" d="m 43,46 h 3 v 3 h -3 z m 0,0"/>
+ <path fill="#ed333b" d="m 49,46 h 3 v 3 h -3 z m 0,0"/>
+ <rect style="opacity:0.2" width="28" height="1" x="18" y="57"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="28" height="1" x="18" y="7"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 9.25 4 C 6.3857424 4 4 6.3857424 4 9.25 L 4 10.25 C 4 7.38574 6.3857424 5 9.25 5 L 18 5 L 18 4 L 9.25 4 z M 46 4 L 46 5 L 54.75 5 C 57.614257 5 60 7.38574 60 10.25 L 60 9.25 C 60 6.3857424 57.614257 4 54.75 4 L 46 4 z"/>
+</svg>

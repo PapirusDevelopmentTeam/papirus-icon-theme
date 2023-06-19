@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#4f4f4f" width="16" height="14" x="0" y="1" rx=".8" ry=".8"/>
- <path style="fill:#ffffff" d="m4 4v1h-0.5c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h0.5v1h-1.9082c0.206 0.582 0.754 1 1.4082 1h0.5v1h1v-1h0.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-0.5v-1h1.9082c-0.206-0.582-0.754-1-1.408-1h-0.5v-1h-1zm-0.5 2h0.5v1h-0.5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm1.5 2h0.5c0.277 0 0.5 0.223 0.5 0.5s-0.2233 0.5129-0.5 0.5h-0.5zm4 2v1h6v-1z"/>
+ <rect style="fill:#4f4f4f" width="16" height="14" x="0" y="1" rx="1.2" ry="1.167"/>
+ <rect style="fill:#ffffff" width="4" height="1" x="7" y="8" rx=".3" ry=".3"/>
+ <rect style="fill:#a2a2a2" width="4.531" height="1.133" x="-4.75" y="7.32" rx=".34" ry=".34" transform="matrix(0.72149705,-0.69241751,0.72149705,0.69241751,0,0)"/>
+ <rect style="fill:#ffffff" width="4.531" height="1.133" x="3.92" y="-1.35" rx=".34" ry=".34" transform="matrix(0.72149705,0.69241751,0.72149705,-0.69241751,0,0)"/>
 </svg>

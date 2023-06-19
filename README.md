@@ -12,12 +12,15 @@
 
 Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) with a lot of new icons and a few extras, like [Hardcode-Tray support](#hardcoded-tray-icons), [KDE colorscheme support](#kde-colorscheme), [Folder Color support](#folders-color), and [others](#extras).
 
-Papirus icon theme is available in four variants:
+Android version available [here](https://github.com/PapirusDevelopmentTeam/papirus_icons).
+
+Papirus icon theme is available in five variants:
 
  - Papirus
  - Papirus Dark
  - Papirus Light
- - ePapirus (for elementary OS and Pantheon Desktop)
+ - ePapirus (for elementary OS and Pantheon Desktop only)
+ - ePapirus Dark (for elementary OS and Pantheon Desktop only)
 
 ## Contents
 
@@ -25,6 +28,7 @@ Papirus icon theme is available in four variants:
     - [Ubuntu and derivatives](#ubuntu-and-derivatives)
     - [Debian and derivatives](#debian-and-derivatives)
     - [Papirus Installer](#papirus-installer)
+    - [Snap](#snap)
     - [Third-party packages](#third-party-packages)
  - [Hardcoded icons](#hardcoded-icons)
     - [Hardcoded application icons](#hardcoded-application-icons)
@@ -64,7 +68,8 @@ Debian users also can install Papirus from our [PPA](https://launchpad.net/~papi
 sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu focal main' > /etc/apt/sources.list.d/papirus-ppa.list"
 
 sudo apt-get install dirmngr
-sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E58A9D36647CAE7F
+sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/papirus.gpg --keyserver keyserver.ubuntu.com --recv E58A9D36647CAE7F
+sudo chmod 644 /etc/apt/trusted.gpg.d/papirus.gpg
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
@@ -105,6 +110,12 @@ wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="/usr/local/sh
 wget -qO- https://git.io/papirus-icon-theme-uninstall | sh
 ```
 
+### Snap
+
+<a href="https://snapcraft.io/icon-theme-papirus">
+  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+</a>
+
 ### Third-party packages
 
 Packages listed in this section are third-party packages. If you have a problem or a question, please contact the package maintainer.
@@ -113,17 +124,19 @@ Please note that some packages in the list may be outdated, open [Repology](http
 
 | **Distro**    | **Maintainer**       | **Package**                              |
 | :------------ | :------------------- | :--------------------------------------- |
+| Alpine Linux  | David Demelier       | `sudo apk add papirus-icon-theme` <sup>[[link](https://pkgs.alpinelinux.org/package/edge/community/x86_64/papirus-icon-theme)]</sup> |
 | ALT Linux     | Andrey Cherepanov    | `apt-get install papirus-icon-theme` <sup>[[link](https://packages.altlinux.org/en/Sisyphus/srpms/papirus-icon-theme)]</sup> |
 | Arch Linux    | Felix Yan            | `sudo pacman -S papirus-icon-theme` <sup>community</sup> |
-| Arch Linux    | Mohammadreza Abdollahzadeh | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
+| Arch Linux    | Mark Wagie | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
 | Debian 9+     | Yangfl               | `sudo apt install papirus-icon-theme` |
+| Debian        | only_vip             | [papirus-icon-theme](https://mpr.hunterwittenborn.com/packages/papirus-icon-theme/) <sup>MPR</sup> |
 | Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
 | Fedora        | Dirk Davidis         | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
-| Gentoo        | Mikle Kolyada        | `sudo emerge -a papirus-icon-theme` |
+| Gentoo        | Marco Scardovi       | `sudo emerge -a papirus-icon-theme` |
 | NetBSD        | Nia Alarie           | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
 | NixOS         | Nixpkgs Contributors | `nix-env -iA nixos.papirus-icon-theme` |
-| openSUSE      | Konstantin Voinov    | [papirus-icon-theme](https://software.opensuse.org/download.html?project=home:kill_it&package=papirus-icon-theme) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/papirus-icon-theme)]</sub> |
+| OpenBSD       | David Demelier       | `doas pkg_add papirus-icon-theme` |
 | openSUSE      | Matthias Eliasson    | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
 | ROSA Linux    | Vladimir Penchikov   | `sudo urpmi papirus-icon-theme` |
 | Solus         | Joshua Strobl        | `sudo eopkg it papirus-icon-theme` |
@@ -166,6 +179,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 **NOTE**: Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
 
 ### Steam runtime icons
+
 To fix icons of running Steam games, you can use [Steam Icons Fixer](https://github.com/BlueManCZ/SIF) script, that will connect all icons available from our icon theme with your installed games.
 
 ## KDE colorscheme
@@ -185,7 +199,7 @@ Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support t
 
 Available colors:
 
-![Folder Color Preview](https://i.imgur.com/Z8d3aMO.png)
+![Folder Color Preview](https://i.imgur.com/fNmJIWW.png)
 
 For KDE, colors of individual folders can be changed using [dolphin-folder-color](https://github.com/audoban/dolphin-folder-color).
 
@@ -210,6 +224,18 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
   - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde)
 
 ## Manual fixes
+
+<details>
+<summary>For Pop!_OS users</summary>
+
+For Pop!_OS users who want to use the [Pop!_Shop](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/pop-shop.svg) icon (instead of the default [Elementary Appcentre](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/io.elementary.appcenter.svg) icon):
+
+```
+mkdir -p ~/.local/share/applications/
+cp /usr/share/applications/io.elementary.appcenter.desktop ~/.local/share/applications/
+desktop-file-edit --set-icon=pop-shop ~/.local/share/applications/io.elementary.appcenter.desktop
+```
+</details>
 
 <details>
 <summary>For Cinnamon users</summary>
@@ -247,7 +273,7 @@ Here are a few recommendations for Xfce users.
 
 Go to `Edit` → `Preferences...`. Click on `Side Pane` tab. Under `Side Pane`, look for `Icon Size` and set to `Very Small`.
 
-![thunar-prefecences](https://i.imgur.com/Iu1TIEa.png)
+![thunar-preferences](https://i.imgur.com/Iu1TIEa.png)
 
 #### Notification Area
 
@@ -328,9 +354,13 @@ We are waiting for your pull requests and would love to see this icon theme beco
 
 You can support this open source project by making a voluntary payment:
 
-- Patreon: https://www.patreon.com/varlesh
-- PayPal: https://www.paypal.me/varlesh
 
 ## License
 
-Papirus icon theme distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
+Papirus icon theme is free and open source project distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
+
+Every logo in this icon theme is owned by the respective trademark holder. We have not received approval to create these logos from any of the trademark owners, and the existence of an icon in this repository is in no way supported by the trademark owner.
+
+Where possible, we stayed true to the branding and official guidelines.
+
+If you are a trademark holder or application owner for one of these applications and disapprove of the icons we've created for your application, please submit an issue to this repository.
