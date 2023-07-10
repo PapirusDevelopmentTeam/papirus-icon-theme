@@ -1,15 +1,15 @@
-<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
- <rect width="16" height="16" rx=".80000001" ry=".80000001" style="fill:#e4e4e4"/>
- <path d="M 5,8 5.9999998,7.25 V 7.7499992 L 7,7.75 V 8.2500005 H 5.9999998 V 8.75 Z" style="fill:#808080;stop-color:#000000"/>
- <circle cx="8" cy="8" r="1.5" style="fill:#c162c9;stop-color:#000000"/>
- <circle cx="3.500001" cy="8" r="1.5" style="fill:#009688;stop-color:#000000"/>
- <path d="m 8,6.5 -0.75,-0.9999992 0.4999995,-6e-7 V 4 h 0.500001 V 5.5000002 H 8.75 Z" style="fill:#808080;stop-color:#000000"/>
- <circle cx="7.9999995" cy="3.5" r="1.4999999" style="fill:#03a9f4;stop-color:#000000"/>
- <path d="m9.4583329 3.4999996 0.9999991-0.7499999 1e-6 0.4999999 1.541667 4e-7v0.4999992l-1.541667 3e-7v0.5000001z" style="fill:#808080;stop-color:#000000"/>
- <circle cx="12.5" cy="3.5" r="1.4999999" style="fill:#ffc107;stop-color:#000000"/>
- <circle cx="6.5" cy="12.5" r="1.5" style="fill:#ffffff;stop-color:#000000"/>
- <path d="m12.5 5 0.75 0.9999994-0.499999 5e-7 -1e-6 6.0000001h-0.5l-1e-6 -6.0000001h-0.499999z" style="fill:#808080;stop-color:#000000"/>
- <path d="m8 12.5 0.9999982-0.75 8e-7 0.5h3.000001v0.499998l-3.000001 1e-6v0.500001z" style="fill:#808080;stop-color:#000000"/>
- <circle cx="12.5" cy="12.5" r="1.5" style="fill:#fa3e30;stop-color:#000000"/>
- <path d="m9 9.11639 0.1697467 1.164147 0.3045296-0.3880491 1.1966467 1.1485151-0.304527 0.388049h1.083332l-0.221996-1.097568-0.252281 0.321471-1.1966467-1.1485158 0.3045277-0.3880492z" style="fill:#808080;stop-color:#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#e4e4e4" width="16" height="16" rx=".8" ry=".8"/>
+ <path style="fill:#808080" d="M 5,8.5 5.5,8 H 7 V 9 H 5.5 Z"/>
+ <circle style="fill:#c162c9" cx="7.5" cy="8.5" r="1.5"/>
+ <circle style="fill:#009688" cx="3.5" cy="8.5" r="1.5"/>
+ <path style="fill:#808080" d="M 7.5,7 7,6.5 V 4 H 8 V 6.5 Z"/>
+ <circle style="fill:#03a9f4" cx="7.5" cy="3.5" r="1.5"/>
+ <path style="fill:#808080" d="M 9,3.5 9.5,3 H 12 V 4 H 9.5 Z"/>
+ <circle style="fill:#ffc107" cx="12.5" cy="3.5" r="1.5"/>
+ <circle style="fill:#ffffff" cx="6.5" cy="12.5" r="1.5"/>
+ <path style="fill:#808080" d="M 12.5,5 13,5.5 V 12 H 12 V 5.5 Z"/>
+ <path style="fill:#808080" d="M 8,12.5 8.5,12 H 12 V 13 H 8.5 Z"/>
+ <circle style="fill:#fa3e30" cx="12.5" cy="12.5" r="1.5"/>
+ <path style="fill:#808080" d="M 9,9 V 10 L 10.4,11.4 H 11.4 V 10.4 L 10,9 Z"/>
 </svg>
