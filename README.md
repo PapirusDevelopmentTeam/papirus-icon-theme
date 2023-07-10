@@ -131,10 +131,8 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | Debian 9+     | Yangfl               | `sudo apt install papirus-icon-theme` |
 | Debian        | only_vip             | [papirus-icon-theme](https://mpr.hunterwittenborn.com/packages/papirus-icon-theme/) <sup>MPR</sup> |
 | Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
-| Fedora        | Dirk Davidis         | [papirus-icon-theme](https://copr.fedorainfracloud.org/coprs/dirkdavidis/papirus-icon-theme/) <sup>copr</sup> |
 | FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
 | Gentoo        | Marco Scardovi       | `sudo emerge -a papirus-icon-theme` |
-| NetBSD        | Nia Alarie           | [papirus-icon-theme](http://pkgsrc.se/graphics/papirus-icon-theme) <sup>pkgsrc</sup> |
 | NixOS         | Nixpkgs Contributors | `nix-env -iA nixos.papirus-icon-theme` |
 | OpenBSD       | David Demelier       | `doas pkg_add papirus-icon-theme` |
 | openSUSE      | Matthias Eliasson    | [papirus-icon-theme](https://software.opensuse.org/package/papirus-icon-theme) <sup>official</sup> |
