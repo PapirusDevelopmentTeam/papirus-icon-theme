@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="33" r="28" style="opacity:.2"/>
+ <circle cx="32" cy="32" r="28" style="fill:#25b7d3"/>
+ <path d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0215,32.586 28,28 0 0 1 32,5 28,28 0 0 1 59.979,32.414 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z" style="fill:#ffffff;opacity:.2"/>
+ <rect x="30" y="44" width="5" height="5" style="fill:#e2e4e5;stop-color:#000000"/>
+ <rect x="15" y="36" width="35" height="10" ry="2" style="font-variation-settings:normal;opacity:.2;stop-color:#000000"/>
+ <rect x="15" y="35" width="35" height="10" ry="2" style="fill:#ffffff;stop-color:#000000"/>
+ <path d="m17 20c-1.107999 0-2 0.892001-2 2v18h35v-18c0-1.107999-0.892001-2-2-2z" style="fill:#3f3f3f;stop-color:#000000"/>
+ <path d="m17 20c-1.107998 0-2 0.892002-2 2v1c0-1.107998 0.892002-2 2-2h31c1.107998 0 2 0.892002 2 2v-1c0-1.107998-0.892002-2-2-2z" style="fill:#ffffff;font-variation-settings:normal;opacity:.1;stop-color:#000000"/>
+ <circle cx="32.5" cy="23.5" r="12.5" style="font-variation-settings:normal;opacity:.1;stop-color:#000000"/>
+ <circle cx="32.5" cy="22.5" r="12.5" style="fill:#ffffff"/>
+ <path d="m 30,14 h 5 v 5.97666 L 40.999999,20 32.5,30.999999 23.999999,19.999996 H 30 Z" style="fill:#17b198;stop-color:#000000"/>
+ <circle cx="32.5" cy="42.5" r="1.5" style="fill:#cfd3d4"/>
+ <rect x="25" y="49" width="15" height="2" style="font-variation-settings:normal;opacity:.2;stop-color:#000000"/>
+ <rect x="25" y="48" width="15" height="2" style="fill:#f0f1f1;stop-color:#000000"/>
+ <path d="m30 14v1h5v-1h-5zm5 5.976562v1l5.230469 0.019532 0.769531-0.996094-6-0.023438zm-11 0.023438 0.773438 1h5.226562v-1h-6z" style="fill:#ffffff;font-variation-settings:normal;opacity:.1;stop-color:#000000"/>
+</svg>
