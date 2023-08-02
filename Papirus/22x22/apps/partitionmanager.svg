@@ -1,1 +1,14 @@
-gparted.svg
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <circle transform="translate(-1,-1)" cx="12" cy="12" r="4" style="fill:#ababab"/>
+ <circle transform="translate(-1,-1)" cx="12" cy="12.5" r="2" style="fill:#010101;opacity:.2"/>
+ <path transform="translate(-1,-1)" d="m12 2.5v6c2.165856 0 4 1.808707 4 4h6c0-5.648629-4.460384-10-10-10z" style="opacity:.2"/>
+ <path transform="translate(-1,-1)" d="m12 2.5v6c-2.156046 0-4 1.849164-4 4h-6c0-5.648629 4.460386-10 10-10z" style="opacity:.2"/>
+ <path transform="translate(-1,-1)" d="m12 22.5v-6c-2.191294 0-4-1.754146-4-4h-6c0 5.648626 4.460385 10 10 10z" style="opacity:.2"/>
+ <path transform="translate(-1,-1)" d="m12 22.5v-6c2.191294 0 4-1.828935 4-4h6c0 5.648626-4.460382 10-10 10z" style="opacity:.2"/>
+ <path transform="translate(-13,-18)" d="m24 39v-6c2.191294 0 4-1.828935 4-4h6c0 5.648626-4.460382 10-10 10z" style="fill:#514694"/>
+ <path transform="translate(-13,-18)" d="m24 39v-6c-2.191294 0-4-1.754146-4-4h-6c0 5.648626 4.460385 10 10 10z" style="fill:#fecd38"/>
+ <path transform="translate(-13,-18)" d="m24 19v6c-2.156046 0-4 1.849164-4 4h-6c0-5.648629 4.460386-10 10-10z" style="fill:#4bae4f"/>
+ <path transform="translate(-13,-18)" d="m24 19v6c2.165856 0 4 1.808707 4 4h6c0-5.648629-4.460384-10-10-10z" style="fill:#248afd"/>
+ <circle transform="translate(-13,-18)" cx="24" cy="29" r="2" style="fill:#e4e4e4"/>
+ <path transform="translate(-13,-18)" d="m34 29s-0.519399-9.5-10-9.5-10 9.5-10 9.5c0-5.714286 4.477153-10 10-10s10 4.285714 10 10z" style="fill:#ffffff;opacity:.2"/>
+</svg>
