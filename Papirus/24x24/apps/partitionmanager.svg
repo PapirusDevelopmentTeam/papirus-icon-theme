@@ -1,14 +1,12 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="12" cy="12" r="4" style="fill:#ababab"/>
- <circle cx="12" cy="12.5" r="2" style="fill:#010101;opacity:.2"/>
- <path d="m12 2.5v6c2.165856 0 4 1.808707 4 4h6c0-5.648629-4.460384-10-10-10z" style="opacity:.2"/>
- <path d="m12 2.5v6c-2.156046 0-4 1.849164-4 4h-6c0-5.648629 4.460386-10 10-10z" style="opacity:.2"/>
- <path d="m12 22.5v-6c-2.191294 0-4-1.754146-4-4h-6c0 5.648626 4.460385 10 10 10z" style="opacity:.2"/>
- <path d="m12 22.5v-6c2.191294 0 4-1.828935 4-4h6c0 5.648626-4.460382 10-10 10z" style="opacity:.2"/>
- <path transform="translate(-12,-17)" d="m24 39v-6c2.191294 0 4-1.828935 4-4h6c0 5.648626-4.460382 10-10 10z" style="fill:#514694"/>
- <path transform="translate(-12,-17)" d="m24 39v-6c-2.191294 0-4-1.754146-4-4h-6c0 5.648626 4.460385 10 10 10z" style="fill:#fecd38"/>
- <path transform="translate(-12,-17)" d="m24 19v6c-2.156046 0-4 1.849164-4 4h-6c0-5.648629 4.460386-10 10-10z" style="fill:#4bae4f"/>
- <path transform="translate(-12,-17)" d="m24 19v6c2.165856 0 4 1.808707 4 4h6c0-5.648629-4.460384-10-10-10z" style="fill:#248afd"/>
- <circle transform="translate(-12,-17)" cx="24" cy="29" r="2" style="fill:#e4e4e4"/>
- <path transform="translate(-12,-17)" d="m34 29s-0.519399-9.5-10-9.5-10 9.5-10 9.5c0-5.714286 4.477153-10 10-10s10 4.285714 10 10z" style="fill:#ffffff;opacity:.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <circle style="opacity:0.2" cx="12" cy="12.5" r="10"/>
+ <path style="fill:#248afd" d="M 12,2 V 12 H 11 Z M 12,12 H 22 L 12,13 V 12 M 12,2 V 12 H 22 A 10,10 0 0 0 12,2 Z"/>
+ <path style="fill:#514694" d="M 12,12 V 22 L 11,12 Z M 12,12 V 22 A 10,10 0 0 0 22,12 Z"/>
+ <path style="fill:#fecd38" d="M 12,12 V 11 L 2,12 Z M 2,12 A 10,10 0 0 0 12,22 V 12 Z"/>
+ <path style="fill:#4bae4f" d="M 12 2 A 10 10 0 0 0 2 12 L 12 12 L 12 2 z"/>
+ <circle style="fill:#ababab" cx="12" cy="12" r="4"/>
+ <circle style="opacity:0.2" cx="12" cy="12.5" r="2"/>
+ <circle style="fill:#e4e4e4" cx="12" cy="12" r="2"/>
+ <path style="opacity:0.2" d="M 12 8 A 4 4 0 0 0 8 12 A 4 4 0 0 0 8.0176 12.25 A 4 4 0 0 1 12 8.5 A 4 4 0 0 1 15.986 12.186 A 4 4 0 0 0 16 12 A 4 4 0 0 0 12 8 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 12 2 A 10 10 0 0 0 2 12 A 10 10 0 0 0 2.0176 12.25 A 10 10 0 0 1 12 2.5 A 10 10 0 0 1 21.99 12.125 A 10 10 0 0 0 22 12 A 10 10 0 0 0 12 2 z"/>
 </svg>
