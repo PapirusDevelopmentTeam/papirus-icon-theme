@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400" class="ColorScheme-Text" d="M 13.96289,10 A 3.5,3.5 0 0 1 14,10.5 3.5,3.5 0 0 1 13.648438,12 H 17 v 5 H 12 V 13.648437 A 3.5,3.5 0 0 1 10.5,14 3.5,3.5 0 0 1 10,13.957031 V 19 h 9 v -9 z"/>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400" class="ColorScheme-Text" d="m10.5 5a5.5 5.5 0 0 0-5.5 5.5 5.5 5.5 0 0 0 5.5 5.5 5.5 5.5 0 0 0 1.5-0.212891v-2.138672a3.5 3.5 0 0 1-1.5 0.351563 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.4999999 3.5 3.5 0 0 1 3.5 3.4999999 3.5 3.5 0 0 1-0.351563 1.5h2.138672a5.5 5.5 0 0 0 0.212891-1.5 5.5 5.5 0 0 0-5.5-5.5zm5.287109 7a5.5 5.5 0 0 1-0.068359 0.205078 5.5 5.5 0 0 0 0.068359-0.205078zm-3.787109 3.787109a5.5 5.5 0 0 0 0.205078-0.06836 5.5 5.5 0 0 1-0.205078 0.06836zm3.568359-3.173828a5.5 5.5 0 0 1-0.111328 0.25586 5.5 5.5 0 0 0 0.111328-0.25586zm-0.378906 0.746094a5.5 5.5 0 0 1-0.140625 0.21875 5.5 5.5 0 0 0 0.140625-0.21875zm-0.494141 0.689453a5.5 5.5 0 0 1-0.164062 0.177734 5.5 5.5 0 0 0 0.164062-0.177734zm-0.46875 0.482422a5.5 5.5 0 0 1-0.177734 0.164062 5.5 5.5 0 0 0 0.177734-0.164062zm-0.648437 0.517578a5.5 5.5 0 0 1-0.21875 0.140625 5.5 5.5 0 0 0 0.21875-0.140625zm-0.708985 0.408203a5.5 5.5 0 0 1-0.255859 0.111328 5.5 5.5 0 0 0 0.255859-0.111328z"/>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400;opacity:.35" class="ColorScheme-Text" d="m 10,10 v 3.957031 A 3.5,3.5 0 0 0 10.5,14 3.5,3.5 0 0 0 12,13.648438 V 12 h 1.648437 A 3.5,3.5 0 0 0 14,10.5 3.5,3.5 0 0 0 13.96289,10 Z"/>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400;opacity:.35" class="ColorScheme-Text" d="M 13.648437,12 A 3.5,3.5 0 0 1 12,13.648437 v 2.138672 A 5.5,5.5 0 0 0 15.787109,12 Z"/>
+</svg>

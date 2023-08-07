@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400" class="ColorScheme-Text" d="m 10.96289,6.9999999 a 3.5,3.5 0 0 1 0.03711,0.5 3.5,3.5 0 0 1 -0.351562,1.5 h 3.351562 V 14 H 9 V 10.648437 A 3.5,3.5 0 0 1 7.5,11 3.5,3.5 0 0 1 7,10.957031 V 16 h 9 V 6.9999999 Z"/>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400" class="ColorScheme-Text" d="m7.5 1.9999998a5.5 5.5 0 0 0-5.5 5.5000001 5.5 5.5 0 0 0 5.5 5.5000001 5.5 5.5 0 0 0 1.5-0.212891v-2.138672a3.5 3.5 0 0 1-1.5 0.351563 3.5 3.5 0 0 1-3.5-3.5000001 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-0.351563 1.5h2.138672a5.5 5.5 0 0 0 0.212891-1.5 5.5 5.5 0 0 0-5.5-5.5000001zm5.287109 7.0000001a5.5 5.5 0 0 1-0.068359 0.2050781 5.5 5.5 0 0 0 0.068359-0.2050781zm-3.787109 3.7871091a5.5 5.5 0 0 0 0.205078-0.06836 5.5 5.5 0 0 1-0.205078 0.06836zm3.568359-3.1738279a5.5 5.5 0 0 1-0.111328 0.2558594 5.5 5.5 0 0 0 0.111328-0.2558594zm-0.378906 0.7460939a5.5 5.5 0 0 1-0.140625 0.21875 5.5 5.5 0 0 0 0.140625-0.21875zm-0.494141 0.689453a5.5 5.5 0 0 1-0.164062 0.177734 5.5 5.5 0 0 0 0.164062-0.177734zm-0.46875 0.482422a5.5 5.5 0 0 1-0.177734 0.164062 5.5 5.5 0 0 0 0.177734-0.164062zm-0.648437 0.517578a5.5 5.5 0 0 1-0.21875 0.140625 5.5 5.5 0 0 0 0.21875-0.140625zm-0.7089846 0.408203a5.5 5.5 0 0 1-0.2558594 0.111328 5.5 5.5 0 0 0 0.2558594-0.111328z"/>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400;opacity:.35" class="ColorScheme-Text" d="m7 6.9999999v3.9570311a3.5 3.5 0 0 0 0.5 0.042969 3.5 3.5 0 0 0 1.5-0.351562v-1.6484381h1.648437a3.5 3.5 0 0 0 0.351563-1.5 3.5 3.5 0 0 0-0.03711-0.5z"/>
+ <path style="fill:currentColor;font-variation-settings:'wght' 400;opacity:.35" class="ColorScheme-Text" d="m10.648437 8.9999999a3.5 3.5 0 0 1-1.648437 1.6484371v2.138672a5.5 5.5 0 0 0 3.787109-3.7871091z"/>
+</svg>
