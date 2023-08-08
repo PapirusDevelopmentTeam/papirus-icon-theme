@@ -32,6 +32,7 @@ s/[ ]id="ellipse[0-9-]*"//gI
 s/[ ]id="defs[0-9-]*"//gI
 s/[ ]id="g[0-9-]*"//gI
 s/[ ]id="path[0-9-]*"//gI
+s/[ ]id="line[0-9-]*"//gI
 s/[ ]id="polygon[0-9-]*"//gI
 s/[ ]id="rect[0-9-]*"//gI
 s/[ ]id="svg[0-9-]*"//gI
