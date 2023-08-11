@@ -1,8 +1,9 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="2" y="3" width="28" height="28" rx="4" ry="4" style="opacity:.2"/>
- <rect x="2" y="2" width="28" height="28" rx="4" ry="4" style="fill:#e4e4e4"/>
- <rect x="6" y="7" width="20.000366" height="20.000368" rx="1.8182155" ry="1.8182156" style="fill:none;opacity:.2;stroke-width:2;stroke:#000000"/>
- <rect x="5.9998174" y="5.999815" width="20.000366" height="20.000368" rx="1.8182155" ry="1.8182156" style="fill:none;stroke-width:1.99963;stroke:#4f4f4f"/>
- <path d="m10 21v-8l5 8v-8l3.5 8 3.5-8" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:2;stroke:#09040b"/>
- <path d="m10 20v-8l5 8v-8l3.5 8 3.5-8" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:2;stroke:#a867c0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="4" ry="4"/>
+ <rect style="fill:#e4e4e4" width="28" height="28" x="2" y="2" rx="4" ry="4"/>
+ <rect style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2" width="20" height="20" x="6" y="7" rx="3" ry="3"/>
+ <rect style="fill:none;stroke:#4f4f4f;stroke-width:2" width="20" height="20" x="6" y="6" rx="3" ry="3"/>
+ <path style="fill:none;opacity:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000" d="m10 21v-8l5 8v-8l3.5 8 3.5-8"/>
+ <path style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#a867c0" d="m10 20v-8l5 8v-8l3.5 8 3.5-8"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6 2 C 3.784 2 2 3.784 2 6 L 2 7 C 2 4.784 3.784 3 6 3 L 26 3 C 28.216 3 30 4.784 30 7 L 30 6 C 30 3.784 28.216 2 26 2 L 6 2 z"/>
 </svg>
