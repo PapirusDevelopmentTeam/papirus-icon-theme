@@ -1,1 +1,13 @@
-cheese.svg
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m16 24.7s8 2.1 8 3.5v1.4c0 0.7756-0.594667 1.4-1.333333 1.4h-13.333334c-0.7386666 0-1.3333333-0.6244-1.3333333-1.4v-1.4c0-1.4 8-3.5 8-3.5z" style="opacity:.2"/>
+ <path d="m16 23.7s8 2.1 8 3.5v1.4c0 0.7756-0.594667 1.4-1.333333 1.4h-13.333334c-0.7386666 0-1.3333333-0.6244-1.3333333-1.4v-1.4c0-1.4 8-3.5 8-3.5z" style="fill:#4f4f4f"/>
+ <circle cx="16" cy="15" r="13" style="opacity:.2"/>
+ <circle cx="16" cy="14" r="13" style="fill:#8e8e8e"/>
+ <circle transform="scale(1,-1)" cx="16" cy="-14" r="9" style="fill:#4f4f4f"/>
+ <circle transform="scale(1,-1)" cx="16" cy="-15" r="7" style="opacity:.2"/>
+ <circle transform="scale(1,-1)" cx="16" cy="-14" r="7" style="fill:#00b1c4"/>
+ <circle cx="16" cy="15" r="4" style="opacity:.2"/>
+ <circle cx="16" cy="14" r="4" style="fill:#70f4ff"/>
+ <path d="M 15.939453,10 A 4,4 0 0 0 12,14 4,4 0 0 0 12.03125,14.496094 4,4 0 0 1 16,11 4,4 0 0 1 19.96875,14.503906 4,4 0 0 0 20,14 4,4 0 0 0 16,10 4,4 0 0 0 15.93945,10 Z" style="fill:#ffffff;opacity:.2"/>
+ <path d="M 15.892578,1 A 13,13 0 0 0 3,14 13,13 0 0 0 3.0097656,14.503906 13,13 0 0 1 16,2 13,13 0 0 1 28.990234,14.496094 13,13 0 0 0 29,14 13,13 0 0 0 16,1 13,13 0 0 0 15.892578,1 Z" style="fill:#ffffff;opacity:.1"/>
+</svg>
