@@ -1,1 +1,13 @@
-cheese.svg
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 48.4s17 4.2 17 7v2.8c0 1.5512-1.263667 2.8-2.833333 2.8h-28.333334c-1.569666 0-2.833333-1.2488-2.833333-2.8v-2.8c0-2.8 17-7 17-7z" style="opacity:.2"/>
+ <path d="m32 47.4s17 4.2 17 7v2.8c0 1.5512-1.263667 2.8-2.833333 2.8h-28.333334c-1.569666 0-2.833333-1.2488-2.833333-2.8v-2.8c0-2.8 17-7 17-7z" style="fill:#4f4f4f"/>
+ <circle cx="32" cy="30" r="25" style="opacity:.2"/>
+ <circle cx="32" cy="29" r="25" style="fill:#8e8e8e"/>
+ <circle transform="scale(1,-1)" cx="32" cy="-29" r="18" style="fill:#4f4f4f"/>
+ <circle transform="scale(1,-1)" cx="32" cy="-30" r="14" style="opacity:.2"/>
+ <circle transform="scale(1,-1)" cx="32" cy="-29" r="14" style="fill:#00b1c4"/>
+ <circle cx="32" cy="30" r="8" style="opacity:.2"/>
+ <circle cx="32" cy="29" r="8" style="fill:#70f4ff"/>
+ <path d="M 31.878906,21 A 8,8 0 0 0 24,29 8,8 0 0 0 24.015625,29.505859 8,8 0 0 1 31.878906,22 8,8 0 0 1 32,22 8,8 0 0 1 39.984375,29.498047 8,8 0 0 0 40,29 8,8 0 0 0 32,21 8,8 0 0 0 31.878906,21 Z" style="fill:#ffffff;opacity:.2"/>
+ <path d="M 31.832031,4 A 25,25 0 0 0 7,29 25,25 0 0 0 7.0058594,29.490234 25,25 0 0 1 32,5 25,25 0 0 1 56.994141,29.509766 25,25 0 0 0 57,29 25,25 0 0 0 32,4 25,25 0 0 0 31.832031,4 Z" style="fill:#ffffff;opacity:.1"/>
+</svg>
