@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="5" width="56" height="56" rx="12" ry="12" style="fill:#000102;opacity:.2"/>
+ <rect x="4" y="4" width="56" height="56" rx="12" ry="12" style="fill:#1381fd"/>
+ <circle cx="22" cy="39" r="14" style="fill:#090909;opacity:.2"/>
+ <circle cx="22" cy="38" r="14" style="fill:#32c6fd"/>
+ <path d="m36 38c0-7-6.268014-13-14-13s-14 6-14 13c0-7.731986 6.268014-14 14-14s14 6.268014 14 14z" style="fill:#ffffff;opacity:.2"/>
+ <ellipse transform="matrix(.73621084 -.67675224 .52272112 .85250374 0 0)" cx="11.089157" cy="47.512741" rx="8.4164562" ry="25.351112" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:3.02868;stroke:#000000"/>
+ <ellipse transform="matrix(.73621084 -.67675224 .52272112 .85250374 0 0)" cx="11.621799" cy="46.762558" rx="8.4164562" ry="25.351112" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:3.02868;stroke:#e4e4e4"/>
+ <circle cx="48" cy="25" r="8" style="opacity:.2"/>
+ <circle cx="48" cy="24" r="8" style="fill:#fecd38"/>
+ <path d="m56 24c0-3-3.581722-7-8-7s-8 4-8 7c0-4.418278 3.581722-8 8-8s8 3.581722 8 8z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m16 4h32c6.648 0 12 5.352 12 12v1c0-6-5.352-12-12-12h-32c-6.648 0-12 6-12 12v-1c0-6.648 5.352-12 12-12z" style="fill:#ffffff;opacity:.2"/>
+</svg>

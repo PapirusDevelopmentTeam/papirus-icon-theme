@@ -1,0 +1,13 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1.5" width="20" height="20" rx="4" ry="4" style="opacity:.2"/>
+ <rect x="1" y="1" width="20" height="20" rx="4" ry="4" style="fill:#1381fd"/>
+ <path d="m5 1h12c2.216 0 4 1.784 4 4v0.5c0-2.2295569-1.784-4-4-4h-12c-2.216 0-4 1.7704431-4 4v-0.5c0-2.216 1.784-4 4-4z" style="fill:#ffffff;opacity:.2"/>
+ <circle cx="8" cy="13.5" r="5" style="opacity:.2"/>
+ <circle cx="8" cy="13" r="5" style="fill:#32c6fd"/>
+ <path d="m13 13c0-2-2.238577-4.5-5-4.5s-5 2.5-5 4.5c0-2.761423 2.238577-5 5-5s5 2.238577 5 5z" style="fill:#ffffff;opacity:.2"/>
+ <ellipse transform="matrix(.77521865 -.631693 .53683743 .84368571 0 0)" cx="3.5530767" cy="16.290941" rx="2.4642191" ry="8.6588564" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:1.00344;stroke:#000000"/>
+ <ellipse transform="matrix(.77521865 -.631693 .53683743 .84368571 0 0)" cx="3.8233452" cy="15.900661" rx="2.4642191" ry="8.6588564" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:1.00344;stroke:#e4e4e4"/>
+ <circle cx="16" cy="8.5" r="3" style="fill:#050400;opacity:.2"/>
+ <circle cx="16" cy="8" r="3" style="fill:#fecd38"/>
+ <path d="m19 8c0-1-1.343146-2.5-3-2.5s-3 1.5-3 2.5c0-1.656854 1.343146-3 3-3s3 1.343146 3 3z" style="fill:#fffffe;opacity:.2"/>
+</svg>

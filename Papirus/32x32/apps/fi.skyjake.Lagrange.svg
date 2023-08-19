@@ -1,0 +1,13 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="3" width="28" height="28" rx="6" ry="6" style="fill:#000102;opacity:.2"/>
+ <rect x="2" y="2" width="28" height="28" rx="6" ry="6" style="fill:#1381fd"/>
+ <circle cx="11" cy="20" r="7" style="fill:#090909;opacity:.2"/>
+ <circle cx="11" cy="19" r="7" style="fill:#32c6fd"/>
+ <path d="m18 19c0-3-3.134007-6-7-6-3.8659932 0-7 3-7 6 0-3.865993 3.1340068-7 7-7 3.865993 0 7 3.134007 7 7z" style="fill:#ffffff;opacity:.2"/>
+ <ellipse transform="matrix(.73413471 -.67900385 .52038776 .85393008 0 0)" cx="4.913384" cy="23.814819" rx="4.0902047" ry="12.340402" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:2.02011;stroke:#000000"/>
+ <ellipse transform="matrix(.73413471 -.67900385 .52038776 .85393008 0 0)" cx="5.4442592" cy="23.065889" rx="4.0902047" ry="12.340402" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:2.02011;stroke:#e4e4e4"/>
+ <circle cx="24" cy="13" r="4" style="opacity:.2"/>
+ <circle cx="24" cy="12" r="4" style="fill:#fecd38"/>
+ <path d="m28 12c0-1-1.790861-3-4-3s-4 2-4 3c0-2.209139 1.790861-4 4-4s4 1.790861 4 4z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m8 2h16c3.324 0 6 2.676 6 6v1c0-3-2.676-6-6-6h-16c-3.324 0-6 3-6 6v-1c0-3.324 2.676-6 6-6z" style="fill:#ffffff;opacity:.2"/>
+</svg>
