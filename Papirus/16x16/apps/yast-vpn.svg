@@ -1,0 +1,11 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <rect x="7" y="10" width="2" height="3" style="fill:#828282"/>
+ <path d="m6 7v-3s0-2 2-2 2 2 2 2v3h2v-3s0-4-4.0000001-4c-3.9999999 0-3.9999999 4-3.9999999 4v3z" style="fill:#e4e4e4"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-11" y="-13" width="7.0000005" height="10" rx=".70000005" ry=".71411759" style="fill:#fecd38"/>
+ <rect class="ColorScheme-Text" x="3" y="6" width="10" height="3" rx="0" ry="0" style="fill:currentColor;opacity:.3"/>
+ <rect transform="rotate(90)" x="13" y="-16" width="2.0000002" height="16" rx="1.0000001" ry="1.0000001" style="fill:#828282"/>
+ <rect x="5" y="12" width="6" height="4" style="fill:#afafb1"/>
+</svg>
