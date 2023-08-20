@@ -148,6 +148,10 @@ s/[ ]white-space="normal"//gI
 s/[ ]word-spacing="normal"//gI
 s/[ ]writing-mode="lr-tb"//gI
 
+# round decimal expansion to zero in x=, y=, rx=, ry= attributes
+s/([ ]x|y|ry|rx)="[0-9.]+e-[0-9]+"/\1="0"/gI
+s/([ ]x|y|ry|rx)="[0-9]?.00[0-9]+"/\1="0"/gI
+
 # delete attributes with nonsense values
 s/[ ]fill-opacity="[1-9][0-9.]*"//gI
 s/[ ]fill="(#000|#000000|black)"//gI
@@ -155,6 +159,11 @@ s/[ ]flood-color="(#000|#000000|black)"//gI
 s/[ ]flood-opacity="[1-9][0-9.]*"//gI
 s/[ ]opacity="[1-9][0-9.]*"//gI
 s/[ ]stroke-opacity="[1-9][0-9.]*"//gI
+
+# delete nonsense values for rounded corners of rectangles
+/<rect/ {
+	s/[ ](ry|rx)="(0|0?.0[0-9]+)"//gI
+}
 
 # delete 'stroke- *' properties if an object doesn't have a stroke
 /stroke[:=]/! {
