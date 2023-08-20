@@ -1,0 +1,11 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect width="16" height="16" rx="2" ry="2" style="fill:#4f4f4f"/>
+ <path d="m3 2 1 0.75v12.25l6.5-5.25-0.5-0.25v-7l-1-0.5zm4.5 2 0.5 0.25v4.75l-2 1.5v-6.5z" style="fill:#e4e4e4"/>
+ <g transform="matrix(0 .4 -.1 0 16.4 .8)">
+  <rect x="23" y="4" width="7.5" height="40" style="fill:#ce3535"/>
+  <path d="m3 4h5v40h-10v-20c0-11.114821 2.2622028-20 5-20z" style="fill:#4454ba"/>
+  <path d="m30.5 4h2.5c2.795047 0 5 8.650804 5 20v20h-7.5z" style="fill:#f14c21"/>
+  <rect x="15.5" y="4" width="7.5" height="40" style="fill:#a52727"/>
+  <rect x="8" y="4" width="7.5" height="40" style="fill:#8044ba"/>
+ </g>
+</svg>
