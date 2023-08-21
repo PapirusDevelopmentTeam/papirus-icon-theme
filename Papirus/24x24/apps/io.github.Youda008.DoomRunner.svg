@@ -1,16 +1,12 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect transform="translate(1,1)" x="1" y="1.5" width="20" height="20" rx="2" ry="2" style="opacity:.2"/>
- <rect transform="translate(1,1)" x="1" y="1" width="20" height="20" rx="2" ry="2" style="fill:#4f4f4f"/>
- <g transform="matrix(0 .5 -.1 0 22.4 3)">
-  <rect x="22" y="4" width="8" height="40" style="fill:#ce3535"/>
-  <path d="m2 4h4v40h-8v-20c0-10 1.6030832-20 4-20z" style="fill:#4454ba"/>
-  <path d="m30 4h4c2.357947 0 4 10 4 20v20h-8z" style="fill:#f14c21"/>
-  <rect x="14" y="4" width="8" height="40" style="fill:#a52727"/>
-  <rect x="6" y="4" width="8" height="40" style="fill:#8044ba"/>
- </g>
- <g transform="scale(.5)">
-  <path d="m14 13 2 1.5v24.5l12.999999-10.5-0.999999-0.5v-14l-2-1zm9 4 1 0.5v9.5l-4 3v-13z" style="opacity:.2"/>
-  <path d="m14 12 2 1.5v24.5l12.999999-10.5-0.999999-0.5v-14l-2-1zm9 4 1 0.5v9.5l-4 3v-13z" style="fill:#e4e4e4"/>
- </g>
- <path transform="translate(1,1)" d="m1 3.5v-0.5c0-1.2478098 1-2 2-2h16c1 0 2 0.8003755 2 2v0.5c0-1.1184556-1-2-2-2h-16c-1 0-2 0.9159625-2 2z" style="fill:#ffffff;opacity:.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="2" ry="2"/>
+ <rect style="fill:#4f4f4f" width="18" height="20" x="2" y="2" rx="2" ry="2"/>
+ <path style="fill:#f14c21" d="M 22,17 V 20 C 22,21.179 21,22 20,22 H 18 V 17 Z"/>
+ <rect style="fill:#ce3535" width="4" height="5" x="18" y="13"/>
+ <rect style="fill:#a52727" width="4" height="5" x="18" y="9"/>
+ <rect style="fill:#8044ba" width="4" height="5" x="18" y="5"/>
+ <path style="fill:#4454ba" d="M 22,4 V 6 H 18 V 2 H 20 C 21,2 22,2.8015 22,4 Z"/>
+ <path style="opacity:0.2" d="M 7,6.5 8,7.25 V 19.5 L 14.5,14.25 14,14 V 7 L 13,6.5 Z M 11.5,8.5 12,8.75 V 13.5 L 10,15 V 8.5 Z"/>
+ <path style="fill:#e4e4e4" d="M 7,6 8,6.75 V 19 L 14.5,13.75 14,13.5 V 6.5 L 13,6 Z M 11.5,8 12,8.25 V 13 L 10,14.5 V 8 Z"/>
+ <path style="fill:#ffffff;opacity:0.1" transform="translate(1,1)" d="m1 3.5v-0.5c0-1.2478098 1-2 2-2h16c1 0 2 0.8003755 2 2v0.5c0-1.1184556-1-2-2-2h-16c-1 0-2 0.9159625-2 2z"/>
 </svg>
