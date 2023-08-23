@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="11" width="52" height="44" rx="6" ry="6" style="opacity:.2"/>
+ <rect x="6" y="10" width="52" height="44" rx="6" ry="6" style="fill:#e4e4e4"/>
+ <path d="m40 29h3v11h-21v2" style="fill:none;opacity:.1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:2;stroke:#000000"/>
+ <path d="m40 28h3v11h-21v4" style="fill:none;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:2;stroke:#afafb1"/>
+ <rect x="19" y="45" width="6" height="16" ry="1" style="opacity:.2"/>
+ <rect x="19" y="44" width="6" height="16" ry="1" style="fill:#4f4f4f"/>
+ <circle cx="22" cy="58" r="1" style="opacity:.2"/>
+ <g transform="scale(2)">
+  <path d="m6 5h1v6h-4v-3c0-1.6850204 1.3398361-3 3-3z" style="fill:#50beee"/>
+  <rect x="7" y="5" width="4" height="6" style="fill:#79de7d"/>
+  <rect x="11" y="5" width="4" height="6" style="fill:#fed65c"/>
+  <rect x="15" y="5" width="4" height="6" style="fill:#df574d"/>
+ </g>
+ <rect x="5" y="22" width="34" height="14" ry="1" style="opacity:.1"/>
+ <g transform="matrix(2,0,0,2,0,12)">
+  <path d="m2.5 5c0-0.2503992 0.252196-0.5 0.5-0.5h4v7h-4c-0.242712 0-0.5-0.251926-0.5-0.5z" style="fill:#2aa0ea"/>
+  <rect x="7" y="4.5" width="4" height="7" style="fill:#4ec353"/>
+  <rect x="11" y="4.5" width="4" height="7" style="fill:#fecd38"/>
+  <path d="m15 4.5h4c0.250313 0 0.5 0.2496871 0.5 0.5v6c0 0.250313-0.249687 0.5-0.5 0.5h-4z" style="fill:#e14134"/>
+ </g>
+ <path d="m5 22c0-0.500627 0.4993743-1 1-1h32c0.500626 0 1 0.499374 1 1v1c0-0.500625-0.499374-1-1-1h-32c-0.5006258 0-1 0.499378-1 1z" style="fill:#fffefe;opacity:.2"/>
+ <path d="m6 16v1c0-3.342459 2.644119-6 6-6h40c3.341722 0 6 2.644119 6 6v-1c0-3.341721-2.686598-6-6-6h-40c-3.355881 0-6 2.623033-6 6z" style="fill:#fffefe;opacity:.2"/>
+ <path d="m19 45c0-0.564516 0.439886-1 1-1h4c0.560114 0 1 0.438892 1 1v1c0-0.562314-0.43989-1-1-1h-4c-0.559351 0-1 0.436472-1 1z" style="fill:#fffefe;opacity:.2"/>
+ <path d="m38 10h14c3.328627 0 6 2.671375 6 6v5h-20z" style="opacity:.1"/>
+ <circle cx="52" cy="16" r="3" style="opacity:.2"/>
+</svg>
