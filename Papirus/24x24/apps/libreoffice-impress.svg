@@ -1,79 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
-   sodipodi:docname="libreoffice-impress.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="34.583333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-  <defs
-     id="defs2" />
-  <path
-     d="m 15,2.5 h 5 v 5 z m -8,0 h 7 l 6,6 v 11 c 0,1.661998 -1.338,3 -3,3 H 7 c -1.662,0 -3,-1.338 -3,-3 v -14 c 0,-1.662 1.338,-3 3,-3 z"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-     id="path900" />
-  <path
-     id="rect339"
-     style="fill:#e96412;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-     d="m 7,2 h 7 l 6,6 v 11 c 0,1.661998 -1.338,3 -3,3 H 7 C 5.338,22 4,20.662 4,19 V 5 C 4,3.338 5.338,2 7,2 Z" />
-  <path
-     d="m 15,2 h 5 v 5 z"
-     style="fill:#c65510;fill-opacity:1;stroke-width:0.3125;stroke-linecap:square"
-     id="path1087" />
-  <path
-     d="m 6,10 v 0.5 H 18 V 10 Z m 2,2 v 0.5 h 8 V 12 Z m -2,2 v 0.5 H 7 V 14 Z m 2,0 v 0.5 h 2 V 14 Z m -2,2 v 0.5 H 7 V 16 Z m 2,0 v 0.5 h 2 V 16 Z m -2,2 v 0.5 H 7 V 18 Z m 2,0 v 0.5 h 2 V 18 Z m 3,0 v 0.5 h 7 V 18 Z"
-     style="opacity:0.2;fill:#000000"
-     id="path416" />
-  <path
-     id="rect7037"
-     style="fill:#ffffff"
-     d="m 6,9 v 1 H 18 V 9 Z m 2,2 v 1 h 8 v -1 z m -2,2 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z m -2,2 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z m -2,2 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z" />
-  <path
-     id="rect1541"
-     style="opacity:0.8;fill:#ffffff;stroke-width:0.935414"
-     d="m 11,13 v 5 h 7 v -5 z m 1,1 h 5 v 3 h -5 z"
-     sodipodi:nodetypes="cccccccccc" />
-  <rect
-     style="opacity:0.6;fill:#ffffff"
-     id="rect1566"
-     width="5"
-     height="3"
-     x="12.000003"
-     y="14.000007" />
-  <path
-     style="color:#000000;fill:#e35100;fill-opacity:1;-inkscape-stroke:none"
-     d="m 16.60938,13.6875 -1.6504,1.56445 -1.01367,-1.01367 -2.3457,2.26172 0.80078,0.80078 1.6543,-1.53906 0.98633,0.98633 L 17.39063,14.5 Z"
-     id="path1631"
-     sodipodi:nodetypes="ccccccccc" />
-  <path
-     id="path1067"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-     d="M 7,2 C 5.3380015,2 4,3.3380017 4,5 v 0.5 c 0,-1.6619983 1.3380015,-3 3,-3 h 7.5 L 14,2 Z m 8,0 0.5,0.5 H 20 V 2 Z" />
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <path style="opacity:0.2" d="M 7,2.5 H 13 L 20,9.5 V 19.5 C 20,21.162 18.662,22.5 17,22.5 H 7 C 5.338,22.5 4,21.162 4,19.5 V 5.5 C 4,3.838 5.338,2.5 7,2.5 Z"/>
+ <path style="fill:#e96412" d="M 7,2 H 13 L 20,9 V 19 C 20,20.662 18.662,22 17,22 H 7 C 5.338,22 4,20.662 4,19 V 5 C 4,3.338 5.338,2 7,2 Z"/>
+ <path style="fill:#c65510" d="m 15,2 h 5 v 5 z"/>
+ <path style="opacity:0.2" d="M 6,9.5 V 10.5 H 18 V 9.5 Z M 8,11.5 V 12.5 H 16 V 11.5 Z M 6,13.5 V 14.5 H 7 V 13.5 Z M 8,13.5 V 14.5 H 10 V 13.5 Z M 6,15.5 V 16.5 H 7 V 15.5 Z M 8,15.5 V 16.5 H 10 V 15.5 Z M 6,17.5 V 18.5 H 7 V 17.5 Z M 8,17.5 V 18.5 H 10 V 17.5 Z"/>
+ <path style="fill:#ffffff" d="M 6,9 V 10 H 18 V 9 Z M 8,11 V 12 H 16 V 11 Z M 6,13 V 14 H 7 V 13 Z M 8,13 V 14 H 10 V 13 Z M 6,15 V 16 H 7 V 15 Z M 8,15 V 16 H 10 V 15 Z M 6,17 V 18 H 7 V 17 Z M 8,17 V 18 H 10 V 17 Z"/>
+ <rect style="opacity:0.2" width="7" height="5" x="11" y="13.5"/>
+ <rect style="fill:#f7c195" width="7" height="5" x="11" y="13"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 15,2 15.5,2.5 H 20 V 2 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 7 2 C 5.338 2 4 3.338 4 5 L 4 5.5 C 4 3.838 5.338 2.5 7 2.5 L 13 2.5 L 20 9.5 L 20 9 L 13 2 L 7 2 z"/>
+ <path style="fill:none;stroke:#e35100;stroke-width:1px;stroke-linecap:round" d="M 12.5,16.5 14,15 15,16 16.5,14.5"/>
 </svg>
