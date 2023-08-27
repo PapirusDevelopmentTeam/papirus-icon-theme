@@ -7,12 +7,15 @@ set -eo pipefail
 readonly SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 readonly TARGET_DIR="$SCRIPT_DIR/../.."
 
-mapfile -t THEMES < <(
-	find "$TARGET_DIR" -type f -name 'index.theme' -printf '%h\n'
+mapfile -t SOURCE_DIRS < <(
+	find "$TARGET_DIR" -type f -name 'index.theme' -printf '%h\n' |
+		while read -r target_dir; do
+			[ -d "${target_dir/$TARGET_DIR/$SCRIPT_DIR}" ] || continue
+			echo "${target_dir/$TARGET_DIR/$SCRIPT_DIR}"
+	done
 )
 
-find "${THEMES[@]/$TARGET_DIR/$SCRIPT_DIR}" -name '*.svg' | \
-	while read -r file; do
+find "${SOURCE_DIRS[@]}" -name '*.svg' | while read -r file; do
 	src_dir=$(dirname "$file")
 	top_dir=$(dirname "$src_dir")
 	base_name=$(basename "$file" .svg)
