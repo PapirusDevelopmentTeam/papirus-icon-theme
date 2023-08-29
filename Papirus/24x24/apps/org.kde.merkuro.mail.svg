@@ -1,8 +1,7 @@
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <rect x="2" y="2.5" width="20" height="20" ry="3.5" style="opacity:.2"/>
- <rect x="2" y="4" width="20" height="18" ry="3.5" style="fill:#2c8ffd"/>
- <path d="m5.5 2.5c-1.938998 0-3.5 1.5610019-3.5 3.5v2.5l10 5 10-5v-2.5c0-1.9389981-1.561002-3.5-3.5-3.5z" style="opacity:.2"/>
- <path d="m5.5 2c-1.9389981 0-3.5 1.5610019-3.5 3.5v2.5l10 5 10-5v-2.5c0-1.9389981-1.561002-3.5-3.5-3.5z" style="fill:#c4e9f9"/>
- <path d="m5.5 2c-1.9389981 0-3.5 1.5610019-3.5 3.5v0.5c0-1.9389981 1.5610019-3.5 3.5-3.5h13c1.938998 0 3.5 1.5610019 3.5 3.5v-0.5c0-1.9389981-1.561002-3.5-3.5-3.5z" style="fill:#ffffff;opacity:.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" ry="3.5"/>
+ <rect style="fill:#2c8ffd" width="20" height="18" x="2" y="4" ry="3.5"/>
+ <path style="opacity:0.2" d="m5.5 2.5c-1.94 0-3.5 1.56-3.5 3.5v2.5l10 5 10-5v-2.5c0-1.94-1.56-3.5-3.5-3.5z"/>
+ <path style="fill:#c4e9f9" d="m5.5 2c-1.94 0-3.5 1.56-3.5 3.5v2.5l10 5 10-5v-2.5c0-1.94-1.56-3.5-3.5-3.5z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="m5.5 2c-1.94 0-3.5 1.56-3.5 3.5v0.5c0-1.94 1.56-3.5 3.5-3.5h13c1.94 0 3.5 1.56 3.5 3.5v-0.5c0-1.94-1.56-3.5-3.5-3.5z"/>
 </svg>
