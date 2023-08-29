@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <path style="opacity:0.2" d="M 42,5 H 54 V 17 Z M 18,5 h 20 l 16,16 v 32 c 0,4.432 -3.568,8 -8,8 H 18 c -4.432,0 -8,-3.568 -8,-8 V 13 c 0,-4.432 3.568,-8 8,-8 z"/>
+ <path style="opacity:0.2" d="M 18,5 H 38 L 54,21 V 53 C 54,57.432 50.432,61 46,61 H 18 C 13.568,61 10,57.432 10,53 V 13 C 10,8.568 13.568,5 18,5 Z"/>
  <path style="fill:#1b83d4" d="m 18,4 h 20 l 16,16 v 32 c 0,4.432 -3.568,8 -8,8 H 18 c -4.432,0 -8,-3.568 -8,-8 V 12 c 0,-4.432 3.568,-8 8,-8 z"/>
  <path style="fill:#3b9ce6" d="M 42,4 H 54 V 16 Z"/>
  <g style="opacity:0.2" transform="translate(0,1)">
