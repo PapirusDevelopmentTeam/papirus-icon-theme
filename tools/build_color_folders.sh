@@ -73,6 +73,7 @@ COLORS=(
 	[yaru]="      #676767 #973552 #e4e4e4 #ff7446"
 	[yellow]="    #f9bd30 #e19d00 #594411 #e4e4e4"
 	[nordic]="    #82abaa #6c9b9a #4e6766 #e4e4e4"
+	[frost]="     #81a1c1 #5e81ac #3b4253 #eceff4"
 	[custom]="    #value_light #value_dark #323232 #e4e4e4"
 )
 
