@@ -33,6 +33,7 @@ if ! diff -w --brief "$unchecked_apps_list" "$missing_apps_list" >/dev/null; the
 			--output /dev/null \
 			--header "Authorization: token ${GITHUB_TOKEN?is not set}" \
 			--header 'Content-Type: application/json' \
+			--header 'X-GitHub-Api-Version: 2022-11-28' \
 			--data @- \
 			--request PATCH "$API_ENDPOINT"
 fi
