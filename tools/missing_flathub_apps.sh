@@ -84,9 +84,8 @@ while read -r app_id; do
 	[[ "${IGNORED_APPS[*]//$app_id/}" == "${IGNORED_APPS[*]}" ]] || continue
 	if [ -n "${MARKDOWN:-}" ]; then
 		# shellcheck disable=SC2016
-		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd> <kbd>[Google](%s)</kbd>\n' \
-			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id" \
-			"https://google.com/search?q=$app_id+source+code"
+		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd>\n' \
+			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id"
 	else
 		printf '%s\n' "$app_id"
 	fi
