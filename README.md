@@ -190,7 +190,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 
 ## Folder's color
 
-Papirus has [Folder Color](http://foldercolor.tuxfamily.org/) v0.0.80+ support that allows you to change a color of a folder.
+Papirus has [Folder Color](https://github.com/costales/folder-color/) v0.0.80+ support that allows you to change a color of a folder.
 
 Available colors:
 
