@@ -64,6 +64,33 @@ IGNORED_APPS=(
 	org.kde.kdiff3
 	org.libreoffice.LibreOffice
 	org.vranki.spectral
+	# ignore apps from Sugar Labs®
+	org.sugarlabs.AbacusActivity
+	org.sugarlabs.Chart
+	org.sugarlabs.Chess
+	org.sugarlabs.ColorDeducto
+	org.sugarlabs.Dimensions
+	org.sugarlabs.Finance
+	org.sugarlabs.FotoToon
+	org.sugarlabs.FractionBounce
+	org.sugarlabs.ImplodeActivity
+	org.sugarlabs.Maze
+	org.sugarlabs.Measure
+	org.sugarlabs.Memorize
+	org.sugarlabs.MusicBlocks
+	org.sugarlabs.MusicKeyboard
+	org.sugarlabs.Paint
+	org.sugarlabs.Physics
+	org.sugarlabs.Pippy
+	org.sugarlabs.Pukllanapac
+	org.sugarlabs.ReadETexts
+	org.sugarlabs.Sliderule
+	org.sugarlabs.SolarSystem
+	org.sugarlabs.Speak
+	org.sugarlabs.StoryActivity
+	org.sugarlabs.SwiftFeet
+	org.sugarlabs.TurtlePondActivity
+	org.sugarlabs.Words
 )
 
 flathub_apps_list="$(mktemp -u)"
