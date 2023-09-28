@@ -1,0 +1,12 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <rect x="4" y="21" width="40" height="22" rx="2" ry="2" style="opacity:.2"/>
+ <path class="ColorScheme-Highlight" d="m4 40c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-28c0-1.108-0.892-2-2-2h-18c-3 0-4-4-7-4h-11c-1.108 0-2 0.892-2 2" style="fill:currentColor"/>
+ <path class="ColorScheme-Text" d="m6 6c-1.1079989 0-2 0.8920011-2 2v10c0-1.107999 0.8920011-2 2-2h36c1.107999 0 2 0.892001 2 2v-6c0-1.107999-0.892001-2-2-2h-18c-2.999997 0-4.000003-4-7-4z" style="fill:currentColor;opacity:.3"/>
+ <path d="m6 15c-1.1079989 0-2 0.892001-2 2v1c0-1.107999 0.8920011-2 2-2h36c1.107999 0 2 0.892001 2 2v-1c0-1.107999-0.892001-2-2-2z" style="opacity:.2"/>
+ <path d="m8 13c-1.1079978 0-2 0.892002-2 2v1h36v-1c0-1.107998-0.892002-2-2-2z" style="fill:#e4e4e4"/>
+ <path d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h11c3 0 4 4 7 4h18c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-18c-3 0-4-4-7-4z" style="fill:currentColor;opacity:.1" class="ColorScheme-Text"/>
+ <path class="ColorScheme-Text" style="fill:currentColor;opacity:.7" d="M 26 19 C 20.477153 19 16 23.477153 16 29 C 16 34.522847 20.477153 39 26 39 L 44 39 L 44 37 L 26 37 C 21.581722 37 18 33.418278 18 29 C 18 24.581722 21.581722 21 26 21 L 26 19 z M 26 22 C 22.134007 22 19 25.134007 19 29 C 19 32.865993 22.134007 36 26 36 L 44 36 L 44 34 L 26 34 C 23.238576 34 21 31.761424 21 29 C 21 26.238576 23.238576 24 26 24 C 26.688467 24.000788 27.369353 24.143747 28 24.419922 L 28 22.298828 C 27.351311 22.102941 26.677616 22.002281 26 22 z M 26 25 C 23.790861 25 22 26.790861 22 29 C 22 31.209139 23.790861 33 26 33 L 44 33 L 44 31 L 26 31 C 24.895431 31 24 30.104569 24 29 C 24 27.895431 24.895431 27 26 27 C 26.713268 27.0013 27.371883 27.38229 27.728516 28 L 29.867188 28 C 29.411731 26.236014 27.821835 25.00264 26 25 z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <rect x="4" y="22" width="56" height="36" rx="2.8" ry="2.8" style="opacity:.2"/>
+ <path class="ColorScheme-Highlight" d="m4 54.2c0 1.551 1.2488 2.8 2.8 2.8h50.4c1.551 0 2.8-1.249 2.8-2.8v-38.4c0-1.551-1.249-2.8-2.8-2.8h-25.2c-4.2 0-5.6-6-9.8-6h-15.4c-1.5512 0-2.8 1.2488-2.8 2.8" style="fill:currentColor"/>
+ <path class="ColorScheme-Text" d="M 6.7988281 7 C 5.2476297 7 4 8.2495828 4 9.8007812 L 4 29.800781 C 4 28.249583 5.2495828 27 6.8007812 27 L 57.199219 27 C 58.750417 27 60 28.249583 60 29.800781 L 60 15.800781 C 60 14.249783 58.750217 13 57.199219 13 L 32 13 C 27.800004 13 26.399215 7 22.199219 7 L 6.7988281 7 z " style="fill:currentColor;opacity:.3"/>
+ <path d="m6.8007812 26c-1.5511984 0-2.8007812 1.249583-2.8007812 2.800781v1c0-1.551198 1.2495828-2.800781 2.8007812-2.800781h50.398438c1.551198 0 2.800781 1.249583 2.800781 2.800781v-1c0-1.551198-1.249583-2.800781-2.800781-2.800781h-50.398438z" style="opacity:.2"/>
+ <path d="M 10.800781 16 C 9.2495828 16 8 17.249583 8 18.800781 L 8 27 L 56 27 L 56 18.800781 C 56 17.249583 54.750417 16 53.199219 16 L 10.800781 16 z " style="fill:#e4e4e4"/>
+ <path d="m6.8008 7c-1.5512 0-2.8008 1.2496-2.8008 2.8008v1.0002c0-1.5514 1.2496-2.801 2.8008-2.801h15.3982c4.2 0 5.601 6 9.801 6h25.199c1.551 0 2.801 1.25 2.801 2.801v-1c0-1.551-1.25-2.801-2.801-2.801h-25.199c-4.2 0-5.601-6-9.801-6z" style="fill:currentColor;opacity:.1" class="ColorScheme-Text"/>
+ <path class="ColorScheme-Text" style="fill:currentColor;opacity:.7" d="M 23.4,34 C 22.625,34 22,34.625 22,35.4 V 48.6 C 22,49.375 22.625,50 23.4,50 H 40.6 C 41.375,50 42,49.375 42,48.6 V 35.4 C 42,34.625 41.375,34 40.6,34 Z M 28,40 34,46 37,42 40,46 V 48 H 24 V 44 Z"/>
+</svg>

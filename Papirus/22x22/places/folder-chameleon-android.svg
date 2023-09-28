@@ -1,0 +1,12 @@
+<svg width="22" height="22" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <rect x="1" y="8.5" width="20" height="12" rx="1" ry="1" style="opacity:.2"/>
+ <path class="ColorScheme-Highlight" d="m1 19c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-9c-1.5 0-2-2-3.5-2h-5.5c-0.554 0-1 0.446-1 1" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m2 2c-0.5539994 0-1 0.4460006-1 1v6c0-0.5539994 0.4460006-1 1-1h18c0.553999 0 1 0.4460006 1 1v-4c0-0.5539994-0.446001-1-1-1h-9c-1.4999985 0-2.0000015-2-3.5-2h-5.5z" style="fill:currentColor;opacity:.3"/>
+ <path d="m2 7.5c-0.5539994 0-1 0.4460006-1 1v0.5c0-0.5539994 0.4460006-1 1-1h18c0.553999 0 1 0.4460006 1 1v-0.5c0-0.5539994-0.446001-1-1-1h-18z" style="opacity:.2"/>
+ <path d="m4 6c-0.5539994 0-1 0.4460006-1 1v1h16v-1c0-0.5539994-0.446001-1-1-1h-14z" style="fill:#e4e4e4"/>
+ <path d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h5.5c1.5 0 2 2 3.5 2h9c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-9c-1.5 0-2-2-3.5-2z" style="fill:currentColor;opacity:.1" class="ColorScheme-Text"/>
+ <path class="ColorScheme-Text" style="fill:currentColor;opacity:.7" d="M 7 11 A 1 1 0 0 0 6.3027 12.717 L 6.9766 13.391 C 6.4972 14.013 6.1357 14.911 6.0098 16.223 C 5.973 16.993 6.7852 16.994 6.7852 16.994 L 14.215 17.025 C 14.215 17.025 15.05 17.025 15.01 16.219 C 14.878 14.908 14.514 14.014 14.035 13.398 L 14.717 12.717 A 1 1 0 0 0 13.99 11 A 1 1 0 0 0 13.303 11.303 L 12.342 12.264 C 11.702 12.072 11.058 12.043 10.553 12.035 C 10.008 12.026 9.3301 12.05 8.6641 12.25 L 7.7168 11.303 A 1 1 0 0 0 7 11 z M 8.5 14 A 0.5 0.5 0 0 1 9 14.5 A 0.5 0.5 0 0 1 8.5 15 A 0.5 0.5 0 0 1 8 14.5 A 0.5 0.5 0 0 1 8.5 14 z M 12.5 14 A 0.5 0.5 0 0 1 13 14.5 A 0.5 0.5 0 0 1 12.5 15 A 0.5 0.5 0 0 1 12 14.5 A 0.5 0.5 0 0 1 12.5 14 z"/>
+</svg>

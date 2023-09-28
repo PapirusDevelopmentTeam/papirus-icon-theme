@@ -1,0 +1,21 @@
+<svg width="22" height="22" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <g transform="translate(-1,-1)">
+  <rect x="2" y="9.5" width="20" height="12" rx="1" ry="1" style="opacity:.2"/>
+  <path class="ColorScheme-Highlight" d="m2 20c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-9c-1.5 0-2-2-3.5-2h-5.5c-0.554 0-1 0.446-1 1" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 3c-0.5539994 0-1 0.4460006-1 1v6c0-0.5539994 0.4460006-1 1-1h18c0.553999 0 1 0.4460006 1 1v-4c0-0.5539994-0.446001-1-1-1h-9c-1.499998 0-2.0000015-2-3.5-2z" style="fill:currentColor;opacity:.3"/>
+  <path d="m3 8.5c-0.5539994 0-1 0.4460006-1 1v0.5c0-0.5539994 0.4460006-1 1-1h18c0.553999 0 1 0.4460006 1 1v-0.5c0-0.5539994-0.446001-1-1-1z" style="opacity:.2"/>
+  <path d="m5 7c-0.5539994 0-1 0.4460006-1 1v1h16v-1c0-0.5539994-0.446001-1-1-1z" style="fill:#e4e4e4"/>
+  <path d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h5.5c1.5 0 2 2 3.5 2h9c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-9c-1.5 0-2-2-3.5-2z" style="fill:currentColor;opacity:.1" class="ColorScheme-Text"/>
+  <g>
+   <path style="fill:currentColor;opacity:.7" class="ColorScheme-Text" d="M 14.939,12 C 14.545,12.467 14.395,13.014 14.385,13.604 14.345,14.001 14.538,14.337 14.666,14.693 L 13.775,15 H 6.5 C 6.014,15 6,16 6,16 6,17.496 7.6238,19 9.418,19 H 10.463 C 12.96,19.02 15,18 15.842,15.498 17,15.493 17.685,14.969 18,14.062 17.431,13.592 16.82,13.576 16.145,13.678 16.025,12.876 15.565,12.325 14.939,12 Z"/>
+   <rect style="fill:currentColor;opacity:.7" class="ColorScheme-Text" width="1" height="1" x="12" y="13" rx=".25" ry=".25"/>
+   <rect style="fill:currentColor;opacity:.7" class="ColorScheme-Text" width="1" height="1" x="10" y="13" rx=".25" ry=".25"/>
+   <rect style="fill:currentColor;opacity:.7" class="ColorScheme-Text" width="1" height="1" x="8" y="13" rx=".25" ry=".25"/>
+   <rect style="fill:currentColor;opacity:.7" class="ColorScheme-Text" width="1" height="1" x="10" y="11" rx=".25" ry=".25"/>
+   <rect style="fill:currentColor;opacity:.7" class="ColorScheme-Text" width="1" height="1" x="12" y="11" rx=".25" ry=".25"/>
+  </g>
+ </g>
+</svg>
