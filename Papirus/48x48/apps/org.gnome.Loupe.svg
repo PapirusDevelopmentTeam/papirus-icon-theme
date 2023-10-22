@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient8">
+   <stop style="stop-color:#1c71d8" offset="0"/>
+   <stop style="stop-color:#aa63cd" offset=".5"/>
+   <stop style="stop-color:#ffa348" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient8" id="linearGradient9" x1="9" x2="43" y1="7" y2="32" gradientTransform="translate(-2)" gradientUnits="userSpaceOnUse"/>
+  <linearGradient xlink:href="#linearGradient8" id="linearGradient12" x1="10" x2="34" y1="14" y2="38" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="3" ry="3"/>
+ <rect style="fill:#e4e4e4" width="40" height="40" x="4" y="4" rx="3" ry="3"/>
+ <rect style="opacity:0.1" width="34" height="1" x="7" y="32"/>
+ <rect style="fill:url(#linearGradient9)" width="34" height="25" x="7" y="7"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7,4 C 5.338,4 4,5.338 4,7 V 8 C 4,6.338 5.338,5 7,5 H 41 C 42.662,5 44,6.338 44,8 V 7 C 44,5.338 42.662,4 41,4 Z"/>
+ <path style="opacity:0.1" d="M 13.29,34.29 8.29,39.29 9.71,40.71 14.71,35.71 Z"/>
+ <path style="fill:none;stroke:#6e6e6e;stroke-width:2" d="M 9,39 14,34"/>
+ <circle style="fill:url(#linearGradient12)" cx="22" cy="26" r="12"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="22" cy="26" r="12"/>
+ <path style="opacity:0.5;fill:#ffffff" d="M 11,28 14,24 C 14,24 15,22 16.5,22 18,22 19,24 19,24 L 26,37 H 18 L 14,35 11,32 H 8 L 11,29 Z"/>
+ <path style="opacity:0.4;fill:#ffffff" d="M 20,37 28,26 C 28,26 29,24 30.5,24 32,24 33,26 33,26 V 28 L 37,32 H 31 L 28,35 Z"/>
+ <path style="opacity:0.1" d="M 22,14 A 13,13 0 0 0 9,27 13,13 0 0 0 22,40 13,13 0 0 0 35,27 13,13 0 0 0 22,14 Z M 22,17 A 10,10 0 0 1 32,27 10,10 0 0 1 22,37 10,10 0 0 1 12,27 10,10 0 0 1 22,17 Z"/>
+ <path style="fill:#4f4f4f" d="M 22,13 A 13,13 0 0 0 9,26 13,13 0 0 0 22,39 13,13 0 0 0 35,26 13,13 0 0 0 22,13 Z M 22,16 A 10,10 0 0 1 32,26 10,10 0 0 1 22,36 10,10 0 0 1 12,26 10,10 0 0 1 22,16 Z"/>
+ <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round" d="M 4,45 10,39"/>
+ <path style="fill:none;stroke:#8e8e8e;stroke-width:4;stroke-linecap:round" d="M 4,44 10,38"/>
+ <circle style="opacity:0.5;fill:#ffffff" cx="35" cy="13" r="4"/>
+</svg>
