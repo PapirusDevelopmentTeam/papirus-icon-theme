@@ -1,5 +1,11 @@
-papirus-icon-theme (1.0.0-1) UNRELEASED; urgency=low
+papirus-icon-theme (20231024-1) UNRELEASED; urgency=low
+
+  * Split package into papirus-icon-theme and epapirus-icon-theme.
+
+ -- Serhii Yeremenko <finalitik@gmail.com>  Tue, 24 Oct 2023 11:32:49 +0300
+
+papirus-icon-theme (20170115-1) UNRELEASED; urgency=low
 
   * Initial release.
 
- -- Sergei Eremenko <finalitik@gmail.com>  Sun, 15 Jan 2017 21:43:52 +0200
+ -- Serhii Yeremenko <finalitik@gmail.com>  Sun, 15 Jan 2017 21:43:52 +0200
