@@ -3,11 +3,13 @@ Upstream-Name: papirus-icon-theme
 Source: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 Files: *
-Copyright: 2016-2018 Alexey Varfolomeev <varlesh@gmail.com>
+Copyright: 2016-2022 Alexey Varfolomeev <varlesh@gmail.com>
+           2016-2023 Serhii Yeremenko <finalitik@gmail.com>
+           2016-2023 Papirus Development Team
 License: GPL-3
 
 Files: debian/*
-Copyright: 2017-2018 Sergei Eremenko <finalitik@gmail.com>
+Copyright: 2017-2023 Serhii Yeremenko <finalitik@gmail.com>
 License: GPL-3
 
 License: GPL-3
