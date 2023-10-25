@@ -10,7 +10,7 @@ Bugs: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues
 Package: papirus-icon-theme
 Architecture: all
 Depends: hicolor-icon-theme, ${misc:Depends}
-Recommends: epapirus-icon-theme, gtk-update-icon-cache
+Recommends: epapirus-icon-theme, papirus-folders, gtk-update-icon-cache
 Suggests: filezilla-theme-papirus
 Replaces: papirus-gtk-icon-theme, papirus-kde-icon-theme
 Description: Pixel perfect icon theme for Linux
