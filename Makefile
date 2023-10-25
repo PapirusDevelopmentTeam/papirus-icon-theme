@@ -2,7 +2,7 @@
 #   gmake PREFIX=/usr/local install
 
 PREFIX ?= /usr
-ICON_THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
+ICON_THEMES ?= $(patsubst %/index.theme,%,$(wildcard */index.theme))
 IGNORE ?=
 
 # excludes IGNORE from ICON_THEMES list
