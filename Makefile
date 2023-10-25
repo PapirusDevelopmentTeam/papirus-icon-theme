@@ -3,10 +3,10 @@
 
 PREFIX ?= /usr
 ICON_THEMES ?= $(patsubst %/index.theme,%,$(wildcard */index.theme))
-IGNORE ?=
+EXCLUDE ?=
 
-# excludes IGNORE from ICON_THEMES list
-ICON_THEMES := $(filter-out $(IGNORE), $(ICON_THEMES))
+# exclude icon theme(s) from ICON_THEMES list
+ICON_THEMES := $(filter-out $(EXCLUDE), $(ICON_THEMES))
 
 all:
 
