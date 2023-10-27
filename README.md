@@ -58,7 +58,8 @@ sudo apt-get install papirus-icon-theme
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=papirus-icon-theme).
 
-**NOTE:** Now the daily builds of the papirus-icon-themes package are placed in [`ppa:papirus/papirus-dev`](https://launchpad.net/~papirus/+archive/ubuntu/papirus-dev).
+> [!NOTE]
+> Now the daily builds of the papirus-icon-themes package are placed in [`ppa:papirus/papirus-dev`](https://launchpad.net/~papirus/+archive/ubuntu/papirus-dev).
 
 ### Debian and derivatives
 
@@ -75,7 +76,8 @@ sudo apt-get install papirus-icon-theme
 
 Use the scripts to install the latest version directly from this repo (independently of your distro):
 
-**NOTE:** Use the same script to update icon themes.
+> [!IMPORTANT]
+> Use the same script to update icon themes.
 
 #### ROOT directory (recommended)
 
@@ -138,7 +140,8 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | Ubuntu 18.04+ | Yangfl               | `sudo apt install papirus-icon-theme` |
 | Void Linux    | Giuseppe Fierro      | `sudo xbps-install -S papirus-icon-theme` |
 
-**NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
+> [!NOTE]
+> If you are a maintainer and want to be in the list, please create an issue or make a pull request.
 
 ## Hardcoded icons
 
@@ -152,7 +155,8 @@ To deal with hardcoded application icons we recommend using [hardcode-fixer](htt
 
 To fix hardcoded tray icons Papirus supports [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script. A list of supported applications is available [here](https://github.com/bil-elmoussaoui/Hardcode-Tray/tree/master/data/database).
 
-**NOTE:** To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool RSVGConvert`:
+> [!IMPORTANT]
+> To get Papirus to work right with Hardcode-Tray, use the hardcode-tray option `--conversion-tool RSVGConvert`:
 
 ```
 sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
@@ -171,7 +175,8 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 
 ![hardcode-tray](https://i.imgur.com/6hFm6aj.png)
 
-**NOTE**: Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
+> [!NOTE]
+> Some Electron-based applications have blurred tray icon on KDE (see [bug report](https://bugs.kde.org/show_bug.cgi?id=366062)). To solve this issue pass the following environment variable to the app: `XDG_CURRENT_DESKTOP=Unity wire-desktop`
 
 ### Steam runtime icons
 
@@ -186,7 +191,8 @@ Support for monochrome icons for KDE colorscheme is now available:
 
 ![kde-color-scheme](https://i.imgur.com/oM1qhQH.png)
 
-**NOTE:** Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color manually.
+> [!NOTE]
+> Non-KDE apps don't support KDE colorscheme on the system tray, but you can replace color manually.
 
 ## Folder's color
 
@@ -323,7 +329,8 @@ Go to `Edit` → `Preferences`. Click on `Display` section. On `Icons` category 
 - Use tray? Tray icon name. Hardcoded?
 - Small description and/or a link to the official webpage
 
-**NOTE**: We do NOT support Windows/Wine/Proton/Crossover or other NOT native Linux-apps & games. This also applies to discontinued projects!!
+> [!WARNING]
+> We do NOT support Windows/Wine/Proton/Crossover or other NOT native Linux-apps & games. This also applies to discontinued projects!!
 
 ## Contributing
 
