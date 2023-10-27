@@ -19,7 +19,7 @@ set -e
 
 case "$1" in
 	configure)
-		readonly PREV_VERSION="$2"
+		true
 		;;
 	abort-upgrade|abort-remove|abort-deconfigure)
 		exit 0

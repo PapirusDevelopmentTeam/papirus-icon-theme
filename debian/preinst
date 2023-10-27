@@ -15,7 +15,7 @@ set -e
 
 case "$1" in
 	install|upgrade)
-		readonly PREV_VERSION="$2"
+		true
 		;;
 	abort-upgrade)
 		exit 0
@@ -44,6 +44,8 @@ rm_symlink() {
 	echo "Removing symlink '$1'..." >&2
 	rm -f "$1"
 }
+
+PREV_VERSION="$2"
 
 # Breaking changes: PapirusDevelopmentTeam/papirus-icon-theme@20bfc4a
 # https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/370

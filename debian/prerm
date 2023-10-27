@@ -18,9 +18,9 @@ set -e
 
 case "$1" in
 	upgrade)
-		readonly NEW_VERSION="$2"
+		NEW_VERSION="$2"
 		# shellcheck disable=SC2016
-		readonly PREV_VERSION="$(dpkg-query -f='${Version}' --show papirus-icon-theme)"
+		PREV_VERSION="$(dpkg-query -f='${Version}' --show papirus-icon-theme)"
 
 		if dpkg --compare-versions "$PREV_VERSION" gt "$NEW_VERSION"; then
 			cat >&2 <<- EOF
