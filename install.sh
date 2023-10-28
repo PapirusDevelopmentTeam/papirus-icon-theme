@@ -25,7 +25,7 @@ cat <<- EOF
 EOF
 
 : "${DESTDIR:=/usr/share/icons}"
-: "${ICON_THEMES:=Papirus ePapirus ePapirus-Dark Papirus-Dark Papirus-Light}"
+: "${EXTRA_THEMES:=ePapirus ePapirus-Dark Papirus-Dark Papirus-Light}"
 : "${TAG:=master}"
 : "${uninstall:=false}"
 
@@ -103,8 +103,8 @@ temp_dir="$(mktemp -d)"
 
 if [ "$uninstall" = "false" ]; then
     _download
-    _uninstall "$ICON_THEMES"
-    _install "$ICON_THEMES"
+    _uninstall Papirus "$EXTRA_THEMES"
+    _install Papirus "$EXTRA_THEMES"
 else
-    _uninstall "$ICON_THEMES"
+    _uninstall Papirus "$EXTRA_THEMES"
 fi
