@@ -4,6 +4,7 @@
 PREFIX ?= /usr
 ICON_THEMES ?= $(patsubst %/index.theme,%,$(wildcard */index.theme))
 EXCLUDE ?=
+CP_OPTS ?=
 
 # exclude icon theme(s) from ICON_THEMES list
 ICON_THEMES := $(filter-out $(EXCLUDE), $(ICON_THEMES))
@@ -12,7 +13,7 @@ all:
 
 install:
 	mkdir -p "$(DESTDIR)$(PREFIX)/share/icons"
-	cp -R $(ICON_THEMES) "$(DESTDIR)$(PREFIX)/share/icons"
+	cp -R $(CP_OPTS) -- $(ICON_THEMES) "$(DESTDIR)$(PREFIX)/share/icons"
 
 # skip building icon caches when packaging
 	$(if $(DESTDIR),,$(MAKE) $(ICON_THEMES))
