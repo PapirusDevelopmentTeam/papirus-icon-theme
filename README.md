@@ -75,7 +75,13 @@ sudo apt-get install papirus-icon-theme
 
 ### Papirus Installer
 
-Use the scripts to install the latest version directly from this repo (independently of your distro):
+Use the script to install the latest version directly from this repo (independently of your distro).
+
+You may use environment variables to control WHERE, WHAT, and FROM you install:
+
+- `DESTDIR` - the destination directory for installing icon themes (Defaults `DESTDIR=/usr/share/icons`)
+- `EXTRA_THEMES` - additional icon themes that you want to install alongside Papirus icon theme (Defaults `EXTRA_THEMES="ePapirus ePapirus-Dark Papirus-Dark Papirus-Light"`)
+- `TAG` - a branch or tag if you want to install a specific version of the icon theme (Defaults `TAG=master`)
 
 > [!IMPORTANT]
 > Use the exact same command to update icon themes.
