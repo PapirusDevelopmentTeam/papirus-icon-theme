@@ -50,10 +50,11 @@ Papirus icon theme is available in five variants:
 
 You can install Papirus from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
 
-```
+```sh
 sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
-sudo apt-get install papirus-icon-theme
+sudo apt-get install papirus-icon-theme  # Papirus, Papirus-Dark, and Papirus-Light
+sudo apt-get install epapirus-icon-theme # ePapirus, and ePapirus-Dark for elementaryOS only
 ```
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=papirus-icon-theme).
@@ -65,7 +66,7 @@ or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ub
 
 Debian users also can install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the commands will differ:
 
-```
+```sh
 sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu jammy main' > /etc/apt/sources.list.d/papirus-ppa.list"
 sudo wget -qO /etc/apt/trusted.gpg.d/papirus-ppa.asc 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x9461999446FAF0DF770BFC9AE58A9D36647CAE7F'
 sudo apt-get update
@@ -77,7 +78,7 @@ sudo apt-get install papirus-icon-theme
 Use the scripts to install the latest version directly from this repo (independently of your distro):
 
 > [!IMPORTANT]
-> Use the same script to update icon themes.
+> Use the exact same command to update icon themes.
 
 #### ROOT directory (recommended)
 
