@@ -106,6 +106,8 @@ wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="/usr/local/sh
 
 #### Uninstall
 
+Use this interactive script to completely remove Papirus icon theme on your system.
+
 ```
 wget -qO- https://git.io/papirus-icon-theme-uninstall | sh
 ```
