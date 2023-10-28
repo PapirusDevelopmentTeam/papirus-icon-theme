@@ -56,7 +56,8 @@ _download() {
 }
 
 _uninstall() {
-    eval set -- "$@"  # split args by space
+    # shellcheck disable=2068
+    set -- $@  # split args by space
 
     for theme in "$@"; do
         test -d "$DESTDIR/$theme" || continue
@@ -68,7 +69,8 @@ _uninstall() {
 _install() {
     _sudo mkdir -p "$DESTDIR"
 
-    eval set -- "$@"  # split args by space
+    # shellcheck disable=2068
+    set -- $@  # split args by space
 
     for theme in "$@"; do
         test -d "$temp_dir/$gh_repo-$TAG/$theme" || continue
