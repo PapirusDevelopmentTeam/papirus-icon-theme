@@ -1,14 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <g transform="translate(-1,-1)">
-  <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="10" ry="10"/>
-  <rect style="fill:#e4e4e4" width="20" height="20" x="2" y="2" rx="10" ry="10"/>
-  <rect style="fill:#4f4f4f" width="18" height="18" x="3" y="3" rx="10" ry="10"/>
-  <circle style="opacity:0.4" cx="12" cy="12" r="8"/>
-  <circle style="fill:#bf5297" cx="12" cy="12" r="7"/>
-  <path style="fill:#927bcb" d="M 12,7 A 5.0001,5.0001 0 0 0 7,12 5.0001,5.0001 0 0 0 12,17 5.0001,5.0001 0 0 0 17,12 5.0001,5.0001 0 0 0 12,7 Z M 12,9 A 3,3 0 0 1 15,12 3,3 0 0 1 12,15 3,3 0 0 1 9,12 3,3 0 0 1 12,9 Z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 12,2 C 6.46,2 2,6.46 2,12 2,12.084 2.0038,12.167 2.0059,12.25 2.1382,6.8269 6.5439,2.5 12,2.5 17.456,2.5 21.862,6.8269 21.994,12.25 21.996,12.167 22,12.084 22,12 22,6.46 17.54,2 12,2 Z"/>
-  <circle style="fill:#f2e9f8" cx="9" cy="9" r="2"/>
-  <circle style="fill:#bcc5ee" cx="15.5" cy="15.5" r="1.5"/>
-  <circle style="fill:#98b6ea" cx="13" cy="13" r="1"/>
- </g>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="11" cy="11.5" r="10" style="opacity:.2"/>
+ <circle cx="11" cy="11" r="10" style="fill:#e4e4e4"/>
+ <path d="M 11 1 A 10 10 0 0 0 1 11 A 10 10 0 0 0 1.0175781 11.25 A 10 10 0 0 1 11 1.5 A 10 10 0 0 1 20.990234 11.125 A 10 10 0 0 0 21 11 A 10 10 0 0 0 11 1 z " style="fill:#ffffff;opacity:.2"/>
+ <circle cx="11" cy="11" r="7" style="opacity:.3"/>
+ <circle cx="11" cy="11.5" r="5" style="opacity:.2"/>
+ <circle cx="11" cy="11" r="5" style="fill:#7e57c2"/>
+ <circle cx="11" cy="11.5" r="3" style="opacity:.2"/>
+ <circle cx="11" cy="11" r="3" style="fill:#b39ddb"/>
+ <path d="m11 8a2.9999999 3 0 0 0-3.0000005 3 2.9999999 3 0 0 0 0.01758 0.25 2.9999999 3 0 0 1 2.9824215-2.75 2.9999999 3 0 0 1 2.985351 2.706055 2.9999999 3 0 0 0 0.01465-0.206055 2.9999999 3 0 0 0-3-3z" style="fill:#ffffff;opacity:.2"/>
 </svg>
