@@ -120,9 +120,10 @@ wget -qO- https://git.io/papirus-icon-theme-uninstall | sh
 
 ### Snap
 
-<a href="https://snapcraft.io/icon-theme-papirus">
-  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
-</a>
+| Name | Link |
+|:-----|:-----|
+| `icon-theme-papirus` | <a href="https://snapcraft.io/icon-theme-papirus"><img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" /></a> |
+| `icon-theme-epapirus` | <a href="https://snapcraft.io/icon-theme-epapirus"><img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" /></a> |
 
 ### Third-party packages
 
