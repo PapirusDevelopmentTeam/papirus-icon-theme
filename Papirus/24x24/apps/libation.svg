@@ -2,8 +2,12 @@
  <g>
   <circle cx="12" cy="12.5" r="10" style="opacity:.2"/>
   <circle cx="12" cy="12" r="10" style="fill:#4f4f4f"/>
-  <path d="m12 2a10 10 0 0 0-10 10 10 10 0 0 0 0.0098 0.293 10 10 0 0 1 9.9902-9.793 10 10 0 0 1 9.99 9.707 10 10 0 0 0 0.01-0.207 10 10 0 0 0-10-10z" style="fill:#ffffff;opacity:.2"/>
+  <path d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0098,12.293 10,10 0 0 1 12,2.5 10,10 0 0 1 21.99,12.207 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z" style="fill:#ffffff;opacity:.1"/>
  </g>
+ <path d="m9.5 6h5s1 1.5 1 3.5c0 4.5-3 4.5-3.5 4.5s-3.5 0-3.5-4.5c0-1.9952054 1-3.5 1-3.5z" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"/>
+ <path d="m9.5 19h5" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"/>
+ <path d="m12 19v-5" style="fill:none;opacity:.2;stroke:#000000"/>
+ <path d="m10 9.5h4c0 3-1.499732 3-2 3s-2 0.0055-2-3z" style="opacity:.2"/>
  <path d="m9.5 5.5h5s1 1.5 1 3.5c0 4.5-3 4.5-3.5 4.5s-3.5 0-3.5-4.5c0-1.9952054 1-3.5 1-3.5z" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#e4e4e4"/>
  <path d="m9.5 18.5h5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#e4e4e4"/>
  <path d="m12 18.5v-5" style="fill:none;stroke:#e4e4e4"/>

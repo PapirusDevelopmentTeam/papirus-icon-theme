@@ -1,7 +1,9 @@
 <svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <circle cx="24" cy="25" r="20" style="opacity:.2"/>
  <circle cx="24" cy="24" r="20" style="fill:#4f4f4f"/>
- <path d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 4.0215 24.582 A 20 20 0 0 1 24 5 A 20 20 0 0 1 43.979 24.418 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z" style="fill:#ffffff;opacity:.2"/>
+ <path d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0215,24.582 20,20 0 0 1 24,5 20,20 0 0 1 43.979,24.418 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m17 19c0-4 2-7 2-7h10s2 3 2 7c0 9-7 9-7 9s-7 0-7-9zm7 9v9.942133m-5 0.057867h10" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="m19 19h10c0 7-5 7-5 7s-5 0-5-7z" style="opacity:.2"/>
  <path d="m17 18c0-4 2-7 2-7h10s2 3 2 7c0 9-7 9-7 9s-7 0-7-9zm7 9v9.942133m-5 0.057867h10" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#e4e4e4"/>
  <path d="m19 18h10c0 7-5 7-5 7s-5 0-5-7z" style="fill:#e4e4e4"/>
 </svg>

@@ -1,8 +1,10 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <circle cx="32" cy="33" r="28" style="opacity:.2"/>
  <circle cx="32" cy="32" r="28" style="fill:#4f4f4f"/>
- <path d="M 32 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 4.0215 32.586 A 28 28 0 0 1 32 5 A 28 28 0 0 1 59.979 32.414 A 28 28 0 0 0 60 32 A 28 28 0 0 0 32 4 z" style="fill:#ffffff;opacity:.2"/>
+ <path d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0215,32.586 28,28 0 0 1 32,5 28,28 0 0 1 59.979,32.414 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m25 51.5h13.5m-17-26.5c0-6 3-10.5 3-10.5h15s3.044 4.5 3.044 10.5c0 12.503304-8.544 12.527008-10.544 12.5s-10.5 0.004063-10.5-12.5z" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:3;stroke:#000000"/>
  <path d="m25 50.5h13.5m-17-26.5c0-6 3-10.5 3-10.5h15s3.044 4.5 3.044 10.5c0 12.503304-8.544 12.527008-10.544 12.5s-10.5 0.004063-10.5-12.5z" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:3;stroke:#e4e4e4"/>
  <path d="m32 50v-13" style="fill:none;stroke-width:4;stroke:#e4e4e4"/>
+ <path d="m25 25h14c0 9-5 9-7 9s-7 0-7-9z" style="opacity:.2"/>
  <path d="m25 24h14c0 9-5 9-7 9s-7 0-7-9z" style="fill:#e4e4e4"/>
 </svg>
