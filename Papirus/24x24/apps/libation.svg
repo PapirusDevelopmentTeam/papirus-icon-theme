@@ -2,7 +2,7 @@
  <g>
   <circle cx="12" cy="12.5" r="10" style="opacity:.2"/>
   <circle cx="12" cy="12" r="10" style="fill:#4f4f4f"/>
-  <path d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0098,12.293 10,10 0 0 1 12,2.5 10,10 0 0 1 21.99,12.207 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z" style="fill:#ffffff;opacity:.2"/>
+  <path d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0098,12.293 10,10 0 0 1 12,2.5 10,10 0 0 1 21.99,12.207 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z" style="fill:#ffffff;opacity:.1"/>
  </g>
  <path d="m9.5 6h5s1 1.5 1 3.5c0 4.5-3 4.5-3.5 4.5s-3.5 0-3.5-4.5c0-1.9952054 1-3.5 1-3.5z" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"/>
  <path d="m9.5 19h5" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"/>
