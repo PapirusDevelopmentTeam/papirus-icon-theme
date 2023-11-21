@@ -1,1 +1,9 @@
-com.georgefb.haruna.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
+ <rect style="fill:#4d525a" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,7 C 4,5.892 4.892,5 6,5 l 36,0 c 1.108,0 2,0.892 2,2 L 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"/>
+ <path style="opacity:0.2" d="M 7,8 V 42 H 15 V 29 H 33 V 42 H 41 V 8 H 33 V 21 H 15 V 8 Z"/>
+ <path style="fill:#cccccc" d="M 7,7 V 41 H 15 V 28 H 33 V 41 H 41 V 7 H 33 V 20 H 15 V 7 Z"/>
+ <path style="opacity:0.1" d="M 9,13 V 17 H 13 V 13 Z M 9,23 V 27 H 13 V 23 Z M 9,33 V 37 H 13 V 33 Z M 35,33 V 37 H 39 V 33 Z M 35,13 V 17 H 39 V 13 Z M 35,23 V 27 H 39 V 23 Z"/>
+ <path style="fill:#4d525a" d="M 9,12 V 16 H 13 V 12 Z M 9,22 V 26 H 13 V 22 Z M 9,32 V 36 H 13 V 32 Z M 35,32 V 36 H 39 V 32 Z M 35,12 V 16 H 39 V 12 Z M 35,22 V 26 H 39 V 22 Z"/>
+</svg>
