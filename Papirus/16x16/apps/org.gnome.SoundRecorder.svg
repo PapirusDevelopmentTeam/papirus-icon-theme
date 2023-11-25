@@ -1,12 +1,6 @@
-<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.40104168 0 0 .40104168 -1.6145834 -1.7916667)">
-  <path d="m4 13.454545c0-2.203346 1.7967503-3.9999998 4-3.9999998h16v29.974026h-16c-2.1986601 0-4-1.799564-4-4z" style="fill:#e01b24"/>
-  <path d="m24 9.4545452h16c2.200665 0 4 1.8046878 4 3.9999998v21.974026c0 2.199354-1.801312 4-4 4h-16z" style="fill:#e4e4e4"/>
- </g>
- <circle cx="4" cy="8" r="2.0000002" style="fill:#e4e4e4"/>
- <g transform="matrix(.40104168 0 0 .34375 -1.6145834 -.6785713)">
-  <path d="m26.467532 19.42857v11.636365l7.480519-5.818182z" style="fill:#4f4f4f"/>
-  <rect x="33.948051" y="19.428572" width="2.4935064" height="11.636364" style="fill:#4f4f4f"/>
-  <rect x="38.935062" y="19.428572" width="2.4935067" height="11.636363" style="fill:#4f4f4f"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.0">
+ <path style="fill:#e01b24" d="M 1.6,2 C 0.71,2 0,2.71 0,3.6 V 12.4 C 0,13.29 0.71,14 1.6,14 H 8 L 9,13 V 3 L 8,2 Z"/>
+ <path style="fill:#e4e4e4" d="M 8 2 L 8 14 L 14.4 14 C 15.287 14 16 13.287 16 12.4 L 16 3.5996 C 16 2.7132 15.287 2 14.4 2 L 8 2 z"/>
+ <circle style="fill:#e4e4e4" cx="4" cy="8" r="2"/>
+ <path style="fill:#4f4f4f" d="M 14,6 H 15 V 10 H 14 Z M 12,6 H 13 V 10 H 12 Z M 9,6 V 10 L 12,8 Z"/>
 </svg>
