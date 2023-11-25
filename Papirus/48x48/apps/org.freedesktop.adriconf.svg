@@ -1,1 +1,11 @@
-br.com.jeanhertel.adriconf.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="fill:#e4e4e4" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m 9,33.999515 v -18 c 0,0 8,-1 8,9 0,10 -8,9 -8,9 z"/>
+ <path fill="#fff" opacity=".2" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z"/>
+ <path opacity=".2" d="m4 42v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <path style="fill:none;stroke:#c2352a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 9,33 V 15 c 0,0 8,-1 8,9 0,10 -8,9 -8,9 z"/>
+ <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m 24.0002,33.999515 v -18 c 0,0 7.9998,-1 8,4.5 2e-4,5.5 -8,5.5 -8,5.5 l 8,8 v 0 0 0"/>
+ <path style="fill:none;stroke:#169d41;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 24.0002,33 V 15 c 0,0 7.9998,-1 8,4.5 2e-4,5.5 -8,5.5 -8,5.5 l 8,8 v 0 0 0"/>
+ <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m 39,15.999515 v 18"/>
+ <path style="fill:none;stroke:#2a72c2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 39,15 V 33"/>
+</svg>

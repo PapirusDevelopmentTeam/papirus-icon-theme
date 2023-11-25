@@ -1,1 +1,8 @@
-com.jvieira.tpt.Metronome.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#ed333b" d="M 15.982,15.2 11.991,0.8 C 11.873,0.4 11.635,0 11.193,0 H 4.8077 C 4.3656,0 4.1279,0.4 4.0096,0.8 L 0.01878,15.2 C -0.09957,15.6 0.37476,16 0.81694,16 H 15.184 C 15.626,16 16.1,15.6 15.982,15.2 Z"/>
+ <path style="fill:#f2f2f2" d="M 5,2 H 11 L 14,13 H 2 Z"/>
+ <path style="fill:#939296" d="M 7 3 L 7 4 L 9 4 L 9 3 L 7 3 z M 7 7 L 7 8 L 9 8 L 9 7 L 7 7 z"/>
+ <circle style="fill:#ffffff" cx="8" cy="13" r="2"/>
+ <path style="fill:#c0bfbc" d="M 7 5 L 7 6 L 9 6 L 9 5 L 7 5 z M 7 9 L 7 10 L 9 10 L 9 9 L 7 9 z"/>
+ <rect style="fill:#77767b" width="2" height="11.998" x="12.43" y="-3.77" rx=".962" ry=".932" transform="rotate(30)"/>
+</svg>
