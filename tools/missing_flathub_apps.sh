@@ -4,6 +4,10 @@
 #
 # flatpak remote-add --user --if-not-exists \
 #     flathub https://flathub.org/repo/flathub.flatpakrepo
+#
+# and appstream info is updated:
+#
+# flatpak update --appstream flathub
 
 set -euo pipefail
 
@@ -15,7 +19,6 @@ XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}"
 
 IGNORED_APPS=(
 	# apps without icons:
-	cc.nift.nsm
 	com.github.nihui.waifu2x-ncnn-vulkan
 	com.riverbankcomputing.PyQt.BaseApp
 	dev.paullee.scraterpreter.Scrape
@@ -53,17 +56,13 @@ IGNORED_APPS=(
 	radio.k0swe.Kel_Agent
 	se.emijoh.mpw
 	# apps with icons that do not match with App ID:
-	cat.xtec.clic.JClic
-	com.github.utsushi.Utsushi
-	com.wps.Office
-	net.openra.OpenRA
-	org.freeorion.FreeOrion
-	org.homelinuxserver.vance.biblereader
-	org.kde.kcolorchooser
-	org.kde.okteta
-	org.kde.kdiff3
-	org.libreoffice.LibreOffice
-	org.vranki.spectral
+	cat.xtec.clic.JClic  # cat.xtec.clic.JClic.{jclic,jclicauthor}
+	com.wps.Office  # com.wps.Office.{etmain,pdfmain,kprometheus,wppmain,wpsmain}
+	org.freeorion.FreeOrion  # freeorion
+	org.homelinuxserver.vance.biblereader  # org.homelinuxserver.vance.biblereader-symbolic
+	org.kde.kcolorchooser  # kcolorchooser
+	org.kde.kdiff3  # kdiff3
+	org.libreoffice.LibreOffice  # org.libreoffice.LibreOffice.{base,calc,draw,impress,math,startcenter,writer}
 	# ignore apps from Sugar Labs®
 	org.sugarlabs.AbacusActivity
 	org.sugarlabs.Chart
