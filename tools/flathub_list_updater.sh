@@ -79,12 +79,10 @@ env MARKDOWN=1 bash "$SCRIPT_DIR/missing_flathub_apps.sh" > "$missing_apps_list"
 comm -13 <(sort "$unchecked_apps_list") <(sort "$missing_apps_list") |
 	sed 's/\[ \][ ]//' > "$new_apps_list"
 
-if ! diff -u -w "$unchecked_apps_list" "$missing_apps_list" >&2; then
+if [ -s "$new_apps_list" ]; then
 	echo "Uptading issue #${API_ENDPOINT##*/} ..." >&2
 	_api_post "$API_ENDPOINT" "$missing_apps_list" "$completed_apps_list"
-fi
 
-if [ -s "$new_apps_list" ]; then
 	echo "Add a comment with new apps list ..." >&2
 	_api_post "$API_ENDPOINT/comments" "$new_apps_list"
 fi
