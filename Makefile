@@ -79,7 +79,7 @@ test_decimal_size:
 .PHONY: test_lengths_units
 test_lengths_units:
 	# >>> Detecting lengths units
-	@! LC_ALL=C grep -E -r --include='*.svg' \
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e '<svg[ ].*(width|height|viewBox)="[0-9]+(|\.[0-9]*)[a-z]+' \
 		$(ICON_THEMES)
 
