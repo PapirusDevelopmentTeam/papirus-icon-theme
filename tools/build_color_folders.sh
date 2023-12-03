@@ -73,8 +73,9 @@ COLORS=(
 	[yaru]="      #676767 #973552 #e4e4e4 #ff7446"
 	[yellow]="    #f9bd30 #e19d00 #594411 #e4e4e4"
 	[nordic]="    #81a1c1 #5e81ac #3b4253 #eceff4"
-)
 
+ 	[chameleon]="currentColor fadedColor currentColor #e4e4e4"
+)
 
 headline() {
 	printf "%b => %b%s\n" "\e[1;32m" "\e[0m" "$*"
@@ -92,9 +93,23 @@ recolor() {
 
 	[ -f "$filepath" ] || exit 1
 
+	local is_chameleon=false
+	if [ ${new_colors[0]} == "currentColor" ]; then
+		is_chameleon=true
+		new_colors[0]="${new_colors[0]}\" class=\"ColorScheme-Highlight"
+		new_colors[1]="${new_colors[1]}\" class=\"ColorScheme-Highlight"
+		new_colors[2]="${new_colors[2]}\" class=\"ColorScheme-Text"
+	fi
+
 	for (( i = "${#old_colors[@]}" - 1; i >= 0; i-- )); do
 		sed -i "s/${old_colors[$i]}/${new_colors[$i]}/gI" "$filepath"
 	done
+
+	if $is_chameleon; then
+		head="\\n <defs><style id=\\\"current-color-scheme\\\" type=\\\"text\\/css\\\">.ColorScheme-Text { color: ${old_colors[2]}; } .ColorScheme-Highlight { color: ${old_colors[0]}; }<\\/style><\\/defs>"
+		sed -i "1 s/$/$head/" "$filepath"
+		sed -i "/fadedColor/{s/fadedColor/currentColor/;p;s/currentColor/currentColor\;fill-opacity:0.3/;s/Highlight/Text/}" "$filepath"
+	fi
 }
 
 headline "PHASE 1: Delete color suffix from monochrome icons ..."
