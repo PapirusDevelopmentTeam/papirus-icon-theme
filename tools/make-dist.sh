@@ -12,8 +12,8 @@ GIT_ROOT="$(realpath "$SCRIPT_DIR/..")"
 BUILD_DIR="${XDG_CACHE_HOME:-$HOME/.cache}/papirus-dist"
 
 if ! command -v papirus-folders >/dev/null; then
-    echo "papirus-folders script is not installed. Install it first." >&2
-    exit 1
+	echo "papirus-folders script is not installed. Install it first." >&2
+	exit 1
 fi
 
 usage() {
@@ -41,28 +41,28 @@ usage() {
 }
 
 while getopts ":hf:tv:" opt; do
-    case "$opt" in
-    h)
-        usage 0
-        ;;
-    f)
-        ARCHIVE_EXT="${OPTARG#.}"
-        ;;
+	case "$opt" in
+	h)
+		usage 0
+		;;
+	f)
+		ARCHIVE_EXT="${OPTARG#.}"
+		;;
 	t)
 		BUILD_DIR="$(mktemp -u --tmpdir papirus-dist.XXXXXX)"
 		;;
-    v)
-        VERSION="$OPTARG"
-        ;;
-    :)
-        echo "Error: option -$OPTARG requires an argument" >&2
-        usage 2
-        ;;
-    \?)
-        echo "Invalid option: -$OPTARG" >&2
-        usage 2
-        ;;
-    esac
+	v)
+		VERSION="$OPTARG"
+		;;
+	:)
+		echo "Error: option -$OPTARG requires an argument" >&2
+		usage 2
+		;;
+	\?)
+		echo "Invalid option: -$OPTARG" >&2
+		usage 2
+		;;
+	esac
 done
 
 shift $((OPTIND-1))
@@ -100,7 +100,7 @@ tar -C "$BUILD_DIR" -xzf "$GIT_ROOT/$CORE_PACKAGE"
 cd "$BUILD_DIR"
 
 if [ "$#" -gt 0 ]; then
-    FOLDER_COLORS=("$@")
+	FOLDER_COLORS=("$@")
 else
 	# Get array of folders colors without the default color
 	mapfile -t FOLDER_COLORS < <(papirus-folders -l | sed -e '/>/d' -e 's/[ ]\+//g')
