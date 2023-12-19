@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#2b855b" d="M 0.8,0 H 15.2 C 15.6432,0 16,0.3568 16,0.8 V 15.2 C 16,15.6432 15.6432,16 15.2,16 H 3.3174916 L 1.130033,15.570957 C 0.6951196,15.485654 0.81516356,15.395028 0.69306932,14.968977 L 0,12.550495 V 0.8 C 0,0.3568 0.3568,0 0.8,0 Z"/>
- <path style="fill:#ffb923" d="M 0,12.4875 V 15.2 C 0,15.6432 0.3568,16 0.8,16 h 2.7125 z"/>
- <rect style="fill:#c1c1c1" width="10" height="10" x="3" y="3" rx=".5" ry=".5"/>
- <rect style="fill:#4e4e4e" width="2" height="5" x="7" y="7"/>
- <rect style="fill:#4e4e4e" width="2" height="2" x="7" y="4"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1 0h14c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-11l-1-0.5-2.5-2.5-0.5-1v-11c0-0.554 0.446-1 1-1z" style="fill:#2b855b"/>
+ <rect x="3" y="3" width="10" height="10" rx="1" ry="1" style="fill:#c1c1c1"/>
+ <rect x="7" y="7" width="2" height="5" style="fill:#4e4e4e"/>
+ <rect x="7" y="4" width="2" height="2" style="fill:#4e4e4e"/>
+ <path d="m4 16h-3c-0.554 0-1-0.446-1-1v-3z" style="fill:#ffb923"/>
 </svg>
