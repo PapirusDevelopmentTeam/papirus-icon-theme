@@ -1,3 +1,99 @@
+[20240201]
+==========
+
+## Added icons
+
+- Android Messages #3307 by @SmartFinn
+- Celeste #3381 by @SmartFinn
+- Chrome Remote Desktop (PWA) by @SmartFinn in #3616
+- Cinnamon Actions module #3613 by @SmartFinn
+- Cinnamon built-in actions @SmartFinn
+- Czkawka #3108 by @SmartFinn
+- DevDocs (PWA) by @SmartFinn in #3616
+- Duolingo (PWA) by @SmartFinn
+- Facebook (PWA) by @SmartFinn in #3616
+- Forkgram #3612 by @morganist
+- Freeciv Qt client (Flathub) #2007 by @SmartFinn
+- Freeciv SDL2 client (Flathub) #2007 by @SmartFinn
+- GDM Settings (symbolic icons) #3573 by @SmartFinn
+- GDM Settings #3267 by @SmartFinn
+- GMail (PWA) by @SmartFinn
+- Google Contacts by @SmartFinn
+- Google Drive (PWA) by @SmartFinn
+- Google Keep (PWA) by @SmartFinn
+- Google Maps #3333 by @SmartFinn
+- Google Meet (PWA) by @SmartFinn
+- Google Photos (PWA) by @SmartFinn
+- GPU Screen Recorder #3618 by @morganist
+- Halftone by @morganist
+- Iotas #2007 by @SmartFinn
+- Microsoft 365 (microsoft365.com) (PWA) by @SmartFinn
+- Microsoft OneDrive (PWA) by @SmartFinn
+- Mini Text #2007 by @SmartFinn
+- Mission Center #2007 by @SmartFinn
+- NOS TV (PWA) by @SmartFinn in #3616
+- Outlook (live.com) (PWA) by @SmartFinn
+- Overcooked #3276 by @SmartFinn
+- Plasma Discover by @mjkim0727 in #3625
+- PollyMC #3564 by @morganist
+- Pomodoro #3620 by @SmartFinn
+- Solaar #2007 by @SmartFinn
+- TeamSpeak3 (Flathub) #2007 by @SmartFinn
+- Telegram Web A (PWA) by @SmartFinn
+- Telegram Web K (PWA) by @SmartFinn
+- The Ur-Quan Masters HD MegaMod (Flathub) #2007 by @SmartFinn
+- Thunderbird Beta #3602 by @morganist
+- TikTok (PWA) by @SmartFinn in #3616
+- Tor Browser Launcher #2007 by @SmartFinn
+- uGet #2007 by @SmartFinn
+- Unsplash (PWA) #3253 by @SmartFinn
+- Upscayl #2007 #3336 by @SmartFinn
+- USBView #3640 by @SmartFinn
+- VNote #2007 by @SmartFinn
+- VSCodium - Insiders #2007 by @SmartFinn
+- Warehouse #2007 by @SmartFinn
+- Xbox Cloud Gaming (en-US) (PWA) by @SmartFinn
+
+## Updated icons
+
+- Cinnamon Desklets by @SmartFinn
+- Citra #3569 by @SmartFinn
+- cs-applets by @SmartFinn
+- KiCad #3342 by @SmartFinn
+- krdc by @SmartFinn
+- Polari by @mjkim0727 in #3632
+- preferences-desktop-icons by @SmartFinn
+- preferences-desktop-wallpaper by @SmartFinn
+- preferences-system-notifications-symbolic by @SmartFinn
+- suanPan #3364 by @SmartFinn
+- Telegram by @morganist
+- utilities-log-viewer by @SmartFinn
+
+## Changes and fixes
+
+- Added preferences-desktop-touchscreen symlinks by @mjkim0727 in #3633
+- Added symbolic icons for Privacy panel in GNOME Settings v45
+- Added vscode symlink for Visual Studio Code v1.75 and newer by @mjkim0727 in #3627
+- Removed Chrome Apps because of end-of-life #3616
+- Removed Houseparty (PWA) because of end-of-life by @SmartFinn in #3616
+- Removed unneeded class from blue folders by @Link1J in #3614
+- Renamed icon for PDFsam #3619
+- Updated caja-actions icon to match the icon of system-file-manager by @SmartFinn
+
+## Others
+
+- Added CHANGELOG.md to the Git repository
+- Added KDE Colorsheme Folders to `build_color_folders.sh` script, but they don't include to the release by @Link1J in #3614
+
+## Supporters
+
+Thank you to our supporters who appear below. We appreciate their support for our work.
+
+- @ocobblepot
+- @annisu
+- **S.Lorrain**
+
+
 [20231201]
 ==========
 
