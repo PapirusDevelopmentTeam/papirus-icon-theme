@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
  <g>
-  <rect style="fill:#5294e2" width="36" height="24" x="6" y="4" rx="1.5" ry="1.5"/>
-  <rect style="opacity:0.1" width="36" height="24" x="6" y="7" rx="1.5" ry="1.5"/>
-  <rect style="fill:#89e058" width="36" height="24" x="6" y="8" rx="1.5" ry="1.5"/>
-  <rect style="opacity:0.1" width="36" height="24" x="6" y="11" rx="1.5" ry="1.5"/>
+  <rect style="fill:#5294e2" width="28" height="24" x="10" y="4" rx="1.5" ry="1.5"/>
+  <rect style="fill:#89e058" width="32" height="24" x="8" y="8" rx="1.5" ry="1.5"/>
   <rect style="fill:#ffcd54" width="36" height="24" x="6" y="12" rx="1.5" ry="1.5"/>
-  <rect style="opacity:.2" width="40" height="28" x="4" y="17" rx="2" ry="2"/>
+  <rect style="opacity:0.2" width="40" height="28" x="4" y="17" rx="2" ry="2"/>
   <rect style="fill:#8e8e8e" width="40" height="28" x="4" y="16" rx="2" ry="2"/>
-  <rect style="opacity:.2" width="14" height="4" x="17" y="28" rx="1" ry="1"/>
+  <rect style="opacity:0.2" width="14" height="4" x="17" y="28" rx="1" ry="1"/>
   <rect style="fill:#ececec" width="14" height="4" x="17" y="27" rx="1" ry="1"/>
-  <path style="fill:#ffffff;opacity:0.1" d="M 7.5 4 C 6.669 4 6 4.669 6 5.5 L 6 6.5 C 6 5.669 6.669 5 7.5 5 L 40.5 5 C 41.331 5 42 5.669 42 6.5 L 42 5.5 C 42 4.669 41.331 4 40.5 4 L 7.5 4 z"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 7.5,8 C 6.669,8 6,8.669 6,9.5 V 10.5 C 6,9.669 6.669,9 7.5,9 H 40.5 C 41.331,9 42,9.669 42,10.5 V 9.5 C 42,8.669 41.331,8 40.5,8 Z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 11.5,4 C 10.669,4 10,4.669 10,5.5 V 6.5 C 10,5.669 10.669,5 11.5,5 H 36.5 C 37.331,5 38,5.669 38,6.5 V 5.5 C 38,4.669 37.331,4 36.5,4 Z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 9.5,8 C 8.669,8 8,8.669 8,9.5 V 10.5 C 8,9.669 8.669,9 9.5,9 H 38.5 C 39.331,9 40,9.669 40,10.5 V 9.5 C 40,8.669 39.331,8 38.5,8 Z"/>
   <path style="opacity:0.1;fill:#ffffff" d="M 7.5,12 C 6.669,12 6,12.669 6,13.5 V 14.5 C 6,13.669 6.669,13 7.5,13 H 40.5 C 41.331,13 42,13.669 42,14.5 V 13.5 C 42,12.669 41.331,12 40.5,12 Z"/>
+  <path style="opacity:0.1" d="M 9.5,7 C 8.669,7 8,7.669 8,8.5 V 9.5 C 8,8.669 8.669,8 9.5,8 H 38.5 C 39.331,8 40,8.669 40,9.5 V 8.5 C 40,7.669 39.331,7 38.5,7 Z"/>
+  <path style="opacity:0.1" d="M 7.5,11 C 6.669,11 6,11.669 6,12.5 V 13.5 C 6,12.669 6.669,12 7.5,12 H 40.5 C 41.331,12 42,12.669 42,13.5 V 12.5 C 42,11.669 41.331,11 40.5,11 Z"/>
  </g>
  <g>
   <circle style="opacity:0.2" cx="36" cy="37" r="11"/>

@@ -1,1 +1,5 @@
-irc-chat.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#dfdfdf" d="M 6,4 C 4.892,4 4,4.892 4,6 V 12 C 4,13.108 4.892,14 6,14 H 12 L 14,16 V 14 C 15.108,14 16,13.108 16,12 V 6 C 16,4.892 15.108,4 14,4 Z"/>
+ <path style="fill:#33d17a" d="M 2,0 C 0.892,0 0,0.892 0,2 V 8 C 0,9.108 0.892,10 2,10 V 12 L 4,10 H 10 C 11.108,10 12,9.108 12,8 V 2 C 12,0.892 11.108,0 10,0 Z"/>
+ <path style="fill:#ffffff" d="M 4,2 V 3 H 3 V 4 H 4 V 6 H 3 V 7 H 4 V 8 H 5 V 7 H 7 V 8 H 8 V 7 H 9 V 6 H 8 V 4 H 9 V 3 H 8 V 2 H 7 V 3 H 5 V 2 Z M 5,4 H 7 V 6 H 5 Z"/>
+</svg>

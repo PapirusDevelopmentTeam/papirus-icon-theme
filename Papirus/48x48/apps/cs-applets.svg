@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="fill:#325f78" width="32" height="40" x="-40" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.2" width="26" height="34" x="-37" y="-41" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
- <path fill="#fff" style="opacity:0.1" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path opacity=".2" d="m10 31h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path opacity=".2" d="m18 31h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path opacity=".2" d="m26 31h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path opacity=".2" d="m34 31h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path fill="#fff" d="m10 30h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path fill="#fff" d="m18 30h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path fill="#fff" d="m26 30h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path fill="#fff" d="m34 30h4c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z"/>
- <path opacity=".2" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <path style="fill:#1e88e5" d="M 6,6 C 4.892,6 4,6.892 4,8 V 34.1 H 44 V 8 C 44,6.892 43.108,6 42,6 Z"/>
+ <path fill="#253951" d="M 6,42 C 4.892,42 4,41.108 4,40 V 34 H 44 V 40 C 44,41.108 43.108,42 42,42 Z"/>
+ <path fill="#ffffff" opacity=".1" d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 H 42 C 43.108,7 44,7.892 44,9 V 8 C 44,6.892 43.108,6 42,6 Z"/>
+ <path opacity=".2" d="M 4,40 V 41 C 4,42.108 4.892,43 6,43 H 42 C 43.108,43 44,42.108 44,41 V 40 C 44,41.108 43.108,42 42,42 H 6 C 4.892,42 4,41.108 4,40 Z"/>
+ <rect style="opacity:0.2" width="6" height="6" x="9" y="31" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="9" y="30" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="6" height="6" x="17" y="31" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="17" y="30" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="6" height="6" x="25" y="31" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="25" y="30" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="6" height="6" x="33" y="31" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="33" y="30" rx="1" ry="1"/>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <path opacity=".2" d="m3 22.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
- <path style="fill:#248afd" d="M 3,2 C 2.446,2 2,2.446 2,3 v 18 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 7 A 5,5 0 0 0 17,2 Z"/>
- <path opacity=".2" d="m4 5.5v15h3v-3.5l2.5 3.5h3.5l-5-7.5 5-7.5h-3.5l-2.5 3.5v-3.5h-3zm13.5 0a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -1.5 -1.5zm-1.5 5v10h3v-10h-3z"/>
- <path style="fill:#ffffff" d="m4 5v15h3v-3.5l2.5 3.5h3.5l-5-7.5 5-7.5h-3.5l-2.5 3.5v-3.5z"/>
- <path style="fill:#ffffff" d="m16 10h3v10h-3z"/>
- <circle fill="#f70" cx="17.5" cy="6.5" r="1.5"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 3.5 C 2 2.946 2.446 2.5 3 2.5 L 17 2.5 A 5 5 0 0 1 22 7.5 L 22 7 A 5 5 0 0 0 17 2 L 3 2 z"/>
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="3" ry="3"/>
+ <rect style="fill:#3f51b5" width="20" height="20" x="2" y="2" rx="3" ry="3"/>
+ <circle style="opacity:0.1" cx="17.5" cy="6" r="1.5"/>
+ <circle fill="#ff7700" cx="17.5" cy="5.5" r="1.5"/>
+ <path style="opacity:0.1" d="M 15.5,9.5 H 19 V 19 L 19.5,19.5 H 15.5 L 16,19 V 10 Z M 4.5,5.5 5,6 V 19 L 4.5,19.5 H 8.5 L 8,19 V 15.5 L 10.5,19 V 19.5 H 14.5 L 9,12.5 14.5,5.5 H 10.5 V 6 L 8,9.5 V 6 L 8.5,5.5 Z"/>
+ <path style="fill:#ffffff" d="M 15.5,9 H 19 V 18.5 L 19.5,19 H 15.5 L 16,18.5 V 9.5 Z M 4.5,5 5,5.5 V 18.5 L 4.5,19 H 8.5 L 8,18.5 V 15 L 10.5,18.5 V 19 H 14.5 L 9,12 14.5,5 H 10.5 V 5.5 L 8,9 V 5.5 L 8.5,5 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 5 2 C 3.338 2 2 3.338 2 5 L 2 5.5 C 2 3.838 3.338 2.5 5 2.5 L 19 2.5 C 20.662 2.5 22 3.838 22 5.5 L 22 5 C 22 3.338 20.662 2 19 2 L 5 2 z"/>
 </svg>
