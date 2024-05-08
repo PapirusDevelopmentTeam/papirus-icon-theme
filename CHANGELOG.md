@@ -1,3 +1,82 @@
+[20240501]
+==========
+
+## Highlights
+
+> [!IMPORTANT]
+> This release includes a workaround and numerous icons for Plasma 6. This workaround may not be correct in others desktop environments.
+> If your distro does **NOT** ship with Plasma 6, **skip this release**.
+
+- Added a rule for scaling 16px panel icons to 32px panel icons as a workaround for Plasma 6 #3663 #3595 by @morganist
+- Added password show/hide symlinks for kscreenlocker (Plasma 6) by @swomf #3677
+- Added notification icons for Plasma 6 by @mjkim0727 in #3664
+- Added icons for Plasma BatteryMonitor widget #3666 by @mjkim0727 in #3665
+- Added klipper-symbolic icon (Plasma 6) #3663 #3595 by @morganist
+- Added panel brightness symbolic icons for Plasma 6 and generic brightness icon symlink for fallback #3663 #3595 by @morganist
+- Added symlinks for notifications applet (Plasma 6) #3663 #3595 by @morganist
+- Added symlinks for symbolic bluetooth icons (Plasma 6) #3663 #3595 by @morganist
+- Added symlinks for KDEConnect (Plasma 6) #3663 #3595 by @morganist
+- Added symlinks for wired network icons (Plasma 6) #3663 #3595 by @morganist
+- Added symlinks for wireless networks (Plasma 6) #3663 #3595 by @morganist
+- Added new on/off icons for airplane mode and Plasma 6 symlinks by @morganist
+- Added device-notifier symlinks (Plasma 6) #3663 #3595 by @morganist
+- Added generic MTP device panel icons (Plasma 6) #3663 #3595 by @morganist
+- Added symbolic symlinks for battery levels (Plasma 6) #3663 #3595 by @morganist
+- Added plasmavault_error icon #3663 #3595 by @morganist
+- Added network-wireless symbolic symlinks (Plasma 6) #3663 #3595 by @morganist
+- Added NetworkManager symbolic symlinks (Plasma 6) #3663 #3595 by @morganist
+- Added display configuration icon (Plasma 6) #3663 #3595 by @morganist
+- Added printer icons (Plasma 6) #3663 #3595 #3691 by @morganist
+- Added hard drive icons (Plasma 6) #3663 #3595 by @morganist
+- Added removable devices icons (Plasma 6) #3663 #3595 by @morganist
+
+## Added icons
+
+- Aegishub (Flathub) #2007 by @morganist
+- application-vnd.efi.img #3681 by @SmartFinn
+- application-vnd.efi.iso by @SmartFinn
+- application-x-generic #3681 by @SmartFinn
+- Brasero (Flathub) #2007 by @morganist
+- CudeText-Qt (Flathub) #2007 by @morganist
+- edb-debugger (Flathub) #2007 by @morganist
+- FreeCAD #3683 by @morganist
+- Ghostwriter (Flathub) #2007 by @morganist
+- Instagram (PWA) by @mjkim0727 in #3643
+- KDiskFree (Flathub) #2007 by @morganist
+- Kshisen (Flathub) #2007 by @morganist
+- Nutstore (Flathub) #2007 by @morganist
+- OpenJDK 21 by @RocGwei in #3656
+- Persepolis Download Manager #3667 by @morganist
+- Portal: Revolution by @JacobWLMS in #3653
+- PortProton (Flathub) #2007 by @morganist
+- Proton Mail (official electron app) by @aaheen in #3676
+- Sioyek PDF Reader by @Aman9das in #3684
+- Spyder (Flathub) #2007 by @Aman9das in #3684
+- Termius (Flathub) #2007 by @morganist
+- VSCode Insiders by @QuentiumYT in #3652
+- WeChat (Flathub) #2007 by @morganist
+
+## Updated icons
+
+- Half-Life: Alyx by @RedCoffeeMug in #3650
+- Half-Life: Deathmatch by @RedCoffeeMug in #3648
+- network-wired-* by @morganist
+- xpfm-brightness-lcd by @morganist
+
+## Changes and fixes
+
+- Added missing panel `network-*` symlinks in #3606 by @morganist
+- Fixed inconsistent Half-Life circle icons #3649 by @RedCoffeeMug in #3650
+- Removed unused symlinks for VSCode Insiders and VSCode Exploration by @QuentiumYT in #3652
+- SELinux Troubleshooter #3693 by @SmartFinn
+
+## Supporters
+
+Thank you to our supporters who appear below. We appreciate their support for our work.
+
+- @ocobblepot
+
+
 [20240201]
 ==========
 
