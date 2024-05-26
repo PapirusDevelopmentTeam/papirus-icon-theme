@@ -95,13 +95,13 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 #### HOME directory for GTK
 
 ```
-wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="$HOME/.icons" sh
 ```
 
 #### HOME directory for KDE
 
 ```
-wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.local/share/icons" sh
+wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="$HOME/.local/share/icons" sh
 ```
 
 #### \*BSD systems
