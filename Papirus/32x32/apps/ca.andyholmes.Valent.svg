@@ -1,0 +1,13 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="2" width="20" height="30" rx="1.5" ry="1.5" style="opacity:.2"/>
+ <path d="m7.5 1c-0.831 0-1.5 0.669-1.5 1.5v1.5h20v-1.5c0-0.831-0.669-1.5-1.5-1.5h-17zm-1.5 25v3.5c0 0.831 0.669 1.5 1.5 1.5h17c0.831 0 1.5-0.669 1.5-1.5v-3.5h-20z" style="fill:#e4e4e4"/>
+ <rect x="6" y="4" width="20" height="22" style="fill:#3f3f3f"/>
+ <rect x="14" y="2" width="4" height="1" rx=".5" ry=".492" style="fill:#333333"/>
+ <rect x="14" y="27" width="4" height="3" rx="1" ry="1" style="fill:#4d4d4d"/>
+ <path d="m7.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h17c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-17z" style="fill:#ffffff;opacity:.2"/>
+ <rect x="20" y="28" width="3" height="1" rx=".5" ry=".5" style="fill:#4d4d4d"/>
+ <rect x="9" y="28" width="3" height="1" rx=".5" ry=".5" style="fill:#4d4d4d"/>
+ <circle cx="19.5" cy="2.5" r=".5" style="fill:#333333"/>
+ <rect x="6" y="4" width="20" height="1" style="opacity:.2"/>
+ <rect x="6" y="26" width="20" height="1" style="fill:#ffffff;opacity:.2"/>
+</svg>
