@@ -1,19 +1,17 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g>
-  <g>
-   <rect x="0" y="6" width="16" height="2" rx=".5" ry=".5" style="fill:#4747d1"/>
-   <path d="m5 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
-   <path d="m10 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
-   <path d="m15 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
-  </g>
-  <g transform="matrix(-.96311323 .26909649 .26909649 .96311323 13.679395 -5.8945169)">
-   <rect x="0" y="6" width="16" height="2" rx=".5" ry=".5" style="fill:#4747d1"/>
-   <path d="m5 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
-   <path d="m10 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
-   <path d="m15 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
-  </g>
-  <path d="m1 8v7c0 0.553999 0.446001 1 1 1h12c0.553999 0 1-0.446001 1-1v-7z" style="fill:#4747d1"/>
-  <path d="M 0.5,4 C 0.2230003,4 0,4.2230003 0,4.5 v 3 C 0,7.7769997 0.2230003,8 0.5,8 h 3.0058594 c 0.2769997,0 0.5032459,-0.2230193 0.5,-0.5 L 4,7 C 3.9967541,6.7230193 2.2769997,4 2,4 Z" style="fill:#cccccc"/>
-  <path transform="matrix(-.84009256 -.48502767 .48502767 -.84009256 7.2283733 24.538397)" d="m8.7497086 12.622356h-4.7613801l2.3806901-4.1234763z" style="fill:#e4e4e4"/>
+  <rect y="6" width="16" height="2" rx=".5" ry=".5" style="fill:#4747d1"/>
+  <path d="m5 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
+  <path d="m10 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
+  <path d="m15 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
  </g>
+ <g transform="matrix(-.96310591 .26912267 .26912267 .96310591 13.679112 -5.8944824)">
+  <rect y="6" width="16" height="2" rx=".5" ry=".5" style="fill:#4747d1"/>
+  <path d="m5 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
+  <path d="m10 6-2 2h-2l2-2z" style="fill:#e4e4e4"/>
+  <path d="m15.5 6-2 2h-2.5l2-2z" style="fill:#e4e4e4"/>
+ </g>
+ <path d="m1 8v7c0 0.553999 0.446001 1 1 1h12c0.553999 0 1-0.446001 1-1v-7z" style="fill:#4747d1"/>
+ <path d="M 0.5,4 C 0.2230003,4 0,4.2230003 0,4.5 v 3 C 0,7.7769997 0.2230003,8 0.5,8 h 3.0058594 c 0.2769997,0 0.5032459,-0.2230193 0.5,-0.5 L 4,7 C 3.9967541,6.7230193 2.2769997,4 2,4 Z" style="fill:#cccccc"/>
+ <path d="M 6.0000001,9.6905989 10,12 6,14.309401 Z" style="fill:#e4e4e4"/>
 </svg>
