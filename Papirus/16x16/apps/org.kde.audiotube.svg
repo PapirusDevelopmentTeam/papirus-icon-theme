@@ -1,0 +1,31 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c">
+   <stop stop-color="#dc8689" offset="0"/>
+   <stop stop-color="#d56062" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="6.61458" x2="6.61458" y1="6.2178" y2="1.0583" gradientTransform="translate(0 -.15143)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#da4453" offset="0"/>
+   <stop stop-color="#e74c3c" offset="1"/>
+  </linearGradient>
+  <linearGradient x1="10.58366" x2="11.64167" y1="6.08397" y2="6.08542" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="f" x1="1.05833" x2="2.38125" y1="6.08542" y2="6.08542" gradientTransform="translate(-3.43958)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+ </defs>
+ <g transform="matrix(1.51181,0,0,1.51181,-1.5999937,-1.171199)">
+  <rect x="1.0584" y=".90687001" width="10.583" height="10.319" rx="1.5875" ry="1.5875" style="fill:#e74c3c" paint-order="stroke fill markers"/>
+  <circle cx="6.3498998" cy="6.06637" r="3.9746699" fill="none" stroke="#dc8689" stroke-linecap="square" stroke-width=".51752" style="stroke:#f9cfcf"/>
+  <g>
+   <rect x="3.96875" y="5.8208299" width=".52916998" height=".52916998" rx=".13229001" ry=".13229001" style="fill:#f9cfcf"/>
+   <path d="m2.38125 5.82083v0.52917h1.19063a0.132 0.132 0 0 0 0.13229-0.1323v-0.26457a0.132 0.132 0 0 0-0.1323-0.1323z" style="fill:#f9cfcf"/>
+   <rect transform="translate(-.52917 -.26458)" x="9.2604198" y="6.0854201" width=".52916998" height=".52916998" rx=".13229001" ry=".13229001" style="fill:#f9cfcf"/>
+   <path d="m9.6573 5.82083a0.132 0.132 0 0 0-0.1323 0.1323v0.26458a0.132 0.132 0 0 0 0.1323 0.13229h0.66145v-0.52917z" style="fill:#f9cfcf"/>
+   <rect transform="scale(-1,1)" x="-2.3812499" y="5.8208299" width="1.32292" height=".52916998" style="fill:#f9cfcf"/>
+   <rect x="10.31875" y="5.8208299" width="1.32292" height=".52916998" style="fill:#f9cfcf"/>
+   <rect x="4.7624998" y="3.43958" width=".52916998" height="5.2916698" rx=".13229001" ry=".13229001" style="fill:#e4e4e4"/>
+   <rect x="5.5562501" y="3.96875" width=".52916998" height="4.2333298" rx=".13229001" ry=".13229001" style="fill:#e4e4e4"/>
+   <rect x="6.3499999" y="4.49792" width=".52916998" height="3.175" rx=".13229001" ry=".13229001" style="fill:#e4e4e4"/>
+   <rect x="7.1437502" y="5.0270801" width=".52916998" height="2.1166699" rx=".13229001" ry=".13229001" style="fill:#e4e4e4"/>
+   <rect x="7.9375" y="5.5562501" width=".52916998" height="1.0583301" rx=".13229001" ry=".13229001" style="fill:#e4e4e4"/>
+  </g>
+ </g>
+</svg>
