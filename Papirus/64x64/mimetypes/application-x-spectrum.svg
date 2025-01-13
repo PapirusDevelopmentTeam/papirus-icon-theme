@@ -4,14 +4,10 @@
  <path d="m54 23-18-18v15.1875c0 1.55925 1.2555 2.8125 2.8125 2.8125z" style="opacity:.2"/>
  <path d="m54 22-18-18v15.1875c0 1.55925 1.2555 2.8125 2.8125 2.8125z" style="fill:#696969"/>
  <path d="m12.75 4c-1.5235 0-2.75 1.2495812-2.75 2.8007812v1c0-1.5511999 1.2265-2.8007812 2.75-2.8007812h23.25v-1h-23.25z" style="fill:#ffffff;opacity:.1"/>
- <g transform="matrix(.5 0 0 .5 21.5 27.5)">
-  <path d="m15 65h14l36-36v-14z" style="fill:#e36d66;stop-color:#000000"/>
-  <path d="m25 65h14l26-26v-14z" style="fill:#ebca41;stop-color:#000000"/>
-  <path d="m35 65h14l16-16v-14z" style="fill:#79de7d;stop-color:#000000"/>
-  <path d="m45 65h10l10-10v-10z" style="fill:#50beee;stop-color:#000000"/>
- </g>
- <g transform="translate(0,1)">
-  <path d="m33 30 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16 0h14v2l-9 11h9v3h-14v-2l9-11h-9z" style="opacity:.2"/>
-  <path d="m33 29 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16 0h14v2l-9 11h9v3h-14v-2l9-11h-9z" style="fill:#ffffff"/>
- </g>
+ <path d="m29 60h7l18-18v-7z" style="fill:#e36d66;stop-color:#000000"/>
+ <path d="m34 60h7l13-13v-7z" style="fill:#ebca41;stop-color:#000000"/>
+ <path d="m39 60h7l8-8v-7z" style="fill:#79de7d;stop-color:#000000"/>
+ <path d="m44 60h5l5-5v-5z" style="fill:#50beee;stop-color:#000000"/>
+ <path d="m32.5 31 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16.5 0h14v2l-9 11h9v3h-14v-2l9-11h-9z" style="opacity:.2"/>
+ <path d="m32.5 30 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16.5 0h14v2l-9 11h9v3h-14v-2l9-11h-9z" style="fill:#ffffff"/>
 </svg>
