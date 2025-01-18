@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <path style="opacity:0.2;fill-rule:evenodd" d="M 15.5,5 2,18.5 H 8 L 13.5,13 v 5.5 L 19,13 v 5.5 l 3,-3 V 5.5 L 15.5,12 Z"/>
- <path style="fill:#2b87d8;fill-rule:evenodd" d="M 15.5,4.5 2,18 h 6 l 5.5,-5.5 V 18 L 19,12.5 V 18 l 3,-3 V 5 l -6.5,6.5 z"/>
- <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 15.5,4.5 2,18 H 2.5 L 15.5,5 Z M 22,5 15.5,11.5 V 12 L 22,5.5 Z"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m15.5 5-13.5 13.5h6l5.5-5.5v5.5l5.5-5.5v5.5l3-3v-10l-6.5 6.5z" style="fill-rule:evenodd;opacity:.2"/>
+ <path d="m15.5 4.5-13.5 13.5h6l5.5-5.5v5.5l5.5-5.5v5.5l3-3v-10l-6.5 6.5z" style="fill-rule:evenodd;fill:#4cade9;stop-color:#000000"/>
+ <path d="m15.5 4.5-13.5 13.5h0.5l13-13zm6.5 0.5-6.5 6.5v0.5l6.5-6.5z" style="fill-rule:evenodd;fill:#ffffff;opacity:.2"/>
 </svg>

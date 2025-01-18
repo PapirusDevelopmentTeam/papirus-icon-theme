@@ -360,6 +360,12 @@ Inside [tools/work](tools/work) you will find a step-by-step guide, an environme
 
 We are waiting for your pull requests and would love to see this icon theme become as complete as possible.
 
+### How to design icons
+
+See the [Papirus wiki][wiki] for some useful guides to icon creation. There are topics in there covering just about every aspect of creating an icon for Papirus, as well as historical information about the project. Anyone can contribute a page, and we'd like it to be as useful as possible!
+
+[wiki]: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/wiki
+
 ## Donate
 
 If you would like to support development by making one-time donation or by becoming a supporter, please visit our page on [Buy Me a Coffee](https://www.buymeacoffee.com/papirus).

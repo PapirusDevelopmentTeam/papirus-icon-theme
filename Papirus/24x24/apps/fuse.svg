@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <path style="opacity:.2" d="m3 22.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
- <rect style="fill:#4f4f4f" width="20" height="20" x="2" y="2" rx="1" ry="1"/>
- <path style="opacity:.1;fill:#ffffff" d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
- <path style="fill:#f24c3d" d="m22 6-16 16h3l13-13z"/>
- <path style="fill:#e6df15" d="m22 9v3l-10 10h-3z"/>
- <path style="fill:#66dd23" d="m22 12v3l-7 7h-3z"/>
- <path style="fill:#24f0ff" d="m22 15v3l-4 4h-3z"/>
- <path style="opacity:.2" d="m12 4.5995 2.8571 5-2.857 5.0005h2.2857l1.714-3.001 1.714 3.001h2.286l-2.857-5.0005 2.857-5h-2.286l-1.714 3-1.714-3.0005zm-8 0.0005h7v1.25l-4.5 6.875h4.5v1.875h-7v-1.25l4.5-6.875h-4.5z"/>
- <path style="fill:#ffffff" d="m12 3.9995 2.8571 5l-2.857 5.0005h2.2857l1.714-3.001 1.714 3.001h2.286l-2.857-5.0005 2.857-5h-2.286l-1.714 3-1.714-3.0005zm-8 0.0005h7v1.25l-4.5 6.875h4.5v1.875h-7v-1.25l4.5-6.875h-4.5z"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m3 22.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z" style="opacity:.2"/>
+ <rect x="2" y="2" width="20" height="20" rx="1" ry="1" style="fill:#4f4f4f"/>
+ <path d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m22 6-16 16h4l12-12z" style="fill:#e36d66;stop-color:#000000"/>
+ <path d="m22 9v4l-9 9h-4z" style="fill:#ebca41;stop-color:#000000"/>
+ <path d="m22 12v4l-6 6h-4z" style="fill:#79de7d;stop-color:#000000"/>
+ <path d="m22 15v3l-4 4h-3z" style="fill:#50beee;stop-color:#000000"/>
+ <path d="m12 4.5995 2.8571 5-2.857 5.0005h2.2857l1.714-3.001 1.714 3.001h2.286l-2.857-5.0005 2.857-5h-2.286l-1.714 3-1.714-3.0005zm-8 5e-4h7v1.25l-4.5 6.875h4.5v1.875h-7v-1.25l4.5-6.875h-4.5z" style="opacity:.2"/>
+ <path d="m12 3.9995 2.8571 5-2.857 5.0005h2.2857l1.714-3.001 1.714 3.001h2.286l-2.857-5.0005 2.857-5h-2.286l-1.714 3-1.714-3.0005zm-8 5e-4h7v1.25l-4.5 6.875h4.5v1.875h-7v-1.25l4.5-6.875h-4.5z" style="fill:#ffffff"/>
 </svg>
