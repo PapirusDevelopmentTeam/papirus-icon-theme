@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <path style="opacity:.2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <rect style="fill:#4f4f4f" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path style="opacity:.1;fill:#ffffff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path style="fill:#f24c3d" d="m9 44h7l28-28v-7z"/>
- <path style="fill:#e6df15" d="m16 44h7l21-21v-7z"/>
- <path style="fill:#66dd23" d="m23 44h7l14-14v-7z"/>
- <path style="fill:#24f0ff" d="m30 44h7l7-7v-7z"/>
- <path style="opacity:.2" d="m19 8.75 3.5714 6l-3.571 6h2.8571l2.143-3.601 2.143 3.601h2.857l-3.5714-6 3.571-6h-2.857l-2.143 3.601-2.143-3.601zm-11 0h10v1.5l-6.429 8.25h6.429v2.25h-10v-1.5l6.429-8.25h-6.429z"/>
- <path style="fill:#ffffff" d="m19 8 3.571 6-3.571 6h2.8571l2.143-3.601 2.143 3.601h2.857l-3.571-6 3.571-6h-2.857l-2.143 3.601-2.143-3.601zm-11 0h10v1.5l-6.4286 8.25h6.429v2.25h-10v-1.5l6.4286-8.25h-6.429z"/>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z" style="opacity:.2"/>
+ <rect x="4" y="4" width="40" height="40" rx="2" ry="2" style="fill:#4f4f4f"/>
+ <path d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m9 44h9l26-26v-9z" style="fill:#e36d66;stop-color:#000000"/>
+ <path d="m16 44h9l19-19v-9z" style="fill:#ebca41;stop-color:#000000"/>
+ <path d="m23 44h9l12-12v-9z" style="fill:#79de7d;stop-color:#000000"/>
+ <path d="m30 44h7l7-7v-7z" style="fill:#50beee;stop-color:#000000"/>
+ <path d="m19 8.75 3.5714 6-3.571 6h2.8571l2.143-3.601 2.143 3.601h2.857l-3.5714-6 3.571-6h-2.857l-2.143 3.601-2.143-3.601zm-11 0h10v1.5l-6.429 8.25h6.429v2.25h-10v-1.5l6.429-8.25h-6.429z" style="opacity:.2"/>
+ <path d="m19 8 3.571 6-3.571 6h2.8571l2.143-3.601 2.143 3.601h2.857l-3.571-6 3.571-6h-2.857l-2.143 3.601-2.143-3.601zm-11 0h10v1.5l-6.4286 8.25h6.429v2.25h-10v-1.5l6.4286-8.25h-6.429z" style="fill:#ffffff"/>
 </svg>
