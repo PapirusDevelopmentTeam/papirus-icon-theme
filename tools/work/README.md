@@ -38,6 +38,13 @@ For compabillity with mostly GTK Themes we use this palette:
 - white `#e4e4e4`
 - black `#4f4f4f`
 
+There are a few exceptions:
+
+- white logos/text/other designs *on top of* colored icons use pure `#ffffff`
+- highlights on light objects use pure `#ffffff`, at 20% opacity
+- highlights on dark objects use pure `#ffffff`, at 10% opacity
+- shadows use pure `#000000`, at 20% opacity
+
 For devices used material colors:
 
 - steel `#afafb1`
