@@ -75,7 +75,7 @@ sudo apt-get install papirus-icon-theme
 
 ### Papirus Installer
 
-Use the script to install the latest version directly from the master branch of this repo (independent from your distribution).
+Use the script to install the latest version directly from the master branch of this repo (this method does not depend on your distribution).
 
 Find the install script [here](install.sh) or proceed with command-line instructions below.
 
@@ -227,7 +227,7 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 
 ## Recommendations
 
-- It is recommended use Papirus icons alongside one of the following GTK themes:
+- It is recommended to use Papirus icons alongside one of the following GTK themes:
   - [Arc theme](https://github.com/jnsh/arc-theme)
   - [Materia theme](https://github.com/nana-4/materia-theme)
 - For KDE, our recommendations are:
@@ -337,10 +337,22 @@ Go to `Edit` → `Preferences`. Click on `Display` section. On `Icons` category 
 Requirements:
 
 - Application name
-- Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
-- Original icon image
-- Use tray? Tray icon name. Hardcoded?
-- Small description and/or a link to the official webpage
+- Icon name (see the application's desktop file property **Icon** in `/usr/share/applications`)
+- Original icon image, an icon that is used by the upstream
+- Does it have system tray icons? Provide tray icon names. Are they hardcoded (i.e. referenced by a file path instead of an icon name)?
+- Small description and/or a link to the official webpage/repository of the project
+
+<details>
+<summary>Example</summary>
+
+- **App Name:** Forkgram
+- **Icon Name:** forkgram
+- **Description:** Forkgram is the fork of the official Telegram Desktop application
+- **Webpage (optional):** https://github.com/Forkgram/tdesktop
+- **Original Icon:**
+
+![telegram](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/assets/63223659/f038b2e3-0d8d-4ec3-b986-128b7320d270)
+</details>
 
 > [!WARNING]
 > We do NOT support Windows/Wine/Proton/Crossover or other NON-NATIVE Linux apps & games. However, pull requests adding those will be considered.
