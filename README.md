@@ -348,30 +348,35 @@ We welcome user contributions. If you don't know where to start, we've compiled 
 - new icons for missing applications
 - symbolic links to an existing icon
 - resolving open issues
+- improving our documentation
 - spelling, grammar, phrasing
 - improvements to our scripts
 
-Inside [tools/work](tools/work) you will find a step-by-step guide, an environment, and tools that will help you:
+Inside [tools/work](tools/work) you will find:
 
-- [create a new icon](tools/work#create-a-new-icon) from template
-- [make a symlink to an existing icon](tools/work#make-symlinks-to-an-existing-icon)
-- [edit an existing icon](tools/work#edit-an-existing-icon)
-- convert your icon to all variants of the theme
+- extensive [design notes](tools/work/DESIGN.md) for the Papirus icon theme
+- a working environment
+- template files you can adapt for new icons
+- scripts and tools for automating the entire design workflow:
+  - creating new icons
+  - editing existing icons
+  - symlinks to existing icons
+  - preparing/cleaning edited icons so they're ready to commit
+  - testing that the theme is right before you commit
+- a [step-by-step guide](tools/work/README.md#step-by-step-guide) to the scripted workflow
 
 We are waiting for your pull requests and would love to see this icon theme become as complete as possible.
 
 ### How to design icons
 
-See the [Papirus wiki][wiki] for some useful guides to icon creation. There are topics in there covering just about every aspect of creating an icon for Papirus, as well as historical information about the project. Anyone can contribute a page, and we'd like it to be as useful as possible!
-
-[wiki]: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/wiki
+- [detailed icon design notes](tools/work/DESIGN.md)
+- [our wiki](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/wiki), which dives deeper into various topics
 
 ## Donate
 
 If you would like to support development by making one-time donation or by becoming a supporter, please visit our page on [Buy Me a Coffee](https://www.buymeacoffee.com/papirus).
 
 <a href="https://www.buymeacoffee.com/papirus"><img alt="Buy me a coffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=papirus&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
 
 ## License
 
