@@ -64,7 +64,7 @@ Please do not use very bright and toxic colors for Papirus. There is no official
 
 Good examples colors are available in the main icon theme folders, and you can start with [the example SVG][svgex] in this folder too.
 
-For compatibility with the majority of GTK Themes, we use these limits. Please don't pick shades much brighter or darker than these for a base element, and treat these as hard light and dark limits for monochrome base elements.
+For compatibility with the majority of GTK Themes, we use these brightness limits for base elements. Please don't pick colour shades much brighter or darker than these for a base element, and treat these as hard limits for greyscale base elements. This doesn't include shadows and highlights.
 
 - white `#e4e4e4` (HSLuv L* of 91%)
 - black `#4f4f4f` (HSLuv L* of 34%)
