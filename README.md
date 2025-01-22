@@ -77,7 +77,7 @@ sudo apt-get install papirus-icon-theme
 
 Use the script to install the latest version directly from the master branch of this repo (independent from your distribution).
 
-Find the install script [here](install.sh]) or proceed with command-line instructions below.
+Find the install script [here](install.sh) or proceed with command-line instructions below.
 
 You can set environment variables to control WHERE, WHAT, and FROM WHERE you install Papirus:
 
