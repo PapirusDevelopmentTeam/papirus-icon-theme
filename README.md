@@ -227,10 +227,13 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 
 ## Recommendations
 
-- It is recommended to use Papirus icons alongside one of the following GTK themes:
+- Papirus users are expected to have Breeze installed if they use Plasma and/or any KDE applications
+- The same applies to ePapirus and the Elementary icon theme when using the Pantheon desktop, as the icon parity between the themes are not full
+
+- We recommend the following GTK themes to use with Papirus icons:
   - [Arc theme](https://github.com/jnsh/arc-theme)
   - [Materia theme](https://github.com/nana-4/materia-theme)
-- For KDE, our recommendations are:
+- For KDE Plasma 5, our recommendations are:
   - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
   - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde)
 
