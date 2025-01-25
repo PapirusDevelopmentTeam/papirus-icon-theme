@@ -1,18 +1,16 @@
 <svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(4,4)">
-  <path transform="matrix(2.5011891 0 0 2.4731718 -.0095119 1.4292509)" x="0" y="0" width="16" height="16" d="m2 0h12a2 2 45 0 1 2 2v12a2 2 135 0 1-2 2h-12a2 2 45 0 1-2-2v-12a2 2 135 0 1 2-2z" style="opacity:.2"/>
-  <path transform="matrix(2.5011891 0 0 2.5011891 -.0095119 0)" x="0" y="0" width="16" height="16" d="m2 0h12a2 2 45 0 1 2 2v12a2 2 135 0 1-2 2h-12a2 2 45 0 1-2-2v-12a2 2 135 0 1 2-2z" style="fill:#fffad6"/>
-  <circle cx="20" cy="21" r="18" style="opacity:.2"/>
-  <circle cx="20" cy="20" r="18" style="fill:#df574d"/>
-  <circle cx="20" cy="20" r="14" style="fill:#fffad6"/>
-  <path d="M 20,6 A 14,14 0 0 0 6,20 14,14 0 0 0 6.0351562,20.5 14,14 0 0 1 20,7 14,14 0 0 1 33.980469,20.279297 14,14 0 0 0 34,20 14,14 0 0 0 20,6 Z" style="opacity:.2"/>
-  <circle cx="20" cy="21" r="11" style="opacity:.2"/>
-  <circle cx="19.976122" cy="19.976122" r="11.523878" style="fill:#df574d"/>
-  <circle cx="20" cy="20" r="9" style="fill:#fffad6"/>
-  <path d="m 20,11 a 9,9 0 0 0 -9,9 9,9 0 0 0 0.03516,0.5 A 9,9 0 0 1 20,12 9,9 0 0 1 28.974609,20.359375 9,9 0 0 0 29,20 9,9 0 0 0 20,11 Z" style="opacity:.2"/>
-  <circle cx="20" cy="21" r="6" style="opacity:.2"/>
-  <circle cx="20" cy="20" r="6.5" style="fill:#df574d"/>
-  <circle cx="20" cy="20" r="5" style="fill:#fffad6"/>
-  <path d="m 20,15 a 5,5 0 0 0 -5,5 5,5 0 0 0 0.03516,0.5 A 5,5 0 0 1 20,16 5,5 0 0 1 24.96875,20.445312 5,5 0 0 0 25,20 5,5 0 0 0 20,15 Z" style="opacity:.2"/>
- </g>
+ <path transform="translate(4,4)" x="0" y="0" width="16" height="16" d="m5 1h29.999999a5 5 0 0 1 5.000001 5v30a5 5 0 0 1-5.000001 5h-29.999999a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" style="opacity:.2"/>
+ <path transform="translate(4,4)" x="0" y="0" width="16" height="16" d="m5 0h29.999999a5 5 0 0 1 5.000001 5v30a5 5 0 0 1-5.000001 5h-29.999999a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" style="fill:#f2f0e3"/>
+ <circle transform="translate(4,4)" cx="20" cy="21" r="18" style="opacity:.2"/>
+ <circle transform="translate(4,4)" cx="20" cy="20" r="18" style="fill:#f76f53"/>
+ <circle transform="translate(4,4)" cx="20" cy="20" r="14" style="fill:#f2f0e3"/>
+ <path transform="translate(4,4)" d="M 20,6 A 14,14 0 0 0 6,20 14,14 0 0 0 6.0351562,20.5 14,14 0 0 1 20,7 14,14 0 0 1 33.980469,20.279297 14,14 0 0 0 34,20 14,14 0 0 0 20,6 Z" style="opacity:.2"/>
+ <circle transform="translate(4,4)" cx="20" cy="21" r="11" style="opacity:.2"/>
+ <circle transform="translate(4,4)" cx="19.976122" cy="19.976122" r="11.523878" style="fill:#f76f53"/>
+ <circle transform="translate(4,4)" cx="20" cy="20" r="9" style="fill:#f2f0e3"/>
+ <path transform="translate(4,4)" d="m 20,11 a 9,9 0 0 0 -9,9 9,9 0 0 0 0.03516,0.5 A 9,9 0 0 1 20,12 9,9 0 0 1 28.974609,20.359375 9,9 0 0 0 29,20 9,9 0 0 0 20,11 Z" style="opacity:.2"/>
+ <circle transform="translate(4,4)" cx="20" cy="21" r="6" style="opacity:.2"/>
+ <circle transform="translate(4,4)" cx="20" cy="20" r="6.5" style="fill:#f76f53"/>
+ <circle transform="translate(4,4)" cx="20" cy="20" r="5" style="fill:#f2f0e3"/>
+ <path transform="translate(4,4)" d="m 20,15 a 5,5 0 0 0 -5,5 5,5 0 0 0 0.03516,0.5 A 5,5 0 0 1 20,16 5,5 0 0 1 24.96875,20.445312 5,5 0 0 0 25,20 5,5 0 0 0 20,15 Z" style="opacity:.2"/>
 </svg>
