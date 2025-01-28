@@ -1,16 +1,12 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path transform="matrix(1.25,0,0,1.25,1,1.5)" x="0" y="0" width="16" height="16" d="m2 0h12a2 2 45 0 1 2 2v12a2 2 135 0 1-2 2h-12a2 2 45 0 1-2-2v-12a2 2 135 0 1 2-2z" style="opacity:.2"/>
- <path transform="matrix(1.25,0,0,1.25,1,1)" x="0" y="0" width="16" height="16" d="m2 0h12a2 2 45 0 1 2 2v12a2 2 135 0 1-2 2h-12a2 2 45 0 1-2-2v-12a2 2 135 0 1 2-2z" style="fill:#f2f0e3"/>
- <circle cx="11" cy="11.5" r="8" style="opacity:.2"/>
- <circle transform="translate(1,1)" cx="10" cy="10" r="8" style="fill:#f76f53"/>
- <circle transform="matrix(1.25,0,0,1.25,1,1)" cx="8" cy="8" r="4.8000002" style="fill:#f2f0e3"/>
- <circle cx="11" cy="11.5" r="5" style="opacity:.2"/>
- <circle transform="matrix(1.25,0,0,1.25,1,1)" cx="8" cy="8" r="4" style="fill:#f76f53"/>
- <circle transform="matrix(1.25,0,0,1.25,1,1)" cx="8" cy="8" r="3.2" style="fill:#f2f0e3"/>
- <path transform="matrix(1.25,0,0,1.25,1,1)" d="M 8 4.8 A 3.2 3.2 0 0 0 4.8 8 A 3.2 3.2 0 0 0 4.8140625 8.2 A 3.2 3.2 0 0 1 8 5.2 A 3.2 3.2 0 0 1 11.189063 8.1484375 A 3.2 3.2 0 0 0 11.2 8 A 3.2 3.2 0 0 0 8 4.8 z " style="opacity:.2"/>
- <circle cx="11" cy="11.5" r="3" style="opacity:.2"/>
- <circle transform="matrix(1.25,0,0,1.25,1,1)" cx="8" cy="8" r="2.4000001" style="fill:#f76f53"/>
- <circle transform="matrix(1.25,0,0,1.25,1,1)" cx="8" cy="8" r="2" style="fill:#f2f0e3"/>
- <path transform="matrix(1.25,0,0,1.25,1,1)" d="M 8 6 A 2 2 0 0 0 6 8 A 2 2 0 0 0 6.0140625 8.2 A 2 2 0 0 1 8 6.4 A 2 2 0 0 1 9.9875 8.178125 A 2 2 0 0 0 10 8 A 2 2 0 0 0 8 6 z " style="opacity:.2"/>
- <path transform="matrix(1.25,0,0,1.25,1,1)" d="M 8 3.2 A 4.8000002 4.8000002 0 0 0 3.2 8 A 4.8000002 4.8000002 0 0 0 3.2140625 8.2 A 4.8 4.8 0 0 1 8 3.6 A 4.8 4.8 0 0 1 12.790625 8.1265625 A 4.8000002 4.8000002 0 0 0 12.8 8 A 4.8000002 4.8000002 0 0 0 8 3.2 z " style="opacity:.2"/>
+ <path x="0" y="0" width="16" height="16" d="m3.5 1.5h15a2.5 2.5 0 0 1 2.5 2.5v15a2.5 2.5 0 0 1-2.5 2.5h-15a2.5 2.5 0 0 1-2.5-2.5v-15a2.5 2.5 0 0 1 2.5-2.5z" style="opacity:.2"/>
+ <path x="0" y="0" width="16" height="16" d="m3.5 1h15a2.5 2.5 0 0 1 2.5 2.5v15a2.5 2.5 0 0 1-2.5 2.5h-15a2.5 2.5 0 0 1-2.5-2.5v-15a2.5 2.5 0 0 1 2.5-2.5z" style="fill:#f2f0e3"/>
+ <circle cx="11" cy="11.5" r="9" style="opacity:.2"/>
+ <circle cx="11" cy="11" r="9" style="fill:#f76f53"/>
+ <circle cx="11" cy="11" r="7" style="fill:#f2f0e3"/>
+ <circle cx="11" cy="11" r="6" style="fill:#f76f53"/>
+ <circle cx="11" cy="11" r="4.5" style="fill:#f2f0e3"/>
+ <circle cx="11" cy="11" r="3.5" style="fill:#f76f53"/>
+ <circle cx="11" cy="11" r="3" style="fill:#f2f0e3"/>
+ <path d="M 11,2.0000002 A 9,9 0 0 0 2,11 9,9 0 0 0 2.0175781,11.25 9,9 0 0 1 11,2.5000002 9,9 0 0 1 19.990234,11.134766 9,9 0 0 0 20,11 9,9 0 0 0 11,2.0000002 Z" style="fill:#ffffff;opacity:.1"/>
 </svg>
