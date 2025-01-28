@@ -19,7 +19,7 @@ For Debian/Ubuntu/Linux Mint users:
 
 ```sh
 sudo apt update
-sudo apt install inkscape python3-scour
+sudo apt install inkscape scour
 ```
 
 If you need a more recent version of scour, please install it with pipx.
