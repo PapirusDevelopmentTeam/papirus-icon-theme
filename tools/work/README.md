@@ -15,14 +15,17 @@ The scripts in this folder require the following programs:
 - Inkscape
 - scour
 
-For Debian/Ubuntu/Linux Mint users:
+You can use your normal Software Center or App Store program to install these. The Scour package's name can vary a bit because it's a Python script, so if installing the package named "`scour`" doesn't work, you can try [looking for it on repology][repology]. For Debian/Ubuntu/Linux Mint users familiar with the command line:
 
 ```sh
 sudo apt update
-sudo apt install inkscape python3-scour
+sudo apt install inkscape scour
 ```
 
-If you need a more recent version of scour, please install it with pipx.
+Inkscape is very widely available, and you should have no trouble finding it. If you can't find scour in your app center or graphical package manager, or you just need a more recent version of scour than your distribution has available, please install it by name with [`pipx`][pipx] or `pip`.
+
+[repology]: https://repology.org/project/scour/versions
+[pipx]: https://pipx.pypa.io/latest/installation/
 
 ## Step-by-Step Guide
 
