@@ -1,3 +1,91 @@
+[20250201]
+==========
+
+## Added icons
+
+- Added panel and symbolic icons for Plasma 6 #3595 #3663 by @morganist
+	* application-all-symbolic
+	* Konversation (tray icons)
+	* KTorrent (tray icon)
+	* Logos for start menu for KDE and Plasma
+	* network-wired-available
+	* numlock
+	* RedShift (tray icons)
+	* Symbolic icons for several categories
+- Amiga emulation files #2505 by @achadwick in #3885
+- AsciiDoc file by @sennoth in #3698
+- Bambu Studio #3899 by @wilwarindi in #3910
+- BoxBuddy #3745 by @Raindrac in #3800
+- chd file icon #2505 by @achadwick in #3891
+- Color-Picker #3881 by @achadwick in #3898
+- Differentiate Image Mimetypes (bmp, jpeg, gif, ico, tiff, aseprite) by @irasponsible in #3789
+- Display (ARandR) by @eylles in #3870
+- Ente Auth #3784 by @wilwarindi in #3921
+- Excalidraw file and app (PWA) by @sennoth in #3698
+- F# by @sennoth in #3698
+- Firefox Dev Edition from Mozilla's PPA by @Roy-Orbison in #3731
+- Gear Lever #3793 by @wilwarindi in #3914
+- Ghostty #3884 by @yevklim in #3907
+- gmrun by @gewaleelek in #3887
+- GNOME Online Accounts GTK #3703 by @SmartFinn
+- Helldivers 2 (Steam) by @morganist, @x-o-i-o-x and @achadwick in #3764 and #3937
+- Marknote by @morganist
+- Modfile for Go, Vlang, and Zig by @sennoth in #3698
+- Neo-Geo pocket, MSX, and Sega ROMs #2505 by @achadwick in #3904
+- nheko (Flatpak) by @ReillyBrogan in #3747
+- Papers by @Raindrac in #3808
+- PCManFM-Qt #3881 by @achadwick in #3898
+- Pinentry by @morganist
+- Portal with RTX by @Covkie in #3796
+- Printer by @eylles in #3787
+- Ptyxis by @wallisch in #3934
+- Qt6 Assistant and Qt6 Settings by @mochaaP in #3815
+- Seamly2D by @wilwarindi in #3916
+- Sioyek (sioyek-icon-linux) by @Aman9das in #3930
+- TETR.IO by @makidoll in #3824
+- Tuxedo Control Center by @wilwarindi in #3935
+- Tuxedo OS by @wilwarindi in #3917
+- Tuxedo WebFAI by @wilwarindi in #3935
+- Valent by @mjkim0727 in #3782
+- visualboyadvance-m by @malfisya in #3775
+- Xfce Notes by @mjkim0727 in #3781
+- YueScript (Lua dialect) file by @sennoth in #3698
+- Zed by @zoli111 in #3880
+- Zen Browser by @sotha1 in #3931
+- Zig source file by @sennoth in #3698
+- ZX Spectrum media file icons #2505 by @achadwick in #3882
+
+## Updated icons
+
+- CBOR serialized content `.cbor` by @sennoth in #3698
+- Clapper by @Raindrac in #3810
+- Compass by @morganist
+- freeCAD #3817 by @sotha1 in #3928
+- MAME by @achadwick in #3891
+- Notesnook #3754 by @wilwarindi in #3915
+- Recipes file for Just command runner `.justfile` by @sennoth in #3698
+- touchpad-disabled-symbolic and touchpad-enabled-symbolic by @SmartFinn
+- VueJS single file component `.vue` by @sennoth in #3698
+- WebAssembly file `.wasm` by @sennoth in #3698
+
+## Changes and fixes
+
+- Fixed JSOM icon by @morganist
+
+## Others
+
+- Add a link to the wiki in the contributing section by @achadwick in #3906
+- Fixed scour dependencies for modern Debian by @achadwick in #3936
+- Fixed tools/work/README.md file by @achadwick in #3912
+
+## Supporters
+
+Thank you to our supporters who appear below. We appreciate their support for our work.
+
+- @ocobblepot
+- @sohrob
+
+
 [20240501]
 ==========
 
