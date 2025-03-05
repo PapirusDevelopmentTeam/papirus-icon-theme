@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect fill="#4c636b" width="16" height="16" x="-16" y="0" rx=".8" ry="1" transform="scale(-1,1)"/>
- <g transform="translate(-3,-8)">
-  <circle opacity=".2" cx="11" cy="16" r="7"/>
-  <path fill="#ee5858" d="m6.0503 11.05a7 7 0 0 0 -0.65186 0.76235l2.1586 2.1586a4 4 0 0 0 0.61458 4.8572 4 4 0 0 0 4.8558 0.6132l2.1586 2.1586a7 7 0 0 0 0.76373 -0.65048 7 7 0 0 0 0.65186 -0.76235l-2.159-2.158a4 4 0 0 0 -0.615 -4.857 4 4 0 0 0 -4.8554 -0.614l-2.1586-2.158a7 7 0 0 0 -0.7641 0.651z"/>
-  <circle opacity=".2" cx="11" cy="17" r="2"/>
-  <circle fill="#f3c4c4" cx="11" cy="16" r="2"/>
- </g>
-</svg>
