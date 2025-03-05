@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1">
+ <g>
+  <path style="opacity:.2" d="m24 5c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20z"/>
+  <circle cx="7" cy="20" r="7" style="opacity:.2"/>
+  <circle cx="41" cy="20" r="7" style="opacity:.2"/>
+  <circle cx="7" cy="19" r="7" style="fill:#684c2a"/>
+  <path style="opacity:.1;fill:#ffffff" d="m7 12a7 7 0 0 0 -7 7 7 7 0 0 0 0.0234375 0.541016 7 7 0 0 1 6.9765625 -6.541016 7 7 0 0 1 6.976562 6.458984 7 7 0 0 0 0.023438 -0.458984 7 7 0 0 0 -7 -7z"/>
+  <circle cx="41" cy="19" r="7" style="fill:#684c2a"/>
+  <path style="opacity:.1;fill:#ffffff" d="m41 12a7 7 0 0 0 -7 7 7 7 0 0 0 0.02344 0.541016 7 7 0 0 1 6.97656 -6.541016 7 7 0 0 1 6.976562 6.458984 7 7 0 0 0 0.023438 -0.458984 7 7 0 0 0 -7 -7z"/>
+  <path style="fill:#9d672b" d="m24 4c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20z"/>
+  <path style="opacity:.2" d="m17 12a7 7 0 0 0 -7 7 7 7 0 0 0 4.466797 6.517578 15 11 0 0 0 -5.466797 8.482422 15 11 0 0 0 1.476562 4.728516c3.556934 3.265818 8.291706 5.271484 13.523438 5.271484 5.236717 0 9.975157-2.009884 13.533203-5.28125a15 11 0 0 0 1.466797 -4.71875 15 11 0 0 0 -5.455078 -8.480469 7 7 0 0 0 4.455078 -6.519531 7 7 0 0 0 -7 -7 7 7 0 0 0 -7 7 7 7 0 0 0 -7 -7z"/>
+  <ellipse style="fill:#e2bf56" rx="15" ry="11" cy="33" cx="24"/>
+  <path style="opacity:.1;fill:#ffffff" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168-0.004 0.333 0 0.5 0.2644-10.846 9.088-19.5 20-19.5s19.736 8.654 20 19.5c0.004-0.167 0-0.332 0-0.5 0-11.08-8.92-20-20-20z"/>
+  <circle cx="17" cy="18" r="7" style="fill:#e2bf56"/>
+  <rect style="fill:#e2bf56" height="8" width="12" y="18" x="18"/>
+  <circle cx="17" cy="17" r="3" style="opacity:.1"/>
+  <circle cx="31" cy="18" r="7" style="fill:#e2bf56"/>
+  <circle cx="31" cy="17" r="3" style="opacity:.1"/>
+  <circle cx="17" cy="16" r="3" style="fill:#3f3f3f"/>
+  <circle cx="31" cy="16" r="3" style="fill:#3f3f3f"/>
+  <path style="opacity:.1;stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:2;fill:none" d="m15.008585 33s3 4 9 4 9-4 9-4"/>
+  <path style="stroke-linejoin:round;stroke:#3f3f3f;stroke-width:2;stroke-linecap:round;fill:none" d="m15.008585 32s3 4 9 4 9-4 9-4"/>
+ </g>
+</svg>

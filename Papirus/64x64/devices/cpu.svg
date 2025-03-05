@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="56" height="56" x="-61" y="-60" rx="2.8" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#419d45" width="56" height="56" x="-60" y="-60" rx="2.8" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="20" height="20" x="22" y="23" rx="4.8" ry="4.8"/>
+ <rect style="fill:#37474f" width="20" height="20" x="22" y="22" rx="4.8" ry="4.8"/>
+ <g style="opacity:0.2" transform="matrix(2,0,0,2,0,1)">
+  <circle cx="8" cy="8" r="1"/>
+  <circle cx="11" cy="8" r="1"/>
+  <circle cx="14" cy="8" r="1"/>
+  <circle cx="18" cy="8" r="1"/>
+  <circle cx="21" cy="8" r="1"/>
+  <circle cx="24" cy="8" r="1"/>
+  <circle cx="24" cy="11" r="1"/>
+  <circle cx="24" cy="14" r="1"/>
+  <circle cx="24" cy="18" r="1"/>
+  <circle cx="24" cy="21" r="1"/>
+  <circle cx="24" cy="24" r="1"/>
+  <circle cx="21" cy="24" r="1"/>
+  <circle cx="18" cy="24" r="1"/>
+  <circle cx="14" cy="24" r="1"/>
+  <circle cx="11" cy="24" r="1"/>
+  <circle cx="8" cy="24" r="1"/>
+  <circle cx="8" cy="21" r="1"/>
+  <circle cx="8" cy="18" r="1"/>
+  <circle cx="8" cy="14" r="1"/>
+  <circle cx="8" cy="11" r="1"/>
+  <circle cx="11" cy="5" r="1"/>
+  <circle cx="14" cy="5" r="1"/>
+  <circle cx="18" cy="5" r="1"/>
+  <circle cx="21" cy="5" r="1"/>
+  <circle cx="27" cy="11" r="1"/>
+  <circle cx="27" cy="14" r="1"/>
+  <circle cx="27" cy="18" r="1"/>
+  <circle cx="27" cy="21" r="1"/>
+  <circle cx="21" cy="27" r="1"/>
+  <circle cx="18" cy="27" r="1"/>
+  <circle cx="14" cy="27" r="1"/>
+  <circle cx="11" cy="27" r="1"/>
+  <circle cx="5" cy="21" r="1"/>
+  <circle cx="5" cy="18" r="1"/>
+  <circle cx="5" cy="14" r="1"/>
+  <circle cx="5" cy="11" r="1"/>
+  <circle cx="27" cy="8" r="1"/>
+  <circle cx="27" cy="5" r="1"/>
+  <circle cx="24" cy="5" r="1"/>
+  <circle cx="24" cy="27" r="1"/>
+  <circle cx="27" cy="27" r="1"/>
+  <circle cx="27" cy="24" r="1"/>
+  <circle cx="5" cy="24" r="1"/>
+  <circle cx="5" cy="27" r="1"/>
+  <circle cx="5" cy="8" r="1"/>
+ </g>
+ <g style="fill:#ffdc65" transform="scale(2)">
+  <circle cx="8" cy="8" r="1"/>
+  <circle cx="11" cy="8" r="1"/>
+  <circle cx="14" cy="8" r="1"/>
+  <circle cx="18" cy="8" r="1"/>
+  <circle cx="21" cy="8" r="1"/>
+  <circle cx="24" cy="8" r="1"/>
+  <circle cx="24" cy="11" r="1"/>
+  <circle cx="24" cy="14" r="1"/>
+  <circle cx="24" cy="18" r="1"/>
+  <circle cx="24" cy="21" r="1"/>
+  <circle cx="24" cy="24" r="1"/>
+  <circle cx="21" cy="24" r="1"/>
+  <circle cx="18" cy="24" r="1"/>
+  <circle cx="14" cy="24" r="1"/>
+  <circle cx="11" cy="24" r="1"/>
+  <circle cx="8" cy="24" r="1"/>
+  <circle cx="8" cy="21" r="1"/>
+  <circle cx="8" cy="18" r="1"/>
+  <circle cx="8" cy="14" r="1"/>
+  <circle cx="8" cy="11" r="1"/>
+  <circle cx="11" cy="5" r="1"/>
+  <circle cx="14" cy="5" r="1"/>
+  <circle cx="18" cy="5" r="1"/>
+  <circle cx="21" cy="5" r="1"/>
+  <circle cx="27" cy="11" r="1"/>
+  <circle cx="27" cy="14" r="1"/>
+  <circle cx="27" cy="18" r="1"/>
+  <circle cx="27" cy="21" r="1"/>
+  <circle cx="21" cy="27" r="1"/>
+  <circle cx="18" cy="27" r="1"/>
+  <circle cx="14" cy="27" r="1"/>
+  <circle cx="5" cy="24" r="1"/>
+  <circle cx="5" cy="21" r="1"/>
+  <circle cx="5" cy="18" r="1"/>
+  <circle cx="5" cy="14" r="1"/>
+  <circle cx="5" cy="11" r="1"/>
+  <circle cx="27" cy="24" r="1"/>
+  <circle cx="27" cy="27" r="1"/>
+  <circle cx="24" cy="27" r="1"/>
+  <circle cx="27" cy="8" r="1"/>
+  <circle cx="27" cy="5" r="1"/>
+  <circle cx="24" cy="5" r="1"/>
+  <circle cx="5" cy="27" r="1"/>
+  <circle cx="11" cy="27" r="1"/>
+  <circle cx="5" cy="8" r="1"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6.8008 4 C 5.2496 4 4 5.2496 4 6.8008 L 4 7.8008 C 4 6.2496 5.2496 5 6.8008 5 L 57.199 5 C 58.75 5 60 6.2496 60 7.8008 L 60 6.8008 C 60 5.2496 58.75 4 57.199 4 L 6.8008 4 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 26.801 22 C 24.142 22 22 24.142 22 26.801 L 22 27.801 C 22 25.142 24.142 23 26.801 23 L 37.199 23 C 39.858 23 42 25.142 42 27.801 L 42 26.801 C 42 24.142 39.858 22 37.199 22 L 26.801 22 z"/>
+</svg>

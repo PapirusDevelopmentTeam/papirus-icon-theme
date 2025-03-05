@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="M 24,5 C 12.92,5 4,13.92 4,25 4,36.08 12.92,45 24,45 35.08,45 44,36.08 44,25 44,13.92 35.08,5 24,5 Z"/>
+ <path style="fill:#4f4f4f" d="M 24,4 C 12.92,4 4,12.92 4,24 4,35.08 12.92,44 24,44 35.08,44 44,35.08 44,24 44,12.92 35.08,4 24,4 Z"/>
+ <circle style="opacity:0.1" cx="34.648" cy=".707" r="17" transform="rotate(45)"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 24 4 C 12.92 4 4 12.92 4 24 C 4 24.167874 4.007647 24.333141 4.0117188 24.5 C 4.2763904 13.653863 13.087874 5 24 5 C 34.912126 5 43.72361 13.653863 43.988281 24.5 C 43.992353 24.333141 44 24.167874 44 24 C 44 12.92 35.08 4 24 4 z"/>
+ <circle style="fill:#5d5d5d" cx="33.941" cy="0" r="17" transform="rotate(45)"/>
+ <circle style="opacity:0.2" cx="16" cy="17" r="2"/>
+ <circle style="fill:#fecd38" cx="16" cy="16" r="2"/>
+ <circle style="opacity:0.2" cx="32" cy="33" r="2"/>
+ <circle style="fill:#79de7d" cx="32" cy="32" r="2"/>
+ <circle style="opacity:0.2" cx="17" cy="-32" r="2" transform="rotate(90)"/>
+ <circle style="fill:#df574d" cx="16" cy="-32" r="2" transform="rotate(90)"/>
+ <circle style="opacity:0.2" cx="33" cy="-16" r="2" transform="rotate(90)"/>
+ <circle style="fill:#50beee" cx="32" cy="-16" r="2" transform="rotate(90)"/>
+ <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;opacity:0.2" d="M 14.5,23.5 24,25"/>
+ <path style="fill:none;stroke:#afafb1;stroke-width:3;stroke-linecap:round" d="M 14.5,22.5 24,24"/>
+ <path style="opacity:0.2" d="m 24,21 c -2.207062,0 -4,1.792938 -4,4 0,2.207061 1.792938,4 4,4 2.207061,0 4,-1.792939 4,-4 0,-2.207062 -1.792939,-4 -4,-4 z"/>
+ <path style="fill:#cccccc" d="m 24,20 c -2.207062,0 -4,1.792938 -4,4 0,2.207061 1.792938,4 4,4 2.207061,0 4,-1.792939 4,-4 0,-2.207062 -1.792939,-4 -4,-4 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 24 20 C 21.792938 20 20 21.792938 20 24 C 20 24.169419 20.012697 24.336085 20.033203 24.5 C 20.279833 22.528556 21.962357 21 24 21 C 26.037642 21 27.720167 22.528556 27.966797 24.5 C 27.987303 24.336085 28 24.169419 28 24 C 28 21.792938 26.207061 20 24 20 z"/>
+</svg>

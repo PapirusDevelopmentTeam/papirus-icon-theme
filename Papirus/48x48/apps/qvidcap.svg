@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="6" height="7" x="34" y="36"/>
+ <rect style="opacity:0.2" width="6" height="7" x="8" y="36"/>
+ <rect style="fill:#3f3f3f" width="6" height="7" x="34" y="35"/>
+ <rect style="fill:#3f3f3f" width="6" height="7" x="8" y="35"/>
+ <rect style="opacity:0.2" width="32" height="40" x="-39" y="-44" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#89774f" width="32" height="40" x="-38" y="-44" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="28" height="20" x="10" y="13" rx="2" ry="2"/>
+ <rect style="fill:#d5cfc1" width="28" height="20" x="10" y="12" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 7,6 C 5.338,6 4,7.338 4,9 v 1 C 4,8.338 5.338,7 7,7 h 34 c 1.662,0 3,1.338 3,3 V 9 C 44,7.338 42.662,6 41,6 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 12,12 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 24 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+</svg>

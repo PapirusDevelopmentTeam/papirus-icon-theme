@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path fill="#4f4f4f" d="m 38,11 c 1.108,0 2,0.892 2,2 v 24 c 0,1.108 -0.892,2 -2,2 H 20 l -4,4 -4,-4 H 6 C 4.892,39 4,38.108 4,37 V 13 c 0,-1.108 0.892,-2 2,-2 z"/>
+ <path fill="#ffffff" opacity=".1" d="m 38,11 c 1.108,0 2,0.892 2,2 v 1 c 0,-1.108 -0.892,-2 -2,-2 H 6 c -1.108,0 -2,0.892 -2,2 v -1 c 0,-1.108 0.892,-2 2,-2 z"/>
+ <circle opacity=".2" cx="-32" cy="18" r="12" transform="scale(-1,1)"/>
+ <circle fill="#4daaf5" cx="-32" cy="17" r="12" transform="scale(-1,1)"/>
+ <path fill="#ffffff" d="M 33,10 V 20 H 31 V 10 Z m 0,12 v 2 h -2 v -2 z"/>
+ <path opacity=".2" d="m 40,37 v 1 c 0,1.108 -0.892,2 -2,2 H 20 l -4,4 -4,-4 H 6 C 4.892,40 4,39.108 4,38 v -1 c 0,1.108 0.892,2 2,2 h 6 l 4,4 4,-4 h 18 c 1.108,0 2,-0.892 2,-2 z"/>
+</svg>

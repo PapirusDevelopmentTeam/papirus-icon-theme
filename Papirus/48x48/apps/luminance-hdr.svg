@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="28" height="28" x="4" y="5" rx="2" ry="2"/>
+ <rect style="fill:#fecd38" width="28" height="28" x="4" y="4" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="m4 11v15h11.25c-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+ <rect style="opacity:0.2" width="28" height="28" x="10" y="11" rx="2" ry="2"/>
+ <path style="fill:#9d9d9d" d="m4 10v15h11.25c-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+ <rect style="fill:#e97e10" width="28" height="28" x="10" y="10" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="m10 17v15h11.25c-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+ <rect style="opacity:0.2" width="28" height="28" x="16" y="17" rx="2" ry="2"/>
+ <path style="fill:#7d7d7d" d="m10 16v15h11.25c-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+ <rect style="fill:#df574d" width="28" height="28" x="16" y="16" rx="2" ry="2"/>
+ <g style="opacity:0.2">
+  <g transform="translate(0,1)">
+   <g>
+    <path d="m16 22v15h11.25c-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+   </g>
+   <path style="opacity:0.1" d="m16 22v1c3.478384 0.197005 7.364143 3.789995 11.25 14-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+  </g>
+  <path d="m20 38h24c-11.999998-33.75-24 0-24 0z"/>
+ </g>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6,4 C 4.892,4 4,4.892 4,6 V 7 C 4,5.892 4.892,5 6,5 H 30 C 31.108,5 32,5.892 32,7 V 6 C 32,4.892 31.108,4 30,4 Z"/>
+ <circle style="fill:#fecd38" cx="24" cy="28" r="4"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m24 24a4 4 0 0 0 -4 4 4 3 0 0 1 4 -3 4 3 0 0 1 4 3 4 4 0 0 0 -4 -4zm4 4a4 3 0 0 1 -4 3 4 3 0 0 1 -4 -3 4 4 0 0 0 4 4 4 4 0 0 0 4 -4z"/>
+ <path style="fill:#5d5d5d" d="m16 22v15h11.25c-3.885857-10.939291-7.771616-14.788923-11.25-15z"/>
+ <path style="fill:#e4e4e4" d="m20 37h24c-11.999998-33.75-24 0-24 0z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m32.611328 22.001953c-7.194443-0.238051-12.611328 14.998047-12.611328 14.998047s12.000002-31.5 24 0c-3.937499-11.074219-7.875107-14.881789-11.388672-14.998047z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="58" height="58" x="-62" y="-61" rx="2.9" ry="2.9" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#3c7fb0" width="58" height="58" x="-61" y="-61" rx="2.9" ry="2.9" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="19.5" height="6" x="29.5" y="29" rx="3" ry="3"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="33" height="6" x="16" y="41" rx="3" ry="3"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="33" height="6" x="16" y="17" rx="3" ry="3"/>
+ <circle style="opacity:0.2" cx="21" cy="21" r="6"/>
+ <circle style="fill:#ffffff" cx="21" cy="20" r="6"/>
+ <circle style="opacity:0.2" cx="21" cy="45" r="6"/>
+ <circle style="fill:#ffffff" cx="21" cy="44" r="6"/>
+ <circle style="opacity:0.2" cx="30" cy="33" r="6"/>
+ <circle style="fill:#ffffff" cx="30" cy="32" r="6"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 5.8984375 3 C 4.2918373 3 3 4.2918373 3 5.8984375 L 3 6.8984375 C 3 5.2918373 4.2918373 4 5.8984375 4 L 58.101562 4 C 59.708163 4 61 5.2918373 61 6.8984375 L 61 5.8984375 C 61 4.2918373 59.708163 3 58.101562 3 L 5.8984375 3 z"/>
+</svg>

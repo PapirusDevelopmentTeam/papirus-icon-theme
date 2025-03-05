@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <path style="fill:#3f3f3f" d="M 8.0000001,12.5 C 8.0000001,12.5 12,13.666667 12,14.444444 v 0.777778 C 12,15.653111 11.702667,16 11.333333,16 H 4.6666669 C 4.2973334,16 4.0000001,15.653111 4.0000001,15.222222 v -0.777778 c 0,-0.777777 4,-1.944444 4,-1.944444 z"/>
+ <circle style="fill:#4f4f4f" cx="8" cy="7" r="7"/>
+ <circle style="fill:#2f2f2f" cx="8" cy="-7" r="5" transform="scale(1,-1)"/>
+ <circle style="fill:#00b1c4" cx="8" cy="-7" r="4" transform="scale(1,-1)"/>
+ <circle style="fill:#70f4ff" cx="8" cy="7" r="2"/>
+</svg>

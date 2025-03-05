@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <path style="opacity:0.2" d="M 9,1.5 V 5 A 6.5,6.5 0 0 1 15.5,11.5 6.5,6.5 0 0 1 9,18 v 3.5 c 5.522865,0 10,-4.477135 10,-10 0,-5.522865 -4.477135,-10 -10,-10 z"/>
+ <circle style="opacity:0.2" cx="9" cy="11.5" r="5"/>
+ <path style="fill:#e4e4e4" d="M 9,1 V 4.5 A 6.5,6.5 0 0 1 15.5,11 6.5,6.5 0 0 1 9,17.5 V 21 C 14.522865,21 19,16.522865 19,11 19,5.477135 14.522865,1 9,1 Z"/>
+ <circle style="fill:#556af7" cx="9" cy="11" r="5"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 9,6 A 5,5 0 0 0 4,11 5,5 0 0 0 4.017578,11.25 5,5 0 0 1 9,6.5 5,5 0 0 1 13.988281,11.170898 5,5 0 0 0 14,11 5,5 0 0 0 9,6 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 9,1 v 0.5 c 5.439028,0 9.861058,4.3430155 9.99414,9.75 C 18.996192,11.166658 19,11.083836 19,11 19,5.477135 14.522865,1 9,1 Z m 6.489258,10.136719 A 6.5,6.5 0 0 1 9,17.5 V 18 a 6.5,6.5 0 0 0 6.5,-6.5 6.5,6.5 0 0 0 -0.01074,-0.363281 z"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" d="m 6.5,11 h 5 m -3,-2 -2,2 2,2"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="m 6.5,10.5 h 5 m -3,-2 -2,2 2,2"/>
+</svg>

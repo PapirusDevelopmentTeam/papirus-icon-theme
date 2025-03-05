@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#84b126" width="16" height="16" x="0" y="0" rx=".8" ry=".8"/>
+ <path style="fill:#5c5c5c" d="M 4.835,2 C 4.3725,2 4,2.3725 4,2.835 l 0,6.33 C 4,9.6275 4.3725,10 4.835,10 l 6.3301,0 c 0.463,0 0.835,-0.3725 0.835,-0.835 l 0,-6.33 C 12.0001,2.3725 11.6281,2 11.1651,2 l -6.33,0 z M 6,4 10,4 10,8 6,8 6,4 Z"/>
+ <rect style="fill:#3f3f3f" width="2" height="2" x="7" y="10"/>
+ <rect style="fill:#3f3f3f" width="10" height="2" x="3" y="12"/>
+ <circle style="fill:#ffffff" cx="3" cy="13" r="2"/>
+ <circle style="fill:#ffffff" cx="8" cy="13" r="2"/>
+ <circle style="fill:#ffffff" cx="13" cy="13" r="2"/>
+</svg>

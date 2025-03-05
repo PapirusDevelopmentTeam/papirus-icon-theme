@@ -1,0 +1,34 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#8e8e8e">
+  <rect transform="rotate(90)" x="20" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="23" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="26" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="11" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="14" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="17" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="8" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="5" y="-29" width="1" height="26"/>
+ </g>
+ <g transform="matrix(0,1,-1,0,32,0)" fill="#8e8e8e">
+  <rect transform="rotate(90)" x="20" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="23" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="26" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="11" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="14" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="17" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="8" y="-29" width="1" height="26"/>
+  <rect transform="rotate(90)" x="5" y="-29" width="1" height="26"/>
+ </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-28" y="-28" width="24" height="24" rx="1.2" ry="1.5" style="fill:#4f4f4f"/>
+ <path d="m5.5 4c-0.831 0-1.5 0.5344-1.5 1.1992v1c0-0.6648 0.669-1.1992 1.5-1.1992h21c0.831 0 1.5 0.5344 1.5 1.1992v-1c0-0.6648-0.669-1.1992-1.5-1.1992h-21z" fill="#fff" style="opacity:.1"/>
+ <path d="m4 26.801v1c0 0.665 0.669 1.199 1.5 1.199h21c0.831 0 1.5-0.534 1.5-1.199v-1c0 0.665-0.669 1.199-1.5 1.199h-21c-0.831 0-1.5-0.534-1.5-1.199z" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-27" y="-26" width="20" height="20" rx="10" ry="10" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-26" y="-26" width="20" height="20" rx="10" ry="10" style="fill:#3b6ec5"/>
+ <g transform="matrix(.5 0 0 .5 -230.5 -76.389)" style="enable-background:new;opacity:.2">
+  <path transform="matrix(2,0,0,2,269,-837)" d="m110 507v0.5l-1e-5 4.7695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l1e-5 -5h4l-1e-5 3.2695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l1e-5 -7h-0.5z"/>
+ </g>
+ <g transform="matrix(.5 0 0 .5 -230.5 -77.389)" style="enable-background:new;fill:#ffffff">
+  <path transform="matrix(2,0,0,2,269,-837)" d="m110 507v0.5l-1e-5 4.7695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l1e-5 -5h4l-1e-5 3.2695c-0.30389-0.17609-0.64878-0.26905-1-0.26953-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2l1e-5 -7h-0.5z" style="fill:#ffffff"/>
+ </g>
+ <path d="m16 6c-5.54 0-10 4.46-10 10 0 0.168849 0.0172 0.333254 0.025391 0.5 0.2605342-5.304281 4.603458-9.5 9.974609-9.5s9.714075 4.195719 9.974609 9.5c0.008191-0.166746 0.025391-0.331151 0.025391-0.5 0-5.54-4.46-10-10-10z" style="fill:#ffffff;opacity:.2"/>
+</svg>

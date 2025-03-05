@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-1,-1)">
+  <rect style="opacity:0.2" width="20" height="18" x="2" y="3.5" rx="2" ry="2"/>
+  <rect style="fill:#4bae4f" width="20" height="18" x="2" y="3" rx="2" ry="2"/>
+  <rect style="opacity:0.2" width="8" height="8" x="8" y="8.5" rx="1" ry="1"/>
+  <rect style="fill:#7ea193" width="8" height="8" x="8" y="8" rx="1" ry="1"/>
+  <path style="opacity:0.1" d="M 10,4.5 V 8.5 H 11 V 4.5 Z M 12,4.5 V 8.5 H 13 V 4.5 H 12.5 Z M 14,4.5 V 8.5 H 15 V 4.5 Z M 20,8 V 10.5 H 16 V 11.5 H 20.5 C 21,11.5 21,11 21,11 V 8 C 21,8 21,7.5 20.5,7.5 20,7.5 20,8 20,8 Z M 3.5,6.5 C 3.5,6.5 3,6.5 3,7 3,7.5 3.5,7.5 3.5,7.5 H 5 V 10 C 5,10 5,10.5 5.5,10.5 H 8 V 9.5 H 6 V 7 C 6,6.5 5.5,6.5 5.5,6.5 Z M 3.5,11.5 C 3.5,11.5 3,11.5 3,12 3,12.5 3.5,12.5 3.5,12.5 H 8 V 11.5 Z M 16,12.5 V 13.5 H 20.5 C 20.5,13.5 21,13.5 21,13 21,12.5 20.5,12.5 20.5,12.5 Z M 3.5,13.5 C 3,13.5 3,14 3,14 V 17 C 3,17 3,17.5 3.5,17.5 4,17.5 4,17 4,17 V 14.5 H 8 V 13.5 Z M 16,14.5 V 15.5 H 18 V 18 C 18,18.5 18.5,18.5 18.5,18.5 H 20.5 C 20.5,18.5 21,18.5 21,18 21,17.5 20.5,17.5 20.5,17.5 H 19 V 15 C 19,15 19,14.5 18.5,14.5 Z M 9,16.5 V 20.5 H 10 V 16.5 Z M 11,16.5 V 20.5 H 12 V 16.5 Z M 13,16.5 V 20.5 H 14 V 16.5 Z"/>
+  <path style="fill:#347937" d="M 10,4 V 8 H 11 V 4 Z M 12,4 V 8 H 13 V 4 H 12.5 Z M 14,4 V 8 H 15 V 4 Z M 20,7.5 V 10 H 16 V 11 H 20.5 C 21,11 21,10.5 21,10.5 V 7.5 Z M 3.5,6 V 7 H 5 V 9.5 C 5,9.5 5,10 5.5,10 H 8 V 9 H 6 V 6.5 C 6,6 5.5,6 5.5,6 Z M 3.5,11 V 12 H 8 V 11 Z M 16,12 V 13 H 20.5 V 12 Z M 3.5,13 C 3,13 3,13.5 3,13.5 V 16.5 H 4 V 14 H 8 V 13 Z M 16,14 V 15 H 18 V 17.5 C 18,18 18.5,18 18.5,18 H 20.5 V 17 H 19 V 14.5 C 19,14.5 19,14 18.5,14 Z M 9,16 V 20 H 10 V 16 Z M 11,16 V 20 H 12 V 16 Z M 13,16 V 20 H 14 V 16 Z"/>
+  <path style="fill:#fbd14e" d="M 10,7 9.9999,9 H 6.9999 V 10 H 9 V 11 H 6.9999 V 12 H 9 V 13 H 6.9999 V 14 H 8.9999 L 9,17 H 10 V 15 H 11 V 17 H 12 V 15 H 13 V 17 H 14 V 15 H 17 V 14 H 15 V 13 H 17 V 12 H 15 V 11 H 17 V 10 H 15 V 7 H 14 V 9.0001 H 13 V 7 H 12 V 9.0001 H 11 V 7 Z"/>
+  <rect style="opacity:0.2" width="6" height="6" x="9" y="9.5"/>
+  <rect style="fill:#414141" width="6" height="6" x="9" y="9"/>
+  <circle style="fill:#fbd14e" cx="20.5" cy="7.5" r=".5"/>
+  <circle style="fill:#fbd14e" cx="20.5" cy="17.5" r=".5"/>
+  <circle style="fill:#fbd14e" cx="3.5" cy="11.5" r=".5"/>
+  <circle style="fill:#fbd14e" cx="20.5" cy="12.5" r=".5"/>
+  <circle style="fill:#fbd14e" cx="3.5" cy="6.5" r=".5"/>
+  <circle style="fill:#fbd14e" cx="3.5" cy="16.5" r=".5"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 4,3 C 2.892,3 2,3.892 2,5 V 5.5 C 2,4.392 2.892,3.5 4,3.5 H 20 C 21.108,3.5 22,4.392 22,5.5 V 5 C 22,3.892 21.108,3 20,3 Z"/>
+  <rect style="opacity:0.1;fill:#ffffff" width="6" height=".5" x="9" y="9"/>
+ </g>
+</svg>

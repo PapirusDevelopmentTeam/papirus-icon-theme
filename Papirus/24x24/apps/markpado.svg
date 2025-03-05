@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <g transform="translate(1,1)">
+  <path fill="#a47f4a" d="m19 20v-18c0-0.554-0.446-1-1-1h-14c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1z"/>
+  <path fill="#fff" opacity=".2" d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z"/>
+  <path opacity=".2" d="m3 20v0.5c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1z"/>
+  <g opacity=".5" transform="matrix(.5 0 0 .5 -1 -4)">
+   <path d="m28 22v3l4.5 4-4.5 4v3l7.9999-6.8672z"/>
+   <path d="m20 24v3l-4.5 4 4.5 4v3l-7.9999-6.8672z"/>
+   <rect width="2" height="16" x="29.99" y="14.77" transform="rotate(15)"/>
+  </g>
+ </g>
+</svg>

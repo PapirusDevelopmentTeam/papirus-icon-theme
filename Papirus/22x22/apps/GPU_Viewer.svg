@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <path style="opacity:0.2" d="M 1.5,2.5 C 0.669,2.5 0,3.2108125 0,4.09375 v 13.8125 C 0,18.789188 0.669,19.5 1.5,19.5 2.331,19.5 3,18.789188 3,17.90625 V 17.5 h 2 v 2 h 2 v -2 h 1 v 2 h 2 v -2 h 1 v 2 h 2 v -2 h 7 c 1.108,0 2,-0.965682 2,-2.166016 V 6.6660156 C 22,5.4656822 21.108,4.5 20,4.5 H 3 V 4.09375 C 3,3.2108125 2.331,2.5 1.5,2.5 Z"/>
+ <rect style="fill:#4f4f4f" width="21" height="13" x="1" y="4" rx="2" ry="2.167"/>
+ <circle style="opacity:0.2" cx="7.5" cy="11" r="4.5"/>
+ <circle style="fill:#ffffff" cx="7.5" cy="10.5" r="4.5"/>
+ <rect style="fill:#34ae72" width="1" height="7" x="1.62" y="-16.23" transform="rotate(135)"/>
+ <circle style="opacity:0.2" cx="16.5" cy="11" r="3.5"/>
+ <circle style="fill:#ffffff" cx="16.5" cy="10.5" r="3.5"/>
+ <rect style="fill:#34ae72" width="1" height="7" x="7" y="7"/>
+ <rect style="fill:#4f4f4f" width="2" height="2.5" x="5" y="16.5"/>
+ <rect style="fill:#34ae72" width="1" height="5" x="16" y="8"/>
+ <rect style="fill:#4f4f4f" width="2" height="2.5" x="8" y="16.5"/>
+ <rect style="fill:#4f4f4f" width="2" height="2.5" x="11" y="16.5"/>
+ <rect style="fill:#4f4f4f" width="3" height="17" x="0" y="2" rx="1.5" ry="1.594"/>
+ <rect style="fill:#34ae72" width="1" height="7" x="10" y="-11" transform="rotate(90)"/>
+ <rect style="fill:#34ae72" width="1" height="7" x="12.23" y="-5.62" transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"/>
+ <rect style="fill:#34ae72" width="1" height="5" x="10" y="-19" transform="rotate(90)"/>
+ <rect style="fill:#34ae72" width="1" height="5" x="-4.74" y="-21.59" transform="rotate(135)"/>
+ <rect style="fill:#34ae72" width="1" height="5" x="18.59" y="1.74" transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 1.5,2 C 0.669,2 0,2.7108125 0,3.59375 v 0.5 C 0,3.2108125 0.669,2.5 1.5,2.5 2.331,2.5 3,3.2108125 3,4.09375 V 4.5 h 17 c 1.108,0 2,0.9656822 2,2.1660156 v -0.5 C 22,4.9656822 21.108,4 20,4 H 3 V 3.59375 C 3,2.7108125 2.331,2 1.5,2 Z"/>
+ <circle style="fill:#34ae72" cx="7.5" cy="10.5" r="1.5"/>
+</svg>

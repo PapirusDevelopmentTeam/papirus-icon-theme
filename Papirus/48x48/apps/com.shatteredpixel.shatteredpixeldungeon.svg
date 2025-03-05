@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="36" height="36" x="-44" y="-42" rx="1.8" ry="1.8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#309b30" width="36" height="36" x="-43" y="-42" rx="1.8" ry="1.8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 7.8007812 7 C 6.8035813 7 6 7.8035812 6 8.8007812 L 6 9.8007812 C 6 8.8035812 6.8035813 8 7.8007812 8 L 40.199219 8 C 41.196419 8 42 8.8035812 42 9.8007812 L 42 8.8007812 C 42 7.8035812 41.196419 7 40.199219 7 L 7.8007812 7 z"/>
+ <path style="opacity:0.2" d="M 5,6 C 4.446,6 4,6.446 4,7 v 24 1 h 17 v 10 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 V 32 H 44 V 26 7 C 44,6.446 43.554,6 43,6 H 41 C 40.446,6 40,6.446 40,7 V 26 H 27 V 7 C 27,6.446 26.554,6 26,6 H 22 C 21.446,6 21,6.446 21,7 V 26 H 8 V 7 C 8,6.446 7.554,6 7,6 Z"/>
+ <path style="opacity:0.25" d="M 6,29 V 41.199219 C 6,42.196419 6.8035813,43 7.8007812,43 H 40.199219 C 41.196419,43 42,42.196419 42,41.199219 V 29 Z"/>
+ <rect style="fill:#ffa402" width="4" height="26" x="4" y="5" rx="1" ry="1"/>
+ <rect style="fill:#ffa402" width="4" height="26" x="40" y="5" rx="1" ry="1"/>
+ <rect style="fill:#ffa402" width="6" height="40" x="25" y="-44" transform="rotate(90)"/>
+ <rect style="fill:#ffa402" width="6" height="37" x="-27" y="-42" rx="1" ry="1" transform="scale(-1)"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 5 5 C 4.446 5 4 5.446 4 6 L 4 7 C 4 6.446 4.446 6 5 6 L 7 6 C 7.554 6 8 6.446 8 7 L 8 6 C 8 5.446 7.554 5 7 5 L 5 5 z M 22 5 C 21.446 5 21 5.446 21 6 L 21 7 C 21 6.446 21.446 6 22 6 L 26 6 C 26.554 6 27 6.446 27 7 L 27 6 C 27 5.446 26.554 5 26 5 L 22 5 z M 41 5 C 40.446 5 40 5.446 40 6 L 40 7 C 40 6.446 40.446 6 41 6 L 43 6 C 43.554 6 44 6.446 44 7 L 44 6 C 44 5.446 43.554 5 43 5 L 41 5 z M 8 25 L 8 26 L 21 26 L 21 25 L 8 25 z M 27 25 L 27 26 L 40 26 L 40 25 L 27 25 z"/>
+ <rect style="opacity:0.2" width="18" height="18" x="15" y="20" rx="2" ry="2"/>
+ <rect style="fill:#ffdc2f" width="18" height="18" x="15" y="19" rx="2" ry="2"/>
+ <rect style="fill:#3f3f3f" width="8" height="6" x="20" y="22"/>
+ <rect style="fill:#3f3f3f" width="4" height="6" x="22" y="28"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 17 19 C 15.892 19 15 19.892 15 21 L 15 22 C 15 20.892 15.892 20 17 20 L 31 20 C 32.108 20 33 20.892 33 22 L 33 21 C 33 19.892 32.108 19 31 19 L 17 19 z"/>
+</svg>

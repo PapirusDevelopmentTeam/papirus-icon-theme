@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#ffc83b" width="15" height="15" x="-15" y="-15" rx=".75" ry=".75" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#be8a06" width="15" height="5" x="0" y="5"/>
+ <circle style="fill:#1ac52f" cx="7.5" cy="7.5" r="2.625"/>
+ <path style="opacity:0.3" d="M 7 5 L 7 6 L 8 6 L 8 5 L 7 5 z M 8 6 L 8 7 L 9 7 L 9 6 L 8 6 z M 9 7 L 9 8 L 10 8 L 10 7 L 9 7 z M 9 8 L 8 8 L 8 9 L 9 9 L 9 8 z M 8 9 L 7 9 L 7 10 L 8 10 L 8 9 z M 7 9 L 7 8 L 6 8 L 6 9 L 7 9 z M 6 8 L 6 7 L 5 7 L 5 8 L 6 8 z M 6 7 L 7 7 L 7 6 L 6 6 L 6 7 z M 7 7 L 7 8 L 8 8 L 8 7 L 7 7 z"/>
+ <path style="fill:#ffffff" d="M 7.5 4 A 3.4999999 3.4999999 0 0 0 4 7.5 A 3.4999999 3.4999999 0 0 0 7.5 11 A 3.4999999 3.4999999 0 0 0 11 7.5 A 3.4999999 3.4999999 0 0 0 7.5 4 z M 7.5 5 A 2.4999999 2.4999999 0 0 1 10 7.5 A 2.4999999 2.4999999 0 0 1 7.5 10 A 2.4999999 2.4999999 0 0 1 5 7.5 A 2.4999999 2.4999999 0 0 1 7.5 5 z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round" d="m 9.763,10.135 2.23325,2.34"/>
+</svg>

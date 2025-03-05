@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="40" height="32" x="4" y="9" rx="4" ry="4"/>
+ <rect style="fill:#e4e4e4" width="40" height="32" x="4" y="8" rx="4" ry="4"/>
+ <circle style="fill:#b3b3b3" cx="39" cy="13" r="3"/>
+ <g style="opacity:0.2;fill:#ffffff" transform="translate(0,1)">
+  <rect width="24" height="3" x="8" y="13"/>
+  <rect width="17" height="3" x="8" y="19"/>
+  <rect width="10" height="3" x="29" y="19"/>
+  <rect width="27" height="3" x="8" y="25"/>
+  <rect width="16" height="3" x="23" y="31"/>
+  <rect width="10" height="3" x="8" y="31"/>
+ </g>
+ <rect style="fill:#989898" width="24" height="3" x="8" y="13"/>
+ <rect style="fill:#989898" width="17" height="3" x="8" y="19"/>
+ <rect style="fill:#989898" width="10" height="3" x="29" y="19"/>
+ <rect style="fill:#989898" width="27" height="3" x="8" y="25"/>
+ <rect style="fill:#989898" width="16" height="3" x="23" y="31"/>
+ <rect style="fill:#989898" width="10" height="3" x="8" y="31"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 8 8 C 5.784 8 4 9.784 4 12 L 4 13 C 4 10.784 5.784 9 8 9 L 40 9 C 42.216 9 44 10.784 44 13 L 44 12 C 44 9.784 42.216 8 40 8 L 8 8 z"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="20" height="14" x="2" y="5.5" rx="1.5" ry="1.5"/>
+ <rect style="fill:#4f4f4f" width="20" height="14" x="2" y="5" rx="1.5" ry="1.5"/>
+ <path style="opacity:0.2" d="m 5,7.5 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m -12,4 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m -12,4 v 2 h 14 v -2 z"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="5" y="7"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="9" y="7"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="13" y="7"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="17" y="7"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="5" y="11"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="9" y="11"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="13" y="11"/>
+ <rect style="fill:#ffffff" width="2" height="2" x="17" y="11"/>
+ <rect style="fill:#ffffff" width="14" height="2" x="5" y="15"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 3.5,5 C 2.669,5 2,5.669 2,6.5 V 7 C 2,6.169 2.669,5.5 3.5,5.5 h 17 C 21.331,5.5 22,6.169 22,7 V 6.5 C 22,5.669 21.331,5 20.5,5 Z"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <circle style="opacity:0.2" cx="32.5" cy="6.5" r="3.5"/>
+ <circle style="opacity:0.2" cx="32" cy="36" r="24"/>
+ <circle style="opacity:0.2" cx="56.5" cy="55.5" r="5.5"/>
+ <circle style="opacity:0.2" cx="7.5" cy="53.5" r="2.5"/>
+ <circle style="fill:#e2222f" cx="32.5" cy="5.5" r="3.5"/>
+ <circle style="fill:#e2222f" cx="32" cy="35" r="24"/>
+ <circle style="fill:#e2222f" cx="56.5" cy="54.5" r="5.5"/>
+ <circle style="fill:#e2222f" cx="7.5" cy="52.5" r="2.5"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 32.5 2 A 3.5 3.5 0 0 0 29 5.5 A 3.5 3.5 0 0 0 29.039 6.0059 A 3.5 3.5 0 0 1 32.5 3 A 3.5 3.5 0 0 1 35.961 5.9941 A 3.5 3.5 0 0 0 36 5.5 A 3.5 3.5 0 0 0 32.5 2 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 32 11 A 24 24 0 0 0 8 35 A 24 24 0 0 0 8.0215 35.582 A 24 24 0 0 1 32 12 A 24 24 0 0 1 55.979 35.418 A 24 24 0 0 0 56 35 A 24 24 0 0 0 32 11 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 56.5 49 A 5.5 5.5 0 0 0 51 54.5 A 5.5 5.5 0 0 0 51.025 54.986 A 5.5 5.5 0 0 1 56.5 50 A 5.5 5.5 0 0 1 61.975 55.014 A 5.5 5.5 0 0 0 62 54.5 A 5.5 5.5 0 0 0 56.5 49 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7.5 50 A 2.5 2.5 0 0 0 5 52.5 A 2.5 2.5 0 0 0 5.0527 52.996 A 2.5 2.5 0 0 1 7.5 51 A 2.5 2.5 0 0 1 9.9473 53.004 A 2.5 2.5 0 0 0 10 52.5 A 2.5 2.5 0 0 0 7.5 50 z"/>
+ <path style="opacity:0.2" d="M 32,17 16,26 V 34 L 39,42 32,46 23,41 V 39 L 16,36.551 V 45 L 32,54 48,45 V 37 L 25,29 32,25 41,30 V 32 L 48,34.502 V 26 Z"/>
+ <path style="fill:#ffffff" d="M 32,16 16,25 V 33 L 39,41 32,45 23,40 V 38 L 16,35.551 V 44 L 32,53 48,44 V 36 L 25,28 32,24 41,29 V 31 L 48,33.502 V 25 Z"/>
+</svg>

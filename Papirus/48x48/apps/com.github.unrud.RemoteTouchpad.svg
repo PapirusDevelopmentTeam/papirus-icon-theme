@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="32" x="4" y="-41" rx="2" ry="2" transform="scale(1,-1)"/>
+ <rect style="fill:#e4e4e4" width="40" height="32" x="4" y="-40" rx="2" ry="2" transform="scale(1,-1)"/>
+ <rect style="opacity:0.4" width="10" height="2" x="19" y="-43" rx="1" ry="1" transform="rotate(90)"/>
+ <rect style="fill:#333333" width="26" height="30" x="11" y="-40" rx="2" ry="2" transform="rotate(90)"/>
+ <circle style="opacity:0.4" cx="24" cy="-7" r="2" transform="rotate(90)"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="12" height="8" x="12" y="27" rx="2" ry="2"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="12" height="8" x="26" y="27" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="M 12 33 L 12 34 C 12 35.108 12.892 36 14 36 L 22 36 C 23.108 36 24 35.108 24 34 L 24 33 C 24 34.108 23.108 35 22 35 L 14 35 C 12.892 35 12 34.108 12 33 z M 26 33 L 26 34 C 26 35.108 26.892 36 28 36 L 36 36 C 37.108 36 38 35.108 38 34 L 38 33 C 38 34.108 37.108 35 36 35 L 28 35 C 26.892 35 26 34.108 26 33 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 14 27 C 12.892 27 12 27.892 12 29 L 12 30 C 12 28.892 12.892 28 14 28 L 22 28 C 23.108 28 24 28.892 24 30 L 24 29 C 24 27.892 23.108 27 22 27 L 14 27 z M 28 27 C 26.892 27 26 27.892 26 29 L 26 30 C 26 28.892 26.892 28 28 28 L 36 28 C 37.108 28 38 28.892 38 30 L 38 29 C 38 27.892 37.108 27 36 27 L 28 27 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6 8 C 4.892 8 4 8.892 4 10 L 4 11 C 4 9.892 4.892 9 6 9 L 42 9 C 43.108 9 44 9.892 44 11 L 44 10 C 44 8.892 43.108 8 42 8 L 6 8 z"/>
+</svg>

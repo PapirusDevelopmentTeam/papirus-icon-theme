@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <g transform="translate(-15,9)">
+  <path style="opacity:0.2" d="M 23,5 C 20.784,5 19,6.784 19,9 V 48 C 19,50.216 20.784,52 23,52 H 60 V 5 Z"/>
+  <rect style="fill:#456048" width="13" height="47" x="19" y="4" rx="4" ry="4"/>
+  <rect style="fill:#3d944e" width="32" height="47" x="28" y="4"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 23,4 C 20.784,4 19,5.784 19,8 V 9 C 19,6.784 20.784,5 23,5 H 60 V 4 Z"/>
+  <path style="fill:#c8cc8c" d="M 24,44 C 21.784,44 20,45.335 20,46.994 V 47.006 C 20,48.665 21.784,50 24,50 H 60 V 44 Z"/>
+  <path style="opacity:0.2" d="M 24,44 C 21.784,44 20,45.335 20,46.994 V 47.006 C 20,47.175 20.023,47.339 20.059,47.5 20.372,46.078 22.009,45 24,45 H 60 V 44 Z"/>
+ </g>
+ <path style="opacity:0.2" d="M 23,5 C 20.784,5 19,6.784 19,9 V 48 C 19,50.216 20.784,52 23,52 H 60 V 5 Z"/>
+ <rect style="fill:#6c5353" width="13" height="47" x="19" y="4" rx="4" ry="4"/>
+ <rect style="fill:#957575" width="32" height="47" x="28" y="4"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 23 4 C 20.784 4 19 5.784 19 8 L 19 9 C 19 6.784 20.784 5 23 5 L 60 5 L 60 4 L 23 4 z"/>
+ <path style="fill:#c8cc8c" d="M 24 44 C 21.784 44 20 45.335 20 46.994 L 20 47.006 C 20 48.665 21.784 50 24 50 L 60 50 L 60 44 L 24 44 z"/>
+ <path style="opacity:0.2" d="M 24 44 C 21.784 44 20 45.335 20 46.994 L 20 47.006 C 20 47.175 20.023 47.339 20.059 47.5 C 20.372 46.078 22.009 45 24 45 L 60 45 L 60 44 L 24 44 z"/>
+</svg>

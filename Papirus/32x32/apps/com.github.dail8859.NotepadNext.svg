@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <path style="opacity:0.2" d="M 6.375,3 C 5.61325,3 5,3.6244 5,4.4 V 29.6 C 5,30.37504 5.61325,31 6.375,31 h 19.25 C 26.3862,31 27,30.37504 27,29.6 V 12 L 20,10 18,3 Z"/>
+ <path style="fill:#e4e4e4" d="M 6.375,2 C 5.61325,2 5,2.6244 5,3.4 V 28.6 C 5,29.37504 5.61325,30 6.375,30 h 19.25 C 26.3862,30 27,29.37504 27,28.6 V 11 L 20,9 18,2 Z"/>
+ <path style="opacity:0.2" d="M 27,12 18,3 v 7.59375 C 18,11.373375 18.62775,12 19.40625,12 Z"/>
+ <path style="fill:#fafafa" d="M 27,11 18,2 V 9.59375 C 18,10.373375 18.62775,11 19.40625,11 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6.375,2 C 5.61325,2 5,2.6247906 5,3.4003906 v 1 C 5,3.6247906 5.61325,3 6.375,3 H 18 V 2 Z"/>
+ <circle style="fill:#7cb342" cx="24" cy="23" r="8"/>
+ <path opacity=".2" d="M 31.979,23.424 A 8,8 0 0 1 24,31 8,8 0 0 1 16.021,23.576 8,8 0 0 0 16,24 a 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -0.02148,-0.57617 z"/>
+ <path style="fill:#b3b3b3" d="M 6.5,5.5 V 7 H 10 V 5.5 Z m 4.5,0 V 7 h 6 V 5.5 Z M 6.5,8 v 1.5 h 4 V 8 Z m 5,0 V 9.5 H 15 V 8 Z M 16,8 v 1.5 h 1.5 V 8 Z M 6.5,10.5 V 12 h 2 v -1.5 z m 3,0 V 12 h 3 v -1.5 z m 4,0 V 12 h 3 v -1.5 z m 5,2.49707 v 1.5 h 4 v -1.5 z M 6.5,13 v 1.5 h 4 V 13 Z m 5,0 v 1.5 h 6 V 13 Z m -5,2.5 V 17 H 10 v -1.5 z m 4.5,0 V 17 h 2 v -1.5 z m 3,0 V 17 h 3 V 15.5 Z M 6.5,18 v 1.5 H 9 V 18 Z m 3.5,0 v 1.5 h 6 V 18 Z M 6.5,20.5 V 22 H 12 v -1.5 z m 6.5,0 V 22 h 2.5 V 20.5 Z M 6.5,23 v 1.5 H 10 V 23 Z m 4.5,0 v 1.5 h 4.5 V 23 Z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 24,19 v 8"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 28,23 H 20"/>
+</svg>

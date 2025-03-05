@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-1,-1)">
+  <path style="opacity:0.2" d="m 5,2.5 c -0.554,0 -1,0.446 -1,1 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8.5 L 14.5,8 14,2.5 Z"/>
+  <path style="fill:#e4e4e4" d="M 5,2 C 4.446,2 4,2.446 4,3 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8 L 14.5,7.5 14,2 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 9 V 2 Z"/>
+  <path style="opacity:0.2" d="m 14,2.5 v 5 c 0,0.5525 0.448,1 1,1 h 5 z"/>
+  <path style="fill:#fafafa" d="m 14,2 v 5 c 0,0.5525 0.448,1 1,1 h 5 z"/>
+  <path style="opacity:0.5" d="m 7,11 v 1 h 1 v -1 z m 2,0 v 1 h 8 v -1 z m -2,2 v 1 h 1 v -1 z m 2,0 v 1 h 8 v -1 z m -2,2 v 1 h 1 v -1 z m 2,0 v 1 h 8 v -1 z m -2,2 v 1 h 1 v -1 z m 2,0 v 1 h 8 v -1 z"/>
+ </g>
+</svg>

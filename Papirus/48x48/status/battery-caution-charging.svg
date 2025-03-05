@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="32" height="36" x="8" y="9" rx="2" ry="2"/>
+ <rect style="fill:#4f4f4f" width="32" height="36" x="8" y="8" rx="2" ry="2"/>
+ <rect style="fill:#8e8e8e" width="20" height="4" x="14" y="4"/>
+ <path style="opacity:0.2" d="m 11,33 v 8 h 26 v -8 z"/>
+ <path style="opacity:0.35" d="m 11,12 v 8 h 26 v -8 z"/>
+ <path style="opacity:0.35" d="m 11,22 v 8 h 26 v -8 z"/>
+ <path style="fill:#f4783a" d="m 11,32 v 8 h 26 v -8 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 14,4 V 5 H 34 V 4 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 11,32 v 1 h 26 v -1 z"/>
+ <path style="opacity:0.2" d="M 35.999,27 C 30.46,27 26,31.46 26,37 c 0,5.54 4.4596,10 9.9991,10 5.5395,0 9.9991,-4.46 9.9991,-10 0,-5.54 -4.459,-10 -9.999,-10 z"/>
+ <path style="fill:#fecd38" d="M 35.999,26 C 30.46,26 26,30.46 26,36 c 0,5.54 4.4596,10 9.9991,10 5.5395,0 9.9991,-4.46 9.9991,-10 0,-5.54 -4.459,-10 -9.999,-10 z"/>
+ <path style="fill:#3f3f3f" d="m 35.999,30 v 4 h 4 l -5,8 v -4 h -4 z"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4282" x1="409.57" x2="409.57" y1="540.8" y2="506.8" gradientTransform="matrix(.11765 0 0 .11765 -24.07 -85.62)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#2a2c2f"/>
+   <stop offset="1" stop-color="#424649"/>
+  </linearGradient>
+ </defs>
+ <rect fill="#4f4f4f" width="40" height="40" x="4" y="4" ry="20"/>
+ <path fill="#fff" opacity=".1" d="m12.89 7.35c-5.3674 3.579-8.8926 9.686-8.8926 16.648h16c0-1.621 0.96933-3.0084 2.3555-3.6367l-9.462-13.012z"/>
+ <path fill="#fff" opacity=".1" d="m35.06 40.6c5.3674-3.5793 8.8926-9.6857 8.8926-16.648h-16c0 1.621-0.96933 3.0084-2.3555 3.6367l9.4629 13.012z"/>
+ <rect fill="#feb925" width="14" height="14" x="17" y="17" ry="7"/>
+ <rect fill="url(#linearGradient4282)" width="4" height="4" x="22" y="-26" ry="2" transform="scale(1,-1)"/>
+ <path fill="#fff" opacity=".1" d="m24 4c11.07 0 19.982 8.92 19.982 20 0 0.16787-0.008 0.33314-0.0117 0.5-0.264-10.846-9.068-19.5-19.97-19.5s-19.706 8.654-19.97 19.5c-0.0034-0.167-0.0111-0.332-0.0111-0.5 0-11.08 8.9118-20 19.982-20z"/>
+ <path opacity=".2" d="m4.0117 24.5c-0.004 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.847-9.076 19.5-19.988 19.5s-19.724-8.653-19.988-19.5z"/>
+</svg>

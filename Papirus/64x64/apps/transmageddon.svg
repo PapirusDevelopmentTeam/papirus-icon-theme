@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="opacity:0.2" d="m 10,54.2 0,2 c 0,1.55 1.2496,2.8 2.8008,2.8 l 38.4,0 c 1.55,0 2.8,-1.25 2.8,-2.8 l 0,-2 c 0,1.55 -1.25,2.8 -2.8,2.8 l -38.4,0 c -1.5504,0 -2.8,-1.25 -2.8,-2.8 z"/>
+ <path style="fill:#4f4f4f" d="M 54,55.2 54,6.8 C 54,5.2488 52.752,4 51.2,4 L 12.8,4 C 11.2488,4 10,5.2488 10,6.8 l 0,48.4 c 0,1.552 1.2488,2.8 2.8,2.8 l 38.4,0 c 1.5512,0 2.8,-1.2488 2.8,-2.8 z"/>
+ <rect style="opacity:0.2" width="24" height="20" x="20" y="8"/>
+ <g style="opacity:0.2" transform="matrix(2,0,0,2,0,1)">
+  <rect width="3" height="3" x="6" y="4"/>
+  <rect width="3" height="3" x="6" y="9"/>
+  <rect width="3" height="3" x="6" y="14"/>
+  <rect width="3" height="3" x="6" y="19"/>
+  <rect width="3" height="3" x="6" y="24"/>
+  <rect width="3" height="3" x="23" y="4"/>
+  <rect width="3" height="3" x="23" y="9"/>
+  <rect width="3" height="3" x="23" y="14"/>
+  <rect width="3" height="3" x="23" y="19"/>
+  <rect width="3" height="3" x="23" y="24"/>
+ </g>
+ <g style="fill:#ffffff" transform="scale(2,2)">
+  <rect width="3" height="3" x="6" y="4"/>
+  <rect width="3" height="3" x="6" y="9"/>
+  <rect width="3" height="3" x="6" y="14"/>
+  <rect width="3" height="3" x="6" y="19"/>
+  <rect width="3" height="3" x="6" y="24"/>
+  <rect width="3" height="3" x="23" y="4"/>
+  <rect width="3" height="3" x="23" y="9"/>
+  <rect width="3" height="3" x="23" y="14"/>
+  <rect width="3" height="3" x="23" y="19"/>
+  <rect width="3" height="3" x="23" y="24"/>
+ </g>
+ <rect style="opacity:0.2" width="24" height="20" x="20" y="34"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 12.800781 4 C 11.249581 4 10 5.2495812 10 6.8007812 L 10 7.8007812 C 10 6.2495813 11.249581 5 12.800781 5 L 51.201172 5 C 52.751172 5 54 6.2495813 54 7.8007812 L 54 6.8007812 C 54 5.2495812 52.751172 4 51.201172 4 L 12.800781 4 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="M 63.958,45.848 A 16,16 0 0 1 48,61 16,16 0 0 1 32.042,46.152 16,16 0 0 0 32,47 16,16 0 0 0 48,63 16,16 0 0 0 64,47 16,16 0 0 0 63.95704,45.84766 Z"/>
+ <circle style="fill:#4269cd" cx="48" cy="46" r="16"/>
+ <path style="fill:#ffffff" d="m 48,37 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 8.474609,-6 l -3.285156,0 A 6,6 0 0 1 48,52 a 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 4.710938,2.289062 L 50,45 l 3.5,0 0.414062,0 3.025391,0 0.06055,0 0,-3.5 0,-3.5 -2.160156,2.160156 A 9,9 0 0 0 48.000003,37 Z"/>
+</svg>

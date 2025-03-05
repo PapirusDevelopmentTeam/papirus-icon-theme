@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <path style="opacity:0.2" d="M 24,29 H 40 V 53 L 32,61 24,53 Z"/>
+ <path style="fill:#afafb1" d="M 24,28 H 40 V 52 L 32,60 24,52 Z"/>
+ <path style="fill:#e4e4e4" d="m 24,28 h 8 V 60 L 24,52 Z"/>
+ <rect style="opacity:0.2" width="10" height="38" x="21" y="-51" rx="5" ry="5.5" transform="rotate(90)"/>
+ <rect style="fill:#d13808" width="12" height="15" x="26" y="6"/>
+ <rect style="fill:#ec8a2b" width="10" height="38" x="20" y="-51" rx="5" ry="5.5" transform="rotate(90)"/>
+ <rect style="opacity:0.2" width="20" height="6" x="22" y="5" rx="4"/>
+ <rect style="fill:#ec8a2b" width="20" height="6" x="22" y="4" rx="4"/>
+ <path style="fill:#ffffff;opacity:0.2" transform="rotate(90)" d="M 20,-18.5 C 20,-15.453 22.23,-13 25,-13 25.169,-13 25.335,-13.009 25.5,-13.027 22.967,-13.302 21,-15.639 21,-18.5 V -45.5 C 21,-48.361 22.967,-50.698 25.5,-50.973 25.335,-50.991 25.169,-51 25,-51 22.23,-51 20,-48.547 20,-45.5 Z M 4,-26 C 4,-23.784 5.338,-22 7,-22 7.171,-22 7.3369,-22.022 7.5,-22.059 6.0785,-22.375 5,-24.012 5,-26 V -38 C 5,-39.988 6.0785,-41.625 7.5,-41.941 7.3369,-41.978 7.171,-42 7,-42 5.338,-42 4,-40.216 4,-38 Z"/>
+</svg>

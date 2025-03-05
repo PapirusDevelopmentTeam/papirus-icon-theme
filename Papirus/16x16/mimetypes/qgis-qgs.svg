@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#ffbf23" width="16" height="16" x="-16" y="-16" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="M 1,16 C 0.446,16 0,15.554 0,15 l 0,-1 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,1 c 0,0.554 -0.446,1 -1,1 L 1,16 Z"/>
+ <path style="fill:#2196f3;fill-rule:evenodd" d="M 0.8,16 8,8.8 15.2,16 Z"/>
+ <path style="fill:#336f33;fill-rule:evenodd" d="M 16,15.2 8.8,8 16,0.8 Z"/>
+ <path style="fill:#ffffff;fill-rule:evenodd" d="M 8.707,7.293 7.293,8.707 14.586,16 15,16 c 0.554,0 1,-0.446 1,-1 L 16,14.586 8.707,7.293 Z"/>
+ <path style="fill:#ffffff;fill-rule:evenodd" d="M 14.586,0 0,14.586 0,15 c 0,0.554 0.446,1 1,1 l 0.4141,0 14.586,-14.586 0,-0.414 c 0,-0.554 -0.446,-1 -1,-1 l -0.414,0 z"/>
+</svg>

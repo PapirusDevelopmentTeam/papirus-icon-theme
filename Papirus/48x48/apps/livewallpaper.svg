@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="24" height="32" x="12" y="11" rx="2" ry="2"/>
+ <rect style="fill:#8e8e8e" width="24" height="32" x="12" y="10" rx="2" ry="2"/>
+ <rect style="opacity:0.2" width="40" height="32" x="4" y="7" rx="2" ry="2"/>
+ <path style="fill:#3f3f3f" d="M 4 34 L 4 36 C 4 37.108 4.892 38 6 38 L 42 38 C 43.108 38 44 37.108 44 36 L 44 34 L 4 34 z"/>
+ <path style="fill:#0095e5" d="M 6,6 C 4.892,6 4,6.892 4,8 V 34 H 44 V 8 C 44,6.892 43.108,6 42,6 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6 6 C 4.892 6 4 6.892 4 8 L 4 9 C 4 7.892 4.892 7 6 7 L 42 7 C 43.108 7 44 7.892 44 9 L 44 8 C 44 6.892 43.108 6 42 6 L 6 6 z"/>
+ <rect style="opacity:0.2" width="40" height="1" x="4" y="34"/>
+ <path style="opacity:0.2" d="m 33,10 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m -11,4 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -8,4 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 22,6 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -9,2 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+ <circle style="fill:#f0f9fd" cx="33" cy="14" r="5"/>
+ <circle style="fill:#c4e7f5" cx="14" cy="21" r="4"/>
+ <circle style="fill:#a6daf0" cx="27" cy="28" r="3"/>
+ <circle style="fill:#c4e7f5" cx="22" cy="15" r="2"/>
+ <circle style="fill:#d3edf8" cx="36" cy="25" r="2"/>
+</svg>

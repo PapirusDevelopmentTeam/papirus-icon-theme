@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <path style="fill:none;stroke:#afb42b;stroke-width:3;stroke-linecap:round" d="M 5.5,3.5 11,8"/>
+ <path style="fill:none;stroke:#afb42b;stroke-width:3;stroke-linecap:round" d="M 41.740938,3.5 37,8"/>
+ <rect style="opacity:0.2" width="32" height="24" x="8" y="21" rx="2" ry="2"/>
+ <rect style="opacity:0.2" width="32" height="14" x="8" y="5" rx="2" ry="2"/>
+ <rect style="fill:#1976d2" width="32" height="24" x="8" y="20" rx="2" ry="2"/>
+ <rect style="fill:#aeea00" width="32" height="14" x="8" y="4" rx="2" ry="2"/>
+ <circle style="opacity:0.2" cx="16" cy="12" r="3"/>
+ <circle style="fill:#ffffff" cx="16" cy="11" r="3"/>
+ <circle style="opacity:0.2" cx="32" cy="12" r="3"/>
+ <circle style="fill:#ffffff" cx="32" cy="11" r="3"/>
+ <path style="fill:#0d47a1" d="M 24 23 A 9 9 0 0 0 15 32 A 9 9 0 0 0 24 41 A 9 9 0 0 0 33 32 A 9 9 0 0 0 24 23 z M 24 25 A 7 7 0 0 1 31 32 A 7 7 0 0 1 24 39 A 7 7 0 0 1 17 32 A 7 7 0 0 1 24 25 z M 24 27 A 5 5 0 0 0 19.423828 30 L 21.767578 30 A 3 3 0 0 1 24 29 A 3 3 0 0 1 27 32 A 3 3 0 0 1 24 35 A 3 3 0 0 1 21.767578 34 L 19.423828 34 A 5 5 0 0 0 24 37 A 5 5 0 0 0 29 32 A 5 5 0 0 0 24 27 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 10,4 C 8.892,4 8,4.892 8,6 V 7 C 8,5.892 8.892,5 10,5 h 28 c 1.108,0 2,0.892 2,2 V 6 C 40,4.892 39.108,4 38,4 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 10,20 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 28 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+</svg>

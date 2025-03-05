@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="1" ry="1"/>
+ <rect style="fill:#ef4e4e" width="20" height="20" x="2" y="2" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 3,2 C 2.446,2 2,2.446 2,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 3 C 22,2.446 21.554,2 21,2 Z"/>
+ <path style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:round" d="M 12,2 V 22"/>
+ <path style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:round" d="M 7.0001,2 V 22"/>
+ <path style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:round" d="M 17.0001,2 V 22"/>
+ <path style="opacity:0.2" d="m 2,6.4999 a 1.0001,1.0001 0 1 0 0,2 h 20 a 1.0001,1.0001 0 1 0 0,-2 z m 0,5 a 1.0001,1.0001 0 1 0 0,2 h 20 a 1.0001,1.0001 0 1 0 0,-2 z m 0,5 a 1.0001,1.0001 0 1 0 0,2 h 20 a 1.0001,1.0001 0 1 0 0,-2 z"/>
+ <path style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:round" d="m 22.0001,11.9999 h -20"/>
+ <path style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:round" d="m 22.0001,6.9999 h -20"/>
+ <path style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:round" d="m 22.0001,16.9999 h -20"/>
+ <path style="fill:none;stroke:#ffa02e;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 15,16.5 v -3 c 0,-0.895252 0.801749,-1.5 2,-1.5 1.145812,0 2,0.648713 2,1.5 v 3"/>
+ <circle style="opacity:0.1" cx="17" cy="18.5" r="4"/>
+ <circle style="fill:#ffce23" cx="17" cy="18" r="4"/>
+ <circle style="fill:#7f4a04" cx="17" cy="18" r="1"/>
+ <path style="fill:#7f4a04" d="m 16.5,18 v 1.5 A 0.5,0.5 0 0 0 17,20 0.5,0.5 0 0 0 17.5,19.5 V 18 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 17,14 a 4,4 0 0 0 -4,4 4,4 0 0 0 0.01074,0.288086 A 4,4 0 0 1 17,14.5 4,4 0 0 1 20.989258,18.211914 4,4 0 0 0 21,18 4,4 0 0 0 17,14 Z"/>
+</svg>

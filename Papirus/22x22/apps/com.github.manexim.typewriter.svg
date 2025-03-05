@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="fill:#e4e4e4" width="14" height="17.5" x="4" y="1" rx="1" ry="1"/>
+ <path style="opacity:0.3" d="M 5,2 V 3 H 7 V 2 Z m 3,0 v 1 h 2 V 2 Z m 3,0 v 1 h 4 V 2 Z M 5,4 V 5 H 9 V 4 Z m 5,0 v 1 h 3 V 4 Z M 5,6 V 7 H 7 V 6 Z m 3,0 v 1 h 3 V 6 Z m 4,0 v 1 h 4 V 6 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 5,1 C 4.446,1 4,1.446 4,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 12 c 0.554,0 1,0.446 1,1 V 2 C 18,1.446 17.554,1 17,1 Z"/>
+ <rect style="fill:#4caf50" width="20" height="14" x="1" y="7" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 2,7 C 1.446,7 1,7.446 1,8 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 8 C 21,7.446 20.554,7 20,7 Z"/>
+ <path style="opacity:0.2" d="m 1,20 v 0.5 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 20 c 0,0.554 -0.446,1 -1,1 H 2 C 1.446,21 1,20.554 1,20 Z"/>
+ <circle style="opacity:0.2" cx="5" cy="11.5" r="1"/>
+ <circle style="opacity:0.2" cx="8" cy="11.5" r="1"/>
+ <circle style="opacity:0.2" cx="11" cy="11.5" r="1"/>
+ <circle style="opacity:0.2" cx="14" cy="11.5" r="1"/>
+ <circle style="opacity:0.2" cx="17" cy="11.5" r="1"/>
+ <circle style="opacity:0.2" cx="7" cy="15.5" r="1"/>
+ <circle style="opacity:0.2" cx="10" cy="15.5" r="1"/>
+ <circle style="opacity:0.2" cx="13" cy="15.5" r="1"/>
+ <circle style="opacity:0.2" cx="16" cy="15.5" r="1"/>
+ <rect style="opacity:0.2" width="14" height="2" x="4" y="18.5" rx=".5" ry=".5"/>
+ <circle style="fill:#ffffff" cx="5" cy="11" r="1"/>
+ <circle style="fill:#ffffff" cx="8" cy="11" r="1"/>
+ <circle style="fill:#ffffff" cx="11" cy="11" r="1"/>
+ <circle style="fill:#ffffff" cx="14" cy="11" r="1"/>
+ <circle style="fill:#ffffff" cx="17" cy="11" r="1"/>
+ <circle style="fill:#ffffff" cx="7" cy="15" r="1"/>
+ <circle style="fill:#ffffff" cx="10" cy="15" r="1"/>
+ <circle style="fill:#ffffff" cx="13" cy="15" r="1"/>
+ <circle style="fill:#ffffff" cx="16" cy="15" r="1"/>
+ <rect style="fill:#ffffff" width="14" height="2" x="4" y="18" rx=".5" ry=".5"/>
+</svg>

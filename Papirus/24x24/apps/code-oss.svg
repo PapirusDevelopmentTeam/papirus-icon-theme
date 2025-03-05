@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="21" height="18" x="2" y="3.5" rx="1.05" ry=".9"/>
+ <rect style="fill:#167abf" width="21" height="18" x="2" y="3" rx="1.05" ry=".9"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3.0507812 3 C 2.4690813 3 2 3.4017907 2 3.9003906 L 2 4.4003906 C 2 3.9017907 2.4690813 3.5 3.0507812 3.5 L 21.949219 3.5 C 22.530919 3.5 23 3.9017907 23 4.4003906 L 23 3.9003906 C 23 3.4017907 22.530919 3 21.949219 3 L 3.0507812 3 z"/>
+ <path style="opacity:0.2" d="m 3.0499999,2.9999999 c -0.5817,0 -1.05,0.4009865 -1.05,0.8995864 V 20.100412 c 0,0.4986 0.4683,0.899587 1.05,0.899587 h 5.775 V 2.9999999 Z"/>
+ <rect style="opacity:0.2" width="2" height="20" x="7" y="2.5" rx="1" ry="1"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 8.0001,2.9999997 V 21"/>
+ <path style="opacity:0.2" d="m 12.013672,5.4999 a 1.0001,1.0001 0 1 0 0,2 h 4 a 1.0001,1.0001 0 1 0 0,-2 z M 13,9.4999 a 1.0001,1.0001 0 1 0 0,2 h 5 a 1.0001,1.0001 0 1 0 0,-2 z m 0,4 a 1.0001,1.0001 0 1 0 0,2 h 5 a 1.0001,1.0001 0 1 0 0,-2 z m -1,4 a 1.0001,1.0001 0 1 0 0,2 h 4 a 1.0001,1.0001 0 1 0 0,-2 z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 12.014242,6 h 4"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 13,10.0001 h 5"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 13,14.0001 h 5"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 12,18.0001 h 4"/>
+</svg>

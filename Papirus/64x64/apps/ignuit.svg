@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="38" height="38" x="5" y="-60" rx="3" ry="3" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#85aeff" width="38" height="38" x="4" y="-60" rx="3" ry="3" transform="matrix(0,1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="m 28,16 0,-2 24,0 0,2 z"/>
+ <path style="opacity:0.2" d="m 28,22 0,-2 24,0 0,2 z"/>
+ <path style="opacity:0.2" d="m 28,28 0,-2 24,0 0,2 z"/>
+ <path style="opacity:0.2" d="m 28,34 0,-2 16,0 0,2 z"/>
+ <rect style="opacity:0.2" width="38" height="38" x="23" y="-42" rx="3" ry="3" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#a7baff" width="38" height="38" x="22" y="-42" rx="3" ry="3" transform="matrix(0,1,-1,0,0,0)"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 25 4 C 23.338 4 22 5.338 22 7 L 22 8 C 22 6.338 23.338 5 25 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 25 4 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 7 22 C 5.338 22 4 23.338 4 25 L 4 26 C 4 24.338 5.338 23 7 23 L 39 23 C 40.662 23 42 24.338 42 26 L 42 25 C 42 23.338 40.662 22 39 22 L 7 22 z"/>
+ <path style="opacity:0.5" d="m 10,34 0,-2 24,0 0,2 z"/>
+ <path style="opacity:0.5" d="m 10,40 0,-2 24,0 0,2 z"/>
+ <path style="opacity:0.5" d="m 10,46 0,-2 24,0 0,2 z"/>
+ <path style="opacity:0.5" d="m 10,52 0,-2 16,0 0,2 z"/>
+</svg>

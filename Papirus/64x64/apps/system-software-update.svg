@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <g style="opacity:0.2" transform="matrix(2,0,0,2,0,-1)">
+  <circle cx="16" cy="17" r="14"/>
+  <path style="fill:none;stroke:#000000;stroke-linejoin:round" d="M 29.5,20.5 H 23.5 L 29.5,26.5 Z"/>
+ </g>
+ <path style="fill:#fbc02d" d="M 7.7514,18 A 28,28 0 0 1 46,7.7514 28,28 0 0 1 56.249,46 L 32,32 Z"/>
+ <path style="fill:#ff9932" d="M 56.249,46 A 28,28 0 0 1 32,60 28,28 0 0 1 7.7512,46 28,28 0 0 1 7.7514,18"/>
+ <circle style="fill:#3f3f3f" cx="32" cy="32" r="22"/>
+ <path style="opacity:0.2" d="M 32 10 A 22 22 0 0 0 10 32 A 22 22 0 0 0 10.035 32.5 A 22 22 0 0 1 32 11 A 22 22 0 0 1 53.98 32.262 A 22 22 0 0 0 54 32 A 22 22 0 0 0 32 10 z"/>
+ <path style="opacity:0.2;stroke:#000000;stroke-width:2;stroke-linejoin:round" d="M 5,14 V 26 H 17 Z"/>
+ <rect style="fill:#fac02d" width="14" height="2" x="20" y="31" rx="1" ry="1"/>
+ <path style="fill:#ff9932;stroke:#ff9932;stroke-width:2;stroke-linejoin:round" d="M 59,39 H 47 L 59,51 Z"/>
+ <path style="fill:#fbc02d;stroke:#fbc02d;stroke-width:2;stroke-linejoin:round" d="M 5,13 V 25 H 17 Z"/>
+ <rect style="fill:none;stroke:#ff9932;stroke-width:3;stroke-linejoin:round" width="29" height="7" x="17.5" y="28.5" rx="3.5" ry="3.5"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 32 4 C 22.95 4.038 14.416 8.366 9.193 15.756 L 5.707 12.293 C 5.519 12.106 5.265 12 5 12 C 4.869 12 4.739 12.026 4.617 12.076 C 4.244 12.231 4 12.596 4 13 L 4 14 C 4 13.596 4.244 13.231 4.617 13.076 C 4.991 12.921 5.421 13.007 5.707 13.293 L 9.24 16.826 C 14.469 9.437 22.948 5.031 32 5 C 47.17 5.004 59.577 17.088 59.982 32.252 L 60 32 C 60 16.536 47.464 4 32 4 z M 10.035 32.5 A 22 22 0 0 0 10 33 A 22 22 0 0 0 32 55 A 22 22 0 0 0 50.865 44.279 L 50.457 43.871 A 22 22 0 0 1 32 54 A 22 22 0 0 1 10.035 32.5 z M 47 38 A 1 1 0 0 0 46.154 39.5 A 1 1 0 0 1 47 39 L 59 39 A 1 1 0 0 1 60 40 L 60 39 A 1 1 0 0 0 59 38 L 47 38 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 21 27 C 18.256 27 16 29.256 16 32 C 16 32.166 16.009 32.33 16.025 32.492 C 16.283 29.983 18.428 28 21 28 L 43 28 C 45.572 28 47.717 29.983 47.975 32.492 C 47.991 32.33 48 32.166 48 32 C 48 29.256 45.744 27 43 27 L 21 27 z M 19.061 32.5 C 19.022 32.659 19 32.826 19 33 C 19 34.134 19.866 35 21 35 L 43 35 C 44.134 35 45 34.134 45 33 C 45 32.826 44.978 32.659 44.939 32.5 C 44.726 33.379 43.96 34 43 34 L 21 34 C 20.04 34 19.274 33.379 19.061 32.5 z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="fill:#568156" width="20" height="20" x="2" y="2" rx="1" ry="1"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3,2 C 2.446,2 2,2.446 2,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 22,3 C 22,2.446 21.554,2 21,2 L 3,2 Z"/>
+ <path style="opacity:0.2" d="m 2,21 0,0.5 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 L 22,21 c 0,0.554 -0.446,1 -1,1 L 3,22 C 2.446,22 2,21.554 2,21 Z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 4,10.5 0,2 2,0 0,-2 -2,0 z"/>
+ <path style="fill:#3f3f3f;fill-rule:evenodd" d="m 4,10 0,2 2,0 0,-2 -2,0 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 18,10.5 0,2 2,0 0,-2 -2,0 z"/>
+ <path style="fill:#3f3f3f;fill-rule:evenodd" d="m 18,10 0,2 2,0 0,-2 -2,0 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 9,14.5 0,1 6,0 0,-1 z m 6,1 0,1 1,0 0,1 -8,0 0,-1 1,0 0,-1 -1,0 -1,0 0,2 -1,0 0,2 1,0 0,-1 9,0 0,2 1,0 0,-5 -1,0 z"/>
+ <path style="fill:#3f3f3f;fill-rule:evenodd" d="m 9,14 0,1 6,0 0,-1 z m 6,1 0,1 1,0 0,1 -8,0 0,-1 1,0 0,-1 -1,0 -1,0 0,2 -1,0 0,2 1,0 0,-1 9,0 0,2 1,0 0,-5 -1,0 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 9,15.5 0,1 -1,0 0,1 1,0 6,0 1,0 0,-1 -1,0 0,-1 z"/>
+ <path style="fill:#c03c3c;fill-rule:evenodd" d="m 9,15 0,1 -1,0 0,1 1,0 6,0 1,0 0,-1 -1,0 0,-1 z"/>
+ <path style="opacity:0.1;fill:#ffffff;fill-rule:evenodd" d="M 9 15 L 9 15.5 L 15 15.5 L 15 15 L 9 15 z M 8 16 L 8 16.5 L 9 16.5 L 9 16 L 8 16 z M 15 16 L 15 16.5 L 16 16.5 L 16 16 L 15 16 z"/>
+</svg>

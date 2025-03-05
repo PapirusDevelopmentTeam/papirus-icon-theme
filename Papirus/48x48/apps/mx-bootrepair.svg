@@ -1,0 +1,17 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-40" width="40" height="32" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <path d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z" style="opacity:.2"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
+ <rect x="8" y="5" width="32" height="34" rx="2" ry="2" style="opacity:.2"/>
+ <rect x="8" y="4" width="32" height="34" rx="2" ry="2" style="fill:#b7b7b7"/>
+ <circle cx="24" cy="21" r="11" style="opacity:.2"/>
+ <circle cx="24" cy="20" r="11" style="fill:#e4e4e4"/>
+ <rect x="10" y="41" width="16" height="2" rx="1" ry="2" style="fill:#ffffff;opacity:.2"/>
+ <rect x="10" y="40" width="16" height="2" rx="1" ry="2" style="fill:#3b3a36"/>
+ <circle cx="37" cy="42" r="1" style="opacity:.2"/>
+ <circle cx="37" cy="41" r="1" style="fill:#b7b7b7"/>
+ <circle cx="33" cy="42" r="1" style="opacity:.2"/>
+ <circle cx="33" cy="41" r="1" style="fill:#b7b7b7"/>
+ <rect x="22" y="13" width="4" height="14" rx="2" ry="2" style="fill:#db4539"/>
+ <rect transform="rotate(90)" x="18" y="-31" width="4" height="14" rx="2" ry="2" style="fill:#db4539"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g transform="translate(-1,-1)">
+  <rect style="opacity:0.2" width="20" height="12" x="2" y="9.5" rx="1" ry="1"/>
+  <path style="fill:#e95420" d="M 2,17 C 2,17.554 2.446,18 3,18 H 21 C 21.554,18 22,17.554 22,17 V 6 C 22,5.446 21.554,5 21,5 H 12 C 10.5,5 10,3 8.5,3 H 3 C 2.446,3 2,3.446 2,4"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 V 4.5 C 2,3.946 2.446,3.5 3,3.5 H 8.5 C 10,3.5 10.5,5.5 12,5.5 H 21 C 21.554,5.5 22,5.946 22,6.5 V 6 C 22,5.446 21.554,5 21,5 H 12 C 10.5,5 10,3 8.5,3 Z"/>
+  <rect style="opacity:0.2" width="20" height="12" x="2" y="8.5" rx="1" ry="1"/>
+  <rect style="fill:#e4e4e4" width="16" height="8" x="4" y="7" rx="1" ry="1"/>
+  <rect style="fill:#eb6637" width="20" height="12" x="2" y="9" rx="1" ry="1"/>
+  <g>
+   <path style="fill:#522413" class="ColorScheme-Text" d="M 14.939,12 C 14.545,12.467 14.395,13.014 14.385,13.604 14.345,14.001 14.538,14.337 14.666,14.693 L 13.775,15 H 6.5 C 6.014,15 6,16 6,16 6,17.496 7.6238,19 9.418,19 H 10.463 C 12.96,19.02 15,18 15.842,15.498 17,15.493 17.685,14.969 18,14.062 17.431,13.592 16.82,13.576 16.145,13.678 16.025,12.876 15.565,12.325 14.939,12 Z"/>
+   <rect style="fill:#522413" class="ColorScheme-Text" width="1" height="1" x="12" y="13" rx=".25" ry=".25"/>
+   <rect style="fill:#522413" class="ColorScheme-Text" width="1" height="1" x="10" y="13" rx=".25" ry=".25"/>
+   <rect style="fill:#522413" class="ColorScheme-Text" width="1" height="1" x="8" y="13" rx=".25" ry=".25"/>
+   <rect style="fill:#522413" class="ColorScheme-Text" width="1" height="1" x="10" y="11" rx=".25" ry=".25"/>
+   <rect style="fill:#522413" class="ColorScheme-Text" width="1" height="1" x="12" y="11" rx=".25" ry=".25"/>
+  </g>
+ </g>
+</svg>

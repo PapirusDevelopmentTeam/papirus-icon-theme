@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect fill="#394e6f" width="28" height="28" x="2" y="2" rx="1.5" ry="1.5"/>
+ <path fill="#fff" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="18.5" cy="14.5" r="3.25"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="26" cy="21" r="1.75"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="22" cy="19" r="3.75"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="7.5" cy="19.5" r="3.25"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="10.5" cy="13" r="1.75"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="11" cy="17" r="3.75"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="11" cy="21" r="1.75"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="14.5" cy="12.5" r="3.25"/>
+ <circle fill="#fff" stroke="#394e6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" cx="16" cy="18" r="4.75"/>
+</svg>

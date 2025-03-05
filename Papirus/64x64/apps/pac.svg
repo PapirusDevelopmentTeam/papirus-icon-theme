@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="opacity:0.2" d="M 20,57 16,53 H 8 C 5.784,53 4,51.216 4,49 V 13 C 4,10.784 5.784,9 8,9 H 56 C 58.216,9 60,10.784 60,13 V 49 C 60,51.216 58.216,53 56,53 H 48 L 44,57 Z"/>
+ <path style="fill:#2c80c2" d="M 20,56 16,52 H 8 C 5.784,52 4,50.216 4,48 V 12 C 4,9.784 5.784,8 8,8 H 56 C 58.216,8 60,9.784 60,12 V 48 C 60,50.216 58.216,52 56,52 H 48 L 44,56 Z"/>
+ <path style="opacity:0.5" d="M 24,48 20,44 H 12 V 16 H 52 V 44 H 44 L 40,48 Z"/>
+ <g style="fill:#f8c44e" transform="scale(1,-1)">
+  <rect width="4" height="4" x="18" y="-20"/>
+  <rect width="4" height="4" x="24" y="-20"/>
+  <rect width="4" height="4" x="30" y="-20"/>
+  <rect width="4" height="4" x="36" y="-20"/>
+  <rect width="4" height="4" x="42" y="-20"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.2" d="M 8 8 C 5.784 8 4 9.784 4 12 L 4 13 C 4 10.784 5.784 9 8 9 L 56 9 C 58.216 9 60 10.784 60 13 L 60 12 C 60 9.784 58.216 8 56 8 L 8 8 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 12,44 V 45 H 20 L 24,49 H 40 L 44,45 H 52 V 44 H 44 L 40,48 H 24 L 20,44 Z"/>
+</svg>

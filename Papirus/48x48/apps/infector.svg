@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <path style="fill:#cccccc;fill-rule:evenodd" d="M 12 4 L 12 12 L 4 12 L 4 36 L 12 36 L 12 44 L 36 44 L 36 36 L 44 36 L 44 12 L 36 12 L 36 4 L 12 4 z"/>
+ <path style="fill:#33d533;fill-rule:evenodd" d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 12 L 12 12 L 12 4 L 7 4 z"/>
+ <path style="fill:#33d533;fill-rule:evenodd" d="M 36 36 L 36 44 L 41 44 C 42.662 44 44 42.662 44 41 L 44 36 L 36 36 z"/>
+ <path style="fill:#ff5b5b;fill-rule:evenodd" d="M 4 36 L 4 41 C 4 42.662 5.338 44 7 44 L 12 44 L 12 36 L 4 36 z"/>
+ <path style="fill:#ff5b5b;fill-rule:evenodd" d="M 36 4 L 36 12 L 44 12 L 44 7 C 44 5.338 42.662 4 41 4 L 36 4 z"/>
+ <path style="fill:#696969;fill-rule:evenodd" d="M 12 4 L 12 12 L 20 12 L 20 4 L 12 4 z M 20 12 L 20 20 L 28 20 L 28 12 L 20 12 z M 28 12 L 36 12 L 36 4 L 28 4 L 28 12 z M 36 12 L 36 20 L 44 20 L 44 12 L 36 12 z M 36 20 L 28 20 L 28 28 L 36 28 L 36 20 z M 36 28 L 36 36 L 44 36 L 44 28 L 36 28 z M 36 36 L 28 36 L 28 44 L 36 44 L 36 36 z M 28 36 L 28 28 L 20 28 L 20 36 L 28 36 z M 20 36 L 12 36 L 12 44 L 20 44 L 20 36 z M 12 36 L 12 28 L 4 28 L 4 36 L 12 36 z M 12 28 L 20 28 L 20 20 L 12 20 L 12 28 z M 12 20 L 12 12 L 4 12 L 4 20 L 12 20 z"/>
+ <path style="opacity:0.2" d="m 4,41 v 1 c 0,1.662 1.338,3 3,3 h 34 c 1.662,0 3,-1.338 3,-3 v -1 c 0,1.662 -1.338,3 -3,3 H 7 C 5.338,44 4,42.662 4,41 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7,4 C 5.338,4 4,5.338 4,7 V 8 C 4,6.338 5.338,5 7,5 h 34 c 1.662,0 3,1.338 3,3 V 7 C 44,5.338 42.662,4 41,4 Z"/>
+ <path style="fill-rule:evenodd;opacity:0.2" d="m 4,12 v 1 h 8 v -1 z m 16,0 v 1 h 8 v -1 z m 16,0 v 1 h 8 v -1 z m -24,8 v 1 h 8 v -1 z m 16,0 v 1 h 8 V 20 Z M 4,28 v 1 h 8 v -1 z m 16,0 v 1 h 8 v -1 z m 16,0 v 1 h 8 v -1 z m -24,8 v 1 h 8 v -1 z m 16,0 v 1 h 8 v -1 z"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <path opacity=".2" d="m2 26.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <rect fill="#4f4f4f" width="24" height="28" x="-28" y="-30" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path opacity=".2" d="m2 10v-4.5c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v4.5z"/>
+ <path fill="#fff" opacity=".2" d="m2 6.5v-1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v1c0-0.831-0.669-1.5-1.5-1.5h-25c-0.831 0-1.5 0.669-1.5 1.5z"/>
+ <path opacity=".2" d="m2 7v-1.5c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v1.5z"/>
+ <path fill="#fff" opacity=".2" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v4.5h6v-3l-3-3z"/>
+ <path fill="#fff" fill-rule="evenodd" opacity=".2" d="m12 7-3-3h4l3 3z"/>
+ <path fill="#fff" fill-rule="evenodd" opacity=".2" d="m12 7-3 3h4l3-3z"/>
+ <path fill="#fff" fill-rule="evenodd" opacity=".2" d="m19 7-3-3h4l3 3z"/>
+ <path fill="#fff" fill-rule="evenodd" opacity=".2" d="m19 7-3 3h4l3-3z"/>
+ <path fill="#fff" fill-rule="evenodd" opacity=".2" d="m26 7-3-3h4l3 3z"/>
+ <path fill="#fff" fill-rule="evenodd" opacity=".2" d="m26 7-3 3h4l3-3z"/>
+ <path style="opacity:0.2" transform="matrix(1.0392305,0,0,1,31.863198,-4.5734922)" d="m -10.453117,23.573492 -4.330127,2.5 -4.330127,2.5 0,-5 0,-5 4.330127,2.5 z"/>
+ <path style="fill:#bababa" transform="matrix(1.0392305,0,0,1,31.863198,-5.5734922)" d="m -10.453117,23.573492 -4.330127,2.5 -4.330127,2.5 0,-5 0,-5 4.330127,2.5 z"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <path style="opacity:0.2" d="m 12,2.5 0,10 10,0 A 10,10 0 0 0 12,2.5 Z m 0,10 -10,0 a 10,10 0 0 0 10,10 l 0,-10 z"/>
+ <path style="fill:#e4e4e4" d="m 12,2 0,10 10,0 A 10,10 0 0 0 12,2 Z m 0,10 -10,0 a 10,10 0 0 0 10,10 l 0,-10 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 12,2 0,0.5 A 10,10 0 0 1 21.974609,12 L 22,12 A 10,10 0 0 0 12,2 Z M 2,12 a 10,10 0 0 0 0.02539,0.5 L 12,12.5 12,12 2,12 Z"/>
+ <circle style="opacity:0.2" cx="12" cy="12.5" r="8"/>
+ <circle style="fill:#ffffff" cx="12" cy="12" r="8"/>
+ <circle style="fill:#3ca2e4" cx="12" cy="12" r="6"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 10,9.4999 4,0 0,3 -4,0 0,3 4,0"/>
+ <path style="fill:none;stroke:#ffc34c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 10,9 4,0 0,3 -4,0 0,3 4,0"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 10 8 A 1.0001 1.0001 0 0 0 9.0195312 9.2460938 A 1.0001 1.0001 0 0 1 10 8.5 L 14 8.5 A 1.0001 1.0001 0 0 1 15 9.5 L 15 9 A 1.0001 1.0001 0 0 0 14 8 L 10 8 z M 10 11 A 1.0001 1.0001 0 0 0 9 12 L 9 12.5 A 1.0001 1.0001 0 0 1 10 11.5 L 13 11.5 L 13 11 L 10 11 z M 11 14 L 11 14.5 L 14 14.5 A 1.0001 1.0001 0 0 1 14.980469 15.253906 A 1.0001 1.0001 0 0 0 14 14 L 11 14 z"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="56" height="52" x="4" y="7" rx="6" ry="6"/>
+ <rect style="fill:#d63f36" width="56" height="52" x="4" y="6" rx="6" ry="6"/>
+ <rect style="opacity:0.2" width="24" height="24" x="20" y="21" rx="3" ry="3"/>
+ <rect style="fill:#7ea193" width="24" height="24" x="20" y="20" rx="3" ry="3"/>
+ <path style="opacity:0.2" d="M 25,11 V 25 H 28 V 11 Z M 24,25 H 14 V 19.5 C 14,18 12.5,18 12.5,18 H 8.5 C 8.5,18 7,18 7,19.5 7,21 8.5,21 8.5,21 H 11 V 26.5 C 11,27.3 11.7,28 12.5,28 H 24 Z M 31,11 V 25 H 34 V 11 Z M 37,11 V 25 H 40 V 11 Z M 55.5,17 C 53.8,17 54,18.5 54,18.5 V 26 H 40 V 29 H 55.5 C 57,29 57,27.5 57,27.5 V 18.5 C 57,18.5 57.2,17 55.5,17 Z M 8.5,31 C 8.5,31 7,31 7,32.5 7,34 8.5,34 8.5,34 H 24 V 31 Z M 40,32 V 35 H 55.5 C 55.5,35 57,35 57,33.5 57,32 55.5,32 55.5,32 Z M 8.5,37 C 7,37 7,38.5 7,38.5 V 47.5 C 7,47.5 7,49 8.5,49 10,49 10,47.5 10,47.5 V 40 H 24 V 37 Z M 24,40 V 55 H 27 V 40 Z M 40,38 V 41 H 50 V 46.5 C 50,48 51.5,48 51.5,48 H 55.5 C 55.5,48 57,48 57,46.5 57,45 55.5,45 55.5,45 H 53 V 39.5 C 53,39.5 53,38 51.5,38 Z M 30,40 V 55 H 33 V 40 Z M 36,40 V 55 H 39 V 40 Z"/>
+ <path style="fill:#569c81" d="M 25,10 V 24 H 28 V 10 Z M 25,24 H 14 V 18.5 C 14,17 12.5,17 12.5,17 H 8.5 V 20 H 11 V 25.5 C 11,25.5 11.1,27 12.5,27 H 25 Z M 31,10 V 24 H 34 V 10 Z M 37,10 V 24 H 40 V 10 Z M 54,17.5 V 25 H 41 V 28 H 55.5 C 57,28 57,26.5 57,26.5 V 17.5 Z M 8.5,30 V 33 H 25 V 30 Z M 41,31 V 34 H 55.5 V 31 Z M 8.5,36 C 7,36 7,37.5 7,37.5 V 46.5 H 10 V 39 H 24 V 36 Z M 24,39 V 54 H 27 V 39 Z M 41,37 V 40 H 50 V 45.5 C 50,47 51.5,47 51.5,47 H 55.5 V 44 H 53 V 38.5 C 53,38.5 52.9,37 51.5,37 Z M 30,39 V 54 H 33 V 39 Z M 36,39 V 54 H 39 V 39 Z"/>
+ <path style="fill:#fbd14e" d="m25 18v6h-7v3h6v3h-6v3h6v3h-6v3h6v7h3v-6h3v6h3v-6h3v6h3v-6h7v-3h-6v-3h6v-3h-6v-3h6v-3h-6v-7h-3v6h-3v-6h-3v6h-3v-6z"/>
+ <rect style="opacity:0.2" width="20" height="20" x="22" y="23"/>
+ <rect style="fill:#414141" width="20" height="20" x="22" y="22"/>
+ <rect style="fill:#ffffff;opacity:0.1" width="20" height="1" x="22" y="22"/>
+ <circle style="fill:#efa0d7" cx="8.5" cy="18.5" r="1.5"/>
+ <circle style="fill:#81e9c0" cx="8.5" cy="31.5" r="1.5"/>
+ <circle style="fill:#aeb4f1" cx="8.5" cy="46.5" r="1.5"/>
+ <circle style="fill:#e4e4e4" cx="55.5" cy="45.5" r="1.5"/>
+ <circle style="fill:#febd78" cx="55.5" cy="32.5" r="1.5"/>
+ <circle style="fill:#e4e4e4" cx="55.5" cy="17.5" r="1.5"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 10 6 C 6.676 6 4 8.676 4 12 L 4 13 C 4 9.676 6.676 7 10 7 L 54 7 C 57.324 7 60 9.676 60 13 L 60 12 C 60 8.676 57.324 6 54 6 L 10 6 z"/>
+</svg>

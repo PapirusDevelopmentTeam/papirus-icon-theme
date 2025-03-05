@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="fill:#b5c0df" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path fill="#fff" style="opacity:0.2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <rect style="fill:#314277" width="7" height="22" x="9" y="9" rx="1" ry="1"/>
+ <rect style="fill:#314277" width="19" height="22" x="20" y="9" rx="1" ry="1"/>
+ <path style="opacity:0.2" d="m 24,13 c -0.554,0 -1,0.446 -1,1 v 2 c 0,0.554 0.446,1 1,1 h 8 v 2 h -6 -2 c -0.554,0 -1,0.343377 -1,0.769531 V 26 28 28.230469 C 23,28.656623 23.446,29 24,29 h 11 c 0.554,0 1,-0.446 1,-1 v -2 c 0,-0.554 -0.446,-1 -1,-1 h -8 v -2 h 6 2 0.07617 c 0.06836,0 0.12931,-0.02588 0.193359,-0.04102 0.04956,-0.01081 0.100426,-0.01693 0.146485,-0.0332 0.01862,-0.008 0.03474,-0.01814 0.05273,-0.02734 C 35.78098,22.768582 36,22.523709 36,22.230469 V 22 20 16 14 13.769531 C 36,13.343377 35.554,13 35,13 h -2 z"/>
+ <rect style="fill:#314277" width="7" height="21" x="17" y="-30" rx="1" ry="1" transform="rotate(90)"/>
+ <rect style="opacity:0.3;fill:#314277" width="4" height="4" x="9" y="34" rx="1" ry="1"/>
+ <rect style="opacity:0.56;fill:#314277" width="4" height="4" x="14" y="34" rx="1" ry="1"/>
+ <rect style="opacity:0.82;fill:#314277" width="4" height="4" x="19" y="34" rx="1" ry="1"/>
+ <rect style="opacity:0.82;fill:#314277" width="4" height="4" x="24" y="34" rx="1" ry="1"/>
+ <rect style="opacity:0.56;fill:#314277" width="4" height="4" x="29" y="34" rx="1" ry="1"/>
+ <rect style="opacity:0.3;fill:#314277" width="4" height="4" x="34" y="34" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="13" height="4" x="23" y="12" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="13" height="4" x="23" y="24" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="10" height="4" x="18" y="-27" rx=".769" ry="1" transform="rotate(90)"/>
+ <rect style="fill:#ffffff" width="12" height="4" x="-36" y="-22" rx=".923" ry="1" transform="scale(-1)"/>
+ <rect style="fill:#ffffff" width="10" height="4" x="12" y="-36" rx=".769" ry="1" transform="rotate(90)"/>
+ <path style="opacity:0.1" d="M 16 23 L 16 24 L 20 24 L 20 23 L 16 23 z M 9 29 L 9 30 C 9 30.554 9.446 31 10 31 L 15 31 C 15.554 31 16 30.554 16 30 L 16 29 C 16 29.554 15.554 30 15 30 L 10 30 C 9.446 30 9 29.554 9 29 z M 20 29 L 20 30 C 20 30.554 20.446 31 21 31 L 38 31 C 38.554 31 39 30.554 39 30 L 39 29 C 39 29.554 38.554 30 38 30 L 21 30 C 20.446 30 20 29.554 20 29 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 10,8 C 9.446,8 9,8.446 9,9 v 1 C 9,9.446 9.446,9 10,9 h 5 c 0.554,0 1,0.446 1,1 V 9 C 16,8.446 15.554,8 15,8 Z m 11,0 c -0.554,0 -1,0.446 -1,1 v 1 c 0,-0.554 0.446,-1 1,-1 h 17 c 0.554,0 1,0.446 1,1 V 9 C 39,8.446 38.554,8 38,8 Z m -5,8 v 1 h 4 v -1 z"/>
+</svg>

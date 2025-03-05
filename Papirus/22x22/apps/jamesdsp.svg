@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 20,11.5 v 7 c 0,1.5 -0.5,2 -2,2 H 4 c -1.5,0 -2,-0.5 -2,-2 v -2"/>
+ <rect style="fill:#ffffff" width="18" height="18" x="2" y="2"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 2,11.5 v -7 C 2,3 2.5,2.5 4,2.5 h 14 c 1.5,0 2,0.5 2,2 v 2"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 2,11 V 4 C 2,2.5 2.5,2 4,2 h 14 c 1.5,0 2,0.5 2,2 v 2"/>
+ <path style="fill:none;stroke:#c46fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 20,11 v 7 c 0,1.5 -0.5,2 -2,2 H 4 C 2.5,20 2,19.5 2,18 v -2"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 11,6 V 16"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 6,6 V 16"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 16,6 V 16"/>
+ <circle style="opacity:0.2" cx="11" cy="14.5" r="2"/>
+ <circle style="fill:#c46fff" cx="11" cy="14" r="2"/>
+ <circle style="opacity:0.2" cx="6" cy="8.5" r="2"/>
+ <circle style="fill:#c46fff" cx="6" cy="8" r="2"/>
+ <circle style="opacity:0.2" cx="16" cy="10.5" r="2"/>
+ <circle style="fill:#c46fff" cx="16" cy="10" r="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 4,1 C 3.1388897,1 2.3258109,1.1351267 1.7304688,1.7304688 1.1351267,2.3258109 1,3.1388897 1,4 V 4.5 C 1,3.6388897 1.1351267,2.8258109 1.7304688,2.2304688 2.3258109,1.6351267 3.1388897,1.5 4,1.5 h 14 c 0.86111,0 1.674189,0.1351267 2.269531,0.7304688 C 20.864874,2.8258109 21,3.6388897 21,4.5 V 4 C 21,3.1388897 20.864874,2.3258109 20.269531,1.7304688 19.674189,1.1351267 18.86111,1 18,1 Z"/>
+</svg>

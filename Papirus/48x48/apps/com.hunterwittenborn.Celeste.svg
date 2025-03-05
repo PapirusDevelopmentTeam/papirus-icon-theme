@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g style="opacity:0.2">
+  <circle cx="12" cy="25" r="8"/>
+  <circle cx="16" cy="34" r="8"/>
+  <circle cx="33" cy="31" r="11"/>
+  <path d="M 16,42 H 33 V 34 H 16 Z"/>
+  <circle cx="14" cy="29" r="8"/>
+ </g>
+ <g style="fill:#3e87dc" transform="translate(-3,-8)">
+  <circle style="fill:#3e87dc" cx="15" cy="32" r="8"/>
+  <circle style="fill:#3e87dc" cx="32" cy="29" r="11"/>
+  <circle style="fill:#3e87dc" cx="24" cy="25" r="12"/>
+ </g>
+ <path style="opacity:0.1;fill:#ffffff" d="M 21,5 A 12,12 0 0 0 9.033,16.58 8,8 0 0 0 4,24 8,8 0 0 0 4.0488,24.5 8,8 0 0 1 9.033,17.58 12,12 0 0 1 21,6 12,12 0 0 1 30.855,11.16 11,11 0 0 1 39.975,21.291 11,11 0 0 0 40,21 11,11 0 0 0 30.855,10.16 12,12 0 0 0 21,5 Z"/>
+ <g style="fill:#62a0ea" transform="translate(-1,-4)">
+  <circle style="fill:#62a0ea" cx="15" cy="32" r="8"/>
+  <circle style="fill:#62a0ea" cx="32" cy="29" r="11"/>
+  <circle style="fill:#62a0ea" cx="24" cy="25" r="12"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.1" d="M 23 9 A 12 12 0 0 0 11.033 20.58 A 8 8 0 0 0 6 28 A 8 8 0 0 0 6.0488 28.5 A 8 8 0 0 1 11.033 21.58 A 12 12 0 0 1 23 10 A 12 12 0 0 1 32.855 15.16 A 11 11 0 0 1 41.975 25.291 A 11 11 0 0 0 42 25 A 11 11 0 0 0 32.855 14.16 A 12 12 0 0 0 23 9 z"/>
+ <circle style="fill:#cccccc" cx="16" cy="33" r="8"/>
+ <circle style="fill:#cccccc" cx="33" cy="30" r="11"/>
+ <path style="fill:#cccccc" d="M 16,41 H 33 V 33 H 16 Z"/>
+ <circle style="opacity:0.2" cx="25" cy="26" r="12"/>
+ <circle style="fill:#eaeaea" cx="25" cy="25" r="12"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 19,28 V 25 C 19,23 21,21 23,21 H 28 M 25,24 28,21 25,18 M 25,28 22,31 25,34 M 31,24 V 27 C 31,29 29,31 27,31 H 22"/>
+ <path style="fill:none;stroke:#3584e4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 19,27 V 24 C 19,22 21,20 23,20 H 28 M 25,23 28,20 25,17 M 25,27 22,30 25,33 M 31,23 V 26 C 31,28 29,30 27,30 H 22"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 25 13 A 12 12 0 0 0 13 25 A 12 12 0 0 0 13.039 25.504 A 12 12 0 0 1 25 14 A 12 12 0 0 1 35.559 20.305 A 11 11 0 0 1 43.975 30.279 A 11 11 0 0 0 44 30 A 11 11 0 0 0 35.559 19.305 A 12 12 0 0 0 25 13 z M 13.033 25.582 A 8 8 0 0 0 8 33 A 8 8 0 0 0 8.0488 33.5 A 8 8 0 0 1 13.045 26.578 A 12 12 0 0 1 13 26 A 12 12 0 0 1 13.033 25.582 z"/>
+</svg>

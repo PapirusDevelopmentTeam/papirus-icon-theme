@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-1,-1)">
+  <rect style="opacity:0.2" width="12" height="14" x="6" y="7.5" rx="1" ry="1"/>
+  <rect style="fill:#8e8e8e" width="12" height="14" x="6" y="7" rx="1" ry="1"/>
+  <rect style="fill:#4f4f4f" width="20" height="15" x="2" y="4" rx="1" ry="1"/>
+  <rect style="fill:#6b9fff" width="18" height="12" x="3" y="5" rx="0" ry="0"/>
+  <rect style="opacity:0.1;fill:#ffffff" width="18" height=".5" x="3" y="17" rx="0" ry="0"/>
+  <circle style="fill:#0f56d9" cx="17.5" cy="17.5" r="5.5"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 3,4 C 2.446,4 2,4.446 2,5 V 5.5 C 2,4.946 2.446,4.5 3,4.5 H 21 C 21.554,4.5 22,4.946 22,5.5 V 5 C 22,4.446 21.554,4 21,4 Z"/>
+  <path style="fill:#ffffff" d="M 17.5,13.5 A 3.9999,3.9999 0 0 0 15.504,14.043 L 16.924,16.5 18.57,13.647 A 3.9999,3.9999 0 0 0 17.5,13.5 Z M 19.5,14.037 18.078,16.5 H 21.373 A 3.9999,3.9999 0 0 0 19.5,14.037 Z M 14.703,14.654 A 3.9999,3.9999 0 0 0 13.5,17.5 H 16.346 Z M 18.654,17.5 20.297,20.346 A 3.9999,3.9999 0 0 0 21.5,17.5 Z M 13.635,18.5 A 3.9999,3.9999 0 0 0 15.504,20.957 L 16.922,18.5 Z M 18.076,18.5 16.432,21.35 A 3.9999,3.9999 0 0 0 17.5,21.5 3.9999,3.9999 0 0 0 19.496,20.957 Z"/>
+ </g>
+</svg>

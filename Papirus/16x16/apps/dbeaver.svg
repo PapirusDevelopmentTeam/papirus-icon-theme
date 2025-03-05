@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <g style="enable-background:new" transform="translate(-16,-270)">
+  <circle fill="#e4e4e4" cx="24" cy="278" r="8"/>
+  <circle fill="#6d4c41" cx="28" cy="277" r="3"/>
+  <circle fill="#6d4c41" cx="20" cy="277" r="3"/>
+  <path fill="#a1887f" transform="translate(0,-244)" d="m24 517.99c-3.615 0-6 2.4426-6 5.4551v3.8281a8 8 0 0 0 6 2.72 8 8 0 0 0 6 -2.7188v-3.832c0-3.0125-2.385-5.4551-6-5.4551z"/>
+  <path fill="#fff" d="m22.5 282h1.5v2h-1.5z"/>
+  <path fill="#f2f2f2" d="m24 281.75h1.5v2.25h-1.5z"/>
+  <path fill="#6d4c41" d="m22.841 280c-0.552-0.02-0.841 1.11-0.841 1.78s0.448 1.22 1 1.22c0.50908 0 0.99327-0.54204 0.99327-0.54204h0.01412s0.48379 0.5413 0.99262 0.54204c0.552 0 1-0.55 1-1.22 0-0.67355-0.27119-1.6735-0.82322-1.6939z"/>
+  <path fill="#3e2723" d="m24.99 279.51c0.1 0.7-0.556 1.49-0.979 1.49-0.42323 0-1.101-0.78168-1.0005-1.4912 0.07699-0.54369 0.57725-0.50835 1.0005-0.50835 0.42323 0 0.90294-0.0245 0.9792 0.50835z"/>
+  <g transform="translate(0,1)">
+   <circle fill="#fefefe" cx="21.5" cy="276.5" r="1.5"/>
+   <circle fill="#333" cx="-21.25" cy="276.25" r=".75" transform="scale(-1,1)"/>
+  </g>
+  <g transform="translate(5 1)">
+   <circle fill="#fefefe" cx="21.5" cy="276.5" r="1.5"/>
+   <circle fill="#333" cx="-21.25" cy="276.25" r=".75" transform="scale(-1,1)"/>
+  </g>
+ </g>
+</svg>

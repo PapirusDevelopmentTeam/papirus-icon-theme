@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#407ec2" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <g opacity=".2">
+  <path d="m22 31v4h-11v4h26v-4h-11v-4h-4z"/>
+ </g>
+ <g style="fill:#3f3f3f">
+  <rect style="fill:#3f3f3f" width="4" height="6" x="22" y="30"/>
+  <rect style="fill:#3f3f3f" width="26" height="4" x="11" y="34"/>
+ </g>
+ <g opacity=".2" transform="translate(0,1)">
+  <circle cx="10" cy="36" r="4"/>
+  <circle cx="24" cy="36" r="4"/>
+  <circle cx="38" cy="36" r="4"/>
+ </g>
+ <circle fill="#f7870d" cx="10" cy="36" r="4"/>
+ <circle fill="#f7870d" cx="24" cy="36" r="4"/>
+ <circle fill="#f7870d" cx="38" cy="36" r="4"/>
+ <path opacity=".2" d="m15.295 9c-1.272 0-2.295 1.023-2.295 2.295v17.41c0 1.272 1.023 2.295 2.295 2.295h17.41c1.272 0 2.295-1.023 2.295-2.295v-17.41c0-1.272-1.023-2.295-2.295-2.295h-17.41zm2.705 5h12v12h-12v-12z"/>
+ <path style="fill:#ffe270" d="m15.295 8c-1.272 0-2.295 1.0231-2.295 2.295v17.41c0 1.272 1.023 2.295 2.295 2.295h17.41c1.272 0 2.295-1.023 2.295-2.295v-17.41c0-1.2719-1.023-2.295-2.295-2.295h-17.41zm2.705 5h12v12h-12v-12z"/>
+</svg>

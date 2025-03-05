@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="18" height="56" x="-60" y="4" rx="2.5" ry="2.5" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="18" height="56" x="-59" y="4" rx="2.5" ry="2.5" transform="matrix(0,-1,1,0,0,0)"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 40,47 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 46,47 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 52,47 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 34,47 4,6"/>
+ <circle style="opacity:0.2" cx="-23.5" cy="47.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="opacity:0.2" cx="-16.5" cy="47.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="opacity:0.2" cx="-9.5" cy="47.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="fill:#76ff03" cx="-23.5" cy="46.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="fill:#ffff00" cx="-16.5" cy="46.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="fill:#ffcd40" cx="-9.5" cy="46.5" r="2.5" transform="scale(-1,1)"/>
+ <rect style="opacity:0.2" width="18" height="56" x="-42" y="4" rx="2.5" ry="2.5" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="18" height="56" x="-41" y="4" rx="2.5" ry="2.5" transform="matrix(0,-1,1,0,0,0)"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 40,29 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 46,29 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 52,29 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 34,29 4,6"/>
+ <circle style="opacity:0.2" cx="-16.5" cy="29.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="opacity:0.2" cx="-9.5" cy="29.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="fill:#ffff00" cx="-16.5" cy="28.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="fill:#ffcd40" cx="-9.5" cy="28.5" r="2.5" transform="scale(-1,1)"/>
+ <rect style="opacity:0.2" width="18" height="56" x="-24" y="4" rx="2.5" ry="2.5" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="18" height="56" x="-23" y="4" rx="2.5" ry="2.5" transform="matrix(0,-1,1,0,0,0)"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 40,11 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 46,11 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 52,11 4,6"/>
+ <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 34,11 4,6"/>
+ <circle style="opacity:0.2" cx="-9.5" cy="11.5" r="2.5" transform="scale(-1,1)"/>
+ <circle style="fill:#ffcd40" cx="-9.5" cy="10.5" r="2.5" transform="scale(-1,1)"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 57.5,5 C 58.885,5 60,6.115 60,7.5 l 0,1 C 60,7.115 58.885,6 57.5,6 L 6.5,6 C 5.115,6 4,7.115 4,8.5 l 0,-1 C 4,6.115 5.115,5 6.5,5 Z"/>
+</svg>

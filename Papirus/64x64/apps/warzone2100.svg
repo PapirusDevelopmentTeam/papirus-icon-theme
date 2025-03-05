@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="fill:#3f3f3f" d="M 16,34 22,22 H 41.224 L 48,34 Z"/>
+ <rect style="opacity:0.2" width="36" height="18" x="14" y="12" rx="3" ry="3"/>
+ <rect style="opacity:0.2" width="48" height="18" x="8" y="33" rx="3" ry="3"/>
+ <rect style="fill:#8e8e8e" width="48" height="18" x="8" y="32" rx="3" ry="3"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 11,32 C 9.338,32 8,33.338 8,35 V 42 H 56 V 35 C 56,33.338 54.662,32 53,32 Z"/>
+ <rect style="opacity:0.2" width="14" height="22" x="46" y="35" rx="1.5" ry="1.5"/>
+ <rect style="opacity:0.2" width="14" height="22" x="4" y="35" rx="1.5" ry="1.5"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 11 32 C 9.338 32 8 33.338 8 35 L 8 36 C 8 34.338 9.338 33 11 33 L 53 33 C 54.662 33 56 34.338 56 36 L 56 35 C 56 33.338 54.662 32 53 32 L 11 32 z"/>
+ <rect style="fill:#4f4f4f" width="14" height="22" x="4" y="34" rx="1.5" ry="1.5"/>
+ <rect style="fill:#8e8e8e" width="36" height="18" x="14" y="11" rx="3" ry="3"/>
+ <rect style="fill:#4f4f4f" width="14" height="22" x="46" y="34" rx="1.5" ry="1.5"/>
+ <g style="fill:#3f3f3f" transform="matrix(2,0,0,2,0,1)">
+  <rect style="fill:#3f3f3f" width="3" height="3" x="8" y="6" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="12" y="6" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="17" y="6" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="21" y="6" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="21" y="10" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="17" y="10" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="12" y="10" rx=".75" ry=".75"/>
+  <rect style="fill:#3f3f3f" width="3" height="3" x="8" y="10" rx=".75" ry=".75"/>
+ </g>
+ <path style="opacity:0.2;fill:#ffffff" d="M 17 11 C 15.338 11 14 12.338 14 14 L 14 15 C 14 13.338 15.338 12 17 12 L 47 12 C 48.662 12 50 13.338 50 15 L 50 14 C 50 12.338 48.662 11 47 11 L 17 11 z"/>
+ <rect style="fill:#3f3f3f" width="14" height="5" x="4" y="49"/>
+ <rect style="fill:#3f3f3f" width="14" height="5" x="4" y="39"/>
+ <rect style="fill:#3f3f3f" width="14" height="5" x="46" y="44"/>
+ <path style="fill:#3f3f3f" d="M 47.5 34 C 46.669 34 46 34.669 46 35.5 L 46 39 L 60 39 L 60 35.5 C 60 34.669 59.331 34 58.5 34 L 47.5 34 z"/>
+ <path style="fill:#3f3f3f" d="M 46 54 L 46 54.5 C 46 55.331 46.669 56 47.5 56 L 58.5 56 C 59.331 56 60 55.331 60 54.5 L 60 54 L 46 54 z"/>
+</svg>

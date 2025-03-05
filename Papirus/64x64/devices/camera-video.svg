@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="6" height="36" x="7" y="15" rx="1.5" ry="1.385"/>
+ <rect style="opacity:0.2" width="45" height="56" x="13" y="5" rx="8.438" ry="8.4"/>
+ <rect style="fill:#4f4f4f" width="45" height="56" x="13" y="4" rx="8.438" ry="8.4"/>
+ <circle style="opacity:0.2" cx="-12.5" cy="-50.5" r="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#ff4d4d" cx="-11.5" cy="-50.5" r="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.4" cx="-30.5" cy="-35.5" r="11.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.2" cx="-31.5" cy="35.5" r="8.5" transform="rotate(-90)"/>
+ <circle style="fill:#00b1c4" cx="-30.5" cy="35.5" r="8.5" transform="rotate(-90)"/>
+ <circle style="opacity:0.2" cx="-31.5" cy="-35.5" r="4.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#70f4ff" cx="-30.5" cy="-35.5" r="4.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#3f3f3f" width="6" height="36" x="7" y="14" rx="1.5" ry="1.385"/>
+ <circle style="opacity:0.5" cx="18.5" cy="50.5" r="1.5"/>
+ <circle style="opacity:0.5" cx="24.5" cy="50.5" r="1.5"/>
+ <circle style="opacity:0.5" cx="30.5" cy="50.5" r="1.5"/>
+ <circle style="opacity:0.5" cx="36.5" cy="50.5" r="1.5"/>
+ <circle style="opacity:0.5" cx="21.5" cy="54.5" r="1.5"/>
+ <circle style="opacity:0.5" cx="27.5" cy="54.5" r="1.5"/>
+ <circle style="opacity:0.5" cx="33.5" cy="54.5" r="1.5"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 21.4375 4 C 16.763125 4 13 7.7467908 13 12.400391 L 13 13.400391 C 13 8.7467908 16.763125 5 21.4375 5 L 49.5625 5 C 54.236875 5 58 8.7467908 58 13.400391 L 58 12.400391 C 58 7.7467908 54.236875 4 49.5625 4 L 21.4375 4 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 50.5 9 A 2.5 2.5 0 0 0 48 11.5 A 2.5 2.5 0 0 0 48.052734 12.003906 A 2.5 2.5 0 0 1 50.5 10 A 2.5 2.5 0 0 1 52.947266 11.996094 A 2.5 2.5 0 0 0 53 11.5 A 2.5 2.5 0 0 0 50.5 9 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 35.5 22 A 8.5 8.5 0 0 0 27 30.5 A 8.5 8.5 0 0 0 27.021484 31.085938 A 8.5 8.5 0 0 1 35.5 23 A 8.5 8.5 0 0 1 43.978516 30.914062 A 8.5 8.5 0 0 0 44 30.5 A 8.5 8.5 0 0 0 35.5 22 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 35.5 26 A 4.5 4.5 0 0 0 31 30.5 A 4.5 4.5 0 0 0 31.033203 31.011719 A 4.5 4.5 0 0 1 35.5 27 A 4.5 4.5 0 0 1 39.966797 30.988281 A 4.5 4.5 0 0 0 40 30.5 A 4.5 4.5 0 0 0 35.5 26 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8.5 14 C 7.669 14 7 14.617689 7 15.384766 L 7 16.384766 C 7 15.617689 7.669 15 8.5 15 L 11.5 15 C 12.331 15 13 15.617689 13 16.384766 L 13 15.384766 C 13 14.617689 12.331 14 11.5 14 L 8.5 14 z"/>
+</svg>

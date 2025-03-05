@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="29" height="24" x="2" y="5" rx="1.45" ry="1.2"/>
+ <rect style="fill:#167abf" width="29" height="24" x="2" y="4" rx="1.45" ry="1.2"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3.4492188 4 C 2.6459187 4 2 4.5344189 2 5.1992188 L 2 6.1992188 C 2 5.5344189 2.6459187 5 3.4492188 5 L 29.550781 5 C 30.354081 5 31 5.5344189 31 6.1992188 L 31 5.1992188 C 31 4.5344189 30.354081 4 29.550781 4 L 3.4492188 4 z"/>
+ <path style="opacity:0.2" d="M 3.45,4 C 2.6467,4 2,4.5346487 2,5.1994486 V 26.800551 C 2,27.465351 2.6467,28 3.45,28 h 7.975 V 4 Z"/>
+ <path style="opacity:0.2" d="M 11.478516,2.9571519 C 10.650088,2.9690151 9.9881324,3.6502082 10,4.4786363 V 29.478636 c -0.028688,2.028484 3.028688,2.028484 3,0 V 4.4786363 C 13.012109,3.633379 12.323773,2.9450433 11.478516,2.9571519 Z M 16.5,7.9786363 c -2.028498,-0.028702 -2.028498,3.0287017 0,2.9999997 h 6 c 2.028498,0.0287 2.028498,-3.0287021 0,-2.9999997 z m 2,4.9999997 c -2.028484,-0.02869 -2.028484,3.028688 0,3 h 7 c 2.028484,0.02869 2.028484,-3.028688 0,-3 z m 0,5 c -2.028484,-0.02869 -2.028484,3.028688 0,3 h 7 c 2.028484,0.02869 2.028484,-3.028688 0,-3 z m -2,5 c -2.028484,-0.02869 -2.028484,3.028688 0,3 h 6 c 2.028484,0.02869 2.028484,-3.028688 0,-3 z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round" d="m 11.50015,3.5 v 25"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round" d="m 16.5,8.49985 h 6"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round" d="m 18.500364,13.49985 h 7"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round" d="m 18.500364,18.49985 h 7"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round" d="m 16.5,23.49985 h 6"/>
+</svg>

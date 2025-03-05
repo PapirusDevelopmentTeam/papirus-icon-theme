@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="fill:#ec8c38" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 21,20 21,2 C 21,1.446 20.554,1 20,1 l -9,0 0,20 9,0 c 0.554,0 1,-0.446 1,-1 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 21,2 C 21,1.446 20.554,1 20,1 L 2,1 Z"/>
+ <path style="opacity:0.2" d="m 2,21.5 c -0.554,0 -1,-0.446 -1,-1 L 1,20 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,0.5 c 0,0.554 -0.446,1 -1,1 l -18,0 z"/>
+ <g style="opacity:0.2" transform="translate(-1,0.5)">
+  <path d="M 7,5 A 4,4 0 0 0 3,9 4,4 0 0 0 7,13 4,4 0 0 0 11,9 4,4 0 0 0 7,5 Z M 7,7 A 2,2 0 0 1 9,9 2,2 0 0 1 7,11 2,2 0 0 1 5,9 2,2 0 0 1 7,7 Z"/>
+  <rect width="2" height="7" x="6" y="-18" transform="scale(1,-1)"/>
+  <rect width="2" height="2" x="8" y="-17" transform="scale(1,-1)"/>
+ </g>
+ <g style="fill:#ffef78" transform="translate(-1,0)">
+  <path style="fill:#ffef78" d="M 7,5 A 4,4 0 0 0 3,9 4,4 0 0 0 7,13 4,4 0 0 0 11,9 4,4 0 0 0 7,5 Z M 7,7 A 2,2 0 0 1 9,9 2,2 0 0 1 7,11 2,2 0 0 1 5,9 2,2 0 0 1 7,7 Z"/>
+  <rect style="fill:#ffef78" width="2" height="7" x="6" y="-18" transform="scale(1,-1)"/>
+  <rect style="fill:#ffef78" width="2" height="2" x="8" y="-17" transform="scale(1,-1)"/>
+ </g>
+</svg>

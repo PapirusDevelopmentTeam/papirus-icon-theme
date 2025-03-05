@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <defs>
+  <linearGradient id="linearGradient4282" x1="409.57" x2="409.57" y1="540.8" y2="506.8" gradientTransform="matrix(0.2353,0,0,0.2353,-64.134,-155.246)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#2a2c2f"/>
+   <stop offset="1" stop-color="#424649"/>
+  </linearGradient>
+ </defs>
+ <path style="opacity:0.2" d="M 61.96,31.828 A 30,30 0 0 1 32,61 30,30 0 0 1 2.04,32.172 30,30 0 0 0 2,33 30,30 0 0 0 32,63 30,30 0 0 0 62,33 30,30 0 0 0 61.96,31.828 Z"/>
+ <path style="fill:#4f4f4f" d="M 62,32 A 30,30 0 0 1 32,62 30,30 0 0 1 2,32 30,30 0 0 1 32,2 30,30 0 0 1 62,32 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 31.998047 2 A 30 30 0 0 0 2 32 A 30 30 0 0 0 2.0175781 32.511719 A 30 30 0 0 1 31.998047 3 L 32 3 A 30 30 0 0 1 61.974609 32.511719 A 30 30 0 0 0 61.998047 32 A 30 30 0 0 0 32 2 L 31.998047 2 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 15.3722,7.0636 C 7.3212,12.4326 2.0334,21.592 2.0334,32.0356 l 24,0 c 0,-2.4314 1.454,-4.5126 3.5332,-5.455 L 15.368,7.0654 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 48.628,56.936 C 56.6792,51.567 61.9668,42.4076 61.9668,31.964 l -24,0 c 0,2.4314 -1.454,4.5126 -3.5332,5.455 L 48.628,56.9366 Z"/>
+ <rect style="fill:#fe774b" width="24" height="24" x="20" y="20" ry="12"/>
+ <rect style="fill:url(#linearGradient4282)" width="8" height="8" x="28" y="-36" ry="4" transform="scale(1,-1)"/>
+ <path style="opacity:0.5;fill:#ffffff" d="M 32 22 C 26.46 22 22 26.46 22 32 C 22 37.54 26.46 42 32 42 C 37.54 42 42 37.54 42 32 C 42 26.46 37.54 22 32 22 z M 32 24 C 36.432 24 40 27.568 40 32 C 40 36.432 36.432 40 32 40 C 27.568 40 24 36.432 24 32 C 24 27.568 27.568 24 32 24 z"/>
+</svg>

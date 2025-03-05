@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect fill="#dcdcbe" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <g fill="#00008b" opacity=".1" transform="matrix(.5 0 0 .5 -1.25 -1)">
+  <g transform="translate(-17)">
+   <path transform="translate(17.5)" d="m6 4c-0.7411 0-1.379 0.4042-1.7246 1h1.7246v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h1.725c-0.346-0.5958-0.984-1-1.725-1h-36zm1 1h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm-30 5h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm-30 5h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm-30 5h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm-30 5h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm-30 5h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm-30 5h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4zm5 0h4v4h-4v-4z"/>
+  </g>
+ </g>
+ <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+ <g fill="#ff2f2f" transform="matrix(.5 0 0 .5 -1 -1)">
+  <rect width="4" height="1" x="4" y="24"/>
+  <rect width="4" height="1" x="10" y="24"/>
+  <rect width="4" height="1" x="16" y="24"/>
+  <rect width="4" height="1" x="22" y="24"/>
+  <rect width="4" height="1" x="28" y="24"/>
+  <rect width="4" height="1" x="34" y="24"/>
+  <rect width="4" height="1" x="40" y="24"/>
+ </g>
+ <path fill="none" stroke="#2e2e2e" stroke-linecap="round" stroke-linejoin="round" d="m3 14s5.397 3.5072 7.5 2c4.073-2.919-3.7508-10.906 1-12.5 3.136-1.0524 6.5 6.5 6.5 6.5"/>
+</svg>

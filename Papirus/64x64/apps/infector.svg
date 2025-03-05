@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <path style="opacity:0.2;fill-rule:evenodd" d="M 6.5,3 C 4.007,3 2,5.007 2,7.5 V 15 27 39 51 58.5 C 2,60.993 4.007,63 6.5,63 H 14 26 38 50 57.5 C 59.993,63 62,60.993 62,58.5 V 51 39 27 15 7.5 C 62,5.007 59.993,3 57.5,3 H 50 38 26 14 Z"/>
+ <path style="fill:#cccccc;fill-rule:evenodd" d="M 14,2 V 14 H 2 V 50 H 14 V 62 H 50 V 50 H 62 V 14 H 50 V 2 Z"/>
+ <path style="fill:#33d533;fill-rule:evenodd" d="M 6.5,2 C 4.007,2 2,4.007 2,6.5 V 14 H 14 V 2 Z"/>
+ <path style="fill:#33d533;fill-rule:evenodd" d="m 50,50 v 12 h 7.5 C 59.993,62 62,59.993 62,57.5 V 50 Z"/>
+ <path style="fill:#ff5b5b;fill-rule:evenodd" d="m 2,50 v 7.5 C 2,59.993 4.007,62 6.5,62 H 14 V 50 Z"/>
+ <path style="fill:#ff5b5b;fill-rule:evenodd" d="M 50,2 V 14 H 62 V 6.5 C 62,4.007 59.993,2 57.5,2 Z"/>
+ <path style="fill:#696969;fill-rule:evenodd" d="M 14,2 V 14 H 26 V 2 Z M 26,14 V 26 H 38 V 14 Z m 12,0 H 50 V 2 H 38 Z m 12,0 V 26 H 62 V 14 Z m 0,12 H 38 v 12 h 12 z m 0,12 V 50 H 62 V 38 Z m 0,12 H 38 V 62 H 50 Z M 38,50 V 38 H 26 V 50 Z M 26,50 H 14 V 62 H 26 Z M 14,50 V 38 H 2 V 50 Z M 14,38 H 26 V 26 H 14 Z M 14,26 V 14 H 2 v 12 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="M 2 14 L 2 15 L 14 15 L 14 14 L 2 14 z M 26 14 L 26 15 L 38 15 L 38 14 L 26 14 z M 50 14 L 50 15 L 62 15 L 62 14 L 50 14 z M 14 26 L 14 27 L 26 27 L 26 26 L 14 26 z M 38 26 L 38 27 L 50 27 L 50 26 L 38 26 z M 2 38 L 2 39 L 14 39 L 14 38 L 2 38 z M 26 38 L 26 39 L 38 39 L 38 38 L 26 38 z M 50 38 L 50 39 L 62 39 L 62 38 L 50 38 z M 14 50 L 14 51 L 26 51 L 26 50 L 14 50 z M 38 50 L 38 51 L 50 51 L 50 50 L 38 50 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 6.5 2 C 4.007 2 2 4.007 2 6.5 L 2 7.5 C 2 5.007 4.007 3 6.5 3 L 14 3 L 26 3 L 38 3 L 50 3 L 57.5 3 C 59.993 3 62 5.007 62 7.5 L 62 6.5 C 62 4.007 59.993 2 57.5 2 L 50 2 L 38 2 L 26 2 L 14 2 L 6.5 2 z"/>
+</svg>

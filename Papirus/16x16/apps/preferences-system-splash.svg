@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <path style="fill:#8a5ce7" d="M 0.8,1 C 0.3568,1 0,1.3468889 0,1.7777778 V 14.222222 C 0,14.653111 0.3568,15 0.8,15 H 15.2 C 15.6432,15 16,14.653111 16,14.222222 V 1.7777778 C 16,1.3468889 15.6432,1 15.2,1 Z"/>
+ <circle style="opacity:0.6;fill:#ffffff" cx="-8" cy="4" r="1" transform="scale(-1,1)"/>
+ <circle style="fill:#ffffff" cx="-8" cy="12" r="1" transform="scale(-1,1)"/>
+ <circle style="opacity:0.4;fill:#ffffff" cx="-8" cy="-12" r="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.8;fill:#ffffff" cx="-8" cy="-4" r="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.3;fill:#ffffff" cx="0" cy="-15.314" r="1" transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"/>
+ <circle style="opacity:0.7;fill:#ffffff" cx="0" cy="-7.314" r="1" transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"/>
+ <circle style="opacity:0.9;fill:#ffffff" cx="-11.314" cy="-4" r="1" transform="rotate(-135)"/>
+ <circle style="opacity:0.5;fill:#ffffff" cx="-11.314" cy="4" r="1" transform="rotate(-135)"/>
+</svg>

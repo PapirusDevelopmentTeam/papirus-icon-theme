@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <path style="opacity:0.2" d="M 12,5 C 7.534775,5 4,8.5347752 4,13 v 30 c 0,1.107998 0.8920023,2 2,2 h 36 c 1.107997,0 2,-0.892002 2,-2 V 13 C 44,8.5347752 40.465225,5 36,5 Z"/>
+ <path style="fill:#4f4f4f" d="M 12,4 C 7.534775,4 4,7.5347752 4,12 v 30 c 0,1.107998 0.8920023,2 2,2 h 36 c 1.107997,0 2,-0.892002 2,-2 V 12 C 44,7.5347752 40.465225,4 36,4 Z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 12 4 C 7.5347795 4 4 7.5347797 4 12 L 4 13 C 4 8.5347797 7.5347795 5 12 5 L 36 5 C 40.465221 5 44 8.5347797 44 13 L 44 12 C 44 7.5347797 40.465221 4 36 4 L 12 4 z"/>
+ <rect style="opacity:0.2" width="40" height="1" x="4" y="25" rx="0" ry="0"/>
+ <rect style="opacity:0.1;fill:#ffffff" width="40" height="1" x="4" y="26" rx="0" ry="0"/>
+ <path style="fill:none;stroke:#000000;stroke-width:6;stroke-linejoin:round;opacity:0.2" d="M 30,18 V 11 H 18 V 25 H 30 V 39 H 18 v -8"/>
+ <path style="fill:none;stroke:#d2f2ff;stroke-width:6;stroke-linejoin:round" d="M 30,17 V 10 H 18 V 24 H 30 V 38 H 18 v -8"/>
+ <circle style="opacity:0.2" cx="38" cy="13" r="2"/>
+ <circle style="fill:#666666" cx="38" cy="12" r="2"/>
+ <circle style="opacity:0.2" cx="10" cy="13" r="2"/>
+ <circle style="fill:#666666" cx="10" cy="12" r="2"/>
+ <circle style="opacity:0.2" cx="38" cy="39" r="2"/>
+ <circle style="fill:#666666" cx="38" cy="38" r="2"/>
+ <circle style="opacity:0.2" cx="10" cy="39" r="2"/>
+ <circle style="fill:#666666" cx="10" cy="38" r="2"/>
+ <circle style="opacity:0.2" cx="10" cy="12" r="1"/>
+ <circle style="opacity:0.2" cx="38" cy="12" r="1"/>
+ <circle style="opacity:0.2" cx="10" cy="38" r="1"/>
+ <circle style="opacity:0.2" cx="38" cy="38" r="1"/>
+</svg>

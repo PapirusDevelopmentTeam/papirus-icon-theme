@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <path style="fill:#6655e4" d="M 11,1 H 2 C 1.446,1 1,1.446 1,2 v 9 h 10 z"/>
+ <path style="fill:#2cbfeb" d="m 11,1 h 9 c 0.554,0 1,0.446 1,1 v 9 H 11 Z"/>
+ <path style="fill:#2cbfeb" d="M 11,21 H 2 C 1.446,21 1,20.554 1,20 v -9 h 10 z"/>
+ <path style="fill:#f7c73c" d="m 11,21 h 9 c 0.554,0 1,-0.446 1,-1 V 11 H 11 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
+ <path style="opacity:0.2" d="m 2,21.5 c -0.554,0 -1,-0.446 -1,-1 V 20 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 v 0.5 c 0,0.554 -0.446,1 -1,1 z"/>
+ <rect style="fill:#3f3f3f" width="14" height="14" x="4" y="4"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-linecap:round" d="M 6.5071212,14.99995 H 10.507121"/>
+ <path style="fill:none;stroke:#ffffff;stroke-linecap:round" d="M 6.5071212,14.5 H 10.507121"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round" d="m 6.5071212,8.99995 h 2.000002 m 0,2.000001 V 6.9999505 m -2.000002,4.0000005 v -4.0000005 0"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round" d="m 6.5071212,8.5 h 2.000002 m 0,2.000001 V 6.5000005 m -2.000002,4.0000005 v -4.0000005 0"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 10.507072,9.000001 c 0,0 2.000001,-0.23225 2.000001,0.999999 0,1.23225 -2.000001,1 -2.000001,1 m 4.9e-5,-4.00005 v 4.000001 m -4.9e-5,-1.988663 c 0,0 2.000001,0.23225 2.000001,-0.9999985 0,-1.232251 -2.000001,-1.0000005 -2.000001,-1.0000005 m 4.9e-5,4.00005 V 7.011338"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 10.507072,8.500051 c 0,0 2.000001,-0.2322505 2.000001,0.999999 0,1.23225 -2.000001,1 -2.000001,1 M 10.507121,6.5 v 4.000001 m -4.9e-5,-1.988663 c 0,0 2.000001,0.232251 2.000001,-0.9999985 0,-1.232251 -2.000001,-1.0000005 -2.000001,-1.0000005 m 4.9e-5,4.00005 V 6.511388"/>
+</svg>

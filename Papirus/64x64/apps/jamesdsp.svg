@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 58,31 V 53.3 C 58,57.65 56.65,59 52.3,59 H 11.7 C 7.35,59 6,57.65 6,53.3 V 47"/>
+ <rect style="fill:#ffffff" width="52" height="52" x="6" y="6"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 6,35 V 12.7 C 6,8.35 7.35,7 11.7,7 H 52.3 C 56.65,7 58,8.35 58,12.7 V 19"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 6,34 V 11.7 C 6,7.35 7.35,6 11.7,6 H 52.3 C 56.65,6 58,7.35 58,11.7 V 18"/>
+ <path style="fill:none;stroke:#c46fff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 58,30 V 52.3 C 58,56.65 56.65,58 52.3,58 H 11.7 C 7.35,58 6,56.65 6,52.3 V 46"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 32,16 V 48"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 18,16 V 48"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="M 46,16 V 48"/>
+ <circle style="opacity:0.2" cx="32" cy="42" r="6"/>
+ <circle style="fill:#c46fff" cx="32" cy="41" r="6"/>
+ <circle style="opacity:0.2" cx="18" cy="24" r="6"/>
+ <circle style="fill:#c46fff" cx="18" cy="23" r="6"/>
+ <circle style="opacity:0.2" cx="46" cy="31" r="6"/>
+ <circle style="fill:#c46fff" cx="46" cy="30" r="6"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 11.699219 3 C 9.2138762 3 6.8515045 3.3438082 5.0976562 5.0976562 C 3.3438082 6.8515044 3 9.2138762 3 11.699219 L 3 12.699219 C 3 10.213876 3.3438083 7.8515045 5.0976562 6.0976562 C 6.8515045 4.3438083 9.2138762 4 11.699219 4 L 52.300781 4 C 54.786123 4 57.148496 4.3438083 58.902344 6.0976562 C 60.656192 7.8515045 61 10.213876 61 12.699219 L 61 11.699219 C 61 9.2138762 60.656192 6.8515045 58.902344 5.0976562 C 57.148496 3.3438082 54.786123 3 52.300781 3 L 11.699219 3 z"/>
+</svg>

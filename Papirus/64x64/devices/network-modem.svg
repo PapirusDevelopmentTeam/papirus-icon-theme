@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="56" height="28" x="4" y="33" rx="4.2" ry="4.2"/>
+ <rect style="fill:#8e8e8e" width="34" height="6" x="4" y="-18" ry="3" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="56" height="28" x="4" y="32" rx="4.2" ry="4.2"/>
+ <circle style="opacity:0.2" cx="48" cy="47" r="6"/>
+ <circle style="fill:#c0f957" cx="48" cy="46" r="6"/>
+ <circle style="opacity:0.2" cx="32" cy="47" r="6"/>
+ <circle style="fill:#91af5b" cx="32" cy="46" r="6"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 15 4 C 13.338 4 12 5.338 12 7 L 12 8 C 12 6.338 13.338 5 15 5 C 16.662 5 18 6.338 18 8 L 18 7 C 18 5.338 16.662 4 15 4 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 8.1992188 32 C 5.8724189 32 4 33.872419 4 36.199219 L 4 37.199219 C 4 34.872419 5.8724189 33 8.1992188 33 L 55.800781 33 C 58.127581 33 60 34.872419 60 37.199219 L 60 36.199219 C 60 33.872419 58.127581 32 55.800781 32 L 8.1992188 32 z"/>
+</svg>

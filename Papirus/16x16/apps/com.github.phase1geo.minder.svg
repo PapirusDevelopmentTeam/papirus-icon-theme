@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" version="1.1">
+ <defs>
+  <path id="b1Uu1ewGb" d="m 490.72,139.23 c 4.1,0 7.42,3.32 7.42,7.42 0,13.65 0,47.18 0,60.83 0,4.1 -3.32,7.42 -7.42,7.42 -27.3,0 -101.77,0 -129.07,0 -4.1,0 -7.43,-3.32 -7.43,-7.42 0,-13.65 0,-47.18 0,-60.83 0,-4.1 3.33,-7.42 7.43,-7.42 27.3,0 101.77,0 129.07,0 z"/>
+  <path id="b24bcEG6b5" d="m 297.34,214.9 c 5.52,0 10,4.48 10,10 0,13.14 0,42.55 0,55.68 0,5.52 -4.48,10 -10,10 -36.79,0 -137.14,0 -173.92,0 -5.52,0 -10,-4.48 -10,-10 0,-13.13 0,-42.54 0,-55.68 0,-5.52 4.48,-10 10,-10 36.78,0 137.13,0 173.92,0 z"/>
+  <path id="d4HHCachsN" d="m 490.72,290.58 c 4.1,0 7.42,3.32 7.42,7.42 0,13.65 0,47.18 0,60.83 0,4.1 -3.32,7.43 -7.42,7.43 -27.3,0 -101.77,0 -129.07,0 -4.1,0 -7.43,-3.33 -7.43,-7.43 0,-13.65 0,-47.18 0,-60.83 0,-4.1 3.33,-7.42 7.43,-7.42 27.3,0 101.77,0 129.07,0 z"/>
+ </defs>
+ <ellipse style="fill:#e4e4e4" cx="10.297" cy="4.273" rx="2" ry="2"/>
+ <circle style="fill:#e4e4e4" cx="6" cy="4" r="4"/>
+ <circle style="fill:#e4e4e4" cx="11.5" cy="3.5" r="2.5"/>
+ <circle style="fill:#e4e4e4" cx="3.5" cy="7.5" r="3.5"/>
+ <circle style="fill:#e4e4e4" cx="13" cy="6" r="3"/>
+ <circle style="fill:#e4e4e4" cx="12" cy="8" r="3"/>
+ <circle style="fill:#e4e4e4" cx="7.5" cy="8" r="4"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:0.72727275" d="M 6,6 11,3.5093675"/>
+ <use style="fill:#68b723" width="100%" height="100%" x="0" y="0" transform="matrix(0.02084491,0,0,0.02643055,2.616316,-0.67992519)" xlink:href="#b1Uu1ewGb"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:0.72727275" d="m 6,6 5,2.4873762"/>
+ <use style="fill:#c6262e" width="100%" height="100%" x="0" y="0" transform="matrix(0.02062706,0,0,0.02642706,0.66047885,-0.67917519)" xlink:href="#b24bcEG6b5"/>
+ <use style="fill:#3689e6" width="100%" height="100%" x="0" y="0" transform="matrix(0.02084491,0,0,0.02642706,2.616316,-0.679175)" xlink:href="#d4HHCachsN"/>
+ <circle style="fill:#e4e4e4" cx="10.5" cy="13.5" r="1.5"/>
+ <circle style="fill:#e4e4e4" cx="6" cy="15" r="1"/>
+</svg>

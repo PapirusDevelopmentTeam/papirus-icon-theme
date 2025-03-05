@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#995d27" width="32" height="40" x="-40" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="M 36,25 C 36,13 31,12 21,12 11,12 6,13 6,25 6,37 11,38 21,38 31,38 36,37 36,25 Z"/>
+ <path style="fill:#57c2ff" d="m36 24c0-12-5-13-15-13s-15 1-15 13 5 13 15 13 15-1 15-13z"/>
+ <path fill="#fff" style="opacity:0.1" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <circle style="opacity:0.2" cx="39.5" cy="15.5" r="2.5"/>
+ <circle style="fill:#ffffff" cx="39.5" cy="14.5" r="2.5"/>
+ <circle style="opacity:0.2" cx="39.5" cy="21.5" r="2.5"/>
+ <circle style="fill:#ffffff" cx="39.5" cy="20.5" r="2.5"/>
+ <path fill="#323232" d="m37 30v1h5v-1h-5zm0 2v1h5v-1h-5zm0 2v1h5v-1h-5z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 21 11 C 11 11 6 12 6 24 C 6 24.176632 6.0115053 24.328103 6.0136719 24.5 C 6.1586984 12.993555 11.147193 12 21 12 C 30.852807 12 35.841302 12.993555 35.986328 24.5 C 35.988495 24.328103 36 24.176632 36 24 C 36 12 31 11 21 11 z"/>
+</svg>

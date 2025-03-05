@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:none;stroke:#7d7d7d;stroke-width:3" d="M 10,2 6,6"/>
+ <rect style="fill:#7d7d7d" width="4" height="8.5" x="-7" y="6" ry="0" transform="scale(-1,1)"/>
+ <path style="fill:#909090" d="M 7,13 H 3 C 2.446,13 2,13.446 2,14 2,14.554 2.446,15 3,15 H 7 C 7.554,15 8,14.554 8,14 8,13.446 7.554,13 7,13 Z"/>
+ <path style="fill:#4f4f4f" d="M 8,14 C 9,14 9,15 9,15 V 16 H 1 V 15 C 1,14 2,14 2,14 Z"/>
+ <path style="fill:none;stroke:#7d7d7d;stroke-width:2;stroke-linecap:square" d="M 10,2 12,4"/>
+ <rect style="opacity:0.2" width="4" height="4" x="-12" y="1" ry="2" transform="scale(-1,1)"/>
+ <rect style="opacity:0.2" width="6" height="6" x="-8" y="5" ry="3" transform="scale(-1,1)"/>
+ <rect style="fill:#909090" width="6" height="6" x="-8" y="4" ry="3" transform="scale(-1,1)"/>
+ <rect style="fill:#4f4f4f" width="4" height="4" x="-7" y="5" ry="2" transform="scale(-1,1)"/>
+ <rect style="opacity:0.1;fill:#ffffff" width="2" height="2" x="-6" y="6" ry="1" transform="scale(-1,1)"/>
+ <rect style="fill:#909090" width="4" height="4" x="-12" y="0" ry="2" transform="scale(-1,1)"/>
+ <path style="fill:none;stroke:#4f4f4f;stroke-linecap:round;stroke-linejoin:round" d="M 13.5,7.5 11.5,7.497 V 5.497 L 13.5,3.497 H 15.5 V 5.497"/>
+ <rect style="fill:#4f4f4f" width="2" height="2" x="-11" y="1" ry="1" transform="scale(-1,1)"/>
+</svg>

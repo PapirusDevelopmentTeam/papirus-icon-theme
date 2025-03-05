@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="fill:#ffcf51" width="13" height="4" x="2" y="26" rx="1" ry="1"/>
+ <rect style="fill:#ffb900" width="13" height="4" x="2" y="22" rx="1" ry="1"/>
+ <rect style="fill:#ffcf51" width="13" height="4" x="2" y="18" rx="1" ry="1"/>
+ <rect style="fill:#ffb900" width="13" height="4" x="2" y="14" rx="1" ry="1"/>
+ <rect style="fill:#ffcf51" width="13" height="4" x="2" y="10" rx="1" ry="1"/>
+ <rect style="fill:#ffb900" width="13" height="4" x="2" y="6" rx="1" ry="1"/>
+ <rect style="fill:#ffcf51" width="13" height="4" x="2" y="2" rx="1" ry="1"/>
+ <rect style="fill:#ffb900" width="13" height="4" x="17" y="26" rx="1" ry="1"/>
+ <rect style="fill:#ffcf51" width="13" height="4" x="17" y="22" rx="1" ry="1"/>
+ <rect style="fill:#ffb900" width="13" height="4" x="17" y="18" rx="1" ry="1"/>
+ <rect style="fill:#ffcf51" width="13" height="4" x="17" y="14" rx="1" ry="1"/>
+ <path style="opacity:0.2" d="m 2,5 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 V 5 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,6 2,5.554 2,5 Z"/>
+ <path style="opacity:0.2" d="m 2,9 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 V 9 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,10 2,9.554 2,9 Z"/>
+ <path style="opacity:0.2" d="m 2,13 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,14 2,13.554 2,13 Z"/>
+ <path style="opacity:0.2" d="m 2,17 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,18 2,17.554 2,17 Z"/>
+ <path style="opacity:0.2" d="m 2,21 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,22 2,21.554 2,21 Z"/>
+ <path style="opacity:0.2" d="m 2,25 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,26 2,25.554 2,25 Z"/>
+ <path style="opacity:0.2" d="m 2,29 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,30 2,29.554 2,29 Z"/>
+ <path style="opacity:0.2" d="m 17,17 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 18 c -0.554,0 -1,-0.446 -1,-1 z"/>
+ <path style="opacity:0.2" d="m 17,21 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 18 c -0.554,0 -1,-0.446 -1,-1 z"/>
+ <path style="opacity:0.2" d="m 17,25 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 18 c -0.554,0 -1,-0.446 -1,-1 z"/>
+ <path style="opacity:0.2" d="m 17,29 v 1 c 0,0.554 0.446,1 1,1 h 11 c 0.554,0 1,-0.446 1,-1 v -1 c 0,0.554 -0.446,1 -1,1 H 18 c -0.554,0 -1,-0.446 -1,-1 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 4 C 2 3.446 2.446 3 3 3 L 14 3 C 14.554 3 15 3.446 15 4 L 15 3 C 15 2.446 14.554 2 14 2 L 3 2 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 18,14 c -0.554,0 -1,0.446 -1,1 v 1 c 0,-0.554 0.446,-1 1,-1 h 11 c 0.554,0 1,0.446 1,1 v -1 c 0,-0.554 -0.446,-1 -1,-1 z"/>
+</svg>

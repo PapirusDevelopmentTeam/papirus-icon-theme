@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="opacity:0.2" width="19" height="19" x="-20.5" y="-20" rx=".95" ry=".95" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="19" height="19" x="-20" y="-20" rx=".95" ry=".95" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="M 6.9765625,4.5 C 6.230529,4.5000746 5.5866946,4.9032 5.2304688,5.5 H 16 v -1 z M 5,6.5 v 1 H 9.097656 16 v -1 z m 0,2 v 1 h 4 v -1 z m 0,2 v 1 h 4 v -1 z m 0,2 v 1 h 4 v -1 z m 0,2 v 1 h 11 v -1 z m 0.3027344,2 c 0.3562258,0.5968 1.0000602,0.999926 1.7460937,1 H 16 v -1 z"/>
+ <path style="fill:#00ff03" d="M 6.9765625,4 C 6.230529,4.0000746 5.5866946,4.4032 5.2304688,5 H 16 V 4 Z"/>
+ <path style="fill:#00ff73" d="M 5,6 V 7 H 9.097656 16 V 6 Z"/>
+ <path style="fill:#00ff8a" d="M 5,8 V 9 H 9 V 8 Z"/>
+ <path style="fill:#00feb8" d="m 5,10 v 1 h 4 v -1 z"/>
+ <path style="fill:#00fef2" d="m 5,12 v 1 h 4 v -1 z"/>
+ <path style="fill:#00dbfe" d="m 5,14 v 1 h 11 v -1 z"/>
+ <path style="fill:#00b8fe" d="m 5.3027344,16 c 0.3562258,0.5968 1.0000602,0.999926 1.7460937,1 H 16 v -1 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 1.9492188,1 C 1.4229188,1 1,1.4229188 1,1.9492188 v 0.5 C 1,1.9229188 1.4229188,1.5 1.9492188,1.5 H 19.050781 C 19.577081,1.5 20,1.9229188 20,2.4492188 v -0.5 C 20,1.4229188 19.577081,1 19.050781,1 Z"/>
+</svg>

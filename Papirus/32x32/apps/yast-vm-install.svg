@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="28" height="25" x="2" y="5" rx="1.4" ry="1.4"/>
+ <rect style="fill:#c0bfbc" width="28" height="6.5" x="2" y="3" rx="1.4" ry="1.4"/>
+ <path style="fill:#81d4fa" d="M 2,8 V 27.6 C 2,28.375 2.625,29 3.4,29 H 28.6 C 29.375,29 30,28.375 30,27.6 V 8 Z"/>
+ <rect style="opacity:0.2" width="28" height="1" x="2" y="8"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3.4004 3 C 2.6248 3 2 3.6248 2 4.4004 L 2 5.4004 C 2 4.6248 2.6248 4 3.4004 4 L 28.6 4 C 29.375 4 30 4.6248 30 5.4004 L 30 4.4004 C 30 3.6248 29.375 3 28.6 3 L 3.4004 3 z"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="24" cy="7" r="1"/>
+ <circle style="fill:#2e3436" cx="24" cy="6" r="1"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="27" cy="7" r="1"/>
+ <circle style="fill:#2e3436" cx="27" cy="6" r="1"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="21" cy="7" r="1"/>
+ <circle style="fill:#2e3436" cx="21" cy="6" r="1"/>
+ <rect opacity=".2" width="12" height="8" x="10" y="15" rx=".75" ry=".75"/>
+ <rect opacity=".2" width="3" height="3" x="3" y="23" rx=".375" ry=".375"/>
+ <rect opacity=".2" width="3" height="3" x="3" y="11" rx=".375" ry=".375"/>
+ <rect fill="#ffffff" width="3" height="3" x="3" y="10" rx=".375" ry=".375"/>
+ <rect opacity=".2" width="3" height="3" x="3" y="15" rx=".375" ry=".375"/>
+ <rect fill="#ffffff" width="3" height="3" x="3" y="14" rx=".375" ry=".375"/>
+ <rect opacity=".2" width="3" height="3" x="3" y="19" rx=".375" ry=".375"/>
+ <rect fill="#ffffff" width="3" height="3" x="3" y="18" rx=".375" ry=".375"/>
+ <rect fill="#ffffff" width="3" height="3" x="3" y="22" rx=".375" ry=".375"/>
+ <rect style="fill:#253951" width="12" height="3" x="10" y="14" rx=".75" ry=".75"/>
+ <path style="fill:#ffffff" d="M 10,16 V 21.25 C 10,21.665 10.335,22 10.75,22 H 21.25 C 21.665,22 22,21.665 22,21.25 V 16 Z"/>
+ <circle style="opacity:0.2" cx="24.5" cy="24.5" r="7.5"/>
+ <circle style="fill:#607d8b" cx="24.5" cy="23.5" r="7.5"/>
+ <path fill="#ffffff" d="M 26,19 V 24 H 28 L 24.5,28 21,24 H 23 V 19 Z"/>
+</svg>

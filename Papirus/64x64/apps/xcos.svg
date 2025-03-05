@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="opacity:0.2" transform="scale(-1,1)" d="m -57.2,9 h 50.4 c 1.5512,0 2.8,1.338 2.8,3 v 41 c 0,1.662 -1.2488,3 -2.8,3 H -57.2 C -58.7512,56 -60,54.662 -60,53 V 12 c 0,-1.662 1.2488,-3 2.8,-3 z"/>
+ <path style="fill:#e74c3c" transform="scale(-1,1)" d="m -57.2,9 h 50.4 c 1.5512,0 2.8,1.338 2.8,3 v 40 c 0,1.662 -1.2488,3 -2.8,3 H -57.2 C -58.7512,55 -60,53.662 -60,52 V 12 c 0,-1.662 1.2488,-3 2.8,-3 z"/>
+ <rect style="fill:#3f3f3f" width="28" height="28" x="10" y="18" rx="1.4" ry="1.4"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round" d="m 12,33.000399 h 4.6 l 2.8,-6 2.8,14.9998 4.2,-16.9998 2.8,8 h 7"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linejoin:round" d="m 12,32 h 4.6 L 19.4,26 22.2,40.9998 26.4,24 l 2.8,8 h 7"/>
+ <path style="opacity:0.2" d="m 49,15 a 4.999999,4.999999 0 0 0 -5,5 4.999999,4.999999 0 0 0 5,5 4.999999,4.999999 0 0 0 5,-5 4.999999,4.999999 0 0 0 -5,-5 z m -4,14 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+ <g transform="scale(2)">
+  <circle style="fill:#ffffff" cx="22.5" cy="15.5" r="1.5"/>
+  <circle style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" cx="24.5" cy="9.5" r="2.5"/>
+  <circle style="fill:#ffffff" cx="22.5" cy="19.5" r="1.5"/>
+  <circle style="fill:#ffffff" cx="22.5" cy="23.5" r="1.5"/>
+  <circle style="fill:#ffffff" cx="26.5" cy="15.5" r="1.5"/>
+  <circle style="fill:#ffffff" cx="26.5" cy="19.5" r="1.5"/>
+  <circle style="fill:#3f3f3f" cx="26.5" cy="23.5" r="1.5"/>
+ </g>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6.8007812,9 C 5.2495812,9 4,10.338 4,12 v 1 C 4,11.338 5.2495812,10 6.8007812,10 H 57.199219 C 58.750419,10 60,11.338 60,13 V 12 C 60,10.338 58.750419,9 57.199219,9 Z"/>
+</svg>

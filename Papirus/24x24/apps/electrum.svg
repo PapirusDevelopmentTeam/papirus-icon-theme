@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <circle style="fill:#e4e4e4" cx="12" cy="12" r="10"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 12,2 a 10,10 0 0 0 -10,10 10,10 0 0 0 0.01075,0.291 10,10 0 0 1 9.989,-9.791 10,10 0 0 1 9.9895,9.709 10,10 0 0 0 0.01074,-0.20895 10,10 0 0 0 -10,-10 z"/>
+ <path style="opacity:0.2" d="M 21.9895,12.2 A 10,10 0 0 1 12,22 10,10 0 0 1 2.011,12.25 10,10 0 0 0 2,12.5 a 10,10 0 0 0 10,10 10,10 0 0 0 10,-10 10,10 0 0 0 -0.01075,-0.29105 z"/>
+ <ellipse style="fill:none;stroke:#1488c4;stroke-width:1.01925898" cx="12" cy="12" rx="8.5" ry="5.5"/>
+ <ellipse style="fill:none;stroke:#1488c4;stroke-width:1.01925898" cx="-4.392" cy="16.392" rx="8.5" ry="5.5" transform="rotate(-60)"/>
+ <ellipse style="fill:none;stroke:#1488c4;stroke-width:1.01925898" cx="-16.392" cy="-4.392" rx="8.5" ry="5.5" transform="matrix(-0.5,-0.8660254,-0.8660254,0.5,0,0)"/>
+ <path style="fill:#1488c4" d="M 10 8 L 10 9 L 9 9 L 9 10 L 10 10 L 10 14 L 9 14 L 9 15 L 10 15 L 10 16 L 11 16 L 11 15 L 12 15 L 12 16 L 13 16 L 13 15 L 14 15 C 14.554 15 15 14.554 15 14 L 15 12 C 15 11.446 14.554 11 14 11 L 14 10 C 14 9.446 13.554 9 13 9 L 13 8 L 12 8 L 12 9 L 11 9 L 11 8 L 10 8 z M 11 10 L 13 10 L 13 11 L 11 11 L 11 10 z M 11 12 L 14 12 L 14 14 L 11 14 L 11 12 z"/>
+</svg>

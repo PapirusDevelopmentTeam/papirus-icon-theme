@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <defs>
+  <linearGradient id="linearGradient4721" x1="24.756" x2="24.102" y1="26.512" y2="5.924" gradientTransform="matrix(.34375 0 0 .33334 3.75 2.5)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <rect fill="#e4e4e4" width="16" height="20" x="-20" y="2" rx="1" ry="1" transform="scale(-1,1)"/>
+ <rect fill="url(#linearGradient4721)" opacity=".15" width="11" height="7" x="6.5" y="4.5" rx=".206" ry=".2"/>
+ <rect style="fill:#333333" width="10" height="6" x="7" y="5" rx="0" ry="0"/>
+ <path fill="#fff" opacity=".2" d="m5 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-14z"/>
+ <path opacity=".2" d="m4 21v0.5c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1z"/>
+ <path fill="#fff" opacity=".2" d="m7.4 13.5c-0.3324 0-0.3724 0.26875-0.4 0.6v1.4h-1.4c-0.3324 0-0.6 0.068-0.6 0.4v1.2c0 0.3324 0.26844 0.37632 0.6 0.4h1.4v1.4c0 0.3324 0.0676 0.6 0.4 0.6h1.2c0.3324 0 0.4-0.268 0.4-0.6v-1.4h1.4c0.3324 0 0.6-0.0676 0.6-0.4v-1.2c0-0.332-0.2676-0.4-0.6-0.4h-1.4v-1.4c0-0.332-0.0676-0.6-0.4-0.6z"/>
+ <path fill="#4f4f4f" d="m7.4 13c-0.3324 0-0.3724 0.269-0.4 0.6v1.4h-1.4c-0.3324 0-0.6 0.068-0.6 0.4v1.2c0 0.3324 0.26844 0.37632 0.6 0.4h1.4v1.4c0 0.332 0.0676 0.6 0.4 0.6h1.2c0.3324 0 0.4-0.268 0.4-0.6v-1.4h1.4c0.3324 0 0.6-0.068 0.6-0.4v-1.2c0-0.332-0.268-0.4-0.6-0.4h-1.4v-1.4c0-0.332-0.0676-0.6-0.4-0.6z"/>
+ <circle fill="#fff" opacity=".2" cx="17" cy="15.5" r="1"/>
+ <circle fill="#fff" opacity=".2" cx="14" cy="15.5" r="1"/>
+ <circle fill="#fff" opacity=".2" cx="17" cy="18.5" r="1"/>
+ <circle fill="#fff" opacity=".2" cx="14" cy="18.5" r="1"/>
+ <circle fill="#ef5646" cx="17" cy="15" r="1"/>
+ <circle fill="#ef5646" cx="14" cy="15" r="1"/>
+ <circle fill="#eb9200" cx="17" cy="18" r="1"/>
+ <circle fill="#eb9200" cx="14" cy="18" r="1"/>
+</svg>

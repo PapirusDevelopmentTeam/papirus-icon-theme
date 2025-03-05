@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
+ <rect style="fill:#ffc83b" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="40" height="1" x="4" y="30"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6,4 C 4.892,4 4,4.892 4,6 V 7 C 4,5.892 4.892,5 6,5 h 36 c 1.108,0 2,0.892 2,2 V 6 C 44,4.892 43.108,4 42,4 Z"/>
+ <rect style="fill:#be8a06" width="40" height="12" x="4" y="18"/>
+ <rect style="opacity:0.2" width="40" height="1" x="4" y="18"/>
+ <circle style="fill:#1ac52f" cx="24" cy="24" r="7"/>
+ <path style="opacity:0.3" d="M 18 18 L 18 22 L 22 22 L 22 18 L 18 18 z M 22 22 L 22 26 L 26 26 L 26 22 L 22 22 z M 26 22 L 30 22 L 30 18 L 26 18 L 26 22 z M 26 26 L 26 30 L 30 30 L 30 26 L 26 26 z M 22 26 L 18 26 L 18 30 L 22 30 L 22 26 z"/>
+ <path style="opacity:0.2" d="m 23.99,14.999302 a 10,10 0 0 0 -10,10 10,10 0 0 0 10,10 10,10 0 0 0 5.208984,-1.478516 l 5.3125,5.826172 a 2.0005465,2.0005465 0 1 0 2.957032,-2.695312 l -5.34375,-5.857422 A 10,10 0 0 0 33.99,24.999302 a 10,10 0 0 0 -10,-10 z m 0,4 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"/>
+ <g transform="translate(1.9900003,1.9989006)">
+  <path style="fill:#ffffff" d="M 22,12 A 10,10 0 0 0 12,22 10,10 0 0 0 22,32 10,10 0 0 0 32,22 10,10 0 0 0 22,12 Z m 0,4 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"/>
+  <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round" d="M 28.310137,28.760862 34,35"/>
+ </g>
+</svg>

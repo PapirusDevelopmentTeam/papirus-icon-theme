@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#5584bb" width="40" height="40" x="4" y="4" rx="20" ry="20"/>
+ <path fill="#fff" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168-0.004 0.333 0 0.5 0.2644-10.846 9.088-19.5 20-19.5s19.736 8.654 20 19.5c0.004-0.167 0-0.332 0-0.5 0-11.08-8.92-20-20-20z"/>
+ <path opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
+ <path opacity=".2" d="m18 14.609a12 12 0 0 0 -5.235 14.569l20.48-11.824a12 12 0 0 0 -15.245 -2.745zm-3.245 18.039a12 12 0 0 0 15.245 2.745 12 12 0 0 0 5.235 -14.569l-20.48 11.824z"/>
+ <path fill="#fff" d="m18 13.608a12 12 0 0 0 -5.235 14.569l20.48-11.824a12 12 0 0 0 -15.245 -2.745zm-3.245 18.039a12 12 0 0 0 15.245 2.745 12 12 0 0 0 5.235 -14.569l-20.48 11.824z"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <rect width="6" height="2" x="21" y="7"/>
+  <rect width="6" height="2" x="21" y="39"/>
+  <rect width="6" height="2" x="21" y="-41" transform="rotate(90)"/>
+  <rect width="6" height="2" x="21" y="-9" transform="rotate(90)"/>
+  <rect width="6" height="2" x="30.94" y="-17" transform="rotate(45)"/>
+  <rect width="6" height="2" x="30.94" y="15" transform="rotate(45)"/>
+  <rect width="6" height="2" x="-3" y="-50.94" transform="rotate(135)"/>
+  <rect width="6" height="2" x="-3" y="-18.94" transform="rotate(135)"/>
+ </g>
+ <g fill="#fff">
+  <rect width="6" height="2" x="21" y="7"/>
+  <rect width="6" height="2" x="21" y="39"/>
+  <rect width="6" height="2" x="21" y="-41" transform="rotate(90)"/>
+  <rect width="6" height="2" x="21" y="-9" transform="rotate(90)"/>
+  <rect width="6" height="2" x="30.94" y="-17" transform="rotate(45)"/>
+  <rect width="6" height="2" x="30.94" y="15" transform="rotate(45)"/>
+  <rect width="6" height="2" x="-3" y="-50.94" transform="rotate(135)"/>
+  <rect width="6" height="2" x="-3" y="-18.94" transform="rotate(135)"/>
+ </g>
+</svg>

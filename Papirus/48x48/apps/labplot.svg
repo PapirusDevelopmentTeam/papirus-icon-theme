@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <rect style="fill:#3b555e" width="40" height="36" x="4" y="6" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;opacity:0.2" d="M 6,24.51 C 19.01,24.51 19.76,15.04 25.5,15 31.24,14.96 30.99,24.51 44,24.51 M 6,25.49 C 19.01,25.49 19.76,39.95 25.5,40 31.24,40.04 30.99,25.49 44,25.49"/>
+ <path style="fill:none;stroke:#7e7e7e;stroke-width:2" d="M 6,24.49 C 19.01,24.49 19.76,38.95 25.5,39 31.24,39.04 30.99,24.49 44,24.49"/>
+ <path style="fill:none;stroke:#1588e4;stroke-width:2" d="m 6,23.51 c 13.01,0 13.76,-9.47 19.5,-9.51 5.74,-0.04 5.49,9.51 18.5,9.51"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;opacity:0.2" d="M 6,24.51 C 19.01,24.51 19.76,10.05 25.5,10 31.24,9.96 30.99,24.51 44,24.51"/>
+ <path style="fill:none;stroke:#e95656;stroke-width:2" d="M 6,23.51 C 19.01,23.51 19.76,9.05 25.5,9 31.24,8.96 30.99,23.51 44,23.51"/>
+ <path style="opacity:0.2" d="m 6,9 v 15 2 15 H 8 V 26 h 3 v 2 h 2 v -2 h 11 v 2 h 2 v -2 h 13 v 2 h 2 v -2 h 3 v -2 h -3 v -2 h -2 v 2 H 26 v -2 h -2 v 2 H 13 v -2 h -2 v 2 H 8 V 9 Z"/>
+ <rect style="fill:#ffffff" width="2" height="32" x="6" y="8"/>
+ <rect style="fill:#ffffff" width="38" height="2" x="6" y="23"/>
+ <rect style="fill:#ffffff" width="2" height="6" x="11" y="21"/>
+ <rect style="fill:#ffffff" width="2" height="6" x="24" y="21"/>
+ <rect style="fill:#ffffff" width="2" height="6" x="39" y="21"/>
+</svg>

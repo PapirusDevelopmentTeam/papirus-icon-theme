@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g style="fill:#8e8e8e" transform="translate(-1,-1)">
+  <rect width="1" height="19" x="15" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="13" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="11" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="9" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="17" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="19" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="7" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="5" y="-21" transform="rotate(90)"/>
+  <rect width="1" height="19" x="12" y="3"/>
+  <rect width="1" height="19" x="10" y="3"/>
+  <rect width="1" height="19" x="8" y="3"/>
+  <rect width="1" height="19" x="6" y="3"/>
+  <rect width="1" height="19" x="14" y="3"/>
+  <rect width="1" height="19" x="16" y="3"/>
+  <rect width="1" height="19" x="18" y="3"/>
+  <rect width="1" height="19" x="4" y="3"/>
+ </g>
+ <rect style="opacity:0.2" width="17" height="17" x="-20.5" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#00b7f8" width="17" height="17" x="-20" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="M 12.495257,5.5 7,12.5 H 9.354073 L 8.0047431,18.5 13.5,11.5 h -2.354073 z"/>
+ <path style="fill:#ffffff;fill-rule:evenodd" d="M 12.495257,5 7,12 H 9.354073 L 8.0047431,18 13.5,11 h -2.354073 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2.9453,3 C 2.4221,3 2,3.4221 2,3.9453 v 0.5 C 2,3.9221 2.4221,3.5 2.9453,3.5 H 18.055 C 18.578,3.5 19,3.9221 19,4.4453 v -0.5 C 19,3.4221 18.578,3 18.055,3 Z"/>
+</svg>

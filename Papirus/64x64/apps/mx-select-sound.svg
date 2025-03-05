@@ -1,0 +1,36 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-.005 -.024)">
+  <path d="m14.667 15.001c-1.478 0-2.667 1.235-2.667 2.769v30.46c0 1.534 1.189 2.77 2.667 2.77h5.333v-6h12v6h25.334c1.476 0 2.666-1.236 2.666-2.77v-30.46c0-1.535-1.19-2.77-2.666-2.77z" style="opacity:.2"/>
+  <path d="m14.667 14.001c-1.478 0-2.667 1.235-2.667 2.769v30.46c0 1.534 1.189 2.77 2.667 2.77h5.333v-6h12v6h25.334c1.476 0 2.666-1.236 2.666-2.77v-30.46c0-1.535-1.19-2.77-2.666-2.77z" style="fill:#419d45"/>
+  <rect x="30" y="24" width="12" height="12" rx="2.4000001" ry="2.4000001" style="fill:#4e4e4e"/>
+  <path d="m6.0233 11.024h3.9817v41.981" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000000"/>
+  <path d="m6.0233 10.024h3.9817v41.981" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#b7b7b7"/>
+  <g transform="translate(0,1)" style="opacity:.2">
+   <rect x="34" y="44" width="4" height="8"/>
+   <rect x="40" y="44" width="4" height="8"/>
+   <rect x="46" y="44" width="4" height="8"/>
+   <rect x="52" y="44" width="4" height="8"/>
+  </g>
+  <g>
+   <rect x="34" y="44" width="4" height="8" style="fill:#f8c44e"/>
+   <rect x="40" y="44" width="4" height="8" style="fill:#f8c44e"/>
+   <rect x="46" y="44" width="4" height="8" style="fill:#f8c44e"/>
+   <rect x="52" y="44" width="4" height="8" style="fill:#f8c44e"/>
+  </g>
+  <g>
+   <rect x="32" y="21" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect x="38" y="21" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect x="32" y="35" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect x="38" y="35" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect transform="rotate(90)" x="26" y="-45" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect transform="rotate(90)" x="32" y="-45" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect transform="rotate(90)" x="26" y="-31" width="2" height="4" style="fill:#b7b7b7"/>
+   <rect transform="rotate(90)" x="32" y="-31" width="2" height="4" style="fill:#b7b7b7"/>
+  </g>
+  <path d="m6.0234 8.0234a2.0002 2.0002 0 0 0-1.9785 2.4866 2.0002 2.0002 0 0 1 1.9785-1.4866h3.9826a2.0002 2.0002 0 0 1 2 1.9996v-1a2.0002 2.0002 0 0 0-2-1.9996z" style="fill:#ffffff;opacity:.2"/>
+  <path d="m57.334 14-42.666 2e-3c-1.478 0-2.668 1.234-2.668 2.768v1c0-1.534 1.19-2.768 2.668-2.768l42.666-2e-3c1.476 0 2.666 1.235 2.666 2.77v-1c0-1.535-1.19-2.77-2.666-2.77z" style="fill:#ffffff;opacity:.2"/>
+ </g>
+ <circle cx="47" cy="47.1992" r="16" style="opacity:.2"/>
+ <circle cx="47" cy="46.1992" r="16" style="fill:#ff9907"/>
+ <path d="m44 38v4 5.341797a3.5 3.5 0 0 0-1.5-0.341797 3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-0.039062-0.5h0.039062v-8h7v5.341797a3.5 3.5 0 0 0-1.5-0.341797 3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-0.039062-0.5h0.039062v-8-3-1h-9-2z" style="fill:#ffffff"/>
+</svg>

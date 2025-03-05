@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="2" ry="2"/>
+ <rect style="fill:#80deea" width="20" height="20" x="2" y="2" rx="2" ry="2"/>
+ <rect style="opacity:0.1" width="16" height="16" x="4" y="4.5" rx="1.714" ry="1.714"/>
+ <rect style="fill:#4dd0e1" width="16" height="16" x="4" y="4" rx="1.714" ry="1.714"/>
+ <rect style="opacity:0.1" width="12" height="12" x="6" y="6.5" rx="1.286" ry="1.286"/>
+ <rect style="fill:#26c6da" width="12" height="12" x="6" y="6" rx="1.286" ry="1.286"/>
+ <rect style="opacity:0.1" width="8" height="8" x="8" y="8.5"/>
+ <rect style="fill:#00acc1" width="1.6" height="1.6" x="9.6" y="8"/>
+ <rect style="fill:#26c6da" width="1.6" height="1.6" x="12.8" y="8"/>
+ <rect style="fill:#00acc1" width="1.6" height="1.6" x="11.2" y="9.6"/>
+ <rect style="fill:#00bcd4" width="1.6" height="1.6" x="9.6" y="11.2"/>
+ <rect style="fill:#84ffff" width="1.6" height="1.6" x="12.8" y="11.2"/>
+ <rect style="fill:#00b8d4" width="1.6" height="1.6" x="11.2" y="12.8"/>
+ <rect style="fill:#00bcd4" width="1.6" height="1.6" x="9.6" y="14.4"/>
+ <rect style="fill:#00838f" width="1.6" height="1.6" x="12.8" y="14.4"/>
+ <rect style="fill:#00bcd4" width="1.6" height="1.6" x="8" y="8"/>
+ <rect style="fill:#00acc1" width="1.6" height="1.6" x="8" y="9.6"/>
+ <rect style="fill:#0097a7" width="1.6" height="1.6" x="11.2" y="8"/>
+ <rect style="fill:#00838f" width="1.6" height="1.6" x="14.4" y="8"/>
+ <rect style="fill:#00acc1" width="1.6" height="1.6" x="14.4" y="9.6"/>
+ <rect style="fill:#00e5ff" width="1.6" height="1.6" x="12.8" y="9.6"/>
+ <rect style="fill:#0097a7" width="1.6" height="1.6" x="9.6" y="9.6"/>
+ <rect style="fill:#00838f" width="1.6" height="1.6" x="8" y="11.2"/>
+ <rect style="fill:#00838f" width="1.6" height="1.6" x="11.2" y="11.2"/>
+ <rect style="fill:#00b8d4" width="1.6" height="1.6" x="14.4" y="11.2"/>
+ <rect style="fill:#00acc1" width="1.6" height="1.6" x="14.4" y="14.4"/>
+ <rect style="fill:#00e5ff" width="1.6" height="1.6" x="11.2" y="14.4"/>
+ <rect style="fill:#00acc1" width="1.6" height="1.6" x="8" y="14.4"/>
+ <rect style="fill:#00bcd4" width="1.6" height="1.6" x="8" y="12.8"/>
+ <rect style="fill:#00838f" width="1.6" height="1.6" x="9.6" y="12.8"/>
+ <rect style="fill:#0097a7" width="1.6" height="1.6" x="12.8" y="12.8"/>
+ <rect style="fill:#84ffff" width="1.6" height="1.6" x="14.4" y="12.8"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 4,2 C 2.892,2 2,2.892 2,4 v 0.5 c 0,-1.108 0.892,-2 2,-2 h 16 c 1.108,0 2,0.892 2,2 V 4 C 22,2.892 21.108,2 20,2 Z"/>
+</svg>

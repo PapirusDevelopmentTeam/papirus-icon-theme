@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 29.5,15.5 v 11.15 c 0,2.175 -0.675,2.85 -2.85,2.85 H 6.35 C 4.175,29.5 3.5,28.825 3.5,26.65 V 23.5"/>
+ <rect style="fill:#ffffff" width="25" height="25" x="4" y="3"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 3.5,17.5 V 6.35 C 3.5,4.175 4.175,3.5 6.35,3.5 h 20.3 c 2.175,0 2.85,0.675 2.85,2.85 V 9.5"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 3.5,16.5 V 5.35 C 3.5,3.175 4.175,2.5 6.35,2.5 h 20.3 c 2.175,0 2.85,0.675 2.85,2.85 V 8.5"/>
+ <path style="fill:none;stroke:#c46fff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 29.5,14.5 v 11.15 c 0,2.175 -0.675,2.85 -2.85,2.85 H 6.35 C 4.175,28.5 3.5,27.825 3.5,25.65 V 22.5"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 16.5,7.5 v 16"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 9.5,7.5 v 16"/>
+ <path style="fill:none;stroke:#4256e3;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 23.5,7.5 v 16"/>
+ <circle style="opacity:0.2" cx="16.5" cy="21.5" r="2.5"/>
+ <circle style="fill:#c46fff" cx="16.5" cy="20.5" r="2.5"/>
+ <circle style="opacity:0.2" cx="9.5" cy="11.5" r="2.5"/>
+ <circle style="fill:#c46fff" cx="9.5" cy="10.5" r="2.5"/>
+ <circle style="opacity:0.2" cx="23.5" cy="15.5" r="2.5"/>
+ <circle style="fill:#c46fff" cx="23.5" cy="14.5" r="2.5"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6.3496094 1 C 5.1069382 1 3.9257522 1.1719041 3.0488281 2.0488281 C 2.1719041 2.9257522 2 4.1069382 2 5.3496094 L 2 6.3496094 C 2 5.1069382 2.1719041 3.9257522 3.0488281 3.0488281 C 3.9257522 2.1719041 5.1069382 2 6.3496094 2 L 26.650391 2 C 27.893062 2 29.074248 2.1719041 29.951172 3.0488281 C 30.828096 3.9257522 31 5.1069382 31 6.3496094 L 31 5.3496094 C 31 4.1069382 30.828096 2.9257522 29.951172 2.0488281 C 29.074248 1.1719041 27.893062 1 26.650391 1 L 6.3496094 1 z"/>
+</svg>

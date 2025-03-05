@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <path style="opacity:0.2" d="m 4.0000004,52.000071 0,1.999972 C 4.0000004,55.662019 5.2495825,57 6.8007604,57 L 57.20004,57 C 58.750017,57 60,55.662019 60,54.000043 l 0,-1.999972 c 0,1.661977 -1.249983,2.999958 -2.79996,2.999958 l -50.3992796,0 c -1.5503779,0 -2.79996,-1.337981 -2.79996,-2.999958 z"/>
+ <rect style="fill:#826f3d" width="56" height="47.999" x="-60" y="8" rx="2.8" ry="3" transform="scale(-1,1)"/>
+ <rect style="opacity:0.2" width="47.999" height="28" x="8" y="13"/>
+ <rect style="fill:#ffffff" width="47.999" height="28" x="8" y="12"/>
+ <g style="fill:#ff6e6e" transform="matrix(1.9999714,0,0,1.9999714,2.000029,8.294e-4)">
+  <rect width="2" height="6" x="12" y="-13" transform="matrix(0,1,-1,0,0,0)"/>
+  <rect width="2" height="6" x="8" y="-13" transform="matrix(0,1,-1,0,0,0)"/>
+  <rect width="2" height="10" x="7" y="8"/>
+ </g>
+ <circle style="fill:#01d900" cx="52.999" cy="49" r="3"/>
+ <rect style="opacity:0.4" width="28" height="2" x="8" y="42"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6.8007812 8 C 5.2496034 8 4 9.3380239 4 11 L 4 12 C 4 10.338024 5.2496034 9 6.8007812 9 L 57.199219 9 C 58.749196 9 60 10.338024 60 12 L 60 11 C 60 9.3380239 58.749196 8 57.199219 8 L 6.8007812 8 z"/>
+ <g style="fill:#ff6e6e" transform="matrix(0,1.9999714,-1.9999714,0,65.999114,10.000686)">
+  <rect width="2" height="6" x="16" y="-13" transform="matrix(0,1,-1,0,0,0)"/>
+  <rect width="2" height="6" x="12" y="-13" transform="matrix(0,1,-1,0,0,0)"/>
+  <rect width="2" height="6" x="8" y="-13" transform="matrix(0,1,-1,0,0,0)"/>
+  <rect width="2" height="10" x="7" y="8"/>
+ </g>
+ <rect style="opacity:0.4" width="28" height="2" x="8" y="46"/>
+ <rect style="opacity:0.4" width="28" height="2" x="8" y="50"/>
+</svg>

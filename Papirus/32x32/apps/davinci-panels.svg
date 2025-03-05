@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="26" height="28" x="3" y="3" rx="2.167" ry="2.1"/>
+ <rect style="fill:#2c4865" width="26" height="28" x="3" y="2" rx="2.167" ry="2.1"/>
+ <circle style="opacity:0.2" cx="16" cy="17" r="9"/>
+ <path style="fill:#1ac63a" d="M 16,16 H 7 c 0,-4.970563 4.029437,-9 9,-9 z"/>
+ <path style="fill:#2186ff" d="M 16,16 H 7 c 0,4.970563 4.029437,9 9,9 z"/>
+ <path style="fill:#f54646" d="m 16,16 h 9 c 0,4.970563 -4.029437,9 -9,9 z"/>
+ <path style="fill:#ffeb23" d="m 16,16 h 9 C 25,11.029437 20.970563,7 16,7 Z"/>
+ <circle style="fill:#3e658e" cx="16" cy="16" r="8"/>
+ <circle style="fill:#243c56" cx="16" cy="16" r="4"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 5.1660156 2 C 3.9656822 2 3 2.9362094 3 4.0996094 L 3 5.0996094 C 3 3.9362094 3.9656822 3 5.1660156 3 L 26.833984 3 C 28.034318 3 29 3.9362094 29 5.0996094 L 29 4.0996094 C 29 2.9362094 28.034318 2 26.833984 2 L 5.1660156 2 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 16 7 A 9 9 0 0 0 7 16 A 9 9 0 0 0 7.0214844 16.576172 A 9 9 0 0 1 16 8 A 9 9 0 0 1 24.978516 16.423828 A 9 9 0 0 0 25 16 A 9 9 0 0 0 16 7 z"/>
+</svg>

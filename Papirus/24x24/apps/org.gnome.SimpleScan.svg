@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="20" height="16" x="2.5" y="-20" rx="1.43" ry="1.6" transform="rotate(90)"/>
+ <rect style="fill:#8d8d8d" width="20" height="16" x="2" y="-20" rx="1.43" ry="1.6" transform="rotate(90)"/>
+ <path style="opacity:0.2" d="m 6,13.5 v 6.382812 C 6,19.882812 6,20.5 6.5625,20.5 H 14 l 4,-4 v -3 z"/>
+ <path style="fill:#01dfd8" d="M 6,13 V 4.3749997 C 6,4.3749997 6,4 6.387096,4 H 17.612904 C 18,4 18,4.3749997 18,4.3749997 V 13"/>
+ <path style="fill:#e4e4e4" d="m 6,13 h 12 v 3 L 15.1875,17.323529 14,20 H 6.5625 C 6,20 6,19.382353 6,19.382353 Z"/>
+ <path style="fill:#cccccc" d="M 14,20 V 16.545455 C 14,16.545455 14,16 14.545455,16 H 18 Z"/>
+ <rect style="opacity:0.2" width="20" height="2" x="2" y="12.5" rx=".5" ry=".5"/>
+ <rect style="fill:#ffffff" width="20" height="2" x="2" y="12" rx=".5" ry=".5"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6.386719,4 C 5.999623,4 6,4.375 6,4.375 v 0.5 C 6,4.875 5.999623,4.5 6.386719,4.5 H 17.613281 C 18.000377,4.5 18,4.875 18,4.875 v -0.5 C 18,4.375 18.000377,4 17.613281,4 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 5.5996095,2 C 4.7132091,2 4,2.637628 4,3.4296875 v 0.5 C 4,3.137628 4.7132091,2.5 5.5996095,2.5 H 18.40039 C 19.286791,2.5 20,3.137628 20,3.9296875 v -0.5 C 20,2.637628 19.286791,2 18.40039,2 Z"/>
+</svg>

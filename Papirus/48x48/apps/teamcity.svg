@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="fill:#6655e4" d="m24 4h-18c-1.108 0-2 0.892-2 2v18h20z"/>
+ <path style="fill:#21d789" d="m24 4h18c1.108 0 2 0.892 2 2v18h-20z"/>
+ <path style="fill:#14ddb1" d="m24 44h-18c-1.108 0-2-0.892-2-2v-18h20z"/>
+ <path style="fill:#2086e7" d="m24 44h18c1.108 0 2-0.892 2-2v-18h-20z"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <rect style="fill:#3f3f3f" width="28" height="28" x="10" y="10"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:bevel" d="m 28,23.999658 c 0,0 0,1.000003 -2,1.000003 -1.999999,0 -1.999999,-2.000001 -1.999999,-4.000003 0,-1.999997 0,-3.999998 1.999999,-3.999998 2,0 2,0.999998 2,0.999998"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:bevel" d="m 28,22.999758 c 0,0 0,1.000003 -2,1.000003 -1.999999,0 -1.999999,-2.000001 -1.999999,-4.000003 0,-1.999997 0,-3.999998 1.999999,-3.999998 2,0 2,0.999998 2,0.999998"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" d="m 16,32.9999 h 8"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 16,32 h 8"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round" d="m 15.999998,16.9999 h 3.999999 M 18,24.999902 V 16.9999"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:round" d="m 15.999998,16 h 3.999999 M 18,24.000002 V 16"/>
+</svg>

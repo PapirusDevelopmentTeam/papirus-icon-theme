@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#e4e4e4" width="9" height="16" x="5" y="0" rx=".8" ry=".8"/>
+ <path style="fill:#fecd38;fill-rule:evenodd" width="3.5" height="3.5" x="9.5" y="11.5" d="M 9.5000124,11.500001 H 13.000005 V 14 a 1.000001,1.000001 135 0 1 -1.000001,1.000001 H 9.5000124 Z"/>
+ <rect style="fill:#df574d" width="3.5" height="3.5" x="9.5" y="8"/>
+ <rect style="fill:#79de7d" width="3.5" height="3.5" x="9.5" y="4.5"/>
+ <path style="fill:#c2352a;fill-rule:evenodd" width="3.5" height="3.5" x="9.5" y="1" d="m 9.5000124,1 h 2.4999926 a 1,1 45 0 1 1,1 V 4.5 H 9.5000124 Z"/>
+ <path style="fill:#e97e10;fill-rule:evenodd" width="3.5" height="3.5" x="6" y="11.5" d="m 6.0000052,11.500001 h 3.4999929 v 3.5 H 7.0000062 A 1.000001,1.000001 45 0 1 6.0000052,14 Z"/>
+ <rect style="fill:#7767c0" width="3.5" height="3.5" x="6" y="8"/>
+ <rect style="fill:#5d5d5d" width="3.5" height="3.5" x="6" y="4.5"/>
+ <path style="fill:#50beee;fill-rule:evenodd" width="3.5" height="3.5" x="6" y="1" d="M 7.0000052,1 H 9.4999981 V 4.5 H 6.0000052 V 2 a 1,1 135 0 1 1,-1 z"/>
+ <path style="fill:#ffca28" d="M 8,6.4999964 C 8,8.4328553 6.4328606,9.9999927 4.5,9.9999927 2.5671374,9.9999927 1,8.4328553 1,6.4999964 1,4.5671374 2.5671374,3 4.5,3 6.4328606,3 8,4.5671374 8,6.4999964 Z m 0,0"/>
+ <path fill="none" stroke="#241f31" stroke-width=".314" d="M 3,5 4,6 3,7"/>
+ <path fill="none" stroke="#241f31" stroke-width=".314" d="M 6,5 5,6 6,7"/>
+ <path style="fill:#c2352a" d="M 3.0859375,8.5 A 1.5,1.5 0 0 0 4.5,9.5 1.5,1.5 0 0 0 5.9140625,8.5 Z"/>
+ <path style="fill:#ffffff" d="m 3,8 a 1.5,1.5 0 0 0 0.089844,0.5 H 5.9101562 A 1.5,1.5 0 0 0 6,8 Z"/>
+</svg>

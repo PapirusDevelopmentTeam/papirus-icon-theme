@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-1,-1)">
+  <path style="opacity:0.2" d="M 5,2.5 C 4.446,2.5 4,2.946 4,3.5 V 21.5 C 4,22.054 4.446,22.5 5,22.5 H 19 C 19.554,22.5 20,22.054 20,21.5 V 8.5 L 14.5,8 14,2.5 Z"/>
+  <path style="fill:#f3ae16" d="M 5,2 C 4.446,2 4,2.446 4,3 V 21 C 4,21.554 4.446,22 5,22 H 19 C 19.554,22 20,21.554 20,21 V 8 L 14.5,7.5 14,2 Z"/>
+  <path fill="#ffffff" opacity=".2" d="M 5,2 C 4.446,2 4,2.446 4,3 V 3.5 C 4,2.946 4.446,2.5 5,2.5 H 14 L 19.5,8 H 20 L 14,2 Z"/>
+  <path style="opacity:0.2" d="M 14,2.5 V 7.5 C 14,8.0523 14.448,8.5 15,8.5 H 20 Z"/>
+  <path style="fill:#f8ce71" d="M 14,2 V 7 C 14,7.5523 14.448,8 15,8 H 20 Z"/>
+  <path style="opacity:0.2" d="M 9,10.5 C 7.34,10.5 6,11.84 6,13.5 6,15.16 7.34,16.5 9,16.5 9.4,16.5 9.79,16.42 10.16,16.26 L 8,19.5 H 16 L 14.67,17.5 H 18 V 12.5 H 13 V 15 L 12,13.5 C 12,11.84 10.66,10.5 9,10.5 Z M 14,13.5 H 17 V 16.5 H 14 Z"/>
+  <circle style="fill:#fafafa" cx="9" cy="13" r="3"/>
+  <path style="fill:#fafafa" d="M 13,12 V 17 H 18 V 12 Z M 14,13 H 17 V 16 H 14 Z"/>
+  <path style="fill:#fde9b6" d="M 12,13 16,19 H 8 Z"/>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="22" height="40" x="18" y="5" rx="2" ry="2"/>
+ <rect style="fill:#e4e4e4" width="22" height="40" x="18" y="4" rx="2" ry="2"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 20 4 C 18.892 4 18 4.892 18 6 L 18 7 C 18 5.892 18.892 5 20 5 L 38 5 C 39.108 5 40 5.892 40 7 L 40 6 C 40 4.892 39.108 4 38 4 L 20 4 z"/>
+ <path style="fill:#fecd38;fill-rule:evenodd" width="9" height="9" x="29" y="33" d="m 29,33 h 9 v 7 a 2,2 135 0 1 -2,2 h -7 z"/>
+ <rect style="fill:#df574d" width="9" height="9" x="29" y="24"/>
+ <rect style="fill:#79de7d" width="9" height="9" x="29" y="15"/>
+ <path style="fill:#c2352a;fill-rule:evenodd" width="9" height="9" x="29" y="6" d="m 29,6 h 7 a 2,2 45 0 1 2,2 v 7 h -9 z"/>
+ <path style="fill:#e97e10;fill-rule:evenodd" width="9" height="9" x="20" y="33" d="m 20,33 h 9 v 9 h -7 a 2,2 45 0 1 -2,-2 z"/>
+ <rect style="fill:#7767c0" width="9" height="9" x="20" y="24"/>
+ <rect style="fill:#5d5d5d" width="9" height="9" x="20" y="15"/>
+ <path style="fill:#50beee;fill-rule:evenodd" width="9" height="9" x="20" y="6" d="m 22,6 h 7 v 9 H 20 V 8 a 2,2 135 0 1 2,-2 z"/>
+ <path style="fill-rule:evenodd;opacity:0.2" d="M 22 6 A 2 2 0 0 0 20 8 L 20 9 A 2 2 0 0 1 22 7 L 29 7 L 36 7 A 2 2 0 0 1 38 9 L 38 8 A 2 2 0 0 0 36 6 L 29 6 L 22 6 z"/>
+ <rect style="fill:#ffffff;opacity:0.2" width="9" height="1" x="20" y="15"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="9" height="1" x="20" y="24"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="9" height="1" x="20" y="33"/>
+ <rect style="opacity:0.2" width="9" height="1" x="29" y="15"/>
+ <rect style="opacity:0.2" width="9" height="1" x="29" y="24"/>
+ <rect style="opacity:0.2" width="9" height="1" x="29" y="33"/>
+ <path style="opacity:0.2" d="m 25,21 c 0,4.970215 -4.029785,9 -9,9 -4.970215,0 -9,-4.029785 -9,-9 0,-4.970215 4.029785,-9 9,-9 4.970215,0 9,4.029785 9,9 z m 0,0"/>
+ <path style="fill:#ffca28" d="m 25,20 c 0,4.970215 -4.029785,9 -9,9 -4.970215,0 -9,-4.029785 -9,-9 0,-4.970215 4.029785,-9 9,-9 4.970215,0 9,4.029785 9,9 z m 0,0"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 16 11 C 11.029785 11 7 15.029785 7 20 C 7 20.167907 7.0045928 20.334358 7.0136719 20.5 C 7.2733409 15.762493 11.197692 12 16 12 C 20.802308 12 24.726659 15.762493 24.986328 20.5 C 24.995407 20.334358 25 20.167907 25 20 C 25 15.029785 20.970215 11 16 11 z"/>
+ <path fill="none" stroke="#241f31" stroke-width=".786" d="m 12,16 2,2 -2,2"/>
+ <path fill="none" stroke="#241f31" stroke-width=".786" d="m 20,16 -2,2 2,2"/>
+ <path style="fill:#c2352a" d="M 12.128906,24 A 4,4 0 0 0 16,27 4,4 0 0 0 19.871094,24 Z"/>
+ <path style="fill:#ffffff" d="m 12,23 a 4,4 0 0 0 0.134766,1 h 7.730468 A 4,4 0 0 0 20,23 Z"/>
+</svg>

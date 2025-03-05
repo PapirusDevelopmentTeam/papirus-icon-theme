@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <path style="opacity:0.2" d="M 7.3333,8.0004 C 6.5947,8.0004 6,8.6179 6,9.385 V 24.615 C 6,25.382 6.5947,26 7.3333,26 H 10 V 23 H 16 V 26 H 28.667 C 29.405,26 30,25.382 30,24.615 V 9.385 C 30,8.6175 29.405,8 28.667,8 Z"/>
+ <path fill="#419d45" d="m7.3333 7c-0.7386 0-1.3333 0.6175-1.3333 1.3846v15.23c0 0.767 0.5947 1.385 1.3333 1.385h2.6667v-3h6v3h12.667c0.738 0 1.333-0.618 1.333-1.385v-15.23c0-0.7675-0.595-1.385-1.333-1.385z"/>
+ <g style="fill:#b7b7b7">
+  <rect width="1" height="2" x="16" y="10"/>
+  <rect width="1" height="2" x="19" y="10"/>
+  <rect width="1" height="2" x="16" y="18"/>
+  <rect width="1" height="2" x="19" y="18"/>
+  <rect width="1" height="2" x="13" y="-23" transform="rotate(90)"/>
+  <rect width="1" height="2" x="16" y="-23" transform="rotate(90)"/>
+  <rect width="1" height="2" x="13" y="-15" transform="rotate(90)"/>
+  <rect width="1" height="2" x="16" y="-15" transform="rotate(90)"/>
+ </g>
+ <rect fill="#4e4e4e" width="6" height="6" x="15" y="12" rx="1.2" ry="1.2"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 3,6 H 5 V 27"/>
+ <path style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 3,5 H 5 V 26"/>
+ <g style="opacity:0.2" transform="translate(0,1)">
+  <rect width="2" height="4" x="17" y="22"/>
+  <rect width="2" height="4" x="20" y="22"/>
+  <rect width="2" height="4" x="23" y="22"/>
+  <rect width="2" height="4" x="26" y="22"/>
+ </g>
+ <g style="fill:#f8c44e">
+  <rect width="2" height="4" x="17" y="22"/>
+  <rect width="2" height="4" x="20" y="22"/>
+  <rect width="2" height="4" x="23" y="22"/>
+  <rect width="2" height="4" x="26" y="22"/>
+ </g>
+ <path fill="#fff" opacity=".1" d="m7.334 7c-0.7387 0-1.334 0.6177-1.334 1.3848v1c0-0.7671 0.5953-1.3848 1.334-1.3848h21.332c0.739 0 1.334 0.6177 1.334 1.3848v-1c0-0.7671-0.595-1.3848-1.334-1.3848h-21.332z"/>
+ <path fill="#fff" style="opacity:0.2" d="m3 4a1.0001 1.0001 0 0 0 -0.8828 1.4941 1.0001 1.0001 0 0 1 0.8828 -0.5078h2a1.0001 1.0001 0 0 1 1 1v-0.9863a1.0001 1.0001 0 0 0 -1 -1h-2z"/>
+</svg>

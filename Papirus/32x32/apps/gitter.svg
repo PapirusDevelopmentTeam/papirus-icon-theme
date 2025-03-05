@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect fill="#e11966" width="28" height="28" x="2" y="2" rx="1.4" ry="1.4"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <rect width="3" height="14" x="7" y="6"/>
+  <rect width="3" height="17" x="12" y="10"/>
+  <rect width="3" height="17" x="17" y="10"/>
+  <rect width="3" height="10" x="22" y="10"/>
+ </g>
+ <g fill="#fff">
+  <rect width="3" height="14" x="7" y="6"/>
+  <rect width="3" height="17" x="12" y="10"/>
+  <rect width="3" height="17" x="17" y="10"/>
+  <rect width="3" height="10" x="22" y="10"/>
+ </g>
+ <path fill="#fff" opacity=".2" d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z"/>
+ <path opacity=".2" d="m2 28.6v1c0 0.775 0.6248 1.4 1.4004 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-1c0 0.775-0.625 1.4-1.4 1.4h-25.2c-0.7752 0-1.4-0.625-1.4-1.4z"/>
+</svg>

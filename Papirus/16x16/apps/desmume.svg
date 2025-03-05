@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#9293ff" width="16" height="16" x="0" y="0" rx=".8" ry=".8"/>
+ <path style="fill:#6469bb" d="M 16,15.2 V 8 H 0 v 7.2 C 0,15.6432 0.3568,16 0.8,16 h 14.4 c 0.4432,0 0.8,-0.3568 0.8,-0.8 z"/>
+ <path style="fill:#3e3e3e" d="M 3,1 H 13 V 7 H 3 M 3,1"/>
+ <path style="fill:#3e3e3e" d="m 5,9 h 6 v 6 H 5 M 5,9"/>
+ <g style="opacity:0.2" transform="matrix(0.4,0,0,0.4,-1.4,-1.5999985)">
+  <rect width="4" height="1" x="6" y="15"/>
+  <rect width="4" height="1" x="6" y="17"/>
+  <rect width="4" height="1" x="6" y="19"/>
+ </g>
+ <g style="opacity:0.2" transform="matrix(0.4,0,0,0.4,11,-1.5999985)">
+  <rect width="4" height="1" x="6" y="15"/>
+  <rect width="4" height="1" x="6" y="17"/>
+  <rect width="4" height="1" x="6" y="19"/>
+ </g>
+ <rect style="opacity:0.2" width="16" height="1" x="0" y="8"/>
+ <path style="fill:#e4e4e4" d="m 2,10 v 2 H 0 v 1 h 2 v 2 H 3 V 13 H 5 V 12 H 3 v -2 z"/>
+ <path style="fill:#e4e4e4" d="m 13,10 v 1 h 1 v -1 z m -2,2 v 1 h 1 v -1 z m 4,0 v 1 h 1 v -1 z m -2,2 v 1 h 1 v -1 z"/>
+</svg>

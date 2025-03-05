@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="fill:#1e88e5" width="20" height="20" x="2" y="2" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 3,2 C 2.446,2 2,2.446 2,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 22,3 C 22,2.446 21.554,2 21,2 L 3,2 Z"/>
+ <path style="opacity:0.2" d="m 3,22.5 c -0.554,0 -1,-0.446 -1,-1 L 2,21 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,0.5 c 0,0.554 -0.446,1 -1,1 l -18,0 z"/>
+ <g style="opacity:0.2" transform="translate(0,0.5)">
+  <rect width="4" height="4" x="4" y="4" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="4" y="10" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="4" y="16" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="10" y="4" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="10" y="10" rx=".5" ry=".5"/>
+ </g>
+ <g style="fill:#ffffff">
+  <rect width="4" height="4" x="4" y="4" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="4" y="10" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="4" y="16" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="10" y="4" rx=".5" ry=".5"/>
+  <rect width="4" height="4" x="10" y="10" rx=".5" ry=".5"/>
+ </g>
+</svg>

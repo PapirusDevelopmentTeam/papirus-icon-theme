@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="fill:#5895dc" width="24" height="17" x="4" y="1" rx="1.275" ry="1.275"/>
+ <rect style="opacity:0.1" width="24" height="17" x="4" y="3" rx="1.275" ry="1.275"/>
+ <rect style="fill:#89e058" width="24" height="17" x="4" y="4" rx="1.275" ry="1.275"/>
+ <rect style="opacity:0.1" width="24" height="17" x="4" y="6" rx="1.275" ry="1.275"/>
+ <rect style="fill:#ffcd54" width="24" height="17" x="4" y="7" rx="1.275" ry="1.275"/>
+ <rect opacity=".2" width="28" height="20" x="2" y="11" rx="1.5" ry="1.5"/>
+ <rect fill="#8e8e8e" width="28" height="20" x="2" y="10" rx="1.5" ry="1.5"/>
+ <rect opacity=".2" width="10" height="3" x="11" y="19" rx="1" ry="1"/>
+ <rect fill="#ececec" width="10" height="3" x="11" y="18" rx="1" ry="1"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 5.2754 1 C 4.569 1 4 1.569 4 2.2754 L 4 3.2754 C 4 2.569 4.569 2 5.2754 2 L 26.725 2 C 27.431 2 28 2.569 28 3.2754 L 28 2.2754 C 28 1.569 27.431 1 26.725 1 L 5.2754 1 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 5.2754,3.9996 C 4.569,3.9996 4,4.5686 4,5.275 V 6.275 C 4,5.5686 4.569,4.9996 5.2754,4.9996 H 26.725 C 27.431,4.9996 28,5.5686 28,6.275 V 5.275 C 28,4.5686 27.431,3.9996 26.725,3.9996 Z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 5.2754,6.9996 C 4.569,6.9996 4,7.5686 4,8.275 V 9.275 C 4,8.5686 4.569,7.9996 5.2754,7.9996 H 26.725 C 27.431,7.9996 28,8.5686 28,9.275 V 8.275 C 28,7.5686 27.431,6.9996 26.725,6.9996 Z"/>
+ <g>
+  <circle style="opacity:0.2" cx="24" cy="24" r="8"/>
+  <circle style="fill:#48aeff" cx="24" cy="23" r="8"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="20" y="19" rx=".25" ry=".25"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="25" y="19" rx=".25" ry=".25"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="25" y="24" rx=".25" ry=".25"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="20" y="24" rx=".25" ry=".25"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path fill="#e4e4e4" d="m44 40v-31c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v31c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
+ <path fill="#636e73" d="m44 12v-4c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v4z"/>
+ <path opacity=".15" d="m44 40v-28h-20v30h18c1.108 0 2-0.892 2-2z"/>
+ <path fill="#fff" opacity=".1" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+ <g fill="#636e73">
+  <path d="m9 17v1h1v2h-4v-3h3z"/>
+  <path d="m9 23v1h1v2h-4v-3h3z"/>
+  <path d="m9 29v1h1v2h-4v-3h3z"/>
+ </g>
+ <g fill="#636e73" opacity=".8">
+  <path d="m29 17v1h1v2h-4v-3h3z"/>
+  <path d="m29 23v1h1v2h-4v-3h3z"/>
+  <path d="m29 29v1h1v2h-4v-3h3z"/>
+ </g>
+</svg>

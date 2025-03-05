@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="fill:#2a74c2" width="56" height="56" x="4" y="4" rx="3" ry="3"/>
+ <g style="opacity:0.2" transform="matrix(1.7063105,1,-0.98513358,1.73206,57.215758,3.6985)">
+  <path d="M 2,9 8,9 8,21 2,21 Z"/>
+  <path d="m 2,22 6,0 0,3 -6,0 z"/>
+  <path d="m 3,10 4,0 0,10 -4,0 z"/>
+  <path d="m 3,23 4,0 0,1 -4,0 z"/>
+ </g>
+ <g style="opacity:0.2" transform="matrix(1.93186,0.51764,-0.51764,1.93186,33.07792,-9.4375)">
+  <path d="M 2,9 8,9 8,21 2,21 Z"/>
+  <path d="m 2,22 6,0 0,3 -6,0 z"/>
+  <path d="m 3,10 4,0 0,10 -4,0 z"/>
+  <path d="m 3,23 4,0 0,1 -4,0 z"/>
+ </g>
+ <path style="opacity:0.1;fill:#ffffff" d="m 7.0008875,4 c -1.662,0 -3,1.338 -3,3 l 0,1 c 0,-1.662 1.338,-3 3,-3 L 57.000888,5 c 1.661999,0 3,1.338 3,3 l 0,-1 c 0,-1.662 -1.338001,-3 -3,-3 L 7.0008875,4 Z"/>
+ <g style="opacity:0.2" transform="matrix(1.93186,-0.51764,0.51764,1.93186,-6.52248,5.7389)">
+  <path d="M 2,9 8,9 8,21 2,21 Z"/>
+  <path d="m 2,22 6,0 0,3 -6,0 z"/>
+  <path d="m 3,10 4,0 0,10 -4,0 z"/>
+  <path d="m 3,23 4,0 0,1 -4,0 z"/>
+ </g>
+ <g transform="matrix(1.93186,-0.51764,0.51764,1.93186,-6.52248,4.739)">
+  <path style="fill:#ffffff" d="M 2,9 8,9 8,21 2,21 Z"/>
+  <path style="fill:#ffffff" d="m 2,22 6,0 0,3 -6,0 z"/>
+  <path style="fill:#b0b0b0" d="m 3,10 4,0 0,10 -4,0 z"/>
+  <path style="fill:#b0b0b0" d="m 3,23 4,0 0,1 -4,0 z"/>
+ </g>
+ <g transform="matrix(1.93186,0.51764,-0.51764,1.93186,33.07792,-10.4374)">
+  <path style="fill:#ffffff" d="M 2,9 8,9 8,21 2,21 Z"/>
+  <path style="fill:#ffffff" d="m 2,22 6,0 0,3 -6,0 z"/>
+  <path style="fill:#b0b0b0" d="m 3,10 4,0 0,10 -4,0 z"/>
+  <path style="fill:#b0b0b0" d="m 3,23 4,0 0,1 -4,0 z"/>
+ </g>
+ <g transform="matrix(1.73206,1,-1,1.73206,57.53592,2.6988)">
+  <path style="fill:#ffffff" d="M 2,9 8,9 8,21 2,21 Z"/>
+  <path style="fill:#ffffff" d="m 2,22 6,0 0,3 -6,0 z"/>
+  <path style="fill:#b0b0b0" d="m 3,10 4,0 0,10 -4,0 z"/>
+  <path style="fill:#b0b0b0" d="m 3,23 4,0 0,1 -4,0 z"/>
+ </g>
+ <path style="opacity:0.2" d="m 4.0008875,57 0,1 c 0,1.662 1.338,3 3,3 l 50.0000005,0 c 1.661999,0 2.999999,-1.338 3,-3 l 0,-1 c -1e-6,1.662 -1.338001,3 -3,3 L 7.0008875,60 c -1.662,0 -3,-1.338 -3,-3 z"/>
+</svg>

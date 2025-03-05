@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#407ec2" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="m 28,11.000378 c -1.108,0 -2,0.892 -2,2 v 6 H 14.5 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 h 6.964844 L 11.732422,33.7328 a 2.5,2.5 0 0 0 0,3.535156 2.5,2.5 0 0 0 3.535156,0 L 25,27.535534 v 6.964844 a 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2.5,-2.5 v -11.5 h 6 c 1.108,0 2,-0.892 2,-2 v -8 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <rect style="fill:#fdc319" width="12" height="12" x="26" y="10" rx="2"/>
+ <path style="fill:none;stroke:#fdc319;stroke-width:5;stroke-linecap:round;stroke-linejoin:round" d="m 14.5,20.5 h 13 v 13"/>
+ <path style="fill:none;stroke:#fdc319;stroke-width:5;stroke-linecap:round;stroke-linejoin:round" d="M 13.5,34.5 27,21"/>
+ <rect style="fill:#dc5b22" width="6" height="6" x="29" y="13" rx="1"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 28 10 C 26.892 10 26 10.892 26 12 L 26 13 C 26 11.892 26.892 11 28 11 L 36 11 C 37.108 11 38 11.892 38 13 L 38 12 C 38 10.892 37.108 10 36 10 L 28 10 z M 14.5 18 A 2.5 2.5 0 0 0 12 20.5 A 2.5 2.5 0 0 0 12.080078 21 A 2.5 2.5 0 0 1 14.5 19 L 26 19 L 26 18 L 14.5 18 z M 20.464844 24 L 11.732422 32.732422 A 2.5 2.5 0 0 0 11.066406 35 A 2.5 2.5 0 0 1 11.732422 33.732422 L 21.464844 24 L 20.464844 24 z"/>
+</svg>

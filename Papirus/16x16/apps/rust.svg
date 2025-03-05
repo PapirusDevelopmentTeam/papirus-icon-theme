@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect fill="#c2352a" width="16" height="16" x="0" y="0" rx=".857" ry=".857"/>
+ <g fill="#fff" transform="matrix(.5 0 0 .5 -.5 -.00027)">
+  <rect width="1.414" height="1.414" x="22.63" y="-1.41" transform="rotate(45)"/>
+  <g>
+   <path d="m20 6-1 6h-4l-1-6z"/>
+   <path d="m15 13h4v1h-4z"/>
+  </g>
+  <g transform="matrix(0,-1,1,0,1,33)">
+   <path d="m20 6-1 6h-4l-1-6z"/>
+   <path d="m15 13h4v1h-4z"/>
+  </g>
+  <g transform="matrix(-.70711 .70711 -.70711 -.70711 40.335 15.101)">
+   <path d="m20 6-1 6h-4l-1-6z"/>
+   <path d="m15 13h4v1h-4z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="50" height="50" x="-61" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="50" height="50" x="-60" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="50" height="50" x="-55" y="-54" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#2d50e6" width="50" height="50" x="-54" y="-54" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.1" d="M 52.6875 5.3105469 L 4.7304688 53.269531 C 4.2785938 52.817657 4 52.190547 4 51.498047 L 4 52.498047 C 4 53.190547 4.2785938 53.817657 4.7304688 54.269531 L 53.269531 5.7285156 C 53.100186 5.5591705 52.900266 5.4255424 52.6875 5.3105469 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.5010848,4.0000002 C 5.1160848,4.0000002 4,5.1160852 4,6.501085 v 44.997829 c 0,0.6925 0.2778342,1.3195 0.7297092,1.771374 L 53.270288,4.7297092 c -0.451874,-0.451875 -1.078874,-0.729709 -1.771374,-0.729709 z"/>
+ <path style="opacity:0.2" d="m 8,15 v 30 h 8 10 v -4 h 2 v -4 h 4 V 23 H 28 V 19 H 26 V 15 H 16 Z m 30,0 v 4 h 8 v -4 z m -22,4 h 6 v 4 h 2 v 14 h -2 v 4 h -6 z m 22,6 v 16 h 4 v 4 h 8 V 41 H 46 V 25 Z"/>
+ <rect style="fill:#ffffff" width="8" height="30" x="8" y="14"/>
+ <rect style="fill:#ffffff" width="10" height="4" x="16" y="14"/>
+ <rect style="fill:#ffffff" width="6" height="4" x="22" y="18"/>
+ <rect style="fill:#ffffff" width="10" height="4" x="16" y="40"/>
+ <rect style="fill:#ffffff" width="6" height="4" x="22" y="36"/>
+ <rect style="fill:#ffffff" width="8" height="14" x="24" y="22"/>
+ <rect style="fill:#ffffff" width="8" height="16" x="38" y="24"/>
+ <rect style="fill:#ffffff" width="8" height="4" x="42" y="40"/>
+ <rect style="fill:#ffffff" width="8" height="4" x="38" y="14"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.5 4 C 5.115 4 4 5.115 4 6.5 L 4 7.5 C 4 6.115 5.115 5 6.5 5 L 51.5 5 C 52.885 5 54 6.115 54 7.5 L 54 6.5 C 54 5.115 52.885 4 51.5 4 L 6.5 4 z"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <defs>
+  <linearGradient id="linearGradient4282" x1="409.57" x2="409.57" y1="540.8" y2="506.8" gradientTransform="matrix(.11765 0 0 .11765 -32.067 -77.623)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#2a2c2f"/>
+   <stop offset="1" stop-color="#424649"/>
+  </linearGradient>
+ </defs>
+ <path fill="#4f4f4f" d="m31 16a15 15 0 0 1 -15 15 15 15 0 0 1 -15 -15 15 15 0 0 1 15 -15 15 15 0 0 1 15 15z"/>
+ <path fill="#fff" opacity=".1" d="m16 1a15 15 0 0 0 -15 15 15 15 0 0 0 0.0195 0.586 15 15 0 0 1 14.98 -14.586 15 15 0 0 1 14.98 14.414 15 15 0 0 0 0.02 -0.414 15 15 0 0 0 -15 -15z"/>
+ <path fill="#fff" opacity=".1" d="m7.6861 3.5318c-4.0255 2.6845-6.6694 7.2642-6.6694 12.486h12c0-1.2157 0.727-2.2563 1.7666-2.7275l-7.0993-9.7576z"/>
+ <path fill="#fff" opacity=".1" d="m24.314 28.468c4.0256-2.6845 6.6694-7.2642 6.6694-12.486h-12c0 1.2157-0.727 2.2563-1.7666 2.7275l7.0972 9.7588z"/>
+ <path style="opacity:0.2" d="m 22,1.0000006 0,6 6,0 L 22,17 l 0,-6 -6,0 z"/>
+ <rect style="fill:#ffffff" width="12" height="12" x="10" y="10" ry="6"/>
+ <rect style="fill:#3f3f3f" width="4" height="4" x="14" y="-18" ry="2" transform="scale(1,-1)"/>
+ <path opacity=".2" d="m30.98 16.414a15 15 0 0 1 -14.98 14.586 15 15 0 0 1 -14.98 -14.414 15 15 0 0 0 -0.02 0.414 15 15 0 0 0 15 15 15 15 0 0 0 15 -15 15 15 0 0 0 -0.02 -0.586z"/>
+ <path style="fill:#ffd63f" d="m 22,6.4e-7 0,5.99999996 6,0 L 22,16 l 0,-6 -6,0 z"/>
+ <path style="opacity:0.2" d="M 10 17 L 4 27 L 10 27 L 10 32 L 10.599609 32 L 16 23 L 10 23 L 10 17 z"/>
+ <path style="fill:#ff7a3f" d="m 9.9999998,32 0,-6 L 4,26 l 5.9999998,-9.999999 0,6 6.0000002,0 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 22 0 L 16 10 L 16.599609 10 L 22 1 L 22 0 z M 22 6 L 22 7 L 27.400391 7 L 28 6 L 22 6 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 10 16 L 4 26 L 4.5996094 26 L 10 17 L 10 16 z M 10 22 L 10 23 L 15.400391 23 L 16 22 L 10 22 z"/>
+</svg>

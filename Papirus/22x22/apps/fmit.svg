@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect fill="#826f3d" width="20" height="16" x="-21" y="3" rx="1" ry="1" transform="scale(-1,1)"/>
+ <path fill="#fff" opacity=".1" d="m2 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <path opacity=".2" d="m1 18v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z"/>
+ <rect opacity=".2" width="18" height="10" x="2" y="4.5"/>
+ <rect fill="#fff" width="18" height="10" x="2" y="4"/>
+ <g fill="#ff6e6e" transform="translate(-1)">
+  <rect width="2" height="4" x="5" y="-10" transform="rotate(90)"/>
+  <rect width="2" height="4" x="8" y="-10" transform="rotate(90)"/>
+  <rect width="2" height="8" x="6" y="5"/>
+ </g>
+ <circle fill="#01d900" cx="19" cy="17" r="1"/>
+ <rect opacity=".4" width="10" height=".5" x="2" y="15.5"/>
+ <g fill="#ff6e6e" transform="matrix(0,1,-1,0,23,3)">
+  <rect width="2" height="4" x="11" y="-10" transform="rotate(90)"/>
+  <rect width="2" height="4" x="5" y="-10" transform="rotate(90)"/>
+  <rect width="2" height="4" x="8" y="-10" transform="rotate(90)"/>
+  <rect width="2" height="8" x="6" y="5"/>
+ </g>
+ <rect opacity=".4" width="10" height=".5" x="2" y="16.5"/>
+ <rect opacity=".4" width="10" height=".5" x="2" y="17.5"/>
+</svg>

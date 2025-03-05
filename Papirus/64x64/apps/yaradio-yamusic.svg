@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <circle style="opacity:0.2" cx="32" cy="33" r="28"/>
+ <circle style="fill:#ffcc00" cx="32" cy="32" r="28"/>
+ <circle style="opacity:0.1" cx="32" cy="43" r="18"/>
+ <circle style="fill:#ff2626" cx="32" cy="42" r="18"/>
+ <circle style="opacity:0.1" cx="32" cy="51" r="10"/>
+ <circle style="fill:#ffcc00" cx="32" cy="50" r="10"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 32 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 4.0332031 32.482422 A 28 28 0 0 1 32 5 A 28 28 0 0 1 59.982422 32.242188 A 28 28 0 0 0 60 32 A 28 28 0 0 0 32 4 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 32 40 A 10 10 0 0 0 22 50 A 10 10 0 0 0 22.033203 50.484375 A 10 10 0 0 1 32 41 A 10 10 0 0 1 41.976562 50.34375 A 10 10 0 0 0 42 50 A 10 10 0 0 0 32 40 z"/>
+</svg>

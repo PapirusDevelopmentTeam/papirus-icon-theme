@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" ry="4.2"/>
+ <rect style="fill:#30373a" width="28" height="28" x="2" y="2" ry="4.2"/>
+ <path style="opacity:0.2" d="M 11 3 L 11 12 L 2 12 L 2 22 L 11 22 L 11 30 L 21 30 L 21 22 L 30 22 L 30 12 L 21 12 L 21 3 L 11 3 z"/>
+ <rect style="fill:#f35497" width="9" height="10" x="2" y="11"/>
+ <rect style="fill:#f38c59" width="10" height="9" x="11" y="2"/>
+ <rect style="fill:#58c8f4" width="9" height="10" x="21" y="11"/>
+ <rect style="fill:#7fdc83" width="10" height="9" x="11" y="21"/>
+ <path style="opacity:0.1" d="m 13,5 v 6 h 6 V 5 Z m -6,9 -3,6 h 6 z m 15,0 v 2 h 2 v -2 z m 2,2 v 2 h 2 v -2 z m 2,0 h 2 v -2 h -2 z m 0,2 v 2 h 2 v -2 z m -2,0 h -2 v 2 h 2 z m -9,6 v 6 h 1 v -6 z m -2,1 v 4 h 1 v -4 z m 4,0 v 4 h 1 v -4 z m 2,1 v 2 h 1 v -2 z"/>
+ <path style="fill:#30373a" d="M 13 4 L 13 10 L 19 10 L 19 4 L 13 4 z M 7 13 L 4 19 L 10 19 L 7 13 z M 22 13 L 22 15 L 24 15 L 24 13 L 22 13 z M 24 15 L 24 17 L 26 17 L 26 15 L 24 15 z M 26 15 L 28 15 L 28 13 L 26 13 L 26 15 z M 26 17 L 26 19 L 28 19 L 28 17 L 26 17 z M 24 17 L 22 17 L 22 19 L 24 19 L 24 17 z M 15 23 L 15 29 L 16 29 L 16 23 L 15 23 z M 13 24 L 13 28 L 14 28 L 14 24 L 13 24 z M 17 24 L 17 28 L 18 28 L 18 24 L 17 24 z M 19 25 L 19 27 L 20 27 L 20 25 L 19 25 z"/>
+ <rect style="fill:#c9cfdb" width="10" height="10" x="11" y="11"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6.1992188 2 C 3.8724189 2 2 3.8724189 2 6.1992188 L 2 7.1992188 C 2 4.8724189 3.8724189 3 6.1992188 3 L 25.800781 3 C 28.127581 3 30 4.8724189 30 7.1992188 L 30 6.1992188 C 30 3.8724189 28.127581 2 25.800781 2 L 6.1992188 2 z"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="1" ry="1"/>
+ <rect style="fill:#f58a10" width="20" height="20" x="2" y="2" rx="1" ry="1"/>
+ <path style="fill:#f2f1c7" d="M 4,4 V 20 H 20 V 4 Z"/>
+ <path style="opacity:0.1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="m 5.3295,8.024337 c 9.41322,-0.640382 15.170949,2.899626 9.962765,11.899075 0.351804,-1.202714 0.168501,-3.989146 -1.718609,-7.399179 C 12.114453,9.8874345 5.3295,8.024337 5.3295,8.024337 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3,2 C 2.446,2 2,2.446 2,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 3 C 22,2.446 21.554,2 21,2 Z"/>
+ <path style="fill:#1595ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="m 5.3295,7.524337 c 9.41322,-0.640382 15.170949,2.899626 9.962765,11.899075 0.351804,-1.202714 0.168501,-3.989146 -1.718609,-7.399179 C 12.114453,9.3874345 5.3295,7.524337 5.3295,7.524337 Z"/>
+ <path style="opacity:0.1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="m 5.8417735,6.42679 c 9.1810235,-0.8619345 14.7211535,3.095247 9.4752695,13.432551 0.365784,-1.3767 0.240802,-4.552268 -1.531747,-8.41529 C 12.414678,8.45698 5.8417735,6.42679 5.8417735,6.42679 Z"/>
+ <path style="fill:#38b7ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="m 5.8417735,5.92679 c 9.1810235,-0.8619345 14.7211535,3.095247 9.4752695,13.432551 0.365784,-1.3767 0.240802,-4.552268 -1.531747,-8.41529 C 12.414678,7.95698 5.8417735,5.92679 5.8417735,5.92679 Z"/>
+ <path style="opacity:0.1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="M 7.345847,4.9999994 C 17.724406,6.052427 23.119271,11.037168 15.280781,20 15.954484,18.737835 16.431037,15.627066 15.208365,11.509308 14.262938,8.325262 7.345847,4.9999994 7.345847,4.9999994 Z"/>
+ <path style="fill:#6be3ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="M 7.345847,4.4999996 C 17.724406,5.552427 23.119271,10.537168 15.280781,19.5 15.954484,18.237835 16.431037,15.127066 15.208365,11.009308 14.262938,7.825262 7.345847,4.4999996 7.345847,4.4999996 Z"/>
+ <circle style="opacity:0.2;stroke:#6a4326;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" cx="17" cy="14.5" r="1"/>
+ <circle style="fill:#ffffff;stroke:#6a4326;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" cx="17" cy="14" r="1"/>
+ <circle style="opacity:0.2;stroke:#6a4326;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" cx="16.5" cy="17" r=".5"/>
+ <circle style="fill:#ffffff;stroke:#6a4326;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" cx="16.5" cy="16.5" r=".5"/>
+ <rect style="opacity:0.1" width="1.918" height="7.221" x="17.78" y="-4.66" ry="0" transform="matrix(0.83219764,0.55447912,-0.55908617,0.82910955,0,0)"/>
+ <rect style="fill:#ffc60a" width="1.918" height="7.221" x="17.5" y="-5.07" ry="0" transform="matrix(0.83219764,0.55447912,-0.55908617,0.82910955,0,0)"/>
+ <rect style="opacity:0.1" width="2.254" height="1.876" x="17.56" y="3.45" transform="matrix(0.83260806,0.55386264,-0.55813368,0.82975104,0,0)"/>
+ <rect style="fill:#835d1a" width="2.254" height="1.876" x="17.28" y="3.04" transform="matrix(0.83260806,0.55386264,-0.55813368,0.82975104,0,0)"/>
+ <path style="opacity:0.1;fill-rule:evenodd" d="M 10.987083,14.717509 C 8.6301845,16.69854 6.071266,16.192277 6.071266,16.192277 L 4.5,15.972163 c 0,0 0.835897,1.453725 1.8406255,2.333214 1.2794595,1.119974 3.1667,1.93645 5.0504975,0.15408 1.661056,-1.57162 1.75084,-2.289191 1.75084,-2.289191 z"/>
+ <path style="fill:#1dadff;fill-rule:evenodd" d="M 10.987083,14.217509 C 8.6301845,16.19854 6.071266,15.692277 6.071266,15.692277 L 4.5,15.472163 c 0,0 0.835897,1.453725 1.8406255,2.333214 1.2794595,1.119974 3.1667,1.93645 5.0504975,0.15408 1.661056,-1.57162 1.75084,-2.289191 1.75084,-2.289191 z"/>
+ <rect style="opacity:0.2" width="16" height=".5" x="4" y="20"/>
+</svg>

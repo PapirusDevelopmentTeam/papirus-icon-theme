@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect fill="#7de63e" width="28" height="28" x="2" y="2" rx="1.5" ry="1.5"/>
+ <path opacity=".2" d="m8.8764 8.8699a23.507 23.528 0 0 0 -6.5113 20.759 23.507 23.528 0 0 0 20.759 -6.499 23.507 23.528 0 0 0 6.511 -20.759 23.507 23.528 0 0 0 -20.759 6.4989z"/>
+ <path fill="#fff" opacity=".1" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
+ <circle opacity=".3" cx="16" cy="16" r="6"/>
+ <circle fill="#ffc20c" cx="16" cy="16" r="4"/>
+ <g>
+  <circle opacity=".3" cx="24" cy="8" r="3"/>
+  <circle fill="#ffc20c" cx="24" cy="8" r="2"/>
+ </g>
+ <g transform="translate(-16,16)">
+  <circle opacity=".3" cx="24" cy="8" r="3"/>
+  <circle fill="#ffc20c" cx="24" cy="8" r="2"/>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <defs>
+  <linearGradient id="linearGradient4904" x1="16.851" x2="16.674" y1="17.784" y2="9.476" gradientTransform="matrix(2.2858,0,0,2.5,-6.1394,-12.1692)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path style="opacity:0.2" d="m 10,55 0,2 c 0,2.216 1.784,4 4,4 l 36,0 c 2.216,0 4,-1.784 4,-4 l 0,-2 c 0,2.216 -1.784,4 -4,4 l -36,0 c -2.216,0 -4,-1.784 -4,-4 z"/>
+ <rect style="fill:#e4e4e4" width="56" height="44" x="-60" y="-54" rx="4" ry="4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.15;fill:url(#linearGradient4904)" width="32" height="20" x="16" y="12" rx="1.142" ry="1.25"/>
+ <rect style="fill:#333333" width="28" height="16" x="18" y="14" rx="0" ry="0"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 14 4 C 11.784 4 10 5.784 10 8 L 10 9 C 10 6.784 11.784 5 14 5 L 50 5 C 52.216 5 54 6.784 54 9 L 54 8 C 54 5.784 52.216 4 50 4 L 14 4 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 19.6,39 c -0.7756,0 -1.4,0.624 -1.4,1.4 l -1e-6,2.8 -2.8,0 c -0.7756,2e-6 -1.4,0.6244 -1.4,1.4 l 0,2.8 c 0,0.7756 0.6244,1.4 1.4,1.4 l 2.8,0 0,2.8 c 0,0.776 0.6244,1.4 1.4,1.4 L 22.4,53 c 0.7756,0 1.4,-0.6244 1.4,-1.4 l 0,-2.8 2.8,-4e-6 c 0.776,0 1.4,-0.624 1.4,-1.4 l 0,-2.8 c 0,-0.776 -0.624,-1.4 -1.4,-1.4 l -2.8,-2e-6 0,-2.8 c 0,-0.7756 -0.6244,-1.4 -1.4,-1.4 l -2.800001,0 z"/>
+ <g style="opacity:0.2;fill:#ffffff" transform="matrix(2,0,0,2,-2,15)">
+  <circle cx="24.5" cy="13.5" r="1.5"/>
+  <circle cx="20.5" cy="13.5" r="1.5"/>
+  <circle cx="24.5" cy="17.5" r="1.5"/>
+  <circle cx="20.5" cy="17.5" r="1.5"/>
+ </g>
+ <g transform="matrix(2,0,0,2,-2,14)">
+  <circle style="fill:#ef5646" cx="24.5" cy="13.5" r="1.5"/>
+  <circle style="fill:#ef5646" cx="20.5" cy="13.5" r="1.5"/>
+  <circle style="fill:#eb9200" cx="24.5" cy="17.5" r="1.5"/>
+  <circle style="fill:#eb9200" cx="20.5" cy="17.5" r="1.5"/>
+ </g>
+ <path style="fill:#4f4f4f" d="M 20 38 C 18.892 38 18 38.892 18 40 L 18 42 L 16 42 C 14.892 42 14 42.892 14 44 L 14 46 C 14 47.108 14.892 48 16 48 L 18 48 L 18 50 C 18 51.108 18.892 52 20 52 L 22 52 C 23.108 52 24 51.108 24 50 L 24 48 L 26 48 C 27.108 48 28 47.108 28 46 L 28 44 C 28 42.892 27.108 42 26 42 L 24 42 L 24 40 C 24 38.892 23.108 38 22 38 L 20 38 z"/>
+</svg>

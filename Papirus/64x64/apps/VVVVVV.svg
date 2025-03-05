@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="2.8" ry="2.8"/>
+ <rect style="fill:#407494" width="56" height="56" x="4" y="4" rx="2.8" ry="2.8"/>
+ <path style="opacity:0.2" d="m 45,15 v 3 h 3 v 24 h -3 v 3 h -6 v 4 h 6 v 3 H 19 v -3 h 6 V 45 H 19 V 42 H 16 V 18 h 3 v -3 z"/>
+ <path style="fill:#91c2d0" d="m 45,14 v 3 h 3 v 24 h -3 v 3 h -6 v 4 h 6 v 3 H 19 v -3 h 6 V 44 H 19 V 41 H 16 V 17 h 3 v -3 z"/>
+ <path style="opacity:0.2" d="m 19,20 v 8 h 8 v -8 z m 15,0 v 8 h 8 V 20 Z M 19,35 v 4 h 4 v 3 h 12 v -3 h 4 v -4 z"/>
+ <path style="fill:#404040" d="m 19,19 v 8 h 8 v -8 z m 15,0 v 8 h 8 V 19 Z M 19,34 v 4 h 4 v 3 h 12 v -3 h 4 v -4 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.8007812 4 C 5.2495812 4 4 5.2495812 4 6.8007812 L 4 7.8007812 C 4 6.2495813 5.2495812 5 6.8007812 5 L 57.199219 5 C 58.750419 5 60 6.2495812 60 7.8007812 L 60 6.8007812 C 60 5.2495813 58.750419 4 57.199219 4 L 6.8007812 4 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 19 14 L 19 15 L 45 15 L 45 14 L 19 14 z M 16 17 L 16 18 L 19 18 L 19 17 L 16 17 z M 45 17 L 45 18 L 48 18 L 48 17 L 45 17 z M 19 48 L 19 49 L 25 49 L 25 48 L 19 48 z M 39 48 L 39 49 L 45 49 L 45 48 L 39 48 z"/>
+</svg>

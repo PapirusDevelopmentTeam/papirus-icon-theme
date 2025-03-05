@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="26" height="26" x="4" y="5" rx="1.4" ry="1.4"/>
+ <rect style="fill:#765e4a" width="26" height="26" x="4" y="4" rx="1.4" ry="1.4"/>
+ <rect style="opacity:0.2" width="7" height="17" x="21" y="3" rx="1" ry="1"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 5.4004 4 C 4.6248 4 4 4.6248 4 5.4004 L 4 6.4004 C 4 5.6248 4.6248 5 5.4004 5 L 28.6 5 C 29.375 5 30 5.6248 30 6.4004 L 30 5.4004 C 30 4.6248 29.375 4 28.6 4 L 5.4004 4 z"/>
+ <rect style="fill:#b38a48" width="7" height="17" x="21" y="2" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="17" height="7" x="2" y="22" rx="1" ry="1"/>
+ <rect style="fill:#c8a972" width="17" height="7" x="2" y="21" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="7" height="7" x="21" y="22" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="7" height="7" x="21" y="21" rx="1" ry="1"/>
+ <path style="opacity:0.2" d="M 7,7 C 6.446,7 6,7.446 6,8 V 9 H 15 V 12 H 6 V 19 C 6,19.554 6.446,20 7,20 H 18 C 18.554,20 19,19.554 19,19 V 8 C 19,7.446 18.554,7 18,7 Z M 8,14 H 15 V 18 H 8 Z"/>
+ <path style="fill:#ffffff" d="M 7,6 C 6.446,6 6,6.446 6,7 V 8 H 15 V 11 H 6 V 18 C 6,18.554 6.446,19 7,19 H 18 C 18.554,19 19,18.554 19,18 V 7 C 19,6.446 18.554,6 18,6 Z M 8,13 H 15 V 17 H 8 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 22 2 C 21.446 2 21 2.446 21 3 L 21 4 C 21 3.446 21.446 3 22 3 L 27 3 C 27.554 3 28 3.446 28 4 L 28 3 C 28 2.446 27.554 2 27 2 L 22 2 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3 21 C 2.446 21 2 21.446 2 22 L 2 23 C 2 22.446 2.446 22 3 22 L 18 22 C 18.554 22 19 22.446 19 23 L 19 22 C 19 21.446 18.554 21 18 21 L 3 21 z"/>
+</svg>

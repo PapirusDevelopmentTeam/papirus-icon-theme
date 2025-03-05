@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <circle style="opacity:0.2" cx="32" cy="33" r="28"/>
+ <circle style="fill:#5d2ad7" cx="32" cy="32" r="28"/>
+ <path style="opacity:0.2" d="m 19,11 a 2.0002,2.0002 0 0 0 -2,2 v 40 a 2.0002,2.0002 0 0 0 2,2 h 26 a 2.0002,2.0002 0 0 0 2,-2 V 13 a 2.0002,2.0002 0 0 0 -2,-2 z m 2,4 h 7 15 V 40 51 H 32 21 V 40 22 Z m 0,7 a 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 7,7 0 0 0 -7,7 z m 0,18 c 0,6.051437 4.948563,11 11,11 6.051437,0 11,-4.948563 11,-11 0,-6.051437 -4.948563,-11 -11,-11 -6.051437,0 -11,4.948563 -11,11 z m 11,-7 c 3.889679,0 7,3.110321 7,7 0,3.889679 -3.110321,7 -7,7 -3.889679,0 -7,-3.110321 -7,-7 0,-3.889679 3.110321,-7 7,-7 z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 19,12 H 45 V 52 H 19 Z"/>
+ <circle style="fill:none;stroke:#b388ff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" cx="32" cy="39" r="9"/>
+ <circle style="fill:#ffffff" cx="28" cy="21" r="7"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 32 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 4.0351562 32.5 A 28 28 0 0 1 32 5 A 28 28 0 0 1 59.982422 32.251953 A 28 28 0 0 0 60 32 A 28 28 0 0 0 32 4 z"/>
+</svg>

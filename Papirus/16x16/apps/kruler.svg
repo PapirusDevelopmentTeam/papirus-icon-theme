@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#e2d144" width="13" height="16" x="-14" y="-16" rx=".813" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.5" width="1" height="6" x="4" y="1"/>
+ <rect style="opacity:0.5" width="1" height="3" x="6" y="1"/>
+ <rect style="opacity:0.5" width="1" height="5" x="12" y="1"/>
+ <path style="opacity:0.5" d="M 3,8 3,13 6,13 6,8 3,8 Z M 4,9 5,9 5,12 4,12 4,9 Z"/>
+ <rect style="opacity:0.5" width="1" height="3" x="8" y="1"/>
+ <rect style="opacity:0.5" width="1" height="3" x="10" y="1"/>
+ <rect style="opacity:0.5" width="1" height="3" x="14" y="1"/>
+</svg>

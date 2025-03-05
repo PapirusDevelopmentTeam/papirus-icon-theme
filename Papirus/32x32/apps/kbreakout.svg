@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <path fill="#667e47" d="m29 27.7v-23.4c0-0.7202-0.58-1.3-1.3-1.3h-23.4c-0.7202 0-1.3 0.5798-1.3 1.3v23.4c0 0.7202 0.5798 1.3 1.3 1.3h23.4c0.7202 0 1.3-0.5798 1.3-1.3z"/>
+ <g opacity=".2" transform="translate(0,1)">
+  <rect width="12" height="3" x="10" y="25"/>
+  <circle cx="18" cy="21" r="2"/>
+  <rect width="4" height="4" x="14" y="6"/>
+  <rect width="4" height="4" x="19" y="6"/>
+  <rect width="4" height="4" x="24" y="6"/>
+  <rect width="4" height="4" x="4" y="11"/>
+  <rect width="4" height="4" x="14" y="11"/>
+  <rect width="4" height="4" x="19" y="11"/>
+ </g>
+ <path opacity=".2" d="m3 27.699v1c0 0.72 0.5806 1.301 1.3008 1.301h23.398c0.72 0 1.301-0.581 1.301-1.301v-1c0 0.72-0.581 1.301-1.301 1.301h-23.398c-0.7204 0-1.301-0.581-1.301-1.301z"/>
+ <rect style="fill:#3f3f3f" width="12" height="3" x="10" y="25"/>
+ <circle style="fill:#ffffff" cx="18" cy="21" r="2"/>
+ <rect style="fill:#fcd800" width="4" height="4" x="14" y="6"/>
+ <rect style="fill:#fcd800" width="4" height="4" x="19" y="6"/>
+ <rect style="fill:#fcd800" width="4" height="4" x="24" y="6"/>
+ <rect style="fill:#fcd800" width="4" height="4" x="4" y="11"/>
+ <rect style="fill:#fcd800" width="4" height="4" x="14" y="11"/>
+ <rect style="fill:#fcd800" width="4" height="4" x="19" y="11"/>
+ <path fill="#fff" style="opacity:0.1" d="m4.3008 3c-0.7202 0-1.3008 0.5806-1.3008 1.3008v1c0-0.7202 0.5806-1.3008 1.3008-1.3008h23.398c0.72 0 1.301 0.5806 1.301 1.3008v-1c0-0.7202-0.581-1.3008-1.301-1.3008h-23.398z"/>
+</svg>

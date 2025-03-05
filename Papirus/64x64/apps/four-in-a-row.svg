@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="4.2" ry="4.2"/>
+ <rect style="fill:#e4e4e4" width="56" height="56" x="4" y="4" rx="4.2" ry="4.2"/>
+ <rect style="opacity:0.1" width="14" height="14" x="18" y="18"/>
+ <rect style="opacity:0.1" width="14" height="14" x="46" y="18"/>
+ <path style="opacity:0.1" d="M 8.2,4 C 5.8732,4 4,5.8732 4,8.2 V 18 H 18 V 4 Z"/>
+ <rect style="opacity:0.1" width="14" height="14" x="32" y="4"/>
+ <rect style="opacity:0.1" width="14" height="14" x="4" y="-46" transform="scale(1,-1)"/>
+ <rect style="opacity:0.1" width="14" height="14" x="32" y="-46" transform="scale(1,-1)"/>
+ <rect style="opacity:0.1" width="14" height="14" x="18" y="-60" transform="scale(1,-1)"/>
+ <path style="opacity:0.1" d="M 46,60 V 46 h 14 v 9.8 c 0,2.3268 -1.8732,4.2 -4.2,4.2 z"/>
+ <path style="opacity:0.1" d="m 53,7 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z M 39,21 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z M 11,35 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z M 11,49 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 14,0 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z"/>
+ <circle style="fill:#d12c6d" cx="53" cy="11" r="5"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 8.1992188 4 C 5.8724187 4 4 5.8724187 4 8.1992188 L 4 9.1992188 C 4 6.8724188 5.8724187 5 8.1992188 5 L 55.800781 5 C 58.127581 5 60 6.8724188 60 9.1992188 L 60 8.1992188 C 60 5.8724187 58.127581 4 55.800781 4 L 8.1992188 4 z"/>
+ <circle style="fill:#24a647" cx="53" cy="25" r="5"/>
+ <circle style="fill:#24a647" cx="53" cy="39" r="5"/>
+ <circle style="fill:#d12c6d" cx="53" cy="53" r="5"/>
+ <circle style="fill:#d12c6d" cx="39" cy="25" r="5"/>
+ <circle style="fill:#24a647" cx="39" cy="39" r="5"/>
+ <circle style="fill:#d12c6d" cx="39" cy="53" r="5"/>
+ <circle style="fill:#d12c6d" cx="25" cy="39" r="5"/>
+ <circle style="fill:#24a647" cx="25" cy="53" r="5"/>
+ <circle style="fill:#24a647" cx="11" cy="39" r="5"/>
+ <circle style="fill:#d12c6d" cx="11" cy="53" r="5"/>
+</svg>

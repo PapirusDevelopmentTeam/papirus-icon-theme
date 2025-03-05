@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="16" height="11" x="6" y="10.5" ry="1"/>
+ <rect style="fill:#248afd" width="16" height="11" x="6" y="10" ry="1"/>
+ <rect style="fill:#4f4f4f" width="16" height="2" x="6" y="17"/>
+ <path style="fill:#ffffff;opacity:0.2" d="m22 11.5v-0.5c0-0.551-0.45-1-1-1h-3v0.5h3c0.551 0 1 0.449 1 1z"/>
+ <rect style="opacity:0.2" width="16" height="11" x="2" y="3.5" ry="1"/>
+ <rect style="fill:#e4e4e4" width="16" height="11" x="2" y="3" ry="1"/>
+ <g transform="scale(.5)">
+  <rect style="opacity:0.2" width="4" height="4" x="30" y="22"/>
+  <path style="fill:#8e8e8e" d="M 22,14 V 16 H 34 V 14 Z M 22,18 V 20 H 24 V 18 Z M 26,18 V 20 H 34 V 18 Z"/>
+  <path style="fill:#4f4f4f" d="M 22,10 V 12 H 28 V 10 Z M 30,10 V 12 H 34 V 10 Z"/>
+ </g>
+ <rect style="opacity:0.1" width="7" height="7" x="3" y="4.5" ry="1"/>
+ <rect style="fill:#e97e10" width="7" height="7" x="3" y="4" ry="1"/>
+ <path style="fill:#e4e4e4" d="M 6.5,5 A 1.5,1.5 0 0 0 5,6.5 1.5,1.5 0 0 0 6.5,8 1.5,1.5 0 0 0 8,6.5 1.5,1.5 0 0 0 6.5,5 Z M 6.5,9 C 4,9 4,9.75 4,9.75 V 10 H 9 V 9.75 C 9,9.75 9,9 6.5,9 Z"/>
+</svg>

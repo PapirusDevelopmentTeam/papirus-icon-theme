@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" x="0" y="0" version="1.1" xml:space="preserve">
+ <g style="opacity:0.2" transform="matrix(0.625,0,0,0.625,4,5)">
+  <g>
+   <path d="M 32,0 C 49.7,0 64,14.3 64,32 64,49.7 49.7,64 32,64 14.3,64 0,49.7 0,32 0,14.3 14.3,0 32,0 Z"/>
+  </g>
+ </g>
+ <g style="fill:#e4e4e4" transform="matrix(0.625,0,0,0.625,4,4)">
+  <g style="fill:#e4e4e4">
+   <path style="fill:#e4e4e4" d="M 32,0 C 49.7,0 64,14.3 64,32 64,49.7 49.7,64 32,64 14.3,64 0,49.7 0,32 0,14.3 14.3,0 32,0 Z"/>
+  </g>
+ </g>
+ <g style="fill:#ffffff;opacity:0.2" transform="matrix(0.625,0,0,0.625,4,4)">
+  <g style="fill:#ffffff">
+   <path style="fill:#ffffff" transform="matrix(1.6,0,0,1.6,-6.4,-6.4)" d="M 24 4 C 12.9375 4 4 12.9375 4 24 C 4 24.167609 4.0076391 24.333391 4.0117188 24.5 C 4.2769007 13.670065 13.105109 5 24 5 C 34.894891 5 43.723099 13.670065 43.988281 24.5 C 43.992361 24.333391 44 24.167609 44 24 C 44 12.9375 35.0625 4 24 4 z"/>
+  </g>
+ </g>
+ <path style="opacity:0.1;fill-rule:evenodd" d="M 15 12 L 15 13 L 15 22 L 24 13 L 33 22 L 33 13 L 33 12 L 15 12 z M 33 22 L 24 31 L 15 22 L 15 30 L 24 39 L 33 30 L 33 22 z"/>
+ <path style="fill:#3a78b4;fill-rule:evenodd" d="m 15,12 0,9 9,-9 -9,0 z m 9,0 9,9 0,-9 -9,0 z m 9,9 -9,9 -9,-9 0,8 9,9 9,-9 0,-8 z"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="M 10,5 C 8.892,5 8,5.892 8,7 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 17 L 29,16 28,5 Z"/>
+ <path style="fill:#e4e4e4" d="M 10,4 C 8.892,4 8,4.892 8,6 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 16 L 29,15 28,4 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 10,4 C 8.892,4 8,4.892 8,6 V 7 C 8,5.892 8.892,5 10,5 h 18 l 11,11 h 1 L 28,4 Z"/>
+ <path style="opacity:0.2" d="m 28,5 v 10 c 0,1.1046 0.89543,2 2,2 h 10 z"/>
+ <path style="fill:#fafafa" d="m 28,4 v 10 c 0,1.1046 0.89543,2 2,2 h 10 z"/>
+ <rect style="fill:#267edb" width="2" height="19" x="14" y="21"/>
+ <rect style="fill:#267edb" width="5" height="2" x="14" y="21"/>
+ <rect style="fill:#267edb" width="5" height="2" x="14" y="38"/>
+ <rect style="fill:#267edb" width="2" height="19" x="-34" y="21" transform="scale(-1,1)"/>
+ <rect style="fill:#267edb" width="5" height="2" x="-34" y="21" transform="scale(-1,1)"/>
+ <rect style="fill:#267edb" width="5" height="2" x="-34" y="38" transform="scale(-1,1)"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:2" d="m 20,25 5,10"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:2" d="m 29,25 c 0,0 -4,14 -7,14 h -1"/>
+ <path style="fill:#267edb" d="m 37,26 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"/>
+ <path style="fill:#267edb" d="m 37,36 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"/>
+</svg>

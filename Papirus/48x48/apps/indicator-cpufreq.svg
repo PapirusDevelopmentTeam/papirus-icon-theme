@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g fill="#8e8e8e">
+  <g>
+   <rect width="2" height="40" x="27" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="23" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="19" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="15" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="31" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="35" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="39" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="11" y="-44" transform="rotate(90)"/>
+   <rect width="2" height="40" x="7" y="-44" transform="rotate(90)"/>
+  </g>
+  <rect width="2" height="40" x="23" y="4"/>
+  <rect width="2" height="40" x="19" y="4"/>
+  <rect width="2" height="40" x="15" y="4"/>
+  <rect width="2" height="40" x="11" y="4"/>
+  <rect width="2" height="40" x="27" y="4"/>
+  <rect width="2" height="40" x="31" y="4"/>
+  <rect width="2" height="40" x="35" y="4"/>
+  <rect width="2" height="40" x="7" y="4"/>
+  <rect width="2" height="40" x="39" y="4"/>
+ </g>
+ <rect fill="#b7b7b7" width="36" height="36" x="-42" y="-42" rx="1.8" ry="2.25" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#fff" opacity=".2" d="m8.25 6c-1.2465 0-2.25 0.8036-2.25 1.8008v1c0-0.9972 1.0035-1.8008 2.25-1.8008h31.5c1.246 0 2.25 0.8036 2.25 1.8008v-1c0-0.9972-1.004-1.8008-2.25-1.8008h-31.5z"/>
+ <path opacity=".2" d="m6 40.199v1c0 0.997 1.0035 1.801 2.25 1.801h31.5c1.246 0 2.25-0.804 2.25-1.801v-1c0 0.997-1.004 1.801-2.25 1.801h-31.5c-1.2465 0-2.25-0.804-2.25-1.801z"/>
+ <rect fill="#d13232" width="28" height="28" x="10" y="10" rx="2" ry="2"/>
+</svg>

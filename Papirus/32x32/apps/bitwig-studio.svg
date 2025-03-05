@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="14" ry="14"/>
+ <rect style="fill:#ff5a00" width="28" height="28" x="2" y="2" rx="14" ry="14"/>
+ <g style="opacity:0.2">
+  <circle cx="9.5" cy="13.5" r="1.5"/>
+  <circle cx="13.5" cy="13.5" r="1.5"/>
+  <circle cx="17.5" cy="13.5" r="1.5"/>
+  <circle cx="21.5" cy="13.5" r="1.5"/>
+  <circle cx="5.5" cy="17.5" r="1.5"/>
+  <circle cx="9.5" cy="17.5" r="1.5"/>
+  <circle cx="13.5" cy="17.5" r="1.5"/>
+  <circle cx="17.5" cy="17.5" r="1.5"/>
+  <circle cx="21.5" cy="17.5" r="1.5"/>
+  <circle cx="25.5" cy="17.5" r="1.5"/>
+  <circle cx="5.5" cy="21.5" r="1.5"/>
+  <circle cx="9.5" cy="21.5" r="1.5"/>
+  <circle cx="21.5" cy="21.5" r="1.5"/>
+  <circle cx="25.5" cy="21.5" r="1.5"/>
+ </g>
+ <g style="fill:#ffffff">
+  <circle cx="9.5" cy="12.5" r="1.5"/>
+  <circle cx="13.5" cy="12.5" r="1.5"/>
+  <circle cx="17.5" cy="12.5" r="1.5"/>
+  <circle cx="21.5" cy="12.5" r="1.5"/>
+  <circle cx="5.5" cy="16.5" r="1.5"/>
+  <circle cx="9.5" cy="16.5" r="1.5"/>
+  <circle cx="13.5" cy="16.5" r="1.5"/>
+  <circle cx="17.5" cy="16.5" r="1.5"/>
+  <circle cx="21.5" cy="16.5" r="1.5"/>
+  <circle cx="25.5" cy="16.5" r="1.5"/>
+  <circle cx="5.5" cy="20.5" r="1.5"/>
+  <circle cx="9.5" cy="20.5" r="1.5"/>
+  <circle cx="21.5" cy="20.5" r="1.5"/>
+  <circle cx="25.5" cy="20.5" r="1.5"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.2" d="M 16 2 C 8.244 2 2 8.244 2 16 C 2 16.169 2.0195 16.333 2.0254 16.5 C 2.2891 8.9794 8.4128 3 16 3 C 23.587 3 29.711 8.9794 29.975 16.5 C 29.98 16.333 30 16.169 30 16 C 30 8.244 23.756 2 16 2 z"/>
+</svg>

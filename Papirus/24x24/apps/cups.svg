@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="8.5" height="20" x="-16.5" y="-22" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="m 4,14 0,7.5 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 L 20,14 4,14 Z"/>
+ <path style="fill:#e4e4e4" d="M 5,2 C 4.446,2 4,2.446 4,3 L 4,9 20,9 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z"/>
+ <rect style="fill:#4f4f4f" width="9" height="20" x="-16" y="-22" rx="1.059" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="18" height="2" x="3" y="12.5"/>
+ <rect style="opacity:0.2" width="2" height="2" x="3" y="8.5" rx=".75" ry=".75"/>
+ <rect style="fill:#76ff03" width="2" height="2" x="3" y="8" rx=".75" ry=".75"/>
+ <path style="fill:#e4e4e4" d="M 4,13.5 4,21 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-7.5 -16,0 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 14,0 c 0.554,0 1,0.446 1,1 L 20,3 C 20,2.446 19.554,2 19,2 L 5,2 Z"/>
+ <rect style="opacity:0.5" width="10.5" height="1" x="6" y="19"/>
+ <rect style="opacity:0.5" width="8.5" height="1" x="6" y="17"/>
+ <rect style="opacity:0.5" width="12" height="1" x="6" y="15"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 3.75,8.0000006 c -0.4155,0 -0.75,0.3345 -0.75,0.75 l 0,0.5 c 0,-0.4155 0.3345,-0.75 0.75,-0.75 l 0.5,0 c 0.4155,0 0.75,0.3345 0.75,0.75 l 0,-0.5 c 0,-0.4155 -0.3345,-0.75 -0.75,-0.75 l -0.5,0 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3 7 C 2.446 7 2 7.4720055 2 8.0585938 L 2 8.5585938 C 2 7.9720055 2.446 7.5 3 7.5 L 21 7.5 C 21.554 7.5 22 7.9720055 22 8.5585938 L 22 8.0585938 C 22 7.4720055 21.554 7 21 7 L 3 7 z"/>
+</svg>

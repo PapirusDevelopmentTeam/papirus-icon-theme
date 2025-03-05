@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="1.4" ry="1.4"/>
+ <rect style="fill:#e4e4e4" width="27" height="28" x="-30" y="-30" rx="1.4" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="m2 9v1h28v-1z"/>
+ <path style="fill:#086cd6" d="m3.4003906 2c-0.7756 0-1.4003906 0.6247906-1.4003906 1.4003906v5.5996094h28v-5.5996094c0-0.7756-0.624791-1.4003906-1.400391-1.4003906z"/>
+ <path style="opacity:0.2" d="M 6,13 V 14 H 26 V 13 Z M 6,17 V 18 H 22 V 17 Z M 6,21 V 22 H 24 V 21 Z M 6,25 V 26 H 20 V 25 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z"/>
+</svg>

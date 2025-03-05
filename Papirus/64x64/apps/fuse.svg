@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m4 56v2c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-2c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3z" style="opacity:.2"/>
+ <rect x="4" y="4" width="56" height="56" rx="3" ry="3" style="fill:#4f4f4f"/>
+ <path d="m7 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m10 60h12l38-38v-12z" style="fill:#e36d66;stop-color:#000000"/>
+ <path d="m20 60h12l28-28v-12z" style="fill:#ebca41;stop-color:#000000"/>
+ <path d="m30 60h12l18-18v-12z" style="fill:#79de7d;stop-color:#000000"/>
+ <path d="m40 60h10l10-10v-10z" style="fill:#50beee;stop-color:#000000"/>
+ <path d="m26 11 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16 0h14v2l-9 11h9v3h-14v-2l9-11h-9z" style="opacity:.2"/>
+ <path d="m26 10 5 8-5 8h4l3-4.801 3 4.801h4l-5-8 5-8h-4l-3 4.801-3-4.801zm-16 0h14v2l-9 11h9v3h-14v-2l9-11h-9z" style="fill:#ffffff"/>
+</svg>

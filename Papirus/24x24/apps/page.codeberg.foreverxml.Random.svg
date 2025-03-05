@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <path opacity=".2" d="m 12,2.5 c -5.54,0 -10,4.46 -10,10 0,5.54 4.46,10 10,10 5.54,0 10,-4.46 10,-10 0,-5.54 -4.46,-10 -10,-10 z"/>
+ <path style="fill:#4f4f4f" d="M 12,2 C 6.46,2 2,6.46 2,12 2,17.54 6.46,22 12,22 17.54,22 22,17.54 22,12 22,6.46 17.54,2 12,2 Z"/>
+ <circle opacity=".1" cx="17.324" cy=".354" r="8" transform="rotate(45)"/>
+ <path fill="#ffffff" style="opacity:0.1" d="M 12,2 C 6.46,2 2,6.46 2,12 2,12.084 2.0038,12.1665 2.00585,12.25 2.1382,6.827 6.544,2.5 11.99985,2.5 c 5.45585,0 9.862,4.327 9.994,9.75 0.002,-0.0835 0.006,-0.166 0.006,-0.25 0,-5.54 -4.46,-10 -10,-10 z"/>
+ <circle style="fill:#5d5d5d" cx="16.971" cy="0" r="8" transform="rotate(45)"/>
+ <circle opacity=".2" cx="8" cy="8.5" r="1"/>
+ <circle style="fill:#fecd38" cx="8" cy="8" r="1"/>
+ <circle opacity=".2" cx="16" cy="16.5" r="1"/>
+ <circle style="fill:#79de7d" cx="16" cy="16" r="1"/>
+ <circle opacity=".2" cx="8.5" cy="-16" r="1" transform="rotate(90)"/>
+ <circle style="fill:#df574d" cx="8" cy="-16" r="1" transform="rotate(90)"/>
+ <circle opacity=".2" cx="16.5" cy="-8" r="1" transform="rotate(90)"/>
+ <circle style="fill:#50beee" cx="16" cy="-8" r="1" transform="rotate(90)"/>
+ <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;opacity:0.2" d="m 7,11.5 5,1"/>
+ <path style="fill:none;stroke:#afafb1;stroke-width:2;stroke-linecap:round" d="m 7,11 5,1"/>
+ <path style="opacity:0.2" d="m 12,10.5 c -1.103531,0 -2,0.896469 -2,2 0,1.103531 0.896469,2 2,2 1.103531,0 2,-0.896469 2,-2 0,-1.103531 -0.896469,-2 -2,-2 z"/>
+ <path style="fill:#cccccc" d="m 12,10 c -1.103531,0 -2,0.896469 -2,2 0,1.103531 0.896469,2 2,2 1.103531,0 2,-0.896469 2,-2 0,-1.103531 -0.896469,-2 -2,-2 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 12,10 c -1.103531,0 -2,0.896469 -2,2 0,0.08471 0.0073,0.168038 0.01758,0.25 C 10.140899,11.264285 10.981183,10.5 12,10.5 c 1.018816,0 1.859101,0.764285 1.982422,1.75 C 13.992676,12.168038 14,12.084714 14,12 14,10.896469 13.10353,10 12,10 Z"/>
+</svg>

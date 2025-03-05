@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <rect style="fill:#4f4f4f" width="16" height="11" x="0" y="5" rx=".8" ry=".846"/>
+ <circle style="fill:#e4e4e4" cx="4.5" cy="10.5" r="3.5"/>
+ <circle style="fill:#4f4f4f" cx="4.5" cy="10.5" r="1.5"/>
+ <rect style="fill:#4f4f4f" width="16" height="5" x="0" y="0" rx=".8" ry=".714"/>
+ <rect style="fill:#63a535" width="14" height="3" x="1" y="1" rx=".871" ry=".675"/>
+ <circle style="fill:#4f4f4f" cx="2.5" cy="2.5" r=".5"/>
+ <g transform="matrix(0.62499999,0,0,0.62499999,5.2500001,0.7500001)">
+  <rect style="fill:#983a0e" width="1.6" height="1.6" x="12.4" y="2"/>
+  <rect style="fill:#f7bf32" width=".8" height=".8" x="12.8" y="2.4"/>
+ </g>
+ <circle style="fill:#4f4f4f" cx="4.5" cy="2.5" r=".5"/>
+ <circle style="fill:#4f4f4f" cx="6.5" cy="2.5" r=".5"/>
+ <circle style="fill:#e4e4e4" cx="11.5" cy="10.5" r="3.5"/>
+ <circle style="fill:#4f4f4f" cx="11.5" cy="10.5" r="1.5"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="2" ry="2"/>
+ <rect style="fill:#e4e4e4" width="28" height="28" x="2" y="2" rx="2" ry="2"/>
+ <path style="opacity:0.2" d="M 5 6 L 5 16 L 15 16 L 15 6 L 5 6 z M 17 6 L 17 16 L 27 16 L 27 6 L 17 6 z M 5 18 L 5 28 L 15 28 L 15 18 L 5 18 z M 17 18 L 17 28 L 27 28 L 27 18 L 17 18 z"/>
+ <path style="fill:#283593" d="M 5 5 L 5 15 L 15 15 L 15 5 L 5 5 z M 5 17 L 5 27 L 15 27 L 15 17 L 5 17 z M 17 17 L 17 27 L 27 27 L 27 17 L 17 17 z"/>
+ <rect style="fill:#ba68c8" width="10" height="10" x="17" y="5"/>
+ <path style="fill:#ffffff;opacity:0.2" d="m4 2c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h24c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-24z"/>
+</svg>

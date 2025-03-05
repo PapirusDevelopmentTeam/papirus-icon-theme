@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect style="opacity:0.2" width="16" height="20" x="5" y="2.5" rx="3" ry="3"/>
+ <rect style="fill:#4f4f4f" width="16" height="20" x="5" y="2" rx="3" ry="3"/>
+ <circle style="opacity:0.2" cx="-5.5" cy="-18" r="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#ff4d4d" cx="-5" cy="-18" r="1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.4" cx="-11" cy="-13" r="4" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.2" cx="-11.5" cy="13" r="3" transform="rotate(-90)"/>
+ <circle style="fill:#00b1c4" cx="-11" cy="13" r="3" transform="rotate(-90)"/>
+ <circle style="opacity:0.2" cx="-11.5" cy="-13" r="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="fill:#70f4ff" cx="-11" cy="-13" r="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.2" width="2" height="12" x="3" y="6.5" rx=".5" ry=".462"/>
+ <rect style="fill:#3f3f3f" width="2" height="12" x="3" y="6" rx=".5" ry=".462"/>
+ <circle style="opacity:0.5" cx="7.5" cy="18.5" r=".5"/>
+ <circle style="opacity:0.5" cx="9.5" cy="18.5" r=".5"/>
+ <circle style="opacity:0.5" cx="11.5" cy="18.5" r=".5"/>
+ <circle style="opacity:0.5" cx="13.5" cy="18.5" r=".5"/>
+ <circle style="opacity:0.5" cx="8.5" cy="20" r=".5"/>
+ <circle style="opacity:0.5" cx="10.5" cy="20" r=".5"/>
+ <circle style="opacity:0.5" cx="12.5" cy="20" r=".5"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 8,2 C 6.338,2 5,3.338 5,5 v 0.5 c 0,-1.662 1.338,-3 3,-3 h 10 c 1.662,0 3,1.338 3,3 V 5 C 21,3.338 19.662,2 18,2 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 18 4 A 1 1 0 0 0 17 5 A 1 1 0 0 0 17.033203 5.25 A 1 1 0 0 1 18 4.5 A 1 1 0 0 1 18.966797 5.25 A 1 1 0 0 0 19 5 A 1 1 0 0 0 18 4 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 13 8 A 3 3 0 0 0 10 11 A 3 3 0 0 0 10.013672 11.255859 A 3 3 0 0 1 13 8.5 A 3 3 0 0 1 15.986328 11.244141 A 3 3 0 0 0 16 11 A 3 3 0 0 0 13 8 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 13 9 A 2 2 0 0 0 11 11 A 2 2 0 0 0 11.017578 11.255859 A 2 2 0 0 1 13 9.5 A 2 2 0 0 1 14.982422 11.244141 A 2 2 0 0 0 15 11 A 2 2 0 0 0 13 9 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 3.5 6 C 3.223 6 3 6.2052452 3 6.4609375 L 3 6.9609375 C 3 6.7052452 3.223 6.5 3.5 6.5 L 4.5 6.5 C 4.777 6.5 5 6.7052452 5 6.9609375 L 5 6.4609375 C 5 6.2052452 4.777 6 4.5 6 L 3.5 6 z"/>
+</svg>

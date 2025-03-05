@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
+ <path style="fill:#6aa22a" d="M 42,44 C 43.108,44 44,43.108 44,42 V 24 H 23 V 44 Z"/>
+ <path style="fill:#71c454" d="M 6,44 C 4.892,44 4,43.108 4,42 V 23 H 24 V 44 Z"/>
+ <path style="fill:#86d478" d="M 4,24 V 6 C 4,4.892 4.892,4 6,4 H 25 V 24 Z"/>
+ <path style="fill:#36862c" d="M 24,4 V 24 H 44 V 6 C 44,4.892 43.108,4 42,4 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6,4 C 4.892,4 4,4.892 4,6 V 7 C 4,5.892 4.892,5 6,5 H 42 C 43.108,5 44,5.892 44,7 V 6 C 44,4.892 43.108,4 42,4 Z"/>
+ <circle style="opacity:0.2" cx="35" cy="36" r="12"/>
+ <circle style="fill:#3f3f3f" cx="35" cy="35" r="12"/>
+ <path style="fill:#ffffff" d="M 31,32 V 34 H 39 V 32 Z M 31,36 V 38 H 39 V 36 Z"/>
+ <path style="fill:#3f3f3f" d="M 31,14 V 16 H 39 V 14 Z"/>
+ <path style="fill:#3f3f3f" d="M 16,11 V 14 H 19 V 16 H 16 V 19 H 14 V 16 H 11 V 14 H 14 V 11 Z"/>
+ <path style="fill:#3f3f3f" d="M 11,29.586 9.5859,31 10.293,31.707 12.586,34 10.293,36.293 9.5859,37 11,38.414 11.707,37.707 14,35.414 16.293,37.707 17,38.414 18.414,37 17.707,36.293 15.414,34 17.707,31.707 18.414,31 17,29.586 16.293,30.293 14,32.586 11.707,30.293 Z"/>
+</svg>

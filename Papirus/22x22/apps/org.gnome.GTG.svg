@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="opacity:0.2" width="16" height="18" x="3" y="3.5" rx="1.586" ry="1.602"/>
+ <path style="fill:#989898" d="M 11,0 A 2,2 0 0 0 9,2 2,2 0 0 0 11,4 2,2 0 0 0 13,2 2,2 0 0 0 11,0 Z m 0,1 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"/>
+ <rect style="fill:#50beee" width="16" height="18" x="3" y="3" rx="1.586" ry="1.602"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 4.5859375,3 C 3.7074579,3 3,3.6948245 3,4.557617 v 0.5 C 3,4.1948245 3.7074579,3.5 4.5859375,3.5 H 17.414062 C 18.292542,3.5 19,4.1948245 19,5.057617 v -0.5 C 19,3.6948245 18.292542,3 17.414062,3 Z"/>
+ <rect style="fill:#ffffff" width="12" height="15" x="5" y="4"/>
+ <path style="fill:#989898" d="M 7.666992,2 C 7.2976585,2 7,2.3181527 7,2.7138672 V 3.786133 5 h 8 V 3.786133 2.7138672 C 15,2.3181527 14.702341,2 14.333008,2 H 12 C 12,2.5522847 11.552285,3 11,3 10.447715,3 10,2.5522847 10,2 Z"/>
+ <path style="fill:none;stroke:#5f5f5f;stroke-width:1.5;stroke-linecap:round" d="M 6.709983,11.749997 7.7631595,12.503529 9.25,10.748236"/>
+ <path style="fill:none;stroke:#c8c8c8;stroke-width:1.5;stroke-linecap:round" d="M 11.75,7.249925 H 15.7"/>
+ <path style="fill:none;stroke:#5f5f5f;stroke-width:1.5;stroke-linecap:round" d="M 6.709983,7.2499975 7.763159,8.0035285 9.25,6.248236"/>
+ <path style="fill:none;stroke:#5f5f5f;stroke-width:1.5;stroke-linecap:round" d="M 6.709983,16.250002 7.763159,17.003529 9.25,15.248236"/>
+ <path style="fill:none;stroke:#c8c8c8;stroke-width:1.5;stroke-linecap:round" d="M 11.75,11.749925 H 15.7"/>
+ <path style="fill:none;stroke:#c8c8c8;stroke-width:1.5;stroke-linecap:round" d="M 11.75,16.249925 H 15.7"/>
+ <rect style="opacity:0.2" width="12" height=".5" x="5" y="19"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 11,0 A 2,2 0 0 0 9,2 H 7.666992 C 7.2976585,2 7,2.3181527 7,2.7138672 v 0.5 C 7,2.8181527 7.2976585,2.5 7.666992,2.5 H 9 a 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 h 1.333008 C 14.702341,2.5 15,2.8181527 15,3.2138672 v -0.5 C 15,2.3181527 14.702341,2 14.333008,2 H 13 A 2,2 0 0 0 11,0 Z m 0.967774,2.2480469 A 1,1 0 0 1 11,3 1,1 0 0 1 10.032227,2.2519531 1,1 0 0 0 10,2.5 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -0.03223,-0.2519531 z"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="fill:#828282" width="6" height="12" x="29" y="44"/>
+ <path style="opacity:0.2" d="M 32,4 C 24.8,4 19,9.8 19,17 V 34 H 45 V 17 C 45,9.8 39.2,4 32,4 Z M 32,10 C 35.9,10 39,13.1 39,17 V 28 H 25 V 17 C 25,13.1 28.1,10 32,10 Z"/>
+ <path style="fill:#e4e4e4" d="m32 3c-7.2 0-13 5.8-13 13v17h26v-17c0-7.2-5.8-13-13-13zm0 6c3.9 0 7 3.1 7 7v11h-14v-11c0-3.9 3.1-7 7-7z"/>
+ <rect style="opacity:0.2" width="34" height="24" x="15" y="22" rx="2.8" ry="2.8"/>
+ <rect style="fill:#fecd38" width="34" height="24" x="15" y="21" rx="2.8" ry="2.8"/>
+ <rect style="fill:#ffffff;opacity:0.3" width="34" height="16" x="15" y="25"/>
+ <rect style="opacity:0.2" width="58" height="6" x="3" y="54" rx="3" ry="3"/>
+ <rect style="fill:#828282" width="58" height="6" x="3" y="53" rx="3" ry="3"/>
+ <rect style="fill:#afafb1" width="20" height="10" x="22" y="51"/>
+ <rect style="opacity:0.2" width="20" height="1" x="22" y="61"/>
+ <rect style="fill:#ffffff;opacity:0.2" width="20" height="1" x="22" y="51"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 32,3 C 24.8,3 19,8.8 19,16 V 17 C 19,9.8 24.8,4 32,4 39.2,4 45,9.8 45,17 V 16 C 45,8.8 39.2,3 32,3 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 17.801 21 C 16.25 21 15 22.25 15 23.801 L 15 24.801 C 15 23.25 16.25 22 17.801 22 L 46.199 22 C 47.75 22 49 23.25 49 24.801 L 49 23.801 C 49 22.25 47.75 21 46.199 21 L 17.801 21 z"/>
+</svg>

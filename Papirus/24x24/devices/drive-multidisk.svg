@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <g>
+  <rect style="fill:#4f4f4f" width="2" height="1" x="18" y="11"/>
+  <rect style="fill:#4f4f4f" width="2" height="1" x="4" y="11"/>
+  <rect style="opacity:0.2" width="7" height="20" x="-11.5" y="-22" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#8e8e8e" width="7" height="20" x="-11" y="-22" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <circle style="opacity:0.2" cx="18" cy="8" r="1"/>
+  <circle style="fill:#76ff03" cx="18" cy="7.5" r="1"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 3.5,4 C 2.669,4 2,4.669 2,5.5 V 6 C 2,5.169 2.669,4.5 3.5,4.5 H 20.5 C 21.331,4.5 22,5.169 22,6 V 5.5 C 22,4.669 21.331,4 20.5,4 Z"/>
+ </g>
+ <g>
+  <rect style="fill:#4f4f4f" width="2" height="1" x="18" y="19"/>
+  <rect style="fill:#4f4f4f" width="2" height="1" x="4" y="19"/>
+  <rect style="opacity:0.2" width="7" height="20" x="-19.5" y="-22" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#8e8e8e" width="7" height="20" x="-19" y="-22" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <circle style="opacity:0.2" cx="18" cy="16" r="1"/>
+  <circle style="fill:#76ff03" cx="18" cy="15.5" r="1"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 3.5,12 C 2.669,12 2,12.669 2,13.5 V 14 C 2,13.169 2.669,12.5 3.5,12.5 H 20.5 C 21.331,12.5 22,13.169 22,14 V 13.5 C 22,12.669 21.331,12 20.5,12 Z"/>
+ </g>
+</svg>

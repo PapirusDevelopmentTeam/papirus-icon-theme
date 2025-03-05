@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g transform="translate(-1,-1)">
+  <circle style="opacity:0.2" cx="12" cy="12.5" r="10"/>
+  <circle style="fill:#e4e4e4" cx="12" cy="12" r="10"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0176,12.25 10,10 0 0 1 12,2.5 10,10 0 0 1 21.99,12.125 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z"/>
+  <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 7.5,13 10.5,16 V 16 L 16.5,10"/>
+  <path style="fill:none;stroke:#248afd;stroke-width:3;stroke-linecap:round" d="M 16.5,9.5 10.5,15.5"/>
+  <path style="fill:none;stroke:#50beee;stroke-width:3;stroke-linecap:round" d="M 7.5,12.5 10.5,15.5"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 7.5,11 A 1.5,1.5 0 0 0 6.4395,11.439 1.5,1.5 0 0 0 6.0254,12.75 1.5,1.5 0 0 1 6.4395,11.939 1.5,1.5 0 0 1 7.5,11.5 1.5,1.5 0 0 1 8.5605,11.939 L 11.561,14.939 A 1.5,1.5 0 0 1 11.979,15.75 1.5,1.5 0 0 0 11.561,14.439 L 8.5605,11.439 A 1.5,1.5 0 0 0 7.5,11 Z M 16.5,8 A 1.5,1.5 0 0 0 15.439,8.4395 L 10.5,13.379 10.75,13.629 15.439,8.9395 A 1.5,1.5 0 0 1 16.5,8.5 1.5,1.5 0 0 1 17.561,8.9395 1.5,1.5 0 0 1 17.979,9.75 1.5,1.5 0 0 0 17.561,8.4395 1.5,1.5 0 0 0 16.5,8 Z"/>
+ </g>
+</svg>

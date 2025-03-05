@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <path style="opacity:0.2" d="m 32,5 0,28 28,0 A 28,28 0 0 0 32,5 Z m 0,28 -28,0 a 28,28 0 0 0 28,28 l 0,-28 z"/>
+ <path style="fill:#e4e4e4" d="m 32,4 0,28 28,0 A 28,28 0 0 0 32,4 Z m 0,28 -28,0 a 28,28 0 0 0 28,28 l 0,-28 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 32 4 L 32 5 A 28 28 0 0 1 59.949219 32 L 60 32 A 28 28 0 0 0 32 4 z M 4 32 A 28 28 0 0 0 4.0507812 33 L 32 33 L 32 32 L 4 32 z"/>
+ <circle style="opacity:0.2" cx="32" cy="33" r="22"/>
+ <circle style="fill:#ffffff" cx="32" cy="32" r="22"/>
+ <circle style="fill:#3ca2e4" cx="32" cy="32" r="17"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="m 26,22.9997 12,0 0,10 -12,0 0,10 12,0"/>
+ <path style="fill:none;stroke:#ffc34c;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" d="m 26,22 12,0 0,10 -12,0 0,10 12,0"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 26 19 A 3.0003 3.0003 0 0 0 23.001953 22.492188 A 3.0003 3.0003 0 0 1 26 20 L 38 20 A 3.0003 3.0003 0 0 1 41 23 L 41 22 A 3.0003 3.0003 0 0 0 38 19 L 26 19 z M 26 29 A 3.0003 3.0003 0 0 0 23 32 L 23 33 A 3.0003 3.0003 0 0 1 26 30 L 35 30 L 35 29 L 26 29 z M 29 39 L 29 40 L 38 40 A 3.0003 3.0003 0 0 1 40.998047 42.505859 A 3.0003 3.0003 0 0 0 38 39 L 29 39 z"/>
+</svg>

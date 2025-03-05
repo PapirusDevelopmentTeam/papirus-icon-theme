@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="fill:#9f6c2c" d="M 6,4 C 4.892,4 4,4.892 4,6 V 41 H 44 V 6 C 44,4.892 43.108,4 42,4 Z"/>
+ <rect style="fill:#dc912f" width="12" height="18" x="4" y="26"/>
+ <rect style="fill:#dc912f" width="12" height="18" x="32" y="26"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="12" height="6" x="4" y="26"/>
+ <rect style="opacity:0.1" width="44" height="4" x="2" y="23" rx="1" ry="1"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="12" height="6" x="4" y="32"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="12" height="6" x="32" y="26"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="12" height="6" x="32" y="32"/>
+ <circle style="fill:#ffffff" cx="10" cy="29" r="1"/>
+ <circle style="fill:#ffffff" cx="10" cy="35" r="1"/>
+ <circle style="fill:#ffffff" cx="10" cy="41" r="1"/>
+ <circle style="fill:#ffffff" cx="38" cy="29" r="1"/>
+ <circle style="fill:#ffffff" cx="38" cy="35" r="1"/>
+ <circle style="fill:#ffffff" cx="38" cy="41" r="1"/>
+ <path style="opacity:0.2" d="m 4,9 v 2 5 2 5 h 2 v -5 h 6 v 5 h 2 v -5 h 9 v 5 h 2 v -5 h 9 2 6 2 V 9 H 36 25 23 14 6 Z m 2,2 h 6 v 5 H 6 Z m 8,0 h 9 v 5 h -9 z m 11,0 h 9 v 5 h -9 z m 11,0 h 6 v 5 h -6 z"/>
+ <path style="fill:#eabd82" d="m 4,8 v 2 5 2 5 h 2 v -5 h 6 v 5 h 2 v -5 h 9 v 5 h 2 v -5 h 9 2 6 2 V 8 H 36 25 23 14 6 Z m 2,2 h 6 v 5 H 6 Z m 8,0 h 9 v 5 h -9 z m 11,0 h 9 v 5 h -9 z m 11,0 h 6 v 5 h -6 z"/>
+ <rect style="opacity:0.2" width="12" height="1" x="4" y="32"/>
+ <rect style="opacity:0.2" width="12" height="1" x="32" y="32"/>
+ <rect style="opacity:0.2" width="12" height="1" x="4" y="38"/>
+ <rect style="opacity:0.2" width="12" height="1" x="32" y="38"/>
+ <rect style="opacity:0.2" width="12" height="1" x="4" y="44"/>
+ <rect style="opacity:0.2" width="12" height="1" x="32" y="44"/>
+ <rect style="opacity:0.2" width="16" height="1" x="16" y="41"/>
+ <rect style="fill:#dc912f" width="44" height="4" x="2" y="22" rx="1" ry="1"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3 22 C 2.446 22 2 22.446 2 23 L 2 24 C 2 23.446 2.446 23 3 23 L 45 23 C 45.554 23 46 23.446 46 24 L 46 23 C 46 22.446 45.554 22 45 22 L 3 22 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 7 C 4 5.892 4.892 5 6 5 L 42 5 C 43.108 5 44 5.892 44 7 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z"/>
+</svg>

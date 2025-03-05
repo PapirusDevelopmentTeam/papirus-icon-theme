@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <defs>
+  <linearGradient id="linearGradient4721" x1="24.756" x2="24.102" y1="26.512" y2="5.924" gradientTransform="matrix(0.34375,0,0,0.33334,2.75,1.5)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <rect style="fill:#e4e4e4" width="16" height="20" x="-19" y="1" rx="1" ry="1" transform="scale(-1,1)"/>
+ <rect style="opacity:0.15;fill:url(#linearGradient4721)" width="11" height="7" x="5.5" y="3.5" rx=".206" ry=".2"/>
+ <rect style="fill:#333333" width="10" height="6" x="6" y="4" rx="0" ry="0"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 4,1 C 3.446,1 3,1.446 3,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 14 c 0.554,0 1,0.446 1,1 V 2 C 19,1.446 18.554,1 18,1 Z"/>
+ <path style="opacity:0.2" d="m 3,20 v 0.5 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 20 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,21 3,20.554 3,20 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 6.4,12.5 c -0.3324,0 -0.3724,0.26875 -0.4,0.6 v 1.4 H 4.6 C 4.2676,14.5 4,14.568 4,14.9 v 1.2 c 0,0.3324 0.26844,0.37632 0.6,0.4 H 6 v 1.4 c 0,0.3324 0.0676,0.6 0.4,0.6 H 7.6 C 7.9324,18.5 8,18.232 8,17.9 v -1.4 h 1.4 c 0.3324,0 0.6,-0.0676 0.6,-0.4 V 14.9 C 10,14.568 9.7324,14.5 9.4,14.5 H 8 V 13.1 C 8,12.768 7.9324,12.5 7.6,12.5 Z"/>
+ <path style="fill:#4f4f4f" d="M 6.4,12 C 6.0676,12 6.0276,12.269 6,12.6 V 14 H 4.6 C 4.2676,14 4,14.068 4,14.4 v 1.2 c 0,0.3324 0.26844,0.37632 0.6,0.4 H 6 v 1.4 C 6,17.732 6.0676,18 6.4,18 H 7.6 C 7.9324,18 8,17.732 8,17.4 V 16 H 9.4 C 9.7324,16 10,15.932 10,15.6 V 14.4 C 10,14.068 9.732,14 9.4,14 H 8 V 12.6 C 8,12.268 7.9324,12 7.6,12 Z"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="16" cy="14.5" r="1"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="13" cy="14.5" r="1"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="16" cy="17.5" r="1"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="13" cy="17.5" r="1"/>
+ <circle style="fill:#ef5646" cx="16" cy="14" r="1"/>
+ <circle style="fill:#ef5646" cx="13" cy="14" r="1"/>
+ <circle style="fill:#eb9200" cx="16" cy="17" r="1"/>
+ <circle style="fill:#eb9200" cx="13" cy="17" r="1"/>
+</svg>

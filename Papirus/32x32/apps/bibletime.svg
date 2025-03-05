@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="22" height="28" x="5" y="3" rx="1.5" ry="1.5"/>
+ <rect style="fill:#3d65c2" width="22" height="28" x="5" y="2" rx="1.5" ry="1.5"/>
+ <path style="opacity:0.2" d="M 6.5 2 C 5.669 2 5 2.669 5 3.5 L 5 28.5 C 5 29.331 5.669 30 6.5 30 L 9 30 L 9 2 L 6.5 2 z"/>
+ <path style="opacity:0.2" d="M 16,7 V 12 H 11 V 16 H 16 V 27 H 20 V 16 H 25 V 12 H 20 V 7 Z"/>
+ <path style="fill:#ffd972" d="M 16 6 L 16 11 L 11 11 L 11 15 L 16 15 L 16 26 L 20 26 L 20 15 L 25 15 L 25 11 L 20 11 L 20 6 L 16 6 z"/>
+ <circle style="opacity:0.2" cx="24" cy="24" r="8"/>
+ <circle style="fill:#ff982d" cx="24" cy="23" r="8"/>
+ <path style="fill:#ffffff" d="M 24,18 C 21.239,18 19,20.239 19,23 19,25.761 21.239,28 24,28 26.761,28 29,25.761 29,23 29,20.239 26.761,18 24,18 Z M 24,19 C 26.209,19 28,20.791 28,23 28,25.209 26.209,27 24,27 21.791,27 20,25.209 20,23 20,20.791 21.791,19 24,19 Z M 23,20 V 24 H 27 V 23 H 24 V 20 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6.5 2 C 5.669 2 5 2.669 5 3.5 L 5 4.5 C 5 3.669 5.669 3 6.5 3 L 25.5 3 C 26.331 3 27 3.669 27 4.5 L 27 3.5 C 27 2.669 26.331 2 25.5 2 L 6.5 2 z"/>
+</svg>

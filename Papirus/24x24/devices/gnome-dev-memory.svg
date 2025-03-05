@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="12" x="2" y="6.5" rx="1" ry="1"/>
+ <rect style="fill:#419d45" width="20" height="12" x="2" y="6" rx="1" ry="1"/>
+ <g style="opacity:0.2">
+  <rect width="3" height="6" x="3" y="9.5" rx=".5" ry=".5"/>
+  <rect width="3" height="6" x="8" y="9.5" rx=".5" ry=".5"/>
+  <rect width="3" height="6" x="13" y="9.5" rx=".5" ry=".5"/>
+  <rect width="3" height="6" x="18" y="9.5" rx=".5" ry=".5"/>
+ </g>
+ <g style="fill:#37474f">
+  <rect width="3" height="6" x="3" y="9" rx=".5" ry=".5"/>
+  <rect width="3" height="6" x="8" y="9" rx=".5" ry=".5"/>
+  <rect width="3" height="6" x="13" y="9" rx=".5" ry=".5"/>
+  <rect width="3" height="6" x="18" y="9" rx=".5" ry=".5"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3 6 C 2.446 6 2 6.446 2 7 L 2 7.5 C 2 6.946 2.446 6.5 3 6.5 L 21 6.5 C 21.554 6.5 22 6.946 22 7.5 L 22 7 C 22 6.446 21.554 6 21 6 L 3 6 z"/>
+ <g style="opacity:0.2">
+  <rect width="2" height="2" x="3" y="17.5"/>
+  <rect width="2" height="2" x="6" y="17.5"/>
+  <rect width="2" height="2" x="9" y="17.5"/>
+  <rect width="2" height="2" x="13" y="17.5"/>
+  <rect width="2" height="2" x="16" y="17.5"/>
+  <rect width="2" height="2" x="19" y="17.5"/>
+ </g>
+ <g style="fill:#f8c44e">
+  <rect width="2" height="2" x="3" y="17"/>
+  <rect width="2" height="2" x="6" y="17"/>
+  <rect width="2" height="2" x="9" y="17"/>
+  <rect width="2" height="2" x="13" y="17"/>
+  <rect width="2" height="2" x="16" y="17"/>
+  <rect width="2" height="2" x="19" y="17"/>
+ </g>
+ <g style="opacity:0.1;fill:#ffffff">
+  <path d="M 3.5 9 C 3.223 9 3 9.223 3 9.5 L 3 10 C 3 9.723 3.223 9.5 3.5 9.5 L 5.5 9.5 C 5.777 9.5 6 9.723 6 10 L 6 9.5 C 6 9.223 5.777 9 5.5 9 L 3.5 9 z"/>
+  <path d="M 8.5,9 C 8.223,9 8,9.223 8,9.5 V 10 C 8,9.723 8.223,9.5 8.5,9.5 H 10.5 C 10.777,9.5 11,9.723 11,10 V 9.5 C 11,9.223 10.777,9 10.5,9 Z"/>
+  <path d="M 13.5,9 C 13.223,9 13,9.223 13,9.5 V 10 C 13,9.723 13.223,9.5 13.5,9.5 H 15.5 C 15.777,9.5 16,9.723 16,10 V 9.5 C 16,9.223 15.777,9 15.5,9 Z"/>
+  <path d="M 18.5,9 C 18.223,9 18,9.223 18,9.5 V 10 C 18,9.723 18.223,9.5 18.5,9.5 H 20.5 C 20.777,9.5 21,9.723 21,10 V 9.5 C 21,9.223 20.777,9 20.5,9 Z"/>
+ </g>
+</svg>

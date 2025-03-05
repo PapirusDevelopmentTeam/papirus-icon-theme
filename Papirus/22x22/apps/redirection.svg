@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect style="opacity:0.2" width="20" height="20" x="1" y="1.5" rx="1" ry="1"/>
+ <rect style="fill:#c73638" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path style="opacity:0.3" d="m 1,13 v 7 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 v -7 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
+ <rect style="fill:#2f2f2f" width="14" height="12" x="4" y="4"/>
+ <rect style="fill:#ffffff" width="2" height="3" x="7" y="8"/>
+ <rect style="fill:#ffffff" width="2" height="3" x="13" y="8"/>
+ <rect style="opacity:0.4" width="6" height="2" x="8" y="17"/>
+ <rect style="opacity:0.2" width="14" height=".5" x="4" y="4"/>
+ <rect style="opacity:0.2" width="2" height=".5" x="7" y="11"/>
+ <rect style="opacity:0.2" width="2" height=".5" x="13" y="11"/>
+</svg>

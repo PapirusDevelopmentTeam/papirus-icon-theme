@@ -1,0 +1,13 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(1 .5)">
+  <circle cx="15" cy="9" r="6" style="opacity:.2"/>
+  <circle cx="15" cy="8.5" r="6" style="fill:#e54333"/>
+  <path d="M 15,2.5 A 6,6 0 0 0 9,8.5 6,6 0 0 0 9.00977,8.7851562 6,6 0 0 1 15,3 6,6 0 0 1 20.990234,8.7148438 6,6 0 0 0 21,8.5 6,6 0 0 0 15,2.5 Z" style="fill:#ffffff;opacity:.2"/>
+  <circle cx="7" cy="11" r="6" style="opacity:.2"/>
+  <circle cx="7" cy="10.5" r="6" style="fill:#0fd925"/>
+  <path d="M 7,4.5000001 A 6,6 0 0 0 1,10.5 6,6 0 0 0 1.00977,10.785156 6,6 0 0 1 7,5 a 6,6 0 0 1 5.990234,5.714844 6,6 0 0 0 0.0098,-0.214844 6,6 0 0 0 -6,-6 z" style="fill:#ffffff;opacity:.2"/>
+  <circle cx="13" cy="14" r="6" style="opacity:.2"/>
+  <circle cx="13" cy="13.5" r="6" style="fill:#4168b5"/>
+  <path d="m 13,7.5 a 6,6 0 0 0 -6,6 6,6 0 0 0 0.00977,0.285156 A 6,6 0 0 1 13,8 6,6 0 0 1 18.990234,13.714844 6,6 0 0 0 19,13.5 6,6 0 0 0 13,7.5 Z" style="fill:#ffffff;opacity:.2"/>
+ </g>
+</svg>

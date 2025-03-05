@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect fill="#8e8e8e" width="28" height="22" x="-30" y="-27" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path opacity=".5" d="m16 6c-3.866 0-7 3.134-7 7v7h7c3.866 0 7-3.134 7-7s-3.134-7-7-7zm0 3a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z"/>
+ <path fill="#fff" opacity=".2" d="m7 2c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-18z"/>
+ <path opacity=".2" d="m5 28v1c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2z"/>
+ <circle fill="#4daaf5" cx="24" cy="23" r="8"/>
+ <g fill="#fff" transform="translate(4,2)">
+  <rect width="3" height="6" x="19" y="20"/>
+  <rect width="3" height="3" x="19" y="16"/>
+ </g>
+ <path opacity=".2" d="m31.979 23.424a8 8 0 0 1 -7.979 7.576 8 8 0 0 1 -7.979 -7.424 8 8 0 0 0 -0.021 0.424 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -0.02148 -0.57617z"/>
+</svg>
