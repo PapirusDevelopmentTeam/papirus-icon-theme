@@ -14,13 +14,11 @@ Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon
 
 Android version available [here](https://github.com/PapirusDevelopmentTeam/papirus_icons).
 
-Papirus icon theme is available in five variants:
+Papirus icon theme is available in three variants:
 
  - Papirus (base variant)
  - Papirus Dark (for dark themes)
  - Papirus Light (for light themes)
- - ePapirus (for elementary OS and Pantheon Desktop, light theme)
- - ePapirus Dark (for elementary OS and Pantheon Desktop, dark theme)
 
 ## Contents
 
