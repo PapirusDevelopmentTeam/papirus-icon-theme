@@ -74,7 +74,7 @@ COLORS=(
 	[yellow]="    #f9bd30 #e19d00 #594411 #e4e4e4"
 	[nordic]="    #81a1c1 #5e81ac #3b4253 #eceff4"
 
- 	[chameleon]="currentColor fadedColor currentColor #e4e4e4"
+	[chameleon]="currentColor fadedColor currentColor #e4e4e4"
 )
 
 headline() {
@@ -194,7 +194,6 @@ headline "PHASE 5: Copy color folder icons to derivative themes ..."
 COLOR_NAMES="${!COLORS[*]}"  # get a string of colors
 COLOR_REGEX="(${COLOR_NAMES// /|})"  # convert the list of colors to regex
 DERIVATIVES=(
-	ePapirus
 	Papirus-Dark
 )  # array of derivative icon themes with 16x16 places
 
