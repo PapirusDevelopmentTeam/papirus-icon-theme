@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="22" height="28" x="-28" y="-30" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#0245c5" width="22" height="28" x="-27" y="-30" rx="1.5" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.2" transform="matrix(0,-1,-1,0,0,0)" d="m -25.5,-30 h 19 c 0.831,0 1.5,0.669 1.5,1.5 V -16 h -22 v -12.5 c 0,-0.831 0.669,-1.5 1.5,-1.5 z"/>
+ <path style="fill:#ffffff;opacity:0.1" transform="matrix(0,-1,-1,0,0,0)" d="m -16,-30 h 9.5 c 0.831,0 1.5,0.669 1.5,1.5 v 25 C -5,-2.669 -5.669,-2 -6.5,-2 H -16 Z"/>
+ <path fill="#fff" opacity=".1" d="m3.5 5c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <rect style="opacity:0.2" width="12" height="15" x="-17" y="-16" rx=".5" ry=".5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#ebebeb" width="12" height="15" x="-16" y="-16" rx=".5" ry=".5" transform="matrix(0,-1,-1,0,0,0)"/>
+</svg>

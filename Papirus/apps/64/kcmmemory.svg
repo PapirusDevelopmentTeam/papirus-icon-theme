@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <g style="fill:#8e8e8e">
+  <rect style="fill:#8e8e8e" width="2" height="52" x="-24" y="-58" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="2" height="52" x="-18" y="-58" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="2" height="52" x="-42" y="-58" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="2" height="52" x="-36" y="-58" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="2" height="52" x="-30" y="-58" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="2" height="52" x="-48" y="-58" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-24" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-18" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-12" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-42" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-36" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-30" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-48" y="12" transform="rotate(-90)"/>
+  <rect style="fill:#8e8e8e" width="2" height="40" x="-54" y="12" transform="rotate(-90)"/>
+ </g>
+ <rect style="opacity:0.2" width="48" height="36" x="-57" y="-50" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="48" height="36" x="-56" y="-50" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 16.5 8 C 15.115 8 14 9.115 14 10.5 L 14 11.5 C 14 10.115 15.115 9 16.5 9 L 47.5 9 C 48.885 9 50 10.115 50 11.5 L 50 10.5 C 50 9.115 48.885 8 47.5 8 L 16.5 8 z"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="12" height="2" x="14" y="-41" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="6" height="2" x="28" y="-41" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="14" height="2" x="36" y="-41" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="16" height="2" x="14" y="-33" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="16" height="2" x="32" y="-33" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="6" height="2" x="14" y="-25" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="6" height="2" x="22" y="-25" transform="rotate(90)"/>
+ <rect style="opacity:0.4;fill:#ffffff" width="12" height="2" x="30" y="-25" transform="rotate(90)"/>
+</svg>

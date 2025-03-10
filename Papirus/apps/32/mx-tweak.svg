@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="1.4" ry="1.4"/>
+ <rect style="fill:#6b9fff" width="23" height="23" x="7" y="2" rx="1.4" ry="1.4"/>
+ <path style="fill:#446191" d="M 8,23 V 29 L 9,30 H 28.6 C 29.375,30 30,29.375 30,28.6 V 23 Z"/>
+ <path style="fill:#29353b" d="M 3.4004,2 C 2.6248,2 2,2.6248 2,3.4004 V 28.6 C 2,29.375 2.6248,30 3.4004,30 H 9 V 2 Z"/>
+ <rect style="opacity:0.2" width="3" height="3" x="25" y="26" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="25" y="25" rx=".375" ry=".375"/>
+ <rect style="opacity:0.2" width="3" height="3" x="20" y="26" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="20" y="25" rx=".375" ry=".375"/>
+ <rect style="opacity:0.2" width="3" height="3" x="15" y="26" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="15" y="25" rx=".375" ry=".375"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="6" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="4" y="5" rx=".375" ry=".375"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="11" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="4" y="10" rx=".375" ry=".375"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="16" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="4" y="15" rx=".375" ry=".375"/>
+ <rect style="opacity:0.2" width="3" height="3" x="4" y="26" rx=".375" ry=".375"/>
+ <rect style="fill:#ffffff" width="3" height="3" x="4" y="25" rx=".375" ry=".375"/>
+ <path style="opacity:0.2" d="M 13.471,7 C 11.51,6.9721 11.51,10.002 13.471,9.9744 15.381,9.9744 17.242,10.809 18.483,12.262 19.389,13.323 19.913,14.635 20.016,16 H 17 L 21.5,22 26,16 H 22.91 C 22.802,13.949 22.045,11.967 20.688,10.379 18.897,8.2828 16.227,7 13.471,7 Z"/>
+ <path style="fill:#ffffff" d="M 13.471,6 C 11.51,5.9721 11.51,9.0022 13.471,8.9744 15.381,8.9744 17.242,9.8094 18.483,11.262 19.389,12.323 19.913,13.635 20.016,15 H 17 L 21.5,21 26,15 H 22.91 C 22.802,12.949 22.045,10.967 20.688,9.3787 18.897,7.2828 16.227,6 13.471,6 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3.4004 2 C 2.6248 2 2 2.6248 2 3.4004 L 2 4.4004 C 2 3.6248 2.6248 3 3.4004 3 L 28.6 3 C 29.375 3 30 3.6248 30 4.4004 L 30 3.4004 C 30 2.6248 29.375 2 28.6 2 L 3.4004 2 z"/>
+</svg>

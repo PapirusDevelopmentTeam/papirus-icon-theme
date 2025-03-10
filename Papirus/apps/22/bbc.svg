@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <rect fill="#c2352a" width="20" height="20" x="1" y="1" rx="1" ry="1"/>
+ <path fill="#fff" opacity=".2" d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z"/>
+ <path opacity=".2" d="m2 21.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z"/>
+ <g opacity=".2" transform="matrix(.5 0 0 .5 -1.5 0)">
+  <path d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
+ </g>
+ <g fill="#fff" transform="matrix(.5 0 0 .5 -1.5 -.5)">
+  <path d="m19 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path d="m7 19v10h10v-10zm1 1h7v3h1v5h-8v-6zm2 2v1h3v-1zm0 3v1h4v-1z"/>
+  <path d="m31 19v10h10v-10h-10zm1 1h8v2h-6v4h6v2h-8v-8z"/>
+ </g>
+</svg>

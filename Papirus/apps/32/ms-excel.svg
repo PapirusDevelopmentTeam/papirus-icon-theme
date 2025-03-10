@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="24" height="28" x="7" y="3" rx="1.4" ry="1.4"/>
+ <path style="fill:#185c37" d="M 31,23 V 28.6 C 31,29.376 30.376,30 29.6,30 H 8.4 C 7.624,30 7,29.376 7,28.6 V 15 H 18 L 19,16 Z"/>
+ <path style="fill:#21a366" d="M 8.4,2 H 19 L 31,9 V 17 H 20 L 19,16 7,9 V 3.4 C 7,2.6244 7.624,2 8.4,2 Z"/>
+ <path style="fill:#33c481" d="M 19,2 H 29.6 C 30.376,2 31,2.6244 31,3.4 V 9 H 19 Z"/>
+ <path style="fill:#107c41" d="M 19,16 H 31 V 23 H 19 Z M 7,9 H 19 V 16 H 7 Z"/>
+ <path style="opacity:0.1" d="M 7,9 H 31 V 10 H 7 Z M 7,16 H 31 V 17 H 7 Z M 7,23 H 31 V 24 H 7 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 8.4,2 C 7.625,2 7,2.6248 7,3.4004 V 4.4004 C 7,3.6248 7.625,3 8.4,3 H 29.6 C 30.375,3 31,3.6248 31,4.4004 V 3.4004 C 31,2.6248 30.375,2 29.6,2 Z"/>
+ <rect style="opacity:0.2" width="16" height="16" x="1" y="9" rx="1.4" ry="1.4"/>
+ <rect style="fill:#0e6f3a" width="16" height="16" x="1" y="8" rx="1.4" ry="1.4"/>
+ <path style="fill:#ffffff" d="M 4.5335,21 7.7692,15.986 4.8054,11 H 7.1904 L 9.136,14.863 11.2,11 H 13.39 L 10.349,15.958 13.467,21 H 11.137 L 9.0174,17.032 6.8766,21 Z"/>
+</svg>

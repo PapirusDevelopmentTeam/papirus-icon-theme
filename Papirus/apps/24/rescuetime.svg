@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <rect fill="#e4e4e4" width="8" height="20" x="8" y="2" rx="1" ry="1"/>
+ <rect fill="#e4e4e4" width="8" height="20" x="8" y="-22" rx="1" ry="1" transform="rotate(90)"/>
+ <rect opacity=".2" width="2" height="8" x="11.5" y="-20" rx="1" ry="1" transform="rotate(90)"/>
+ <rect fill="#3e3e3e" width="2" height="8" x="11" y="4" rx="1" ry="1"/>
+ <rect fill="#3e3e3e" width="2" height="8" x="11" y="-20" rx="1" ry="1" transform="rotate(90)"/>
+ <circle opacity=".2" cx="12" cy="12.5" r="3"/>
+ <circle fill="#df574d" cx="12" cy="12" r="3"/>
+ <path opacity=".2" d="m2 15v0.5c0 0.554 0.446 1 1 1h5v-0.5h-5c-0.554 0-1-0.446-1-1zm20 0c0 0.554-0.446 1-1 1h-5v0.5h5c0.554 0 1-0.446 1-1v-0.5zm-14 6v0.5c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1z"/>
+ <path fill="#fff" opacity=".2" d="m9 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-6zm-6 6c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h5v-0.5h-5zm13 0v0.5h5c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-5z"/>
+</svg>

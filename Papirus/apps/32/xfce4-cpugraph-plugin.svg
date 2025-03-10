@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <g fill="#8e8e8e">
+  <rect width="1" height="26" x="20" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="23" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="26" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="11" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="14" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="17" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="8" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="5" y="-29" transform="rotate(90)"/>
+ </g>
+ <g fill="#8e8e8e" transform="matrix(0,1,-1,0,32,0)">
+  <rect width="1" height="26" x="20" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="23" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="26" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="11" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="14" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="17" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="8" y="-29" transform="rotate(90)"/>
+  <rect width="1" height="26" x="5" y="-29" transform="rotate(90)"/>
+ </g>
+ <rect fill="#b7b7b7" width="24" height="24" x="-28" y="-28" rx="1.2" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#fff" opacity=".2" d="m5.5 4c-0.831 0-1.5 0.5344-1.5 1.1992v1c0-0.6648 0.669-1.1992 1.5-1.1992h21c0.831 0 1.5 0.5344 1.5 1.1992v-1c0-0.6648-0.669-1.1992-1.5-1.1992h-21z"/>
+ <path opacity=".2" d="m4 26.801v1c0 0.665 0.669 1.199 1.5 1.199h21c0.831 0 1.5-0.534 1.5-1.199v-1c0 0.665-0.669 1.199-1.5 1.199h-21c-0.831 0-1.5-0.534-1.5-1.199z"/>
+ <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 2.4999997,16.500343 H 11.5 l 3.131607,-6.9999996 2.736786,13.9999996 3.131607,-7 h 9"/>
+ <path style="fill:none;stroke:#009688;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 2.4999997,15.500343 H 11.5 l 3.131607,-6.9999997 2.736786,13.9999997 3.131607,-7 h 9"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <path style="fill:#cccccc;fill-rule:evenodd" d="M 6,2 V 6 H 2 v 12 h 4 v 4 h 12 v -4 h 4 V 6 H 18 V 2 Z"/>
+ <path style="fill:#33d533;fill-rule:evenodd" d="M 3.5,2 C 2.669,2 2,2.669 2,3.5 V 6 H 6 V 2 Z"/>
+ <path style="fill:#33d533;fill-rule:evenodd" d="m 18,18 v 4 h 2.5 C 21.331,22 22,21.331 22,20.5 V 18 Z"/>
+ <path style="fill:#ff5b5b;fill-rule:evenodd" d="m 2,18 v 2.5 C 2,21.331 2.669,22 3.5,22 H 6 v -4 z"/>
+ <path style="fill:#ff5b5b;fill-rule:evenodd" d="m 18,2 v 4 h 4 V 3.5 C 22,2.669 21.331,2 20.5,2 Z"/>
+ <path style="fill:#696969;fill-rule:evenodd" d="m 6,2 v 4 h 4 V 2 Z m 4,4 v 4 h 4 V 6 Z m 4,0 h 4 V 2 h -4 z m 4,0 v 4 h 4 V 6 Z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m -4,0 v -4 h -4 v 4 z m -4,0 H 6 v 4 h 4 z M 6,18 V 14 H 2 v 4 z m 0,-4 h 4 V 10 H 6 Z M 6,10 V 6 H 2 v 4 z"/>
+ <path style="opacity:0.2" d="M 2,20.5 V 21 c 0,0.831 0.669,1.5 1.5,1.5 h 17 C 21.331,22.5 22,21.831 22,21 V 20.5 C 22,21.331 21.331,22 20.5,22 H 3.5 C 2.669,22 2,21.331 2,20.5 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 3.5,2 C 2.669,2 2,2.669 2,3.5 V 4 C 2,3.169 2.669,2.5 3.5,2.5 h 17 C 21.331,2.5 22,3.169 22,4 V 3.5 C 22,2.669 21.331,2 20.5,2 Z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="M 2,6 V 6.5 H 6 V 6 Z m 8,0 v 0.5 h 4 V 6 Z m 8,0 v 0.5 h 4 V 6 Z M 6,10 v 0.5 h 4 V 10 Z m 8,0 v 0.5 h 4 V 10 Z M 2,14 v 0.5 H 6 V 14 Z m 8,0 v 0.5 h 4 V 14 Z m 8,0 v 0.5 h 4 V 14 Z M 6,18 v 0.5 h 4 V 18 Z m 8,0 v 0.5 h 4 V 18 Z"/>
+</svg>

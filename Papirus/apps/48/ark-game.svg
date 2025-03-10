@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <defs>
+  <linearGradient id="linearGradient4831" x1="19.528" x2="24.327" y1="30.591" y2="33.124" gradientTransform="translate(0,-3)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path fill="#4f4f4f" d="m4 38h10l10-19 10 19h10l-15-27h-10z"/>
+ <path fill="#fff" opacity=".2" d="m19 11-15 27h0.5547l14.445-26h10l14.445 26h0.555l-15-27h-10z"/>
+ <path fill="#e33e31" d="m8.5 30 5.5 8h-10z"/>
+ <path fill="#e4be21" d="m39.5 30 4.5 8h-10z"/>
+ <path fill="#3c8cf8" d="m24 19 5-8h-10z"/>
+ <path fill="#4f4f4f" d="m21.369 24-4.211 8h6.842v-8h-2.6309z"/>
+ <path fill="url(#linearGradient4831)" opacity=".15" d="m21.369 24-4.211 8h6.842v-8h-2.6309z"/>
+ <path opacity=".2" d="m19 12 5 8 5-8h-0.625l-4.375 7-4.375-7h-0.625zm-14.438 26-0.5625 1h10l-0.6875-1h-8.75zm30.125 0-0.6875 1h10l-0.5625-1h-8.75z"/>
+ <path fill="#fff" opacity=".2" d="m19 11 0.625 1h8.75l0.625-1h-10zm-10.5 19-4.5 8h0.5625l3.9375-7 4.812 7h0.688l-5.5-8zm31 0-5.5 8h0.6875l4.812-7 3.938 7h0.562l-4.5-8z"/>
+ <path opacity=".2" d="m24 19-10 19h-9.4453l-0.5547 1h10l10-19 10 19h10l-0.555-1h-9.445l-10-19z"/>
+ <path fill="#fff" opacity=".2" d="m21.369 24-4.2109 8h0.52539l3.6855-7h2.632v-1h-2.6309z"/>
+ <path opacity=".2" d="m17.684 32-0.526 1h6.842v-1h-6.3164z"/>
+</svg>

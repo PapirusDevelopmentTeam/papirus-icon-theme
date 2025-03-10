@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g transform="translate(-1,-1)">
+  <path style="opacity:0.2" d="M 4,21.5 C 3.446,21.5 3,21.054 3,20.5 V 17.5 H 22 V 20.5 C 22,21.054 21.554,21.5 21,21.5 Z"/>
+  <path fill="#1e88e5" d="M 4,3 C 3.446,3 3,3.446 3,4 V 17 H 22 V 4 C 22,3.446 21.554,3 21,3 Z"/>
+  <path fill="#253951" d="M 4,21 C 3.446,21 3,20.554 3,20 V 17 H 22 V 20 C 22,20.554 21.554,21 21,21 Z"/>
+  <rect style="opacity:0.2" width="3" height="3" x="5" y="15.5" rx=".5" ry=".5"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="5" y="15" rx=".5" ry=".5"/>
+  <rect style="opacity:0.2" width="3" height="3" x="9" y="15.5" rx=".5" ry=".5"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="9" y="15" rx=".5" ry=".5"/>
+  <rect style="opacity:0.2" width="3" height="3" x="13" y="15.5" rx=".5" ry=".5"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="13" y="15" rx=".5" ry=".5"/>
+  <rect style="opacity:0.2" width="3" height="3" x="17" y="15.5" rx=".5" ry=".5"/>
+  <rect style="fill:#ffffff" width="3" height="3" x="17" y="15" rx=".5" ry=".5"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 4,3 C 3.446,3 3,3.446 3,4 V 4.5 C 3,3.946 3.446,3.5 4,3.5 H 21 C 21.554,3.5 22,3.946 22,4.5 V 4 C 22,3.446 21.554,3 21,3 Z"/>
+ </g>
+</svg>

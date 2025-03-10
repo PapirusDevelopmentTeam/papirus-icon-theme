@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="40" height="24" x="4" y="13" rx="2" ry="2"/>
+ <rect style="fill:#419d45" width="40" height="25" x="4" y="11" rx="2" ry="2"/>
+ <g style="opacity:0.2">
+  <rect width="3" height="4" x="6" y="34"/>
+  <rect width="3" height="4" x="10" y="34"/>
+  <rect width="3" height="4" x="14" y="34"/>
+  <rect width="3" height="4" x="18" y="34"/>
+  <rect width="3" height="4" x="23" y="34"/>
+  <rect width="3" height="4" x="27" y="34"/>
+  <rect width="3" height="4" x="31" y="34"/>
+  <rect width="3" height="4" x="35" y="34"/>
+  <rect width="3" height="4" x="39" y="34"/>
+ </g>
+ <g style="fill:#f8c44e">
+  <rect width="3" height="4" x="6" y="33"/>
+  <rect width="3" height="4" x="10" y="33"/>
+  <rect width="3" height="4" x="14" y="33"/>
+  <rect width="3" height="4" x="18" y="33"/>
+  <rect width="3" height="4" x="23" y="33"/>
+  <rect width="3" height="4" x="27" y="33"/>
+  <rect width="3" height="4" x="31" y="33"/>
+  <rect width="3" height="4" x="35" y="33"/>
+  <rect width="3" height="4" x="39" y="33"/>
+ </g>
+ <g style="opacity:0.2">
+  <rect width="7" height="12" x="6" y="17" rx="1" ry="1"/>
+  <rect width="7" height="12" x="15" y="17" rx="1" ry="1"/>
+  <rect width="7" height="12" x="26" y="17" rx="1" ry="1"/>
+  <rect width="7" height="12" x="35" y="17" rx="1" ry="1"/>
+ </g>
+ <g style="fill:#37474f">
+  <rect width="7" height="12" x="6" y="16" rx="1" ry="1"/>
+  <rect width="7" height="12" x="15" y="16" rx="1" ry="1"/>
+  <rect width="7" height="12" x="26" y="16" rx="1" ry="1"/>
+  <rect width="7" height="12" x="35" y="16" rx="1" ry="1"/>
+ </g>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6,11 C 4.892,11 4,11.892 4,13 V 14 C 4,12.892 4.892,12 6,12 H 42 C 43.108,12 44,12.892 44,14 V 13 C 44,11.892 43.108,11 42,11 Z"/>
+ <g style="opacity:0.1;fill:#ffffff">
+  <path d="M 7 16 C 6.446 16 6 16.446 6 17 L 6 18 C 6 17.446 6.446 17 7 17 L 12 17 C 12.554 17 13 17.446 13 18 L 13 17 C 13 16.446 12.554 16 12 16 L 7 16 z"/>
+  <path d="M 16,16 C 15.446,16 15,16.446 15,17 V 18 C 15,17.446 15.446,17 16,17 H 21 C 21.554,17 22,17.446 22,18 V 17 C 22,16.446 21.554,16 21,16 Z"/>
+  <path d="M 27,16 C 26.446,16 26,16.446 26,17 V 18 C 26,17.446 26.446,17 27,17 H 32 C 32.554,17 33,17.446 33,18 V 17 C 33,16.446 32.554,16 32,16 Z"/>
+  <path d="M 36,16 C 35.446,16 35,16.446 35,17 V 18 C 35,17.446 35.446,17 36,17 H 41 C 41.554,17 42,17.446 42,18 V 17 C 42,16.446 41.554,16 41,16 Z"/>
+ </g>
+</svg>

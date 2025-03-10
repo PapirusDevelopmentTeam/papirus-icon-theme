@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <circle style="opacity:0.2" cx="32" cy="31" r="29"/>
+ <circle style="fill:#7160bd" cx="32" cy="30" r="29"/>
+ <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:6" d="M 32,3 V 24.75 C 17.5,32 19.856843,50 32,50 44.143158,50 46.5,32 32,24.75"/>
+ <path style="fill:none;stroke:#e4e4e4;stroke-width:6" d="M 32,1 V 23.75 C 17.5,31 19.856843,49 32,49 44.143158,49 46.5,31 32,23.75"/>
+ <rect style="opacity:0.2" width="12" height="6" x="26" y="17" rx="3" ry="3"/>
+ <rect style="fill:#ffffff" width="12" height="6" x="26" y="16" rx="3" ry="3"/>
+ <rect style="opacity:0.2" width="12" height="6" x="26" y="11" rx="3" ry="3"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 32 1 A 29 29 0 0 0 3 30 A 29 29 0 0 0 3.0175781 30.488281 A 29 29 0 0 1 32 2 A 29 29 0 0 1 60.974609 30.494141 A 29 29 0 0 0 61 30 A 29 29 0 0 0 32 1 z"/>
+ <rect style="fill:#ffffff" width="12" height="6" x="26" y="10" rx="3" ry="3"/>
+ <rect style="opacity:0.2" width="12" height="6" x="26" y="5" rx="3" ry="3"/>
+ <rect style="fill:#ffffff" width="12" height="6" x="26" y="4" rx="3" ry="3"/>
+</svg>

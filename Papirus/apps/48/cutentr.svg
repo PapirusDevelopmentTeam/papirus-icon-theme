@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
+ <rect style="fill:#c5c5cc" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path style="fill:#8f8f8f" transform="matrix(0,-1,-1,0,0,0)" d="M -41.999996,-44 H -23 v 40 h -18.999996 c -1.108,0 -2,-0.892 -2,-2 v -36 c 0,-1.108 0.892,-2 2,-2 z"/>
+ <path style="fill:#3e3e3e" d="M 12,7 H 36 V 20 H 12 M 12,7"/>
+ <path style="fill:#3e3e3e" d="M 16,28 H 32 V 41 H 16 m 0,-13"/>
+ <g style="opacity:0.2" transform="translate(-4.0200005,18.07)">
+  <rect width="3" height="9" x="13.02" y="12.93" ry="0"/>
+  <rect width="3" height="9" x="15.93" y="-19.02" ry="0" transform="rotate(90)"/>
+ </g>
+ <g style="fill:#e4e4e4" transform="translate(-4.0200005,17.07)">
+  <rect width="3" height="9" x="13.02" y="12.93" ry="0"/>
+  <rect width="3" height="9" x="15.93" y="-19.02" ry="0" transform="rotate(90)"/>
+ </g>
+ <g style="opacity:0.2">
+  <rect width="4" height="1" x="6" y="15"/>
+  <rect width="4" height="1" x="6" y="17"/>
+  <rect width="4" height="1" x="6" y="19"/>
+ </g>
+ <g style="opacity:0.2" transform="translate(32)">
+  <rect width="4" height="1" x="6" y="15"/>
+  <rect width="4" height="1" x="6" y="17"/>
+  <rect width="4" height="1" x="6" y="19"/>
+ </g>
+ <rect style="opacity:0.2" width="40" height="2" x="4" y="23"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 7 C 4 5.892 4.892 5 6 5 L 42 5 C 43.108 5 44 5.892 44 7 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z"/>
+ <circle style="opacity:0.2" cx="35" cy="36" r="11"/>
+ <circle style="fill:#5c6f77" cx="35" cy="35" r="11"/>
+ <path style="fill:#ffffff" d="m 33.500258,29 -0.132812,1.580078 a 4.7143,4.7143 0 0 0 -1.376954,0.796875 l -1.4375,-0.675781 -1.5,2.597656 1.304688,0.90625 A 4.7143,4.7143 0 0 0 30.285414,35 a 4.7143,4.7143 0 0 0 0.06836,0.798828 l -1.300782,0.902344 1.5,2.597656 1.433594,-0.673828 a 4.7143,4.7143 0 0 0 1.38086,0.791016 L 33.500258,41 h 3 l 0.130859,-1.580078 a 4.7143,4.7143 0 0 0 1.378907,-0.796875 l 1.435546,0.675781 1.5,-2.597656 -1.302734,-0.90625 A 4.7143,4.7143 0 0 0 39.715102,35 4.7143,4.7143 0 0 0 39.646742,34.201172 l 1.300782,-0.902344 -1.5,-2.597656 L 38.01393,31.375 A 4.7143,4.7143 0 0 0 36.63307,30.583984 L 36.500258,29 Z m 1.451172,4 a 1.9997667,2.0003499 0 0 1 0.04883,0 1.9997667,2.0003499 0 0 1 2,2 1.9997667,2.0003499 0 0 1 -2,2 1.9997667,2.0003499 0 0 1 -2,-2 1.9997667,2.0003499 0 0 1 1.951172,-2 z"/>
+</svg>

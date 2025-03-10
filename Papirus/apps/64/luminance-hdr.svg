@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="3" ry="3"/>
+ <rect style="fill:#fecd38" width="40" height="40" x="4" y="4" rx="3" ry="3"/>
+ <path style="opacity:0.2" d="m4 17v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+ <rect style="opacity:0.2" width="40" height="40" x="12" y="13" rx="3" ry="3"/>
+ <path style="fill:#9d9d9d" d="m4 16v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+ <rect style="fill:#e97e10" width="40" height="40" x="12" y="12" rx="3" ry="3"/>
+ <path style="opacity:0.2" d="m12 24v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+ <rect style="opacity:0.2" width="40" height="40" x="20" y="21" rx="3" ry="3"/>
+ <path style="fill:#7d7d7d" d="m12 23v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+ <rect style="fill:#df574d" width="40" height="40" x="20" y="20" rx="3" ry="3"/>
+ <circle style="fill:#fecd38" cx="32" cy="41" r="6"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7,4 C 5.338,4 4,5.338 4,7 V 8 C 4,6.338 5.338,5 7,5 H 41 C 42.662,5 44,6.338 44,8 V 7 C 44,5.338 42.662,4 41,4 Z"/>
+ <g style="opacity:0.2" transform="translate(0,1)">
+  <path d="m20 31v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+  <path d="m28 51h32c-16-45-32 0-32 0z"/>
+ </g>
+ <path style="opacity:0.2;fill:#ffffff" d="m32 35c-3.313708 0-6 2.686292-6 6 0-2.761424 2.686292-5 6-5s6 2.238576 6 5c0-3.313708-2.686292-6-6-6zm6 6h-12z"/>
+ <path style="fill:#5d5d5d" d="m20 31v20h15c-5.181142-14.585722-10.362154-19.718564-15-20z"/>
+ <path style="fill:#e4e4e4" d="m28 51h32c-16-45-32 0-32 0z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m44.814453 31.003906c-9.59259-0.317402-16.814453 19.996094-16.814453 19.996094s16-42.75 32 0c-5.25-14.765625-10.500793-19.841084-15.185547-19.996094z"/>
+</svg>

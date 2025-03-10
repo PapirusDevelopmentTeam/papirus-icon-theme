@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="28" height="22" x="-31" y="-27" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#8e8e8e" width="28" height="22" x="-30" y="-27" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.5" d="M 23,2 V 17 C 23,20.878 19.878,24 16,24 12.122,24 9,20.878 9,17 V 2 Z"/>
+ <circle style="opacity:0.2" cx="16" cy="18" r="3"/>
+ <circle style="fill:#8e8e8e" cx="16" cy="17" r="3"/>
+ <circle style="opacity:0.2" cx="16" cy="12" r="1"/>
+ <circle style="fill:#ff6e40" cx="16" cy="11" r="1"/>
+ <circle style="opacity:0.2" cx="16" cy="8" r="1"/>
+ <circle style="fill:#76ff03" cx="16" cy="7" r="1"/>
+ <rect style="opacity:0.5" width="16" height="2" x="8" y="28"/>
+ <path style="opacity:0.5" d="M 25.5,16 C 25.223,16 25,16.223 25,16.5 25,16.777 25.223,17 25.5,17 H 27 V 16 Z M 25.5,18 C 25.223,18 25,18.223 25,18.5 25,18.777 25.223,19 25.5,19 H 27 V 18 Z M 25.5,20 C 25.223,20 25,20.223 25,20.5 25,20.777 25.223,21 25.5,21 H 27 V 20 Z"/>
+ <path style="opacity:0.5" d="M 6.5,16 C 6.777,16 7,16.223 7,16.5 7,16.777 6.777,17 6.5,17 H 5 V 16 Z M 6.5,18 C 6.777,18 7,18.223 7,18.5 7,18.777 6.777,19 6.5,19 H 5 V 18 Z M 6.5,20 C 6.777,20 7,20.223 7,20.5 7,20.777 6.777,21 6.5,21 H 5 V 20 Z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="m7 2c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-18z"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="27" height="27" x="-31" y="-29" rx="1.35" ry="1.35" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#4f4f4f" width="27" height="27" x="-30" y="-29" rx="1.35" ry="1.35" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2" d="m 4,9 0,3 0,4 0,3 0,7 3,0 0,-7 4,0 0,-3 -4,0 0,-4 4,0 0,-3 -4,0 -3,0 z m 8,0 0,17 3,0 4,0 0,-3 -4,0 0,-4 4,0 0,-3 -4,0 0,-4 4,0 0,-3 -4,0 -3,0 z m 8,0 0,17 3,0 0,-7 1,0 0,7 3,0 0,-7 0,-3 0,-7 -3,0 0,7 -1,0 0,-7 -3,0 z"/>
+ <rect style="fill:#df4545" width="3" height="17" x="4" y="8"/>
+ <rect style="fill:#df4545" width="3" height="7" x="8" y="-11" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#df4545" width="3" height="7" x="15" y="-11" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#df4545" width="3" height="17" x="12" y="8"/>
+ <rect style="fill:#df4545" width="3" height="7" x="8" y="-19" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#df4545" width="3" height="7" x="15" y="-19" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#df4545" width="3" height="17" x="20" y="8"/>
+ <rect style="fill:#df4545" width="3" height="7" x="15" y="-27" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#df4545" width="3" height="7" x="22" y="-19" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#df4545" width="3" height="17" x="24" y="8"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 3.3496094 3 C 2.6017094 3 2 3.6017094 2 4.3496094 L 2 5.3496094 C 2 4.6017094 2.6017094 4 3.3496094 4 L 27.650391 4 C 28.398291 4 29 4.6017094 29 5.3496094 L 29 4.3496094 C 29 3.6017094 28.398291 3 27.650391 3 L 3.3496094 3 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 4 8 L 4 9 L 7 9 L 11 9 L 11 8 L 7 8 L 4 8 z M 12 8 L 12 9 L 15 9 L 19 9 L 19 8 L 15 8 L 12 8 z M 20 8 L 20 9 L 23 9 L 23 8 L 20 8 z M 24 8 L 24 9 L 27 9 L 27 8 L 24 8 z M 7 15 L 7 16 L 11 16 L 11 15 L 7 15 z M 15 15 L 15 16 L 19 16 L 19 15 L 15 15 z M 23 15 L 23 16 L 24 16 L 24 15 L 23 15 z M 15 22 L 15 23 L 19 23 L 19 22 L 15 22 z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <path style="opacity:.2" d="m32 5a28 28 0 0 0 -28 28 28 28 0 0 0 28 28 28 28 0 0 0 28 -28 28 28 0 0 0 -28 -28z"/>
+ <path style="fill:#9aca3c" d="m32 4a28 28 0 0 0 -28 28 28 28 0 0 0 28 28 28 28 0 0 0 28 -28 28 28 0 0 0 -28 -28z"/>
+ <path style="opacity:.2;stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:6;fill:none" d="m21.999804 20.000071 10.4 13.00004"/>
+ <path style="opacity:.2;stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:6;fill:none" d="m23.999804 46.000071 20-26"/>
+ <g transform="translate(-1.0001958)">
+  <path style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;fill:none;stroke-width:6" d="m25 45 20-26"/>
+  <path style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;fill:none;stroke-width:6" d="m23 19 10.4 13.00004"/>
+ </g>
+ <path style="opacity:.2;fill:#ffffff" d="m32 4a28 28 0 0 0 -28 28 28 28 0 0 0 0.0214844 0.40625 28 28 0 0 1 27.978516 -27.40625 28 28 0 0 1 27.978516 27.578125 28 28 0 0 0 0.021484 -0.578125 28 28 0 0 0 -28 -28z"/>
+ <circle style="opacity:.2" cx="48" cy="48" r="16"/>
+ <circle style="fill:#9739d9" cx="48" cy="47" r="16"/>
+ <path style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:4;fill:none" d="m42 54v-14l12 14v-14"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#e4e4e4" width="16" height="40" x="16" y="4" rx="2" ry="2"/>
+ <rect fill="#e4e4e4" width="16" height="40" x="16" y="-44" rx="2" ry="2" transform="rotate(90)"/>
+ <rect opacity=".2" width="4" height="16" x="23" y="-40" rx="2" ry="2" transform="rotate(90)"/>
+ <rect fill="#3e3e3e" width="4" height="16" x="22" y="8" rx="2" ry="2"/>
+ <rect fill="#3e3e3e" width="4" height="16" x="22" y="-40" rx="2" ry="2" transform="rotate(90)"/>
+ <circle opacity=".2" cx="24" cy="25" r="6"/>
+ <circle fill="#df574d" cx="24" cy="24" r="6"/>
+ <path opacity=".2" d="m4 30v1c0 1.108 0.892 2 2 2h10v-1h-10c-1.108 0-2-0.892-2-2zm40 0c0 1.108-0.892 2-2 2h-10v1h10c1.108 0 2-0.892 2-2v-1zm-28 12v1c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-12c-1.108 0-2-0.892-2-2z"/>
+ <path fill="#fff" opacity=".2" d="m18 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h12c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-12zm-12 12c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h10v-1h-10zm26 0v1h10c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-10z"/>
+</svg>

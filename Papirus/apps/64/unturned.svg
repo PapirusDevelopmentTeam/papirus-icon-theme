@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="2.8" ry="2.8"/>
+ <rect style="fill:#568156" width="56" height="56" x="4" y="4" rx="2.8" ry="2.8"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 9,28 0,6 6,0 0,-6 -6,0 z"/>
+ <path style="fill:#3f3f3f;fill-rule:evenodd" d="m 9,27 0,6 6,0 0,-6 -6,0 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 49,28 0,6 6,0 0,-6 -6,0 z"/>
+ <path style="fill:#3f3f3f;fill-rule:evenodd" d="m 49,27 0,6 6,0 0,-6 -6,0 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 24,38 0,3 15,0 0,-3 z m 15,3 0,3 4,0 0,3 -22.9,0 0,-3 3.9,0 0,-3 -3.9,0 -3.1,0 0,6 -3,0 0,7 3,0 0,-4 26,0 0,5 3.2,0 0,-14 -3.2,0 z"/>
+ <path style="fill:#3f3f3f;fill-rule:evenodd" d="m 24,37 0,3 15,0 0,-3 z m 15,3 0,3 4,0 0,3 -22.9,0 0,-3 3.9,0 0,-3 -3.9,0 -3.1,0 0,6 -3,0 0,7 3,0 0,-4 26,0 0,5 3.2,0 0,-14 -3.2,0 z"/>
+ <path style="opacity:0.2;fill-rule:evenodd" d="m 24,41 0,3 -4,0 0,3 4,0 15,0 4,0 0,-3 -4,0 0,-3 z"/>
+ <path style="fill:#c03c3c;fill-rule:evenodd" d="m 24,40 0,3 -4,0 0,3 4,0 15,0 4,0 0,-3 -4,0 0,-3 z"/>
+ <path style="opacity:0.1;fill:#ffffff;fill-rule:evenodd" d="M 24 40 L 24 41 L 39 41 L 39 40 L 24 40 z M 20 43 L 20 44 L 24 44 L 24 43 L 20 43 z M 39 43 L 39 44 L 43 44 L 43 43 L 39 43 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6.8007812 4 C 5.2495813 4 4 5.2495813 4 6.8007812 L 4 7.8007812 C 4 6.2495813 5.2495813 5 6.8007812 5 L 57.199219 5 C 58.750419 5 60 6.2495813 60 7.8007812 L 60 6.8007812 C 60 5.2495813 58.750419 4 57.199219 4 L 6.8007812 4 z"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
+ <g transform="translate(-1,-1)">
+  <g style="fill:#8e8e8e">
+   <rect width="1" height="17" x="14" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="12" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="10" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="8" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="16" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="18" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="20" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="6" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="17" x="4" y="-21" transform="rotate(90)"/>
+   <rect width="1" height="20" x="12" y="2"/>
+   <rect width="1" height="20" x="10" y="2"/>
+   <rect width="1" height="20" x="8" y="2"/>
+   <rect width="1" height="20" x="6" y="2"/>
+   <rect width="1" height="20" x="14" y="2"/>
+   <rect width="1" height="20" x="16" y="2"/>
+   <rect width="1" height="20" x="18" y="2"/>
+  </g>
+  <rect style="opacity:0.2" width="15" height="18" x="5" y="3.5" rx="1" ry="1"/>
+  <rect style="fill:#4f4f4f" width="15" height="18" x="5" y="3" rx="1" ry="1"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 6,3 C 5.446,3 5,3.446 5,4 V 4.5 C 5,3.946 5.446,3.5 6,3.5 H 19 C 19.554,3.5 20,3.946 20,4.5 V 4 C 20,3.446 19.554,3 19,3 Z"/>
+  <g style="opacity:0.4;fill:#ffffff">
+   <rect width="1" height="2" x="9" y="6"/>
+   <rect width="1" height="2" x="9" y="9"/>
+   <rect width="1" height="4" x="9" y="12"/>
+   <rect width="1" height="5" x="12" y="6"/>
+   <rect width="1" height="5" x="12" y="12"/>
+   <rect width="1" height="4" x="15" y="6"/>
+   <rect width="1" height="2" x="15" y="11"/>
+   <rect width="1" height="5" x="15" y="14"/>
+  </g>
+  <circle style="fill:#aa52ce" cx="17" cy="17" r="6"/>
+  <path style="fill:#ffffff" d="M 14,17 C 14,18.657 15.343,20 17,20 18.64,20 19.97,18.683 19.997,17.05 A 0.5,0.5 0 0 0 20,17 0.5,0.5 0 0 0 19.5,16.5 0.5,0.5 0 0 0 19,17 C 19,18.104 18.105,19 17,19 15.895,19 15,18.104 15,17 15,15.895 15.895,15 17,15 V 16 L 19,14.5 17,13 V 14 C 15.343,14 14,15.343 14,17 Z"/>
+ </g>
+</svg>

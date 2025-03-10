@@ -1,0 +1,16 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path d="m9 6h30v14h-30z" style="fill:#b7b7b7"/>
+  <rect x="4" y="18" width="40" height="24" rx="2" ry="2" style="fill:#4f4f4f"/>
+  <rect x="12" y="23" width="24" height="4" style="opacity:.4"/>
+  <rect x="14" y="29" width="20" height="4" style="opacity:.4"/>
+  <rect x="16" y="35" width="16" height="4" style="opacity:.4"/>
+  <path d="m9 6v1h30v-1z" style="fill:#ffffff;opacity:.2"/>
+  <path d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" style="opacity:.2"/>
+  <circle cx="36" cy="37" r="11" style="opacity:.2"/>
+  <circle cx="36" cy="36" r="11" style="fill:#ba22ff"/>
+  <rect x="12" y="9" width="6" height="4" style="opacity:.5"/>
+  <rect x="30" y="9" width="6" height="4" style="opacity:.5"/>
+  <path d="m30 36c0 3.3137 2.6863 6 6 6 3.2801 0 5.9403-2.6332 5.9941-5.9004a1 1 0 0 0 6e-3 -0.09961 1 1 0 0 0-1-1 1 1 0 0 0-1 1c0 2.2091-1.7909 4-4 4s-4-1.7909-4-4 1.7909-4 4-4v2l4-3-4-3v2c-3.3137 0-6 2.6863-6 6z" style="fill:#ffffff"/>
+ </g>
+</svg>

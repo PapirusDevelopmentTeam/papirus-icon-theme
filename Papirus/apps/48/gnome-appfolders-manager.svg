@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect fill="#4f4f4f" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path fill="#fff" opacity=".1" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <g opacity=".2" transform="translate(0 1)">
+  <rect width="8" height="8" x="8" y="8" rx="1" ry="1"/>
+  <rect width="8" height="8" x="8" y="19" rx="1" ry="1"/>
+  <rect width="8" height="8" x="8" y="30" rx="1" ry="1"/>
+  <rect width="8" height="8" x="19" y="8" rx="1" ry="1"/>
+  <rect width="8" height="8" x="19" y="19" rx="1" ry="1"/>
+ </g>
+ <g fill="#81ff85">
+  <rect width="8" height="8" x="8" y="8" rx="1" ry="1"/>
+  <rect width="8" height="8" x="8" y="19" rx="1" ry="1"/>
+  <rect width="8" height="8" x="8" y="30" rx="1" ry="1"/>
+  <rect width="8" height="8" x="19" y="8" rx="1" ry="1"/>
+  <rect width="8" height="8" x="19" y="19" rx="1" ry="1"/>
+ </g>
+</svg>

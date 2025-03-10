@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#616161;fill-rule:evenodd" d="M 16,7.5000006 C 16,11.642303 12.64196,15 8.5,15 4.3576975,15 1,11.641961 1,7.5000006 1,3.3576981 4.3580403,6.4285716e-7 8.5,6.4285716e-7 12.642302,6.4285716e-7 16,3.3580409 16,7.5000006"/>
+ <circle style="fill:#ffffff" cx="8.5" cy="6.5" r="4.5"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:0.8246249;stroke-linecap:round" d="M 8.4999999,6.5 V 3.5000005"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-width:0.8246249;stroke-linecap:round" d="M 8.4999999,6.5 H 11.499999"/>
+ <circle style="fill:#818181" cx="8.5" cy="6.5" r="1.125"/>
+ <path style="fill:none;stroke:#444444;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round" d="m 4.75,10.392858 c 0,0 1.1250001,1.499999 3.75,1.499999 2.625,0 3.670174,-1.499999 3.670174,-1.499999"/>
+ <path style="fill:#ffa746" d="m 12,10.397657 c -0.03327,0.02024 -0.06716,0.03707 -0.100488,0.05704 C 11.268856,11.146233 10.157936,12 8.5,12 6.7918215,12 5.6380734,11.101206 5,10.40625 V 14.4 C 5,15.2864 5.6244001,16 6.4,16 h 4.2 c 0.7756,0 1.4,-0.7136 1.4,-1.600001 z"/>
+ <rect style="opacity:0.3" width="5" height="1" x="6" y="12"/>
+ <rect style="opacity:0.3" width="3" height="1" x="6" y="14"/>
+</svg>

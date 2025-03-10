@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="1.4" ry="1.4"/>
+ <rect style="fill:#e4e4e4" width="28" height="28" x="2" y="2" rx="1.4" ry="1.4"/>
+ <rect style="fill:#182d33" width="22" height="22" x="-27" y="-27" rx="1.1" ry="1.1" transform="matrix(0,-1,-1,0,0,0)"/>
+ <circle style="opacity:0.2" cx="16" cy="17" r="8"/>
+ <circle style="fill:#223f48" cx="16" cy="16" r="8"/>
+ <circle style="opacity:0.2" cx="16" cy="17" r="5"/>
+ <circle style="fill:#325e6a" cx="16" cy="16" r="5"/>
+ <circle style="opacity:0.2" cx="16" cy="17" r="2"/>
+ <circle style="fill:#1996b4" cx="16" cy="16" r="2"/>
+ <path style="opacity:0.1;fill:#ffffff;fill-rule:evenodd" d="M 16 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 8.0214844 16.576172 A 8 8 0 0 1 16 9 A 8 8 0 0 1 23.978516 16.423828 A 8 8 0 0 0 24 16 A 8 8 0 0 0 16 8 z"/>
+ <path style="opacity:0.1;fill:#ffffff;fill-rule:evenodd" d="M 16 11 A 5 5 0 0 0 11 16 A 5 5 0 0 0 11.027344 16.484375 A 5 5 0 0 1 16 12 A 5 5 0 0 1 20.972656 16.515625 A 5 5 0 0 0 21 16 A 5 5 0 0 0 16 11 z"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 16 14 A 2 2 0 0 0 14 16 A 2 2 0 0 0 14.064453 16.503906 A 2 2 0 0 1 16 15 A 2 2 0 0 1 17.935547 16.496094 A 2 2 0 0 0 18 16 A 2 2 0 0 0 16 14 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 3.4003906 2 C 2.6247906 2 2 2.6247906 2 3.4003906 L 2 4.4003906 C 2 3.6247906 2.6247906 3 3.4003906 3 L 28.599609 3 C 29.375209 3 30 3.6247906 30 4.4003906 L 30 3.4003906 C 30 2.6247906 29.375209 2 28.599609 2 L 3.4003906 2 z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <circle style="fill:#35be50" cx="24" cy="24" r="20"/>
+ <path style="fill:#ffffff" d="M 24,10 A 14,14 0 0 0 10,24 14,14 0 0 0 24,38 14,14 0 0 0 38,24 14,14 0 0 0 24,10 Z M 24,12 A 12,12 0 0 1 36,24 12,12 0 0 1 24,36 12,12 0 0 1 12,24 12,12 0 0 1 24,12 Z"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2" d="M 11,27 27,25 36,19"/>
+ <path style="fill:none;stroke:#ffffff;stroke-width:2" d="M 33,33 27,25"/>
+ <circle style="fill:#ffffff" cx="33" cy="33" r="3"/>
+ <circle style="fill:#ffffff" cx="36" cy="19" r="3"/>
+ <circle style="fill:#ffffff" cx="27" cy="25" r="3"/>
+ <circle style="fill:#ffffff" cx="11" cy="27" r="3"/>
+</svg>

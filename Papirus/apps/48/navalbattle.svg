@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1">
+ <defs>
+  <linearGradient id="linearGradient4414">
+   <stop offset="0"/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4420" x1="23.968" x2="23.968" y1="32.02" y2="34.144" gradientTransform="translate(0,-4)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4414"/>
+  <linearGradient id="linearGradient4430" x1="37.9" x2="32.46" y1="4.185" y2="-1.361" gradientTransform="matrix(.70711 .70711 -.70711 .70711 0 -4)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4414"/>
+ </defs>
+ <rect fill="#4e91d9" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
+ <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <path opacity=".2" d="m9 19 5 12h20l5-12-9.7832 5.2168-5.217-5.217-5.217 5.217-9.783-5.217z"/>
+ <path fill="#fff" d="m24 18 8 8h-16z"/>
+ <path fill="url(#linearGradient4430)" opacity=".15" d="m24 18 8 8h-16z"/>
+ <path fill="#fff" d="m9 18 15 8 15-8-5 12h-20z"/>
+ <path fill="url(#linearGradient4420)" opacity=".15" d="m24 28 10 2h-20z"/>
+</svg>

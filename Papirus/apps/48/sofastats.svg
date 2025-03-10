@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="4" height="4" x="36" y="36"/>
+ <rect style="fill:#4f4f4f" width="4" height="4" x="36" y="35"/>
+ <rect style="opacity:0.2" width="4" height="4" x="8" y="36"/>
+ <rect style="fill:#4f4f4f" width="4" height="4" x="8" y="35"/>
+ <rect style="opacity:0.2" width="40" height="12" x="4" y="24" rx="2" ry="2"/>
+ <rect style="fill:#6d4c41" width="32" height="18" x="8" y="9" rx="2" ry="2"/>
+ <rect style="fill:#795548" width="40" height="12" x="4" y="23" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6 23 C 4.892 23 4 23.892 4 25 L 4 26 C 4 24.892 4.892 24 6 24 L 42 24 C 43.108 24 44 24.892 44 26 L 44 25 C 44 23.892 43.108 23 42 23 L 6 23 z"/>
+ <rect style="fill:#8d6e63" width="8" height="18" x="4" y="17" rx="2" ry="2"/>
+ <rect style="fill:#8d6e63" width="8" height="18" x="36" y="17" rx="2" ry="2"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 10 9 C 8.892 9 8 9.892 8 11 L 8 12 C 8 10.892 8.892 10 10 10 L 38 10 C 39.108 10 40 10.892 40 12 L 40 11 C 40 9.892 39.108 9 38 9 L 10 9 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 6 17 C 4.892 17 4 17.892 4 19 L 4 20 C 4 18.892 4.892 18 6 18 L 10 18 C 11.108 18 12 18.892 12 20 L 12 19 C 12 17.892 11.108 17 10 17 L 6 17 z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 38 17 C 36.892 17 36 17.892 36 19 L 36 20 C 36 18.892 36.892 18 38 18 L 42 18 C 43.108 18 44 18.892 44 20 L 44 19 C 44 17.892 43.108 17 42 17 L 38 17 z"/>
+</svg>
