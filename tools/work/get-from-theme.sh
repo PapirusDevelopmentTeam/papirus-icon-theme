@@ -8,16 +8,18 @@ readonly SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 readonly SOURCE_DIR="$SCRIPT_DIR/../.."
 
 case "$1" in
-	all)          CONTEXT_DIR="/"           ;;
-	actions|ac*)  CONTEXT_DIR="/actions/"   ;;
-	apps|ap*)     CONTEXT_DIR="/apps/"      ;;
-	devices|d*)   CONTEXT_DIR="/devices/"   ;;
-	emblems|emb*) CONTEXT_DIR="/emblems/"   ;;
-	emotes|emo*)  CONTEXT_DIR="/emotes/"    ;;
-	mimetypes|m*) CONTEXT_DIR="/mimetypes/" ;;
-	panel|pa*)    CONTEXT_DIR="/panel/"     ;;
-	places|pl*)   CONTEXT_DIR="/places/"    ;;
-	status|st*)   CONTEXT_DIR="/status/"    ;;
+	all)            CONTEXT_DIR="/"            ;;
+	actions|ac*)    CONTEXT_DIR="/actions/"    ;;
+	animations|an*) CONTEXT_DIR="/animations/" ;;
+	apps|ap*)       CONTEXT_DIR="/apps/"       ;;
+	categories|ca*) CONTEXT_DIR="/categories/" ;;
+	devices|d*)     CONTEXT_DIR="/devices/"    ;;
+	emblems|emb*)   CONTEXT_DIR="/emblems/"    ;;
+	emotes|emo*)    CONTEXT_DIR="/emotes/"     ;;
+	mimetypes|m*)   CONTEXT_DIR="/mimetypes/"  ;;
+	panel|pa*)      CONTEXT_DIR="/panel/"      ;;
+	places|pl*)     CONTEXT_DIR="/places/"     ;;
+	status|st*)     CONTEXT_DIR="/status/"     ;;
 	*)
 		cat <<-EOF
 		This script copies icons from the main theme to the directory.
@@ -28,7 +30,9 @@ case "$1" in
 		  available contexts:
 		    all
 		    [ac]tions
+		    [an]imations
 		    [ap]ps
+		    [ca]tegories
 		    [d]evices
 		    [emb]lems
 		    [emo]tes
@@ -54,8 +58,8 @@ find "$SOURCE_DIR/Papirus" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
 	top_dir=$(dirname "$src_dir")
 
 	base_dir=$(basename "$(dirname "$top_dir")")
-	size=$(basename "$top_dir")
-	context=$(basename "$src_dir")
+	context=$(basename "$top_dir")
+	size=$(basename "$src_dir")
 	filename=$(basename "$file" .svg)
 
 	mkdir -p "$SCRIPT_DIR/$base_dir/$context/"

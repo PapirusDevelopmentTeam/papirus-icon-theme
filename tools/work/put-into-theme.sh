@@ -26,5 +26,5 @@ find "${SOURCE_DIRS[@]}" -name '*.svg' | while read -r file; do
 	size="${base_name##*@}"
 
 	cp --no-preserve=mode,ownership --remove-destination -P -v "$file" \
-		"$TARGET_DIR/$base_dir/$size/$context/$filename.svg"
+		"$TARGET_DIR/$base_dir/$context/$size/$filename.svg"
 done

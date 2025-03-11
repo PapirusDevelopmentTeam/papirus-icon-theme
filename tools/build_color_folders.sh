@@ -34,8 +34,8 @@ SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 TARGET_DIR="$SCRIPT_DIR/../Papirus"
 
 DEFAULT_COLOR="blue"
-SIZES_REGEX="(16x16|22x22|24x24|32x32|48x48|64x64)"
-COLOR_SIZES_REGEX="(22x22|24x24|32x32|48x48|64x64)"
+SIZES_REGEX="(16|22|24|32|48|64)"
+COLOR_SIZES_REGEX="(22|24|32|48|64)"
 FILES_REGEX="(folder|user)-"
 
 declare -A COLORS
@@ -115,7 +115,7 @@ recolor() {
 headline "PHASE 1: Delete color suffix from monochrome icons ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -regextype posix-extended \
-	-regex ".*/16x16/places/${FILES_REGEX}${DEFAULT_COLOR}-.*" \
+	-regex ".*/places/16/${FILES_REGEX}${DEFAULT_COLOR}-.*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	new_file="${file/-$DEFAULT_COLOR-/-}"
@@ -128,7 +128,7 @@ done
 headline "PHASE 2: Create missing symlinks ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
-	-regex ".*/${COLOR_SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
+	-regex ".*/places/${COLOR_SIZES_REGEX}/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	target="$(basename "$file")"
@@ -144,7 +144,7 @@ done
 headline "PHASE 3: Generate color folders ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
-	-regex ".*/${SIZES_REGEX}/places/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
+	-regex ".*/places/${SIZES_REGEX}/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	for color in "${!COLORS[@]}"; do
@@ -177,7 +177,7 @@ for mask in "${FOLDER_COLOR_MAP[@]}"; do
 		icon="${icon_mask[1]/COLOR/$color}"
 
 		find "$TARGET_DIR" -regextype posix-extended \
-			-regex ".*/${SIZES_REGEX}/places/${icon}" \
+			-regex ".*/places/${SIZES_REGEX}/${icon}" \
 			-print0 | while read -r -d $'\0' file; do
 
 			base_name="$(basename "$file")"
@@ -198,7 +198,7 @@ DERIVATIVES=(
 )  # array of derivative icon themes with 16x16 places
 
 find "$TARGET_DIR" -regextype posix-extended \
-	-regex ".*/16x16/places/folder-${COLOR_REGEX}.*" \
+	-regex ".*/places/16/folder-${COLOR_REGEX}.*" \
 	-print0 | while read -r -d $'\0' file; do
 
 	for d in "${DERIVATIVES[@]}"; do

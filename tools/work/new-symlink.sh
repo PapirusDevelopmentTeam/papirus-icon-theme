@@ -16,7 +16,9 @@ usage() {
 
 	  available contexts:
 	    [ac]tions
+	    [an]imations
 	    [ap]ps
+	    [ca]tegories
 	    [d]evices
 	    [emb]lems
 	    [emo]tes
@@ -58,39 +60,47 @@ _get_context() {
 	case "$1" in
 		actions|ac*)
 			CONTEXT="actions"
-			SIZES=( '16x16' '22x22' '24x24' )
+			SIZES=( '16' '22' '24' )
+			;;
+		animations|an*)
+			CONTEXT="animations"
+			SIZES=( '22' '24' )
 			;;
 		apps|ap*)
 			CONTEXT="apps"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			SIZES=( '16' '22' '24' '32' '48' '64' )
+			;;
+		categories|ca*)
+			CONTEXT="categories"
+			SIZES=( '16' '22' '24' '32' '48' '64' )
 			;;
 		devices|d*)
 			CONTEXT="devices"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			SIZES=( '16' '22' '24' '32' '48' '64' )
 			;;
 		emblems|emb*)
 			CONTEXT="emblems"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
+			SIZES=( '16' '22' '24' '32' '48' )
 			;;
 		emotes|emo*)
 			CONTEXT="emotes"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
+			SIZES=( '16' '22' '24' '32' '48' )
 			;;
 		mimetypes|m*)
 			CONTEXT="mimetypes"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			SIZES=( '16' '22' '24' '32' '48' '64' )
 			;;
 		panel|pa*)
 			CONTEXT="panel"
-			SIZES=( '16x16' '22x22' '24x24' )
+			SIZES=( '16' '22' '24' )
 			;;
 		places|pl*)
 			CONTEXT="places"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+			SIZES=( '16' '22' '24' '32' '48' '64' )
 			;;
 		status|s*)
 			CONTEXT="status"
-			SIZES=( '22x22' '24x24' '32x32' '48x48' )
+			SIZES=( '22' '24' '32' '48' )
 			;;
 		*)
 			printf "illegal context -- '%s'\n" "$1" >&2
