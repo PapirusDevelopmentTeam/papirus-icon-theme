@@ -5,5 +5,5 @@
   </style>
  </defs>
  <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 10,0 V 2 H 7 v 5 h 3 V 9 L 11,8.1816406 V 5 h 3.888672 L 15.5,4.5 Z M 6,6 0.5,10.5 6,15 V 13 H 9 V 8 H 6 Z"/>
- <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 12,6 v 4 l 0.25,2 h 1.5 L 14,10 V 6 Z m 0,7 v 2 h 2 v -2 z"/>
+ <path style="fill:currentColor" class="ColorScheme-NegativeText error" d="m 12,6 v 4 l 0.25,2 h 1.5 L 14,10 V 6 Z m 0,7 v 2 h 2 v -2 z"/>
 </svg>
