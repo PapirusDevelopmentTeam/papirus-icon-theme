@@ -127,7 +127,7 @@ for symbolic in "$@"; do
 	symlink_name="$(remove_file_extention "$symbolic")"
 
 	if has_symbolic_suffix "$symlink_name"; then
-		SIZES=( '16' '22' '24' )
+		SIZES=( '16x16' '22x22' '24x24' )
 	fi
 
 	for size in "${SIZES[@]}"; do
