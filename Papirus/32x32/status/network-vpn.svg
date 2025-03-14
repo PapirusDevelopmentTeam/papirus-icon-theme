@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <path style="opacity:0.2" d="M 16.5,2 C 12.91015,2 10,4.910149 10,8.5 V 17 H 23 V 8.5 C 23,4.910149 20.08985,2 16.5,2 Z m 0,3 C 18.46616,5 20,6.53384 20,8.5 V 14 H 13 V 8.5 C 13,6.53384 14.53384,5 16.5,5 Z"/>
+ <rect style="opacity:0.2" width="3" height="29" x="27" y="-31" rx="1.5" ry="1.45" transform="rotate(90)"/>
+ <rect style="fill:#828282" width="3" height="6" x="15" y="21.5"/>
+ <path style="fill:#e4e4e4" d="M 16.5,1 C 12.91015,1 10,3.910149 10,7.5 V 16 H 23 V 7.5 C 23,3.910149 20.08985,1 16.5,1 Z m 0,3 C 18.46616,4 20,5.533839 20,7.5 V 13 H 13 V 7.5 C 13,5.533839 14.53384,4 16.5,4 Z"/>
+ <rect style="opacity:0.2" width="12" height="17" x="-23" y="-25" rx="1.2" ry="1.214" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#fecd38" width="12" height="17" x="-22" y="-25" rx="1.2" ry="1.214" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="opacity:0.35;fill:#ffffff" width="17" height="8" x="8" y="12"/>
+ <rect style="fill:#828282" width="3" height="29" x="26" y="-31" rx="1.5" ry="1.45" transform="rotate(90)"/>
+ <rect style="fill:#afafb1" width="9" height="5" x="12" y="25"/>
+ <rect style="opacity:0.2" width="9" height="1" x="12" y="30"/>
+ <rect style="opacity:0.2;fill:#ffffff" width="9" height="1" x="12" y="25"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 16.5,1 C 12.91015,1 10,3.910149 10,7.5 v 1 C 10,4.910149 12.91015,2 16.5,2 20.08985,2 23,4.910149 23,8.5 v -1 C 23,3.910149 20.08985,1 16.5,1 Z"/>
+</svg>
