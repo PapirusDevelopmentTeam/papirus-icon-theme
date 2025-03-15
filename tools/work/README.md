@@ -2,7 +2,7 @@
 
 Designing icons for Papirus is easy :)
 
-You only need to draw icons for Papirus and then convert colors for ePapirus, Papirus Dark and Papirus-Light using our scripts.
+You only need to draw icons for Papirus and then convert colors for Papirus Dark and Papirus-Light using our scripts.
 
 ## How to draw icons for Papirus
 
@@ -108,9 +108,9 @@ If your symlinks are in `apps`, `emblems` or `mimetypes` you can continue from s
 4. Save the file with the same filename.
 5. Repeat it for other sizes.
 
-### 3. Papirus Dark, Papirus Light and ePapirus
+### 3. Papirus Dark and Papirus Light
 
-1. Run `convert.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Dark`, `work/Papirus-Light`, and `work/ePapirus`. It then updates the copies' color schemes.
+1. Run `convert.sh`. It copies needed icons from `work/Papirus` to `work/Papirus-Dark`, and `work/Papirus-Light`. It then updates the copies' color schemes.
 
     ```shell-session
     $ cd tools/work
