@@ -1,25 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <g style="fill:#8e8e8e">
-  <rect width="1" height="26" x="20" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="23" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="26" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="11" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="14" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="17" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="8" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="5" y="-29" transform="rotate(90)"/>
-  <rect width="1" height="26" x="-12" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-9" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-6" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-21" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-18" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-15" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-24" y="-29" transform="scale(-1)"/>
-  <rect width="1" height="26" x="-27" y="-29" transform="scale(-1)"/>
- </g>
- <rect style="opacity:0.2" width="24" height="24" x="-29" y="-28" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#00b7f8" width="24" height="24" x="-28" y="-28" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill-rule:evenodd" d="M 19.108817,8 11.5,18 h 3.259486 L 12.891183,26 20.5,16 h -3.259486 z"/>
- <path style="fill:#ffffff;fill-rule:evenodd" d="M 19.108817,7 11.5,17 h 3.259486 L 12.891183,25 20.5,15 h -3.259486 z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 5.25 4 C 4.5575 4 4 4.5575 4 5.25 L 4 6.25 C 4 5.5575 4.5575 5 5.25 5 L 26.75 5 C 27.442 5 28 5.5575 28 6.25 L 28 5.25 C 28 4.5575 27.442 4 26.75 4 L 5.25 4 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <circle style="opacity:0.2" cx="15.5" cy="16.5" r="13.5"/>
+ <circle style="fill:#01ace5" cx="15.5" cy="15.5" r="13.5"/>
+ <path style="opacity:0.2" d="m 12,10 v 3 H 9 v 1 h 3 v 2 H 9 v 1 h 3 v 2 H 9 v 1 h 3 v 3 h 1 v -3 h 2 v 3 h 1 v -3 h 2 v 3 h 1 v -3 h 3 v -1 h -3 v -2 h 3 v -1 h -3 v -2 h 3 v -1 h -3 v -3 h -1 v 3 h -2 v -3 h -1 v 3 h -2 v -3 z m 1,4 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -3,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z"/>
+ <path style="fill:#ffffff" d="M 22,16 V 15 H 9 v 1 h 13"/>
+ <path style="fill:#ffffff" d="M 22,19 V 18 H 9 v 1 h 13"/>
+ <path style="fill:#ffffff" d="M 22,13 V 12 H 9 v 1 h 13"/>
+ <path style="fill:#ffffff" d="m 16,9 h -1 v 13 h 1 V 9"/>
+ <path style="fill:#ffffff" d="m 19,9 h -1 v 13 h 1 V 9"/>
+ <path style="fill:#ffffff" d="m 13,9 h -1 v 13 h 1 V 9"/>
+ <path style="opacity:0.1" d="M 19.603776,22 H 11.396134 C 10.625026,22 10,21.374882 10,20.603866 V 12.396134 C 10,11.625026 10.625026,11 11.396134,11 h 8.207642 C 20.374885,11 21,11.625026 21,12.396134 v 8.207732 C 21,21.374882 20.374885,22 19.603776,22"/>
+ <path style="fill:#515151" d="M 19.603776,21 H 11.396134 C 10.625026,21 10,20.374882 10,19.603866 V 11.396134 C 10,10.625026 10.625026,10 11.396134,10 h 8.207642 C 20.374885,10 21,10.625026 21,11.396134 v 8.207732 C 21,20.374882 20.374885,21 19.603776,21"/>
+ <path style="opacity:0.2" d="M 12.75,12.5 A 0.75,0.75 0 0 0 12,13.25 0.75,0.75 0 0 0 12.75,14 0.75,0.75 0 0 0 13.5,13.25 0.75,0.75 0 0 0 12.75,12.5 Z M 16.535156,13 14,17.013672 15.078125,16.972656 14.464844,20 17,15.986328 l -1.078125,0.04102 z"/>
+ <circle style="fill:#ffffff" cx="12.75" cy="12.25" r=".75"/>
+ <path style="fill:#ffffff" d="M 16.535644,12.000011 14,16.014196 15.078124,15.971803 14.464355,19 17,14.985805 l -1.078125,0.04239 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 15.5 2 A 13.5 13.5 0 0 0 2 15.5 A 13.5 13.5 0 0 0 2.0351562 16 A 13.5 13.5 0 0 1 15.5 3 A 13.5 13.5 0 0 1 28.980469 15.779297 A 13.5 13.5 0 0 0 29 15.5 A 13.5 13.5 0 0 0 15.5 2 z"/>
 </svg>

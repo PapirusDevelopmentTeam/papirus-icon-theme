@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="rotate(90,8,8)">
-  <rect style="fill:#8e8e8e" width="2" height="16" x="4" y="0"/>
-  <rect style="fill:#8e8e8e" width="2" height="16" x="7" y="0"/>
-  <rect style="fill:#8e8e8e" width="2" height="16" x="10" y="0"/>
- </g>
- <rect style="fill:#b7b7b7" width="12" height="12" x="2" y="2" rx=".8" ry=".8"/>
- <path style="fill:none;stroke:#009688;stroke-linecap:round;stroke-linejoin:round" d="M 0.50712124,7.5001173 H 6.0071211 l 1.5,-3.9999997 2,8.0000004 1.4999999,-4.0000007 H 15.493"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <path style="fill:#d4d4d4" d="M 3.625,1 C 2.17075,1 1,2.17075 1,3.625 v 8.75 C 1,13.829251 2.17075,15 3.625,15 H 6 C 6,14.51525 6.3407499,14 6.8255,14 H 9.1755001 C 9.66025,14 10,14.51525 10,15 h 2.374999 C 13.82925,15 15,13.829251 15,12.375 V 3.625 C 15,2.17075 13.82925,1 12.374999,1 Z"/>
+ <rect style="fill:#f4f4f4" width="10" height="10" x="3" y="3" ry="1"/>
+ <path style="fill:none;stroke:#009688;stroke-linecap:round;stroke-linejoin:round" d="m 0.5,7.5 h 5.3181818 l 1.4545455,-3 1.4545454,7 1.4545453,-4 H 15.5"/>
 </svg>
