@@ -194,7 +194,6 @@ headline "PHASE 5: Copy color folder icons to derivative themes ..."
 COLOR_NAMES="${!COLORS[*]}"  # get a string of colors
 COLOR_REGEX="(${COLOR_NAMES// /|})"  # convert the list of colors to regex
 DERIVATIVES=(
-	ePapirus
 	Papirus-Dark
 )  # array of derivative icon themes with 16x16 places
 

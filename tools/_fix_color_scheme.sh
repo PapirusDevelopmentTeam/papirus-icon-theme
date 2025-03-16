@@ -23,7 +23,7 @@
 
 set -e
 
-# Papirus, Papirus-Dark, Papirus-Light, and ePapirus
+# Papirus, Papirus-Dark, and Papirus-Light
 add_css_classes() {
 	# 1. remove class="ColorScheme-*" if currentColor is missing
 	# 2. remove class="ColorScheme-*" if color property is set
@@ -31,7 +31,7 @@ add_css_classes() {
 	sed -i -r \
 		-e '/:currentColor/! s/[ ]class="ColorScheme-[^"]+"//g' \
 		-e '/[^-]color:[^;"]/ s/[ ]class="ColorScheme-[^"]+"//g' \
-		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf|#6e6e6e|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):(#444444|#dfdfdf)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#4285f4/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#4caf50/I s/(style="[^"]+")/\1 class="ColorScheme-PositiveText success"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#ff9800/I s/(style="[^"]+")/\1 class="ColorScheme-NeutralText warning"/' \
@@ -58,8 +58,8 @@ for file in "$@"; do
 	if grep -q -i '\.ColorScheme-Text' "$file"; then
 		# the file has a color scheme
 
-		if grep -q -i 'color:\(#444444\|#dfdfdf\|#6e6e6e\|#ffffff\)' "$file"; then
-			# it's Papirus, Papirus-Dark, Papirus-Light or ePapirus
+		if grep -q -i 'color:\(#444444\|#dfdfdf\)' "$file"; then
+			# it's Papirus, Papirus-Dark, or Papirus-Light
 			add_css_classes "$file"
 		else
 			echo "'$file' has unknown colors!" >&2
