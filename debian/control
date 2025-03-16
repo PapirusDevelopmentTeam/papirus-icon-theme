@@ -10,7 +10,7 @@ Bugs: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues
 Package: papirus-icon-theme
 Architecture: all
 Depends: hicolor-icon-theme, ${misc:Depends}
-Recommends: epapirus-icon-theme, papirus-folders, gtk-update-icon-cache
+Recommends: papirus-folders, gtk-update-icon-cache
 Suggests: filezilla-theme-papirus
 Replaces: papirus-gtk-icon-theme, papirus-kde-icon-theme
 Description: Pixel perfect icon theme for Linux
@@ -21,14 +21,3 @@ Description: Pixel perfect icon theme for Linux
   - Papirus
   - Papirus-Dark
   - Papirus-Light
-
-Package: epapirus-icon-theme
-Architecture: all
-Depends: papirus-icon-theme, ${misc:Depends}
-Description: Papirus icon theme for elementaryOS and Pantheon Desktop
- Papirus is a SVG-based icon theme, drawing inspiration from Material Design
- and flat design.
- .
- This package contains the following icon themes:
-  - ePapirus
-  - ePapirus-Dark
