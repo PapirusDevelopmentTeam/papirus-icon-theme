@@ -1,25 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <g transform="translate(-2)">
-  <rect style="fill:#8e8e8e" width="1" height="19" x="14" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="12" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="10" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="8" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="16" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="18" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="6" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="4" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="12" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="10" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="8" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="6" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="14" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="16" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="18" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="4" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="20" y="2"/>
-  <rect style="opacity:0.2" width="17" height="17" x="-20.5" y="-21" rx=".85" ry="1.063" transform="matrix(0,-1,-1,0,0,0)"/>
-  <rect style="fill:#b7b7b7" width="17" height="17" x="-20" y="-21" rx=".85" ry="1.063" transform="matrix(0,-1,-1,0,0,0)"/>
-  <rect style="fill:#d13232" width="13" height="13" x="6" y="5" rx=".929" ry=".929"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 5.0625,3 C 4.473875,3 4,3.3787094 4,3.8496094 v 0.5 C 4,3.8787094 4.473875,3.5 5.0625,3.5 h 14.875 C 20.526125,3.5 21,3.8787094 21,4.3496094 v -0.5 C 21,3.3787094 20.526125,3 19.9375,3 Z"/>
- </g>
+ <path style="opacity:0.2" d="M 6.5,1.5 C 6.223,1.5 6,1.723 6,2 v 2.5 c -1.108,0 -2,0.892 -2,2 H 1.5 C 1.223,6.5 1,6.723 1,7 V 9 C 1,9.277 1.223,9.5 1.5,9.5 H 4 v 3 H 1.5 C 1.223,12.5 1,12.723 1,13 v 2 c 0,0.277 0.223,0.5 0.5,0.5 H 4 v 3 H 1.5 C 1.223,18.5 1,18.723 1,19 v 2 c 0,0.277 0.223,0.5 0.5,0.5 h 5 12.5 c 1.108,0 2,-0.892 2,-2 V 7 6.5 2 C 21,1.723 20.777,1.5 20.5,1.5 h -2 C 18.223,1.5 18,1.723 18,2 V 4.5 H 15 V 2 C 15,1.723 14.777,1.5 14.5,1.5 h -2 C 12.223,1.5 12,1.723 12,2 V 4.5 H 9 V 2 C 9,1.723 8.777,1.5 8.5,1.5 Z"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="18" y="1" ry=".5"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="12" y="1" ry=".5"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="6" y="1" ry=".5"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="-9" y="1" ry=".5" transform="rotate(-90)"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="-15" y="1" ry=".5" transform="rotate(-90)"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="-21" y="1" ry=".5" transform="rotate(-90)"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6.5,1 C 6.223,1 6,1.223 6,1.5 V 2 C 6,1.723 6.223,1.5 6.5,1.5 h 2 C 8.777,1.5 9,1.723 9,2 V 1.5 C 9,1.223 8.777,1 8.5,1 Z m 6,0 C 12.223,1 12,1.223 12,1.5 V 2 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 2 C 14.777,1.5 15,1.723 15,2 V 1.5 C 15,1.223 14.777,1 14.5,1 Z m 6,0 C 18.223,1 18,1.223 18,1.5 V 2 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 2 C 20.777,1.5 21,1.723 21,2 V 1.5 C 21,1.223 20.777,1 20.5,1 Z M 1.5,6 C 1.223,6 1,6.223 1,6.5 V 7 C 1,6.723 1.223,6.5 1.5,6.5 H 6 V 6 Z m 0,6 C 1.223,12 1,12.223 1,12.5 V 13 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 5 C 6.777,12.5 7,12.723 7,13 V 12.5 C 7,12.223 6.777,12 6.5,12 Z m 0,6 C 1.223,18 1,18.223 1,18.5 V 19 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 5 C 6.777,18.5 7,18.723 7,19 V 18.5 C 7,18.223 6.777,18 6.5,18 Z"/>
+ <rect style="fill:#4f4f4f" width="17" height="17" x="-21" y="-21" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round" d="m 9.499605,13.999127 c 0,0.5 0,0.5 -0.5000005,0.5 h -1 c -0.25,0 -0.5,0 -0.5,-0.5 v -3 c 0,-0.5 0,-0.5 0.5,-0.5 h 1 c 0.5000005,0 0.5000005,0 0.5000005,0.5"/>
+ <path style="fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round" d="m 11.499605,12.499127 h 1.5 c 0.5,0 0.5,0 0.5,-0.5 v -1 c 0,-0.5 0,-0.5 -0.5,-0.5 h -1.5 m 0,4 v -4"/>
+ <path style="fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round" d="m 17.499604,10.499127 v 3 c 0,0.5 0,1 -0.5,1 h -1 c -0.5,0 -0.5,-0.5 -0.5,-1 v -3"/>
 </svg>

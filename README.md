@@ -19,8 +19,6 @@ Papirus icon theme is available in five variants:
  - Papirus (base variant)
  - Papirus Dark (for dark themes)
  - Papirus Light (for light themes)
- - ePapirus (for elementary OS and Pantheon Desktop, light theme)
- - ePapirus Dark (for elementary OS and Pantheon Desktop, dark theme)
 
 ## Contents
 
@@ -54,7 +52,6 @@ You can install Papirus from our official [PPA](https://launchpad.net/~papirus/+
 sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
 sudo apt-get install papirus-icon-theme  # Papirus, Papirus-Dark, and Papirus-Light
-sudo apt-get install epapirus-icon-theme # ePapirus, and ePapirus-Dark for elementaryOS only
 ```
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=papirus-icon-theme).
@@ -82,7 +79,7 @@ Find the install script [here](install.sh) or proceed with command-line instruct
 You can set environment variables to control WHERE, WHAT, and FROM WHERE you install Papirus:
 
 - `DESTDIR` - the destination directory for installing icon themes (Defaults to `DESTDIR=/usr/share/icons`)
-- `EXTRA_THEMES` - additional icon themes that you want to install alongside the base Papirus icon theme (Defaults to `EXTRA_THEMES="ePapirus ePapirus-Dark Papirus-Dark Papirus-Light"`)
+- `EXTRA_THEMES` - additional icon themes that you want to install alongside the base Papirus icon theme (Defaults to `EXTRA_THEMES="Papirus-Dark Papirus-Light"`)
 - `TAG` - a branch or tag if you want to install a specific version of the icon theme (Defaults to `TAG=master`)
 
 > [!IMPORTANT]
@@ -176,7 +173,7 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Papirus
 **Size recommendations:**
 
 - Unity: 22px
-- KDE: 24px
+- KDE: 22px
 - GNOME: 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - XFCE: 22px ([see](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#manual-fixes) for more info)
 - Pantheon: 24px
@@ -228,7 +225,6 @@ Also, you can use our [papirus-folders](https://github.com/PapirusDevelopmentTea
 ## Recommendations
 
 - Papirus users are expected to have Breeze installed if they use Plasma and/or any KDE applications
-- The same applies to ePapirus and the Elementary icon theme when using the Pantheon desktop, as the icon parity between the themes are not full
 
 - We recommend the following GTK themes to use with Papirus icons:
   - [Arc theme](https://github.com/jnsh/arc-theme)

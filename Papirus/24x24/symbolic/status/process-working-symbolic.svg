@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <circle style="fill:currentColor" class="ColorScheme-Text" cx="12" cy="5" r="1"/>
+ <circle style="fill:currentColor;opacity:0.6" class="ColorScheme-Text" cx="12" cy="19" r="1"/>
+ <circle style="fill:currentColor;opacity:0.4" class="ColorScheme-Text" cx="12" cy="-19" r="1" transform="rotate(90)"/>
+ <circle style="fill:currentColor;opacity:0.8" class="ColorScheme-Text" cx="12" cy="-5" r="1" transform="rotate(90)"/>
+ <circle style="fill:currentColor;opacity:.35" class="ColorScheme-Text" cx="16.971" cy="-7.071" r="1" transform="rotate(45)"/>
+ <circle style="fill:currentColor;opacity:0.7" class="ColorScheme-Text" cx="16.971" cy="7.071" r="1" transform="rotate(45)"/>
+ <circle style="fill:currentColor;opacity:0.9" class="ColorScheme-Text" cx="0" cy="9.899" r="1" transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"/>
+ <circle style="fill:currentColor;opacity:0.5" class="ColorScheme-Text" cx="0" cy="24.042" r="1" transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 13,0.75 V 2 H 6 C 6,2 4,2 4,4 V 11 H 3 V 9.75 L 0,12.5 3,15.25 V 14 H 10 C 10,14 12,14 12,12 V 5 H 13 V 6.25 L 16,3.5 Z M 6,4 H 10 V 12 H 6 Z M 7,5 V 7 H 9 V 5 Z"/>
+</svg>

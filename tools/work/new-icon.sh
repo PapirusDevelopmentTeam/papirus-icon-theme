@@ -34,87 +34,109 @@ usage() {
 	exit 2
 }
 
-_get_icon_name() {
+remove_file_extention() {
 	local icon_name="$1"
 
 	case "$icon_name" in
 		*.svg|*.png|*.xpm)
 			echo "${icon_name%.*}"
-			return 0
 			;;
 		*)
 			echo "${icon_name}"
-			return 0
 			;;
 	esac
-
-	return 1
 }
 
-_get_context() {
-	local CONTEXT
-	local -a SIZES
+has_symbolic_suffix() {
+	local icon_name="$1"
 
-	case "$1" in
-		actions|ac*)
-			CONTEXT="actions"
-			SIZES=( '16x16' '22x22' '24x24' )
-			;;
-		apps|ap*)
-			CONTEXT="apps"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
-			;;
-		devices|d*)
-			CONTEXT="devices"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
-			;;
-		emblems|emb*)
-			CONTEXT="emblems"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
-			;;
-		emotes|emo*)
-			CONTEXT="emotes"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
-			;;
-		mimetypes|m*)
-			CONTEXT="mimetypes"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
-			;;
-		panel|pa*)
-			CONTEXT="panel"
-			SIZES=( '16x16' '22x22' '24x24' )
-			;;
-		places|pl*)
-			CONTEXT="places"
-			SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
-			;;
-		status|s*)
-			CONTEXT="status"
-			SIZES=( '22x22' '24x24' '32x32' '48x48' )
+	case "$icon_name" in
+		*-symbolic.svg|*-symbolic)
+			return 0
 			;;
 		*)
-			printf "illegal context -- '%s'\n" "$1" >&2
-			printf false
 			return 1
 			;;
 	esac
-
-	declare -p CONTEXT SIZES
 }
 
-readonly RAW_CONTEXT="$1"
-declare -a ARGS=("${@:2}")
+readonly _CONTEXT="$1"
 
-[ "${#ARGS[@]}" -gt 0 ] || usage
+[ "$#" -ge 2 ] || usage
 
-eval "$(_get_context "$RAW_CONTEXT")" || usage
+shift 1
 
-for i in "${ARGS[@]}"; do
-	icon_name="$(_get_icon_name "$i")"
+CONTEXT_DIR=""
+SIZES=()
+
+case "$_CONTEXT" in
+	actions|ac*)
+		CONTEXT_DIR="actions"
+		SIZES=( '16x16' '22x22' '24x24' )
+		;;
+	animations|an*)
+		CONTEXT_DIR="animations"
+		SIZES=( '22x22' '24x24' )
+		;;
+	apps|ap*)
+		CONTEXT_DIR="apps"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+		;;
+	categories|ca*)
+		CONTEXT_DIR="categories"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+		;;
+	devices|d*)
+		CONTEXT_DIR="devices"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+		;;
+	emblems|emb*)
+		CONTEXT_DIR="emblems"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
+		;;
+	emotes|emo*)
+		CONTEXT_DIR="emotes"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' )
+		;;
+	mimetypes|m*)
+		CONTEXT_DIR="mimetypes"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+		;;
+	panel|pa*)
+		CONTEXT_DIR="panel"
+		SIZES=( '16x16' '22x22' '24x24' )
+		;;
+	places|pl*)
+		CONTEXT_DIR="places"
+		SIZES=( '16x16' '22x22' '24x24' '32x32' '48x48' '64x64' )
+		;;
+	status|s*)
+		CONTEXT_DIR="status"
+		SIZES=( '22x22' '24x24' '32x32' '48x48' )
+		;;
+	*)
+		printf "illegal context -- '%s'\n" "$1" >&2
+		usage
+		;;
+esac
+
+for icon in "$@"; do
+	icon_name="$(remove_file_extention "$icon")"
+
+	if has_symbolic_suffix "$icon_name"; then
+		SIZES=( '16x16' '22x22' '24x24' )
+	fi
 
 	for size in "${SIZES[@]}"; do
-		cp -v "${TARGET_DIR}/${CONTEXT}/_TEMPLATE@${size}.SVG" \
-			"${TARGET_DIR}/${CONTEXT}/${icon_name}@${size}.svg"
+
+		if has_symbolic_suffix "$icon_name"; then
+			template_file="${TARGET_DIR}/actions/_TEMPLATE@${size}.SVG"
+		else
+			template_file="${TARGET_DIR}/${CONTEXT_DIR}/_TEMPLATE@${size}.SVG"
+		fi
+
+		cp -v "$template_file" \
+			"${TARGET_DIR}/${CONTEXT_DIR}/${icon_name}@${size}.svg"
 	done
 done
 

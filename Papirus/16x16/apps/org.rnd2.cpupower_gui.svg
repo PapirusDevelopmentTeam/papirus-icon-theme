@@ -1,14 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="rotate(180,8,8)">
-  <rect style="fill:#8e8e8e" width="2" height="16" x="4" y="0"/>
-  <rect style="fill:#8e8e8e" width="2" height="16" x="7" y="0"/>
-  <rect style="fill:#8e8e8e" width="2" height="16" x="10" y="0"/>
- </g>
- <g transform="rotate(90,8,8)">
-  <rect style="fill:#8e8e8e" width="2" height="16" x="4" y="0"/>
-  <rect style="fill:#8e8e8e" width="2" height="16" x="7" y="0"/>
-  <rect style="fill:#8e8e8e" width="2" height="16" x="10" y="0"/>
- </g>
- <rect style="fill:#00b7f8" width="12" height="12" x="2" y="2" rx=".8" ry=".8"/>
- <path style="fill:#ffffff;fill-rule:evenodd" d="M 9.727121,3 5.5,9 H 7.3108257 L 6.2728793,13 10.5,7 H 8.6891743 Z"/>
+ <circle style="fill:#01ace5" cx="7.5" cy="7.5" r="7.5"/>
+ <path style="fill:#ffffff" d="M 12,8 V 7 H 3 v 1 h 9"/>
+ <path style="fill:#ffffff" d="M 12,10 V 9 H 3 v 1 h 9"/>
+ <path style="fill:#ffffff" d="M 12,6 V 5 H 3 v 1 h 9"/>
+ <path style="fill:#ffffff" d="M 8,3 H 7 v 9 H 8 V 3"/>
+ <path style="fill:#ffffff" d="M 10,3 H 9 v 9 h 1 V 3"/>
+ <path style="fill:#ffffff" d="M 6,3 H 5 v 9 H 6 V 3"/>
+ <path style="fill:#515151" d="M 10.111494,11 H 4.8884487 C 4.3977439,11 4,10.602197 4,10.111551 V 4.8884478 C 4,4.3977431 4.3977439,3.999999 4.8884487,3.999999 H 10.111494 C 10.602199,3.999999 11,4.3977431 11,4.8884478 V 10.111551 C 11,10.602197 10.602199,11 10.111494,11"/>
+ <circle style="fill:#ffffff" cx="5.5" cy="5.5" r=".5"/>
+ <path style="fill:#ffffff" d="M 8.1904291,5.5 6.5,8.0081123 7.2187493,7.9838877 6.80957,9.5 8.5,6.991888 7.7812497,7.016112 Z"/>
 </svg>

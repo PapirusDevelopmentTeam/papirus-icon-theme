@@ -1,25 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <g style="fill:#8e8e8e">
-  <rect width="2" height="52" x="40" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="46" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="52" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="22" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="28" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="34" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="16" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="10" y="-58" transform="rotate(90)"/>
-  <rect width="2" height="52" x="-24" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-18" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-12" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-42" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-36" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-30" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-48" y="-58" transform="scale(-1)"/>
-  <rect width="2" height="52" x="-54" y="-58" transform="scale(-1)"/>
- </g>
- <rect style="opacity:0.2" width="48" height="48" x="-57" y="-56" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#00b7f8" width="48" height="48" x="-56" y="-56" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 10.5 8 C 9.115 8 8 9.115 8 10.5 L 8 11.5 C 8 10.115 9.115 9 10.5 9 L 53.5 9 C 54.885 9 56 10.115 56 11.5 L 56 10.5 C 56 9.115 54.885 8 53.5 8 L 10.5 8 z"/>
- <path style="opacity:0.2;fill-rule:evenodd" d="M 38.217635,15 23,36 h 6.518973 L 25.782365,51 41,30 h -6.518973 z"/>
- <path style="fill:#ffffff;fill-rule:evenodd" d="M 38.217635,14 23,35 h 6.518973 L 25.782365,50 41,29 h -6.518973 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <circle style="opacity:0.2" cx="32.5" cy="32.5" r="28.5"/>
+ <circle style="fill:#01ace5" cx="32.5" cy="31.5" r="28.5"/>
+ <path style="opacity:0.2" d="m 25,18 v 7 h -7 v 3 h 7 v 3 h -7 v 3 h 7 v 3 h -7 v 3 h 7 v 7 h 3 v -7 h 3 v 7 h 3 v -7 h 3 v 7 h 3 v -7 h 7 v -3 h -7 v -3 h 7 v -3 h -7 v -3 h 7 v -3 h -7 v -7 h -3 v 7 h -3 v -7 h -3 v 7 h -3 v -7 z m 3,10 h 3 v 3 h -3 z m 6,0 h 3 v 3 h -3 z m -6,6 h 3 v 3 h -3 z m 6,0 h 3 v 3 h -3 z"/>
+ <path style="fill:#ffffff" d="M 47,33 V 30 H 18 v 3 h 29"/>
+ <path style="fill:#ffffff" d="m 34,17 h -3 v 29 h 3 V 17"/>
+ <path style="fill:#ffffff" d="M 47,39 V 36 H 18 v 3 h 29"/>
+ <path style="fill:#ffffff" d="m 40,17 h -3 v 29 h 3 V 17"/>
+ <path style="fill:#ffffff" d="M 47,27 V 24 H 18 v 3 h 29"/>
+ <path style="fill:#ffffff" d="m 28,17 h -3 v 29 h 3 V 17"/>
+ <path style="opacity:0.1" d="M 41.080623,44 H 23.919189 C 22.306873,44 21,42.692934 21,41.080811 V 23.919186 c 0,-1.612316 1.306873,-2.919189 2.919189,-2.919189 H 41.080623 C 42.69294,20.999997 44,22.30687 44,23.919186 V 41.080811 C 44,42.692934 42.69294,44 41.080623,44"/>
+ <path style="fill:#515151" d="M 41.080623,43 H 23.919189 C 22.306873,43 21,41.692934 21,40.080811 V 22.919186 c 0,-1.612316 1.306873,-2.919189 2.919189,-2.919189 H 41.080623 C 42.69294,19.999997 44,21.30687 44,22.919186 V 40.080811 C 44,41.692934 42.69294,43 41.080623,43"/>
+ <path style="opacity:0.2" d="M 25.5,24 C 24.671573,24 24,24.671573 24,25.5 24,26.328427 24.671573,27 25.5,27 26.328427,27 27,26.328427 27,25.5 27,24.671573 26.328427,24 25.5,24 Z M 34.070312,26 29,34.029617 31.15625,33.94368 29.929688,39.00032 35,30.970703 l -2.15625,0.08594 z"/>
+ <circle style="fill:#ffffff" cx="25.5" cy="24.5" r="1.5"/>
+ <path style="fill:#ffffff" d="M 34.071288,25 29,33.02859 31.156248,32.943804 29.928711,38.000197 35,29.971605 l -2.156251,0.08479 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 32.5 3 A 28.5 28.5 0 0 0 4 31.5 A 28.5 28.5 0 0 0 4.0351562 32 A 28.5 28.5 0 0 1 32.5 4 A 28.5 28.5 0 0 1 60.980469 31.759766 A 28.5 28.5 0 0 0 61 31.5 A 28.5 28.5 0 0 0 32.5 3 z"/>
 </svg>
