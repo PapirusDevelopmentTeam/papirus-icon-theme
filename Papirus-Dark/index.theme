@@ -1010,39 +1010,47 @@ Type=Fixed
 [32x32@2x/symbolic/apps]
 Context=Applications
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/categories]
 Context=Categories
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/devices]
 Context=Devices
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/emblems]
 Context=Emblems
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/emotes]
 Context=Emotes
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/mimetypes]
 Context=MimeTypes
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/places]
 Context=Places
 Size=32
+Scale=2
 Type=Fixed
 
 [32x32@2x/symbolic/status]
 Context=Status
 Size=32
+Scale=2
 Type=Fixed
