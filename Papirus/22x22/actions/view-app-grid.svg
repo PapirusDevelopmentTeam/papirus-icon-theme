@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 6.25,6 h 1.5 C 7.8885,6 8,6.1115 8,6.25 v 1.5 C 8,7.8885 7.8885,8 7.75,8 H 6.25 C 6.1115,8 6,7.8885 6,7.75 V 6.25 C 6,6.1115 6.1115,6 6.25,6 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 10.25,6 h 1.5 C 11.8885,6 12,6.1115 12,6.25 v 1.5 C 12,7.8885 11.8885,8 11.75,8 h -1.5 C 10.1115,8 10,7.8885 10,7.75 V 6.25 C 10,6.1115 10.1115,6 10.25,6 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 14.25,6 h 1.5 C 15.889,6 16,6.1115 16,6.25 v 1.5 C 16,7.8885 15.889,8 15.75,8 h -1.5 C 14.112,8 14,7.8885 14,7.75 V 6.25 C 14,6.1115 14.112,6 14.25,6 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 14.25,10 h 1.5 c 0.139,0 0.25,0.1115 0.25,0.25 v 1.5 C 16,11.8885 15.889,12 15.75,12 h -1.5 C 14.112,12 14,11.8885 14,11.75 v -1.5 C 14,10.1115 14.112,10 14.25,10 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 10.25,10 h 1.5 c 0.1385,0 0.25,0.1115 0.25,0.25 v 1.5 C 12,11.8885 11.8885,12 11.75,12 h -1.5 C 10.1115,12 10,11.8885 10,11.75 v -1.5 C 10,10.1115 10.1115,10 10.25,10 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 6.25,10 h 1.5 C 7.8885,10 8,10.1115 8,10.25 v 1.5 C 8,11.8885 7.8885,12 7.75,12 H 6.25 C 6.1115,12 6,11.8885 6,11.75 v -1.5 C 6,10.1115 6.1115,10 6.25,10 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 6.25,14 h 1.5 C 7.8885,14 8,14.112 8,14.25 v 1.5 C 8,15.889 7.8885,16 7.75,16 H 6.25 C 6.1115,16 6,15.889 6,15.75 v -1.5 C 6,14.112 6.1115,14 6.25,14 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 10.25,14 h 1.5 c 0.1385,0 0.25,0.112 0.25,0.25 v 1.5 C 12,15.889 11.8885,16 11.75,16 h -1.5 C 10.1115,16 10,15.889 10,15.75 v -1.5 C 10,14.112 10.1115,14 10.25,14 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 14.25,14 h 1.5 c 0.139,0 0.25,0.112 0.25,0.25 v 1.5 C 16,15.889 15.889,16 15.75,16 h -1.5 C 14.112,16 14,15.889 14,15.75 v -1.5 C 14,14.112 14.112,14 14.25,14 Z"/>
+</svg>
