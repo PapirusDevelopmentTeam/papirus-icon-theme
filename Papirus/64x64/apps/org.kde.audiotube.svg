@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="5" width="56" height="56" rx="8.4002638" ry="8.4002638" style="opacity:.2" paint-order="stroke fill markers"/>
+ <rect x="4" y="4" width="56" height="56" rx="8.4002638" ry="8.6151752" style="fill:#e74c3c" paint-order="stroke fill markers"/>
+ <path d="m48.750116 31.000002a0.74852857 0.74834092 0 0 0-0.750114 0.749984v1.49997a0.74852857 0.74834092 0 0 0 0.750172 0.750042h11.249826v-2.999996z" style="opacity:.2"/>
+ <path d="m4 31.000059v2.999939h11.400008a0.59867566 0.7483407 0 0 0 0.59999-0.749985v-1.499969a0.59867566 0.7483407 0 0 0-0.600036-0.750042h-11.399916z" style="opacity:.2"/>
+ <g style="opacity:.2">
+  <rect x="41" y="30.4" width="3" height="5.2" rx=".74998599" ry=".64999386"/>
+  <rect x="36" y="27.28" width="3" height="10.4" rx=".74998593" ry=".64999083"/>
+  <rect x="31" y="25.2" width="3" height="15.6" rx=".74998593" ry=".64999182"/>
+  <rect x="26" y="22.08" width="3" height="20.8" rx=".74998593" ry=".64999238"/>
+  <rect x="21" y="20" width="3" height="26" rx=".74998593" ry=".64999144"/>
+ </g>
+ <rect x="41" y="29.4" width="3" height="5.2" rx=".74998599" ry=".64999386" style="fill:#e4e4e4"/>
+ <rect x="36" y="26.28" width="3" height="10.4" rx=".74998593" ry=".64999083" style="fill:#e4e4e4"/>
+ <rect x="31" y="24.2" width="3" height="15.6" rx=".74998593" ry=".64999182" style="fill:#e4e4e4"/>
+ <rect x="26" y="21.08" width="3" height="20.8" rx=".74998593" ry=".64999238" style="fill:#e4e4e4"/>
+ <rect x="21" y="19" width="3" height="26" rx=".74998593" ry=".64999144" style="fill:#e4e4e4"/>
+ <circle cx="32" cy="33" r="22.5" stroke="#a83226" stroke-linecap="square" stroke-width="2.81166" style="fill:none;opacity:.2;stroke-width:3;stroke:#000000"/>
+ <path d="m48.839064 30a0.8381475 0.7483407 0 0 0-0.839064 0.75v1.5a0.8381475 0.7483407 0 0 0 0.839064 0.75h11.160934v-3h-8.399995z" style="fill:#e4e4e4"/>
+ <path d="m4 30v2.903589h3.9999987v0.09641h7.1999983a0.79823602 0.72429152 0 0 0 0.800001-0.725898v-1.451796a0.79823602 0.72429152 0 0 0-0.800001-0.725897h-5.5999991v-0.096408z" style="fill:#e4e4e4"/>
+ <circle cx="32" cy="32" r="22.5" fill="none" stroke="#dc8689" stroke-linecap="square" stroke-width="2.81165" style="stroke-width:3;stroke:#e4e4e4"/>
+ <path d="M 12.400391 4 C 7.7466445 4 4 7.8424273 4 12.615234 L 4 13.400391 C 4 8.7466445 7.7466445 5 12.400391 5 L 51.599609 5 C 56.253356 5 60 8.7466445 60 13.400391 L 60 12.615234 C 60 7.8424273 56.253356 4 51.599609 4 L 12.400391 4 z " style="fill:#ffffff;opacity:.2"/>
+</svg>
