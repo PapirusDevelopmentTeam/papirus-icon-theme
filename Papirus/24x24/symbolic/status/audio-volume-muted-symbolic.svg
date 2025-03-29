@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 4.40625,3 3,4.40625 6.7929688,8.2070312 6,9 H 3 v 6 h 3 l 5,5 v -7.585938 l 2,2 V 16 c 0,0 0.472551,-0.167669 1.039062,-0.546875 l 1.361329,1.361328 C 14.697036,17.326563 13.892734,17.736786 13,18 v 2 c 1.40323,-0.321188 2.696638,-0.951413 3.785156,-1.800781 L 19.59375,21 21,19.59375 18.222656,16.808594 16.839844,15.425781 15.439453,14.025391 13,11.585938 l -2,-2 L 8.2070312,6.7929688 Z M 11,4 9.6210938,5.3789062 11,6.7578125 Z m 2,0 v 2 c 2.86838,0.84571 5,3.06286 5,6 0,0.538481 -0.09381,1.04323 -0.228516,1.529297 L 19.3125,15.070312 C 19.749051,14.122442 20,13.088615 20,12 20,8.11429 16.89455,4.89143 13,4 Z m 0,4 v 0.7578125 l 2.984375,2.9843755 C 15.815427,8.9469732 13,8 13,8 Z"/>
-</svg>
+../../panel/audio-volume-muted.svg
