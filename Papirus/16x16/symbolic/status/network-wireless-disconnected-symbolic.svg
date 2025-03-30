@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,11 V 12 C 11,12.28 11.1,12.54 11.28,12.72 L 12.06,13.5 11.28,14.28 C 11.1,14.47 11,14.73 11,15 V 16 H 12 C 12.28,16 12.54,15.9 12.72,15.72 L 13.5,14.94 14.28,15.72 C 14.46,15.9 14.73,16 15,16 H 16 V 15 C 16,14.73 15.9,14.47 15.72,14.28 L 14.94,13.5 15.72,12.72 C 15.9,12.54 16,12.28 16,12 V 11 H 15 C 14.73,11 14.46,11.1 14.28,11.28 L 13.5,12.07 12.72,11.28 C 12.54,11.1 12.28,11 12,11 Z"/>
- <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 8 1 C 4.9494 1 2.0806 2.0732 0 4 L 8 15 L 10.019531 12.222656 C 10.011891 12.148415 10 12.074553 10 12 L 10 11 L 10 10 L 11.636719 10 L 16 4 C 13.919 2.0731 11.051 1 8 1 z"/>
-</svg>
+../../panel/network-wireless-disconnected.svg

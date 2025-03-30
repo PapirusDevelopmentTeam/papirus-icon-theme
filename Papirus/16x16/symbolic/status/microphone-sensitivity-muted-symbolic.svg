@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;opacity:.35" class="ColorScheme-Text" d="M 8 0 C 6.6398 0 5.5123312 0.90587125 5.1445312 2.1445312 L 11 8 L 11 3 C 11 1.34 9.66 0 8 0 z M 2.5 1 L 1 2.5 L 5 6.5 L 5 8 C 5 9.66 6.34 11 8 11 C 8.4396571 11 8.8488731 10.8943 9.2226562 10.722656 L 9.9707031 11.470703 C 9.3918436 11.803497 8.7243353 12 8 12 C 5.77 12 4 10.23 4 8 L 4 7 L 2 7 L 2 8 C 2 10.97 4.16 13.430156 7 13.910156 L 7 16 L 9 16 L 9 13.910156 C 9.8892692 13.760376 10.702183 13.405909 11.410156 12.910156 L 13.5 15 L 15 13.5 L 2.5 1 z M 12 7 L 12 8 C 12 8.3068 11.948859 8.5970594 11.880859 8.8808594 L 13.449219 10.449219 C 13.792219 9.7004188 14 8.8778 14 8 L 14 7 L 12 7 z"/>
-</svg>
+../../panel/microphone-sensitivity-muted.svg

@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 15,15 v 1 c 0,0.28 0.1,0.54 0.28,0.72 l 0.78,0.78 -0.78,0.78 C 15.1,18.47 15,18.73 15,19 v 1 h 1 c 0.28,0 0.54,-0.1 0.72,-0.28 l 0.78,-0.78 0.78,0.78 C 18.46,19.9 18.73,20 19,20 h 1 v -1 c 0,-0.27 -0.1,-0.53 -0.28,-0.72 L 18.94,17.5 19.72,16.72 C 19.9,16.54 20,16.28 20,16 v -1 h -1 c -0.27,0 -0.54,0.1 -0.72,0.28 L 17.5,16.07 16.72,15.28 C 16.54,15.1 16.28,15 16,15 Z"/>
- <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="m 14,4 v 2 h -3 v 5 h 3 v 2 L 19.5,8.5 Z M 10,10 4.5,14.5 10,19 v -2 h 3 v -5 h -3 z"/>
-</svg>
+../../panel/network-offline.svg
