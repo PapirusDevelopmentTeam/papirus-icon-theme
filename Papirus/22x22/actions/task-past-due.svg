@@ -4,8 +4,6 @@
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <g transform="translate(3,3)">
-  <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 9,2 A 1,1 0 0 1 8,3 1,1 0 0 1 7,2 1,1 0 0 1 8,1 1,1 0 0 1 9,2 Z M 8,0 C 8,0 6,0 6,2 H 2 C 2,2 1,2 1,3 V 14 C 1,15 2,15 2,15 H 10 V 12 H 4 V 11 H 10 V 10 H 15 V 3 C 15,2 14,2 14,2 H 10 C 10,0 8,0 8,0 Z M 4,5 H 12 V 6 H 4 Z M 4,8 H 12 V 9 H 4 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,11 V 12 C 11,12.28 11.1,12.54 11.28,12.72 L 12.06,13.5 11.28,14.28 C 11.1,14.46 11,14.72 11,15 V 16 H 12 C 12.28,16 12.54,15.9 12.72,15.72 L 13.5,14.94 14.28,15.72 C 14.46,15.9 14.72,16 15,16 H 16 V 15 C 16,14.72 15.9,14.46 15.72,14.28 L 14.94,13.5 15.72,12.72 C 15.9,12.54 16,12.28 16,12 V 11 H 15 C 14.72,11 14.46,11.1 14.28,11.28 L 13.5,12.06 12.72,11.28 C 12.54,11.1 12.28,11 12,11 Z"/>
- </g>
+ <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 11,3 A 2,2 0 0 0 9,5 H 5 C 4.446,5 4,5.45 4,6 v 11 c 0,0.55 0.446,1 1,1 h 8 V 15 H 7 v -1 h 6 v -1 h 5 V 6 C 18,5.45 17.554,5 17,5 H 13 A 2,2 0 0 0 11,3 Z m 0,1 A 1,1 0 0 1 12,5 1,1 0 0 1 11,6 1,1 0 0 1 10,5 1,1 0 0 1 11,4 Z M 7,8 h 8 V 9 H 7 Z m 0,3 h 8 v 1 H 7 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 14,14 v 1 c 0,0.28 0.1,0.54 0.28,0.72 l 0.78,0.78 -0.78,0.78 C 14.1,17.46 14,17.72 14,18 v 1 h 1 c 0.28,0 0.54,-0.1 0.72,-0.28 l 0.78,-0.78 0.78,0.78 C 17.46,18.9 17.72,19 18,19 h 1 v -1 c 0,-0.28 -0.1,-0.54 -0.28,-0.72 L 17.94,16.5 18.72,15.72 C 18.9,15.54 19,15.28 19,15 v -1 h -1 c -0.28,0 -0.54,0.1 -0.72,0.28 L 16.5,15.06 15.72,14.28 C 15.54,14.1 15.28,14 15,14 Z"/>
 </svg>

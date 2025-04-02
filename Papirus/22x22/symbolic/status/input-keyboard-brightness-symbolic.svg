@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 5 5 C 3.892002 5 3 5.892 3 7 L 3 15 C 3 16.108 3.892002 17 5 17 L 11.613281 17 A 5.5 5.5 0 0 1 11.037109 15 L 5 15 L 5 13 L 11.212891 13 A 5.5 5.5 0 0 1 11.613281 12 L 10 12 L 10 10 L 12 10 L 12 11.357422 A 5.5 5.5 0 0 1 16.5 9 L 16 9 L 16 7 L 18 7 L 18 9 L 16.5 9 A 5.5 5.5 0 0 1 19 9.6035156 L 19 7 C 19 5.892 18.108 5 17 5 L 5 5 z M 4 7 L 6 7 L 6 9 L 4 9 L 4 7 z M 7 7 L 9 7 L 9 9 L 7 9 L 7 7 z M 10 7 L 12 7 L 12 9 L 10 9 L 10 7 z M 13 7 L 15 7 L 15 9 L 13 9 L 13 7 z M 4 10 L 6 10 L 6 12 L 4 12 L 4 10 z M 7 10 L 9 10 L 9 12 L 7 12 L 7 10 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 16 10 L 16 12 L 17 12 L 17 10 L 16 10 z M 13.671875 10.964844 L 12.964844 11.671875 L 14.378906 13.085938 L 15.085938 12.378906 L 13.671875 10.964844 z M 19.328125 10.964844 L 17.914062 12.378906 L 18.621094 13.085938 L 20.035156 11.671875 L 19.328125 10.964844 z M 16.5 13 A 1.5 1.5 0 0 0 15 14.5 A 1.5 1.5 0 0 0 16.5 16 A 1.5 1.5 0 0 0 18 14.5 A 1.5 1.5 0 0 0 16.5 13 z M 12 14 L 12 15 L 14 15 L 14 14 L 12 14 z M 19 14 L 19 15 L 21 15 L 21 14 L 19 14 z M 14.378906 15.914062 L 12.964844 17.328125 L 13.671875 18.035156 L 15.085938 16.621094 L 14.378906 15.914062 z M 18.621094 15.914062 L 17.914062 16.621094 L 19.328125 18.035156 L 20.035156 17.328125 L 18.621094 15.914062 z M 16 17 L 16 19 L 17 19 L 17 17 L 16 17 z"/>
-</svg>
+../../panel/input-keyboard-brightness.svg
