@@ -26,23 +26,23 @@ for theme in "${THEMES[@]##*/}"; do
 					actions)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -not -name '*-symbolic@16x16.svg' -print0 -o \
-							-name '*@18x18.svg' -not -name '*-symbolic@18x18.svg' -print0 -o \
-							-name '*@22x22.svg' -not -name '*-symbolic@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -not -name '*-symbolic@24x24.svg' -print0 \
+							-name '*@16x16.svg' -not -name '*-symbolic*@16x16.svg' -print0 -o \
+							-name '*@18x18.svg' -not -name '*-symbolic*@18x18.svg' -print0 -o \
+							-name '*@22x22.svg' -not -name '*-symbolic*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -not -name '*-symbolic*@24x24.svg' -print0 \
 							| xargs -0 -i cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 					animations)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
-							-name '*@22x22.svg' -not -name '*-symbolic@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -not -name '*-symbolic@24x24.svg' -print0 \
+							-name '*@22x22.svg' -not -name '*-symbolic*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -not -name '*-symbolic*@24x24.svg' -print0 \
 							| xargs -0 -i cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 					devices|places)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -not -name '*-symbolic@16x16.svg' -print0 \
+							-name '*@16x16.svg' -not -name '*-symbolic*@16x16.svg' -print0 \
 							| xargs -0 -i cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 				esac
@@ -61,16 +61,16 @@ for theme in "${THEMES[@]##*/}"; do
 					animations)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
-							-name '*@22x22.svg' -not -name '*-symbolic@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -not -name '*-symbolic@24x24.svg' -print0 \
+							-name '*@22x22.svg' -not -name '*-symbolic*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -not -name '*-symbolic*@24x24.svg' -print0 \
 							| xargs -0 -i cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 					panel)
 						mkdir -p "$theme_dir/$context_dir"
 						find "$SOURCE_DIR/$context_dir" \
-							-name '*@16x16.svg' -not -name '*-symbolic@16x16.svg' -print0 -o \
-							-name '*@22x22.svg' -not -name '*-symbolic@22x22.svg' -print0 -o \
-							-name '*@24x24.svg' -not -name '*-symbolic@24x24.svg' -print0 \
+							-name '*@16x16.svg' -not -name '*-symbolic*@16x16.svg' -print0 -o \
+							-name '*@22x22.svg' -not -name '*-symbolic*@22x22.svg' -print0 -o \
+							-name '*@24x24.svg' -not -name '*-symbolic*@24x24.svg' -print0 \
 							| xargs -0 -i cp -afv '{}' "$theme_dir/$context_dir"
 						;;
 				esac

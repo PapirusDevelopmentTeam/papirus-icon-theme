@@ -9,7 +9,7 @@ readonly TARGET_DIR="$SCRIPT_DIR/../.."
 
 has_symbolic_suffix() {
 	case "$1" in
-		*-symbolic) return 0 ;;
+		*-symbolic|*-symbolic-rtl) return 0 ;;
 		*)          return 1 ;;
 	esac
 }

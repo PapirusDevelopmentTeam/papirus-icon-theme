@@ -51,7 +51,7 @@ has_symbolic_suffix() {
 	local icon_name="$1"
 
 	case "$icon_name" in
-		*-symbolic.svg|*-symbolic)
+		*-symbolic.svg|*-symbolic|*-symbolic-rtl.svg|*-symbolic-rtl)
 			return 0
 			;;
 		*)
