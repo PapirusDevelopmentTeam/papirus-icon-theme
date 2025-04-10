@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 7.5,7 h 1 C 8.777,7 9,7.223 9,7.5 v 1 C 9,8.777 8.777,9 8.5,9 h -1 C 7.223,9 7,8.777 7,8.5 v -1 C 7,7.223 7.223,7 7.5,7 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 11.5,7 h 1 C 12.777,7 13,7.223 13,7.5 v 1 C 13,8.777 12.777,9 12.5,9 h -1 C 11.223,9 11,8.777 11,8.5 v -1 C 11,7.223 11.223,7 11.5,7 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 15.5,7 h 1 C 16.777,7 17,7.223 17,7.5 v 1 C 17,8.777 16.777,9 16.5,9 h -1 C 15.223,9 15,8.777 15,8.5 v -1 C 15,7.223 15.223,7 15.5,7 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 7.5,11 h 1 C 8.777,11 9,11.223 9,11.5 v 1 C 9,12.777 8.777,13 8.5,13 h -1 C 7.223,13 7,12.777 7,12.5 v -1 C 7,11.223 7.223,11 7.5,11 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 11.5,11 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 1 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 C 11.223,13 11,12.777 11,12.5 v -1 C 11,11.223 11.223,11 11.5,11 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 15.5,11 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 1 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 C 15.223,13 15,12.777 15,12.5 v -1 C 15,11.223 15.223,11 15.5,11 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 7.5,15 h 1 C 8.777,15 9,15.223 9,15.5 v 1 C 9,16.777 8.777,17 8.5,17 h -1 C 7.223,17 7,16.777 7,16.5 v -1 C 7,15.223 7.223,15 7.5,15 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 11.5,15 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 1 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 C 11.223,17 11,16.777 11,16.5 v -1 C 11,15.223 11.223,15 11.5,15 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 15.5,15 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 1 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 C 15.223,17 15,16.777 15,16.5 v -1 C 15,15.223 15.223,15 15.5,15 Z"/>
+</svg>
