@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 10.5,9 C 9.669,9 9,9.669 9,10.5 v 4 c 0,0.831 0.669,1.5 1.5,1.5 h 4 C 15.331,16 16,15.331 16,14.5 V 13.794922 L 18.353516,14.9375 C 18.64072,15.114879 19.000209,14.89156 19,14.537109 V 10.460938 C 19.000287,10.201544 18.799311,9.992737 18.556641,10 c -0.07157,0.0022 -0.141175,0.02414 -0.203125,0.0625 L 16,11.205078 V 10.5 C 16,9.669 15.331,9 14.5,9 Z"/>
+ <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 7.5,5 C 6.6690003,5 6,5.669 6,6.5 V 7.205078 L 3.6464844,6.0625 C 3.5845344,6.024137 3.5149294,6.00222 3.4433594,6 3.2006894,5.9927367 2.999713,6.2015443 3,6.4609375 v 4.0761715 c -2.09e-4,0.354451 0.3592804,0.57777 0.6464844,0.400391 L 6,9.794922 V 10.5 C 6,11.331 6.6690003,12 7.5,12 H 8 V 10.5 C 8,9.132297 9.1322972,8 10.5,8 H 13 V 6.5 C 13,5.669 12.331,5 11.5,5 Z"/>
+</svg>
