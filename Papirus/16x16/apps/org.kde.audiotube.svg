@@ -1,10 +1,5 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect width="15.999893" height="15.999893" rx="2.4000592" ry="2.461462" style="fill:#e74c3c" paint-order="stroke fill markers"/>
- <rect x="11" y="7" width="1" height="1" rx=".24999534" ry=".12499882" style="fill:#e4e4e4"/>
- <rect x="9" y="6" width="1" height="3" rx=".24999534" ry=".18749736" style="fill:#e4e4e4"/>
- <rect x="7" y="5" width="1" height="5" rx=".24999534" ry=".15624817" style="fill:#e4e4e4"/>
- <rect x="5" y="4" width="1" height="7" rx=".24999534" ry=".17499769" style="fill:#e4e4e4"/>
- <path d="m0 7.0000017v0.9678581h1.3333327v0.03214h2.3999996a0.26607867 0.24142941 0 0 0 0.266667-0.2419638v-0.4839316a0.26607867 0.24142941 0 0 0-0.266667-0.2419677h-1.8666663v-0.032136z" style="fill:#e4e4e4"/>
- <path d="m13.209768 7.0000005a0.20953691 0.24944686 0 0 0-0.209767 0.2499988v0.500001a0.20953691 0.24944686 0 0 0 0.209767 0.2499999h2.790232v-0.9999997h-2.099998z" style="fill:#e4e4e4"/>
- <circle cx="8.499999" cy="7.5000014" r="6.0000029" fill="none" stroke="#dc8689" stroke-linecap="square" stroke-width="2.07818" style="stroke-width:.999997;stroke:#e4e4e4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#e74c3c" width="16" height="16" rx="2.4" ry="2.4"/>
+ <path style="fill:#e4e4e4" d="M 5,4 V 11 H 6 V 4 Z M 7,5 V 10 H 8 V 5 Z M 9,6 V 9 H 10 V 6 Z M 4,7 H 0 V 8 H 4 M 11,7 V 8 H 12 V 7 Z M 13,8 H 16 V 7 H 13"/>
+ <path style="fill:#e4e4e4" d="M 8.5 1 A 6.5 6.5 0 0 0 2 7.5 A 6.5 6.5 0 0 0 8.5 14 A 6.5 6.5 0 0 0 15 7.5 A 6.5 6.5 0 0 0 8.5 1 z M 8.5 2 A 5.5 5.5 0 0 1 14 7.5 A 5.5 5.5 0 0 1 8.5 13 A 5.5 5.5 0 0 1 3 7.5 A 5.5 5.5 0 0 1 8.5 2 z"/>
 </svg>
