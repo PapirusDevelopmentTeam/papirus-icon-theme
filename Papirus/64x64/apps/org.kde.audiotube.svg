@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="8.4" ry="8.4"/>
+ <rect style="fill:#e74c3c" width="56" height="56" x="4" y="4" rx="8.4" ry="8.4"/>
+ <g style="opacity:0.2" transform="translate(0,1)">
+  <rect width="3" height="6" x="41" y="29" rx=".75" ry=".65"/>
+  <rect width="3" height="11" x="36" y="26" rx=".75" ry=".65"/>
+  <rect width="3" height="16" x="31" y="24" rx=".75" ry=".65"/>
+  <rect width="3" height="21" x="26" y="21" rx=".75" ry=".65"/>
+  <rect width="3" height="26" x="21" y="19" rx=".75" ry=".65"/>
+  <path d="M 32,8 A 24,24 0 0 0 8,32 24,24 0 0 0 32,56 24,24 0 0 0 56,32 24,24 0 0 0 32,8 Z M 32,11 A 21,21 0 0 1 53,32 21,21 0 0 1 32,53 21,21 0 0 1 11,32 21,21 0 0 1 32,11 Z"/>
+  <path d="M 48.75,30 C 48.334,30 48,30.29 48,30.65 V 32.35 C 48,32.71 48.334,33 48.75,33 H 60 V 30 Z"/>
+  <path d="M 4,30 V 33 H 15.25 C 15.665,33 16,32.71 16,32.35 V 30.65 C 16,30.29 15.665,30 15.25,30 Z"/>
+ </g>
+ <rect style="fill:#e4e4e4" width="3" height="6" x="41" y="29" rx=".75" ry=".65"/>
+ <rect style="fill:#e4e4e4" width="3" height="11" x="36" y="26" rx=".75" ry=".65"/>
+ <rect style="fill:#e4e4e4" width="3" height="16" x="31" y="24" rx=".75" ry=".65"/>
+ <rect style="fill:#e4e4e4" width="3" height="21" x="26" y="21" rx=".75" ry=".65"/>
+ <rect style="fill:#e4e4e4" width="3" height="26" x="21" y="19" rx=".75" ry=".65"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 12.4 4 C 7.7468 4 4 7.7468 4 12.4 L 4 13.4 C 4 8.7468 7.7468 5 12.4 5 L 51.6 5 C 56.253 5 60 8.7468 60 13.4 L 60 12.4 C 60 7.7468 56.253 4 51.6 4 L 12.4 4 z"/>
+ <path style="fill:#e4e4e4" d="M 32 8 A 24 24 0 0 0 8 32 A 24 24 0 0 0 32 56 A 24 24 0 0 0 56 32 A 24 24 0 0 0 32 8 z M 32 11 A 21 21 0 0 1 53 32 A 21 21 0 0 1 32 53 A 21 21 0 0 1 11 32 A 21 21 0 0 1 32 11 z"/>
+ <path style="fill:#e4e4e4" d="M 48.75 30 C 48.334 30 48 30.29 48 30.65 L 48 32.35 C 48 32.71 48.334 33 48.75 33 L 60 33 L 60 30 L 48.75 30 z"/>
+ <path style="fill:#e4e4e4" d="M 4 30 L 4 33 L 15.25 33 C 15.665 33 16 32.71 16 32.35 L 16 30.65 C 16 30.29 15.665 30 15.25 30 L 4 30 z"/>
+</svg>
