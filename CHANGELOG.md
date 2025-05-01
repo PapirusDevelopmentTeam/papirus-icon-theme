@@ -1,3 +1,150 @@
+[20250501]
+==========
+
+## Highlights
+
+> [!IMPORTANT]
+> ePapirus and ePapirus-Dark have been removed because elementaryOS 8 no longer supports changing the icon theme in wingpanel. See https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/pull/3979#issuecomment-2727280978
+>
+> **For package maintainers**
+>
+> If you maintain a standalone package for ePapirus icon theme, please remove it. No changes needed if you build the all-in-one package using our Makefile. Just check the package description.
+>
+> **For users**
+>
+> If you prefer to use ePapirus and ePapirus-Dark, please change it to Papirus and Papirus-Dark. These themes include changes from ePapirus theme now.
+
+This release brings a set of changes to the symbolic icons.
+
+- Added new directory structure for symbolic icons by @SmartFinn #3983
+- Added rules for scaling symbolic icons up to 200% #3986 by @SmartFinn
+- Added symbolic icons for 22px/24px icon sizes by @varlesh and @SmartFinn in #3991
+- Injected KDE color scheme into symbolic icons and GTK specific class into monochrome icons by @SmartFinn in #3983
+- Moved all icons with `-symbolic` suffix into symbolic/ directories by @SmartFinn in #3983
+- Removed symbolic icons from Papirus-Dark by @SmartFinn in #3983
+- Replace a lot of symbolic icons with symlinks by @varlesh in #3991
+
+## Added icons
+
+- Akregator (tray icon) by @varlesh
+- Alpm Package file `.pkg.tar` by @varlesh
+- Amarok (tray icon) by @varlesh
+- archive-extract-symbolic (GNOME File Roller) by @SmartFinn
+- AudioTube #3868 by @wilwarindi in #3959
+- BalenaEtcher by @varlesh
+- Beeper #3487 by @varlesh in #4023 and @COxDE in #4024
+- Blueman (symbolic status icons) #3575 by @SmartFinn
+- Cardo Podcast Client #4015 by @varlesh
+- CoolerControl by @varlesh
+- CoreCtrl symbolic icon #3663 by @varlesh
+- Cromite #4011 by @varlesh
+- Crystal source files `*.cr` by @BigBoyBarney in #3762
+- cs-nightlight #3981 by @varlesh
+- Decibels #3997 by @varlesh
+- DOSBox Staging by @ZhangYaoan in #4026
+- edit-delete-shred by @SmartFinn
+- Electron 27-35 by @varlesh
+- Elisa (tray icon) by @varlesh
+- Ente Photos #3944 by @wilwarindi in #3946
+- Filen by @wilwarindi in #3950
+- firewalled (action icon) by @varlesh
+- fooyin #3725 by @varlesh
+- GNOME Shell Captive Portal by @varlesh
+- GNOME Shell Extensions by @varlesh
+- GNOME Showtime #3811 by @varlesh
+- input-combo-on by @varlesh
+- Insomnia Designer #2260 #3999 by @varlesh
+- kAlarm (tray icon) by @varlesh
+- Karp #3927 by @wilwarindi in #3948
+- Kate (tray icon) #3663 by @varlesh
+- Kdenlive (some actions icons) by @varlesh
+- kGet (tray icon) by @varlesh
+- Klassy by @varlesh
+- kMail (tray icon) by @varlesh
+- kNotes symbolic icon #3663 by @varlesh
+- Kup (tray icon) by @varlesh
+- LocalSend #2007 #3732 by @SmartFinn
+- Malcontent Control by @varlesh
+- media-album-cover (Plasma MediaController) by @varlesh
+- Mihomo Party #3958 by @varlesh
+- Mouse Actions GUI by @varlesh
+- Northgard by @aaheen in #3707 and @achadwick in #3938
+- NymVPN #3919 by @wilwarindi and @achadwick in #3949
+- Pianoteq Stage #3977 by @varlesh
+- Picture Of The Day #4008 by @varlesh
+- Pipewire Volume Control #4021 by @varlesh
+- preferences-desktop-appearance-symbolic #3984 by @varlesh
+- Prism Launcher #3321 by @varlesh
+- project-defaults by @varlesh
+- QDiskInfo by @varlesh
+- QPhotoRec by @varlesh
+- RemNote #3877 by @wilwarindi in #3953
+- RenderDoc by @Chadow in #3942 and @achadwick in #3785
+- RetroArch (v1.20.1+) by @achadwick
+- RQuickShare #4006 by @varlesh
+- ShadPS4 #3957 by @varlesh
+- Skanpage #3996 by @varlesh
+- Spectacle (some actions icons) by @varlesh
+- Telegram symbolic icons #3998 #4004 by @varlesh
+- TheXTech and SMBX by @ninstar in #4033
+- Tokodon actions icons #3962 by @varlesh
+- tool-pages (Inkscape icon) by @varlesh
+- Virtual Machine Manager (Flathub) by @COxDE in #4002
+- VLC tray icon for Plasma 6 #3663
+- Wine symbolic icon #3663 by @varlesh
+- Yakuake (tray icon) by @varlesh
+- Yandex Music client for Linux #3644 by @varlesh
+- Zed (Flathub) #2007 #3954 by @SmartFinn
+
+## Updated icons
+
+- autocorrection by @varlesh
+- caps-lock and num-lock icons by @varlesh
+- color-management by @varlesh
+- Common Lisp mimetype by @UM-Li in #3696 and @achadwick in #3943
+- CPU-X by @varlesh
+- CpuFreq indicator by @varlesh
+- CPUPowerGUI by @varlesh
+- Deezer #3593 by @varlesh
+- edit-cut by @varlesh
+- F3D #4012 by @varlesh
+- Ghostty #3974 by @varlesh
+- mail-mark-unread action icon by @varlesh
+- nVidia by @varlesh
+- PortProton (app and tray icons) by @varlesh
+- RetroArch #3939 by @varlesh
+- Vesktop #3636 by @varlesh
+- WeChat #3739 by @varlesh
+- Xfce4 cpugraph plugin by @varlesh
+
+## Removed icons
+
+- `color-picker` symlink from apps by @varlesh
+
+## Changes and fixes
+
+- Added a lot of colorful status icons for Plasma 6 #3923 by @varlesh
+- Added a lot of symbolic actions, apps, and categories icons for Discover and other apps #3976 by @varlesh
+- Added actions icons for qBittorrent by @varlesh
+- Added icons for qBittorrent settings by @varlesh
+- Added icons used in KickOff menu, widgets, and on Plasma panel by @varlesh
+- Added several actions icons for Elisa and Amarok by @varlesh
+- Added some OSD icons used in Plasma 6 by @varlesh
+- Added status icons for Plasma 6, like icons for Network Manager, and battery icons with profiles #3973 by @varlesh
+- Added symbolic icons for Nautilus 46+ by @SmartFinn
+- Fixed a render bug on qBittorrent tray icon @varlesh
+- Fixed mimetype icon name for YAML files #3845 by @SmartFinn
+- Removed ePapirus and ePapirus-Dark icon themes by @SmartFinn in #3979
+- Removed workaround for 32px panel icons #3663 #3923 by @SmartFinn
+- Replaced edit-delete action icon with a symlink to entry-delete by @SmartFinn
+- Updated a batch of monochrome actions icons to match their symbolic versions by @varlesh and @SmartFinn
+- Updated view-{grid,compact} and view-list{,-compact,-details} icons that using in Dolphin and Nautilus by @SmartFinn
+
+## Others
+
+- Added a script to find missing mimetype by @achadwick in #3952
+
+
 [20250201]
 ==========
 
