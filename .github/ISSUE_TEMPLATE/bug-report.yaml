@@ -20,17 +20,17 @@ body:
   - type: input
     id: package
     attributes:
-      label: Installing method
-      description: How do you install Papirus icon theme on your computer (Papirus Installer, PPA, or a package from a repo).
+      label: How did you install Papirus icon theme on your computer?
+      description: Specify a method what did you use. (Papirus Installer script, PPA, dnf, apt, zypper).
       placeholder: ex. Papirus Installer
     validations:
       required: true
   - type: input
     id: app
     attributes:
-      label: Application (version)
-      description: Application name and version if this issue related to an application.
-      placeholder: ex. Nautilus
+      label: Is this issue related to an app?
+      description: Specify application name and version if it's true.
+      placeholder: ex. Nautilus 48
     validations:
       required: false
   - type: textarea
