@@ -1,6 +1,6 @@
 name: Icon Request
 description: Request an icon to add
-title: "[Icon request] <title>"
+title: "[Icon request] <App name>"
 labels: ["icon request"]
 assignees: []
 body:
@@ -15,8 +15,8 @@ body:
         4. The app is not a Windows application running under Wine/Crossover
         5. The title contains application or icon name (Ex: [Icon request] Boostnote)
 
-        NOTE:
-        You'll find most of necessary entries for the icon request in a app's desktop-file, usually placed in /usr/share/applications/ folder (ex. /usr/share/applications/firefox.desktop).
+        > [!NOTE]
+        > You'll find most of necessary entries for the icon request in a app's desktop-file, usually placed in /usr/share/applications/ folder (ex. /usr/share/applications/firefox.desktop).
   - type: input
     id: app-name
     attributes:
@@ -38,6 +38,7 @@ body:
     attributes:
       label: Webpage
       description: Link to the official website, GitHub repo, or download page.
+      placeholder: "https://www.mozilla.org/firefox/"
     validations:
       required: false
   - type: textarea
