@@ -1,0 +1,56 @@
+name: Icon Request
+description: Request an icon to add
+title: "[Icon request] <title>"
+labels: ["icon request"]
+assignees: []
+body:
+  - type: markdown
+    attribures:
+      value: |
+        Before creating this issue, ensure that:
+
+        1. The icon is not exists yet (open https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/find/master and start typing the icon name to make sure)
+        2. The icon request is not a duplicate
+        3. The app is not installed by snap (the snap packages have hardcoded paths to icons)
+        4. The app is not a Windows application running under Wine/Crossover
+        5. The title contains application or icon name (Ex: [Icon request] Boostnote)
+
+        NOTE:
+        You'll find most of necessary entries for the icon request in a app's desktop-file, usually placed in /usr/share/applications/ folder (ex. /usr/share/applications/firefox.desktop).
+  - type: input
+    id: app-name
+    attribures:
+      label: Application name
+      description: Name of the application that you see in a launcher.
+      placeholder: ex. Mozilla Firefox
+    validations:
+      required: true
+  - type: input
+    id: icon-name
+    attribures:
+      label: Icon name
+      description: Name of the missing icon that we have to add.
+      placeholder: ex. firefox
+    validations:
+      required: true
+  - type: input
+    id: webpage
+    attribures:
+      label: Webpage
+      description: Link to the official website, GitHub repo, or download page.
+    validations:
+      required: false
+  - type: textarea
+    id: desc
+    attribures:
+      label: Description
+      description: A few lines that describe what the app does. You could copy them from the desktop file or GitHub repo.
+    validations:
+      required: true
+  - type: textarea
+    id: orig-icon
+    attribures:
+      label: Original icon
+      description: Upload (or drag and drop) the origian app icon to the textarea below. Or make a screenshot if you couldn't do that.
+    validations:
+      required: true
