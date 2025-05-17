@@ -1,0 +1,57 @@
+name: Bug Request
+description: Report an issue with the icon theme
+assignees: []
+body:
+  - type: input
+    id: distro
+    attributes:
+      label: What Linux distro are you using?
+      placeholder: ex. Ubuntu 25.04
+    validations:
+      required: true
+  - type: input
+    id: desktop
+    attributes:
+      label: What Desktop environment are you using?
+      description: Variant of the desktop environment (GNOME Shell, KDE Plasma, Mate, Xfce, ...).
+      placeholder: ex. GNOME Shell 48
+    validations:
+      required: true
+  - type: input
+    id: package
+    attributes:
+      label: Installing method
+      description: How do you install Papirus icon theme on your computer (Papirus Installer, PPA, or a package from a repo).
+      placeholder: ex. Papirus Installer
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Application (version)
+      description: Application name and version if this issue related to an application.
+      placeholder: ex. Nautilus
+    validations:
+      required: false
+  - type: textarea
+    id: desc
+    attributes:
+      label: Describe the issue
+      description: A clear and concise description of what the issue is.
+      placeholder: |
+        Please include as much information as possible that can help to reproduce and understand the issue.
+        Add a few screenshots how it looks with the default icon theme, and with Papirus.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Before submitting the issue, please make sure you have completed the following
+      options:
+        - label: I have searched the existing issues to make sure that's not a duplicate
+          required: true
+        - label: I updated Papirus icon theme to the last available commit (use Papirus Installer to update)
+          required: true
+        - label: Switching the icon theme to the default (Adwaita for GNOME Shell, Breeze for KDE Plasma) is fixing the issue
+          required: true
