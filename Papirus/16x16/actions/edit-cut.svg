@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.5,2 C 3.12,2 2,3.12 2,4.5 2,5.88 3.12,7 4.5,7 4.95,7 5.36,6.86 5.72,6.66 L 7.69,8.5 5.72,10.34 C 5.36,10.14 4.95,10 4.5,10 3.12,10 2,11.12 2,12.5 2,13.88 3.12,15 4.5,15 5.88,15 7,13.88 7,12.5 7,12.27 6.96,12.06 6.91,11.84 L 9.03,9.78 13.5,14 H 15 V 13 L 6.91,5.16 C 6.96,4.95 7,4.73 7,4.5 7,3.12 5.88,2 4.5,2 Z M 4.5,3.5 C 5.05,3.5 5.5,3.95 5.5,4.5 5.5,5.05 5.05,5.5 4.5,5.5 3.95,5.5 3.5,5.05 3.5,4.5 3.5,3.95 3.95,3.5 4.5,3.5 Z M 13.5,3 9.56,6.72 10.88,8 15,4 V 3 Z M 4.5,11.5 C 5.05,11.5 5.5,11.95 5.5,12.5 5.5,13.05 5.05,13.5 4.5,13.5 3.95,13.5 3.5,13.05 3.5,12.5 3.5,11.95 3.95,11.5 4.5,11.5 Z"/>
+ <path d="m4 1a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 1.4199219-0.3574219l1.4921875 1.3574219-1.4921875 1.3574219c-0.4365217-0.2345889-0.9243585-0.3573868-1.4199219-0.3574219-1.6568542 0-3 1.343146-3 3s1.3431458 3 3 3 3-1.343146 3-3c-4.7e-5 -0.399103-0.0797275-0.794186-0.234375-1.162109l1.6347656-1.4863285 5.1132814 4.6484375h1.486328v-1.351562l-8.234375-7.4863286a3 3 0 0 0 0.234375-1.1621094 3 3 0 0 0-3-3zm9.513672 1-4.3691408 3.9726562 1.4863278 1.3515626 4.369141-3.9726563v-1.3515625h-1.486328zm-9.513672 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm0 8c0.5522847 0 1 0.447715 1 1s-0.4477153 1-1 1-1-0.447715-1-1 0.4477153-1 1-1z" style="fill:currentColor" class="ColorScheme-Text"/>
 </svg>

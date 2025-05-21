@@ -1,1 +1,21 @@
-notification-printer-symbolic.svg
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-33" y="-44" width="17" height="40" rx="2" ry="2" style="opacity:.2"/>
+ <path d="m8 28v15c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-15h-32z" style="opacity:.2"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v12h32v-12c0-1.108-0.892-2-2-2h-28z" style="fill:#e4e4e4"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-44" width="17" height="40" rx="2" ry="2" fill="#4f4f4f"/>
+ <path d="m6 15.004c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" opacity=".1"/>
+ <rect x="6" y="25" width="36" height="4" style="opacity:.2"/>
+ <rect x="6" y="18" width="4" height="4" rx="1.5" ry="1.5" style="opacity:.2"/>
+ <rect x="6" y="17" width="4" height="4" rx="1.5" ry="1.5" style="fill:#db3c30"/>
+ <path d="m8 27v15c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-15h-32z" style="fill:#e4e4e4"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" style="fill:#ffffff;opacity:.2"/>
+ <rect x="12" y="38" width="21" height="2" style="opacity:.5"/>
+ <rect x="12" y="34" width="17" height="2" style="opacity:.5"/>
+ <rect x="12" y="30" width="24" height="2" style="opacity:.5"/>
+ <path d="m7.5 17c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h1c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-1z" style="fill:#ffffff;opacity:.2"/>
+ <circle cx="36" cy="36" r="10" style="fill:#47bc4d"/>
+ <path d="M 45.979,36.414 A 10,10 0 0 1 36,46 10,10 0 0 1 26.021,36.586 10,10 0 0 0 26,37 10,10 0 0 0 36,47 10,10 0 0 0 46,37 10,10 0 0 0 45.979,36.414 Z" style="opacity:.2"/>
+ <circle cx="36" cy="36" r="2" style="fill:#ffffff"/>
+ <circle cx="30" cy="36" r="2" style="fill:#ffffff"/>
+ <circle cx="42" cy="36" r="2" style="fill:#ffffff"/>
+</svg>

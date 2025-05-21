@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <rect style="opacity:0.2" width="28" height="28" x="-31" y="-30" rx="14" ry="14" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#838383" width="28" height="28" x="-30" y="-30" rx="14" ry="14" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.4;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:2.25" d="M 7.9108538,19.945341 A 9,9 0 0 1 10.348332,8.9958118 9,9 0 0 1 21.565675,8.9272879 9,9 0 0 1 24.136743,19.846221"/>
+ <path style="fill:#ffffff;opacity:0.1" transform="matrix(0,-1,-1,0,0,0)" d="M -2 -16 C -2 -8.244 -8.244 -2 -16 -2 C -16.167694 -2 -16.333768 -2.0059288 -16.5 -2.0117188 C -8.9778267 -2.2737217 -3 -8.4116937 -3 -16 C -3 -23.588306 -8.9778267 -29.726278 -16.5 -29.988281 C -16.333768 -29.994071 -16.167694 -30 -16 -30 C -8.244 -30 -2 -23.756 -2 -16 z"/>
+ <path style="fill:#4f4f4f" d="M 16 1 A 1 1 0 0 0 15 2 L 13.121094 15.154297 L 13.121094 15.158203 A 3 3 0 0 0 13 16 A 3 3 0 0 0 16 19 A 3 3 0 0 0 19 16 A 3 3 0 0 0 18.880859 15.162109 L 17 2 A 1 1 0 0 0 16 1 z"/>
+ <rect style="opacity:0.2" width="12" height="9" x="19" y="23" rx="2" ry="2"/>
+ <rect style="fill:#4671e6" width="12" height="9" x="19" y="22" rx="2" ry="2"/>
+ <path style="fill:#ffffff" d="m 26,24 v 1 1 1 2 h 1 2 v -1 -2 -2 h -2 z m 1,1 h 1 v 2 1 h -1 v -1 -1 z"/>
+ <path style="fill:#ffffff" d="M 21 24 L 21 25 L 21 27 L 22 27 L 23 27 L 23 28 L 22 28 L 21 28 L 21 29 L 22 29 L 23 29 L 24 29 L 24 28 L 24 27 L 24 26 L 24 24 L 22 24 L 21 24 z M 22 25 L 23 25 L 23 26 L 22 26 L 22 25 z"/>
+</svg>

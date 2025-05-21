@@ -1,25 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <g style="fill:#8e8e8e" transform="translate(-1,-1)">
-  <rect width="1" height="19" x="15" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="13" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="11" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="9" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="17" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="19" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="7" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="5" y="-21" transform="rotate(90)"/>
-  <rect width="1" height="19" x="12" y="3"/>
-  <rect width="1" height="19" x="10" y="3"/>
-  <rect width="1" height="19" x="8" y="3"/>
-  <rect width="1" height="19" x="6" y="3"/>
-  <rect width="1" height="19" x="14" y="3"/>
-  <rect width="1" height="19" x="16" y="3"/>
-  <rect width="1" height="19" x="18" y="3"/>
-  <rect width="1" height="19" x="4" y="3"/>
- </g>
- <rect style="opacity:0.2" width="17" height="17" x="-20.5" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#00b7f8" width="17" height="17" x="-20" y="-19" rx=".944" ry=".944" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill-rule:evenodd" d="M 12.495257,5.5 7,12.5 H 9.354073 L 8.0047431,18.5 13.5,11.5 h -2.354073 z"/>
- <path style="fill:#ffffff;fill-rule:evenodd" d="M 12.495257,5 7,12 H 9.354073 L 8.0047431,18 13.5,11 h -2.354073 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 2.9453,3 C 2.4221,3 2,3.4221 2,3.9453 v 0.5 C 2,3.9221 2.4221,3.5 2.9453,3.5 H 18.055 C 18.578,3.5 19,3.9221 19,4.4453 v -0.5 C 19,3.4221 18.578,3 18.055,3 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <circle style="opacity:0.2" cx="10.5" cy="11" r="9.5"/>
+ <circle style="fill:#01ace5" cx="10.5" cy="10.5" r="9.5"/>
+ <path style="opacity:0.2" d="m 8,5.5 v 3 H 5 v 1 h 3 v 1 H 5 v 1 h 3 v 1 H 5 v 1 h 3 v 3 h 1 v -3 h 1 v 3 h 1 v -3 h 1 v 3 h 1 v -3 h 3 v -1 h -3 v -1 h 3 v -1 h -3 v -1 h 3 v -1 h -3 v -3 h -1 v 3 h -1 v -3 h -1 v 3 H 9 v -3 z m 1,4 h 1 v 1 H 9 Z m 2,0 h 1 v 1 h -1 z m -2,2 h 1 v 1 H 9 Z m 2,0 h 1 v 1 h -1 z"/>
+ <path style="fill:#ffffff" d="M 16,11 V 10 H 5 v 1 h 11"/>
+ <path style="fill:#ffffff" d="M 16,13 V 12 H 5 v 1 h 11"/>
+ <path style="fill:#ffffff" d="M 16,9 V 8 H 5 v 1 h 11"/>
+ <path style="fill:#ffffff" d="m 11,5 h -1 v 11 h 1 V 5"/>
+ <path style="fill:#ffffff" d="m 13,5 h -1 v 11 h 1 V 5"/>
+ <path style="fill:#ffffff" d="M 9,5 H 8 V 16 H 9 V 5"/>
+ <path style="opacity:0.1" d="M 13.857635,15.5 H 7.1422913 C 6.511385,15.5 6,14.98854 6,14.357708 V 7.64229 C 6,7.0113838 6.511385,6.4999986 7.1422913,6.4999986 H 13.857635 C 14.488543,6.4999986 15,7.0113838 15,7.64229 v 6.715418 C 15,14.98854 14.488543,15.5 13.857635,15.5"/>
+ <path style="fill:#515151" d="M 13.857635,15 H 7.1422913 C 6.511385,15 6,14.48854 6,13.857708 V 7.14229 C 6,6.5113838 6.511385,5.9999986 7.1422913,5.9999986 H 13.857635 C 14.488543,5.9999986 15,6.5113838 15,7.14229 v 6.715418 C 15,14.48854 14.488543,15 13.857635,15"/>
+ <path style="opacity:0.2" d="M 7.5,7.5 A 0.5,0.5 0 0 0 7,8 0.5,0.5 0 0 0 7.5,8.5 0.5,0.5 0 0 0 8,8 0.5,0.5 0 0 0 7.5,7.5 Z m 3.189453,1 L 9,11.509766 9.71875,11.480469 9.308594,13.5 11,10.490234 l -0.71875,0.0293 z"/>
+ <circle style="fill:#ffffff" cx="7.5" cy="7.5" r=".5"/>
+ <path style="fill:#ffffff" d="M 10.690429,8.0000072 8.9999997,11.010144 9.71875,10.979863 9.30957,13 11,9.989863 l -0.71875,0.03028 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 10.5,1 A 9.5,9.5 0 0 0 1,10.5 9.5,9.5 0 0 0 1.0175781,10.75 9.5,9.5 0 0 1 10.5,1.5 9.5,9.5 0 0 1 19.990234,10.628906 9.5,9.5 0 0 0 20,10.5 9.5,9.5 0 0 0 10.5,1 Z"/>
 </svg>

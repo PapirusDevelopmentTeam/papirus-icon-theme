@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="3" ry="3"/>
+ <rect style="fill:#e74c3c" width="20" height="20" x="2" y="2" rx="3" ry="3"/>
+ <g style="opacity:0.2" transform="translate(0,0.5)">
+  <rect width="1" height="2" x="16" y="11" rx=".25" ry=".25"/>
+  <rect width="1" height="4" x="14" y="10" rx=".25" ry=".25"/>
+  <rect width="1" height="6" x="12" y="9" rx=".25" ry=".25"/>
+  <rect width="1" height="8" x="10" y="8" rx=".25" ry=".25"/>
+  <rect width="1" height="10" x="8" y="7" rx=".25" ry=".25"/>
+  <path d="M 18.25,11 C 18.111,11 18,11.111 18,11.25 V 11.75 C 18,11.889 18.111,12 18.25,12 H 22 V 11 Z"/>
+  <path d="M 2,11 V 12 H 6.75 C 6.8885,12 7,11.889 7,11.75 V 11.25 C 7,11.111 6.8885,11 6.75,11 Z"/>
+  <path d="M 12,3 A 9,9 0 0 0 3,12 9,9 0 0 0 12,21 9,9 0 0 0 21,12 9,9 0 0 0 12,3 Z M 12,4 A 8,8 0 0 1 20,12 8,8 0 0 1 12,20 8,8 0 0 1 4,12 8,8 0 0 1 12,4 Z"/>
+ </g>
+ <rect style="fill:#e4e4e4" width="1" height="2" x="16" y="11" rx=".25" ry=".25"/>
+ <rect style="fill:#e4e4e4" width="1" height="4" x="14" y="10" rx=".25" ry=".25"/>
+ <rect style="fill:#e4e4e4" width="1" height="6" x="12" y="9" rx=".25" ry=".25"/>
+ <rect style="fill:#e4e4e4" width="1" height="8" x="10" y="8" rx=".25" ry=".25"/>
+ <rect style="fill:#e4e4e4" width="1" height="10" x="8" y="7" rx=".25" ry=".25"/>
+ <path style="fill:#e4e4e4" d="M 18.25 11 C 18.111 11 18 11.111 18 11.25 L 18 11.75 C 18 11.889 18.111 12 18.25 12 L 22 12 L 22 11 L 18.25 11 z"/>
+ <path style="fill:#e4e4e4" d="M 2 11 L 2 12 L 6.75 12 C 6.8885 12 7 11.889 7 11.75 L 7 11.25 C 7 11.111 6.8885 11 6.75 11 L 2 11 z"/>
+ <path style="fill:#e4e4e4" d="M 12 3 A 9 9 0 0 0 3 12 A 9 9 0 0 0 12 21 A 9 9 0 0 0 21 12 A 9 9 0 0 0 12 3 z M 12 4 A 8 8 0 0 1 20 12 A 8 8 0 0 1 12 20 A 8 8 0 0 1 4 12 A 8 8 0 0 1 12 4 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 5 2 C 3.338 2 2 3.338 2 5 L 2 5.5 C 2 3.838 3.338 2.5 5 2.5 L 19 2.5 C 20.662 2.5 22 3.838 22 5.5 L 22 5 C 22 3.338 20.662 2 19 2 L 5 2 z"/>
+</svg>
