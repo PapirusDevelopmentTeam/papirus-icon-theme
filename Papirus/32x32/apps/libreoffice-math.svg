@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path fill="#636e73" d="m27 28.5v-25c0-0.831-0.669-1.5-1.5-1.5h-19c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h19c0.831 0 1.5-0.669 1.5-1.5z"/>
- <path opacity=".1" d="m7 5v24h18v-15.586l-8.414-8.414h-9.586zm12.414 0 5.586 5.586v-5.586h-5.586z"/>
- <path fill="#f5f5f5" d="m7 4v24h18v-15.586l-8.414-8.414h-9.586zm12.414 0 5.586 5.5859v-5.5859h-5.586z"/>
- <path fill="#fff" opacity=".1" d="m6.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h19c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5z"/>
- <path opacity=".2" d="m5 28.5v1c0 0.831 0.669 1.5 1.5 1.5h19c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-19c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path style="opacity:0.5" d="m 14.613282,15 -0.09375,0.40625 -1.619141,7.894531 -1.249625,-4.252367 H 9 v 0.951172 h 1.947265 l 1.500001,4.949633 h 1.103516 L 15.425782,16 h 5.583984 v -1 z m 2.40625,3 2.5,3.5 -2.5,3.5 h 1 l 2,-2.789062 2,2.789062 h 1 l -2.5,-3.5 2.5,-3.5 h -1 l -2,2.789062 -2,-2.789062 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <path style="opacity:0.2" d="M 9,3 H 19 L 27,11 V 27 C 27,29.216 25.216,31 23,31 H 9 C 6.784,31 5,29.216 5,27 V 7 C 5,4.784 6.784,3 9,3 Z"/>
+ <path style="fill:#da477d" d="m 9,2 h 10 l 8,8 v 16 c 0,2.216 -1.784,4 -4,4 H 9 C 6.784,30 5,28.216 5,26 V 6 C 5,3.784 6.784,2 9,2 Z"/>
+ <path style="fill:#d12a67" d="m 21,2 h 6 v 6 z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 21,2 22,3 H 27 V 2 Z"/>
+ <g transform="scale(0.5)">
+  <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 41,51 H 47 M 29,51 H 35 M 17,51 H 23 M 17,37 H 20 L 23,43 30,27 H 47"/>
+  <path style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 44,34 36,42 M 36,34 44,42"/>
+  <path style="fill:none;stroke:#fca7b2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 44,32 36,40 M 36,32 44,40"/>
+  <path style="fill:none;stroke:#f8d3de;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 41,49 H 47 M 29,49 H 35 M 17,49 H 23 M 17,35 H 20 L 23,41 30,25 H 47"/>
+ </g>
+ <path style="fill:#ffffff;opacity:0.2" d="M 9 2 C 6.784 2 5 3.784 5 6 L 5 7 C 5 4.784 6.784 3 9 3 L 19 3 L 27 11 L 27 10 L 19 2 L 9 2 z"/>
 </svg>

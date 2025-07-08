@@ -1,24 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect style="fill:#8e8e8e" width="1" height="19" x="15" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="13" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="11" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="9" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="17" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="19" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="7" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="5" y="-21" transform="rotate(90)"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="11" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="9" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="7" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="5" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="13" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="15" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="17" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="3" y="3"/>
- <rect style="fill:#8e8e8e" width="1" height="19" x="19" y="3"/>
- <rect style="opacity:0.2" width="17" height="17" x="-21.5" y="-20" rx=".85" ry="1.063" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#b7b7b7" width="17" height="17" x="-21" y="-20" rx=".85" ry="1.063" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 4.0625,4 C 3.473875,4 3,4.3787094 3,4.8496094 v 0.5 C 3,4.8787094 3.473875,4.5 4.0625,4.5 h 14.875 C 19.526125,4.5 20,4.8787094 20,5.3496094 v -0.5 C 20,4.3787094 19.526125,4 18.9375,4 Z"/>
- <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 2.0142425,12.500199 H 8.5142491 L 10.51425,7.5001952 13.514248,17.500203 15.514249,12.500199 H 21.986"/>
- <path style="fill:none;stroke:#009688;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 2.0142425,12 H 8.5142491 L 10.51425,6.9999965 13.514248,17.000004 15.514249,12 H 21.986"/>
+ <path style="opacity:0.2" d="M 5.75,2.5 C 3.6725,2.5 2,4.1725 2,6.25 v 12.5 c 0,2.0775 1.6725,3.75 3.75,3.75 H 9 C 9,21.8075 9.5575,21 10.25,21 h 3.5 c 0.6925,0 1.25,0.8075 1.25,1.5 h 3.25 C 20.3275,22.5 22,20.8275 22,18.75 V 6.25 C 22,4.1725 20.3275,2.5 18.25,2.5 Z"/>
+ <path style="fill:#d4d4d4" d="M 5.75,2 C 3.6725,2 2,3.6725 2,5.75 v 12.5 C 2,20.3275 3.6725,22 5.75,22 H 9 c 0,-0.6925 0.5575,-1.5 1.25,-1.5 h 3.5 c 0.6925,0 1.25,0.8075 1.25,1.5 h 3.25 C 20.3275,22 22,20.3275 22,18.25 V 5.75 C 22,3.6725 20.3275,2 18.25,2 Z"/>
+ <rect style="opacity:0.1" width="16" height="16" x="4" y="4.5" ry="1.6"/>
+ <rect style="fill:#f4f4f4" width="16" height="16" x="4" y="4" ry="1.6"/>
+ <path style="opacity:0.1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 2,12.500249 h 7 l 2,-4.999999 2,9.999999 2,-5 h 7"/>
+ <path style="fill:none;stroke:#009688;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 2,11.999999 h 7 l 2,-4.9999985 2,9.9999985 2,-5 h 7"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 5.75,2 C 3.6725,2 2,3.6725 2,5.75 v 0.5 C 2,4.1725 3.6725,2.5 5.75,2.5 h 12.5 C 20.3275,2.5 22,4.1725 22,6.25 V 5.75 C 22,3.6725 20.3275,2 18.25,2 Z"/>
 </svg>

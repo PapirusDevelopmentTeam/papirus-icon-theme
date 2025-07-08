@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <path style="opacity:0.2" d="M 24,5 A 20,20 0 0 0 4,25 V 41 C 4,43.2 5.79,45 8,45 H 40 C 42.2,45 44,43.2 44,41 V 25 A 20,20 0 0 0 24,5 Z"/>
+ <path style="fill:#248afd" d="M 24,4 A 20,20 0 0 0 4,24 V 40 C 4,42.2 5.79,44 8,44 H 40 C 42.2,44 44,42.2 44,40 V 24 A 20,20 0 0 0 24,4 Z"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="24" cy="25" r="14"/>
+ <circle style="fill:#e4e4e4" cx="24" cy="24" r="14"/>
+ <path style="fill:none;stroke:#4f4f4f;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 30,26 V 30 M 18,26 V 30"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 18 24 C 16.9 24 16 24.9 16 26 L 16 27 C 16 25.9 16.9 25 18 25 C 19.1 25 20 25.9 20 27 L 20 26 C 20 24.9 19.1 24 18 24 z M 30 24 C 28.9 24 28 24.9 28 26 L 28 27 C 28 25.9 28.9 25 30 25 C 31.1 25 32 25.9 32 27 L 32 26 C 32 24.9 31.1 24 30 24 z"/>
+ <path style="opacity:0.1" d="M 24 10 A 14 14 0 0 0 10 24 A 14 14 0 0 0 10.035 24.5 A 14 14 0 0 1 24 11 A 14 14 0 0 1 37.98 24.279 A 14 14 0 0 0 38 24 A 14 14 0 0 0 24 10 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 24 4 A 20 20 0 0 0 4 24 L 4 25 A 20 20 0 0 1 24 5 A 20 20 0 0 1 44 25 L 44 24 A 20 20 0 0 0 24 4 z"/>
+</svg>

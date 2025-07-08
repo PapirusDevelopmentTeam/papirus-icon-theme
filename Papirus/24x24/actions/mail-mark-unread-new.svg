@@ -1,1 +1,7 @@
-mail-mark-unread.svg
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m6 6c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h11c-1.645 0-3-1.355-3-3s1.355-3 3-3 3 1.355 3 3v-7c0-1.108-0.892-2-2-2h-12zm0 2 6 3 6-3v2l-6 3-6-3v-2z" style="fill:currentColor"/>
+ <path class="ColorScheme-Highlight" d="m17 13a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="fill:currentColor"/>
+</svg>

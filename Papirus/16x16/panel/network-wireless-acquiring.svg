@@ -4,8 +4,6 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="3" cy="8" r="2"/>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="8" cy="8" r="2"/>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="13" cy="8" r="2"/>
- <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 8,2 C 4.9494,2 2.0806,3.0732 0,5 H 16 C 13.919,3.0731 11.051,2 8,2 Z M 5.334,11 8,14 10.666,11 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3 6 A 2 2 0 0 0 1 8 A 2 2 0 0 0 3 10 A 2 2 0 0 0 5 8 A 2 2 0 0 0 3 6 z M 8 6 A 2 2 0 0 0 6 8 A 2 2 0 0 0 8 10 A 2 2 0 0 0 10 8 A 2 2 0 0 0 8 6 z M 13 6 A 2 2 0 0 0 11 8 A 2 2 0 0 0 13 10 A 2 2 0 0 0 15 8 A 2 2 0 0 0 13 6 z"/>
+ <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 8 1 C 4.9 1 2.1 2.1 0 4 L 0.7 5 L 15.3 5 L 16 4 C 13.9 2.1 11.1 1 8 1 z M 5.1 11 L 8 15 L 10.9 11 L 5.1 11 z"/>
 </svg>

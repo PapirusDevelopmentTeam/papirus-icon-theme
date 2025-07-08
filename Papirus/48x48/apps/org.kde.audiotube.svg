@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="6" ry="6"/>
+ <rect style="fill:#e74c3c" width="40" height="40" x="4" y="4" rx="6" ry="6"/>
+ <rect style="opacity:0.2" width="2" height="4" x="31" y="23" rx=".5" ry=".5"/>
+ <rect style="opacity:0.2" width="2" height="8" x="27" y="21" rx=".5" ry=".5"/>
+ <rect style="opacity:0.2" width="2" height="12" x="23" y="19" rx=".5" ry=".5"/>
+ <rect style="opacity:0.2" width="2" height="16" x="19" y="17" rx=".5" ry=".5"/>
+ <rect style="opacity:0.2" width="2" height="20" x="15" y="15" rx=".5" ry=".5"/>
+ <path style="opacity:0.2" d="M 24,8 A 17,17 0 0 0 7,25 17,17 0 0 0 24,42 17,17 0 0 0 41,25 17,17 0 0 0 24,8 Z M 24,10 A 15,15 0 0 1 39,25 15,15 0 0 1 24,40 15,15 0 0 1 9,25 15,15 0 0 1 24,10 Z"/>
+ <path style="opacity:0.2" d="M 4,24 V 26 H 12.5 C 12.777,26 13,25.777 13,25.5 V 24.5 C 13,24.223 12.777,24 12.5,24 Z M 36.5,24 C 36.223,24 36,24.223 36,24.5 V 25.5 C 36,25.777 36.223,26 36.5,26 H 44 V 24 Z"/>
+ <rect style="fill:#e4e4e4" width="2" height="4" x="31" y="22" rx=".5" ry=".5"/>
+ <rect style="fill:#e4e4e4" width="2" height="8" x="27" y="20" rx=".5" ry=".5"/>
+ <rect style="fill:#e4e4e4" width="2" height="12" x="23" y="18" rx=".5" ry=".5"/>
+ <rect style="fill:#e4e4e4" width="2" height="16" x="19" y="16" rx=".5" ry=".5"/>
+ <rect style="fill:#e4e4e4" width="2" height="20" x="15" y="14" rx=".5" ry=".5"/>
+ <path style="fill:#e4e4e4" d="M 24 7 A 17 17 0 0 0 7 24 A 17 17 0 0 0 24 41 A 17 17 0 0 0 41 24 A 17 17 0 0 0 24 7 z M 24 9 A 15 15 0 0 1 39 24 A 15 15 0 0 1 24 39 A 15 15 0 0 1 9 24 A 15 15 0 0 1 24 9 z"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 10 4 C 6.676 4 4 6.676 4 10 L 4 11 C 4 7.676 6.676 5 10 5 L 38 5 C 41.324 5 44 7.676 44 11 L 44 10 C 44 6.676 41.324 4 38 4 L 10 4 z"/>
+ <path style="fill:#e4e4e4" d="M 4 23 L 4 25 L 12.5 25 C 12.777 25 13 24.777 13 24.5 L 13 23.5 C 13 23.223 12.777 23 12.5 23 L 4 23 z M 36.5 23 C 36.223 23 36 23.223 36 23.5 L 36 24.5 C 36 24.777 36.223 25 36.5 25 L 44 25 L 44 23 L 36.5 23 z"/>
+</svg>

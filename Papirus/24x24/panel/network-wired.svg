@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 5,5.0000002 c 0,0 -1,0 -1,1 V 16 c 0,1 1,1 1,1 h 2 l 1,1 h 7 l 1,-1 h 2 c 0,0 1,0.13 1,-1 V 6.0000002 c 0,-1 -1,-1 -1,-1 z m 1,2 H 7 V 8.9999998 H 8 V 7.0000002 h 1 v 1.9999996 h 1 V 7.0000002 h 1 v 1.9999996 h 1 V 7.0000002 h 1 v 1.9999996 h 1 V 7.0000002 h 1 v 1.9999996 h 1 V 7.0000002 h 1 V 15 h -2 l -1,1 H 9 L 8,15 H 6 Z"/>
+ <path class="ColorScheme-Text" d="m4 5s-1 0-1 1v11c0 1 1 1 1 1h3l1 1h7l1-1h3s1 0.13 1-1v-11c0-1-1-1-1-1zm1 2h1v1.9999996h1v-1.9999996h1v1.9999996h1v-1.9999996h1v1.9999996h1v-1.9999996h1v1.9999996h1v-1.9999996h1v1.9999996h1v-1.9999996h1v2h1v-2h1v9h-3l-1 1h-5l-1-1h-3z" style="fill:currentColor"/>
 </svg>

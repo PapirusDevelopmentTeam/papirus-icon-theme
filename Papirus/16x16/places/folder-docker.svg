@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11.939,7 C 11.545,7.467 11.395,8.014 11.385,8.604 11.345,9.001 11.538,9.337 11.666,9.693 L 10.775,10 H 1.5 C 1.0138,10 1,11 1,11 1,12.496 2.305,15 5.418,15 H 6.463 C 8.96,15.02 12,13 12.842,10.498 14,10.493 14.685,9.969 15,9.062 14.431,8.592 13.82,8.576 13.145,8.678 13.025,7.876 12.565,7.325 11.939,7 Z"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="8" y="7" rx=".5" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="5" y="7" rx=".5" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="2" y="7" rx=".5" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="5" y="4" rx=".5" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="8" y="4" rx=".5" ry=".5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="8" y="1" rx=".5" ry=".5"/>
+</svg>

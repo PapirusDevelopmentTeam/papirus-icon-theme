@@ -2,17 +2,18 @@
 #   gmake PREFIX=/usr/local install
 
 PREFIX ?= /usr
-ICON_THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
-IGNORE ?=
+ICON_THEMES ?= $(patsubst %/index.theme,%,$(wildcard */index.theme))
+EXCLUDE ?=
+CP_OPTS ?=
 
-# excludes IGNORE from ICON_THEMES list
-ICON_THEMES := $(filter-out $(IGNORE), $(ICON_THEMES))
+# exclude icon theme(s) from ICON_THEMES list
+ICON_THEMES := $(filter-out $(EXCLUDE), $(ICON_THEMES))
 
 all:
 
 install:
 	mkdir -p "$(DESTDIR)$(PREFIX)/share/icons"
-	cp -R $(ICON_THEMES) "$(DESTDIR)$(PREFIX)/share/icons"
+	cp -R $(CP_OPTS) -- $(ICON_THEMES) "$(DESTDIR)$(PREFIX)/share/icons"
 
 # skip building icon caches when packaging
 	$(if $(DESTDIR),,$(MAKE) $(ICON_THEMES))
@@ -53,22 +54,38 @@ test: test_short
 test-all: test_short test_long
 
 .PHONY: test_short
-test_short: test_renderer test_optimization test_svg_elems test_symlinks test_filenames
+test_short: test_rendering_glitches test_optimization test_svg_elems test_symlinks test_filenames test_decimal_size test_lengths_units
 
 .PHONY: test_long
 test_long: test_xml_struct
 
-.PHONY: test_renderer
-test_renderer:
-	# >>> Searching for icons with renderer bugs
+.PHONY: test_rendering_glitches
+test_rendering_glitches:
+	# >>> Searching for icons with rendering glitches
 	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e 'd="[a-zA-Z0-9 -.]+-\.[a-zA-Z0-9 -.]+"' \
 		-e 'd="[a-zA-Z0-9 -.]+\s\.[a-zA-Z0-9 -.]+"' \
 		$(ICON_THEMES)
 
+.PHONY: test_decimal_size
+test_decimal_size:
+	# >>> Detecting decimal numbers in width/height/viewBox attrs
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
+		-e '<svg[ ].*(width|height)="[0-9]+\.[0-9]*"' \
+		-e '<svg[ ].*viewBox="0 0 [0-9]+\.[0-9]+ [0-9]+(|\.[0-9]+)"' \
+		-e '<svg[ ].*viewBox="0 0 [0-9]+(|\.[0-9]+) [0-9]+\.[0-9]+"' \
+		$(ICON_THEMES)
+
+.PHONY: test_lengths_units
+test_lengths_units:
+	# >>> Detecting lengths units
+	@! LC_ALL=C grep -E -rl --include='*.svg' \
+		-e '<svg[ ].*(width|height|viewBox)="[0-9]+(|\.[0-9]*)[a-z]+' \
+		$(ICON_THEMES)
+
 .PHONY: test_optimization
 test_optimization:
-	# >>> Searching for unoptimized icons
+	# >>> Searching for non-optimized icons
 	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e '^<\?xml' \
 		$(ICON_THEMES)
@@ -88,13 +105,13 @@ test_symlinks:
 
 .PHONY: test_filenames
 test_filenames:
-	# >>> Searching for invalid filenames
+	# >>> Searching for invalid icon names
 	@LC_ALL=C find $(ICON_THEMES) -not -iregex '[-_/\.+@a-z0-9]+' -print \
 		-exec false '{}' +
 
 .PHONY: test_xml_struct
 test_xml_struct:
-	# >>> Searching for broken SVG icons
+	# >>> Searching for non-valid SVG files
 	@find $(ICON_THEMES) -type f -name '*.svg' \
 		-exec xmlstarlet validate --list-bad '{}' +
 

@@ -68,10 +68,12 @@
 	s/font-variant-ligatures:normal;//gI
 	s/font-variant-numeric:normal;//gI
 	s/font-variant-position:normal;//gI
+	s/font-variation-settings:normal;//gI
 	s/font-weight:normal;//gI
 	s/glyph-orientation-horizontal:0deg;//gI
 	s/glyph-orientation-vertical:auto;//gI
 	s/image-rendering:auto;//gI
+	s/inline-size:0;//gI
 	s/isolation:auto;//gI
 	s/kerning:auto;//gI
 	s/letter-spacing:normal;//gI
@@ -90,8 +92,9 @@
 	s/shape-inside:auto;//gI
 	s/shape-margin:0;//gI
 	s/shape-outside:auto;//gI
-	s/shape-padding:none;//gI
+	s/shape-padding:(0|none);//gI
 	s/shape-rendering:auto;//gI
+	s/shape-subtract:auto;//gI
 	s/solid-color:#000000;//gI
 	s/solid-opacity:1;//gI
 	s/stop-color:black;//gI
@@ -205,6 +208,7 @@
 		s/font-variant-numeric:[^;"]+;//gI
 		s/font-variant-position:[^;"]+;//gI
 		s/font-variant:[^;"]+;//gI
+		s/font-variation-settings:[^;"]+;//gI
 		s/font-weight:[^;"]+;//gI
 		s/glyph-orientation-horizontal:[^;"]+;//gI
 		s/glyph-orientation-vertical:[^;"]+;//gI

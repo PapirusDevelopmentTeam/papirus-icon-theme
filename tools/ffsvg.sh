@@ -37,7 +37,7 @@ _run_helpers() {
 		You have to install svgo or scour to use this script:
 
 		sudo npm install -g svgo
-		sudo apt-get install python-scour
+		sudo apt-get install scour
 
 		EOF
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="4.2" ry="4.2"/>
+ <rect style="fill:#e74c3c" width="28" height="28" x="2" y="2" rx="4.2" ry="4.2"/>
+ <g style="opacity:0.2" transform="translate(0,1)">
+  <rect width="2" height="2" x="21" y="15" rx=".5" ry=".25"/>
+  <rect width="2" height="6" x="18" y="13" rx=".5" ry=".75"/>
+  <rect width="2" height="8" x="15" y="12" rx=".5" ry=".5"/>
+  <rect width="2" height="12" x="12" y="10" rx=".5" ry=".375"/>
+  <rect width="2" height="14" x="9" y="9" rx=".5" ry=".35"/>
+  <path d="M 16,3.5 A 12.5,12.5 0 0 0 3.5,16 12.5,12.5 0 0 0 16,28.5 12.5,12.5 0 0 0 28.5,16 12.5,12.5 0 0 0 16,3.5 Z M 16,5 A 11,11 0 0 1 27,16 11,11 0 0 1 16,27 11,11 0 0 1 5,16 11,11 0 0 1 16,5 Z"/>
+  <path d="M 24.5,15 C 24.223,15 24,15.223 24,15.5 V 16.5 C 24,16.777 24.223,17 24.5,17 H 30 V 15 Z"/>
+  <path d="M 2,15 V 17 H 7.5 C 7.777,17 8,16.777 8,16.5 V 15.5 C 8,15.223 7.777,15 7.5,15 Z"/>
+ </g>
+ <rect style="fill:#e4e4e4" width="2" height="2" x="21" y="15" rx=".5" ry=".25"/>
+ <rect style="fill:#e4e4e4" width="2" height="6" x="18" y="13" rx=".5" ry=".75"/>
+ <rect style="fill:#e4e4e4" width="2" height="8" x="15" y="12" rx=".5" ry=".5"/>
+ <rect style="fill:#e4e4e4" width="2" height="12" x="12" y="10" rx=".5" ry=".375"/>
+ <rect style="fill:#e4e4e4" width="2" height="14" x="9" y="9" rx=".5" ry=".35"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 6.1992 2 C 3.8724 2 2 3.8724 2 6.1992 L 2 7.1992 C 2 4.8724 3.8724 3 6.1992 3 L 25.801 3 C 28.128 3 30 4.8724 30 7.1992 L 30 6.1992 C 30 3.8724 28.128 2 25.801 2 L 6.1992 2 z"/>
+ <path style="fill:#e4e4e4" d="M 16 4 A 12 12 0 0 0 4 16 A 12 12 0 0 0 16 28 A 12 12 0 0 0 28 16 A 12 12 0 0 0 16 4 z M 16 5 A 11 11 0 0 1 27 16 A 11 11 0 0 1 16 27 A 11 11 0 0 1 5 16 A 11 11 0 0 1 16 5 z"/>
+ <path style="fill:#e4e4e4" d="M 16 3.5 A 12.5 12.5 0 0 0 3.5 16 A 12.5 12.5 0 0 0 16 28.5 A 12.5 12.5 0 0 0 28.5 16 A 12.5 12.5 0 0 0 16 3.5 z M 16 5 A 11 11 0 0 1 27 16 A 11 11 0 0 1 16 27 A 11 11 0 0 1 5 16 A 11 11 0 0 1 16 5 z"/>
+ <path style="fill:#e4e4e4" d="M 24.5 15 C 24.223 15 24 15.223 24 15.5 L 24 16.5 C 24 16.777 24.223 17 24.5 17 L 30 17 L 30 15 L 24.5 15 z"/>
+ <path style="fill:#e4e4e4" d="M 2 15 L 2 17 L 7.5 17 C 7.777 17 8 16.777 8 16.5 L 8 15.5 C 8 15.223 7.777 15 7.5 15 L 2 15 z"/>
+</svg>

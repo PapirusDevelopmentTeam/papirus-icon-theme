@@ -1,25 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <g transform="translate(-1,1)">
-  <rect style="fill:#8e8e8e" width="1" height="19" x="14" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="12" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="10" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="8" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="16" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="18" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="6" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="4" y="-22" transform="rotate(90)"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="12" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="10" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="8" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="6" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="14" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="16" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="18" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="4" y="2"/>
-  <rect style="fill:#8e8e8e" width="1" height="19" x="20" y="2"/>
-  <rect style="opacity:0.2" width="17" height="17" x="-20.5" y="-21" rx=".85" ry="1.063" transform="matrix(0,-1,-1,0,0,0)"/>
-  <rect style="fill:#b7b7b7" width="17" height="17" x="-20" y="-21" rx=".85" ry="1.063" transform="matrix(0,-1,-1,0,0,0)"/>
-  <rect style="fill:#d13232" width="13" height="13" x="6" y="5" rx=".929" ry=".929"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 5.0625,3 C 4.473875,3 4,3.3787094 4,3.8496094 v 0.5 C 4,3.8787094 4.473875,3.5 5.0625,3.5 h 14.875 C 20.526125,3.5 21,3.8787094 21,4.3496094 v -0.5 C 21,3.3787094 20.526125,3 19.9375,3 Z"/>
- </g>
+ <path style="opacity:0.2" d="M 7.5,2.5 C 7.223,2.5 7,2.723 7,3 v 2.5 c -1.108,0 -2,0.892 -2,2 H 2.5 C 2.223,7.5 2,7.723 2,8 v 2 c 0,0.277 0.223,0.5 0.5,0.5 H 5 v 3 H 2.5 C 2.223,13.5 2,13.723 2,14 v 2 c 0,0.277 0.223,0.5 0.5,0.5 H 5 v 3 H 2.5 C 2.223,19.5 2,19.723 2,20 v 2 c 0,0.277 0.223,0.5 0.5,0.5 h 5 12.5 c 1.108,0 2,-0.892 2,-2 V 8 7.5 3 C 22,2.723 21.777,2.5 21.5,2.5 h -2 C 19.223,2.5 19,2.723 19,3 V 5.5 H 16 V 3 C 16,2.723 15.777,2.5 15.5,2.5 h -2 C 13.223,2.5 13,2.723 13,3 V 5.5 H 10 V 3 C 10,2.723 9.777,2.5 9.5,2.5 Z"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="19" y="2" ry=".5"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="13" y="2" ry=".5"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="7" y="2" ry=".5"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="-10" y="2" ry=".5" transform="rotate(-90)"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="-16" y="2" ry=".5" transform="rotate(-90)"/>
+ <rect style="fill:#b7b7b7" width="3" height="6" x="-22" y="2" ry=".5" transform="rotate(-90)"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 7.5,2 C 7.223,2 7,2.223 7,2.5 V 3 C 7,2.723 7.223,2.5 7.5,2.5 h 2 C 9.777,2.5 10,2.723 10,3 V 2.5 C 10,2.223 9.777,2 9.5,2 Z m 6,0 C 13.223,2 13,2.223 13,2.5 V 3 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 2 C 15.777,2.5 16,2.723 16,3 V 2.5 C 16,2.223 15.777,2 15.5,2 Z m 6,0 C 19.223,2 19,2.223 19,2.5 V 3 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 2 C 21.777,2.5 22,2.723 22,3 V 2.5 C 22,2.223 21.777,2 21.5,2 Z M 2.5,7 C 2.223,7 2,7.223 2,7.5 V 8 C 2,7.723 2.223,7.5 2.5,7.5 H 7 V 7 Z m 0,6 C 2.223,13 2,13.223 2,13.5 V 14 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 5 C 7.777,13.5 8,13.723 8,14 V 13.5 C 8,13.223 7.777,13 7.5,13 Z m 0,6 C 2.223,19 2,19.223 2,19.5 V 20 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 5 C 7.777,19.5 8,19.723 8,20 V 19.5 C 8,19.223 7.777,19 7.5,19 Z"/>
+ <rect style="fill:#4f4f4f" width="17" height="17" x="-22" y="-22" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round" d="m 10.499605,14.999127 c 0,0.5 0,0.5 -0.5000005,0.5 h -1 c -0.25,0 -0.5,0 -0.5,-0.5 v -3 c 0,-0.5 0,-0.5 0.5,-0.5 h 1 c 0.5000005,0 0.5000005,0 0.5000005,0.5"/>
+ <path style="fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round" d="m 12.499605,13.499127 h 1.5 c 0.5,0 0.5,0 0.5,-0.5 v -1 c 0,-0.5 0,-0.5 -0.5,-0.5 h -1.5 m 0,4 v -4"/>
+ <path style="fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round" d="m 18.499604,11.499127 v 3 c 0,0.5 0,1 -0.5,1 h -1 c -0.5,0 -0.5,-0.5 -0.5,-1 v -3"/>
 </svg>

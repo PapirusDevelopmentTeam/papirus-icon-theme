@@ -1,9 +1,9 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m2 0h12v6h-12z" style="fill:#b7b7b7"/>
- <rect y="6" width="16" height="10" rx=".80000001" ry=".833" style="fill:#4f4f4f"/>
- <path d="m8 7a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" style="fill:#0ad313"/>
- <rect x="6" y="10" width="4" height="2" style="fill:#0ad313"/>
- <rect x="7" y="9" width="2" height="4" style="fill:#0ad313"/>
- <rect x="3" y="2" width="3" height="2" style="opacity:.5"/>
- <rect x="10" y="2" width="3" height="2" style="opacity:.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#b7b7b7" width="12" height="7" x="2" y="0"/>
+ <rect style="fill:#4f4f4f" width="16" height="10" x="0" y="6" rx=".8" ry=".8"/>
+ <circle style="fill:#0ad313" cx="8" cy="10" r="6"/>
+ <rect style="fill:#ffffff" width="8" height="2" x="4" y="9"/>
+ <rect style="fill:#ffffff" width="2" height="8" x="7" y="6"/>
+ <rect style="opacity:0.5" width="3" height="2" x="3" y="2"/>
+ <rect style="opacity:0.5" width="3" height="2" x="10" y="2"/>
 </svg>

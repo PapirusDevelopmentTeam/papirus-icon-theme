@@ -8,16 +8,18 @@ readonly SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 readonly SOURCE_DIR="$SCRIPT_DIR/../.."
 
 case "$1" in
-	all)          CONTEXT_DIR="/"           ;;
-	actions|ac*)  CONTEXT_DIR="/actions/"   ;;
-	apps|ap*)     CONTEXT_DIR="/apps/"      ;;
-	devices|d*)   CONTEXT_DIR="/devices/"   ;;
-	emblems|emb*) CONTEXT_DIR="/emblems/"   ;;
-	emotes|emo*)  CONTEXT_DIR="/emotes/"    ;;
-	mimetypes|m*) CONTEXT_DIR="/mimetypes/" ;;
-	panel|pa*)    CONTEXT_DIR="/panel/"     ;;
-	places|pl*)   CONTEXT_DIR="/places/"    ;;
-	status|st*)   CONTEXT_DIR="/status/"    ;;
+	all)            CONTEXT_DIR=""           ;;
+	actions|ac*)    CONTEXT_DIR="actions"    ;;
+	animations|an*) CONTEXT_DIR="animations" ;;
+	apps|ap*)       CONTEXT_DIR="apps"       ;;
+	categories|ca*) CONTEXT_DIR="categories" ;;
+	devices|d*)     CONTEXT_DIR="devices"    ;;
+	emblems|emb*)   CONTEXT_DIR="emblems"    ;;
+	emotes|emo*)    CONTEXT_DIR="emotes"     ;;
+	mimetypes|m*)   CONTEXT_DIR="mimetypes"  ;;
+	panel|pa*)      CONTEXT_DIR="panel"      ;;
+	places|pl*)     CONTEXT_DIR="places"     ;;
+	status|st*)     CONTEXT_DIR="status"     ;;
 	*)
 		cat <<-EOF
 		This script copies icons from the main theme to the directory.
@@ -28,7 +30,9 @@ case "$1" in
 		  available contexts:
 		    all
 		    [ac]tions
+		    [an]imations
 		    [ap]ps
+		    [ca]tegories
 		    [d]evices
 		    [emb]lems
 		    [emo]tes
@@ -47,17 +51,18 @@ case "$1" in
 		;;
 esac
 
-find "$SOURCE_DIR/Papirus" -type f -name '*.svg' | grep "$CONTEXT_DIR" | \
-	grep -i "${2:?PATTERN not set!}" | while read -r file; do
+find "$SOURCE_DIR/Papirus" -type f -regextype posix-extended \
+	-iregex ".*/$CONTEXT_DIR/.*${2:?PATTERN not set!}.*" | \
+	while read -r file; do
 
-	src_dir=$(dirname "$file")
-	top_dir=$(dirname "$src_dir")
+	# Extract theme_dir, size_dir, symbolic_dir, context_dir, and icon name
+	if [[ $file =~ .*/([^/]+)/([0-9x@]+)(/symbolic)?/([^/]+)/([^/]+\.svg) ]]; then
+		theme_dir="${BASH_REMATCH[1]}"
+		size_dir="${BASH_REMATCH[2]}"
+		context_dir="${BASH_REMATCH[-2]}"
+		icon_name="${BASH_REMATCH[-1]%.svg}"
+	fi
 
-	base_dir=$(basename "$(dirname "$top_dir")")
-	size=$(basename "$top_dir")
-	context=$(basename "$src_dir")
-	filename=$(basename "$file" .svg)
-
-	mkdir -p "$SCRIPT_DIR/$base_dir/$context/"
-	cp -v "$file" "$SCRIPT_DIR/$base_dir/$context/$filename@$size.svg"
+	mkdir -p "$SCRIPT_DIR/$theme_dir/$context_dir/"
+	cp -v "$file" "$SCRIPT_DIR/$theme_dir/$context_dir/$icon_name@$size_dir.svg"
 done

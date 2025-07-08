@@ -25,7 +25,7 @@ cat <<- EOF
 EOF
 
 : "${DESTDIR:=/usr/share/icons}"
-: "${ICON_THEMES:=Papirus ePapirus ePapirus-Dark Papirus-Dark Papirus-Light}"
+: "${EXTRA_THEMES=Papirus-Dark Papirus-Light}"
 : "${TAG:=master}"
 : "${uninstall:=false}"
 
@@ -56,7 +56,8 @@ _download() {
 }
 
 _uninstall() {
-    eval set -- "$@"  # split args by space
+    # shellcheck disable=2068
+    set -- $@  # split args by space
 
     for theme in "$@"; do
         test -d "$DESTDIR/$theme" || continue
@@ -68,7 +69,8 @@ _uninstall() {
 _install() {
     _sudo mkdir -p "$DESTDIR"
 
-    eval set -- "$@"  # split args by space
+    # shellcheck disable=2068
+    set -- $@  # split args by space
 
     for theme in "$@"; do
         test -d "$temp_dir/$gh_repo-$TAG/$theme" || continue
@@ -101,8 +103,8 @@ temp_dir="$(mktemp -d)"
 
 if [ "$uninstall" = "false" ]; then
     _download
-    _uninstall "$ICON_THEMES"
-    _install "$ICON_THEMES"
+    _uninstall Papirus "$EXTRA_THEMES"
+    _install Papirus "$EXTRA_THEMES"
 else
-    _uninstall "$ICON_THEMES"
+    _uninstall Papirus "$EXTRA_THEMES"
 fi

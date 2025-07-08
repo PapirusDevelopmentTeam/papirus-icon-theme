@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <rect style="opacity:0.2" width="56" height="50" x="4" y="8" rx="2.8" ry="2.8"/>
+ <rect style="fill:#c0bfbc" width="56" height="13" x="4" y="7" rx="2.8" ry="2.8"/>
+ <path style="fill:#81d4fa" d="M 4,17 V 54.2 C 4,55.75 5.25,57 6.8,57 H 57.2 C 58.75,57 60,55.75 60,54.2 V 17 Z"/>
+ <rect style="opacity:0.1" width="56" height="1" x="4" y="17"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="47" cy="13" r="2"/>
+ <circle style="fill:#2e3436" cx="47" cy="12" r="2"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="54" cy="13" r="2"/>
+ <circle style="fill:#2e3436" cx="54" cy="12" r="2"/>
+ <circle style="opacity:0.2;fill:#ffffff" cx="40" cy="13" r="2"/>
+ <circle style="fill:#2e3436" cx="40" cy="12" r="2"/>
+ <rect opacity=".2" width="24" height="16" x="20" y="28" rx="1.5" ry="1.5"/>
+ <rect style="fill:#253951" width="24" height="4" x="20" y="27" rx="1.5" ry="1.5"/>
+ <path style="fill:#ffffff" d="M 20,30 V 41.5 C 20,42.33 20.67,43 21.5,43 H 42.5 C 43.33,43 44,42.33 44,41.5 V 30 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="M 6.8008,7 C 5.2496,7 4,8.2496 4,9.8008 V 10.801 C 4,9.2496 5.2496,8 6.8008,8 H 57.199 C 58.75,8 60,9.2496 60,10.801 V 9.8008 C 60,8.2496 58.75,7 57.199,7 Z"/>
+ <rect style="opacity:0.2" width="6" height="6" x="6" y="46" rx=".75" ry=".75"/>
+ <rect style="opacity:0.2" width="6" height="6" x="6" y="22" rx=".75" ry=".75"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="6" y="21" rx=".75" ry=".75"/>
+ <rect style="opacity:0.2" width="6" height="6" x="6" y="30" rx=".75" ry=".75"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="6" y="29" rx=".75" ry=".75"/>
+ <rect style="opacity:0.2" width="6" height="6" x="6" y="38" rx=".75" ry=".75"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="6" y="37" rx=".75" ry=".75"/>
+ <rect style="fill:#ffffff" width="6" height="6" x="6" y="45" rx=".75" ry=".75"/>
+ <g>
+  <circle style="opacity:0.2" cx="48" cy="47" r="16"/>
+  <circle style="fill:#607d8b" cx="48" cy="46" r="16"/>
+  <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 54,46 H 42 M 48,40 54,46 48,52"/>
+ </g>
+</svg>

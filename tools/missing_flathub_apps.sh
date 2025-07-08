@@ -4,6 +4,10 @@
 #
 # flatpak remote-add --user --if-not-exists \
 #     flathub https://flathub.org/repo/flathub.flatpakrepo
+#
+# and appstream info is updated:
+#
+# flatpak update --appstream flathub
 
 set -euo pipefail
 
@@ -52,17 +56,40 @@ IGNORED_APPS=(
 	radio.k0swe.Kel_Agent
 	se.emijoh.mpw
 	# apps with icons that do not match with App ID:
-	cat.xtec.clic.JClic
-	com.github.utsushi.Utsushi
-	com.wps.Office
-	net.openra.OpenRA
-	org.freeorion.FreeOrion
-	org.homelinuxserver.vance.biblereader
-	org.kde.kcolorchooser
-	org.kde.okteta
-	org.kde.kdiff3
-	org.libreoffice.LibreOffice
-	org.vranki.spectral
+	cat.xtec.clic.JClic  # cat.xtec.clic.JClic.{jclic,jclicauthor}
+	com.wps.Office  # com.wps.Office.{etmain,pdfmain,kprometheus,wppmain,wpsmain}
+	org.freeorion.FreeOrion  # freeorion
+	org.homelinuxserver.vance.biblereader  # org.homelinuxserver.vance.biblereader-symbolic
+	org.kde.kcolorchooser  # kcolorchooser
+	org.kde.kdiff3  # kdiff3
+	org.libreoffice.LibreOffice  # org.libreoffice.LibreOffice.{base,calc,draw,impress,math,startcenter,writer}
+	# ignore apps from Sugar Labs®
+	org.sugarlabs.AbacusActivity
+	org.sugarlabs.Chart
+	org.sugarlabs.Chess
+	org.sugarlabs.ColorDeducto
+	org.sugarlabs.Dimensions
+	org.sugarlabs.Finance
+	org.sugarlabs.FotoToon
+	org.sugarlabs.FractionBounce
+	org.sugarlabs.ImplodeActivity
+	org.sugarlabs.Maze
+	org.sugarlabs.Measure
+	org.sugarlabs.Memorize
+	org.sugarlabs.MusicBlocks
+	org.sugarlabs.MusicKeyboard
+	org.sugarlabs.Paint
+	org.sugarlabs.Physics
+	org.sugarlabs.Pippy
+	org.sugarlabs.Pukllanapac
+	org.sugarlabs.ReadETexts
+	org.sugarlabs.Sliderule
+	org.sugarlabs.SolarSystem
+	org.sugarlabs.Speak
+	org.sugarlabs.StoryActivity
+	org.sugarlabs.SwiftFeet
+	org.sugarlabs.TurtlePondActivity
+	org.sugarlabs.Words
 )
 
 flathub_apps_list="$(mktemp -u)"
@@ -83,9 +110,8 @@ while read -r app_id; do
 	[[ "${IGNORED_APPS[*]//$app_id/}" == "${IGNORED_APPS[*]}" ]] || continue
 	if [ -n "${MARKDOWN:-}" ]; then
 		# shellcheck disable=SC2016
-		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd> <kbd>[Google](%s)</kbd>\n' \
-			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id" \
-			"https://google.com/search?q=$app_id+source+code"
+		printf ' - [ ] `%s` <kbd>[GitHub](%s)</kbd> <kbd>[Flathub](%s)</kbd>\n' \
+			"$app_id" "https://github.com/flathub/$app_id" "https://flathub.org/apps/details/$app_id"
 	else
 		printf '%s\n' "$app_id"
 	fi

@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="fill:#325f78" width="56" height="56" x="4" y="4" rx="2.8" ry="2.8"/>
+ <rect style="fill:#1e88e5" width="56" height="56" x="4" y="4" rx="2.8" ry="2.8"/>
  <path style="opacity:0.1;fill:#ffffff" d="M 6.8007812,4 C 5.2496034,4 4,5.2495828 4,6.8002056 L 4,7.8 C 4,6.2493772 5.2496034,4.9997944 6.8007812,4.9997944 l 50.3984378,0 C 58.749197,4.9997944 60,6.2493772 60,7.8 L 60,6.8002056 C 60,5.2495828 58.749197,4 57.199219,4 L 6.8007812,4 Z"/>
  <path style="opacity:0.2" d="m 4,57.2 0,0.999795 C 4,59.749454 5.2504035,61 6.8007812,61 L 57.199219,61 C 58.749197,61 60,59.749454 60,58.199795 L 60,57.2 c 0,1.54966 -1.250803,2.800205 -2.800781,2.800205 l -50.3984378,0 C 5.2504035,60.000205 4,58.74966 4,57.2 Z"/>
- <g style="opacity:0.2" transform="matrix(1.9999714,0,0,2,5.72e-5,1)">
-  <rect width="6" height="6" x="5" y="5" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="13" y="5" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="5" y="13" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="13" y="13" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="5" y="21" rx=".75" ry=".75"/>
+ <g>
+  <rect style="opacity:0.2" width="12" height="12" x="10" y="11" rx="1.5" ry="1.5"/>
+  <rect style="opacity:0.2" width="12" height="12" x="26" y="11" rx="1.5" ry="1.5"/>
+  <rect style="opacity:0.2" width="12" height="12" x="10" y="27" rx="1.5" ry="1.5"/>
+  <rect style="opacity:0.2" width="12" height="12" x="26" y="27" rx="1.5" ry="1.5"/>
+  <rect style="opacity:0.2" width="12" height="12" x="10" y="43" rx="1.5" ry="1.5"/>
  </g>
- <g style="fill:#ffffff" transform="matrix(1.9999714,0,0,2,5.72e-5,1.146e-4)">
-  <rect width="6" height="6" x="5" y="5" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="13" y="5" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="5" y="13" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="13" y="13" rx=".75" ry=".75"/>
-  <rect width="6" height="6" x="5" y="21" rx=".75" ry=".75"/>
+ <g style="fill:#ffffff">
+  <rect style="fill:#ffffff" width="12" height="12" x="10" y="10" rx="1.5" ry="1.5"/>
+  <rect style="fill:#ffffff" width="12" height="12" x="26" y="10" rx="1.5" ry="1.5"/>
+  <rect style="fill:#ffffff" width="12" height="12" x="10" y="26" rx="1.5" ry="1.5"/>
+  <rect style="fill:#ffffff" width="12" height="12" x="26" y="26" rx="1.5" ry="1.5"/>
+  <rect style="fill:#ffffff" width="12" height="12" x="10" y="42" rx="1.5" ry="1.5"/>
  </g>
 </svg>

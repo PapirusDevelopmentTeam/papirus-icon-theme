@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
+ <g style="opacity:0.2" transform="matrix(2,0,0,2,0,1)">
+  <rect width="6" height="28" x="5" y="2" rx="1.8" ry="1.8"/>
+  <rect width="19" height="28" x="8" y="2" rx=".75" ry=".75"/>
+ </g>
+ <rect style="fill:#4e7bc0" width="12" height="56" x="10" y="4" rx="3.6" ry="3.6"/>
+ <path fill="#e9b064" d="M 38,4 V 32 L 42,28 46,32 V 4 Z"/>
+ <rect style="fill:#4e7bc0" width="38" height="56" x="16" y="4" rx="1.5" ry="1.5"/>
+ <path style="fill:#deddda" d="M 15.199,52 C 13.426,52 12,53.338 12,55 12,56.662 13.426,58 15.199,58 H 54 V 52 Z"/>
+ <rect style="opacity:0.1" width="24" height="16" x="20" y="17" rx="2.8" ry="2.8"/>
+ <rect style="fill:#deddda" width="24" height="16" x="20" y="16" rx="2.8" ry="2.8"/>
+ <path style="opacity:0.2" d="M 15.199 52 C 13.426 52 12 53.338 12 55 C 12 55.171 12.018 55.337 12.047 55.5 C 12.3 54.079 13.609 53 15.199 53 L 54 53 L 54 52 L 15.199 52 z"/>
+ <path style="fill:#ffffff;opacity:0.1" d="M 13.6 4 C 11.605 4 10 5.6052 10 7.5996 L 10 8.5996 C 10 6.6052 11.605 5 13.6 5 L 52.5 5 C 53.331 5 54 5.669 54 6.5 L 54 5.5 C 54 4.669 53.331 4 52.5 4 L 13.6 4 z"/>
+ <rect style="fill:#394f6d" width="6" height="58" x="41" y="3" rx="1" ry="1"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 42,3 C 41.446,3 41,3.446 41,4 V 5 C 41,4.446 41.446,4 42,4 H 46 C 46.554,4 47,4.446 47,5 V 4 C 47,3.446 46.554,3 46,3 Z"/>
+</svg>
