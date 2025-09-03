@@ -1,16 +1,14 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <circle transform="translate(-13,-13.25)" cx="24" cy="24.75" r="10" style="opacity:.2"/>
-  <circle transform="translate(-13,-13.25)" cx="24" cy="24.25" r="10" style="fill:#4f4f4f"/>
-  <path transform="translate(-13,-13.25)" d="m24 14.25a10 10 0 0 0-10 10 10 10 0 0 0 0.01075 0.291 10 10 0 0 1 9.98925-9.791 10 10 0 0 1 9.9895 9.709 10 10 0 0 0 0.0105-0.209 10 10 0 0 0-10-10z" style="fill:#ffffff;opacity:.2"/>
-  <path transform="matrix(.5 0 0 .5 -1 -1)" d="m12 23 12 12 12-12-12-12-2 2 10 10-8 8-8-8 4-4 4 4-2 2 2 2 4-4-8-8z" style="opacity:.2"/>
-  <path transform="matrix(.5 0 0 .5 -1 -1)" d="m12 22 12 12 12-12-12-12-2 2 10 10-8 8-8-8 4-4 4 4-2 2 2 2 4-4-8-8z" style="fill:#e4e4e4"/>
-  <path transform="matrix(.5 0 0 .5 -1 -1)" d="m24 10-2 2 0.5 0.5 1.5-1.5 11.5 11.5 0.5-0.5zm-4 4-8 8 0.5 0.5 7.5-7.5 7.5 7.5 0.5-0.5zm-3.5 8.5-0.5 0.5 8 8 8-8-0.5-0.5-7.5 7.5zm7 0-1.5 1.5 0.5 0.5 1.5-1.5z" style="fill:#ffffff;opacity:.2"/>
-  <circle transform="matrix(.5 0 0 .5 -1 -.5)" cx="13" cy="33" r="3" style="opacity:.2"/>
-  <circle transform="matrix(.5 0 0 .5 -1 -.5)" cx="13" cy="32" r="3" style="fill:#e62d2d"/>
-  <path transform="matrix(.5 0 0 .5 -1 -.5)" d="m 13,29 a 3,3 0 0 0 -3,3 3,3 0 0 0 0.04687,0.5 A 3,3 0 0 1 13,30 3,3 0 0 1 15.953125,32.5 3,3 0 0 0 16,32 3,3 0 0 0 13,29 Z" style="fill:#ffffff;opacity:.2"/>
-  <circle transform="matrix(.5 0 0 .5 10 -.5)" cx="13" cy="33" r="3" style="opacity:.2"/>
-  <circle transform="matrix(.5 0 0 .5 10 -.5)" cx="13" cy="32" r="3" style="fill:#e62d2d"/>
-  <path transform="matrix(.5 0 0 .5 10 -.5)" d="m 13,29 a 3,3 0 0 0 -3,3 3,3 0 0 0 0.04687,0.5 A 3,3 0 0 1 13,30 3,3 0 0 1 15.953125,32.5 3,3 0 0 0 16,32 3,3 0 0 0 13,29 Z" style="fill:#ffffff;opacity:.2"/>
- </g>
+ <circle transform="translate(-13,-13.25)" cx="24" cy="24.75" r="10" style="opacity:.2"/>
+ <circle transform="translate(-13,-13.25)" cx="24" cy="24.25" r="10" style="fill:#4f4f4f"/>
+ <path transform="translate(-13,-13.25)" d="m24 14.25a10 10 0 0 0-10 10 10 10 0 0 0 0.01075 0.291 10 10 0 0 1 9.98925-9.791 10 10 0 0 1 9.9895 9.709 10 10 0 0 0 0.0105-0.209 10 10 0 0 0-10-10z" style="fill:#ffffff;opacity:.2"/>
+ <path transform="matrix(.5 0 0 .5 -1 -1)" d="m12 23 12 12 12-12-12-12-2 2 10 10-8 8-8-8 4-4 4 4-2 2 2 2 4-4-8-8z" style="opacity:.2"/>
+ <path transform="matrix(.5 0 0 .5 -1 -1)" d="m12 22 12 12 12-12-12-12-2 2 10 10-8 8-8-8 4-4 4 4-2 2 2 2 4-4-8-8z" style="fill:#e4e4e4"/>
+ <path transform="matrix(.5 0 0 .5 -1 -1)" d="m24 10-2 2 0.5 0.5 1.5-1.5 11.5 11.5 0.5-0.5zm-4 4-8 8 0.5 0.5 7.5-7.5 7.5 7.5 0.5-0.5zm-3.5 8.5-0.5 0.5 8 8 8-8-0.5-0.5-7.5 7.5zm7 0-1.5 1.5 0.5 0.5 1.5-1.5z" style="fill:#ffffff;opacity:.2"/>
+ <circle transform="matrix(.5 0 0 .5 -1 -.5)" cx="13" cy="33" r="3" style="opacity:.2"/>
+ <circle transform="matrix(.5 0 0 .5 -1 -.5)" cx="13" cy="32" r="3" style="fill:#e62d2d"/>
+ <path transform="matrix(.5 0 0 .5 -1 -.5)" d="m 13,29 a 3,3 0 0 0 -3,3 3,3 0 0 0 0.04687,0.5 A 3,3 0 0 1 13,30 3,3 0 0 1 15.953125,32.5 3,3 0 0 0 16,32 3,3 0 0 0 13,29 Z" style="fill:#ffffff;opacity:.2"/>
+ <circle transform="matrix(.5 0 0 .5 10 -.5)" cx="13" cy="33" r="3" style="opacity:.2"/>
+ <circle transform="matrix(.5 0 0 .5 10 -.5)" cx="13" cy="32" r="3" style="fill:#e62d2d"/>
+ <path transform="matrix(.5 0 0 .5 10 -.5)" d="m 13,29 a 3,3 0 0 0 -3,3 3,3 0 0 0 0.04687,0.5 A 3,3 0 0 1 13,30 3,3 0 0 1 15.953125,32.5 3,3 0 0 0 16,32 3,3 0 0 0 13,29 Z" style="fill:#ffffff;opacity:.2"/>
 </svg>
