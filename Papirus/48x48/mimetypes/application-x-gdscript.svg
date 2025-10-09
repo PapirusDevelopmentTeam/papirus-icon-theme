@@ -1,0 +1,20 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m10 5c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-12-12z" style="opacity:.2"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-10-2-2-10z" style="fill:#3584e4"/>
+ <path d="m20 40c-6.983153-0.01245-8-4-8-5l3e-6 -10.020273-2-1.995946 2.5-3.492904 2.5 1.496959 2-1.995945v-2.993918l4-0.997973 1 1.995945h4l1-1.995945 4 0.997973v2.993918l2 1.995945 2.5-1.496959 2.5 3.492904-2 1.995946-3e-6 10.020273s0 5-8 5z" style="fill:#99c1f1"/>
+ <g style="fill:#3584e4">
+  <circle cx="18.000004" cy="27" r="3" style="fill:#3584e4"/>
+  <circle cx="30.000004" cy="27" r="3" style="fill:#3584e4"/>
+ </g>
+ <g style="fill:#99c1f1">
+  <circle cx="18" cy="27" r="1.5" style="fill:#99c1f1"/>
+  <circle cx="30" cy="27" r="1.5" style="fill:#99c1f1"/>
+ </g>
+ <g style="stroke:#3584e4">
+  <path d="m24.000468 27.000465v2.998808" style="fill:none;stroke-linecap:round;stroke-width:2.00093;stroke:#3584e4"/>
+  <path d="m36.000003 33.50035h-4.5v2h-5v-2.00035h-2.5m-12 3.5e-4h4.5v2h5v-2.00035h2.5" style="fill:none;stroke-linejoin:round;stroke:#3584e4"/>
+ </g>
+ <path d="m40 17-12-12v10c0 1.108 0.892 2 2 2z" style="opacity:.2"/>
+ <path d="m40 16-12-12v10c0 1.108 0.892 2 2 2z" style="fill:#62a0ea"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18v-1h-18z" style="fill:#ffffff;opacity:.2"/>
+</svg>
