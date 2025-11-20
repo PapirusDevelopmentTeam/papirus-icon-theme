@@ -1,0 +1,11 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="2.5" width="20" height="20" rx="6" ry="6" style="opacity:.2"/>
+ <rect x="2" y="2" width="20" height="20" rx="6" ry="6" style="fill:#e4e4e4"/>
+ <path d="m8 2c-3.324 0-6 2.676-6 6v0.5c0-3.324 2.676-6 6-6h8c3.324 0 6 2.676 6 6v-0.5c0-3.324-2.676-6-6-6z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m8.5 6a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5h7v-5z" style="fill:#ff8000"/>
+ <path d="m8.5 13v5h7a2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5z" style="fill:#aeaeae"/>
+ <path d="M 8.5,6 A 2.5,2.5 0 0 0 6,8.5 2.5,2.5 0 0 0 6.01367,8.7578125 2.5,2.5 0 0 1 8.5,6.5 h 7 V 6 Z m 0,7 v 0.5 h 7 A 2.5,2.5 0 0 1 17.986328,15.742188 2.5,2.5 0 0 0 18,15.5 2.5,2.5 0 0 0 15.5,13 Z" style="opacity:.1"/>
+ <path d="m15.5 6.5a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm-7 7a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5z" style="opacity:.2"/>
+ <circle cx="15.5" cy="8.5" r="2.5" style="fill:#ffffff"/>
+ <circle cx="8.5" cy="15.5" r="2.5" style="fill:#ffffff"/>
+</svg>
