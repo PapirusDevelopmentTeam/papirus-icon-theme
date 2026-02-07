@@ -24,7 +24,6 @@ Papirus icon theme is available in five variants:
 
  - [Installation](#installation)
     - [Ubuntu and derivatives](#ubuntu-and-derivatives)
-    - [Debian and derivatives](#debian-and-derivatives)
     - [Papirus Installer](#papirus-installer)
     - [Snap](#snap)
     - [Third-party packages](#third-party-packages)
@@ -58,17 +57,6 @@ or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ub
 
 > [!NOTE]
 > Now the daily builds of the papirus-icon-themes package are placed in [`ppa:papirus/papirus-dev`](https://launchpad.net/~papirus/+archive/ubuntu/papirus-dev).
-
-### Debian and derivatives
-
-Debian users can also install Papirus from our [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus), but the command line instructions differ:
-
-```sh
-sudo sh -c "echo 'deb http://ppa.launchpad.net/papirus/papirus/ubuntu jammy main' > /etc/apt/sources.list.d/papirus-ppa.list"
-sudo wget -qO /etc/apt/trusted.gpg.d/papirus-ppa.asc 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x9461999446FAF0DF770BFC9AE58A9D36647CAE7F'
-sudo apt-get update
-sudo apt-get install papirus-icon-theme
-```
 
 ### Papirus Installer
 
