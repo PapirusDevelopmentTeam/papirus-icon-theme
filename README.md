@@ -124,7 +124,6 @@ Please note that some packages in the list may be outdated, open [Repology](http
 | Arch Linux    | Felix Yan            | `sudo pacman -S papirus-icon-theme` <sup>extra</sup> |
 | Arch Linux    | Mark Wagie           | [papirus-icon-theme-git](https://aur.archlinux.org/packages/papirus-icon-theme-git/) <sup>AUR</sup> |
 | Debian 9+     | Yangfl               | `sudo apt install papirus-icon-theme` |
-| Debian        | only_vip             | [papirus-icon-theme](https://mpr.hunterwittenborn.com/packages/papirus-icon-theme/) <sup>MPR</sup> |
 | Fedora 27+    | Robert-André Mauchin | `sudo dnf install papirus-icon-theme` |
 | FreeBSD       | Hiroki Tagato        | [papirus-icon-theme](https://www.freshports.org/x11-themes/papirus-icon-theme) <sup>freshports</sup> |
 | Gentoo        | Marco Scardovi       | `sudo emerge -a papirus-icon-theme` |
