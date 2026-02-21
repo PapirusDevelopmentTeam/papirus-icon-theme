@@ -1,1 +1,7 @@
-aseprite.svg
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m2 2h12v13h-12z" style="fill:#ffffff"/>
+ <path d="m3 1v1h10v-1zm10 1v1h1v-1zm1 1v11h1v-11zm0 11h-1v1h1zm-1 1h-10v1h10zm-10 0v-1h-1v1zm-1-1v-11h-1v11zm0-11h1v-1h-1z" style="fill:#464a74"/>
+ <path d="m2 12v2h1v1h10v-1h1v-2h-1v1h-10v-1z" style="fill:#7176a9"/>
+ <path d="m2 1v1h1v-1zm0 1h-1v1h1zm11-1v1h1v-1zm1 1v1h1v-1zm-13 12v1h1v-1zm1 1v1h1v-1zm12-1v1h1v-1zm0 1h-1v1h1z" style="fill:#9095bc"/>
+ <path d="m4 5v1h2v-1h-2zm2 1v1h1v-1h-1zm-2 0h-1v1h1v-1zm6-1v1h2v-1h-2zm2 1v1h1v-1h-1zm-2 0h-1v1h1v-1zm-5 3v2h1v1h4v-1h1v-2h-1v1h-4v-1h-1z" style="fill:#464a74"/>
+</svg>

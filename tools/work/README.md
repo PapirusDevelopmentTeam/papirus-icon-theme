@@ -31,7 +31,7 @@ Inkscape is very widely available, and you should have no trouble finding it. If
 
 ### 1. Getting Started
 
-Open the `tools/work`folder in a file manager and open a terminal in that location. You can do that from the context menu entry `Open in Terminal` or `Action → Open Terminal Here`.
+Open the `tools/work` folder in a file manager and open a terminal in that location. You can do that from the context menu entry `Open in Terminal` or `Action → Open Terminal Here`.
 
 #### 1a. How to create a new icon
 
