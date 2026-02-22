@@ -1,21 +1,10 @@
 <svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
- <path d="m3 42v1h3v-1zm39 0v1h3v-1h-3zm-36 3v1h36v-1h-33z" style="opacity:.2"/>
- <rect x="6" y="6" width="36" height="36" style="fill:#ffffff"/>
- <path d="m9 3v3h30v-3zm30 3v3h3v-3zm3 3v30h3v-30zm0 30h-3v3h3zm-3 3h-30v3h30zm-30 0v-3h-3v3zm-3-3v-30h-3v30zm0-30h3v-3h-3z" style="fill:#464a74"/>
- <path d="m6 33v6h3v3h30v-3h3v-6h-3v3h-30v-3z" style="fill:#7176a9"/>
- <rect x="3" y="9" width="3" height="1" style="opacity:.2"/>
- <rect x="6" y="6" width="3" height="1" style="opacity:.2"/>
- <rect x="39" y="6" width="3" height="1" style="opacity:.2"/>
- <rect x="42" y="9" width="3" height="1" style="opacity:.2"/>
- <rect x="6" y="32.99" width="3" height="1" style="opacity:.2"/>
- <rect x="6" y="39" width="3" height="1" style="opacity:.2"/>
- <rect x="39" y="32.99" width="3" height="1" style="opacity:.2"/>
- <rect x="39" y="39" width="3" height="1" style="opacity:.2"/>
- <rect x="9" y="36" width="30" height="1" style="opacity:.2"/>
- <rect x="9" y="42" width="30" height="1" style="opacity:.2"/>
- <path d="m6 3v3h3v-3zm0 3h-3v3h3zm33-3v3h3v-3zm3 3v3h3v-3zm-39 33v3h3v-3zm3 3v3h3v-3zm36-3v3h3v-3zm0 3h-3v3h3z" style="fill:#9095bc"/>
- <path d="m6 3v1h36v-1h-33zm-3 3v1h3v-1zm39 0v1h3v-1h-3z" style="fill:#ffffff;opacity:.1"/>
- <path d="m3 39v1h3v-1h-3zm39 0v1h3v-1h-3zm-36 3v1h3v-1h-3zm33 0v1h3v-1h-3z" style="fill:#ffffff;opacity:.1"/>
- <path d="m12 13v3h6v-3zm6 3v3h3v-3zm-6 0h-3v3h3zm18-3v3h6v-3zm6 3v3h3v-3zm-6 0h-3v3h3zm-15 9v6h3v3h12v-3h3v-6h-3v3h-12v-3z" style="opacity:.2"/>
- <path d="m12 12v3h6v-3zm6 3v3h3v-3zm-6 0h-3v3h3zm18-3v3h6v-3zm6 3v3h3v-3zm-6 0h-3v3h3zm-15 9v6h3v3h12v-3h3v-6h-3v3h-12v-3z" style="fill:#464a74"/>
+ <path d="m12.5 5c-4.1290542 0-7.5 3.3709458-7.5 7.5v25c0 4.129054 3.3709458 7.5 7.5 7.5h23c4.129054 0 7.5-3.370946 7.5-7.5v-25c0-4.1290542-3.370946-7.5-7.5-7.5z" style="opacity:.2"/>
+ <path d="m12.5 4c-4.1290542 0-7.5 3.3709458-7.5 7.5v25c0 4.129054 3.3709458 7.5 7.5 7.5h23c4.129054 0 7.5-3.370946 7.5-7.5v-25c0-4.1290542-3.370946-7.5-7.5-7.5z" style="fill:#4c517e"/>
+ <path d="m40 32.5v5c0 2.518946-1.981054 4.5-4.5 4.5h-23c-2.518946 0-4.5-1.981054-4.5-4.5v-5z" style="opacity:.2"/>
+ <path d="m40 31.5v5c0 2.518946-1.981054 4.5-4.5 4.5h-23c-2.518946 0-4.5-1.981054-4.5-4.5v-5z" style="fill:#7282ae"/>
+ <path d="m12.5 8c-2.5189458 0-4.5 1.9810542-4.5 4.5v20c0 2.518946 1.9810542 4.5 4.5 4.5h23c2.518946 0 4.5-1.981054 4.5-4.5v-20c0-2.5189458-1.981054-4.5-4.5-4.5z" style="opacity:.2"/>
+ <path d="m12.5 7c-2.5189458 0-4.5 1.9810542-4.5 4.5v20c0 2.518946 1.9810542 4.5 4.5 4.5h23c2.518946 0 4.5-1.981054 4.5-4.5v-20c0-2.5189458-1.981054-4.5-4.5-4.5z" style="fill:#ffffff"/>
+ <path d="m12.5 4c-4.1290542 0-7.5 3.3709458-7.5 7.5v1c0-4.1290542 3.3709458-7.5 7.5-7.5h23c4.129054 0 7.5 3.3709458 7.5 7.5v-1c0-4.1290542-3.370946-7.5-7.5-7.5z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m13 15-2 2.720703v2.279297h1.5l1-2h5l1 2h1.5v-2l-2-3zm16 0-2 2.720703v2.279297h1.5l1-2h5l1 2h1.5v-2l-2-3zm-13 10v4l3 4h10l3-4v-4h-1.5l-2 3h-9l-2-3z" style="fill:#4c517e"/>
 </svg>
