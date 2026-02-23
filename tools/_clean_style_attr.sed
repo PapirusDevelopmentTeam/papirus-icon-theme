@@ -98,6 +98,7 @@
 	s/solid-color:#000000;//gI
 	s/solid-opacity:1;//gI
 	s/stop-color:black;//gI
+	s/stop-color:#000000;//gI
 	s/stop-opacity:1;//gI
 	s/stroke:none;//gI
 	s/stroke-dasharray:none;//gI
