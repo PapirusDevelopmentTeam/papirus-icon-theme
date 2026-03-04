@@ -1,0 +1,11 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="rotate(90)" x="5" y="-40" width="40" height="32" rx="2.859" ry="3.2" style="opacity:.2"/>
+ <rect transform="rotate(90)" x="4" y="-40" width="40" height="32" rx="2.859" ry="3.2" style="fill:#505050"/>
+ <rect x="12" y="9" width="24" height="32" rx="1" ry="1" style="opacity:.2"/>
+ <rect x="12" y="8" width="24" height="32" rx="1" ry="1" style="fill:#58c5f8"/>
+ <rect x="4" y="25" width="40" height="4" rx="1" ry="1" style="opacity:.2"/>
+ <path d="M 11.199219 4 C 9.4264182 4 8 5.275256 8 6.859375 L 8 7.859375 C 8 6.275256 9.4264182 5 11.199219 5 L 36.800781 5 C 38.573582 5 40 6.275256 40 7.859375 L 40 6.859375 C 40 5.275256 38.573582 4 36.800781 4 L 11.199219 4 z" style="fill:#ffffff;opacity:.1"/>
+ <rect x="4" y="24" width="40" height="4" rx="1" ry="1" style="fill:#9bff7c"/>
+ <path d="m13 8c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h22c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-22z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m5 24c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h38c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1h-38z" style="fill:#ffffff;opacity:.2"/>
+</svg>
