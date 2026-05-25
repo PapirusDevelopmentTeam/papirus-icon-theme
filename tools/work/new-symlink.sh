@@ -30,7 +30,7 @@ usage() {
 	Examples:
 	  $0 apps steam.svg com.valvesoftware.Steam.svg
 	  $0 panel indicator-cpufreq.svg cpu-frequency-indicator.svg
-	  $0 status ../devices/input-touchpad-symbolic.svg touchpad-enabled-symbolic.svg
+	  $0 status ../../devices/input-touchpad.svg touchpad-enabled-symbolic.svg
 	EOF
 
 	exit 2
