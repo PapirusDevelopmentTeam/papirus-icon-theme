@@ -49,8 +49,17 @@ _sudo() {
 
 _download() {
     _msg "Getting the latest version from GitHub ..."
-    wget -O "$temp_file" \
-        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$TAG.tar.gz"
+    url="https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$TAG.tar.gz"
+
+    if command -v wget >/dev/null 2>&1; then
+        wget -O "$temp_file" "$url"
+    elif command -v curl >/dev/null 2>&1; then
+        curl -L -o "$temp_file" "$url"
+    else
+        _msg "Error: neither 'wget' nor 'curl' is installed. Please install one of them and retry."
+        exit 1
+    fi
+
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }
