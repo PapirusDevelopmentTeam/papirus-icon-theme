@@ -1,6 +1,17 @@
 [Icon Theme]
 Name=Papirus-Dark
 Comment=Papirus icon theme for dark themes
+Comment[be]=Тэма значкоў Papirus для цёмных тэм
+Comment[cs]=Motiv ikon Papirus pro tmavé motivy
+Comment[de]=Papirus-Symbolthema für dunkle Designs
+Comment[es]=Tema de iconos Papirus para temas oscuros
+Comment[fr]=Thème d'icônes Papirus pour les thèmes sombres
+Comment[it]=Tema di icone Papirus per temi scuri
+Comment[pl]=Motyw ikon Papirus dla ciemnych motywów
+Comment[pt_BR]=Tema de ícones Papirus para temas escuros
+Comment[ru]=Тема значков Papirus для тёмных тем
+Comment[uk]=Тема піктограм Papirus для темних тем
+Comment[zh_CN]=适用于深色主题的 Papirus 图标主题
 Inherits=breeze-dark,hicolor
 
 Example=folder
